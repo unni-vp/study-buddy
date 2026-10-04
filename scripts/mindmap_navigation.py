@@ -18,5 +18,6 @@ def icon(slug):
         body='<path d="M90 70 35 30m55 40 55-40m-55 40-55 40m55-40 55 40" stroke="#25826c" stroke-width="7"/><g fill="#e6f1ed" stroke="#25826c" stroke-width="3"><circle cx="90" cy="70" r="24"/><circle cx="35" cy="30" r="17"/><circle cx="145" cy="30" r="17"/><circle cx="35" cy="110" r="17"/><circle cx="145" cy="110" r="17"/></g>'
     return '<svg viewBox="0 0 180 140" fill="none" aria-hidden="true">'+body+'</svg>'
 
-def card(href, title, thumbnail):
-    return f'<a class="mindmap-card" href="{escape(href,quote=True)}"><img class="mindmap-thumbnail" src="{escape(thumbnail,quote=True)}" alt="" width="200" height="150"><strong>{escape(title)}</strong><span class="map-arrow" aria-hidden="true">→</span></a>'
+def card(href, title, thumbnail, index=None):
+    trigger = f' data-mindmap-index="{index}"' if index is not None else ''
+    return f'<a class="mindmap-card" href="{escape(href,quote=True)}"{trigger}><img class="mindmap-thumbnail" src="{escape(thumbnail,quote=True)}" alt="" width="200" height="150"><strong>{escape(title)}</strong><span class="map-arrow" aria-hidden="true">→</span></a>'

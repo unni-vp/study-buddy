@@ -67,19 +67,19 @@ const fs = require('fs');
  await page.getByRole('button',{name:'Print all notes',exact:true}).waitFor();
  await page.getByRole('link',{name:'← All revision notes',exact:true}).click();
  await page.getByRole('link',{name:'← Back to topic'}).click();
- await page.getByRole('link',{name:'Mind maps',exact:true}).click();
- if(await page.locator('.mindmap-card').count()!==4)throw Error('Mind-map buttons missing');
- if(await page.locator('.mindmap-thumbnail').count()!==4)throw Error('Mind-map thumbnails missing');
- if(!await page.locator('.mindmap-thumbnail').evaluateAll(imgs=>imgs.every(i=>i.complete&&i.naturalWidth>0)))throw Error('Broken mind-map thumbnail');
- if(!await page.locator('.mindmap-card').evaluateAll(cards=>cards.every(c=>Math.abs(c.getBoundingClientRect().top-cards[0].getBoundingClientRect().top)<1)))throw Error('Desktop mind-map cards should fit four across');
+ await page.goto(await page.getByRole('link',{name:'Mind maps',exact:true}).evaluate(a=>a.href));
+ if(await page.locator('main .mindmap-card').count()!==7)throw Error('Mind-map buttons missing');
+ if(await page.locator('main .mindmap-thumbnail').count()!==7)throw Error('Mind-map thumbnails missing');
+ if(!await page.locator('main .mindmap-thumbnail').evaluateAll(imgs=>imgs.every(i=>i.complete&&i.naturalWidth>0)))throw Error('Broken mind-map thumbnail');
+ if(!await page.locator('main .mindmap-card').evaluateAll(cards=>cards.slice(0,4).every(c=>Math.abs(c.getBoundingClientRect().top-cards[0].getBoundingClientRect().top)<1)))throw Error('Desktop mind-map cards should fit four across');
  if(await page.locator('figure img').count()!==0)throw Error('Mind-map index still contains a scrolling gallery');
  await page.screenshot({path:'tmp/mindmap-index.png',fullPage:true});
- for(const title of ['Cells','Cell processes','Transport processes','Exchange surfaces']){
+ for(const title of ['Cell biology overview','Cells','Cell processes','Transport processes','Exchange surfaces','Microscopy','Culturing microorganisms']){
   await page.getByRole('link',{name:title,exact:true}).locator('img').click();
-  if(await page.locator('figure img').count()!==1)throw Error('A mind-map page must contain exactly one map');
-  if(!await page.locator('figure img').evaluateAll(imgs=>imgs.every(i=>i.complete&&i.naturalWidth>0)))throw Error('Broken map image');
+  await page.locator('#mindmap-dialog[open]').waitFor();
+  await page.waitForFunction(()=>document.getElementById('mindmap-full-image').naturalWidth===2400);
   await page.getByRole('heading',{name:title,exact:true}).waitFor();
-  await page.getByRole('link',{name:'← Back to mind maps'}).click();
+  await page.getByRole('button',{name:'Close mind map',exact:true}).click();
  }
  await page.setViewportSize({width:390,height:844});
  await page.goto(pathToFileURL(path.resolve('index.html')).href);
@@ -99,7 +99,7 @@ const fs = require('fs');
  await page.screenshot({path:'tmp/revision-section-mobile.png',fullPage:true});
  await page.goto(revisionIndex);
  await page.getByRole('link',{name:'← Back to topic'}).click();
- await page.getByRole('link',{name:'Mind maps',exact:true}).click();
+ await page.goto(await page.getByRole('link',{name:'Mind maps',exact:true}).evaluate(a=>a.href));
  if(await page.evaluate(()=>document.documentElement.scrollWidth>window.innerWidth))throw Error('Mobile map index overflow');
  await page.screenshot({path:'tmp/mindmap-index-mobile.png',fullPage:true});
  await page.getByRole('link',{name:'Cells',exact:true}).locator('img').click();

@@ -56,3 +56,58 @@ Project-wide prevention checks are recorded in AGENTS.md and RESOURCE_GUIDELINES
 - All 42 answers start collapsed. Bulk controls affect answer explanations and answer diagrams, while question wording and diagrams remain visible. Individual disclosures remain usable after either bulk action.
 - Browser checks passed on desktop and mobile, including repeated clicks, keyboard activation, all 42 answers, answer diagrams, print expansion and restoration of previous choices. Bulk controls are hidden in print.
 - Inspected both Q&A reader screenshots. Changes remain local and uncommitted.
+
+## Reference-style revision maps and full-screen viewer — 4 October 2026
+
+- Replaced the brief branch summaries with six complete visual revision sheets: Cells, Cell processes, Transport processes, Exchange surfaces, Microscopy and Culturing microorganisms. Each has a central title, eight compact bordered panels, highlighted keywords and concept-specific drawings. The attached image supplied layout only; none of its subject content was imported.
+- Reviewed AQA 8461 section 4.1 against the official local PDF (PDF pages 15–22) and the current AQA Cell biology webpage. map-coverage.json maps all twelve specification subsections, required practicals 1–3, practical evaluation and relevant maths to the sheets. No phase-name detail or unrelated organelles were imported from the reference.
+- Scientific review: DNA copying visibly creates joined copies before mitosis; separation has no intact nuclear envelope; each daughter cell has a matching complete set. Captions identify the simplified two-chromosome example. Root hair drawings have an extension and no chloroplasts; the meristem cue shows a growing tip. Transport drawings distinguish water and solute, net movement and respiration energy. SA:V cubes have a 1:3 side ratio; gas arrows end in alveolar air and blood respectively. Binary fission, colonies, taped plates and inhibition zones have separate illustrations.
+- SVG originals preserve sharp text and diagrams during zoom; PNG exports supply actual-map thumbnails. Editable panel content and accessible Markdown text versions are maintained alongside the drawing source. The broader resource builder now delegates standalone-map pages to the shared viewer builder.
+- Topic Mind maps opens a full-screen modal gallery. Thumbnails open one map in that modal. Fit, zoom in/out, actual size, mouse drag, touch/scroll panning, back-to-gallery, close/Escape, text version and printing are available. Background scrolling is locked; forward/reverse Tab wraps within the modal and closing restores the trigger's focus. Normal links and standalone pages remain usable without JavaScript.
+- Inspected all six map exports and the desktop/mobile modal screenshots. Local link verification passed across 112 HTML pages, including standalone map readers. Existing notes/navigation and 42-answer Q&A browser checks passed. The dedicated viewer check passed for all six maps, full viewport dimensions, fit/zoom/pan, focus and Escape, print isolation, mobile scrolling, no-script text fallback and locally hosted /study-buddy/ asset paths.
+- These changes remain local, uncommitted and unpublished. The new layout and viewer preferences are recorded in AGENTS.md and RESOURCE_GUIDELINES.md for future resources.
+
+## Combined overview and consistent reference format — 4 October 2026
+
+- Added Cell biology overview as the first thumbnail, preserving all six detailed maps. The overview connects eight sections to a yellow central theme: Cell structure, Specialised cells, Differentiation & stem cells, Microscopy, Culturing microorganisms, Chromosomes & mitosis, Diffusion & exchange, and Osmosis & active transport.
+- Applied the same numbered blue-bordered panels, blue heading ribbons, curved connections, yellow centre, highlighted key terms and biological illustrations to all seven maps. Detailed maps use a shorter canvas to avoid unnecessary empty space; their text is preserved.
+- Checked the overview against the official local specification, PDF pages 15–22. It includes the three practicals, magnification and unit conversions, bacterial population doubling, inhibition-zone area, SA:V and percentage mass change. The six detailed maps retain fuller methods and worked examples. Added overview coverage to map-coverage.json.
+- The reference supplies format only. No arbitrary light-microscope magnification ceiling, unnecessary mitosis phase names or new mandatory terminology were imported. Qualifiers such as some bacteria having plasmids and photosynthetic cells having chloroplasts are retained.
+- The overview cell-cycle drawing shows two chromosomes before copying, joined copies, matching sets separating without a nuclear envelope, and two matching daughter cells. Colours preserve chromosome identity. Its caption explicitly identifies the simplified example. Water/solute and diffusion/active-transport directions are unchanged.
+- Inspected all seven exports. Corrected central illustration/title overlap, wrapped long central titles and preserved DNA capitalisation. Fixed punctuation wrapping so a full stop cannot become a separate line after a highlighted term.
+- All 114 local HTML pages passed link checks. Website navigation and desktop/mobile layouts passed. The final dedicated viewer check passed all seven SVGs, full-screen dimensions, fitting, zoom/pan, focus/Escape, scroll locking, printing, mobile scrolling, no-JavaScript text fallbacks and /study-buddy/ hosted asset paths.
+- Preferences recorded in AGENTS.md and RESOURCE_GUIDELINES.md. All work remains local, uncommitted and unpublished.
+
+## Combined visual-relationship map — 4 October 2026
+
+- Redesigned only 00-cell-biology-overview following the latest reference: asymmetric section sizes, a central cloud title and coloured labelled links. Detailed maps remain on their existing renderer pending explicit user approval.
+- Added function-keyed organelle markers on animal/plant cells, a bacterial DNA-loop/plasmid drawing, adaptation illustrations alongside specialised-cell explanations, a resolution comparison, a clearly visible chromosome-copy/separation/daughter-cell sequence, particle models beside transport definitions, and an inhibition-zone diameter drawing with the area formula. Illustrations explain the adjacent content rather than filling reserved icon slots.
+- Retained all topic sections, all three practicals, maths, stem-cell sources/applications/risks, exchange adaptations and relevant qualifiers. Checked the official local PDF; layout reference does not override the specification. Source text remains available in the reader.
+- Reviewed complete export, chromosome close-up and browser viewer. Corrected overlapping row labels, branch-label clipping, bottom calculation clipping and empty space. Kept xylem lumen visually open, chromosome identity consistent, no nucleus around separating copies, membrane and particle legends explicit, and water movement dilute to concentrated.
+- Passed 114-page local link check and the full desktop/mobile viewer check, including fitting, zoom/pan, focus/Escape, print and no-JavaScript fallbacks. SHA-256 comparison confirms all 24 subtopic SVG, PNG, Markdown and standalone HTML files are byte-for-byte unchanged.
+- Saved requested Extra High reasoning preference in authoring instructions; this did not change the active turn's model setting. Changes remain local, uncommitted and unpublished.
+
+## Combined-map spacing correction — 4 October 2026
+
+- Reclaimed the large empty upper corridor: Cell structure is now wider and shallower, and Specialised cells sits alongside it with a 50 px gutter. Cell division starts higher and has a 1070 × 1230 px panel, compared with 860 × 1020 px previously. Its diagram and body text are larger, with clear paragraph gaps.
+- Paragraphs now flow from measured wrapped line counts; formula boxes grow to fit their text. Repositioned connector labels onto clear backgrounds in reserved gutters. Split labels and the two-line central title have sufficient line spacing.
+- Added a browser geometry check for actual rendered text, including nested SVG transforms. It caught and resolved two further bounding-box collisions (the central title and Xylem/phloem label). Final result: 672 text elements, no overlapping text and none outside its section border. Inspected the full export and desktop full-screen viewer.
+- Full-screen desktop/mobile, fit/zoom/pan, keyboard, print and offline/hosted-path browser checks passed; all 114 local HTML pages passed link verification. SHA-256 comparison confirms all 30 subtopic source/image/HTML map files and readers are unchanged from the start of this correction.
+- Only the combined map was changed. No commit, push or deployment was made.
+
+## Landscape mind maps — 4 October 2026
+
+- Applied the user-approved visual style to all six detailed maps and reflowed the combined overview into landscape for the full-screen website viewer. Retained the approved overview's section artwork, with changed positions and relationship routes.
+- Detailed maps use measured text, varied branch widths, highlighted terms and labelled concept illustrations. Kept all eight source panels per detailed map assigned exactly once. All seven editable Markdown text alternatives are byte-for-byte unchanged.
+- Preserved joined chromosome copies, separation into matching sets, water/solute legends, net-movement direction, size geometry and the diameter-to-radius calculation. Added a labelled slide preparation diagram and an illustrative osmosis graph.
+- Reviewed all seven exported images. Browser measurements pass for 3,165 rendered text elements: no text collisions, section overflow or canvas clipping. Bold subheadings use bold font metrics; scientific DNA capitalisation is retained.
+- Verification passed: scripts/check_landscape_mindmaps.cjs; scripts/check_mindmap_modal_browser.cjs (desktop/mobile, seven SVG maps, fit/zoom/pan, focus/Escape, print isolation, offline fallbacks and hosted asset paths); scripts/check_project_site.py (114 pages, local links and 73 topic folders).
+- Rebuilt standalone readers and the offline website. Saved the landscape preference in AGENTS.md and RESOURCE_GUIDELINES.md. No commit, push or deployment performed.
+
+## Spacing correction — 4 October 2026
+
+The earlier text-only layout check missed intersecting panel rectangles and cramped relationship corridors in the landscape overview. Repositioned the seven overview sections with wider gutters and independent connector routes. Expanded the Culturing microorganisms centre to two well-spaced lines with measured padding; moved the lower branches into spare canvas space. Content and diagrams are unchanged. The layout check now also verifies section/heading separation, central-title padding and sampled connector paths against panel interiors. All seven maps pass these checks. Changes remain local.
+
+## Consistent internal section padding — 4 October 2026
+
+Applied to all seven mind maps: larger side/bottom insets, clear heading-to-body separation, more subsection spacing, and wider section/central-title spacing across all detailed maps. Overview panels now contain independent heading and body groups with padded placement; biological artwork retains its proportions. Connector routes use clear corridors above/below the section rows. Browser checks now require at least 16 px body inset and 18 px heading/body separation at the native 2400 px export, and fail when either metadata group is missing. All seven pass. Full source content and editable text alternatives retained; no commit or push.

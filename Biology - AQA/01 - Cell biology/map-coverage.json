@@ -1,0 +1,188 @@
+{
+  "reviewed": "2026-10-04",
+  "qualification": "AQA 8461 Higher",
+  "local_source": "../00 - Specification/AQA-8461-specification.pdf",
+  "pdf_pages": "15–22",
+  "official_web_source": "https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/cell-biology",
+  "reference_image": "Layout only; no attached-image content used",
+  "sections": {
+    "4.1.1.1": {
+      "maps": [
+        "01-cells",
+        "05-microscopy"
+      ],
+      "coverage": [
+        "eukaryotes / prokaryotes",
+        "DNA loop and optional plasmids",
+        "relative cell size, orders of magnitude, standard form and unit prefixes"
+      ]
+    },
+    "4.1.1.2": {
+      "maps": [
+        "01-cells",
+        "05-microscopy"
+      ],
+      "coverage": [
+        "all named organelles and functions",
+        "plant/algal cellulose walls",
+        "draw and recognise cell structures",
+        "estimated relative size and area",
+        "required practical 1: observe, draw and label plant and animal cells with magnification scale"
+      ]
+    },
+    "4.1.1.3": {
+      "maps": [
+        "01-cells"
+      ],
+      "coverage": [
+        "sperm, nerve, muscle, root hair, xylem and phloem",
+        "apply structure → function to unfamiliar cells"
+      ]
+    },
+    "4.1.1.4": {
+      "maps": [
+        "01-cells"
+      ],
+      "coverage": [
+        "differentiation and its importance",
+        "early animal / lifelong plant differentiation",
+        "mature animal repair and replacement"
+      ]
+    },
+    "4.1.1.5": {
+      "maps": [
+        "05-microscopy"
+      ],
+      "coverage": [
+        "magnification versus resolution",
+        "electron microscopy and finer sub-cellular detail",
+        "image / actual size / magnification calculations",
+        "same units, standard form and scale bars"
+      ]
+    },
+    "4.1.1.6": {
+      "maps": [
+        "06-culturing-microorganisms"
+      ],
+      "coverage": [
+        "binary fission, growth conditions, broth and colonies",
+        "sterilise equipment/media/loop; tape, inversion and maximum 25°C",
+        "doubling and standard form",
+        "colony / clear-zone area πr²",
+        "required practical 2: antimicrobial substances, control, variables, measurement, repetition and interpretation"
+      ]
+    },
+    "4.1.2.1": {
+      "maps": [
+        "02-cell-processes"
+      ],
+      "coverage": [
+        "chromosomes made of DNA with many genes; normally paired"
+      ]
+    },
+    "4.1.2.2": {
+      "maps": [
+        "02-cell-processes"
+      ],
+      "coverage": [
+        "growth and increased structures",
+        "DNA replication before mitosis",
+        "separation, nuclear division and cytoplasm/membrane division",
+        "identical daughter cells, conserved number, growth/development/repair"
+      ]
+    },
+    "4.1.2.3": {
+      "maps": [
+        "02-cell-processes"
+      ],
+      "coverage": [
+        "stem-cell definition and sources",
+        "embryo, bone marrow and meristems",
+        "potential diabetes/paralysis treatments",
+        "therapeutic cloning and matching genes",
+        "viral infection, ethics/religion and balanced evaluation",
+        "plant cloning for conservation and useful crops"
+      ]
+    },
+    "4.1.3.1": {
+      "maps": [
+        "03-transport-processes",
+        "04-exchange-surfaces"
+      ],
+      "coverage": [
+        "diffusion definition, gas exchange and urea example",
+        "gradient, temperature and membrane area effects",
+        "SA:V calculations and organism scale",
+        "exchange surface / transport system need",
+        "alveoli, small intestine, gills, roots and leaves",
+        "area, thin barrier, blood supply and ventilation"
+      ]
+    },
+    "4.1.3.2": {
+      "maps": [
+        "03-transport-processes"
+      ],
+      "coverage": [
+        "water, dilute → concentrated, partially permeable membrane",
+        "water gain/loss and no net movement",
+        "required practical 3: concentration and plant tissue mass",
+        "percentage gain/loss and rate units",
+        "plot, interpret and estimate zero crossing",
+        "controls, blotting, repeats and evaluation"
+      ]
+    },
+    "4.1.3.3": {
+      "maps": [
+        "03-transport-processes"
+      ],
+      "coverage": [
+        "low → high against gradient; respiration energy",
+        "root mineral uptake and gut sugar uptake",
+        "compare all three transport processes"
+      ]
+    }
+  },
+  "combined_overview": {
+    "map": "00-cell-biology-overview",
+    "scope": "Concise overview of all twelve specification subsections; six detailed maps retain worked examples and fuller methods.",
+    "sections": [
+      "4.1.1.1",
+      "4.1.1.2",
+      "4.1.1.3",
+      "4.1.1.4",
+      "4.1.1.5",
+      "4.1.1.6",
+      "4.1.2.1",
+      "4.1.2.2",
+      "4.1.2.3",
+      "4.1.3.1",
+      "4.1.3.2",
+      "4.1.3.3"
+    ],
+    "panels": [
+      "Cell structure",
+      "Specialised cells",
+      "Differentiation & stem cells",
+      "Microscopy",
+      "Culturing microorganisms",
+      "Chromosomes & mitosis",
+      "Diffusion & exchange",
+      "Osmosis & active transport"
+    ],
+    "checks": [
+      "All three practicals included",
+      "Zone area πr² explicitly required in 4.1.1.6",
+      "Same core terminology as revision notes",
+      "No arbitrary microscope magnification limits or mitosis phase names",
+      "DNA copies and matching chromosome sets visibly shown"
+    ],
+    "presentation": "Landscape reflow of the approved illustrated panels. Six detailed maps use measured landscape branches, highlighted terms, labelled biological diagrams and retained full source content.",
+    "approval_status": "User approved applying the visual style to all six detailed maps; landscape requested for screen viewing."
+  },
+  "landscape_layout": {
+    "orientation": "landscape",
+    "source_content_preserved": true,
+    "renderer": "scripts/landscape_mindmaps.py",
+    "layout_check": "scripts/check_landscape_mindmaps.cjs"
+  }
+}

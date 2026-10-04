@@ -23,12 +23,8 @@ source=TOPIC/'Revision Notes'/'Cell Biology - Revision Notes.md'
 body=render_md(source.read_text(encoding='utf-8'))
 page=f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cell biology revision notes · {SITE_TITLE}</title><style>{css}</style></head><body><main>{body}</main></body></html>'
 (source.with_suffix('.html')).write_text(page,encoding='utf-8')
-map_index='Cell Biology - Mind Maps.html'
-gallery='<h1>Cell biology mind maps</h1><div class="mindmap-grid">'+''.join(mindmap_card(p.stem+'.html',m[1],p.name) for m,p in zip(maps,paths))+'</div>'
-(MAPS/map_index).write_text(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cell biology mind maps · {SITE_TITLE}</title><style>{css}{mindmap_css}</style></head><body><main>{gallery}</main></body></html>',encoding='utf-8')
-for m,p in zip(maps,paths):
- title=html.escape(m[1])
- content=f'<nav><a href="Cell%20Biology%20-%20Mind%20Maps.html">← Back to mind maps</a></nav><h1>{title}</h1><figure class="mindmap-view"><img src="{p.name}" alt="{title} mind map"></figure>'
- (MAPS/(p.stem+'.html')).write_text(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} mind map · {SITE_TITLE}</title><style>{css}{mindmap_css}</style></head><body><main>{content}</main></body></html>',encoding='utf-8')
+from build_cell_biology_mindmap_pages import build_standalone_pages
+build_standalone_pages(paths)
+
 p=TOPIC/'README.md'; t=p.read_text(encoding='utf-8').replace('Resources have not yet been authored. Follow the project AGENTS.md and RESOURCE_GUIDELINES.md.','## Available resources\n\n- [Printable revision notes with mind maps](Revision%20Notes/Cell%20Biology%20-%20Revision%20Notes.html)\n- [Editable revision notes](Revision%20Notes/Cell%20Biology%20-%20Revision%20Notes.md)\n- [Focused visual mind maps](Mind%20Maps/Cell%20Biology%20-%20Mind%20Maps.html)\n\nCovers 4.1.1.1–4.1.3.3 and required practicals 1–3.');p.write_text(t,encoding='utf-8')
-print('Created printable HTML notes, editable Markdown notes and four grouped branching mind maps.')
+print('Created printable HTML notes, editable Markdown notes and one combined overview and six detailed visual revision maps.')

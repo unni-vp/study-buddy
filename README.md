@@ -28,7 +28,7 @@ Topics without resources are marked Not yet prepared. Cell biology has 42 practi
 - `00 - Specification` contains the complete official PDF and a searchable .txt extraction.
 - Numbered main-topic folders contain places for notes, mind maps and combined questions with answers.
 - The PDF is authoritative: text extraction can lose tables, superscripts and symbols.
-- Biology 4.1 Cell biology now has revision notes, four visual mind maps and combined questions with answers. Other topic folders are ready for resource creation.
+- Biology 4.1 Cell biology now has revision notes, one combined overview and six detailed visual revision maps with a full-screen viewer and combined questions with answers. Other topic folders are ready for resource creation.
 
 ## Project instructions
 

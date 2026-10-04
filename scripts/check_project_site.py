@@ -16,6 +16,7 @@ class Links(HTMLParser):
    target=(self.page.parent/unquote(parts.path)).resolve()
    if not target.exists():failures.append((str(self.page.relative_to(ROOT)),url))
 pages=[ROOT/'index.html']+list(ROOT.glob('* - */index.html'))+list(ROOT.glob('* - */[0-9][0-9] - */index.html'))+list((ROOT/'library'/'resources').glob('*.html'))
+pages+=list(ROOT.glob('* - */[0-9][0-9] - */Mind Maps/*.html'))
 for page in pages:Links(page).feed(page.read_text(encoding='utf-8'))
 config=json.loads((ROOT/'project-config.json').read_text())
 for name,subject in config['subjects'].items():

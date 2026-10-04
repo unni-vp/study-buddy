@@ -5,6 +5,8 @@ from html import escape as esc
 import hashlib, json, os, re
 from html_utils import render_md
 from mindmap_navigation import card as mindmap_card
+from mindmap_viewer import viewer_markup
+MAP_CATALOGS={}
 from revision_navigation import build_revision_pages
 from qa_navigation import build_qa_pages
 
@@ -42,13 +44,15 @@ def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def short(s):return s.split(' - ')[0]
 def write(page,title,content,crumbs=[],subject=None):
  css=link(page,SITE/'style.css')
+ viewer=viewer_markup(page,MAP_CATALOGS[page],link) if page in MAP_CATALOGS else ''
+ viewer_assets=(f'<link rel="stylesheet" href="{link(page,SITE/"mindmaps.css")}"><script defer src="{link(page,SITE/"mindmaps.js")}"></script>') if viewer else ''
  side=''.join(f'<a class="{"selected" if s==subject else ""}" href="{link(page,ROOT/s/"index.html")}">{esc(short(s))}</a>' for s in subjects)
  breadcrumb='<a href="'+link(page,ROOT/'index.html')+'">Subjects</a>'+''.join(f'<span aria-hidden="true"> / </span><a href="{link(page,p)}">{esc(label)}</a>' for label,p in crumbs)
  breadcrumb_html='' if page.name=='index.html' and (page.parent==ROOT or page.parent.name in subjects) else '<nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'</nav>'
  page.parent.mkdir(parents=True,exist_ok=True)
  page_title=SITE_TITLE if page==ROOT/'index.html' else title+' · '+SITE_TITLE
  page_class='home-page' if page==ROOT/'index.html' else 'inner-page'
- page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}"></head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>''',encoding='utf-8')
+ page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
 
 def resource_reader(source,subject,topic,topicpage):
  key=hashlib.sha1(str(source.relative_to(ROOT)).encode()).hexdigest()[:12]
@@ -80,12 +84,22 @@ def resources(folder,subject,topic,topicpage,kind):
   images=sorted(folder.glob('*.png'))
   if images:
    target=READERS/(slug(subject+'-'+topic)+'-mind-maps.html')
-   cards=[]
+   catalog=[]
    for p in images:
     title=p.stem.split('-',1)[-1].replace('-',' ').capitalize()
     mappage=READERS/(slug(subject+'-'+topic)+'-'+p.stem+'.html')
-    write(mappage,title+' mind map',f'<div class="reader-tools"><a href="{link(mappage,target)}">← Back to mind maps</a><button onclick="window.print()">Print</button></div><h1>{esc(title)}</h1><figure class="mindmap-view"><img src="{link(mappage,p)}" alt="{esc(title)} mind map"></figure>',[(short(subject),ROOT/subject/'index.html'),(topic,topicpage),('Mind maps',target)],subject)
-    cards.append(mindmap_card(link(target,mappage),title,link(target,p)))
+    catalog.append({'title':title,'image':p.with_suffix('.svg') if p.with_suffix('.svg').exists() else p,'thumbnail':p,'page':mappage})
+   MAP_CATALOGS[topicpage]=catalog
+   MAP_CATALOGS[target]=catalog
+   cards=[]
+   for i,item in enumerate(catalog):
+    p=item['thumbnail'];title=item['title'];mappage=item['page']
+    MAP_CATALOGS[mappage]=catalog
+    text_source=p.with_suffix('.md')
+    text_version=('<details class="mindmap-text" id="text-version"><summary>Text version</summary><article class="reading">'+render_md(text_source.read_text(encoding='utf-8'))+'</article></details>') if text_source.exists() else ''
+    content=f'<div class="reader-tools"><a href="{link(mappage,target)}">← Back to mind maps</a><button onclick="window.print()">Print</button></div><h1>{esc(title)}</h1><button type="button" class="mindmap-open" data-mindmap-index="{i}">Open full screen</button><figure class="mindmap-view"><img src="{link(mappage,item["image"])}" alt="{esc(title)} revision map"></figure>'+text_version
+    write(mappage,title+' mind map',content,[(short(subject),ROOT/subject/'index.html'),(topic,topicpage),('Mind maps',target)],subject)
+    cards.append(mindmap_card(link(target,mappage),title,link(target,p),i))
    write(target,topic+' mind maps',f'<div class="reader-tools"><a href="{link(target,topicpage)}">← Back to topic</a></div><h1>{esc(topic)} mind maps</h1><div class="mindmap-grid">'+''.join(cards)+'</div>',[(short(subject),ROOT/subject/'index.html'),(topic,topicpage)],subject)
    return [(target,f'{len(images)} visual mind maps')]
  found=[]
@@ -111,7 +125,8 @@ for subject,course in subjects.items():
      target=READERS/(slug(subject+'-'+title+'-'+kind)+'-index.html')
      choices='<ul class="resources">'+''.join(f'<li><a href="{link(target,p)}">{esc(t)}</a></li>' for p,t in items)+'</ul>'
      write(target,title+' '+label.lower(),f'<div class="reader-tools"><a href="{link(target,page)}">← Back to topic</a></div><h1>{esc(label)}</h1>'+choices,[(short(subject),subjectpage),(title,page)],subject)
-    sections.append(f'<a class="resource-button" href="{link(page,target)}">{resource_icon(kind)}<span>{esc(label)}</span></a>')
+    map_trigger=' data-mindmap-gallery' if kind=='Mind Maps' else ''
+    sections.append(f'<a class="resource-button" href="{link(page,target)}"{map_trigger}>{resource_icon(kind)}<span>{esc(label)}</span></a>')
    else:sections.append(f'<button class="resource-button" disabled title="Not yet prepared">{resource_icon(kind)}<span>{esc(label)}</span></button>')
   write(page,title,f'<p class="eyebrow">{esc(short(subject))} · {esc(course["tier"])}</p><h1>{esc(title)}</h1><div class="resource-actions">'+''.join(sections)+'</div>',[(short(subject),subjectpage)],subject)
   ready+=bool(count)
