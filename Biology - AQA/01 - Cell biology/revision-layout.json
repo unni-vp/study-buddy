@@ -1,0 +1,135 @@
+{
+  "source": "Cell Biology - Revision Notes.md",
+  "groups": [
+    {
+      "id": "cells",
+      "title": "Cells",
+      "icon": "cells",
+      "description": "Structures, specialised cells and microscopy",
+      "sections": [
+        {
+          "heading": "1. Cell types and structures"
+        },
+        {
+          "heading": "2. Specialisation and differentiation"
+        },
+        {
+          "heading": "3. Microscopy and size calculations",
+          "exclude": [
+            "Required practical 1: observe, draw and label cells"
+          ]
+        }
+      ],
+      "maps": [
+        "01-cells"
+      ],
+      "related": [
+        "practical-investigations"
+      ]
+    },
+    {
+      "id": "cell-processes",
+      "title": "Cell processes",
+      "icon": "cell-processes",
+      "description": "Mitosis, growth and stem cells",
+      "sections": [
+        {
+          "heading": "5. Chromosomes, mitosis and the cell cycle"
+        },
+        {
+          "heading": "6. Stem cells"
+        }
+      ],
+      "maps": [
+        "02-cell-processes"
+      ],
+      "related": []
+    },
+    {
+      "id": "transport",
+      "title": "Transport",
+      "icon": "transport",
+      "description": "Movement into and out of cells",
+      "sections": [
+        {
+          "heading": "7. Diffusion, osmosis and active transport",
+          "intro_only": true
+        },
+        {
+          "heading": "The three processes side by side"
+        },
+        {
+          "heading": "Diffusion"
+        },
+        {
+          "heading": "Osmosis"
+        },
+        {
+          "heading": "Active transport"
+        },
+        {
+          "heading": "8. Exchange surfaces and surface area to volume ratio"
+        }
+      ],
+      "maps": [
+        "03-transport-processes",
+        "04-exchange-surfaces"
+      ],
+      "related": [
+        "practical-investigations"
+      ]
+    },
+    {
+      "id": "practical-investigations",
+      "title": "Practical investigations",
+      "icon": "practical",
+      "description": "Microscopy, bacteria and potato osmosis",
+      "sections": [
+        {
+          "heading": "Required practical 1: observe, draw and label cells"
+        },
+        {
+          "heading": "4. Culturing bacteria",
+          "exclude": [
+            "Required practical 2: antimicrobial substances",
+            "Must-know calculations"
+          ]
+        },
+        {
+          "heading": "Required practical 2: antimicrobial substances"
+        },
+        {
+          "heading": "Must-know calculations"
+        },
+        {
+          "heading": "9. Required practical 3: osmosis in plant tissue"
+        }
+      ],
+      "maps": [],
+      "related": [
+        "cells",
+        "transport"
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "id": "overview",
+      "title": "Quick overview",
+      "sections": [
+        {
+          "heading": "The must-know overview"
+        }
+      ]
+    },
+    {
+      "id": "recall",
+      "title": "Recall checklist",
+      "sections": [
+        {
+          "heading": "Final recall checklist"
+        }
+      ]
+    }
+  ]
+}

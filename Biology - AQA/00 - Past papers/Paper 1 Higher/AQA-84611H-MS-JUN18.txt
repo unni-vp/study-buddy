@@ -1,0 +1,1957 @@
+=== PDF page 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GCSE  BIOLOGY 
+ 
+8461/1H - PAPER 1 HIGHER TIER 
+ Mark scheme 
+ 
+8461 
+ June 2018 
+ Version/Stage: 1.0 Final 
+ 
+ 
+PMT
+
+=== PDF page 2 ===
+ 
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the relevant 
+questions, by a panel of subject teachers.  This mark scheme includes any amendments made at the 
+standardisation events which all associates participate in and is the scheme which was used by them in 
+this examination.  The standardisation process ensures that the mark scheme covers the students’ 
+responses to questions and that every associate understands and applies it in the same correct way.  
+As preparation for standardisation each associate analyses a number of students’ scripts.  Alternative 
+answers not already covered by the mark scheme are discussed and legislated for.  If, after the 
+standardisation process, associates encounter unusual answers which have not been raised they are 
+required to refer these to the Lead Assessment Writer. 
+ 
+It must be stressed that a mark scheme is a working document, in many cases further developed and 
+expanded on the basis of students’ reactions to a particular paper.  Assumptions about future mark 
+schemes on the basis of one year’s document should be avoided; whilst the guiding principles of 
+assessment remain constant, details will change, depending on the content of a particular examination 
+paper. 
+ 
+ 
+Further copies of this mark scheme are available from aqa.org.uk 
+ 
+  
+Copyright © 2018 AQA and its licensors. All rights reserved. 
+AQA retains the copyright on all its publications. However, registered schools/colleges for AQA are permitted to copy material from this booklet 
+for their own internal use, with the following important exception: AQA cannot give permission to schools/colleges to photocopy any material that 
+is acknowledged to a third party even for internal use within the centre. 
+PMT
+
+=== PDF page 3 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Information to Examiners 
+ 
+ 
+ 
+1. General 
+ 
+The mark scheme for each question shows: 
+• the marks available for each part of the question 
+• the total marks available for the question 
+• the typical answer or answers which are expected 
+• extra information to help the Examiner make his or her judgement 
+• the Assessment Objectives and specification content that each question is intended to cover. 
+ 
+ 
+The extra information is aligned to the appropriate answer in the left-hand part of the mark scheme and 
+should only be applied to that item in the mark scheme. 
+ 
+At the beginning of a part of a question a reminder may be given, for example: where consequential 
+marking needs to be considered in a calculation; or the answer may be on the diagram or at a different 
+place on the script. 
+ 
+In general the right-hand side of the mark scheme is there to provide those extra details which confuse 
+the main part of the mark scheme yet may be helpful in ensuring that marking is straightforward and 
+consistent. 
+ 
+ 
+ 
+2. Emboldening and underlining 
+ 
+2.1 In a list of acceptable answers where more than one mark is available ‘any two from’ is used, with 
+the number of marks emboldened.  Each of the following bullet points is a 
+ potential mark. 
+ 
+2.2 A bold and is used to indicate that both parts of the answer are required to award the mark. 
+ 
+2.3 Alternative answers acceptable for a mark are indicated by the use of or. Different terms in the 
+mark scheme are shown by a / ; eg allow smooth / free movement. 
+ 
+2.4 Any wording that is underlined is essential for the marking point to be awarded. 
+  
+3 
+PMT
+
+=== PDF page 4 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+3. Marking points 
+ 
+3.1 Marking of lists 
+ 
+ This applies to questions requiring a set number of responses, but for which students have 
+provided extra responses.  The general principle to be followed in such a situation is that ‘right + 
+wrong = wrong’. 
+ 
+ Each error / contradiction negates each correct response.  So, if the number of error / 
+contradictions equals or exceeds the number of marks available for the question, no marks can be 
+awarded. 
+ 
+ However, responses considered to be neutral (indicated as * in example 1) are not penalised. 
+ 
+ Example 1:  What is the pH of an acidic solution? 
+[1 mark] 
+ 
+Student Response Marks 
+awarded 
+1 green, 5 0 
+2 red*, 5 1 
+3 red*, 8 0 
+ 
+ 
+Example 2:  Name two planets in the solar system. 
+[2 marks] 
+ 
+Student Response Marks awarded 
+1 Neptune, Mars, Moon 1 
+2 Neptune, Sun, Mars, 
+Moon 
+0 
+ 
+ 
+3.2 Use of chemical symbols / formulae 
+ 
+ If a student writes a chemical symbol / formula instead of a required chemical name, full credit can 
+be given if the symbol / formula is correct and if, in the context of the question, such action is 
+appropriate. 
+ 
+3.3 Marking procedure for calculations 
+ 
+ Marks should be awarded for each stage of the calculation completed correctly, as students are 
+instructed to show their working.  Full marks can, however, be given for a correct numerical 
+answer, without any working shown. 
+   
+3.4 Interpretation of ‘it’ 
+ 
+ Answers using the word ‘it’ should be given credit only if it is clear that the ‘it’ refers to the correct 
+subject. 
+  
+4 
+PMT
+
+=== PDF page 5 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+3.5 Errors carried forward 
+ 
+ Any error in the answers to a structured question should be penalised once only. 
+ 
+ Papers should be constructed in such a way that the number of times errors can be carried forward 
+is kept to a minimum.  Allowances for errors carried forward are most likely to be restricted to 
+calculation questions and should be shown by the abbreviation ecf in the marking scheme. 
+ 
+3.6 Phonetic spelling 
+ 
+ The phonetic spelling of correct scientific terminology should be credited unless there is a possible 
+confusion with another technical term. 
+ 
+3.7 Brackets 
+ 
+ (…..) are used to indicate information which is not essential for the mark to be awarded but is 
+included to help the examiner identify the sense of the answer required. 
+ 
+3.8 Allow 
+ 
+ In the mark scheme additional information, ‘allow’ is used to indicate creditworthy 
+ alternative answers. 
+ 
+3.9 Ignore 
+ 
+ Ignore is used when the information given is irrelevant to the question or not enough to gain the 
+marking point. Any further correct amplification could gain the marking point. 
+ 
+3.10 Do not accept 
+ 
+ Do not accept means that this is a wrong answer which, even if the correct answer is given as 
+well, will still mean that the mark is not awarded. 
+ 
+ 
+ 
+4. Level of response marking instructions 
+ 
+Extended response questions are marked on level of response mark schemes. 
+• Level of response mark schemes are broken down into levels, each of which has a descriptor. 
+• The descriptor for the level shows the average performance for the level. 
+• There are two marks in each level. 
+ 
+Before you apply the mark scheme to a student’s answer, read through the answer and annotate it 
+(as instructed) to show the qualities that are being looked for.  You can then apply the mark scheme. 
+  
+5 
+PMT
+
+=== PDF page 6 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Step 1: Determine a level 
+ 
+Start at the lowest level of the mark scheme and use it as a ladder to see whether the answer meets 
+the descriptor for that level.  The descriptor for the level indicates the different qualities that might be 
+seen in the student’s answer for that level.  If it meets the lowest level then go to the next one and 
+decide if it meets this level, and so on, until you have a match between the level descriptor and the 
+answer.  
+ 
+When assigning a level you should look at the overall quality of the answer.  Do not look to penalise 
+small and specific parts of the answer where the student has not performed quite as well as the rest.  
+If the answer covers different aspects of different levels of the mark scheme you should use a best 
+fit approach for defining the level.   
+ 
+Use the variability of the response to help decide the mark within the level, ie if the response is 
+predominantly level 2 with a small amount of level 3 material it would be placed in level 2 but be 
+awarded a mark near the top of the level because of the level 3 content. 
+ 
+ 
+Step 2: Determine a mark 
+ 
+Once you have assigned a level you need to decide on the mark.  The descriptors on how to 
+allocate marks can help with this.   
+ 
+The exemplar materials used during standardisation will help.  There will be an answer in the 
+standardising materials which will correspond with each level of the mark scheme.  This answer will 
+have been awarded a mark by the Lead Examiner.  You can compare the student’s answer with the 
+example to determine if it is the same standard, better or worse than the example.  You can then 
+use this to allocate a mark for the answer based on the Lead Examiner’s mark on the example. 
+ 
+You may well need to read back through the answer as you apply the mark scheme to clarify points 
+and assure yourself that the level and the mark are appropriate. 
+ 
+Indicative content in the mark scheme is provided as a guide for examiners.  It is not intended to be 
+exhaustive and you must credit other valid points.  Students do not have to cover all of the points 
+mentioned in the indicative content to reach the highest level of the mark scheme. 
+ 
+You should ignore any irrelevant points made.  However, full marks can be awarded only if there are 
+no incorrect statements that contradict a correct response. 
+ 
+An answer which contains nothing of relevance to the question must be awarded no marks. 
+  
+6 
+PMT
+
+=== PDF page 7 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+01.1 
+ 
+toxins / poisons (secreted by / 
+from / in bacteria)  
+ 
+1 
+ 
+AO1 
+4.3.1.3 
+ 
+     
+ 
+01.2 
+ 
+any two from: 
+• wash hands after using toilet 
+/ being sick 
+or 
+wash hands before 
+preparing / handling food 
+or 
+do not prepare food (whilst 
+infected) 
+ 
+• isolate yourself  
+ 
+• disinfect clothes / surfaces 
+ 
+• do not share utensils / 
+cutlery / towels 
+ 
+ 
+ 
+ignore ‘wash hands’ unqualified 
+ignore reference to coughing / 
+sneezing 
+ 
+ 
+ 
+ 
+ 
+allow examples of how isolation 
+could be achieved 
+ 
+2 
+ 
+AO2 
+4.3.1.1 
+     
+ 
+01.3 
+ 
+antibiotics 
+ 
+allow named examples of 
+antibiotics 
+ 
+1 
+ 
+AO1 
+4.3.1.8 
+ 
+     
+ 
+01.4 
+ 
+immune system is damaged / 
+weakened or immune system 
+doesn’t function properly 
+ 
+ 
+white blood cells cannot kill 
+bacteria / Salmonella (as 
+effectively) 
+ 
+allow immunocompromised 
+allow lack of / no white blood 
+cells 
+ 
+allow no / fewer antibodies so 
+bacteria not killed or less 
+phagocytosis so bacteria not 
+killed or no / fewer antitoxins to 
+counter toxins 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.3.1.2 
+ 
+  
+7 
+PMT
+
+=== PDF page 8 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+01.5 
+ 
+any one from: 
+• (give chickens) antibiotics  
+ 
+ 
+• don’t sell infected chickens / 
+eggs 
+ 
+ 
+• keep infected chickens 
+isolated / indoors 
+ 
+• slaughter the infected 
+chickens 
+ 
+ 
+ 
+allow (give chickens) 
+monoclonal antibodies 
+ 
+allow don’t sell the chickens / 
+eggs 
+ignore don’t sell chickens / eggs 
+ 
+allow keep the chickens indoors 
+ignore keep chickens indoors 
+ 
+ignore vaccination / chlorination 
+/ disinfection 
+ 
+1 
+ 
+AO1 
+4.3.1.3 
+     
+ 
+01.6 
+ 
+(cleaning liquid) B 
+and 
+greater reduction in number of 
+bacteria (after cleaning) in both 
+locations 
+ 
+ 
+ 
+ignore few bacteria in both 
+locations 
+ 
+allow neither / both and idea of 
+experimental error 
+ 
+ 
+1 
+ 
+AO3 
+4.1.1.6 
+4.3.1 
+     
+ 
+01.7 
+ 
+radius (of area with no bacteria 
+growing) 
+ 
+allow diameter (of the area with 
+no bacteria growing) 
+ignore πr2 unqualified 
+ 
+allow idea of placing agar plate 
+onto graph paper and counting 
+the squares not covered with 
+bacteria 
+ 
+ 
+1 
+ 
+AO2 
+4.1.1.6 
+ 
+  
+8 
+PMT
+
+=== PDF page 9 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+01.8 
+ 
+repeat and look to see if results 
+are similar 
+ 
+ignore repeat unqualified 
+ 
+allow repeat and look to see if 
+results are different 
+ 
+allow repeat and see if there are 
+anomalies 
+ 
+ignore repeat and identify 
+anomalies 
+ignore repeat and compare 
+unqualified 
+ 
+ 
+1 
+ 
+AO3 
+4.1.1.6 
+      
+01.9 
+ 
+any one from: 
+• toxicity / side / health effects 
+ 
+ 
+• effect on other types of 
+bacteria / pathogens 
+ 
+ 
+• interaction with other 
+cleaners 
+• ease of use 
+• dilution factor of each 
+cleaner (vs. cost) 
+• time cleaner is effective for 
+ 
+ 
+ignore harmful / dangerous 
+allow reference to allergies 
+ 
+allow not tested on other types 
+of bacteria 
+ignore germs 
+ 
+ 
+ 
+ignore concentration unqualified 
+ignore how long the cleaner 
+lasts for 
+ 
+allow reference to odour of 
+cleaning liquid  
+ 
+ignore reference to cost 
+unqualified 
+ignore environmental effects / 
+flammability 
+ 
+ 
+1 
+ 
+AO3 
+4.1.1.6 
+  
+   
+Total   11  
+ 
+  
+9 
+PMT
+
+=== PDF page 10 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+02.1 
+ 
+ 
+ 
+ 
+any one from: 
+• respiration 
+• formation of proteins 
+• formation / breakdown of 
+glycogen 
+• breakdown of (excess) 
+protein or formation of urea 
+• photosynthesis or formation 
+of glucose / starch (in plants) 
+ 
+allow other correct reference to 
+metabolic reactions in cells  
+ignore reference to digestion 
+ 
+ 
+ 
+ 
+ignore formation of 
+carbohydrates 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AO1 
+4.4.2.3 
+     
+ 
+02.2 
+ 
+ 
+ 
+males have a higher metabolic 
+rate than females after five 
+years of age 
+ 
+the mean metabolic rate of 
+females decreases faster than 
+males up to 25 years of age 
+ 
+ 
+each additional tick negates a 
+mark 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+AO3 
+4.4.2.3 
+     
+ 
+02.3 
+ 
+ 
+ 
+17
+53  × 100 
+ 
+32.075472… 
+ 
+ 
+ 
+32.1 
+ 
+an answer of 32.1 scores 3 
+marks 
+ 
+ 
+allow correct rounding of this to 
+at least 4 significant figures 
+ 
+allow a correct reduction to 3 
+significant figures from an 
+incorrect calculation for marking 
+point 2 
+ 
+ 
+ 
+ 
+1 
+ 
+1 
+ 
+ 
+1 
+ 
+AO2 
+4.4.2.3 
+ 
+  
+10 
+PMT
+
+=== PDF page 11 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+02.4 
+ 
+any two from: 
+• (person) R heart rate rose / 
+increased more slowly than 
+(person) S 
+ 
+• (person) R heart rate 
+levelled off whereas (person) 
+S continued to increase 
+ 
+• (person) R heart rate rose 
+less (overall / after 5 minutes 
+of exercise) than S 
+ 
+allow converse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow correct use of figures  
+eg R increased (overall) by 39 
+bpm / 65% and S by 54 bpm / 
+69% 
+ignore lack of units 
+ 
+ 
+2 
+ 
+AO3 
+4.4.2.2 
+     
+ 
+02.5 
+ 
+correct scale and axis labelled 
+ 
+ 
+ 
+ 
+ 
+ 
+all points plotted correctly (to 
+within ± ½ square) 
+ 
+line joined point to point or 
+correct curved line of best fit 
+ 
+ 
+allow min(s) 
+ 
+do not accept ‘m’ 
+ 
+the zero is not required on the  
+x-axis 
+ 
+allow 4 or 5 correct plots for 1 
+mark 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+1 
+ 
+AO2 
+4.4.2.2 
+     
+ 
+02.6 
+ 
+ 
+ 
+ 
+132 - 78
+12  
+ 
+ 
+ 
+4.5 (minutes) / 4½ minutes / 4 
+minutes 30 seconds / 4:30 
+ 
+an answer of 4.5 minutes scores 
+2 marks 
+ 
+allow 54
+12 
+ 
+allow sequential deductions of 
+12 four or five times 
+ 
+do not accept 4:50  
+or 4 minutes 50 seconds 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.4.2.2 
+ 
+  
+11 
+PMT
+
+=== PDF page 12 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Mark AO / 
+Spec. Ref. 
+    
+02.7 Level 3: The method would lead to the production of a valid 
+outcome. All key steps are identified and logically sequenced. 
+5–6 AO3 
+4.4.2.2 
+ Level 2: The method would not necessarily lead to a valid 
+outcome. Most steps are identified, but the method is not fully 
+logically sequenced. 
+3–4  
+ Level 1: The method would not lead to a valid outcome. Some 
+relevant steps are identified, but links are not made clear. 
+1–2  
+ No relevant content 0  
+ 
+ 
+ 
+Indicative content 
+ 
+• two groups of people - non-smokers and smokers 
+• have at least five people in each group or large groups 
+• get each person to do (named) exercise  
+• controlled variables: 
+- same number of people in each group or large groups 
+- same gender 
+- same level of activity / exercise 
+- same age 
+- no health issues / illnesses 
+- same type of exercise 
+- same time for exercise 
+• record heart rate for each person before and after exercise 
+• calculate increase in heart rate for each person after exercise 
+• compare results for each group 
+ 
+ 
+for level 3, students should refer to at least 5 smokers and 5 non-
+smokers, carrying out exercise with control variables and a means 
+of determining an increase in heart rate 
+ 
+for level 2, students should refer to ‘groups’ of smokers and non-
+smokers exercising 
+ 
+ 
+ 
+ 
+ 
+  
+   
+Total   20  
+ 
+  
+12 
+PMT
+
+=== PDF page 13 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+03.1 
+ 
+any two from: 
+• carbon dioxide 
+• water 
+• glucose 
+• amino acids 
+• lactic acid 
+ 
+ 
+allow proteins / hormones / 
+antibodies / vitamins / minerals / 
+ions / fatty acids / glycerol 
+ 
+ignore sugar / enzymes / 
+nutrients / waste 
+ 
+2 
+ 
+AO1 
+4.2.2.3 
+     
+ 
+03.2 
+ 
+more haemoglobin  
+ 
+ 
+ 
+(therefore) more oxygen can be 
+carried / transported 
+ 
+ 
+(for) more (aerobic) respiration 
+of muscle (cells) 
+or  
+more energy released for 
+muscle (cells) 
+ 
+max 2 marks if ‘more’ is not 
+given 
+ 
+ 
+ 
+ 
+ 
+ 
+allow less anaerobic respiration 
+/ lactic acid / oxygen debt / 
+fatigue in muscle (cells)  
+ie addition of 'debt 
+ 
+do not accept energy produced 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO1 
+4.2.2.3 
+4.4.2.2 
+ 
+AO2 
+4.2.2.3 
+4.4.2.2 
+ 
+AO1 
+4.2.2.3 
+4.4.2.2 
+     
+ 
+03.3 
+ 
+pulmonary artery 
+ 
+vena cava 
+ 
+ 
+ 
+1 
+ 
+1 
+ 
+AO1 
+4.2.2.2 
+     
+ 
+03.4 
+ 
+B 
+  
+1 
+ 
+AO1 
+4.2.2.2 
+ 
+ 
+  
+13 
+PMT
+
+=== PDF page 14 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+03.5 
+ 
+any three from: 
+ 
+• arteries have a thicker layer 
+of muscle (tissue) or veins 
+have a thinner layer of 
+muscle (tissue) 
+ 
+• arteries have a thicker layer 
+of elastic tissue or veins 
+have a thinner layer of 
+elastic tissue 
+ 
+• arteries have a narrower 
+lumen or veins have a wider 
+lumen 
+ 
+• arteries do not have valves 
+and veins have valves 
+ 
+ 
+ 
+ 
+if neither marking points 1 or 
+2 awarded, allow arteries 
+have a thick wall and veins 
+have a thin wall  
+or  
+arteries have a thicker wall 
+or veins have a thinner wall 
+for 1 mark  
+do not accept ‘cell wall’ 
+ 
+allow descriptions of ‘lumen’ 
+ 
+ 
+ 
+allow only veins have valves 
+ 
+3 
+ 
+AO1 
+4.2.2.2 
+     
+ 
+03.6 
+ 
+allow an X drawn anywhere in 
+grey shaded area below: 
+ 
+ 
+ 
+if a large X is drawn, award the 
+mark if the intersection touches 
+the grey area 
+ 
+if a label line is used, award 
+marks if the end of the label line 
+touches the grey area 
+ 
+allow label ‘pacemaker’ 
+ 
+ignore label ‘right atrium’ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+AO1 
+4.2.2.2 
+     
+ 
+03.7 
+ 
+an irregular heart beat 
+ 
+allow arrhythmia 
+allow fibrillation 
+ 
+ignore heart failure  
+ 
+do not accept cardiovascular 
+disease / heart murmur 
+ 
+ 
+1 
+ 
+AO1 
+4.2.2.2 
+  
+   
+Total   13  
+  
+14 
+PMT
+
+=== PDF page 15 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+04.1 
+ 
+(yes, because) the mass change 
+(of egg 4) is much lower than 
+the others 
+ 
+ 
+ 
+ 
+allow because it / egg 4 has 
+gained (over) 50% less mass 
+than the others 
+allow it / egg 4 has gained  
+1.5 g and the others have all 
+gained more than 3 g (unit 
+required) 
+ 
+ 
+1 
+ 
+AO3 
+4.1.3.2 
+     
+ 
+04.2 
+75.7 - 72.4
+72.4  ×100 
+ 
+ 
+4.6 (%) 
+ 
+an answer of 4.6 / 4.56 / 4.558 
+scores 2 marks 
+ 
+or equivalent 
+ 
+ 
+ 
+allow 4.558 / 4.56 (%) 
+allow any correct rounding of 
+4.558011049723757 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.1.3.2 
+     
+ 
+04.3 
+ 
+(mass increased because) water 
+entered by osmosis 
+ 
+from a dilute solution in the 
+beaker to a more concentrated 
+solution in the egg (cell) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+through a partially permeable 
+membrane  
+ 
+ 
+ 
+ 
+allow from an area of high water 
+concentration in the beaker to 
+an area of low water 
+concentration in the egg (cell) 
+allow ref to water potential 
+allow ref to ‘strong’ and ‘weak’ 
+solutions 
+ 
+ignore along / across 
+concentration gradient 
+ 
+do not accept ‘amount’ in place 
+of concentration 
+ 
+allow semi-permeable / 
+selectively permeable 
+membrane 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.1.3.2 
+ 
+AO2 
+4.1.3.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AO1 
+4.1.3.2 
+ 
+  
+15 
+PMT
+
+=== PDF page 16 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+04.4 
+ 
+use five (or more) different 
+concentrations of salt / sugar 
+solution (in beakers) 
+ 
+(by) plotting percentage change 
+(in mass / volume) on / using a 
+graph  
+ 
+determine the concentration 
+where the curve / line crosses 
+the zero percentage change (in 
+mass / volume) 
+ 
+ 
+allow any number of 
+concentrations provided it is 
+more than four 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO3 
+4.1.3.2 
+     
+ 
+04.5 
+ 
+(ions are moved) from an area 
+of low concentration to high 
+concentration  
+ 
+ 
+(by) active transport 
+ 
+ 
+(which) requires using energy 
+ 
+allow against the concentration 
+gradient 
+allow in terms of solution 
+do not accept molecules 
+ 
+ 
+ 
+ 
+do not accept idea of energy 
+being created 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+AO2 
+4.1.3.3 
+ 
+ 
+ 
+AO1 
+4.1.3.3 
+ 
+AO1 
+4.1.3.3 
+  
+   
+Total   12  
+ 
+  
+16 
+PMT
+
+=== PDF page 17 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+05.1 
+ 
+(mouthpiece) has pierced / 
+entered the phloem  
+or 
+(the aphid) has been feeding 
+from the phloem 
+ 
+  
+1 
+ 
+AO2 
+4.2.3.2 
+     
+ 
+05.2 
+ 
+yellow leaves due to lack of 
+chlorophyll 
+ 
+ 
+(therefore) less / no light 
+absorbed (by chlorophyll) 
+ 
+ 
+(therefore) lower rate of / no 
+photosynthesis 
+ 
+ 
+(therefore) plant makes less / no 
+sugar / glucose 
+ 
+(therefore) plant converts less / 
+no sugar / glucose into protein 
+(for growth, so growth is 
+stunted) 
+ 
+ignore ‘choroplasts’ 
+ignore magnesium is needed to 
+make chorophyll 
+ 
+ 
+ 
+ 
+ 
+do not allow ‘energy is 
+produced by photosynthesis’ 
+ 
+ 
+ 
+ 
+ 
+allow less glucose / sugar 
+converted into cellulose (cell 
+wall) 
+allow less energy for protein 
+synthesis 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+AO1 
+ 
+ 
+ 
+AO2 
+ 
+ 
+ 
+AO1 
+ 
+ 
+ 
+AO1 
+ 
+ 
+AO1 
+ 
+ 
+4.3.3.1 
+4.4.1.1 
+4.4.1.3 
+ 
+     
+ 
+05.3 
+ 
+inject the protein / it into a 
+mouse 
+ 
+combine lymphocytes with 
+tumour / cancer cells to make 
+hybridoma (cells) 
+ 
+find a hybridoma which makes a 
+monoclonal antibody specific to 
+PVY 
+ 
+(the scientist) clones (the 
+hybridoma) to produce many 
+cells (to make the antibody) 
+ 
+ 
+ 
+ 
+ignore white blood cells 
+allow T or B lymphocytes 
+ignore tumour unqualified 
+ 
+ 
+ 
+ 
+ 
+do not allow cloning of original 
+stem cells 
+ 
+allow many rounds of cloning / 
+mitosis 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO1 
+4.3.2.1 
+ 
+  
+   
+Total   10  
+  
+17 
+PMT
+
+=== PDF page 18 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+06.1 
+ 
+DNA / deoxyribo(se)nucleic acid 
+  
+1 
+ 
+AO1 
+4.1.2.1 
+     
+ 
+06.2 
+ 
+controls the movement of 
+substances in / out of cell 
+ 
+ 
+ignore allows substances in / out 
+of cell 
+ 
+1 
+ 
+AO1 
+4.1.1.2 
+    
+06.3 Level 3: Relevant points (reasons / causes) are identified, given in 
+detail and logically linked to form a clear account. 
+5–6 AO2 
+4.2.2.1 
+4.2.2.2 
+4.4.2.1  Level 2: Relevant points (reasons / causes) are identified, and 
+there are attempts at logical linking. The resulting account is not 
+fully clear. 
+3–4 
+ Level 1: Points are identified and stated simply, but their relevance 
+is not clear and there is no attempt at logical linking.  
+1–2  
+ No relevant content 0  
+ 
+ 
+ 
+Indicative content 
+ 
+fewer (digestive) enzymes enter small intestine 
+• (so) enzymes break down / digest less food 
+• (therefore) less absorption of nutrients  
+• (so) less glucose can enter the blood(stream) 
+• (so) less (glucose) available for respiration 
+• (less absorption of nutrients so) fewer amino acids can enter 
+the blood(stream) 
+• (so) less protein is made (for growth) 
+ignore ref to bile 
+ 
+less oxygen enters blood(stream) / reaches cells / organs / tissues 
+(ignore body / lungs) 
+• (so) less (oxygen) available for (aerobic) respiration 
+• (so) less energy released / available (for growth) 
+do not accept energy produced 
+ 
+ 
+for level 3, reference to both enzymes and oxygen is required 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+18 
+PMT
+
+=== PDF page 19 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+06.4 
+ 
+put ages in (ascending / 
+descending / chronological) 
+order 
+ 
+find middle value 
+ 
+ 
+ 
+ 
+ 
+allow a way of achieving this  
+ie  (n + 1)
+2  
+where n is the number of people 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.2.2.5 
+ 
+ 
+AO1 
+4.2.2.5 
+ 
+     
+ 
+06.5 
+ 
+most common in young people 
+or 
+(more) don’t live to an old age  
+  
+ 
+allow causes of this 
+ 
+1 
+ 
+AO3 
+4.2.2.5 
+     
+ 
+06.6 
+ 
+ 
+ 
+ 
+ 
+0.98 × 10 800 
+ 
+10 584 
+ 
+an answer of 10 584 scores 2 
+marks  
+ 
+allow 98
+100  × 10 800 
+ 
+allow 10 800 – (0.02 ×10 800) 
+or equivalent 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+AO2 
+4.2.2.5 
+     
+ 
+06.7 
+ 
+take stem cells from patient 
+(bone marrow / skin) 
+ 
+remove / change / fix the faulty / 
+CF gene 
+ 
+create embryo using these stem 
+cells  
+ 
+ 
+remove stem cells (from 
+embryo) and stimulate / allow 
+them to divide / differentiate into 
+lung (cells) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow idea of transferring 
+nucleus from stem cells into 
+enucleated egg / ovum 
+ 
+ 
+ 
+ 
+ 
+if no other marks awarded  
+allow 1 mark for therapeutic 
+cloning 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.1.2.3 
+ 
+  
+19 
+PMT
+
+=== PDF page 20 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+06.8 
+ 
+idea of ethical / religious 
+concerns about use of embryos 
+such as loss of (potential) 
+human life 
+ 
+allow idea that embryo cannot 
+give consent 
+ 
+ignore idea of against human 
+rights of embryo unqualified 
+ignore religious / ethical reasons 
+unqualified 
+ 
+ 
+1 
+ 
+AO3 
+4.1.2.3 
+  
+   
+Total   18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+20 
+PMT
+
+=== PDF page 21 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+  
+   
+ 
+07.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(for calcium) 
+500
+605  × 1000 = 826.446281 (cm3) 
+ 
+ 
+(for vitamin B-12) 
+500
+4.5  × 2.4 = 266.67 (cm3) 
+ 
+ 
+560 / 559.8 / 559.78 / 559 (cm
+3) 
+ 
+an answer of 560 / 559.8 / 
+559.78 / 559 (cm3) scores 3 
+marks 
+ 
+an incorrect answer for one step 
+does not prevent allocation of 
+marks for subsequent steps  
+ 
+allow any correct rounding to 
+minimum 3 significant figures 
+allow alternative route with 
+correct rounding 
+ 
+allow alternative route with 
+correct rounding 
+ 
+ 
+ 
+allow only correct answer based 
+on values given for vitamin B-12 
+and calcium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.2.2.1 
+    
+07.2 Level 2: Scientifically relevant facts, events or processes are 
+identified and given in detail to form an accurate account. 
+4–6 AO1 
+4.2.2.1 
+ Level 1: Facts, events or processes are identified and simply 
+stated but their relevance is not clear. 
+1–3  
+ No relevant content 0  
+ 
+ 
+ 
+Indicative content 
+ 
+• Biuret reagent (allow CuSO4 and NaOH) tests for protein 
+• add Biuret reagent to milk 
+• solution will turn (from blue) to lilac if positive 
+ 
+• iodine solution tests for starch (ignore iodine unqualified) 
+• add iodine solution to milk 
+• solution will turn (from orange / brown) to blue / black if positive 
+ 
+• Benedict’s reagent tests for sugars 
+• add Benedict’s reagent to milk and boil / heat (allow any 
+temperature above 60 °C) 
+• solution will turn (from blue) to (brick) red / brown / orange / 
+yellow / green if positive 
+ 
+for level 2, reference to all three food tests is required 
+ 
+ 
+ 
+ 
+ 
+  
+21 
+PMT
+
+=== PDF page 22 ===
+MARK SCHEME – GCSE BIOLOGY – 8461/1H – JUNE 2018 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+     
+ 
+07.3 
+ 
+lipase breaks down fat into fatty 
+acids (and glycerol) 
+ 
+(and) fatty acids lower the pH 
+ 
+(and when) fatty acids cause the 
+pH to be below 10 (the indicator 
+becomes colourless) 
+ 
+ 
+do not accept if ‘glycerol’ is 
+contradicted 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+1 
+ 
+AO2 
+4.2.2.1 
+     
+ 
+07.4 
+ 
+observation of colour change is 
+subjective / based on opinion 
+ 
+ignore human error unqualified 
+ignore experimental error or 
+examples of this 
+ 
+ 
+1 
+ 
+AO3 
+4.2.2.1 
+     
+ 
+07.5 
+ 
+bile emulsifies fats 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+creates a larger surface area (of 
+fat) 
+ 
+(so) lipase can break down fat 
+(to produce fatty acids) more 
+quickly / effectively 
+ 
+ 
+allow a correct description of 
+emulsification (ie breaks fat from 
+large droplets into smaller 
+droplets) 
+ 
+do not accept a description of 
+chemical breakdown 
+ 
+ 
+ 
+ 
+allow fatty acids produced by 
+action of lipase more quickly 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+AO1 
+4.2.2.1 
+ 
+ 
+ 
+ 
+ 
+ 
+AO2 
+4.2.2.1 
+ 
+AO3 
+4.2.2.1 
+     
+Total   16  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+PMT

@@ -1,0 +1,1621 @@
+{
+  "checked": "2026-10-04",
+  "exam_year": 2027,
+  "board": "AQA",
+  "qualification": "8461",
+  "tier": "Higher",
+  "source": "Biology - AQA/01 - Cell biology/Questions and Answers/Cell Biology - Questions and Answers.md",
+  "specification_pdf": "Biology - AQA/00 - Specification/AQA-8461-specification.pdf",
+  "current_specification_url": "https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/cell-biology",
+  "sample": [
+    2018,
+    2019,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sample_definition": "Six publicly released June 8461/1H papers, spanning the first assessment and four recent summer series; 2020/2021 emergency autumn series and specimens excluded. No claim of an exhaustive frequency ranking or prediction. Count each type once per paper; overlapping types are allowed.",
+  "patterns": [
+    {
+      "type": "Cell structures and comparisons",
+      "papers": 6,
+      "denominator": 6,
+      "references": {
+        "2018": [
+          "06.1",
+          "06.2"
+        ],
+        "2019": [
+          "01.1",
+          "01.2",
+          "01.3",
+          "01.4"
+        ],
+        "2022": [
+          "01.1",
+          "01.2",
+          "01.3",
+          "02.1"
+        ],
+        "2023": [
+          "05.2"
+        ],
+        "2024": [
+          "02.1",
+          "04.2",
+          "04.4",
+          "04.6"
+        ],
+        "2025": [
+          "08.1",
+          "08.2"
+        ]
+      }
+    },
+    {
+      "type": "Osmosis in different contexts",
+      "papers": 6,
+      "denominator": 6,
+      "references": {
+        "2018": [
+          "04.1",
+          "04.2",
+          "04.3",
+          "04.4"
+        ],
+        "2019": [
+          "06.4"
+        ],
+        "2022": [
+          "01.4",
+          "01.5",
+          "01.6",
+          "01.7",
+          "01.8",
+          "01.9"
+        ],
+        "2023": [
+          "03.9"
+        ],
+        "2024": [
+          "05.1",
+          "05.2",
+          "05.3"
+        ],
+        "2025": [
+          "03.1",
+          "03.2"
+        ]
+      }
+    },
+    {
+      "type": "Stem cells and differentiation",
+      "papers": 6,
+      "denominator": 6,
+      "references": {
+        "2018": [
+          "06.7",
+          "06.8"
+        ],
+        "2019": [
+          "07.5",
+          "07.6"
+        ],
+        "2022": [
+          "04.5"
+        ],
+        "2023": [
+          "01.2"
+        ],
+        "2024": [
+          "04.1",
+          "04.6"
+        ],
+        "2025": [
+          "07.1",
+          "07.2"
+        ]
+      }
+    },
+    {
+      "type": "Microscopy and magnification",
+      "papers": 4,
+      "denominator": 6,
+      "references": {
+        "2019": [
+          "01.5",
+          "01.6"
+        ],
+        "2022": [
+          "03.1",
+          "03.2",
+          "03.3",
+          "03.4",
+          "03.5"
+        ],
+        "2024": [
+          "08.3"
+        ],
+        "2025": [
+          "05.2"
+        ]
+      }
+    },
+    {
+      "type": "Exchange surfaces and their adaptations",
+      "papers": 4,
+      "denominator": 6,
+      "references": {
+        "2019": [
+          "06.5",
+          "07.4"
+        ],
+        "2022": [
+          "06.3",
+          "06.5"
+        ],
+        "2024": [
+          "02.4"
+        ],
+        "2025": [
+          "06.2"
+        ]
+      }
+    },
+    {
+      "type": "Osmosis practical methods or data",
+      "papers": 4,
+      "denominator": 6,
+      "references": {
+        "2018": [
+          "04.1",
+          "04.2",
+          "04.4"
+        ],
+        "2022": [
+          "01.4",
+          "01.5",
+          "01.6",
+          "01.7",
+          "01.8"
+        ],
+        "2024": [
+          "05.1",
+          "05.2",
+          "05.3"
+        ],
+        "2025": [
+          "03.1"
+        ]
+      }
+    },
+    {
+      "type": "Bacterial culture investigations or data",
+      "papers": 4,
+      "denominator": 6,
+      "references": {
+        "2018": [
+          "01.6",
+          "01.7",
+          "01.8",
+          "01.9"
+        ],
+        "2023": [
+          "03.3",
+          "03.4",
+          "03.5",
+          "03.6",
+          "03.7"
+        ],
+        "2024": [
+          "06.2"
+        ],
+        "2025": [
+          "08.3",
+          "08.4"
+        ]
+      }
+    },
+    {
+      "type": "Mitosis and the cell cycle",
+      "papers": 3,
+      "denominator": 6,
+      "references": {
+        "2022": [
+          "04.4"
+        ],
+        "2023": [
+          "05.5",
+          "05.6"
+        ],
+        "2024": [
+          "08.1",
+          "08.2",
+          "08.4"
+        ]
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Give the main function of the nucleus in an animal cell.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2019,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN19.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202019%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN19.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202019%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q02",
+      "prompt": "What process takes place in chloroplasts?",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q03",
+      "prompt": "Name the tissue at the growing tips of roots and shoots that contains stem cells.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        },
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q04",
+      "prompt": "Name the process in which an unspecialised cell becomes a cell with a particular job.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.4"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q05",
+      "prompt": "DNA replication happens before mitosis. Give one other change that happens in the cell before it divides.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "08.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q06",
+      "prompt": "Describe what diffusion means.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q07",
+      "prompt": "Give one difference between active transport and osmosis, referring to energy.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "4.1.3.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q08",
+      "prompt": "Before weighing a potato piece after an osmosis investigation, a student gently blots its surface dry. Explain why.",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q09",
+      "prompt": "In an antibiotic investigation, one paper disc contains sterile water and no antibiotic. What is the purpose of this disc?",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6",
+        "RPA2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q10",
+      "prompt": "How could a student check whether the results of an antiseptic investigation are repeatable?",
+      "marks": 1,
+      "mark_group": "marks-1",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6",
+        "WS"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.8",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q11",
+      "prompt": "A yeast cell is eukaryotic. A bacterial cell is prokaryotic. Give two structures found in yeast cells but not bacterial cells.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.1",
+        "4.1.1.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "08.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "05.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q12",
+      "prompt": "Give two advantages of an electron microscope over a light microscope when studying sub-cellular structures.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.5"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2019,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.6",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN19.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202019%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN19.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202019%20MS.pdf"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q13",
+      "prompt": "A light microscope has a ×10 eyepiece lens and a ×40 objective lens. Calculate the total magnification.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "cells",
+      "type": "original specification practice",
+      "specification": [
+        "4.1.1.5",
+        "RPA1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q14",
+      "prompt": "Compare what embryonic stem cells and adult bone-marrow stem cells can become.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "07.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q15",
+      "prompt": "A drug stops fibres attaching to the copied chromosomes during mitosis. Explain why normal cell division cannot be completed.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "08.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q16",
+      "prompt": "A small single-celled organism exchanges enough oxygen through its outer surface. A large multicellular animal cannot do this. Explain why.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q17",
+      "prompt": "A potato cylinder has an initial mass of 3.00 g and a final mass of 2.64 g. Calculate its percentage change in mass.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.6",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q18",
+      "prompt": "A student investigates how sugar concentration affects potato mass. Name the independent variable and a suitable dependent variable.",
+      "marks": 2,
+      "mark_group": "marks-2",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q19",
+      "prompt": "State the function of each structure: cell membrane, mitochondria and ribosomes.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q20",
+      "prompt": "Explain how three features of a sperm cell help it reach and fertilise an egg cell.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "cells",
+      "type": "original specification practice",
+      "specification": [
+        "4.1.1.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q21",
+      "prompt": "The measured length of a cell's image is 36 mm. The cell's real length is 60 µm. Calculate the magnification.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.5"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2019,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN19.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202019%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN19.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202019%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q22",
+      "prompt": "The diagram represents the boundary between a potato cell and the surrounding solution. The membrane lets water pass but prevents the solute shown from crossing.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.9",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "05.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q23",
+      "prompt": "The concentration of mineral ions is 0.5 arbitrary units in the soil solution and 2.0 arbitrary units inside a root hair cell. Explain how the cell can absorb more of these ions.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.3",
+        "4.1.1.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        },
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q24",
+      "prompt": "Explain how each change increases the rate of diffusion: a higher temperature, a steeper concentration gradient and a larger membrane surface area.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "transport",
+      "type": "original specification practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q25",
+      "prompt": "Explain why a student uses a thin layer of onion epidermis, adds iodine solution, and lowers the cover slip at an angle.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.5",
+        "RPA1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q26",
+      "prompt": "Explain why a school bacterial culture is incubated at no more than 25°C, has its lid held with a few pieces of tape, and is stored upside down.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6",
+        "RPA2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q27",
+      "prompt": "The total circular zone of inhibition around a paper disc has a diameter of 18 mm. Calculate its area, including the disc. Use π = 3.14 and give your answer to 3 significant figures.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.7",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.7",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q28",
+      "prompt": "A culture starts with 80 bacteria. The population doubles every 20 minutes. Assume nutrients and temperature remain suitable. Calculate the population after 2 hours, giving your answer in standard form.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "02.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q29",
+      "prompt": "A grower wants many plants with the same disease resistance as a parent plant. Explain why meristem stem cells are useful.",
+      "marks": 3,
+      "mark_group": "marks-3",
+      "theme": "cell-processes",
+      "type": "original specification practice",
+      "specification": [
+        "4.1.2.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q30",
+      "prompt": "The diagram tracks two chromosomes in a simplified cell. Each colour represents a different chromosome. Explain how the cell cycle produces two genetically identical daughter cells.",
+      "marks": 4,
+      "mark_group": "marks-4",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "05.6",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q31",
+      "prompt": "Explain how alveoli are adapted for rapid gas exchange. Link each feature to its effect.",
+      "marks": 4,
+      "mark_group": "marks-4",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "02.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q32",
+      "prompt": "Explain how fish gills absorb enough oxygen from water. Refer to surface area, thickness, blood supply and water flow.",
+      "marks": 4,
+      "mark_group": "marks-4",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q33",
+      "prompt": "Two cubes have side lengths of 1 cm and 3 cm. Calculate the surface area to volume ratio of each cube. Then explain which cube has the greater surface area relative to its volume.",
+      "marks": 4,
+      "mark_group": "marks-4",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q34",
+      "prompt": "A student obtains these results after leaving potato pieces in sugar solutions for 40 minutes.",
+      "marks": 5,
+      "mark_group": "marks-5",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3",
+        "MS4"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.7",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "01.8",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "04.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q35",
+      "prompt": "An onion cell image is 5.4 cm long at a magnification of ×600. Calculate the cell's real length in micrometres. State the equation and show each step.",
+      "marks": 5,
+      "mark_group": "marks-5",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.5"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "05.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q36",
+      "prompt": "Explain how the small intestine is adapted to absorb digested food efficiently, including absorption by active transport.",
+      "marks": 5,
+      "mark_group": "marks-5",
+      "theme": "transport",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.1",
+        "4.1.3.3",
+        "4.1.1.2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2019,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN19.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202019%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN19.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202019%20MS.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q37",
+      "prompt": "A tiny cylindrical structure has a real volume of 6 280 000 nm³ and a real radius of 100 nm. Its image is 2.4 mm long. Calculate the magnification. Use π = 3.14.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "cells",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.5",
+        "MS"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "08.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points"
+    },
+    {
+      "id": "Q38",
+      "prompt": "Scientists propose using embryonic stem cells to replace damaged nerve cells in a person with paralysis. Evaluate this proposal, including benefits, medical risks and ethical concerns.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "cell-processes",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.2.3",
+        "WS1.3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.7",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        },
+        {
+          "year": 2018,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "06.8",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN18.pdf",
+          "question_paper_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/QP/June%202018%20QP.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN18.pdf",
+          "mark_scheme_url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Past-Papers/AQA/Paper-1H/MS/June%202018%20MS.pdf"
+        },
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "07.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        },
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "07.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points; linked explanation for extended responses"
+    },
+    {
+      "id": "Q39",
+      "prompt": "Describe how to prepare an onion-cell slide, obtain a clear image using a light microscope, and record what you observe.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.2",
+        "4.1.1.5",
+        "RPA1"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.2",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        },
+        {
+          "year": 2022,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN22.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-QP-JUN22.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN22.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84611H-MS-JUN22.PDF"
+        }
+      ],
+      "marking": "suggested marking points; linked explanation for extended responses"
+    },
+    {
+      "id": "Q40",
+      "prompt": "Plan an investigation into how salt concentration affects the percentage change in mass of potato pieces. Include measurements, control variables and how to process the results.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2024,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "05.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN24.pdf",
+          "question_paper_url": "https://cdn.sanity.io/files/p28bar15/green/45bce632101224bd077beea4b962c027353a7abc.pdf",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN24.pdf",
+          "mark_scheme_url": "https://cdn.sanity.io/files/p28bar15/green/8d711ebd0128dce40f21490bfc3ab7305e492fda.pdf"
+        }
+      ],
+      "marking": "suggested marking points; linked explanation for extended responses"
+    },
+    {
+      "id": "Q41",
+      "prompt": "A student tests three salt concentrations using one potato cube in each. The cubes come from the same potato and have equal dimensions. The student records initial mass, leaves each cube “for a while”, then weighs it wet. Different solution volumes are used. The student compares the changes in grams.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.3.2",
+        "RPA3",
+        "WS"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2025,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.1",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN25.pdf",
+          "question_paper_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI253.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN25.pdf",
+          "mark_scheme_url": "https://revisionscience.com/sites/default/files/revisionscience/documents/ABI254.PDF"
+        }
+      ],
+      "marking": "suggested marking points; linked explanation for extended responses"
+    },
+    {
+      "id": "Q42",
+      "prompt": "Describe a school investigation to compare the effects of two antiseptics on bacterial growth. Include aseptic technique, a control, fair-test conditions and measurements.",
+      "marks": 6,
+      "mark_group": "marks-6",
+      "theme": "practical-investigations",
+      "type": "adapted practice",
+      "specification": [
+        "4.1.1.6",
+        "RPA2"
+      ],
+      "current_specification_relevant": true,
+      "evidence": [
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.3",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.4",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.5",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        },
+        {
+          "year": 2023,
+          "series": "June",
+          "board": "AQA",
+          "qualification": "8461",
+          "paper": "8461/1H",
+          "question": "03.7",
+          "question_paper": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+          "question_paper_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-QP-JUN23.PDF",
+          "mark_scheme": "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf",
+          "mark_scheme_url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84611H-MS-JUN23.PDF"
+        }
+      ],
+      "marking": "suggested marking points; linked explanation for extended responses"
+    }
+  ],
+  "review_notes": [
+    "All questions use new wording or contexts/data and proposed marks; none is presented as a verbatim official question or mark scheme.",
+    "Q28 is specification-based bacterial doubling practice; June 2022 Q02.3 supports the transferable time/division calculation, but concerns fungal cells and does not ask exponential bacterial growth.",
+    "Q38 extends short-answer stem-cell evidence into an original evaluation task. Q39 and Q42 assemble required-practical methods; their six-mark allocations are original.",
+    "The June 2025 mark scheme prints 4.1.3.2 beside Q07.1/Q07.2. Their actual content is stem cells, correctly mapped here to 4.1.2.3.",
+    "Current online AQA wording says a maximum of 25 degrees C; the local older PDF says generally 25 degrees C. The current maximum is used.",
+    "Excluded clinical drug-testing procedures, immune responses, digestion detail, cancer biology and inheritance mechanisms beyond the Cell biology focus. Application questions supply the necessary context.",
+    "This is a focused question bank, not full curriculum coverage. Xylem/phloem and nerve/muscle examples remain available in revision notes.",
+    "Six-mark methods and evaluations are read as complete linked answers, not as a universal one-bullet-equals-one-mark rule."
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "site_title": "Shreya's Study Buddy",
+  "exam_year": 2027,
+  "target_grades": [
+    7,
+    8
+  ],
+  "subjects": {
+    "Computer Science - AQA": {
+      "code": "8525",
+      "tier": "Untiered",
+      "topics": [
+        {
+          "reference": "3.1",
+          "title": "Fundamentals of algorithms"
+        },
+        {
+          "reference": "3.2",
+          "title": "Programming"
+        },
+        {
+          "reference": "3.3",
+          "title": "Fundamentals of data representation"
+        },
+        {
+          "reference": "3.4",
+          "title": "Computer systems"
+        },
+        {
+          "reference": "3.5",
+          "title": "Fundamentals of computer networks"
+        },
+        {
+          "reference": "3.6",
+          "title": "Cyber security"
+        },
+        {
+          "reference": "3.7",
+          "title": "Relational databases and SQL"
+        },
+        {
+          "reference": "3.8",
+          "title": "Ethical legal and environmental impacts"
+        }
+      ]
+    },
+    "English Language - Eduqas": {
+      "code": "C700QS",
+      "tier": "Untiered",
+      "topics": [
+        {
+          "reference": "Component 1 Reading",
+          "title": "20th-century fiction reading"
+        },
+        {
+          "reference": "Component 1 Writing",
+          "title": "Creative prose writing"
+        },
+        {
+          "reference": "Component 2 Reading",
+          "title": "19th and 21st-century non-fiction reading"
+        },
+        {
+          "reference": "Component 2 Writing",
+          "title": "Transactional and persuasive writing"
+        },
+        {
+          "reference": "Spoken language",
+          "title": "Speaking listening and discussion"
+        }
+      ]
+    },
+    "English Literature - Eduqas": {
+      "code": "C720QS",
+      "tier": "Untiered",
+      "topics": [
+        {
+          "reference": "Component 1 Section A",
+          "title": "Macbeth"
+        },
+        {
+          "reference": "Component 1 Section B",
+          "title": "Poetry anthology - assessment from 2027"
+        },
+        {
+          "reference": "Component 2 Section A",
+          "title": "An Inspector Calls"
+        },
+        {
+          "reference": "Component 2 Section B",
+          "title": "A Christmas Carol"
+        },
+        {
+          "reference": "Component 2 Section C",
+          "title": "Unseen poetry"
+        }
+      ]
+    },
+    "Maths - Edexcel": {
+      "code": "1MA1",
+      "tier": "Higher",
+      "topics": [
+        {
+          "reference": "1",
+          "title": "Number"
+        },
+        {
+          "reference": "2",
+          "title": "Algebra"
+        },
+        {
+          "reference": "3",
+          "title": "Ratio proportion and rates of change"
+        },
+        {
+          "reference": "4",
+          "title": "Geometry and measures"
+        },
+        {
+          "reference": "5",
+          "title": "Probability"
+        },
+        {
+          "reference": "6",
+          "title": "Statistics"
+        }
+      ]
+    },
+    "Geography - OCR A": {
+      "code": "J383",
+      "tier": "Untiered",
+      "topics": [
+        {
+          "reference": "1.1",
+          "title": "Landscapes of the UK"
+        },
+        {
+          "reference": "1.2",
+          "title": "People of the UK"
+        },
+        {
+          "reference": "1.3",
+          "title": "UK environmental challenges"
+        },
+        {
+          "reference": "2.1",
+          "title": "Ecosystems of the planet"
+        },
+        {
+          "reference": "2.2",
+          "title": "People of the planet"
+        },
+        {
+          "reference": "2.3",
+          "title": "Environmental threats to our planet"
+        },
+        {
+          "reference": "J383-03",
+          "title": "Geographical skills"
+        },
+        {
+          "reference": "Fieldwork",
+          "title": "Physical and human fieldwork"
+        }
+      ]
+    },
+    "French - AQA": {
+      "code": "8652",
+      "tier": "Higher",
+      "topics": [
+        {
+          "reference": "3.1.1",
+          "title": "People and lifestyle"
+        },
+        {
+          "reference": "3.1.2",
+          "title": "Popular culture"
+        },
+        {
+          "reference": "3.1.3",
+          "title": "Communication and the world around us"
+        },
+        {
+          "reference": "3.2",
+          "title": "Grammar"
+        },
+        {
+          "reference": "3.3 and Appendix 2",
+          "title": "Vocabulary"
+        },
+        {
+          "reference": "Appendix 1",
+          "title": "Phonics and sound symbol correspondences"
+        },
+        {
+          "reference": "Paper 1",
+          "title": "Listening and dictation"
+        },
+        {
+          "reference": "Paper 2",
+          "title": "Speaking and reading aloud"
+        },
+        {
+          "reference": "Paper 3",
+          "title": "Reading and translation into English"
+        },
+        {
+          "reference": "Paper 4",
+          "title": "Writing and translation into French"
+        }
+      ]
+    },
+    "Biology - AQA": {
+      "code": "8461",
+      "tier": "Higher",
+      "topics": [
+        {
+          "reference": "4.1",
+          "title": "Cell biology"
+        },
+        {
+          "reference": "4.2",
+          "title": "Organisation"
+        },
+        {
+          "reference": "4.3",
+          "title": "Infection and response"
+        },
+        {
+          "reference": "4.4",
+          "title": "Bioenergetics"
+        },
+        {
+          "reference": "4.5",
+          "title": "Homeostasis and response"
+        },
+        {
+          "reference": "4.6",
+          "title": "Inheritance variation and evolution"
+        },
+        {
+          "reference": "4.7",
+          "title": "Ecology"
+        },
+        {
+          "reference": "3 and 8",
+          "title": "Working scientifically and required practicals"
+        },
+        {
+          "reference": "7",
+          "title": "Mathematical requirements"
+        }
+      ]
+    },
+    "Chemistry - AQA": {
+      "code": "8462",
+      "tier": "Higher",
+      "topics": [
+        {
+          "reference": "4.1",
+          "title": "Atomic structure and the periodic table"
+        },
+        {
+          "reference": "4.2",
+          "title": "Bonding structure and properties of matter"
+        },
+        {
+          "reference": "4.3",
+          "title": "Quantitative chemistry"
+        },
+        {
+          "reference": "4.4",
+          "title": "Chemical changes"
+        },
+        {
+          "reference": "4.5",
+          "title": "Energy changes"
+        },
+        {
+          "reference": "4.6",
+          "title": "Rate and extent of chemical change"
+        },
+        {
+          "reference": "4.7",
+          "title": "Organic chemistry"
+        },
+        {
+          "reference": "4.8",
+          "title": "Chemical analysis"
+        },
+        {
+          "reference": "4.9",
+          "title": "Chemistry of the atmosphere"
+        },
+        {
+          "reference": "4.10",
+          "title": "Using resources"
+        },
+        {
+          "reference": "3 and 8",
+          "title": "Working scientifically and required practicals"
+        },
+        {
+          "reference": "7 and Appendix A",
+          "title": "Mathematical requirements and periodic table"
+        }
+      ]
+    },
+    "Physics - AQA": {
+      "code": "8463",
+      "tier": "Higher",
+      "topics": [
+        {
+          "reference": "4.1",
+          "title": "Energy"
+        },
+        {
+          "reference": "4.2",
+          "title": "Electricity"
+        },
+        {
+          "reference": "4.3",
+          "title": "Particle model of matter"
+        },
+        {
+          "reference": "4.4",
+          "title": "Atomic structure"
+        },
+        {
+          "reference": "4.5",
+          "title": "Forces"
+        },
+        {
+          "reference": "4.6",
+          "title": "Waves"
+        },
+        {
+          "reference": "4.7",
+          "title": "Magnetism and electromagnetism"
+        },
+        {
+          "reference": "4.8",
+          "title": "Space physics"
+        },
+        {
+          "reference": "3 and 8",
+          "title": "Working scientifically and required practicals"
+        },
+        {
+          "reference": "7 and Appendix A",
+          "title": "Mathematical requirements and equations"
+        }
+      ]
+    }
+  },
+  "literature_texts": {
+    "shakespeare": "Macbeth",
+    "nineteenth_century": "A Christmas Carol",
+    "post_1914": "An Inspector Calls",
+    "poetry": "Eduqas anthology for first assessment 2027"
+  },
+  "pending": [
+    "Liverpool numerical fieldwork data, site details, scoring scale, count duration and evaluation",
+    "Role of Liverpool traffic counts and questionnaires in the specific enquiry, if used",
+    "River Alyn numerical data, site locations/spacing, exact velocity method, repeats and evaluation"
+  ],
+  "computer_science": {
+    "programming_language": "Python",
+    "algorithm_notation": "Pseudocode"
+  },
+  "geography": {
+    "case_studies": [
+      "Peruvian rainforest",
+      "North Norfolk coast",
+      "Salford Quays",
+      "River Wye",
+      "Leeds city",
+      "Somerset Levels",
+      "Andros Barrier Reef",
+      "Ethiopia",
+      "Istanbul, Turkey",
+      "Drought in Australia"
+    ],
+    "fieldwork_investigations": {
+      "human": {
+        "location": "Liverpool city",
+        "enquiry_question": "How far does environmental quality change across Liverpool town centre?",
+        "methods": [
+          "Environmental quality surveys",
+          "Pedestrian counts",
+          "Field sketches",
+          "Land-use mapping"
+        ],
+        "results": {
+          "source": "Qualitative findings supplied by user",
+          "central_areas": "Main shopping and central areas had the highest environmental quality scores, highest pedestrian counts and greatest concentration of retail and services.",
+          "quieter_streets": "Quieter streets away from the busiest central area had lower environmental quality scores and lower pedestrian numbers.",
+          "raw_data": null
+        },
+        "study_area": "Liverpool town centre (user wording)",
+        "previously_supplied_additional_methods": [
+          "Traffic counts",
+          "Questionnaires"
+        ],
+        "additional_methods_status": "Previously supplied for the setting; their role in this specific enquiry is not described.",
+        "environmental_quality_indicators": [
+          "Litter",
+          "Graffiti",
+          "Noise",
+          "Traffic",
+          "Building condition",
+          "Attractiveness"
+        ],
+        "environmental_quality_scoring": "Scores at each site added together for a total result; scale not supplied.",
+        "pedestrian_count_method": "Count people passing a fixed point during a set time; duration not supplied.",
+        "sampling": {
+          "type": "Systematic",
+          "description": "Regular points along a route, with several sites across busier and quieter parts of the town centre.",
+          "interval": null,
+          "site_count": null
+        },
+        "conclusion": "Environmental quality varied across the sampled sites; the busiest central areas were usually the best maintained and most attractive.",
+        "evaluation": null
+      },
+      "physical": {
+        "location": "River Alyn",
+        "enquiry_question": "How do river characteristics change downstream along the River Alyn?",
+        "methods": {
+          "width": "Measured across the channel",
+          "depth": "Measured at intervals to calculate an average depth",
+          "velocity": "Float or flow meter over a measured distance; exact method to confirm",
+          "bedload": "Size and shape recorded",
+          "channel_and_valley": "Channel shape and surrounding valley features observed"
+        },
+        "results": {
+          "source": "Qualitative student account supplied on 4 October 2026",
+          "width_and_depth": "Generally increased downstream",
+          "velocity": "Tended to increase downstream",
+          "bedload": "Became smaller and rounder downstream",
+          "raw_data": null
+        },
+        "sampling": {
+          "reported_type": "Systematic",
+          "description": "A series of sites from upstream to downstream",
+          "regular_interval_confirmed": false
+        },
+        "conclusion": "A general downstream pattern matched river theory, with possible variation at individual sites due to local conditions.",
+        "evaluation": null
+      }
+    },
+    "case_study_topic_mapping": "Confirm against school notes before authoring resources",
+    "energy_examples": [
+      {
+        "topic": "Anaerobic digestion",
+        "location": "Silloth, Cumbria",
+        "facility_name": "Dryholme Farm",
+        "school_case_study_year": 2011,
+        "year_status": "User-supplied case-study year; verify its meaning before authoring"
+      },
+      {
+        "topic": "Nuclear energy",
+        "location": "Hinkley Point C, Somerset",
+        "station_variant": "C"
+      }
+    ],
+    "ethiopia_aid_project": {
+      "name": "Oxfam goat aid",
+      "source": "User-supplied school example; verify project details before authoring"
+    },
+    "australian_drought": {
+      "start_year": 2002,
+      "end_year": 2009,
+      "date_status": "School study period supplied by user; verify event chronology and El Nino/La Nina link before authoring"
+    }
+  }
+}
