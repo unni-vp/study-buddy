@@ -1,6 +1,7 @@
 from PIL import Image, ImageDraw
 from cell_biology_visuals import f, label, cell, icon, mito, BASE, BLUE, GREEN, PURPLE, ORANGE, INK
 import textwrap
+from mindmap_branch_icons import BRANCH_ICONS, place_branch_icon
 
 MAPS=[
 ('01-cells','Cells','animal',[
@@ -48,6 +49,7 @@ def build_maps():
    c=cols[j];left=mx<900
    curve(d,(760 if left else 1040,675),(mx+180 if left else mx-180,my+70),c,12)
    d.line((mx-140 if left else mx-180,my+70,mx+180 if left else mx+140,my+70),fill=c,width=6)
+   place_branch_icon(im,mx,my-125,BRANCH_ICONS[slug][j],c)
    wrapped(d,mx,my-10,head,29,18,c,True)
    for k,text in enumerate(leaves):
     yy=ys[k] if len(leaves)>1 else my

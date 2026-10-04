@@ -47,3 +47,8 @@ This file applies to all future work in this project.
 - Label each Q&A answer **Answer:**, followed by the actual answer. Put single answers on the same line; use bullets where longer responses are easier to follow. Do not use Answer — suggested marking points. One- or two-word answers should be plain text, without bold emphasis. Keep the distinction between practice answers and official mark schemes in sources and internal metadata.
 
 - In HTML Q&A readers, put every answer in its own native details/summary disclosure, closed by default, labelled Answer:. Keep question wording, data and question diagrams visible; hide answer explanations, answer diagrams and answer-specific hints together. Support keyboard and touch use. Printing must reveal all answers and restore the student’s previous open/closed choices afterwards. Keep the editable Markdown as a single combined document with Answer: labels. Apply this to future topics too.
+
+- Keep all changes local. Do not commit, push or deploy unless the user explicitly asks. Earlier GitHub setup or push requests do not authorise later changes.
+- Add a small, relevant visual memory cue beside each main mind-map branch. Match the cue to the concept (for example a water droplet for osmosis, matching daughter cells for mitosis, or folded surfaces for large exchange area). Preserve the branching layout, all labels and readable spacing. Keep biological cues accurate and distinguish an icon from a complete mechanism diagram. Maintain the drawing source and inspect every regenerated map.
+
+- At the top of each HTML Q&A reading page, provide Expand all and Collapse all buttons for all answers on that page. Keep individual disclosures usable, answers collapsed on initial load, and bulk controls hidden in print.

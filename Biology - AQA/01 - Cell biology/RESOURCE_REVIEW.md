@@ -40,3 +40,19 @@ Project-wide prevention checks are recorded in AGENTS.md and RESOURCE_GUIDELINES
 - Mind-map navigation remains unchanged: large illustrated buttons open individual maps. Grouped reading is limited to revision notes and future Q&A, with the supported qa-layout.json workflow keeping question/answer pairs together.
 - Removed the superseded generated subtopic pages from this edit. Local-link validation passed for the resulting 100 pages. Browser validation passed for all four direct reading pages, Previous/Next, back links, complete printing, existing mind maps and mobile widths. Desktop revision selection fits within the tested 1440 × 1000 viewport; inspected the 390 px mobile layout visually.
 - Updated AGENTS.md and RESOURCE_GUIDELINES.md to preserve this preference across future subjects and topics.
+
+## Branch memory cues — 4 October 2026
+
+- Added one relevant icon above each of the four main branches on all four maps. Labels, connections, dimensions and central illustrations are unchanged.
+- DNA copying shows a single chromosome becoming joined identical copies; daughter-cell icons show matching complete sets. Human differentiation is separate from the plant-meristem cue.
+- Water droplets, high-to-low particles, energy/uphill arrows, folds, thin barriers and blood-refresh cues relate directly to the corresponding branch. Cube icons are three-dimensional and use a 1:3 side-length ratio.
+- Changes remain local. Do not commit, push or deploy without a new explicit user request.
+
+- Inspected all four regenerated maps and the desktop/mobile HTML readers. Branch icons and labels have clear spacing; the site still loads one map per page. Local validation passed across 103 HTML pages and the existing desktop/mobile navigation checks.
+
+## Bulk answer controls — 4 October 2026
+
+- Added Expand all and Collapse all above the mark-group links on both combined Q&A reader URLs. The shared renderer includes these controls for future topics.
+- All 42 answers start collapsed. Bulk controls affect answer explanations and answer diagrams, while question wording and diagrams remain visible. Individual disclosures remain usable after either bulk action.
+- Browser checks passed on desktop and mobile, including repeated clicks, keyboard activation, all 42 answers, answer diagrams, print expansion and restoration of previous choices. Bulk controls are hidden in print.
+- Inspected both Q&A reader screenshots. Changes remain local and uncommitted.

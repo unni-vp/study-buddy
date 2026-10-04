@@ -1,6 +1,12 @@
 // Printing shows every answer, then restores the student's open/closed choices.
 (() => {
   const answers = [...document.querySelectorAll('details.qa-answer')];
+  document.querySelectorAll('[data-qa-action]').forEach(button => {
+    button.addEventListener('click', () => {
+      const expand = button.dataset.qaAction === 'expand';
+      answers.forEach(answer => { answer.open = expand; });
+    });
+  });
   let previousState = null;
   function showAnswersForPrint() {
     if (previousState !== null) return;
