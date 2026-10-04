@@ -45,3 +45,9 @@ Edit the combined Markdown source, then regenerate support metadata if headings 
 
 - All 42 answers now use **Answer:**. Single-point answers appear inline; longer answers retain bullets. One- or two-word answers and short answer fragments use plain text.
 - A comparison ignoring emphasis, list markers and label changes confirmed that wording, numerical results, sources and diagram links are preserved.
+
+## Answer disclosures — 4 October 2026
+
+- All 42 HTML answers are collapsed by default, with native keyboard/touch disclosures. The combined Markdown content is unchanged.
+- Question diagrams and tables stay visible; the answer graph, explanations and answer-specific hints stay inside the disclosure.
+- Printing opens every answer and restores previous choices afterwards. Browser verification checks hidden answers, individual toggling, keyboard access, mobile layout and print restoration.

@@ -20,7 +20,7 @@ This project holds the official curriculum sources and topic folders for creatin
 
 Open [index.html](index.html) in a browser. It works locally without an internet connection or a server. Navigate Subjects → subject contents → topic → revision notes, mind maps or Questions & answers. Resource readers include links back to the topic and a Print button.
 
-Topics without resources are marked Not yet prepared. Cell biology has 42 practice questions with answers together on one page, grouped by marks. Future topics follow the same combined Q&A layout.
+Topics without resources are marked Not yet prepared. Cell biology has 42 practice questions with answers together on one page, grouped by marks. Select Answer to reveal each answer when you are ready to check it. All answers are included when printing. Future topics follow the same combined Q&A layout.
 
 ## How to use the library
 

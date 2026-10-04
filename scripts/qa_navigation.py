@@ -74,9 +74,18 @@ def build_qa_pages(source, target, subject, topic, topicpage, write, link):
         jumps = ''.join(f'<a href="#{g.id}">{g.title}</a>' for g in groups)
         sections = []
         for group in groups:
-            questions = ''.join(f'<div class="qa-question" id="q{n:02}">{render(page, text)}</div>' for n, text in group.questions)
-            sections.append(f'<section class="qa-mark-group" id="{group.id}"><h2>{group.title}</h2>{questions}</section>')
-        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1><nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+''.join(sections)+'</article>'
+            pairs = []
+            for n, text in group.questions:
+                if text.count('**Answer:**') != 1:
+                    raise ValueError(f'Question {n} must have exactly one answer label')
+                prompt, answer = text.split('**Answer:**', 1)
+                answer_id = f'answer-{n:02}'
+                disclosure = (f'<details class="qa-answer" id="{answer_id}">'
+                              f'<summary aria-label="Answer to question {n}">Answer:</summary>'
+                              f'<div class="qa-answer-body">{render(page, answer.strip())}</div></details>')
+                pairs.append(f'<div class="qa-question" id="q{n:02}">{render(page, prompt.strip())}{disclosure}</div>')
+            sections.append(f'<section class="qa-mark-group" id="{group.id}"><h2>{group.title}</h2>'+''.join(pairs)+'</section>')
+        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1><nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+''.join(sections)+'</article><script defer src="'+link(page, target.parent.parent/'qa.js')+'"></script>'
 
     source_link = f'<a href="{link(target, source_page)}">Past-paper sources</a>' if sources else ''
     write(target, title, f'<div class="reader-tools qa-tools"><a href="{link(target, topicpage)}">← Back to topic</a>{source_link}<button onclick="window.print()">Print Q&amp;A</button></div>'+content(target), crumbs, subject)
