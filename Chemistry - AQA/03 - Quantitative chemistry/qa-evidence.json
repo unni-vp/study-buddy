@@ -1,0 +1,231 @@
+{
+  "reviewed": "2026-10-05",
+  "sample": "June 2019, 2022 and 2023 AQA 8462/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "How many particles are in one mole of a substance?",
+      "answer": "6.02 × 10²³.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Convert 40.0 cm³ to dm³.",
+      "answer": "0.0400 dm³.",
+      "specification": "4.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a limiting reactant?",
+      "answer": "The reactant completely used up, which limits the amount of product.",
+      "specification": "4.3.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "State the volume of one mole of gas at room temperature and pressure.",
+      "answer": "24 dm³.",
+      "specification": "4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate the relative formula mass of Ca(OH)₂. Aᵣ: Ca = 40, O = 16, H = 1.",
+      "answer": "- Mᵣ = 40 + 2 × (16 + 1).\n- **Mᵣ = 74**, with no unit.",
+      "specification": "4.3.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why magnesium gains mass when it burns in air.",
+      "answer": "- Magnesium **reacts with oxygen from the air**.\n- The magnesium oxide includes the mass of this oxygen as well as the original magnesium.",
+      "specification": "4.3.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why an open flask containing acid and carbonate loses mass during the reaction.",
+      "answer": "- **Carbon dioxide gas forms and escapes**.\n- Its mass is no longer measured with the flask, although total mass including the gas is conserved.",
+      "specification": "4.3.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate the amount of substance in 5.6 g iron. Aᵣ: Fe = 56.",
+      "answer": "- n = mass ÷ molar mass = 5.6 ÷ 56.\n- **0.10 mol**.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate the mass of 0.15 mol sodium hydroxide, NaOH. Aᵣ: Na = 23, O = 16, H = 1.",
+      "answer": "- Mᵣ = 40; mass = 0.15 × 40.\n- **6.0 g**.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "A reaction has theoretical yield 12.0 g and actual yield 9.0 g. Calculate the percentage yield.",
+      "answer": "- Yield = (9.0 ÷ 12.0) × 100.\n- **75%**.",
+      "specification": "4.3.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two reasons a reaction may produce less than its theoretical yield.",
+      "answer": "- Some product is **lost during transfer or separation**.\n- A **reversible reaction may not go to completion**.",
+      "specification": "4.3.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "A solution contains 3.0 g solute in 150 cm³. Calculate its concentration in g/dm³.",
+      "answer": "- Volume = 0.150 dm³.\n- c = 3.0 ÷ 0.150 = **20 g/dm³**.",
+      "specification": "4.3.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "The mass of solute is doubled and the final solution volume is halved. How does concentration change? Explain.",
+      "answer": "- Concentration becomes **four times greater**.\n- c = mass/volume, so the factor is 2 ÷ 0.5 = 4.",
+      "specification": "4.3.2.5; 4.3.4",
+      "evidence": "2023 Q05.2",
+      "number": 13
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the percentage by mass of oxygen in Mg(NO₃)₂. Aᵣ: Mg = 24, N = 14, O = 16.",
+      "answer": "- Mᵣ = 24 + 2 × (14 + 3 × 16) = **148**.\n- Oxygen contributes 6 × 16 = **96**.\n- Percentage = 96/148 × 100 = **64.9%** to 3 significant figures.",
+      "specification": "4.3.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the number of molecules in 8.8 g carbon dioxide. Mᵣ: CO₂ = 44.",
+      "answer": "- Moles = 8.8 ÷ 44 = **0.20 mol**.\n- Molecules = 0.20 × 6.02 × 10²³.\n- **1.204 × 10²³ molecules**.",
+      "specification": "4.3.2.1",
+      "evidence": "2022 Q03.5",
+      "number": 15
+    },
+    {
+      "marks": 3,
+      "prompt": "Repeated temperature rises are 8.2, 8.4 and 8.6 °C. Calculate the mean and estimate uncertainty as half the range. Explain whether repeating removes an incorrectly calibrated thermometer error.",
+      "answer": "- Mean = **8.4 °C**.\n- Half-range = (8.6 − 8.2)/2 = **0.2 °C**; report 8.4 ± 0.2 °C.\n- Repeating does **not remove systematic calibration error**.",
+      "specification": "4.3.1.4",
+      "evidence": "2023 Q02.5–02.6",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the mass of sodium hydroxide in 200 cm³ of 0.250 mol/dm³ solution. Mᵣ: NaOH = 40.",
+      "answer": "- Volume = **0.200 dm³**.\n- n = cV = 0.250 × 0.200 = **0.0500 mol**.\n- Mass = 0.0500 × 40 = **2.00 g**.",
+      "specification": "4.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the volume of 7.0 g nitrogen gas at RTP. Mᵣ: N₂ = 28.",
+      "answer": "- n = 7.0/28 = **0.25 mol**.\n- V = n × 24.\n- **6.0 dm³**, or 6,000 cm³.",
+      "specification": "4.3.5",
+      "evidence": "2019 Q07.7",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "Calcium carbonate decomposes: CaCO₃ → CaO + CO₂. Calculate the atom economy for producing CaO. Mᵣ: CaCO₃ = 100, CaO = 56, CO₂ = 44.",
+      "answer": "- Desired-product formula mass = **56**.\n- Total reactant formula mass = **100**.\n- Atom economy = 56/100 × 100 = **56%**.",
+      "specification": "4.3.3.2",
+      "evidence": "2023 Q09.6",
+      "number": 19
+    },
+    {
+      "marks": 4,
+      "prompt": "Find the mass of aluminium obtained from 20.4 g Al₂O₃. Equation: 2Al₂O₃ → 4Al + 3O₂. Aᵣ: Al = 27, O = 16. Assume complete conversion.",
+      "answer": "- Mᵣ Al₂O₃ = 2 × 27 + 3 × 16 = **102**.\n- Moles Al₂O₃ = 20.4/102 = **0.200 mol**.\n- Ratio 2 : 4 gives **0.400 mol Al**.\n- Mass Al = 0.400 × 27 = **10.8 g**.",
+      "specification": "4.3.2.2",
+      "evidence": "2019 Q07.5; 2022 Q07.4",
+      "number": 20
+    },
+    {
+      "marks": 4,
+      "prompt": "3.2 g methane reacts with 12.8 g oxygen to produce 8.8 g carbon dioxide and 7.2 g water. Deduce the balanced equation. Mᵣ: CH₄ = 16, O₂ = 32, CO₂ = 44, H₂O = 18.",
+      "answer": "- Moles: CH₄ 0.20; O₂ 0.40; CO₂ 0.20; H₂O 0.40.\n- Divide by 0.20 to get **1 : 2 : 1 : 2**.\n- **CH₄ + 2O₂ → CO₂ + 2H₂O**.\n- Atom totals and masses balance: 16.0 g reactants gives 16.0 g products.",
+      "specification": "4.3.2.3",
+      "evidence": "2019 Q08.4",
+      "number": 21
+    },
+    {
+      "marks": 4,
+      "prompt": "Nitrogen and hydrogen react: N₂ + 3H₂ → 2NH₃. Mix 0.20 mol N₂ with 0.30 mol H₂. Identify the limiting reactant and calculate the amount of ammonia and the amount of nitrogen left.",
+      "answer": "- 0.30 mol H₂ needs 0.30/3 = **0.10 mol N₂**, less than the 0.20 mol available.\n- **Hydrogen is limiting**.\n- Ammonia formed = 0.30 × 2/3 = **0.20 mol**.\n- Nitrogen left = 0.20 − 0.10 = **0.10 mol**.",
+      "specification": "4.3.2.4",
+      "evidence": "2022 Q07.6",
+      "number": 22
+    },
+    {
+      "marks": 4,
+      "prompt": "At the same temperature and pressure, 80 cm³ hydrogen is mixed with 50 cm³ oxygen and ignited. Equation: 2H₂ + O₂ → 2H₂O. Calculate the oxygen volume left after reaction and explain why the equation does not give the volume of liquid water.",
+      "answer": "- 80 cm³ H₂ needs **40 cm³ O₂**.\n- Hydrogen is limiting, so oxygen left = 50 − 40 = **10 cm³**.\n- Gas volume ratios equal mole ratios at the **same temperature and pressure**.\n- Liquid water is not a gas, so the gas-volume rule cannot give its volume.",
+      "specification": "4.3.5",
+      "evidence": "2022 Q07.6",
+      "number": 23
+    },
+    {
+      "marks": 4,
+      "prompt": "A student heats 20.0 g CaCO₃ and collects 8.4 g CaO. Calculate the percentage yield. Equation: CaCO₃ → CaO + CO₂. Mᵣ: CaCO₃ = 100, CaO = 56.",
+      "answer": "- CaCO₃ moles = 20.0/100 = **0.200 mol**.\n- CaO theoretical moles = 0.200; theoretical mass = 0.200 × 56 = **11.2 g**.\n- Yield = 8.4/11.2 × 100.\n- **75%**.",
+      "specification": "4.3.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 4,
+      "prompt": "For X₂O₃ + 3H₂ → 2X + 3H₂O, the atom economy for X is 75.0%. Calculate Aᵣ of X. Aᵣ: H = 1, O = 16.",
+      "answer": "- Let Aᵣ of X = x. Desired mass from equation = **2x**; reactant total = **2x + 54**.\n- 2x/(2x + 54) = 0.750.\n- 2x = 1.5x + 40.5, so 0.5x = 40.5.\n- **x = 81.0**.",
+      "specification": "4.3.3.2",
+      "evidence": "2023 Q09.6",
+      "number": 25
+    },
+    {
+      "marks": 5,
+      "prompt": "25.0 cm³ of 0.0800 mol/dm³ Na₂CO₃ reacts exactly with 20.0 cm³ HCl. Calculate the HCl concentration in mol/dm³ and g/dm³. Equation: Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O. Mᵣ: HCl = 36.5.",
+      "answer": "- Na₂CO₃ volume = **0.0250 dm³**.\n- Moles Na₂CO₃ = 0.0800 × 0.0250 = **0.00200 mol**.\n- Equation ratio gives **0.00400 mol HCl**.\n- HCl concentration = 0.00400/0.0200 = **0.200 mol/dm³**.\n- Mass concentration = 0.200 × 36.5 = **7.30 g/dm³**.",
+      "specification": "4.3.4",
+      "evidence": "2019 Q09.5; 2022 Q08.3; 2023 Q05.5",
+      "number": 26
+    },
+    {
+      "marks": 6,
+      "prompt": "Titanium dioxide reacts: TiO₂ + 2Cl₂ + 2C → TiCl₄ + 2CO. Calculate the volume of chlorine at RTP needed for 40.0 kg TiO₂. Aᵣ: Ti = 48, O = 16. One mole of gas occupies 24 dm³.",
+      "answer": "- Convert 40.0 kg to **40,000 g**.\n- Mᵣ TiO₂ = 48 + 2 × 16 = **80**.\n- Moles TiO₂ = 40,000/80 = **500 mol**.\n- Ratio TiO₂ : Cl₂ = 1 : 2.\n- Chlorine amount = **1,000 mol**.\n- Volume = 1,000 × 24 = **24,000 dm³**.",
+      "specification": "4.3.5",
+      "evidence": "2023 Q10.2",
+      "number": 27
+    },
+    {
+      "marks": 6,
+      "prompt": "Route A has atom economy 90%, yield 60% and takes 3 hours. Route B has atom economy 70%, yield 95% and takes 20 minutes; its by-product can be sold. Evaluate which route a factory should choose.",
+      "answer": "- A directs a larger proportion of starting atoms into the desired product, so its **theoretical waste is lower**.\n- Its lower yield means less expected product is actually collected; recoverable reactants and losses matter.\n- B has a **higher yield and faster production**, potentially improving throughput and cost.\n- Selling B’s by-product reduces disposal and may provide income, despite its lower atom economy for the main product.\n- Compare feedstock, energy, separation and disposal costs and whether a market exists for the by-product.\n- B is a reasonable provisional choice from these data, but a final choice needs those costs and environmental impacts; atom economy alone is insufficient.",
+      "specification": "4.3.3.1–4.3.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    }
+  ]
+}
