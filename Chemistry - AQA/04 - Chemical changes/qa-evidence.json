@@ -1,0 +1,271 @@
+{
+  "reviewed": "2026-10-05",
+  "sample": "June 2019, 2022 and 2023 AQA 8462/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Which ion makes an aqueous solution acidic?",
+      "answer": "H⁺.",
+      "specification": "4.4.2.4",
+      "evidence": "2019 Q02.1",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Give the formula of the ion responsible for alkalinity.",
+      "answer": "OH⁻.",
+      "specification": "4.4.2.4",
+      "evidence": "2023 Q05.4",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What type of salt is formed using nitric acid?",
+      "answer": "Nitrate.",
+      "specification": "4.4.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "At which electrode does reduction take place during electrolysis?",
+      "answer": "Cathode.",
+      "specification": "4.4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What is meant by a weak acid?",
+      "answer": "An acid that is only partially ionised in aqueous solution.",
+      "specification": "4.4.2.6",
+      "evidence": "2023 Q05.1",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "Which gas forms when magnesium reacts with dilute hydrochloric acid?",
+      "answer": "Hydrogen.",
+      "specification": "4.4.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why copper does not react with dilute hydrochloric acid.",
+      "answer": "- Copper is **less reactive than hydrogen**.\n- It cannot **displace hydrogen** from this dilute acid.",
+      "specification": "4.4.1.2; 4.4.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Write a balanced equation for magnesium reacting with hydrochloric acid.",
+      "answer": "**Mg + 2HCl → MgCl₂ + H₂**. The two hydrogen atoms form one H₂ molecule.",
+      "specification": "4.4.2.1",
+      "evidence": "2023 Q08.5",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Write the ionic equation for neutralisation, including state symbols.",
+      "answer": "**H⁺(aq) + OH⁻(aq) → H₂O(l)**.",
+      "specification": "4.4.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Zinc is placed in copper sulfate solution. State two expected observations.",
+      "answer": "- A **brown copper deposit** forms.\n- The **blue colour fades** as copper ions leave the solution.",
+      "specification": "4.4.1.2",
+      "evidence": "2022 Q04.5",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why carbon can extract copper from copper oxide but cannot extract aluminium from aluminium oxide.",
+      "answer": "- Carbon is **more reactive than copper**, so it can remove oxygen from copper oxide.\n- Aluminium is **more reactive than carbon**, so its oxide cannot be reduced by carbon in this way.",
+      "specification": "4.4.1.3",
+      "evidence": "2022 Q07.1–07.3; 2023 Q09.5",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is excess copper oxide added when preparing copper sulfate from sulfuric acid?",
+      "answer": "- It ensures **all the acid reacts**.\n- Any unreacted insoluble oxide can then be **removed by filtration**.",
+      "specification": "4.4.2.3",
+      "evidence": "2022 Q04.1–04.2",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Name a suitable indicator for adding acid to sodium hydroxide in a titration, and state its endpoint colour change.",
+      "answer": "- Phenolphthalein.\n- **Pink to colourless**.",
+      "specification": "4.4.2.5",
+      "evidence": "2023 Q05.3",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why does solid sodium chloride not undergo electrolysis, whereas molten sodium chloride does?",
+      "answer": "- In the solid, ions are **fixed in a lattice**.\n- When molten, ions are **free to move to electrodes and carry charge**.",
+      "specification": "4.4.3.1",
+      "evidence": "2022 Q06.3",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Write the half-equation for aluminium forming from aluminium ions. State whether this is oxidation or reduction.",
+      "answer": "- **Al³⁺ + 3e⁻ → Al**.\n- **Reduction**, because electrons are gained.",
+      "specification": "4.4.3.3; 4.4.3.5",
+      "evidence": "2019 Q07.2; 2023 Q07.1",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why aluminium oxide is mixed with cryolite for electrolysis.",
+      "answer": "- The mixture has a **lower melting/operating temperature** than pure aluminium oxide.\n- This reduces the **energy needed for heating**.",
+      "specification": "4.4.3.3",
+      "evidence": "2019 Q07.1",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "How does hydrogen ion concentration change when pH changes from 5 to 2?",
+      "answer": "- It **increases**.\n- By **10³ = 1,000 times**, because each decrease of one pH unit gives a tenfold increase.",
+      "specification": "4.4.2.6",
+      "evidence": "2023 Q05.6",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "Metal A displaces B from its salt. Metal C displaces A. B does not displace A or C. Deduce the reactivity order and explain what greater reactivity means in terms of ions.",
+      "answer": "- Order: **C > A > B**.\n- A metal displaces a **less reactive** metal from its compound.\n- More reactive metals have a greater tendency to **lose electrons and form positive ions**.",
+      "specification": "4.4.1.2",
+      "evidence": "2023 Q09.4",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "Write the ionic equation for zinc displacing copper and identify which species is oxidised and which is reduced.",
+      "answer": "- **Zn + Cu²⁺ → Zn²⁺ + Cu**.\n- Zinc is **oxidised**, losing two electrons.\n- Copper ions are **reduced**, gaining two electrons.",
+      "specification": "4.4.1.4",
+      "evidence": "2022 Q04.5–04.6; 2023 Q09.3",
+      "number": 19
+    },
+    {
+      "marks": 3,
+      "prompt": "Write a balanced equation for copper carbonate reacting with sulfuric acid, and name the gas test.",
+      "answer": "- **CuCO₃ + H₂SO₄ → CuSO₄ + H₂O + CO₂**.\n- Bubble the gas through **limewater**.\n- It becomes **cloudy**, identifying carbon dioxide.",
+      "specification": "4.4.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why the carbon anodes must be replaced during aluminium extraction.",
+      "answer": "- **Oxygen forms at the positive electrode**.\n- It **reacts with the carbon**, forming carbon dioxide.\n- The carbon anodes are consumed and wear away.",
+      "specification": "4.4.3.3",
+      "evidence": "2019 Q07.4",
+      "number": 21
+    },
+    {
+      "marks": 3,
+      "prompt": "Predict both products when molten lead bromide is electrolysed using inert electrodes. Write the anode half-equation.",
+      "answer": "- Lead forms at the **negative cathode**.\n- Bromine forms at the **positive anode**.\n- **2Br⁻ → Br₂ + 2e⁻**.",
+      "specification": "4.4.3.2; 4.4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 3,
+      "prompt": "Predict the products from aqueous sodium sulfate with inert electrodes and explain your choices.",
+      "answer": "- **Hydrogen at the cathode**: sodium is more reactive than hydrogen.\n- **Oxygen at the anode**: the solution contains no halide ions.\n- Water supplies hydrogen and hydroxide ions, which compete with the dissolved salt ions.",
+      "specification": "4.4.3.4",
+      "evidence": "2022 Q06.4–06.6; 2023 Q07.2–07.3",
+      "number": 23
+    },
+    {
+      "marks": 3,
+      "prompt": "Why should a titration burette be rinsed with acid, but the conical flask may be rinsed with distilled water?",
+      "answer": "- Water left in the burette would **dilute the acid** and change its concentration.\n- Rinsing with acid avoids that dilution.\n- Water in the conical flask does **not change the moles of alkali**, so it does not change the reacting acid amount.",
+      "specification": "4.4.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 3,
+      "prompt": "A student obtains titres 24.60 cm³ (rough), 24.20 cm³, 24.10 cm³ and 24.15 cm³. Using a concordance tolerance of 0.10 cm³, calculate the mean titre and explain the selection.",
+      "answer": "- Exclude the **rough trial**.\n- The three accurate titres are within 0.10 cm³ of each other.\n- Mean = (24.20 + 24.10 + 24.15)/3 = **24.15 cm³**.",
+      "specification": "4.4.2.5",
+      "evidence": "2022 Q08.2",
+      "number": 25
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare a dilute strong acid and a concentrated weak acid. Explain why strength alone is insufficient to decide which sample has the lower pH.",
+      "answer": "- Strong means **fully ionised**; weak means **partly ionised** in water.\n- Dilute means little acid per volume; concentrated means much acid per volume.\n- pH depends on the resulting **H⁺ concentration**, which depends on both properties.\n- Without concentrations and ionisation information, strength alone cannot determine the lower pH.",
+      "specification": "4.4.2.6",
+      "evidence": "2022 Q08.1",
+      "number": 26
+    },
+    {
+      "marks": 4,
+      "prompt": "Copper chloride solution is electrolysed in the apparatus below using inert electrodes. Name the products and write both electrode half-equations.\n\n![Electrolysis setup with a negative cathode and positive anode.](../Diagrams/electrolysis.svg)",
+      "answer": "- Cathode product: **copper**.\n- **Cu²⁺ + 2e⁻ → Cu**.\n- Anode product: **chlorine**.\n- **2Cl⁻ → Cl₂ + 2e⁻**.",
+      "specification": "4.4.3.4–4.4.3.5",
+      "evidence": "2023 Q07.1–07.3",
+      "number": 27
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare the products of molten and aqueous sodium chloride electrolysis, using inert electrodes. Explain the difference at the cathode.",
+      "answer": "- Molten: **sodium at cathode, chlorine at anode**.\n- Aqueous: **hydrogen at cathode, chlorine at anode**.\n- The aqueous solution also contains ions from **water**.\n- Sodium is more reactive than hydrogen, so hydrogen is produced instead of sodium in the aqueous solution.",
+      "specification": "4.4.3.2–4.4.3.4",
+      "evidence": "2019 Q07.6; 2022 Q06.1–06.6",
+      "number": 28
+    },
+    {
+      "marks": 4,
+      "prompt": "Write the anode half-equation for oxygen production from hydroxide ions. Show that charge and atoms balance.",
+      "answer": "- **4OH⁻ → O₂ + 2H₂O + 4e⁻**.\n- Both sides contain **four oxygen atoms and four hydrogen atoms**.\n- Left total charge is −4; right total charge is also −4 from the four electrons.\n- Electrons are lost, so this is **oxidation**.",
+      "specification": "4.4.3.5",
+      "evidence": "2023 Q07.3",
+      "number": 29
+    },
+    {
+      "marks": 5,
+      "prompt": "25.0 cm³ NaOH is neutralised by 18.0 cm³ of 0.100 mol/dm³ H₂SO₄. Calculate NaOH concentration in mol/dm³ and g/dm³. H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. Mᵣ: NaOH = 40.",
+      "answer": "- Acid volume = **0.0180 dm³**.\n- Acid moles = 0.100 × 0.0180 = **0.00180 mol**.\n- NaOH moles = 2 × 0.00180 = **0.00360 mol**.\n- NaOH concentration = 0.00360/0.0250 = **0.144 mol/dm³**.\n- In g/dm³: 0.144 × 40 = **5.76 g/dm³**.",
+      "specification": "4.4.2.5",
+      "evidence": "2019 Q09.5; 2022 Q08.3; 2023 Q05.5",
+      "number": 30
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe how to prepare a pure, dry sample of copper sulfate crystals using copper oxide and dilute sulfuric acid. Explain the main stages.",
+      "answer": "- Wear goggles and **gently warm dilute sulfuric acid**, then remove the burner.\n- Add copper oxide in small portions while stirring until **excess solid remains**, ensuring all acid has reacted.\n- **Filter** to remove the excess insoluble oxide; keep the copper sulfate filtrate.\n- Use a water bath or electric heater to **evaporate some water**, concentrating the solution without strongly heating it to dryness.\n- Leave to **cool and crystallise**.\n- Filter crystals, rinse with a little cold distilled water and dry between filter papers.",
+      "specification": "4.4.2.3",
+      "evidence": "2022 Q04.1–04.4; 2023 Q03.1",
+      "number": 31
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe how to find accurate reacting volumes for hydrochloric acid and sodium hydroxide by titration.",
+      "answer": "- Rinse a volumetric pipette with alkali and use a filler to transfer a fixed volume to a conical flask. Add a few drops of phenolphthalein; use a white tile and goggles.\n- Rinse the burette with acid, fill it, remove the funnel and ensure the jet has no air bubble.\n- Record the **initial meniscus reading at eye level**.\n- Add acid while swirling; add **drop by drop near the endpoint** until the first permanent pink-to-colourless change.\n- Record the final reading; **titre = final − initial**.\n- After a rough trial, repeat to obtain **concordant accurate titres** and calculate their mean, excluding the rough trial.",
+      "specification": "4.4.2.5",
+      "evidence": "2019 Q02.5",
+      "number": 32
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan an investigation to test whether changing an aqueous salt changes electrolysis products. Include control variables and product identification.",
+      "answer": "- Predict products for two solutions, such as copper chloride and sodium sulfate, using the ions present and reactivity rules.\n- Use a low-voltage DC supply and **inert electrodes**, keeping them apart. Identify each electrode polarity.\n- Keep concentration, volume, voltage, electrode area/separation and reaction time constant. Use clean electrodes to prevent contamination.\n- Observe each electrode separately and collect any gases: hydrogen gives a pop; oxygen relights a glowing splint; chlorine bleaches damp litmus. Look for a copper deposit as well.\n- Repeat each trial and compare observations with predictions; check the circuit before treating lack of bubbles as evidence of no product.\n- Wear goggles, use the instructed ventilation for chlorine and switch off before adjusting equipment.",
+      "specification": "4.4.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    }
+  ]
+}
