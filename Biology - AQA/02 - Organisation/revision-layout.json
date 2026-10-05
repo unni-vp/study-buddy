@@ -1,0 +1,59 @@
+{
+  "source": "Organisation - Revision Notes.md",
+  "groups": [
+    {
+      "id": "digestion",
+      "title": "Digestion & enzymes",
+      "description": "Food molecules, enzymes and practical tests",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Cells, tissues and digestion"
+        },
+        {
+          "heading": "Enzymes and their products"
+        },
+        {
+          "heading": "Food tests"
+        },
+        {
+          "heading": "Investigating amylase and pH"
+        }
+      ]
+    },
+    {
+      "id": "circulation",
+      "title": "Heart, blood & health",
+      "description": "Circulation, gas exchange, disease and treatments",
+      "icon": "transport",
+      "sections": [
+        {
+          "heading": "The heart and double circulation"
+        },
+        {
+          "heading": "Blood, vessels and lungs"
+        },
+        {
+          "heading": "Coronary heart disease and treatments"
+        },
+        {
+          "heading": "Health, risk factors and cancer"
+        }
+      ]
+    },
+    {
+      "id": "plant-transport",
+      "title": "Plant tissues & transport",
+      "description": "Leaf structure, transpiration and translocation",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "Leaf tissues"
+        },
+        {
+          "heading": "Transpiration and translocation"
+        }
+      ]
+    }
+  ]
+}
