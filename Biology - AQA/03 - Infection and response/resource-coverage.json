@@ -1,0 +1,29 @@
+{
+  "reviewed": "2026-10-05",
+  "specification": "AQA 8461 4.3",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "pdf_pages": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "coverage": {
+    "4.3.1.1": "Pathogens and transmission",
+    "4.3.1.2\u20134.3.1.5": [
+      "Human infections",
+      "Plant infections and deficiencies"
+    ],
+    "4.3.1.6": "Barriers and white blood cells",
+    "4.3.1.7": "Vaccination",
+    "4.3.1.8": "Antibiotics and other medicines",
+    "4.3.1.9": "Developing new drugs",
+    "4.3.2.1\u20134.3.2.2": "Monoclonal antibodies",
+    "4.3.3.1": "Plant infections and deficiencies",
+    "4.3.3.2": "Plant defences"
+  },
+  "practicals": []
+}

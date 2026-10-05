@@ -1,0 +1,56 @@
+{
+  "source": "Infection and response - Revision Notes.md",
+  "groups": [
+    {
+      "id": "infections",
+      "title": "Infections & defence",
+      "description": "Pathogens, human diseases and immunity",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Pathogens and transmission"
+        },
+        {
+          "heading": "Human infections"
+        },
+        {
+          "heading": "Barriers and white blood cells"
+        },
+        {
+          "heading": "Vaccination"
+        }
+      ]
+    },
+    {
+      "id": "medicines",
+      "title": "Medicines & antibodies",
+      "description": "Drug testing, antibiotics and targeted antibodies",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Antibiotics and other medicines"
+        },
+        {
+          "heading": "Developing new drugs"
+        },
+        {
+          "heading": "Monoclonal antibodies"
+        }
+      ]
+    },
+    {
+      "id": "plants",
+      "title": "Plant health",
+      "description": "Infections, deficiencies and protective adaptations",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "Plant infections and deficiencies"
+        },
+        {
+          "heading": "Plant defences"
+        }
+      ]
+    }
+  ]
+}

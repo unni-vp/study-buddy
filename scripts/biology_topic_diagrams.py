@@ -46,4 +46,27 @@ def organisation():
   s+=f'<path d="M{px} {py}L615 {y-6}H640" fill="none" stroke="#71858a" stroke-width="1.5"/>'+text(650,y,label,21)
  s+=text(280,449,'Stoma between guard cells',21,'middle')
  save(folder,'leaf-tissues','Leaf tissue cross-section',s,h=475)
-if __name__=='__main__':organisation()
+
+def infection():
+ folder=ROOT/'Biology - AQA/03 - Infection and response/Diagrams'
+ s=text(500,35,'The same antigen triggers a faster second response',25,'middle')
+ for x,title,second in [(65,'First exposure',False),(555,'Later exposure',True)]:
+  s+=arrow(f'M{x} 300V75')+arrow(f'M{x} 300H{x+360}')
+  s+=text(x+180,355,title,23,'middle')+text(x+180,387,'Time after exposure',18,'middle')
+  s+=text(x+18,82,'Antibody level',18)
+  curve=f'M{x+5} 298C{x+45} 298 {x+48} 100 {x+120} 100S{x+260} 160 {x+345} 195' if second else f'M{x+5} 298C{x+130} 298 {x+125} 220 {x+185} 220S{x+260} 266 {x+345} 285'
+  s+=f'<path d="{curve}" fill="none" stroke="{GREEN if second else BLUE}" stroke-width="5"/>'
+ s+=text(500,435,'Schematic curves: compare the delay and size of the response.',18,'middle')
+ save(folder,'immune-memory','Immune memory: slower primary and faster secondary antibody response',s,h=460)
+ s=box(40,35,320,65,'Mouse lymphocyte')+box(640,35,320,65,'Tumour cell')
+ s+=text(200,136,'Makes a specific antibody',20,'middle')+text(800,136,'Divides repeatedly',20,'middle')
+ s+=arrow('M360 68H500V170')+arrow('M640 68H500')+text(525,151,'Fuse',20)
+ s+=box(345,175,310,60,'Hybridoma')+text(500,269,'Select one making the required antibody',21,'middle')
+ s+=arrow('M500 283V315')+box(260,320,480,60,'Clone → many identical hybridomas')
+ s+=arrow('M500 385V425')+box(260,430,480,60,'Collect and purify the antibodies')
+ save(folder,'hybridoma','Production of monoclonal antibodies',s,h=520)
+
+if __name__=='__main__':
+ import sys
+ functions={'organisation':organisation,'infection':infection}
+ functions[sys.argv[1] if len(sys.argv)>1 else 'organisation']()
