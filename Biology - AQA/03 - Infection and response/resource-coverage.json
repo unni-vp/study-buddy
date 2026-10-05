@@ -25,5 +25,16 @@
     "4.3.3.1": "Plant infections and deficiencies",
     "4.3.3.2": "Plant defences"
   },
-  "practicals": []
+  "practicals": [],
+  "mindmaps": {
+    "maps": [
+      "00-infection-and-response-overview",
+      "01-pathogens-and-disease",
+      "02-defence-and-vaccination",
+      "03-medicines-and-antibodies",
+      "04-plant-health"
+    ],
+    "reviewed": "2026-10-05",
+    "print": "A4 landscape; body >=11 pt, labels >=10 pt; all reader/modal proofs and fullscreen desktop/mobile checked"
+  }
 }

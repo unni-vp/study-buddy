@@ -39,6 +39,27 @@ def words(s,x,y,width,c):
 def illustration(kind,width,height):
  """Keep the useful artwork; redraw labels at physical print sizes, never scaled down."""
  out=[]
+ if kind=='course-memory':
+  half=width/2
+  out.append(text(width/2,16,'Antibody level over time',15,anchor='middle',cls='diagram-label'))
+  for j,label in enumerate(['First exposure','Later exposure']):
+   x=8+j*half
+   out.append(f'<path d="M{x} 86V29M{x} 86H{x+half-22}" fill="none" stroke="#617480"/>')
+   curve=f'M{x+3} 85Q{x+25} 84 {x+42} 63T{x+half-26} 83' if j==0 else f'M{x+3} 85Q{x+12} 25 {x+45} 31T{x+half-26} 46'
+   out.append(f'<path d="{curve}" fill="none" stroke="#2166ad" stroke-width="3"/>')
+   out.append(text(x+half/2-10,109,label,15,anchor='middle',cls='diagram-label'))
+  return ''.join(out)
+ if kind=='course-chlorosis':
+  for x,c,label in [(width*.25,'#8bbc55','Healthy'),(width*.75,'#ebd365','Chlorosis')]:
+   out.append(f'<path d="M{x} 51Q{x-35} 22 {x+8} 5Q{x+35} 41 {x} 51M{x} 56L{x+8} 12" fill="{c}" stroke="#57794a" stroke-width="2"/>')
+   out.append(text(x,78,label,15,anchor='middle',cls='diagram-label'))
+  return ''.join(out)
+ if kind=='course-hybridoma':
+  cx=width/2
+  out.append(text(5,20,'Lymphocyte',15,cls='diagram-label')+text(width-5,20,'Tumour cell',15,anchor='end',cls='diagram-label'))
+  out.append(f'<path d="M45 30L{cx} 49L{width-45} 30M{cx} 49V65m-4-5 4 5 4-5" fill="none" stroke="#2166ad" stroke-width="2"/>')
+  out.append(text(cx,84,'Hybridoma → clone',15,anchor='middle',cls='diagram-label'))
+  return ''.join(out)
  if kind=='course-heart':
   for y,left,right in [(10,'Right heart','Lungs'),(52,'Left heart','Body')]:
    out.append(f'<rect x="5" y="{y}" width="110" height="28" rx="6" fill="#e9f3ff" stroke="#2166ad"/><rect x="{width-100}" y="{y}" width="95" height="28" rx="6" fill="#e9f3ff" stroke="#2166ad"/>')

@@ -19,6 +19,10 @@
         {
           "heading": "Vaccination"
         }
+      ],
+      "maps": [
+        "01-pathogens-and-disease",
+        "02-defence-and-vaccination"
       ]
     },
     {
@@ -36,6 +40,9 @@
         {
           "heading": "Monoclonal antibodies"
         }
+      ],
+      "maps": [
+        "03-medicines-and-antibodies"
       ]
     },
     {
@@ -50,6 +57,9 @@
         {
           "heading": "Plant defences"
         }
+      ],
+      "maps": [
+        "04-plant-health"
       ]
     }
   ]
