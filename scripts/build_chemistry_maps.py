@@ -5,6 +5,10 @@ import a4_mindmaps as a4
 import subprocess,sys,json
 base_illustration=a4.illustration
 def illustration(kind,w,h):
+ if kind=='chem-profile':
+  out=f'<path d="M25 17V90H{w-15}" stroke="#617480" fill="none"/><path d="M35 48H70C100 48 105 12 140 12S190 78 {w-60} 78H{w-25}" stroke="#2166ad" stroke-width="3" fill="none"/>'
+  out+=a4.text(48,40,'R',15,anchor='middle',cls='diagram-label')+a4.text(w-45,69,'P',15,anchor='middle',cls='diagram-label')
+  return out+a4.text(w/2,114,'Exothermic: products (P) lower',15,anchor='middle',cls='diagram-label')
  if kind=='chem-electrodes':
   out=a4.text(32,22,'−',24,anchor='middle')+a4.text(w-32,22,'+',24,anchor='middle')
   out+=a4.text(32,70,'Cathode',15,anchor='middle',cls='diagram-label')+a4.text(w-32,70,'Anode',15,anchor='middle',cls='diagram-label')

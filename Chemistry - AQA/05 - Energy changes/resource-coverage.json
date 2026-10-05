@@ -11,5 +11,11 @@
   },
   "practicals": [
     "RP4 temperature changes"
+  ],
+  "mindmaps": [
+    "00-energy-changes-overview",
+    "01-profiles-and-bond-energies",
+    "02-temperature-practical",
+    "03-cells-and-fuel-cells"
   ]
 }
