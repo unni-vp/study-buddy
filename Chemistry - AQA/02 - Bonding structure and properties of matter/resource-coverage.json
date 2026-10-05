@@ -13,5 +13,11 @@
     "4.2.3": "Carbon structures",
     "4.2.4": "Nanoparticles"
   },
-  "practicals": []
+  "practicals": [],
+  "mindmaps": [
+    "00-bonding-overview",
+    "01-ionic-and-covalent-bonds",
+    "02-structures-and-states",
+    "03-carbon-and-nanoparticles"
+  ]
 }

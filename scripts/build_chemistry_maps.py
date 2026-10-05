@@ -5,6 +5,24 @@ import a4_mindmaps as a4
 import subprocess,sys,json
 base_illustration=a4.illustration
 def illustration(kind,w,h):
+ if kind=='chem-layers':
+  out=''
+  for row in range(3):
+   y=12+row*24
+   out+=f'<path d="M25 {y}H{w-25}" stroke="#18837b" stroke-width="3"/>'
+   for col in range(6):out+=f'<circle cx="{w/2+(col-2.5)*30}" cy="{y}" r="6" fill="#c5e6df" stroke="#18837b"/>'
+  return out+a4.text(w/2,89,'Layers can slide past each other',15,anchor='middle',cls='diagram-label')
+ if kind=='chem-lattice':
+  out=''
+  for row in range(2):
+   for col in range(6):
+    x=w/2+(col-2.5)*32;y=17+row*32;positive=(row+col)%2==0
+    out+=f'<circle cx="{x}" cy="{y}" r="13" fill="{"#dceafa" if positive else "#ffe4ce"}" stroke="#52758b"/>'+a4.text(x,y+5,'+' if positive else '−',16,anchor='middle',cls='diagram-label')
+  return out+a4.text(w/2,84,'Opposite ions; 2D slice of lattice',15,anchor='middle',cls='diagram-label')
+ if kind=='chem-pairs':
+  out=a4.text(w/2-53,32,'H',26,anchor='middle')+a4.text(w/2+53,32,'H',26,anchor='middle')
+  out+=f'<circle cx="{w/2-8}" cy="23" r="4" fill="#2166ad"/><path d="M{w/2+4} 19l8 8m0-8-8 8" stroke="#b96120" stroke-width="2"/>'
+  return out+a4.text(w/2,66,'One shared pair → one bond',15,anchor='middle',cls='diagram-label')
  if kind=='chem-ion':
   return a4.text(w*.25,32,'Na',27,anchor='middle')+a4.text(w*.75,32,'Na⁺',27,anchor='middle')+a4.text(w*.25,65,'11 electrons',15,anchor='middle',cls='diagram-label')+a4.text(w*.75,65,'10 electrons',15,anchor='middle',cls='diagram-label')+f'<path d="M{w*.4} 27H{w*.6}m-5-4 5 4-5 4" stroke="#2166ad" fill="none"/>'+a4.text(w/2,90,'Loses one electron',15,anchor='middle',cls='diagram-label')
  return base_illustration(kind,w,h)
