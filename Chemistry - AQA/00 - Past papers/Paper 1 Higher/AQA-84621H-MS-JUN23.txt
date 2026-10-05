@@ -1,0 +1,1930 @@
+PAGE 1
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GCSE 
+ 
+CHEMISTRY 
+ 
+8462/1H 
+ 
+Paper 1 Higher Tier   
+ Mark scheme 
+ 
+June 2023 
+ Version: 1.0 Final 
+ 
+ 
+*236G8462/1H/MS* 
+
+
+PAGE 2
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+2 
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the relevant 
+questions, by a panel of subject teachers.  This mark scheme includes any amendments made at the 
+standardisation events which all associates participate in and is the scheme which was used by them in 
+this examination.  The standardisation process ensures that the mark scheme covers the students’ 
+responses to questions and that every associate understands and applies it in the same correct way.  
+As preparation for standardisation each associate analyses a number of students’ scripts.  Alternative 
+answers not already covered by the mark scheme are discussed and legislated for.  If, after the 
+standardisation process, associates encounter unusual answers which have not been raised they are 
+required to refer these to the Lead Examiner. 
+ 
+It must be stressed that a mark scheme is a working document, in many cases further developed and 
+expanded on the basis of students’ reactions to a particular paper.  Assumptions about future mark 
+schemes on the basis of one year’s document should be avoided; whilst the guiding principles of 
+assessment remain constant, details will change, depending on the content of a particular examination 
+paper. 
+ 
+ 
+Further copies of this mark scheme are available from aqa.org.uk 
+ 
+    
+Copyright information 
+ 
+AQA retains the copyright on all its publications. However, registered schools/colleges for AQA are permitted to copy material from this booklet for their own 
+internal use, with the following important exception: AQA cannot give permission to schools/colleges to photocopy any material that is acknowledged to a third 
+party even for internal use within the centre. 
+ 
+Copyright © 2023 AQA and its licensors.  All rights reserved. 
+
+PAGE 3
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+3 
+Information to Examiners 
+ 
+ 
+ 
+1. General 
+ 
+The mark scheme for each question shows: 
+• the marks available for each part of the question 
+• the total marks available for the question 
+• the typical answer or answers which are expected 
+• extra information to help the examiner make their judgement 
+• the Assessment Objectives and specification content that each question is intended to cover. 
+ 
+ 
+The extra information is aligned to the appropriate answer in the left-hand part of the mark scheme and 
+should only be applied to that item in the mark scheme. 
+ 
+At the beginning of a part of a question a reminder may be given, for example: where consequential 
+marking needs to be considered in a calculation; or the answer may be on the diagram or at a different 
+place on the script. 
+ 
+In general the right-hand side of the mark scheme is there to provide those extra details which confuse 
+the main part of the mark scheme yet may be helpful in ensuring that marking is straightforward and 
+consistent (for example, a scientifically correct answer that could not reasonably be expected from a 
+student’s knowledge of the specification). 
+ 
+ 
+ 
+2. Emboldening and underlining 
+ 
+2.1 In a list of acceptable answers where more than one mark is available ‘any two from’ is used, with 
+the number of marks emboldened.  Each of the following bullet points is a potential mark. 
+ 
+2.2 A bold and is used to indicate that both parts of the answer are required to award the mark. 
+ 
+2.3 Alternative answers acceptable for a mark are indicated by the use of or.   
+Alternative words in the mark scheme are shown by a solidus eg allow smooth / free movement. 
+ 
+2.4 Any wording that is underlined is essential for the marking point to be awarded. 
+  
+
+PAGE 4
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+4 
+3. Marking points 
+ 
+3.1 Marking of lists 
+ 
+ This applies to questions requiring a set number of responses, but for which students have 
+provided extra responses.  The general principle to be followed in such a situation is that  
+‘right + wrong = wrong’. 
+ 
+ Each error / contradiction negates each correct response.  So, if the number of errors / 
+contradictions equals or exceeds the number of marks available for the question, no marks can be 
+awarded. 
+ 
+ However, responses considered to be neutral (indicated as * in example 1) are not penalised. 
+ 
+ Example 1:  What is the pH of an acidic solution?  
+[1 mark] 
+ 
+Student Response Marks 
+awarded 
+1 green, 5 0 
+2 red*, 5 1 
+3 red*, 8 0 
+ 
+ 
+ Example 2:  Name two magnetic materials.   
+[2 marks] 
+ 
+Student Response Marks awarded 
+1 iron, steel, tin 1 
+2 cobalt, nickel, nail* 2 
+ 
+ 
+3.2 Use of symbols / formulae 
+ 
+ If a student writes a chemical symbol / formula instead of a required chemical name, or uses 
+symbols to denote quantities in a physics equation, full credit can be given if the symbol / formula 
+is correct and if, in the context of the question, such action is appropriate. 
+ 
+3.3 Marking procedure for calculations 
+ 
+ Marks should be awarded for each stage of the calculation completed correctly, as students are 
+instructed to show their working.  At any point in a calculation students may omit steps from their 
+working.  If a subsequent step is given correctly, the relevant marks may be awarded. 
+  
+Full marks are not awarded for a correct final answer from incorrect working.   
+ 
+3.4 Interpretation of ‘it’ 
+ 
+ Answers using the word ‘it’ should be given credit only if it is clear that the ‘it’ refers to the correct 
+subject. 
+  
+
+PAGE 5
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+5 
+3.5 Errors carried forward 
+ 
+ An error can be carried forward from one question part to the next and is shown by the 
+abbreviation ‘ecf’.  
+ 
+Within an individual question part, an incorrect value in one step of a calculation does not prevent 
+all of the subsequent marks being awarded. 
+ 
+3.6 Phonetic spelling 
+ 
+ Marks should be awarded if spelling is not correct but the intention is clear, unless there is a 
+possible confusion with another technical term. 
+ 
+3.7 Brackets 
+ 
+ (…..) are used to indicate information which is not essential for the mark to be awarded but is 
+included to help the examiner identify the sense of the answer required. 
+ 
+3.8 Allow 
+ 
+ In the mark scheme additional information, ‘allow’ is used to indicate creditworthy  
+ alternative answers. 
+ 
+3.9 Ignore 
+ 
+ Ignore is used when the information given is irrelevant to the question or not enough to gain the 
+marking point.  Any further correct amplification could gain the marking point. 
+ 
+3.10 Do not accept 
+ 
+ Do not accept means that this is a wrong answer which, even if the correct answer is given as 
+well, will still mean that the mark is not awarded. 
+ 
+3.11 Numbered answer lines 
+ 
+Numbered lines on the question paper are intended to support the student to give the correct 
+number of responses.  The answer should still be marked as a whole. 
+ 
+ 
+ 
+4. Level of response marking instructions 
+ 
+Extended response questions are marked on level of response mark schemes.   
+• Level of response mark schemes are broken down into levels, each of which has a descriptor.   
+• The descriptor for the level shows the average performance for the level.   
+• There are two marks in each level. 
+ 
+ 
+Before you apply the mark scheme to a student’s answer, read through the answer and, if 
+necessary, annotate it (as instructed) to show the qualities that are being looked for.  You can then 
+apply the mark scheme. 
+  
+
+PAGE 6
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+6 
+Step 1: Determine a level 
+ 
+Start at the lowest level of the mark scheme and use it as a ladder to see whether the answer meets 
+the descriptor for that level.   
+ 
+The descriptor for the level indicates the different qualities that might be seen in the student’s 
+answer for that level.  If it meets the lowest level then go to the next one and decide if it meets this 
+level, and so on, until you have a match between the level descriptor and the answer.  With practice 
+and familiarity you will find that for better answers you will be able to quickly skip through the lower 
+levels of the mark scheme. 
+ 
+When assigning a level you should look at the overall quality of the answer.  Do not look to penalise 
+small and specific parts of the answer where the student has not performed quite as well as the rest.  
+If the answer covers different aspects of different levels of the mark scheme you should use a best 
+fit approach for defining the level.   
+ 
+Use the variability of the response to help decide the mark within the level, ie if the response is 
+predominantly level 2 with a small amount of level 3 material it would be placed in level 2 but be 
+awarded a mark near the top of the level because of the level 3 content. 
+ 
+ 
+Step 2: Determine a mark 
+ 
+Once you have assigned a level you need to decide on the mark.  The descriptors on how to 
+allocate marks can help with this.  The exemplar materials used during standardisation will help.  
+There will be an answer in the standardising materials which will correspond with each level of the 
+mark scheme.  This answer will have been awarded a mark by the Lead Examiner.  You can 
+compare the student’s answer with the example to determine if it is the same standard, better or 
+worse than the example.  You can then use this to allocate a mark for the answer based on the Lead 
+Examiner’s mark on the example. 
+ 
+You may well need to read back through the answer as you apply the mark scheme to clarify points 
+and assure yourself that the level and the mark are appropriate. 
+ 
+Indicative content in the mark scheme is provided as a guide for examiners.  It is not intended to be 
+exhaustive and you must credit other valid points.  Students do not have to cover all of the points 
+mentioned in the indicative content to reach the highest level of the mark scheme. 
+ 
+You should ignore any irrelevant points made.  However, full marks can be awarded only if there are 
+no incorrect statements that contradict a correct response. 
+ 
+An answer which contains nothing of relevance to the question must be awarded no marks.  
+
+PAGE 7
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+7 
+Question 1  
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.1 a ball of positive charge 
+ 
+ 
+with (negative) electrons 
+embedded  
+ 
+do not accept references to 
+protons, nuclei, neutrons 
+1 
+ 
+ 
+1 
+AO1 
+4.1.1.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.2 (earliest) electrons 
+               protons 
+(latest)    neutrons 
+ 1 AO1 
+4.1.1.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.3 
+ 
+ 
+(number of outer shell electrons) 
+7 
+ 
+(reason) (tennessine is in) 
+Group 7 
+ 
+ 
+ 
+ 
+allow the number of outer 
+electrons is the same as the 
+group number 
+allow tennessine is a halogen 
+ 
+MP2 is dependent on MP1 
+being awarded 
+ 
+ 
+ 
+1 
+ 
+1 
+ 
+AO2 
+4.1.2.1 
+4.1.2.6 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.4 
+ 
+(time needed for) peer review allow the idea that other 
+scientists had to check the 
+results 
+ 
+1 AO3 
+4.1.2.2 
+ 
+ 
+  
+
+PAGE 8
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+8 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.5 (Ar =)  
+ 
+(6 × 7.6) + (7 × 92.4)
+100  
+ 
+ 
+ 
+ 
+ 
+ 
+= 6.924 
+ 
+= 6.9 
+ 
+ 
+allow 45.6 + 646.8
+100  
+ 
+allow (6 × 0.076) + (7 × 0.924) 
+ 
+allow 0.456 + 6.468 
+ 
+ 
+ 
+ 
+allow an answer correctly 
+rounded to 1 decimal place from 
+an incorrect calculation which 
+uses all the data in the table 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+1 
+AO2 
+4.1.1.6 
+ 
+ 
+Total Question 1 9  
+  
+
+PAGE 9
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+9 
+Question 2  
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.1 (independent variable) 
+mass (of ammonium nitrate) 
+  
+(dependent variable) 
+(lowest) temperature (reached 
+by solution) 
+ 
+ 
+ 
+ 
+allow change in temperature (of 
+solution) 
+ 
+ 
+1 
+ 
+ 
+1 
+AO1 
+4.5.1.1 
+RPA4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.2 
+ 
+ 
+all 6 points plotted correctly 
+  
+  
+  
+  
+ 
+line of best fit 
+allow a tolerance of ± ½ a small 
+square  
+ 
+allow 1 mark for 4 or 5 points 
+plotted correctly 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+1 
+AO2 
+ 
+ 
+ 
+AO3 
+ 
+4.5.1.1 
+RPA4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.3 
+ 
+line extrapolated to y-axis 
+ 
+ 
+(initial temperature) 
+value for temperature where 
+extrapolated line meets y-axis  
+ 
+ 
+ 
+ 
+allow a tolerance of ± ½ a small 
+square 
+1 
+ 
+ 
+ 
+1 
+AO3 
+ 
+ 
+ 
+AO2 
+ 
+4.5.1.1 
+RPA4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.4 temperature decreased ignore correct references to 
+energy transfer 
+1 AO1 
+4.5.1.1 
+RPA4 
+ 
+  
+
+PAGE 10
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+10 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.5 (0.3 °C) is the uncertainty 
+ 
+(because 0.3 °C) is the range 
+about the mean value 
+ 
+ 
+ 
+ 
+ 
+allow values are (a maximum of) 
+0.3 (°C) either side of the mean  
+ 
+allow (because) 
+16.8 = 16.5 + 0.3 
+and 
+16.2 = 16.5 – 0.3 
+ 
+1 
+ 
+1 
+AO2 
+4.3.1.4 
+4.5.1.1 
+RPA4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.6 random error 
+ 
+ 1 AO3 
+4.5.1.1 
+RPA4 
+ 
+ 
+Total Question 2 11  
+ 
+  
+
+PAGE 11
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+11 
+Question 3  
+ 
+Question Answers Mark AO/ 
+Spec. Ref 
+03.1 Level 3: The method would lead to the production of a valid 
+outcome.  The key steps are identified and logically sequenced. 5–6 AO1 
+4.4.2.2 
+4.4.2.3 
+RPA1 
+ 
+ 
+ 
+Level 2: The method would not necessarily lead to a valid 
+outcome.  Most steps are identified, but the method is not fully 
+logically sequenced. 
+3–4 
+ Level 1: The method would not lead to a valid outcome.  Some 
+relevant steps are identified, but links are not made clear. 1–2 
+ No relevant content 0 
+ 
+Indicative content 
+ 
+• use zinc carbonate and hydrochloric acid 
+ 
+• add zinc carbonate to the (hydrochloric) acid 
+• in a beaker 
+• stir 
+ 
+• continue adding until the zinc carbonate is in excess 
+• shown by excess solid 
+• and no more effervescence 
+ 
+• filter (the reaction mixture) 
+• to remove the excess zinc carbonate 
+ 
+• heat the solution 
+• using a water bath or electric heater 
+• to crystallisation point 
+ 
+• leave the solution to crystallise 
+• pat crystals dry with filter paper 
+ 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+03.2 any two from: 
+• zinc 
+• zinc oxide 
+• zinc hydroxide 
+ 
+allow Zn 
+allow ZnO 
+allow Zn(OH)2 
+2 AO2 
+4.4.2.3 
+ 
+ 
+Total Question 3 8  
+ 
+  
+
+PAGE 12
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+12 
+Question 4  
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.1 
+ 
+436 + 346 − (2 × 432) kJ/mol 
+ 
+ 1 AO2 
+4.5.1.3 
+ 
+ 
+Question Answers Extra  Mark AO / 
+Spec. Ref. 
+04.2 
+ 
+ 
+energy is needed to break 
+bonds 
+and 
+energy is released when bonds 
+form 
+ 
+(and) the energy released is 
+greater than the energy needed  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow the energy transferred in 
+bond making is greater than the 
+energy transferred in bond 
+breaking 
+ 
+allow 2 x 432 (kJ/mol) is greater 
+than 436 + 346 (kJ/mol) 
+ 
+allow the overall energy change 
+is negative 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+1 
+AO1 
+4.5.1.3 
+ 
+ 
+  
+
+PAGE 13
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+13 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.3  
+ 
+profile completed with product 
+energy below reactant energy 
+ 
+activation energy labelled from 
+reactant energy to top of curve 
+ 
+overall energy change labelled 
+from reactant energy to product 
+energy 
+ignore arrow heads 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+AO1 
+ 
+ 
+ 
+AO1 
+ 
+ 
+AO2 
+ 
+4.5.1.2 
+ 
+ 
+an answer of 
+ 
+ 
+ 
+scores 3 marks 
+ 
+ 
+  
+
+
+PAGE 14
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+14 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.4  
+ 
+ 
+ 
+ 
+ 
+ 
+bonded pair of electrons in the 
+overlap 
+ 
+ 
+chlorine with 6 non-bonded 
+electrons 
+ 
+ 
+allow any combination of x, o, 
+e(−), • for electrons 
+ 
+ 
+do not accept molecules 
+containing more than 2 atoms 
+ 
+ 
+ 
+ 
+ 
+do not accept if extra electrons 
+on H 
+ 
+ 
+an answer of 
+ 
+ 
+ 
+scores 2 marks 
+or 
+an answer of  
+ 
+ 
+ 
+scores 2 marks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+AO1 
+4.2.1.4 
+ 
+ 
+ 
+ 
+
+
+PAGE 15
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+15 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.5 (methane) 
+ 
+methane has (much) smaller 
+molecules 
+ 
+(so) has weaker intermolecular 
+forces 
+ 
+(so the intermolecular forces) 
+need less energy to overcome 
+ 
+(so) the boiling / melting point is 
+lower (and methane is a gas) 
+ 
+OR 
+ 
+(poly(ethene)) 
+ 
+poly(ethene) has (much) larger 
+molecules (1) 
+ 
+(so) has stronger intermolecular 
+forces (1) 
+ 
+(so the intermolecular forces) 
+need more energy to break (1) 
+ 
+(so) the melting / boiling point is 
+higher (and poly(ethene) is a 
+solid) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+do not accept reference to 
+weak(er) covalent bonds 
+ 
+do not accept reference to 
+breaking covalent bonds  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+do not accept reference to 
+weak(er) covalent bonds 
+ 
+do not accept reference to 
+breaking covalent bonds  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+AO1 
+4.2.2.4 
+4.2.2.5 
+ 
+ 
+ 
+Total Question 4 12  
+ 
+  
+
+PAGE 16
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+16 
+Question 5 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.1 (the acid is only) partially ionised 
+(in aqueous solution) 
+ 1 AO1 
+4.4.2.6 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.2 the mass of acid dissolved is 
+doubled and the volume of the 
+solution is halved 
+ 
+ 1 AO2 
+4.3.2.5 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.3  
+ 
+ 
+methyl orange 
+ 
+from yellow to red / orange / 
+pink  
+ 
+ 
+OR 
+ 
+phenolphthalein (1) 
+ 
+from pink to colourless (1) 
+ 
+ 
+OR 
+ 
+litmus (1) 
+ 
+from blue to red (1) 
+MP2 is dependent on the award 
+of MP1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+if no other marks awarded, 
+allow 1 mark for universal 
+indicator turns from purple / blue 
+to green / yellow / orange / red 
+ 
+ 
+ 
+ 
+1 
+ 
+1 
+AO1 
+4.4.2.5 
+RPA2 
+ 
+  
+
+PAGE 17
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+17 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.4 OH
+−  1 AO1 
+4.4.2.4 
+ 
+ 
+  
+
+PAGE 18
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+18 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.5 (moles Na2CO3 = 
+25.0
+1000  × 0.124) 
+ 
+= 0.0031(0) 
+ 
+ 
+ 
+(moles HNO3 = 2 × 0.0031(0)) 
+= 0.0062(0) 
+ 
+ 
+(concentration =) 
+0.0062(0)
+23.6  ×1000 
+ 
+ 
+ 
+= 0.262711864 
+ 
+= 0.263 (mol/dm3) 
+ 
+ 
+ 
+ 
+ 
+alternative approach: 
+ 
+(ratio  moles HNO3
+moles Na2CO3
+ =) 
+ 
+ 
+2
+1  = 23.6 × concentration
+25.0 × 0.124  (2) 
+ 
+ 
+(concentration =) 
+2 × 25.0 × 0.124
+23.6  (1) 
+ 
+ 
+= 0.262711864 (1) 
+ 
+= 0.263 (mol/dm3) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined number 
+of moles of Na2CO3  
+  
+allow correct use of an 
+incorrectly determined number 
+of moles of HNO3 
+  
+ 
+ 
+allow an answer correctly 
+rounded to 3 significant figures 
+from an incorrect calculation 
+which uses all the data in the 
+question 
+  
+ 
+ 
+allow inverted expression 
+ 
+ 
+allow 1 mark for the expression 
+with an incorrect mole ratio 
+ 
+ 
+allow correct use of the 
+expression with an incorrect 
+mole ratio 
+ 
+ 
+allow an answer correctly 
+rounded to 3 significant figures 
+from an incorrect calculation 
+which uses all the data in the 
+question 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+1 
+ 
+ 
+ 
+AO2 
+4.3.4 
+4.4.2.5 
+RPA2 
+ 
+ 
+
+PAGE 19
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+19 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.6 
+ 
+3.16 × 10−3 (mol/dm3)  1 AO2 
+4.4.2.6 
+ 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.7 argon / Ar  1 AO2 
+4.1.2.4 
+4.2.1.2 
+ 
+ 
+Total Question 5 12  
+ 
+  
+
+PAGE 20
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+20 
+Question 6 
+ 
+Question Answers Mark AO/ 
+Spec. Ref 
+06.1 Level 3: A judgement, strongly linked and logically supported by a 
+sufficient range of correct reasons, is given. 3–4 AO3 
+4.2.2.7 
+4.2.2.8 
+4.4.1.2 
+ 
+ 
+ Level 1: Relevant points are made. They are not logically linked. 1–2 
+ No relevant content 0 
+ 
+Indicative content 
+ 
+relevant points 
+ 
+• silver is the best electrical conductor 
+ 
+• aluminium is the least dense 
+• aluminium is the least expensive 
+ 
+• copper is a better conductor than aluminium 
+or 
+copper is almost as good a conductor as silver 
+• copper is much less expensive than silver 
+ 
+• overhead power cables need a low density metal 
+• wiring in homes needs to be affordable 
+• printed circuit boards only require small amounts of material 
+ 
+  
+judgements 
+• use aluminium for overhead wires because of aluminium’s 
+low density and/or lower cost 
+ 
+• use copper for domestic wiring because copper is a very good 
+conductor and not too expensive 
+ 
+• use silver only for small uses such as circuit boards due to high 
+cost 
+ 
+• copper is a good compromise between electrical conductivity and 
+cost  
+ 
+ 
+ 
+  
+
+PAGE 21
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+21 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+06.2 (metals have) delocalised 
+electrons 
+ 
+the electrons carry (electrical) 
+charge 
+  
+ 
+the electrons move through the 
+structure / metal 
+ 
+ 
+ 
+ 
+ignore current / electricity for 
+charge 
+  
+ 
+ignore throughout for through 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+AO1 
+4.2.1.5 
+4.2.2.8 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+06.3 in alloys different sized atoms 
+distort the layers / structure 
+ 
+(so) the movement of 
+(delocalised) electrons is 
+restricted 
+ 
+ 1 
+ 
+ 
+1 
+AO3 
+4.2.2.7 
+4.2.2.8 
+ 
+ 
+Total Question 6 9  
+ 
+  
+
+PAGE 22
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+22 
+Question 7 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.1 Al3+ + 3 e− → Al 
+ 
+allow multiples 
+ 
+1 AO2 
+4.1.1.1 
+4.4.3.3 
+4.4.3.5 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.2 sodium is more reactive than 
+aluminium  
+ 1 AO3 
+4.4.3.4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.3  
+ 
+water (molecules) break down 
+ 
+(to) produce (H+ and) OH− (ions) 
+ 
+(so) OH− (ions) are attracted / 
+move to the positive electrode 
+ 
+(where) OH− (ions) are 
+discharged / oxidised to give 
+oxygen (molecules) 
+allow hydroxide ions for OH− 
+throughout 
+  
+  
+ 
+ 
+ 
+ 
+ 
+allow (where) OH− (ions) lose 
+electrons to give oxygen 
+(molecules)  
+ 
+ 
+ 
+  1 
+ 
+1 
+ 
+1 
+ 
+ 
+1 
+AO1 
+4.4.3.4 
+ 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.4 
+ 
+ 
+ 
+ 
+ 
+ 
+(change) 
+use measuring cylinders 
+(instead of test tubes) 
+ 
+(reason) 
+because there is a scale (on the 
+measuring cylinders) 
+allow (inverted) burettes for 
+measuring cylinders 
+allow gas syringes for 
+measuring cylinders 
+ 
+ 
+ 
+ 
+ 
+ 
+allow measuring cylinder(s) 
+measure volume 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+AO3 
+4.4.3.4 
+ 
+
+PAGE 23
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+23 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.5 10 cm3 
+ 
+ 1 AO2 
+4.3.5 
+ 
+ 
+Total Question 7 9  
+ 
+  
+
+PAGE 24
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+24 
+Question 8 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.1 (atoms of) argon have a stable 
+arrangement of electrons 
+ 
+ 
+(so) argon (atoms) do not share 
+/ transfer electrons 
+ 
+allow (atoms of) argon have a 
+full outer shell (of electrons)  
+1 
+ 
+ 
+ 
+1 
+AO1 
+4.1.2.3 
+4.1.2.4 
+4.2.1.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.2 PH3 allow H3P 
+ 
+1 AO2 
+4.1.2.1 
+4.2.1.4 
+ 
+  
+
+PAGE 25
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+25 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.3  
+ 
+ 
+yes, because tellurium is 
+towards the right of the periodic 
+table  
+ 
+(so) tellurium is a non-metal 
+ 
+ 
+OR 
+ 
+yes, because tellurium is in the 
+same group as oxygen / sulfur 
+(1) 
+ 
+(and) oxygen / sulfur will react 
+with metals (1) 
+ 
+ 
+ 
+OR 
+ 
+no, because tellurium is towards 
+the bottom of the periodic table 
+(1) 
+ 
+(so) tellurium is a metal (1) 
+ 
+ 
+OR 
+ 
+cannot predict as tellurium is 
+towards the bottom and to the 
+right of the periodic table (1) 
+ 
+(so) don’t know whether 
+tellurium is a metal or non-metal 
+(1) 
+ 
+MP2 is dependent upon MP1 
+being awarded 
+ 
+allow yes, because tellurium is 
+in Group 6 
+ 
+ 
+allow (so) tellurium will gain 
+electrons (from a metal)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow (so) tellurium is a non-
+metal 
+allow (so) tellurium will gain 
+electrons (from a metal) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow (so) difficult for tellurium to 
+gain electrons (from a metal) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow (so) don’t know whether 
+tellurium will gain electrons 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+AO3 
+4.1.2.3  
+ 
+ 
+  
+
+PAGE 26
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+26 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.4  
+ 
+any two from: 
+• effervescence / fizzing / 
+bubbles 
+• barium disappears 
+• forms a colourless solution 
+• temperature increases 
+ignore references to floating / 
+flames 
+ 
+ignore produces a gas 
+ 
+allow barium gets smaller 
+ 
+ 
+ 
+allow barium moves around 
+ 
+ 
+ 
+2 
+AO3 
+4.1.2.1 
+4.4.1.2 
+4.4.2.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.5 
+ 
+Ba + 2 HCl → BaCl2 + H2 allow multiples 
+ 
+allow 1 mark for BaCl2 
+allow 1 mark for H2 
+ 
+ignore state symbols 
+ 
+3 AO2 
+4.1.1.1 
+4.4.1.2 
+4.4.2.1 
+ 
+ 
+Total Question 8 10  
+  
+
+PAGE 27
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+27 
+Question 9  
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.1 (substance reduced) Fe2O3 
+ 
+(reason)  
+(Fe2O3) loses oxygen 
+allow iron oxide 
+ 
+ 
+MP2 is dependent upon MP1 
+being awarded 
+ 
+ignore Fe3+ gains electrons 
+ 
+1 
+ 
+ 
+1 
+AO2 
+4.4.1.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.2 
+ 
+3
+2  × 12g  1 AO2 
+4.3.1.1 
+4.3.2.1 
+4.3.2.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.3 
+ 
+A loses electrons and B
++ 
+gains 
+electrons 
+ 
+ 1 AO2 
+4.4.1.4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.4 D  1 AO3 
+4.4.1.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.5 (metal) C 
+ 
+(explanation) aluminium forms 
+ions with a charge 3+ 
+ 
+(so) 3 nitrate ions are needed 
+for 1 aluminium ion 
+ 
+ 
+allow aluminium forms Al3+ 
+(ions) 
+ 
+allow (so) 3 nitrate ions are 
+needed to balance the 3+ 
+charge on 1 aluminium (ion) 
+ 
+1 
+ 
+1 
+ 
+ 
+1 
+AO3 
+4.4.1.2 
+4.4.3.3 
+ 
+ 
+
+PAGE 28
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+28 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.6 (percentage atom economy =) 
+ 
+ArX
+ArX + 54  × 100 = 77.3 
+ 
+ 
+100 ArX = 77.3 (ArX + 54) 
+ 
+ 
+ 
+ 
+ 
+ 
+22.7 ArX = 4174.2  
+ 
+ 
+ArX = 184  
+ 
+ 
+ 
+alternative approach 1: 
+ 
+(3Mr H2O = (3 × 16) + (6 × 1) =) 
+54 
+and (percentage = 100 – 77.3 =) 
+22.7% (1) 
+ 
+ 
+(total Mr of reactants =) 
+100
+22.7  × 54 (1) 
+ 
+ 
+ 
+= 238 (1) 
+  
+ 
+(ArX = 238 – 54) 
+or 
+(ArX = 238 × 77.3
+100 ) 
+= 184 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow ArX = 0.773 (ArX + 54) 
+ 
+allow correct use of an 
+incorrectly determined value of 
+the Mr of the non-useful reactant 
+atoms 
+ 
+allow 0.227 ArX = 41.742 
+ 
+ 
+allow 183.8854626 correctly 
+rounded to at least three 
+significant figures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined value for  
+3Mr H2O and/or percentage of 
+unwanted products 
+ 
+ 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined value of 
+total Mr of reactants and/or 
+value for 3Mr H2O 
+ 
+allow 183.8854626 correctly 
+rounded to at least three 
+significant figures 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+AO2 
+4.3.3.2 
+ 
+
+PAGE 29
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+29 
+ 
+alternative approach 2: 
+ 
+(3Mr H2O = (3 × 16) + (6 × 1) =) 
+54 
+and (percentage = 100 – 77.3 =) 
+22.7% (1) 
+ 
+ 
+( 1
+22.7 × 54 =)2.3788546 (1) 
+ 
+ 
+ 
+ 
+ 
+2.3788546 × 77.3 (1) 
+ 
+ 
+ 
+ 
+= 184 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined value for  
+3Mr H2O and/or percentage of 
+unwanted products 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined value for 
+1% of the total Mr of reactants  
+ 
+ 
+allow 183.8854626 correctly 
+rounded to at least three 
+significant figures 
+ 
+ 
+ 
+Total Question 9 12  
+ 
+  
+
+PAGE 30
+MARK SCHEME – GCSE CHEMISTRY – 8462/1H – JUNE 2023 
+30 
+ 
+Question 10  
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+10.1 
+ 
+ 
+ 
+(nanoparticles) 
+any two from: 
+• have a higher surface area to 
+volume ratio 
+• less (material) needed (for the 
+same effect) 
+• more light gets through 
+ 
+allow converse arguments for 
+fine particles 
+  
+ 
+ 
+ 
+allow a thinner coating is 
+needed 
+ 
+ 
+ 
+ 
+2 
+AO3 
+4.2.4.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+10.2 
+ 
+ 
+(Mr TiO2 =) 80 
+ 
+(conversion 100 kg =) 100 000 
+(g) 
+  
+  
+(moles TiO2= 100 000
+80 =) 
+1250 
+ 
+ 
+ 
+(moles Cl2 = 1250 × 2 =) 2500 
+  
+ 
+ 
+(volume Cl2 =) 2500 x 24 
+  
+ 
+ 
+= 60 000 (dm3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow correct use of an 
+incorrectly determined Mr  
+allow correct use of an incorrect 
+/ no conversion of mass 
+ 
+ 
+allow correct use of an 
+incorrectly determined number 
+of moles of TiO2 
+ 
+allow correct use of an 
+incorrectly determined number 
+of moles of Cl2  
+  
+1 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO2 
+4.3.1.2 
+4.3.2.1 
+4.3.2.2 
+4.3.5 
+ 
+ 
+Total Question 10 8  
+ 
+ 

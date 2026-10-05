@@ -1,0 +1,38 @@
+[
+  {
+    "file": "AQA-84621H-QP-JUN19.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621H-QP-JUN19.PDF",
+    "pages": 32,
+    "sha256": "3be9c9a25833852f611964ca1059cccba77633047e5bc7a61f3f5176211c9185"
+  },
+  {
+    "file": "AQA-84621H-MS-JUN19.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2019/june/AQA-84621H-W-MS-JUN19.PDF",
+    "pages": 26,
+    "sha256": "c732be7622e316eecb1596aca4f6698f6c7c222ffb593fb724a89ccf848fb79d"
+  },
+  {
+    "file": "AQA-84621H-QP-JUN22.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621H-QP-JUN22.PDF",
+    "pages": 32,
+    "sha256": "d50289bf2fe35bebf4f01a5d1b7f6e7493ec79ab21dba15c2bf9a25e5b60eb3f"
+  },
+  {
+    "file": "AQA-84621H-MS-JUN22.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84621H-MS-JUN22.PDF",
+    "pages": 29,
+    "sha256": "a32f4ec6ddbc7960d4679462bb6654135e50cd1fcff43a21f9285ff9273a61bc"
+  },
+  {
+    "file": "AQA-84621H-QP-JUN23.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84621H-QP-JUN23.PDF",
+    "pages": 36,
+    "sha256": "7e4190c1267cd1b3254d233af840ed47450e16ba9ef6ff0893dc65689eef4378"
+  },
+  {
+    "file": "AQA-84621H-MS-JUN23.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84621H-MS-JUN23.PDF",
+    "pages": 30,
+    "sha256": "47c6f7f7a719993d85d469f63de04ba2d0d4b94c565a54bf3f45f318d767ae85"
+  }
+]

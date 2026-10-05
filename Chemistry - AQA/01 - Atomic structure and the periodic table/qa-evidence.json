@@ -1,0 +1,223 @@
+{
+  "reviewed": "2026-10-05",
+  "sample": "June 2019, 2022 and 2023 AQA 8462/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Define an element.",
+      "answer": "A substance containing atoms with the same number of protons.",
+      "specification": "4.1.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the atomic number of an atom?",
+      "answer": "Its number of protons.",
+      "specification": "4.1.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the particle with no charge and relative mass 1.",
+      "answer": "Neutron.",
+      "specification": "4.1.1.4",
+      "evidence": "2019 Q04.1",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Which separation method recovers an insoluble solid from a liquid?",
+      "answer": "Filtration.",
+      "specification": "4.1.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "Give the electron arrangement of calcium, atomic number 20.",
+      "answer": "2,8,8,2.",
+      "specification": "4.1.1.7",
+      "evidence": "2022 Q01.4",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "How does boiling point change down Group 0?",
+      "answer": "It increases.",
+      "specification": "4.1.2.4",
+      "evidence": "2022 Q05.4",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain the difference between a compound and a mixture.",
+      "answer": "- In a compound, different elements are **chemically combined in fixed proportions**.\n- In a mixture, substances are **not chemically combined** and can be separated by physical methods.",
+      "specification": "4.1.1.1–4.1.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a neutral atom has no overall charge.",
+      "answer": "- It has **equal numbers of protons and electrons**.\n- Their equal but opposite charges **cancel**.",
+      "specification": "4.1.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why chlorine-35 and chlorine-37 are isotopes of the same element.",
+      "answer": "- They have the **same number of protons**.\n- They have **different numbers of neutrons**.",
+      "specification": "4.1.1.5",
+      "evidence": "2019 Q04.3",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "A sodium atom loses one electron. Explain why the resulting ion is positive and why it is still sodium.",
+      "answer": "- It now has one more positive proton than negative electrons, giving a **+1 charge**.\n- The number of **protons is unchanged**, so its identity is unchanged.",
+      "specification": "4.1.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why helium is unreactive even though it has only two electrons.",
+      "answer": "- Its first electron shell is **full**.\n- This is a **stable arrangement**, so it does not readily gain, lose or share electrons.",
+      "specification": "4.1.2.4",
+      "evidence": "2023 Q08.1",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Why did Mendeleev sometimes place elements out of strict atomic-weight order?",
+      "answer": "- He wanted elements with **similar chemical properties in the same group**.\n- Strict atomic-weight order sometimes put elements in **inappropriate groups**.",
+      "specification": "4.1.2.2",
+      "evidence": "2019 Q01.1; 2023 Q01.4",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two physical differences between a typical transition metal and a Group 1 metal.",
+      "answer": "- A transition metal generally has a **higher melting point**.\n- It generally has a **higher density**.",
+      "specification": "4.1.3.1",
+      "evidence": "2022 Q01.3",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe two features of the plum pudding model.",
+      "answer": "- A **ball of positive charge**.\n- **Negative electrons embedded** within it; no central nucleus.",
+      "specification": "4.1.1.3",
+      "evidence": "2023 Q01.1",
+      "number": 14
+    },
+    {
+      "marks": 3,
+      "prompt": "An aluminium-27 ion has atomic number 13 and charge 3+. Calculate its numbers of protons, neutrons and electrons.",
+      "answer": "- Protons = **13**.\n- Neutrons = 27 − 13 = **14**.\n- Electrons = 13 − 3 = **10**.",
+      "specification": "4.1.1.5",
+      "evidence": "2019 Q04.1–04.3",
+      "number": 15
+    },
+    {
+      "marks": 3,
+      "prompt": "An element contains 60% isotope of mass 10 and 40% isotope of mass 11. Calculate its relative atomic mass.",
+      "answer": "- Weighted total = (60 × 10) + (40 × 11) = **1,040**.\n- Divide by the total percentage: 1,040 ÷ 100.\n- **Aᵣ = 10.4**, with no unit.",
+      "specification": "4.1.1.6",
+      "evidence": "2022 Q05.5; 2023 Q01.5",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why potassium is more reactive than sodium.",
+      "answer": "- Its outer electron is **farther from the nucleus**, with more occupied shells.\n- Increased **shielding and distance reduce the attraction** to the outer electron.\n- The electron is **lost more easily**, so potassium reacts more readily.",
+      "specification": "4.1.2.5",
+      "evidence": "2022 Q05.2",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why chlorine is more reactive than bromine.",
+      "answer": "- Chlorine has **fewer occupied electron shells**.\n- There is less distance/shielding, giving a **stronger nuclear attraction for an incoming electron**.\n- Chlorine gains an electron more readily.",
+      "specification": "4.1.2.6",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "Write a balanced equation for sodium reacting with water and state what makes the final solution alkaline.",
+      "answer": "- **2Na + 2H₂O → 2NaOH + H₂**.\n- The product **sodium hydroxide** supplies hydroxide ions in solution, making it alkaline.",
+      "specification": "4.1.2.5",
+      "evidence": "2022 Q05.3",
+      "number": 19
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how later discoveries supported Mendeleev’s periodic table.",
+      "answer": "- He left **gaps** for undiscovered elements.\n- He **predicted their properties** from surrounding elements.\n- Newly discovered elements had properties that **matched the predictions**, supporting the table.",
+      "specification": "4.1.2.2",
+      "evidence": "2019 Q01.2",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "A typical atom has radius 0.10 nm. Convert this to metres and compare it with a nucleus of radius 1.0 × 10⁻¹⁴ m.",
+      "answer": "- 0.10 × 10⁻⁹ = **1.0 × 10⁻¹⁰ m**.\n- Ratio = 10⁻¹⁰ ÷ 10⁻¹⁴ = **10⁴**.\n- The atom’s radius is **10,000 times** the nuclear radius.",
+      "specification": "4.1.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 4,
+      "prompt": "Chlorine is added to potassium bromide solution. Write the balanced full and ionic equations and explain why the reaction occurs.",
+      "answer": "- Full: **Cl₂ + 2KBr → 2KCl + Br₂**.\n- Ionic: **Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂**.\n- Chlorine is **more reactive than bromine**, so it displaces bromine from bromide.\n- Potassium ions are **spectator ions** and do not change.",
+      "specification": "4.1.2.6",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain four choices made when separating ink by paper chromatography.",
+      "answer": "- Use **pencil** for the baseline because it does not dissolve and separate like ink.\n- Keep the baseline **above the solvent level** so the sample is not washed into the solvent.\n- Use small spots so components begin in a narrow region and can separate clearly.\n- Mark the **solvent front promptly** before evaporation makes its position unclear.",
+      "specification": "4.1.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare simple and fractional distillation and give an example of each.",
+      "answer": "- Both **evaporate a liquid and condense its vapour** for collection.\n- Simple distillation recovers a solvent, such as **water from salt solution**.\n- Fractional distillation separates miscible liquids, such as **ethanol and water**, using their different boiling points.\n- A fractionating column provides **repeated evaporation and condensation**, improving separation.",
+      "specification": "4.1.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe how to obtain dry sand and dry salt crystals from a mixture of sand and salt. Explain the separation at each stage.",
+      "answer": "- Add water and stir: **salt dissolves**, but sand remains insoluble.\n- **Filter** the mixture; sand is the residue and salt solution is the filtrate.\n- Rinse the sand with a little water to remove remaining dissolved salt, then dry it.\n- Gently heat the filtrate to **evaporate some water** and concentrate the solution.\n- Leave it to cool so **salt crystals form**, then filter and dry the crystals.\n- Wear goggles and handle hot equipment carefully. These are physical separations; no new substances are produced.",
+      "specification": "4.1.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how alpha-particle scattering changed the model of the atom, and describe two later developments.",
+      "answer": "- The plum pudding model spread positive charge throughout the atom, with embedded electrons.\n- Most alpha particles passed straight through foil, showing the atom is **mostly empty space**.\n- Some positive alpha particles deflected, showing a concentrated **positive charge** repelled them.\n- Very few scattered backwards, supporting a **tiny, dense nucleus containing most mass**, rather than a spread-out positive sphere.\n- **Bohr** proposed electrons at specific energy levels or shells.\n- **Chadwick** later provided evidence for neutrons within the nucleus.",
+      "specification": "4.1.1.3",
+      "evidence": "2019 Q04.4; 2023 Q01.1–01.2",
+      "number": 26
+    },
+    {
+      "marks": 6,
+      "prompt": "Compare Group 1 and Group 7 in terms of outer electrons, ion formation and the change in reactivity down each group.",
+      "answer": "- Group 1 atoms have **one outer electron** and lose it to form **+1 ions**.\n- Group 7 atoms have **seven outer electrons** and gain one to form **−1 ions**.\n- Down both groups, outer shells are farther from the nucleus and more shielded.\n- In Group 1 this weakens attraction to the outer electron, so it is **lost more easily**.\n- Group 1 reactivity therefore **increases** down the group.\n- In Group 7 attraction for an incoming electron becomes weaker, so gain is less easy and reactivity **decreases**.",
+      "specification": "4.1.2.5–4.1.2.6",
+      "evidence": "2022 Q05.1–05.3",
+      "number": 27
+    }
+  ]
+}
