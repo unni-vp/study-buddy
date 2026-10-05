@@ -1,0 +1,263 @@
+{
+  "reviewed": "2026-10-05",
+  "sample": "June 2022, 2023 and 2024 AQA 8461/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Name the green pigment that absorbs light for photosynthesis.",
+      "answer": "Chlorophyll.",
+      "specification": "4.4.1.1",
+      "evidence": "2023 Q06.8–06.9; 2024 Q07.3",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Is photosynthesis endothermic or exothermic?",
+      "answer": "Endothermic.",
+      "specification": "4.4.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the gas released by photosynthesis.",
+      "answer": "Oxygen.",
+      "specification": "4.4.1.1",
+      "evidence": "2023 Q06.1",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the product of anaerobic respiration in human muscles.",
+      "answer": "Lactic acid.",
+      "specification": "4.4.2.1",
+      "evidence": "2023 Q04.1; 2024 Q02.5",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What is metabolism?",
+      "answer": "The sum of all chemical reactions in a cell or the body.",
+      "specification": "4.4.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the insoluble carbohydrate used to store glucose in plants.",
+      "answer": "Starch.",
+      "specification": "4.4.1.3",
+      "evidence": "2024 Q07.1",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the process in which yeast respires anaerobically to produce ethanol.",
+      "answer": "Fermentation.",
+      "specification": "4.4.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Write the word equation for photosynthesis.",
+      "answer": "**Carbon dioxide + water → glucose + oxygen**, using light absorbed by chlorophyll.",
+      "specification": "4.4.1.1",
+      "evidence": "2023 Q06.1",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a plant needs nitrate ions as well as glucose to make proteins.",
+      "answer": "- Nitrates supply nitrogen needed to make **amino acids**.\n- Amino acids are joined to make **proteins** for growth and other functions.",
+      "specification": "4.4.1.3",
+      "evidence": "2022 Q04.3",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Pondweed produces 4.5 cm³ of oxygen in 3 minutes. Calculate the mean oxygen-production rate, including its unit.",
+      "answer": "**Rate = 4.5 ÷ 3 = 1.5 cm³/min.**",
+      "specification": "4.4.1.2",
+      "evidence": "2024 Q07.6",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why sodium hydrogencarbonate solution is used in a pondweed photosynthesis investigation.",
+      "answer": "- It provides a source of **carbon dioxide**.\n- Carbon dioxide is a **reactant in photosynthesis**.",
+      "specification": "4.4.1.2",
+      "evidence": "2023 Q06.6",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is counting bubbles less reliable than measuring the volume of gas produced?",
+      "answer": "- Bubbles can have **different volumes**.\n- Equal bubble counts may therefore represent different gas volumes; collecting gas gives a more direct measure of **volume per unit time**.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "A lamp is moved from 15 cm to 30 cm from a plant. Use the inverse-square law to calculate the new light intensity as a fraction of the original.",
+      "answer": "- New/original intensity = (15 ÷ 30)².\n- New intensity = **¼ of the original**.",
+      "specification": "4.4.1.2",
+      "evidence": "2024 Q07.9",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why anaerobic respiration transfers less energy per glucose molecule than aerobic respiration.",
+      "answer": "- Glucose is **incompletely broken down/oxidised** in anaerobic respiration.\n- More chemical energy remains in its products, so **less energy is transferred** for cell processes.",
+      "specification": "4.4.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain how yeast makes bread dough rise.",
+      "answer": "- Yeast carries out **fermentation**, producing carbon dioxide from sugar.\n- Gas bubbles are trapped in the dough, making it **expand**.",
+      "specification": "4.4.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "A student counts 23 heartbeats in 15 seconds. Calculate heart rate in beats per minute.",
+      "answer": "**23 × 4 = 92 beats/min.**",
+      "specification": "4.4.2.2",
+      "evidence": "2023 Q04.2",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why photosynthesis can slow down at temperatures above the optimum.",
+      "answer": "- Photosynthesis involves **enzyme-controlled reactions**.\n- High temperatures can **denature enzymes**, changing their active-site shapes.\n- Fewer substrates bind successfully, so the reactions and overall photosynthesis slow down.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "A lamp is moved from 40 cm to 20 cm. Calculate the change in intensity and explain why photosynthesis rate may not increase by the same factor.",
+      "answer": "- Intensity ratio = (40 ÷ 20)².\n- Light intensity becomes **four times** as great.\n- Another factor, such as CO₂ concentration or temperature, may now be **limiting**, so rate need not quadruple.",
+      "specification": "4.4.1.2",
+      "evidence": "2024 Q07.7–07.9",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "A greenhouse grower can add lighting at a cost of £180 per week, increasing crop income by £250. Adding CO₂ as well costs a further £100 but brings only £60 extra income. Calculate the extra profit from lighting alone and from both changes, and recommend an option.",
+      "answer": "- Lighting alone: £250 − £180 = **£70 extra profit/week**.\n- Both: (£250 + £60) − (£180 + £100) = **£30 extra profit/week**.\n- Choose **lighting alone** on these figures, because its extra profit is £40 greater; adding CO₂ would reduce profit.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 3,
+      "prompt": "Compare aerobic respiration with anaerobic respiration in muscles in terms of oxygen, products and energy transfer.",
+      "answer": "- Aerobic respiration **uses oxygen**; anaerobic respiration does not.\n- Aerobic products are **carbon dioxide and water**; the muscle anaerobic product is **lactic acid**.\n- Aerobic respiration transfers **much more energy per glucose molecule**.",
+      "specification": "4.4.2.1",
+      "evidence": "2023 Q04.1; 2024 Q02.5",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why breathing stays faster and deeper for a while after vigorous exercise.",
+      "answer": "- Anaerobic respiration during exercise causes **lactic acid to accumulate**.\n- The body needs **extra oxygen** afterwards to deal with it: the **oxygen debt**.\n- Faster, deeper breathing supplies that additional oxygen during recovery.",
+      "specification": "4.4.2.2",
+      "evidence": "2023 Q04.1",
+      "number": 21
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how magnesium deficiency can reduce the supply of glucose in a plant.",
+      "answer": "- Magnesium is needed to make **chlorophyll**.\n- Less chlorophyll means less **light absorption**.\n- The rate of photosynthesis falls, so less **glucose** is made.",
+      "specification": "4.4.1.2",
+      "evidence": "2022 Q04.3; 2024 Q07.3–07.5",
+      "number": 22
+    },
+    {
+      "marks": 3,
+      "prompt": "State the small molecules needed to make a lipid molecule and a protein. Explain where energy for these building reactions comes from.",
+      "answer": "- A lipid molecule is formed from **one glycerol and three fatty acids**.\n- A protein is formed from **amino acids**.\n- **Respiration transfers energy** for the enzyme-controlled building reactions.",
+      "specification": "4.4.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 3,
+      "prompt": "A plant is kept in bright light but cannot take in any carbon dioxide. Explain why it cannot continue building up starch through photosynthesis.",
+      "answer": "- Carbon dioxide is a **reactant in photosynthesis**.\n- Without it, photosynthesis cannot continue producing glucose.\n- There is no new photosynthetic glucose to convert into **starch**; stored materials may still be used in respiration.",
+      "specification": "4.4.1.1–4.4.1.3",
+      "evidence": "2024 Q07.1",
+      "number": 24
+    },
+    {
+      "marks": 4,
+      "prompt": "Use the graph to explain the rising sections, the lower plateau and what happens when CO₂ is increased at high light. State what cannot be concluded from the upper plateau alone.\n\n![Photosynthesis rate versus light intensity at lower and higher CO₂, with temperature unchanged.](../Diagrams/limiting-factors.svg)",
+      "answer": "- Where the curves rise, increasing light increases the rate, so **light is limiting** under those conditions.\n- At the lower plateau, extra light alone cannot raise the rate.\n- Higher CO₂ raises the rate at the same high light and temperature, showing **CO₂ limited the lower plateau**.\n- The upper plateau shows another limit, but it does not by itself identify that factor; further controlled comparisons are needed.",
+      "specification": "4.4.1.2",
+      "evidence": "2023 Q06.2; 2024 Q07.8",
+      "number": 25
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how the body responds during vigorous exercise and why muscles may still become fatigued.",
+      "answer": "- **Heart rate increases**, supplying muscles with more oxygenated blood.\n- **Breathing rate and breath volume increase**, taking in more oxygen for aerobic respiration.\n- If oxygen supply cannot meet demand, **anaerobic respiration increases**, producing lactic acid.\n- Lactic acid builds up and muscles become **fatigued**, contracting less efficiently during prolonged vigorous activity.",
+      "specification": "4.4.2.2",
+      "evidence": "2023 Q04.1; 2024 Q02.5",
+      "number": 26
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain what happens to lactic acid after vigorous exercise and define oxygen debt.",
+      "answer": "- Lactic acid moves from muscles into the **blood**.\n- Blood transports it to the **liver**.\n- The liver converts it back into **glucose**.\n- **Oxygen debt** is the extra oxygen required after exercise to deal with accumulated lactic acid and remove it from cells.",
+      "specification": "4.4.2.2",
+      "evidence": "2023 Q04.1",
+      "number": 27
+    },
+    {
+      "marks": 4,
+      "prompt": "In a pondweed investigation, moving the lamp closer increases both light intensity and water temperature. Explain why this is a problem and give improvements to measurement and experimental control.",
+      "answer": "- Two factors change, so a rate increase cannot be attributed to **light intensity alone**.\n- Use a **water bath or heat shield** and monitor temperature to keep it constant.\n- Measure **gas volume per fixed time**, rather than relying only on variable-sized bubbles.\n- Allow acclimatisation and repeat each condition, keeping CO₂ supply and the pondweed constant, then calculate a mean.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 4,
+      "prompt": "Three repeat oxygen volumes over 5 minutes are 3.0, 3.5 and 4.0 cm³. Calculate the mean volume and mean rate. Explain why repeating does not fix a leak in the apparatus.",
+      "answer": "- Mean volume = (3.0 + 3.5 + 4.0) ÷ 3 = **3.5 cm³**.\n- Mean rate = 3.5 ÷ 5.\n- Rate = **0.70 cm³/min**.\n- A leak consistently loses gas, giving an underestimate; repeating reduces random variation but does not remove this **systematic error**.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe an investigation into how light intensity affects photosynthesis in pondweed. Explain the controls and how you would compare the results.",
+      "answer": "- Put the same pondweed in a fixed volume and concentration of **sodium hydrogencarbonate solution** to keep the CO₂ supply similar.\n- Place a lamp at several measured distances, keeping plant orientation and background light unchanged. **Allow acclimatisation** after each change.\n- Use a water bath or heat shield and monitor with a thermometer so **temperature stays constant**.\n- Collect oxygen in an inverted water-filled measuring tube for a fixed time; calculate **volume/time**. Check for leaks.\n- Repeat each distance and calculate mean rates. Measuring volume avoids the problem of unequal bubble sizes.\n- Plot mean rate against **light intensity or 1/distance²**, label axes and units, and draw a suitable curve. Keep electrics clear of water and avoid hot-lamp burns.",
+      "specification": "4.4.1.2",
+      "evidence": "2023 Q06.3–06.7; 2024 Q07.6–07.9",
+      "number": 30
+    },
+    {
+      "marks": 6,
+      "prompt": "Design an investigation to compare the effect of two safe types of exercise on heart rate. Explain how you would make the comparison fair and reliable.",
+      "answer": "- Recruit suitable participants and use safe, moderate activities. Account for health restrictions and stop if anyone feels unwell.\n- Measure each person’s **resting heart rate**, then have them perform both activities in a randomised order.\n- Use the **same duration** and define the pace or intensity for each activity. Allow pulse to return to its resting level between trials.\n- Measure pulse immediately after each activity using the same method and timing; a delay would allow recovery and change the result.\n- Repeat and calculate each person’s **increase from resting rate**, then compare mean increases for the two activities.\n- Using the same people reduces differences due to age or fitness; using several participants and repeats reduces the influence of individual variation.",
+      "specification": "4.4.2.2",
+      "evidence": "2023 Q04.2",
+      "number": 31
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how photosynthesis, respiration and metabolism together allow a plant to grow.",
+      "answer": "- **Photosynthesis** transfers light energy into chemical energy, producing glucose from CO₂ and water.\n- **Respiration** breaks down some glucose and transfers energy for building new molecules and other cell processes.\n- Glucose is converted into **cellulose** for new cell walls and into **starch or fats/oils** for storage.\n- Glucose and nitrate-derived nitrogen are used to make **amino acids**, which are joined into proteins for growth and enzymes.\n- **Glycerol and fatty acids** are joined into lipids used in cell structures and storage.\n- These building and breakdown reactions are part of **metabolism**, the sum of all reactions, and are controlled by enzymes. The plant needs both materials and energy to form new cells.",
+      "specification": "4.4.1.3–4.4.2.3",
+      "evidence": "2022 Q04.3; 2024 Q02.3",
+      "number": 32
+    }
+  ]
+}
