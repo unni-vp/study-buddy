@@ -39,6 +39,20 @@ def words(s,x,y,width,c):
 def illustration(kind,width,height):
  """Keep the useful artwork; redraw labels at physical print sizes, never scaled down."""
  out=[]
+ if kind=='course-light':
+  for y,dist,n in [(12,'20 cm',4),(56,'40 cm',1)]:
+   out.append(text(5,y+18,dist,15,cls='diagram-label'))
+   for j in range(n):out.append(f'<circle cx="{width-90+j*20}" cy="{y+12}" r="7" fill="#edc65e" stroke="#af8221"/>')
+   out.append(f'<path d="M75 {y+12}H{width-110}m-5-4 5 4-5 4" fill="none" stroke="#2166ad"/>')
+  out.append(text(width/2,96,'Relative light intensity: 4 → 1',15,anchor='middle',cls='diagram-label'))
+  return ''.join(out)
+ if kind=='course-rate':
+  out.append(text(6,15,'Rate',15,cls='diagram-label'))
+  out.append(f'<path d="M15 92V23M15 92H{width-12}" fill="none" stroke="#617480"/>')
+  out.append(f'<path d="M18 89Q70 60 105 60H{width-20}" fill="none" stroke="#2166ad" stroke-width="3"/>')
+  out.append(f'<path d="M18 89Q80 31 135 31H{width-20}" fill="none" stroke="#20816c" stroke-width="3"/>')
+  out.append(text(width-20,25,'Higher CO₂',15,anchor='end',cls='diagram-label')+text(width-20,80,'Lower CO₂',15,anchor='end',cls='diagram-label')+text(width/2,118,'Light intensity →',15,anchor='middle',cls='diagram-label'))
+  return ''.join(out)
  if kind=='course-memory':
   half=width/2
   out.append(text(width/2,16,'Antibody level over time',15,anchor='middle',cls='diagram-label'))

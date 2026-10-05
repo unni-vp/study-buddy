@@ -16,6 +16,10 @@
         {
           "heading": "Investigating light and photosynthesis"
         }
+      ],
+      "maps": [
+        "01-photosynthesis-and-limiting-factors",
+        "02-photosynthesis-practical"
       ]
     },
     {
@@ -33,6 +37,9 @@
         {
           "heading": "Metabolism"
         }
+      ],
+      "maps": [
+        "03-respiration-exercise-and-metabolism"
       ]
     }
   ]

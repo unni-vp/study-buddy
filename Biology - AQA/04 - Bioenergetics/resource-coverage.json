@@ -21,5 +21,15 @@
   },
   "practicals": [
     6
-  ]
+  ],
+  "mindmaps": {
+    "maps": [
+      "00-bioenergetics-overview",
+      "01-photosynthesis-and-limiting-factors",
+      "02-photosynthesis-practical",
+      "03-respiration-exercise-and-metabolism"
+    ],
+    "reviewed": "2026-10-05",
+    "print": "A4 landscape; body >=11 pt, labels >=10 pt; all reader/modal proofs and fullscreen desktop/mobile checked"
+  }
 }
