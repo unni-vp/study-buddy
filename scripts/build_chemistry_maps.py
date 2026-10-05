@@ -5,6 +5,14 @@ import a4_mindmaps as a4
 import subprocess,sys,json
 base_illustration=a4.illustration
 def illustration(kind,w,h):
+ if kind=='chem-electrodes':
+  out=a4.text(32,22,'−',24,anchor='middle')+a4.text(w-32,22,'+',24,anchor='middle')
+  out+=a4.text(32,70,'Cathode',15,anchor='middle',cls='diagram-label')+a4.text(w-32,70,'Anode',15,anchor='middle',cls='diagram-label')
+  for x,label,end in [(w*.38,'+',57),(w*.62,'−',w-57)]:
+   out+=f'<circle cx="{x}" cy="35" r="12" fill="#dceafa" stroke="#2166ad"/>'+a4.text(x,40,label,16,anchor='middle',cls='diagram-label')
+   start=x-15 if label=='+' else x+15;d=5 if label=='+' else -5
+   out+=f'<path d="M{start} 35H{end}m{d} -4 {-d} 4 {d} 4" stroke="#2166ad" fill="none"/>'
+  return out
  if kind in ('chem-route','chem-titration'):
   out=''
   for j,label in enumerate(['c × V' if kind=='chem-titration' else 'mass','moles','ratio']):

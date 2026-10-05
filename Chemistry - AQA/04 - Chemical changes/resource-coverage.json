@@ -23,5 +23,12 @@
     "RP1 salts",
     "RP2 titration",
     "RP3 aqueous electrolysis"
+  ],
+  "mindmaps": [
+    "00-chemical-changes-overview",
+    "01-reactivity-and-redox",
+    "02-acids-and-salts",
+    "03-titration",
+    "04-electrolysis"
   ]
 }

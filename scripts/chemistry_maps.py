@@ -98,3 +98,44 @@ for item in MAPS[3]: item["pics"]={2:("chem-route",85)}
 MAPS[3][3]["pics"]={0:("chem-route",85)}
 
 MAPS[3][2]["pics"]={2:("chem-titration",85)}
+
+MAPS[4]=[
+m('00-chemical-changes-overview','Chemical changes',['Predict reactions','Make & measure salts','Drive electrolysis'],[
+p('Reactivity & displacement','More reactive metals form positive ions more readily and displace less reactive metals.','Mg > Zn > Fe > H > Cu: Mg/Zn/Fe react with dilute HCl or H₂SO₄; Cu does not.','Zn + Cu²⁺ → Zn²⁺ + Cu.'),
+p('Redox & extraction','Oxidation: gain oxygen or lose electrons. Reduction: lose oxygen or gain electrons.','Below carbon: oxide can be reduced using carbon. More reactive metals need electrolysis. Gold may occur as the element.'),
+p('Acids & salts','H⁺ + OH⁻ → H₂O. Metal + acid → salt + H₂; oxide/hydroxide + acid → salt + water.','Carbonate + acid also gives CO₂. HCl → chlorides; H₂SO₄ → sulfates; HNO₃ → nitrates.','Strong = fully ionised; concentrated = much solute per volume.'),
+p('Three practical routes','Insoluble base + acid: add excess, filter, concentrate, cool, filter/dry crystals.','Titration: pipette alkali, burette acid, indicator; swirl, dropwise endpoint, concordant titres.','Electrolysis: inert electrodes, DC; predict and test separate electrode products.'),
+p('Electrode rules','Molten/dissolved ions can move. Positive ions → negative cathode → reduction. Negative ions → positive anode → oxidation.','Molten binary compound: metal at cathode, non-metal at anode.','Aqueous: H₂ instead of metals above H; halogen at anode if halide, otherwise O₂.'),
+p('Aluminium & half-equations','Cryolite lowers melting/operating temperature. Al³⁺ + 3e⁻ → Al.','2O²⁻ → O₂ + 4e⁻. Oxygen reacts with carbon anodes, so replace them.','Balance atoms AND charge. Electrons travel in wires; ions carry current through electrolyte.')]),
+m('01-reactivity-and-redox','Reactivity & redox',['Order the metals','Follow electrons','Extract the element'],[
+p('Reactivity order','K > Na > Li > Ca > Mg > Al > C > Zn > Fe > H > Cu > Ag > Au. C and H are comparison points.','More reactive → greater tendency to lose electrons and form positive ions. Aluminium has a protective oxide layer.'),
+p('Water & acid evidence','Cold water: K/Na/Li react readily; Ca reacts; Mg very slow; Zn/Fe/Cu no significant reaction.','Water products: hydroxide + H₂. Dilute HCl/H₂SO₄: Mg rapid, Zn slower, Fe slower still; Cu no reaction.','Compare under controlled concentration, temperature and surface area.'),
+p('Displacement','A more reactive metal displaces a less reactive one. Zn + CuSO₄ → ZnSO₄ + Cu.','Ionic: **Zn + Cu²⁺ → Zn²⁺ + Cu**. Sulfate spectator ions cancel.','Copper deposit; blue solution fades. Use several results to deduce an unknown order.'),
+p('OIL RIG','Oxidation Is Loss; Reduction Is Gain of electrons. **Zn → Zn²⁺ + 2e⁻**: oxidation.','**Cu²⁺ + 2e⁻ → Cu**: reduction. Atoms and total charges balance.','Metal + acid: metal oxidised; 2H⁺ + 2e⁻ → H₂ is reduction.'),
+p('Oxygen definitions','Oxidation gains oxygen; reduction loses oxygen.','**2CuO + C → 2Cu + CO₂**: CuO reduced; carbon oxidised. Redox changes happen together.','Copper oxide loses oxygen; do not say the copper ions lose electrons.'),
+p('Choose extraction','Unreactive gold may be found as metal. Most metals occur in compounds.','Metal below carbon: carbon can reduce its oxide. More reactive metal, or one that reacts with carbon: electrolysis may be used.','Melting and electrical current require energy; evaluate cost using supplied data.')]),
+m('02-acids-and-salts','Acids & salts',['Understand solutions','Predict products','Prepare pure crystals'],[
+p('pH & neutralisation','Acid: H⁺ in water; alkali: OH⁻. Below pH 7 acidic; 7 neutral; above 7 alkaline.','**H⁺ + OH⁻ → H₂O.** Universal indicator estimates pH; a calibrated probe gives a numerical reading.','Equal volumes need not contain equal reacting amounts.'),
+p('Strength vs concentration','Strong acids fully ionise: HCl, HNO₃, H₂SO₄. Weak acids partly ionise: ethanoic, citric, carbonic.','Concentrated/dilute describes amount per volume, not ionisation.','pH falls by 1 → H⁺ concentration ×10. pH 2 has 100× the H⁺ of pH 4.'),
+p('Acid reaction patterns','Metal + acid → salt + H₂. Metal oxide/hydroxide + acid → salt + water.','Carbonate + acid → salt + water + CO₂. H₂ gives squeaky pop; CO₂ turns limewater cloudy.'),
+p('Name & formulate salts','HCl → chloride; H₂SO₄ → sulfate; HNO₃ → nitrate. Metal supplies positive ion/name.','Balance charges: Mg²⁺ + 2NO₃⁻ → Mg(NO₃)₂. 2Na⁺ + SO₄²⁻ → Na₂SO₄.','CuO + H₂SO₄ → CuSO₄ + H₂O.'),
+p('Salt practical: react & filter','Warm dilute acid gently; remove burner. Add insoluble oxide/carbonate in small portions, stirring, until excess remains.','Excess solid ensures all acid reacts. Filter off solid; salt solution is **filtrate**.','Goggles; avoid boiling/splashing acid.'),
+p('Concentrate & crystallise','Gently evaporate some water using water bath/electric heater. Cool to form crystals.','Filter, rinse with a little cold distilled water and dry between filter papers. Do not strongly heat to dryness.','Soluble alkali cannot be filtered off: find exact volumes by titration instead.')]),
+m('03-titration','Titration',['Measure accurately','Find the endpoint','Calculate & apply'],[
+p('Pipette & flask','Rinse volumetric pipette with alkali; use filler to transfer a fixed volume into conical flask.','Add a few drops of indicator; use a white tile. Goggles; never mouth-pipette.','Flask may contain distilled water: it changes volume but not moles of alkali.'),
+p('Burette preparation','Rinse burette with acid, fill, remove jet air bubble and filling funnel.','Read bottom of meniscus at eye level. Record initial value; starting at zero is unnecessary.','Water left in burette dilutes acid, changing concentration.'),
+p('Endpoint technique','Add acid while swirling; near endpoint add drop by drop to first permanent colour change.','Acid into alkali: phenolphthalein pink → colourless; methyl orange yellow → orange at endpoint.','Universal indicator lacks a sharp single change.'),
+p('Repeat & average','Titre = final − initial reading. Rough trial locates endpoint; exclude it from mean.','Repeat accurately to concordant titres; use tolerance specified. Mean only the concordant accurate titres.','Rinse flask splashes down with distilled water without changing reacting moles.'),
+p('Moles from a titre','Known moles = **cV**; convert cm³ to dm³. Use balanced equation ratio, then unknown c = n/V.','20.0 cm³ 0.100 mol/dm³ HCl → 0.00200 mol HCl.','With 25.0 cm³ NaOH and 1:1 ratio: c = 0.00200/0.0250 = **0.0800 mol/dm³**.'),
+p('Mass concentration & crystals','For NaOH, multiply by 40 g/mol: 0.0800 mol/dm³ → **3.20 g/dm³**.','To make pure salt: repeat exact reacting volumes without indicator; concentrate and crystallise.','Check acid formula: H₂SO₄ needs two NaOH per acid molecule; do not assume 1:1.')]),
+m('04-electrolysis','Electrolysis',['Move charged particles','Predict the products','Apply & investigate'],[
+p('Electrolyte & electrodes','Ions move only when molten/dissolved. Positive ions go to negative cathode; negative ions to positive anode.','Cathode: gain electrons, reduction. Anode: lose electrons, oxidation. Electrons move in wires, ions in liquid.'),
+p('Molten binary compounds','Metal at cathode; non-metal at anode. No competing water ions.','Molten PbBr₂: **Pb²⁺ + 2e⁻ → Pb**; **2Br⁻ → Br₂ + 2e⁻**.','Balance atoms and total charge; halogens are diatomic.'),
+p('Aqueous product rules','Water adds H⁺ and OH⁻. At cathode: H₂ if metal is above hydrogen, otherwise metal.','At anode with inert electrodes: halogen if halide present, otherwise O₂.','NaCl(aq): H₂/Cl₂; CuCl₂(aq): Cu/Cl₂; CuSO₄(aq): Cu/O₂.'),
+p('Useful half-equations','**2H⁺ + 2e⁻ → H₂.** **Cu²⁺ + 2e⁻ → Cu.**','**2Cl⁻ → Cl₂ + 2e⁻.** **4OH⁻ → O₂ + 2H₂O + 4e⁻.**','Oxidation puts electrons on product side; reduction uses them on reactant side.'),
+p('Aluminium extraction','Molten Al₂O₃/cryolite mixture needs lower temperature than pure Al₂O₃. **Al³⁺ + 3e⁻ → Al**.','**2O²⁻ → O₂ + 4e⁻**. Oxygen reacts with carbon anodes → CO₂; replace anodes.','Energy needed for heat and current; carbon cannot reduce aluminium oxide.'),
+p('Aqueous practical','Hypothesis: changing dissolved compound changes products. Use inert electrodes/DC; compare solutions at same voltage, time, concentration and electrode setup.','Test H₂: pop; O₂: relights glowing splint; Cl₂: bleaches damp litmus. Record metal deposits too.','Repeat; goggles, ventilation for chlorine; switch off before adjusting electrodes.')])]
+
+MAPS[4][0]["pics"]={4:("chem-electrodes",85)}
+MAPS[4][3]["pics"]={4:("chem-titration",85)}
+MAPS[4][4]["pics"]={0:("chem-electrodes",85)}
