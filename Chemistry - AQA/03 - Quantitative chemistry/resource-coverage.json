@@ -17,5 +17,11 @@
     "4.3.4": "Titration calculations",
     "4.3.5": "Gas volumes"
   },
-  "practicals": []
+  "practicals": [],
+  "mindmaps": [
+    "00-quantitative-overview",
+    "01-moles-and-reacting-masses",
+    "02-solutions-and-gases",
+    "03-yield-and-atom-economy"
+  ]
 }

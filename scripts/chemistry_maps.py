@@ -63,3 +63,38 @@ MAPS[2][0]["pics"]={0:("chem-pairs",80)}
 MAPS[2][1]["pics"]={2:("chem-lattice",95)}
 MAPS[2][2]["pics"]={2:("chem-layers",100)}
 MAPS[2][3]["pics"]={1:("chem-layers",100)}
+
+MAPS[3]=[
+m('00-quantitative-overview','Quantitative chemistry',['Count & conserve','Use the equation','Judge the outcome'],[
+p('Mass & formulae','Atoms are rearranged, not created/destroyed. Closed system: reactant mass = product mass.','Gas entering/leaving explains apparent mass change. Mᵣ = sum of Aᵣ values in formula; no unit.','Balance coefficients, never change formula subscripts.'),
+p('Moles are a counting unit','One mole contains **6.02 × 10²³** stated particles. Molar mass in g/mol is numerically equal to Mᵣ.','**n = mass / molar mass.** Particles = n × Avogadro constant.'),
+p('Ratios & limiting reactants','Mass → moles → equation ratio → required moles → mass.','Limiting reactant runs out and limits product; excess remains. Compare moles divided by each coefficient.','From masses: convert to moles, divide by smallest, obtain whole-number ratio.'),
+p('Solutions & gases','**1 dm³ = 1,000 cm³.** Mass concentration = g / dm³; molar concentration = mol / dm³.','Titration: known cV → ratio → unknown n/V.','At RTP, gas volume = **n × 24 dm³**; gas ratios follow equation coefficients.'),
+p('Yield & atom economy','Yield = actual / theoretical × 100%. Losses, side reactions and incomplete reactions lower yield.','Atom economy = desired-product mass / total reactant mass from equation × 100%; include coefficients.','Compare rate, yield, waste, equilibrium and useful by-products.'),
+p('Reliable measurements','Repeat, calculate mean and show spread. Half-range can estimate uncertainty when requested.','Percentage uncertainty = absolute uncertainty / reading × 100. Repeats reduce random effects, not systematic errors.','Keep units consistent and round only the final answer.')]),
+m('01-moles-and-reacting-masses','Moles & reacting masses',['Count accurately','Follow the recipe','Check what runs out'],[
+p('Mᵣ & composition','Ca(OH)₂: 40 + 2 × (16 + 1) = **74**. Brackets multiply every atom inside.','Oxygen percentage = 32/74 × 100 = **43.2%**. Mᵣ has no unit; molar mass is 74 g/mol.'),
+p('Moles & particles','n = mass / molar mass. 11 g CO₂ / 44 g/mol = **0.25 mol**.','Particles = n × 6.02 × 10²³. This is 1.505 × 10²³ CO₂ molecules; each has three atoms.','State whether counting atoms, molecules, ions or electrons.'),
+p('Reacting masses','**2Mg + O₂ → 2MgO.** 6.0 g Mg / 24 = 0.25 mol Mg.','Mg : MgO = 2 : 2 → 0.25 mol MgO. Mass = 0.25 × 40 = **10 g MgO**, oxygen in excess.','Coefficients are mole ratios, not mass ratios.'),
+p('Find equation coefficients','Divide each mass by its molar mass; divide all moles by smallest; multiply to whole numbers.','2.4 g Mg, 1.6 g O₂, 4.0 g MgO → 0.10 : 0.05 : 0.10 mol → **2 : 1 : 2**.','Check atoms and total mass on both sides.'),
+p('Limiting vs excess','0.30 mol Mg + 0.10 mol O₂: oxygen needs only 0.20 mol Mg.','O₂ is limiting. MgO formed = **0.20 mol**; Mg left = **0.10 mol**.','Use limiting amount for theoretical yield; extra excess reactant cannot increase it.'),
+p('Mass & uncertainty','An open vessel gains mass if oxygen enters; loses mass if gas escapes. Count all substances to conserve mass.','Readings 24.2, 24.4, 24.6 → mean 24.4; range 0.4; half-range uncertainty **±0.2**.','Percentage uncertainty = 0.2/24.4 × 100 = 0.82%.')]),
+m('02-solutions-and-gases','Solutions & gases',['Choose units','Use reaction ratios','Convert gas amounts'],[
+p('Mass concentration','c in g/dm³ = mass in g / solution volume in dm³. Mass = cV.','250 cm³ = **0.250 dm³**. 5.0 g in 0.250 dm³ → **20 g/dm³**.','Same solute, double final volume → half concentration.'),
+p('Molar concentration','**n = cV** with c in mol/dm³ and V in dm³. Rearrange: c = n/V.','0.200 mol/dm³ × 0.150 dm³ = 0.0300 mol. For NaOH, mass = 0.0300 × 40 = **1.20 g**.','mol/dm³ × molar mass → g/dm³.'),
+p('Titration route','Take mean of concordant titres, excluding rough trial. Convert both volumes to dm³.','Known moles = known c × V. Use balanced equation ratio. Unknown concentration = unknown moles / its volume.'),
+p('A 1 : 2 example','**H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O.**','20.0 cm³ acid at 0.100 mol/dm³ → 0.00200 mol acid → 0.00400 mol NaOH.','If NaOH volume is 25.0 cm³, c = 0.00400/0.0250 = **0.160 mol/dm³**.'),
+p('Gas volume at RTP','One mole occupies **24 dm³** at 20 °C and 1 atmosphere. Equal moles → equal gas volumes at same conditions.','V = 24n; n = V/24, with V in dm³. 1 dm³ = 1,000 cm³.','4.4 g CO₂ / 44 = 0.10 mol → **2.4 dm³**.'),
+p('Gas equation ratios','**2H₂ + O₂ → 2H₂O**: 60 cm³ H₂ needs 30 cm³ O₂ at the same conditions.','For mass to gas: mass → moles → equation ratio → gas moles → volume.','Do not apply the gas-volume rule to a solid or liquid; identify limiting gas if both amounts are given.')]),
+m('03-yield-and-atom-economy','Yield & atom economy',['Predict & measure','Account for atoms','Choose a pathway'],[
+p('Theoretical maximum','Use mass → moles → equation ratio → product mass. Check limiting reactant first.','Example: CaCO₃ → CaO + CO₂. 25.0 g CaCO₃ / 100 = 0.250 mol → 0.250 × 56 = **14.0 g CaO**.'),
+p('Percentage yield','**Yield = actual / theoretical × 100%.** If actual CaO is 11.2 g: 11.2/14.0 × 100 = **80.0%**.','Actual = theoretical × yield/100. Theoretical = actual / (yield/100).'),
+p('Why yield is lower','Reversible reaction may not finish; side reactions consume reactants; product is lost in transfer/separation.','Atoms are still conserved. Apparent yield above 100% suggests wet/impure product or measurement error.'),
+p('Atom economy','Desired-product coefficient × Mᵣ divided by sum of all reactant coefficient × Mᵣ; then × 100%.','CaCO₃ → CaO + CO₂: for desired CaO, 56/100 × 100 = **56%**.','Other 44% becomes CO₂, even if every atom reacts correctly.'),
+p('Keep the ideas separate','Yield: proportion of the expected product actually collected. Atom economy: proportion of starting mass directed into desired product.','A process can have high yield but low atom economy. Addition reactions with one product have 100% atom economy.'),
+p('Evidence → decision','Higher atom economy reduces waste and resource/disposal costs. But compare yield, rate, energy, equilibrium and useful by-products too.','Support a choice using the supplied data and acknowledge a trade-off. Repeats/uncertainty help judge measured yield.')])]
+
+for item in MAPS[3]: item["pics"]={2:("chem-route",85)}
+MAPS[3][3]["pics"]={0:("chem-route",85)}
+
+MAPS[3][2]["pics"]={2:("chem-titration",85)}

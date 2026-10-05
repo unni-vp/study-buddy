@@ -5,6 +5,12 @@ import a4_mindmaps as a4
 import subprocess,sys,json
 base_illustration=a4.illustration
 def illustration(kind,w,h):
+ if kind in ('chem-route','chem-titration'):
+  out=''
+  for j,label in enumerate(['c × V' if kind=='chem-titration' else 'mass','moles','ratio']):
+   x=10+j*(w-20)/3;bw=(w-35)/3
+   out+=f'<rect x="{x}" y="10" width="{bw}" height="32" rx="6" fill="#e2eefb" stroke="#2166ad"/>'+a4.text(x+bw/2,31,label,15,anchor='middle',cls='diagram-label')
+  return out+a4.text(w/2,70,'Convert → compare → convert back',15,anchor='middle',cls='diagram-label')
  if kind=='chem-layers':
   out=''
   for row in range(3):
