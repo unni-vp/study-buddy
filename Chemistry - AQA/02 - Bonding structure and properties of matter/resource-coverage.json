@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-10-05",
+  "specification": "AQA 8462 4.2, version 1.2 January 2026",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": {
+    "4.2.1.1": "Three types of bonding",
+    "4.2.1.2\u20134.2.1.3": "Ionic bonding and lattices",
+    "4.2.1.4": "Covalent molecules",
+    "4.2.1.5": "Metals and alloys",
+    "4.2.2.1\u20134.2.2.4": "States and explaining properties",
+    "4.2.2.5\u20134.2.2.6": "Polymers and giant structures",
+    "4.2.2.7\u20134.2.2.8": "Metals and alloys",
+    "4.2.3": "Carbon structures",
+    "4.2.4": "Nanoparticles"
+  },
+  "practicals": []
+}

@@ -1,0 +1,45 @@
+{
+  "source": "Bonding, structure and properties of matter - Revision Notes.md",
+  "groups": [
+    {
+      "id": "bonds",
+      "title": "Bonding & particle models",
+      "description": "Ionic and covalent bonding, states and properties",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Three types of bonding"
+        },
+        {
+          "heading": "Ionic bonding and lattices"
+        },
+        {
+          "heading": "Covalent molecules"
+        },
+        {
+          "heading": "States and explaining properties"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Structures & materials",
+      "description": "Carbon, metals, polymers and nanoparticles",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "Polymers and giant structures"
+        },
+        {
+          "heading": "Carbon structures"
+        },
+        {
+          "heading": "Metals and alloys"
+        },
+        {
+          "heading": "Nanoparticles"
+        }
+      ]
+    }
+  ]
+}
