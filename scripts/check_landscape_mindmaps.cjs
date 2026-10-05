@@ -11,9 +11,12 @@ const fs=require('fs'),path=require('path');
    await page.setContent('<!doctype html><style>body{margin:0}</style>'+fs.readFileSync(path.join(dir,file),'utf8'));
    await page.evaluate(()=>document.fonts.ready);
    const result=await page.evaluate(()=>{
-    const outside=[],overlaps=[],crowding=[],pathCollisions=[];const canvas=document.querySelector('body>svg').getBoundingClientRect();
+    const outside=[],overlaps=[],crowding=[],pathCollisions=[],unreadable=[];const canvas=document.querySelector('body>svg').getBoundingClientRect();
     const nodes=[...document.querySelectorAll('svg text')].map(el=>{const b=el.getBoundingClientRect();return {el,text:el.textContent,x:b.x,y:b.y,r:b.right,b:b.bottom,section:el.closest('.map-section')?.id||'relationships'};});
     for(const a of nodes){
+     const m=a.el.getScreenCTM();
+     const pt=parseFloat(getComputedStyle(a.el).fontSize)*Math.hypot(m.a,m.b)/canvas.width*277/25.4*72;
+     if(pt<10 || (a.el.classList.contains('body-text') && pt<11))unreadable.push({text:a.text,pt});
      if(a.x < -1||a.r>canvas.right+1||a.y < -1||a.b>canvas.bottom+1)outside.push({section:'canvas',text:a.text});
      const sec=a.el.closest('.map-section');
      if(sec){
@@ -56,9 +59,9 @@ const fs=require('fs'),path=require('path');
       if(hit){pathCollisions.push({panel:hit.id,path:p.getAttribute('d')});break;}
      }
     }
-    return {texts:nodes.length,ratio:canvas.width/canvas.height,outside,overlaps,crowding,pathCollisions};
+    return {texts:nodes.length,ratio:canvas.width/canvas.height,outside,overlaps,crowding,pathCollisions,unreadable};
    });
-   if(result.outside.length||result.overlaps.length||result.ratio<=1||result.crowding.length||result.pathCollisions.length)throw Error(file+'\n'+JSON.stringify(result,null,2));
+   if(result.outside.length||result.overlaps.length||result.ratio<=1||result.crowding.length||result.pathCollisions.length||result.unreadable.length)throw Error(file+'\n'+JSON.stringify(result,null,2));
    console.log(`PASS ${file}: ${result.texts} text elements; landscape; no text/section collisions, cramped gaps, or connectors crossing panels.`);
   }
  }finally{await browser.close();}

@@ -176,13 +176,22 @@
       "No arbitrary microscope magnification limits or mitosis phase names",
       "DNA copies and matching chromosome sets visibly shown"
     ],
-    "presentation": "Landscape reflow of the approved illustrated panels. Six detailed maps use measured landscape branches, highlighted terms, labelled biological diagrams and retained full source content.",
+    "presentation": "One concise A4 landscape overview, with varied panel widths and heights. Detailed maps retain the concepts, practicals and worked calculations in concise wording; full original Markdown/text alternatives are unchanged.",
     "approval_status": "User approved applying the visual style to all six detailed maps; landscape requested for screen viewing."
   },
   "landscape_layout": {
     "orientation": "landscape",
     "source_content_preserved": true,
-    "renderer": "scripts/landscape_mindmaps.py",
-    "layout_check": "scripts/check_landscape_mindmaps.cjs"
-  }
+    "renderer": "scripts/a4_mindmaps.py",
+    "layout_check": "scripts/check_landscape_mindmaps.cjs",
+    "visual_wording": "scripts/a4_mindmap_content.py",
+    "paper": "A4 landscape, 10 mm margins; 277 mm image width",
+    "minimum_body_pt": 11,
+    "minimum_diagram_label_pt": 10,
+    "print_checks": [
+      "scripts/check_mindmap_print.cjs",
+      "scripts/check_mindmap_print.py"
+    ]
+  },
+  "layout_reviewed": "2026-10-05"
 }

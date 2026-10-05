@@ -42,10 +42,8 @@ def rich(x,y,rows,size):
     return ''.join(result),y
 
 def build_svg(m):
-    from landscape_mindmaps import landscape_overview, landscape_detail
-    if m['slug']=='00-cell-biology-overview':
-        return landscape_overview(m, lines_for)
-    return landscape_detail(m, lines_for)
+    from a4_mindmaps import build_a4
+    return build_a4(m)
 
 
 def build_maps(slugs=None):
