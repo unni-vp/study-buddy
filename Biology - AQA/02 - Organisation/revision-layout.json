@@ -19,6 +19,9 @@
         {
           "heading": "Investigating amylase and pH"
         }
+      ],
+      "maps": [
+        "01-digestion-and-enzymes"
       ]
     },
     {
@@ -39,6 +42,9 @@
         {
           "heading": "Health, risk factors and cancer"
         }
+      ],
+      "maps": [
+        "02-circulation-and-health"
       ]
     },
     {
@@ -53,6 +59,9 @@
         {
           "heading": "Transpiration and translocation"
         }
+      ],
+      "maps": [
+        "03-plant-tissues-and-transport"
       ]
     }
   ]

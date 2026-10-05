@@ -39,6 +39,17 @@ def words(s,x,y,width,c):
 def illustration(kind,width,height):
  """Keep the useful artwork; redraw labels at physical print sizes, never scaled down."""
  out=[]
+ if kind=='course-heart':
+  for y,left,right in [(10,'Right heart','Lungs'),(52,'Left heart','Body')]:
+   out.append(f'<rect x="5" y="{y}" width="110" height="28" rx="6" fill="#e9f3ff" stroke="#2166ad"/><rect x="{width-100}" y="{y}" width="95" height="28" rx="6" fill="#e9f3ff" stroke="#2166ad"/>')
+   out.append(text(60,y+20,left,15,anchor='middle',cls='diagram-label')+text(width-52,y+20,right,15,anchor='middle',cls='diagram-label'))
+   out.append(f'<path d="M120 {y+14}H{width-105}m-6-4 6 4-6 4" fill="none" stroke="#2166ad" stroke-width="2"/>')
+  return ''.join(out)
+ if kind=='course-enzyme':
+  cx=width/2
+  out.append(f'<path d="M{cx-70} 46H{cx-18}L{cx} 68L{cx+18} 46H{cx+70}V78H{cx-70}Z" fill="#e1effb" stroke="#2166ad" stroke-width="2"/><path d="M{cx-18} 14H{cx+18}L{cx} 36Z" fill="#f5cb87" stroke="#ac6a21"/>')
+  out.append(text(5,28,'Substrate',15,cls='diagram-label')+text(width-5,66,'Enzyme',15,anchor='end',cls='diagram-label'))
+  return ''.join(out)
  if kind=='alveolus':
   cx=width/2
   return (f'<ellipse cx="{cx}" cy="22" rx="85" ry="20" fill="#e5f2ff" stroke="#2166ad" stroke-width="1.5"/>'
@@ -124,7 +135,7 @@ class Panel:
 
 def build_a4(m):
  slug=m['slug'];groups,labels,pics=PLANS[slug]
- assert sorted(n for group in groups for i in group for n in (i if isinstance(i,tuple) else [i]))==list(range(8))
+ assert sorted(n for group in groups for i in group for n in (i if isinstance(i,tuple) else [i]))==list(range(len(COMPACT[slug])))
  # Search widths, not font sizes, to balance the actual height of related content.
  cache={}
  def column(col,w):

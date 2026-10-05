@@ -2,13 +2,15 @@
 from pathlib import Path
 from collections import Counter
 from pypdf import PdfReader, PdfWriter
+import sys
 import pdfplumber
 import pypdfium2 as pdfium
 
 folder = Path('tmp/pdfs')
 writer = PdfWriter()
-readers = sorted(folder.glob('*-reader.pdf'))
-assert len(readers) == 7, 'Expected one reader proof for each map'
+slugs = sys.argv[1:]
+readers = [folder/(s+'-reader.pdf') for s in slugs] if slugs else sorted(folder.glob('*-reader.pdf'))
+assert readers, 'Expected at least one print proof'
 for reader in readers:
     texts=[]
     for source in (reader, reader.with_name(reader.name.replace('-reader','-modal'))):

@@ -66,7 +66,7 @@
   function showGallery(trigger) {
     request++; selected = -1;
     gallery.hidden = false; canvas.hidden = true; error.hidden = true;
-    title.textContent = 'Cell biology mind maps';
+    title.textContent = maps[0].title.replace(/ overview$/i, '') + ' mind maps';
     controls('gallery').hidden = true;
     dialog.querySelector('.mindmap-zoom-controls').hidden = true;
     controls('print').hidden = true; textLink.hidden = true;

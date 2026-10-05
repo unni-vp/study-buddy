@@ -1,0 +1,33 @@
+"""Reusable course-map definitions; each panel has concise student-facing content."""
+def p(title,*lines):return {'title':title,'lines':list(lines)}
+def m(slug,title,labels,panels,pics=None):return {'slug':slug,'title':title,'labels':labels,'panels':panels,'pics':pics or {}}
+MAPS={'02 - Organisation':[
+ m('00-organisation-overview','Organisation overview',['Break down food','Transport & protect','Plant systems'],[
+ p('Organisation & digestion','**Cells → tissues → organs → systems.**','Digestion: large insoluble molecules → small soluble molecules; absorption into blood.'),
+ p('Enzymes & tests','Amylase → sugars; protease → amino acids; lipase → glycerol/fatty acids.','Bile neutralises acid and emulsifies fat. Enzymes have specific active sites.','Food tests identify nutrients; pH investigation uses iodine and **rate = 1/time**.'),
+ p('Heart, blood & lungs','**Right heart → lungs; left heart → body.** Valves prevent backflow.','Arteries leave; veins return; capillaries exchange. Red cells carry O₂; white cells defend; platelets clot.','Alveoli: large area, thin barrier; blood/ventilation maintain gradients.'),
+ p('Health & disease','Coronary deposits reduce oxygen supply; stents open arteries, statins lower cholesterol.','Risk factors raise probability. Correlation alone is not causation.','Benign tumours stay local; malignant cells invade/spread.'),
+ p('Leaf structure','Palisade chloroplasts absorb light; spongy air spaces allow diffusion.','Epidermis/cuticle protect; guard cells control stomata. Meristems divide at growing tips.'),
+ p('Transport in plants','Root hairs: water by osmosis, minerals by active transport.','Xylem carries water/minerals; phloem translocates sugars.','Transpiration rises with heat/wind/light, falls with humidity. Potometers measure uptake.')],{2:('course-heart',95)}),
+ m('01-digestion-and-enzymes','Digestion & enzymes',['Food → molecules','How enzymes work','Investigate'],[
+ p('The digestive route','Mouth: chewing/amylase. Oesophagus: moves food. Stomach: acid, protease and mixing.','Pancreas supplies enzymes; small intestine digests/absorbs; large intestine absorbs water.','**Egestion:** undigested food out. **Excretion:** metabolic waste out.'),
+ p('Enzyme products','Amylase: **starch → sugars**; made in salivary glands, pancreas and small intestine.','Protease: **protein → amino acids**; stomach, pancreas, small intestine.','Lipase: **lipid → glycerol + fatty acids**; pancreas and small intestine.'),
+ p('Specific active sites','Enzymes are reusable **protein catalysts**. Substrate binds a complementary active site.','Warming increases collisions to an optimum; excess heat/extreme pH can **denature** the active site. Cold slows activity.'),
+ p('Bile & absorbed products','Liver makes bile; gall bladder stores it. **Alkaline** bile neutralises stomach acid.','Emulsification makes fat droplets → more surface area for lipase. Bile is not an enzyme.','Products build new molecules; glucose can be respired.'),
+ p('Food tests','Benedict’s + water bath: reducing sugar → coloured precipitate. Iodine: starch → blue-black.','Biuret: protein → purple. Sudan III: lipid → red oil layer.','Separate samples; positive/negative controls; goggles and safe heating.'),
+ p('Amylase & pH practical','Vary buffer pH; control temperature, concentrations and volumes.','Sample onto fresh iodine every **30 s**. Endpoint: iodine stays orange-brown. Repeat.','Same starch amount: **relative rate = 1/time**. Shorter intervals improve endpoint resolution.')],{2:('course-enzyme',95)}),
+ m('02-circulation-and-health','Circulation & health',['Move blood','Exchange & defend','Evaluate disease'],[
+ p('Double circulation','Body → vena cava → right atrium/ventricle → pulmonary artery → lungs.','Lungs → pulmonary vein → left atrium/ventricle → aorta → body.','Left ventricle thicker; valves prevent backflow; coronary arteries supply heart muscle.'),
+ p('Heart rate & flow','Pacemaker cells in right atrium set the rhythm; artificial pacemakers correct irregularities.','**Output = rate × stroke volume.** 70 × 75 = 5,250 cm³/min = 5.25 dm³/min.'),
+ p('Vessels & lungs','Arteries: thick elastic/muscular walls for high pressure. Veins: wide lumen and valves.','Capillaries: one-cell-thick walls. Alveoli: large area, short path, blood/ventilation maintain gradients.','**O₂: alveoli → blood; CO₂: reverse.**'),
+ p('Blood components','Red cells: haemoglobin, biconcave shape, no nucleus → O₂ transport.','White cells: phagocytosis, antibodies/antitoxins. Platelets: clotting.','Plasma carries cells, nutrients, hormones, CO₂ and urea; distributes heat.'),
+ p('Disease & treatment','Fat narrows coronary arteries → less O₂/respiration. Stent opens; statin lowers cholesterol.','Faulty valves leak/restrict flow. Compare valve replacement, donor and artificial hearts: benefit, surgery, clot/rejection risks.'),
+ p('Health & cancer','Health = physical/mental well-being; diseases interact. Lifestyle/environment/genetics affect risk.','Cancer: uncontrolled division. **Benign:** local; **malignant:** invasion/secondary tumours.','Correlation alone ≠ causation. Compare representative rates and social/financial costs.')],{2:('alveolus',95)}),
+ m('03-plant-tissues-and-transport','Plant tissues & transport',['Structure → function','Move substances','Measure water loss'],[
+ p('Leaf tissues','Epidermis/cuticle protect and limit evaporation. Palisade cells absorb light using chloroplasts.','Spongy mesophyll air spaces shorten gas paths. Guard cells control stomata.'),
+ p('Roots & growing tips','Root hairs increase surface area: water enters by **osmosis**, minerals by **active transport**.','Meristems at root/shoot tips contain dividing cells that differentiate.'),
+ p('Xylem & phloem','**Xylem:** dead hollow tubes, lignin support; root → leaf water/minerals.','**Phloem:** living elongated cells with end-wall pores; dissolved sugars move by **translocation** to growing/storage tissues.'),
+ p('Transpiration','Water evaporates from mesophyll; vapour diffuses out through stomata.','Water loss helps pull a continuous stream up xylem. Guard cells balance gas exchange and water loss.'),
+ p('Changing the rate','Heat → faster evaporation/diffusion. Wind removes humid air → steeper gradient.','Humidity → smaller gradient, slower loss. Light usually opens stomata, increasing loss if water is available.'),
+ p('Potometers & sampling','Cut shoot under water; airtight setup; dry leaves; acclimatise. Change one factor, control others; repeat.','Measures **uptake**, not exact loss. Rate = distance/time; volume = **πr² × distance**.','Count stomata in several random measured areas; report mean number per area.')],{0:('leaf',85)})
+]}

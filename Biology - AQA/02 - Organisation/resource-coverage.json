@@ -34,5 +34,15 @@
   "practicals": [
     4,
     5
-  ]
+  ],
+  "mindmaps": {
+    "reviewed": "2026-10-05",
+    "maps": [
+      "00-organisation-overview",
+      "01-digestion-and-enzymes",
+      "02-circulation-and-health",
+      "03-plant-tissues-and-transport"
+    ],
+    "print": "A4 landscape; body >=11 pt; labels >=10 pt; reader/modal checked"
+  }
 }

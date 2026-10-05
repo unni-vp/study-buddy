@@ -5,7 +5,7 @@ const fs=require('fs'),path=require('path');
  const browser=await chromium.launch({channel:'msedge',headless:true});
  try {
   const page=await browser.newPage({viewport:{width:2400,height:2000}});
-  const dir='Biology - AQA/01 - Cell biology/Mind Maps';
+  const dir=process.env.MINDMAP_DIR||'Biology - AQA/01 - Cell biology/Mind Maps';
   const files=process.argv.slice(2);if(!files.length)files.push(...fs.readdirSync(dir).filter(f=>f.endsWith('.svg')));
   for(const file of files){
    await page.setContent('<!doctype html><style>body{margin:0}</style>'+fs.readFileSync(path.join(dir,file),'utf8'));
