@@ -1,0 +1,51 @@
+{
+  "source": "Quantitative chemistry - Revision Notes.md",
+  "groups": [
+    {
+      "id": "amounts",
+      "title": "Masses and moles",
+      "description": "Build equation ratios and find the limiting reactant.",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Mass, formulae and equations"
+        },
+        {
+          "heading": "Formula mass and percentage composition"
+        },
+        {
+          "heading": "Moles and particles"
+        },
+        {
+          "heading": "Reacting masses and limiting reactants"
+        },
+        {
+          "heading": "Finding equation ratios from masses"
+        }
+      ]
+    },
+    {
+      "id": "applications",
+      "title": "Solutions, gases and efficiency",
+      "description": "Apply mole ratios, compare yields and judge measurements.",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Concentrations and solution volumes"
+        },
+        {
+          "heading": "Titration calculations"
+        },
+        {
+          "heading": "Gas volumes"
+        },
+        {
+          "heading": "Yield and atom economy"
+        },
+        {
+          "heading": "Measurements and uncertainty"
+        }
+      ]
+    }
+  ]
+}

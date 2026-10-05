@@ -54,3 +54,13 @@ def bonding():
   s+='</g>'
  s+=text(500,690,'A pair between atoms = a bond. Dots and crosses track origin, not different electron types.',20,'middle')
  save(f,'covalent-molecules','Dot-and-cross examples of all eight specified simple molecules',s,h=715)
+
+def quantitative():
+ f=ROOT/SUBJECT/TOPICS[2]/'Diagrams';s=text(500,36,'Reacting masses: use moles to cross the equation',25,'middle')
+ for x,title,content in [(25,'Mass of Mg','6.0 g'),(350,'Moles of Mg','0.25 mol'),(675,'Moles of MgO','0.25 mol')]:
+  s+=f'<rect x="{x}" y="85" width="280" height="105" rx="15" fill="#edf5ff" stroke="#2166ad"/>'+text(x+140,120,title,22,'middle')+text(x+140,164,content,25,'middle')
+ s+=arrow('M308 139H344')+arrow('M633 139H669')+text(165,234,'÷ 24 g/mol',22,'middle')+text(490,234,'Mg : MgO = 2 : 2',22,'middle')
+ s+=arrow('M815 198V277')+text(700,269,'× 40 g/mol',20,'end')
+ s+='<rect x="675" y="285" width="280" height="100" rx="15" fill="#e4f4eb" stroke="#18837b"/>'+text(815,325,'Mass of MgO',22,'middle')+text(815,365,'10 g',25,'middle')
+ s+=text(340,325,'2Mg + O₂ → 2MgO',28,'middle')+text(340,367,'Oxygen is in excess.',21,'middle')
+ save(f,'mole-route','Magnesium mass divided by molar mass, mole ratio, then product moles multiplied by molar mass',s,h=415)
