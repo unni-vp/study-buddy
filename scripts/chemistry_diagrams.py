@@ -22,7 +22,6 @@ def atomic():
  s+=text(725,177,'Most pass straight through',20,'middle')+text(650,267,'Small positive nucleus',20)+text(570,75,'Some deflect',20)+text(160,320,'Very few return',20,'middle')
  s+=text(500,397,'Most of the atom is empty space; mass is concentrated in the nucleus.',21,'middle')
  save(f,'alpha-scattering','Schematic alpha paths showing straight, deflected and backward scattering',s,h=435)
-if __name__=='__main__':atomic()
 
 def bonding():
  f=ROOT/SUBJECT/TOPICS[1]/'Diagrams'
@@ -64,3 +63,25 @@ def quantitative():
  s+='<rect x="675" y="285" width="280" height="100" rx="15" fill="#e4f4eb" stroke="#18837b"/>'+text(815,325,'Mass of MgO',22,'middle')+text(815,365,'10 g',25,'middle')
  s+=text(340,325,'2Mg + O₂ → 2MgO',28,'middle')+text(340,367,'Oxygen is in excess.',21,'middle')
  save(f,'mole-route','Magnesium mass divided by molar mass, mole ratio, then product moles multiplied by molar mass',s,h=415)
+
+def changes():
+ f=ROOT/SUBJECT/TOPICS[3]/'Diagrams'
+ s=text(500,32,'Titration: measure the acid volume at the endpoint',25,'middle')
+ s+='<path d="M360 65V275H390V65" fill="none" stroke="#2166ad" stroke-width="3"/><path d="M360 130Q375 141 390 130V275H360Z" fill="#e0f2fe" stroke="#2166ad"/><path d="M375 276V318M350 286H400" stroke="#425968" stroke-width="4"/>'
+ for y in range(80,270,15):s+=f'<path d="M360 {y}H370" stroke="#2166ad"/>'
+ s+='<path d="M351 342V366L285 474Q275 489 298 489H452Q475 489 465 474L399 366V342" fill="none" stroke="#425968" stroke-width="3"/><path d="M313 432H438L462 474H288Z" fill="#f1c7dc"/><rect x="270" y="500" width="212" height="16" fill="white" stroke="#738893"/>'
+ s+=text(570,105,'Burette: acid of known concentration',21)+arrow('M550 112H398')+text(570,171,'Read meniscus at eye level',21)+arrow('M550 177L398 133')+text(570,290,'Tap controls drops near endpoint',21)+arrow('M550 295H410')
+ s+=text(560,396,'Conical flask: measured alkali',21)+text(560,427,'volume + a few drops of indicator',21)+arrow('M545 437H453')+text(565,510,'White tile: see colour change',21)+arrow('M550 513H495')
+ save(f,'titration','Labelled burette, tap, measured alkali and indicator in conical flask, white tile',s,h=550)
+ s=text(500,32,'Electrolysis: ions carry charge in the liquid',25,'middle')
+ s+='<rect x="355" y="65" width="290" height="65" rx="10" fill="#edf5ff" stroke="#2166ad"/>'+text(500,105,'DC power supply',23,'middle')
+ s+='<path d="M355 95H205V175M645 95H795V175" fill="none" stroke="#425968" stroke-width="3"/><path d="M95 205V430H905V205" fill="none" stroke="#738893" stroke-width="3"/><rect x="97" y="250" width="806" height="178" fill="#e5f3f8"/><rect x="190" y="175" width="30" height="190" fill="#526573"/><rect x="780" y="175" width="30" height="190" fill="#526573"/>'
+ s+=text(105,158,'− cathode',23,'middle')+text(895,158,'+ anode',23,'middle')
+ s+='<circle cx="375" cy="300" r="26" fill="#dae7fb" stroke="#2166ad"/><circle cx="625" cy="300" r="26" fill="#ffe3ce" stroke="#b96821"/>'+text(375,308,'+',27,'middle')+text(625,308,'−',27,'middle')
+ s+=arrow('M340 300H232')+arrow('M660 300H768')+text(375,380,'Positive ions',20,'middle')+text(625,380,'Negative ions',20,'middle')
+ s+=text(245,474,'Gain electrons → reduction',22,'middle')+text(755,474,'Lose electrons → oxidation',22,'middle')+text(500,525,'Electrolyte: molten ionic compound or aqueous solution',22,'middle')
+ save(f,'electrolysis','Positive ions move to negative cathode and gain electrons; negative ions move to positive anode and lose electrons',s,h=555)
+
+if __name__=="__main__":
+ import sys
+ {1:atomic,2:bonding,3:quantitative,4:changes}[int(sys.argv[1])]()

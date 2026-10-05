@@ -1,0 +1,59 @@
+{
+  "source": "Chemical changes - Revision Notes.md",
+  "groups": [
+    {
+      "id": "reactivity",
+      "title": "Reactivity and redox",
+      "description": "Predict displacement and explain electron transfer.",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Reactivity and displacement"
+        },
+        {
+          "heading": "Oxidation, reduction and extraction"
+        }
+      ]
+    },
+    {
+      "id": "acids",
+      "title": "Acids, salts and titration",
+      "description": "Choose reactions and prepare pure salts.",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Acids, alkalis and pH"
+        },
+        {
+          "heading": "Acid reactions and salt names"
+        },
+        {
+          "heading": "Required practical: pure dry salt crystals"
+        },
+        {
+          "heading": "Required practical: titration"
+        }
+      ]
+    },
+    {
+      "id": "electrolysis",
+      "title": "Electrolysis",
+      "description": "Follow ions, predict products and explain extraction.",
+      "icon": "transport",
+      "sections": [
+        {
+          "heading": "Electrolysis and electrode reactions"
+        },
+        {
+          "heading": "Aqueous electrolysis"
+        },
+        {
+          "heading": "Required practical: aqueous electrolysis"
+        },
+        {
+          "heading": "Extracting aluminium"
+        }
+      ]
+    }
+  ]
+}
