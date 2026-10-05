@@ -1,0 +1,39 @@
+{
+  "source": "Bioenergetics - Revision Notes.md",
+  "groups": [
+    {
+      "id": "photosynthesis",
+      "title": "Photosynthesis & its practical",
+      "description": "Glucose, limiting factors and measuring rate",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Photosynthesis"
+        },
+        {
+          "heading": "Limiting factors"
+        },
+        {
+          "heading": "Investigating light and photosynthesis"
+        }
+      ]
+    },
+    {
+      "id": "respiration",
+      "title": "Respiration, exercise & metabolism",
+      "description": "Energy transfer and the reactions of living cells",
+      "icon": "transport",
+      "sections": [
+        {
+          "heading": "Aerobic and anaerobic respiration"
+        },
+        {
+          "heading": "Exercise and oxygen debt"
+        },
+        {
+          "heading": "Metabolism"
+        }
+      ]
+    }
+  ]
+}

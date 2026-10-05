@@ -66,7 +66,31 @@ def infection():
  s+=arrow('M500 385V425')+box(260,430,480,60,'Collect and purify the antibodies')
  save(folder,'hybridoma','Production of monoclonal antibodies',s,h=520)
 
+
+def bioenergetics():
+ folder=ROOT/'Biology - AQA/04 - Bioenergetics/Diagrams'
+ s=text(500,32,'Changing carbon dioxide concentration',25,'middle')
+ s+=arrow('M90 345V65')+arrow('M90 345H630')+text(98,68,'Photosynthesis rate',20)+text(350,390,'Light intensity',22,'middle')
+ s+='<path d="M95 340C170 310 200 230 290 230H605" fill="none" stroke="#2166ad" stroke-width="5"/><path d="M95 340C170 310 240 130 390 130H605" fill="none" stroke="#20816c" stroke-width="5"/>'
+ s+=text(670,130,'Higher CO₂',21,colour=GREEN)+text(670,169,'Same temperature',19)+text(670,229,'Lower CO₂',21,colour=BLUE)
+ s+=text(500,440,'At high light: extra CO₂ raises the lower plateau.',22,'middle')+text(500,476,'Schematic curves; other conditions are unchanged.',18,'middle')
+ save(folder,'limiting-factors','Photosynthesis rate against light at lower and higher carbon dioxide',s,h=500)
+ s=text(500,33,'Collect oxygen while changing lamp distance',25,'middle')
+ s+='<rect x="40" y="205" width="105" height="110" rx="16" fill="#ffe29b" stroke="#a77721" stroke-width="3"/><path d="M145 205L345 115M145 245H330M145 315L345 375" fill="none" stroke="#e1b452" stroke-width="3"/>'
+ s+=text(92,350,'Lamp',21,'middle')
+ s+='<path d="M345 100V402H750V100" fill="none" stroke="#617f93" stroke-width="4"/><path d="M347 190H748V400H347Z" fill="#e5f3fa"/><rect x="537" y="130" width="86" height="110" fill="#e5f3fa"/><path d="M490 365L550 270V175M610 175V270L670 365" fill="none" stroke="#617f93" stroke-width="3"/>'
+ # An inverted measuring tube sits over the funnel stem; its open lower end is underwater.
+ s+='<path d="M535 240V65Q535 45 555 45H605Q625 45 625 65V240" fill="none" stroke="#2166ad" stroke-width="3"/><path d="M537 130V65Q537 47 555 47H605Q623 47 623 65V130Z" fill="white"/>'
+ s+='<path d="M535 130H625" stroke="#2166ad" stroke-width="2"/>'
+ for y in [85,105,150,170,190,210]:s+=f'<path d="M625 {y}H637" stroke="#2166ad"/>'
+ s+='<path d="M580 392V327M580 374L548 355M580 355L612 336M580 338L562 326" fill="none" stroke="#40844d" stroke-width="7"/>'
+ for y in [290,240,155]:s+=f'<circle cx="580" cy="{y}" r="5" fill="white" stroke="#2166ad"/>'
+ s+=text(800,88,'Collected gas',20)+text(800,123,'Measuring tube',20)+text(800,198,'Water level',20)+text(800,280,'Funnel',20)+text(800,359,'Pondweed',20)
+ for x,y,ey in [(626,88,82),(639,151,119),(750,190,193),(649,333,275),(612,366,354)]:s+=f'<path d="M{x} {y}L775 {ey}H790" fill="none" stroke="#617f93" stroke-width="1.5"/>'
+ s+=text(500,450,'Keep temperature and CO₂ supply constant; measure gas volume/time.',21,'middle')
+ save(folder,'pondweed-practical','Pondweed oxygen collection under an inverted water-filled measuring tube',s,h=480)
+
 if __name__=='__main__':
  import sys
- functions={'organisation':organisation,'infection':infection}
+ functions={'organisation':organisation,'infection':infection,'bioenergetics':bioenergetics}
  functions[sys.argv[1] if len(sys.argv)>1 else 'organisation']()

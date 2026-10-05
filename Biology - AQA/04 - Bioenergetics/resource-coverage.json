@@ -1,0 +1,25 @@
+{
+  "reviewed": "2026-10-05",
+  "specification": "AQA 8461 4.4",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "pdf_pages": [
+    36,
+    37,
+    38,
+    39
+  ],
+  "coverage": {
+    "4.4.1.1": "Photosynthesis",
+    "4.4.1.2": [
+      "Limiting factors",
+      "Investigating light and photosynthesis"
+    ],
+    "4.4.1.3": "Photosynthesis",
+    "4.4.2.1": "Aerobic and anaerobic respiration",
+    "4.4.2.2": "Exercise and oxygen debt",
+    "4.4.2.3": "Metabolism"
+  },
+  "practicals": [
+    6
+  ]
+}
