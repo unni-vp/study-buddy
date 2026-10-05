@@ -1,0 +1,45 @@
+{
+  "source": "Atomic structure and the periodic table - Revision Notes.md",
+  "groups": [
+    {
+      "id": "atoms",
+      "title": "Atoms, mixtures & electrons",
+      "description": "Particles, separation, isotopes and electronic structure",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Atoms, elements and compounds"
+        },
+        {
+          "heading": "Separating mixtures"
+        },
+        {
+          "heading": "Inside an atom"
+        },
+        {
+          "heading": "Isotopes and relative atomic mass"
+        },
+        {
+          "heading": "Electrons and the periodic table"
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "title": "Models & periodic patterns",
+      "description": "Changing evidence, groups and transition metals",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "How scientific models changed"
+        },
+        {
+          "heading": "Groups 0, 1 and 7"
+        },
+        {
+          "heading": "Transition metals"
+        }
+      ]
+    }
+  ]
+}

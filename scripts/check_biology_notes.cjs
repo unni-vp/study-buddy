@@ -2,7 +2,7 @@ const {chromium}=require('C:/Users/archa/.cache/codex-runtimes/codex-primary-run
 const fs=require('fs'),path=require('path'),{pathToFileURL}=require('url');
 (async()=>{const browser=await chromium.launch({channel:'msedge',headless:true});try{
  const page=await browser.newPage({viewport:{width:1440,height:1000}});
- const topic=process.argv[2]||'02 - Organisation';const root=path.join('Biology - AQA',topic);
+ const topic=process.argv[2]||'02 - Organisation';const root=path.join(process.env.SUBJECT_DIR||'Biology - AQA',topic);
  await page.goto(pathToFileURL(path.resolve(root,'index.html')).href);
  await page.getByRole('link',{name:'Revision notes',exact:true}).click();
  const groups=await page.locator('.revision-group').evaluateAll(a=>a.map(x=>x.href));
