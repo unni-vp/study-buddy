@@ -1,0 +1,39 @@
+{
+  "source": "Energy changes - Revision Notes.md",
+  "groups": [
+    {
+      "id": "energy",
+      "title": "Energy transfers and practicals",
+      "description": "Read profiles, calculate bond energies and investigate temperature.",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Exothermic and endothermic reactions"
+        },
+        {
+          "heading": "Reaction profiles and activation energy"
+        },
+        {
+          "heading": "Bond energies"
+        },
+        {
+          "heading": "Required practical: temperature changes"
+        }
+      ]
+    },
+    {
+      "id": "cells",
+      "title": "Cells, batteries and fuel cells",
+      "description": "Explain electricity generation and compare energy sources.",
+      "icon": "transport",
+      "sections": [
+        {
+          "heading": "Cells and batteries"
+        },
+        {
+          "heading": "Hydrogen fuel cells"
+        }
+      ]
+    }
+  ]
+}

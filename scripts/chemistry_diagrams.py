@@ -82,6 +82,30 @@ def changes():
  s+=text(245,474,'Gain electrons → reduction',22,'middle')+text(755,474,'Lose electrons → oxidation',22,'middle')+text(500,525,'Electrolyte: molten ionic compound or aqueous solution',22,'middle')
  save(f,'electrolysis','Positive ions move to negative cathode and gain electrons; negative ions move to positive anode and lose electrons',s,h=555)
 
-if __name__=="__main__":
+def energy():
+ f=ROOT/SUBJECT/TOPICS[4]/'Diagrams';s=''
+ for x,exo in [(0,True),(500,False)]:
+  yr=220 if exo else 350;yp=350 if exo else 220
+  s+=text(x+250,32,'Exothermic' if exo else 'Endothermic',27,'middle')
+  s+=f'<path d="M{x+55} 400V68M{x+55} 400H{x+465}" stroke="#526573" stroke-width="2" fill="none"/>'+text(x+60,62,'Energy',20)+text(x+255,442,'Progress of reaction →',20,'middle')
+  s+=f'<path d="M{x+80} {yr}H{x+145}C{x+190} {yr} {x+192} 100 {x+245} 100S{x+310} {yp} {x+360} {yp}H{x+425}" fill="none" stroke="{ "#2166ad" if exo else "#b76a22"}" stroke-width="4"/>'
+  s+=f'<path d="M{x+145} {yr}H{x+460}M{x+245} 100H{x+280}" stroke="#adbcc6" stroke-dasharray="5 5"/>'
+  s+=arrow(f'M{x+270} {yr}V105')+text(x+330,145,'Activation',19)+text(x+330,170,'energy',19)
+  s+=arrow(f'M{x+448} {yr}V{yp}')+text(x+112,yr-14,'Reactants',20,'middle')+text(x+370,yp+28,'Products',20,'middle')
+  s+=text(x+250,480,'Products lower: energy out' if exo else 'Products higher: energy in',21,'middle')
+ s+=text(500,518,'Right-hand vertical arrows: overall energy change between the two levels.',20,'middle')
+ save(f,'reaction-profiles','Two profiles: activation energy from reactants to peak; overall change between reactants and products',s,h=550)
+ s=text(500,32,'Hydrogen fuel cell with an acidic electrolyte',25,'middle')
+ s+='<rect x="420" y="215" width="160" height="255" fill="#eadff5" stroke="#7750a1"/><rect x="285" y="210" width="35" height="260" fill="#526573"/><rect x="680" y="210" width="35" height="260" fill="#526573"/>'
+ s+='<path d="M302 210V95H410M590 95H697V210" fill="none" stroke="#2166ad" stroke-width="3"/><rect x="410" y="70" width="180" height="50" rx="8" fill="#fff1cc" stroke="#aa7e22"/>'+text(500,102,'Electrical load',21,'middle')
+ s+=arrow('M332 95H396')+arrow('M600 95H660')+text(500,153,'Electrons through the external circuit →',21,'middle')
+ s+=text(150,190,'Hydrogen electrode (−)',20,'middle')+text(850,190,'Oxygen electrode (+)',20,'middle')
+ s+=text(117,283,'H₂ in',24,'middle')+arrow('M170 277H276')+text(881,283,'O₂ in',24,'middle')+arrow('M830 277H725')
+ s+=text(399,343,'H⁺',26,'middle')+arrow('M425 337H660')+text(500,405,'H⁺ crosses',20,'middle')+text(500,432,'electrolyte',20,'middle')
+ s+=arrow('M725 409H828')+text(884,414,'H₂O out',23,'middle')
+ s+=text(220,510,'H₂ loses electrons',22,'middle')+text(780,510,'O₂ gains electrons',22,'middle')+text(500,555,'Overall: 2H₂ + O₂ → 2H₂O',26,'middle')
+ save(f,'hydrogen-fuel-cell','Acidic fuel cell: hydrogen oxidised; electrons pass through load while protons cross electrolyte; oxygen reduced to water',s,h=585)
+
+if __name__=='__main__':
  import sys
- {1:atomic,2:bonding,3:quantitative,4:changes}[int(sys.argv[1])]()
+ {1:atomic,2:bonding,3:quantitative,4:changes,5:energy}[int(sys.argv[1])]()

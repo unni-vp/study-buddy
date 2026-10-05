@@ -1,0 +1,15 @@
+{
+  "reviewed": "2026-10-05",
+  "specification": "AQA 8462 4.5, version 1.2 January 2026",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": {
+    "4.5.1.1": "Exothermic and endothermic reactions; Required practical: temperature changes",
+    "4.5.1.2": "Reaction profiles and activation energy",
+    "4.5.1.3": "Bond energies",
+    "4.5.2.1": "Cells and batteries",
+    "4.5.2.2": "Hydrogen fuel cells"
+  },
+  "practicals": [
+    "RP4 temperature changes"
+  ]
+}
