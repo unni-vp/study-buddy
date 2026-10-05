@@ -1,0 +1,223 @@
+{
+  "reviewed": "2026-10-05",
+  "sample": "June 2019, 2022 and 2023 AQA 8462/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What type of bond forms when non-metal atoms share electrons?",
+      "answer": "Covalent.",
+      "specification": "4.2.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "State the charge on an oxide ion.",
+      "answer": "2−.",
+      "specification": "4.2.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What does the state symbol (aq) mean?",
+      "answer": "Dissolved in water.",
+      "specification": "4.2.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the carbon structure that is a single layer of graphite.",
+      "answer": "Graphene.",
+      "specification": "4.2.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "State the size range of nanoparticles.",
+      "answer": "1–100 nm.",
+      "specification": "4.2.4.1",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain what an ionic bond is.",
+      "answer": "It is a **strong electrostatic attraction** between **oppositely charged ions**.",
+      "specification": "4.2.1.2–4.2.1.3",
+      "evidence": "2022 Q01.6–01.7",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why magnesium chloride has the formula MgCl₂.",
+      "answer": "- Magnesium forms **Mg²⁺** and chlorine forms **Cl⁻**.\n- Two chloride ions balance one magnesium ion, making the compound **electrically neutral**.",
+      "specification": "4.2.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a metal conducts electricity.",
+      "answer": "- It has **delocalised electrons that can move** through the structure.\n- These electrons **carry charge**.",
+      "specification": "4.2.2.8",
+      "evidence": "2022 Q01.5; 2023 Q06.2",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Why does solid sodium chloride not conduct electricity?",
+      "answer": "- Its ions are **held in fixed positions** in the lattice.\n- There are no **mobile charged particles** to carry current through it.",
+      "specification": "4.2.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why oxygen has a low boiling point.",
+      "answer": "- There are **weak intermolecular forces** between oxygen molecules.\n- Little energy is needed to overcome them; the covalent bonds inside the molecules remain intact.",
+      "specification": "4.2.2.4",
+      "evidence": "2019 Q05.3",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why graphite can be used as a lubricant.",
+      "answer": "- There are **weak forces between its layers**.\n- The layers **slide over one another** easily.",
+      "specification": "4.2.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "A substance melts at −20 °C and boils at 60 °C. Give its state at 25 °C and explain your choice.",
+      "answer": "- Liquid.\n- 25 °C is **above its melting point but below its boiling point**.",
+      "specification": "4.2.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two limitations of a ball-and-stick molecular model.",
+      "answer": "- Atoms and gaps may **not be to scale**.\n- Bonds are represented by rods, but real bonds are **attractions involving electrons and nuclei**, not physical sticks.",
+      "specification": "4.2.1.4",
+      "evidence": "2019 Q05.2",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why might a nanoparticle catalyst work effectively using less material than a larger-particle catalyst?",
+      "answer": "- Nanoparticles have a **larger surface area to volume ratio**.\n- A larger fraction of the material is exposed at the surface where reaction occurs.",
+      "specification": "4.2.4.1–4.2.4.2",
+      "evidence": "2023 Q10.1",
+      "number": 14
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why sodium chloride has a high melting point but conducts electricity when molten.",
+      "answer": "- A **giant ionic lattice** contains strong electrostatic attractions between opposite ions.\n- Much energy is needed to **overcome these attractions**.\n- When molten, the **ions can move and carry charge**.",
+      "specification": "4.2.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why an alloy is often harder than the pure metal.",
+      "answer": "- Atoms of the added elements are **different sizes**.\n- They **distort the regular layers** of metal atoms.\n- The layers **cannot slide as easily**, so the alloy resists deformation.",
+      "specification": "4.2.2.7",
+      "evidence": "2023 Q06.3",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why diamond is hard and does not conduct electricity.",
+      "answer": "- Each carbon forms **four strong covalent bonds** in a rigid giant structure.\n- These bonds resist deformation, making it **very hard**.\n- It has **no delocalised electrons or mobile ions** to carry charge.",
+      "specification": "4.2.3.1",
+      "evidence": "2022 Q03.1–03.2",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why graphite has a high melting point and conducts electricity.",
+      "answer": "- Each carbon forms **three strong covalent bonds** within a giant layered structure.\n- Much energy is needed to break these bonds.\n- Each carbon contributes a **delocalised electron**, which can move and carry charge.",
+      "specification": "4.2.3.2",
+      "evidence": "2019 Q03.1",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why a polymer can be solid at room temperature while a small molecule such as methane is a gas.",
+      "answer": "- Polymers consist of **very large, long molecules**.\n- Forces **between polymer molecules are stronger** than those between small methane molecules.\n- More energy is needed to overcome those forces; strong covalent bonds within either molecule are not broken in melting or boiling.",
+      "specification": "4.2.2.4–4.2.2.5",
+      "evidence": "2023 Q04.5",
+      "number": 19
+    },
+    {
+      "marks": 3,
+      "prompt": "A cubic nanoparticle has side length 20 nm. Calculate its surface area, volume and surface area to volume ratio.",
+      "answer": "- Surface area = 6 × 20² = **2,400 nm²**.\n- Volume = 20³ = **8,000 nm³**.\n- SA/V = 2,400 ÷ 8,000 = **0.30 nm⁻¹**.",
+      "specification": "4.2.4.1",
+      "evidence": "2019 Q03.3",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe three ways the particle model differs from real substances.",
+      "answer": "- Particles are not all identical hard spheres: their sizes and structures differ.\n- Simple drawings often omit **attractive forces** between particles.\n- A still drawing does not show **continuous particle movement**.",
+      "specification": "4.2.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how magnesium and oxygen form magnesium oxide, including the electron changes and the resulting bonding.",
+      "answer": "- A magnesium atom **loses two electrons**, becoming Mg²⁺.\n- An oxygen atom **gains two electrons**, becoming O²⁻.\n- Both ions have **full outer shells**.\n- **Electrostatic attraction between opposite ions** holds a giant ionic lattice together.",
+      "specification": "4.2.1.2–4.2.1.3",
+      "evidence": "2022 Q01.7",
+      "number": 22
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe the outer-shell electrons in a dot-and-cross diagram of hydrogen chloride. Explain what holds the atoms together.",
+      "answer": "- Show **one shared pair**, containing one electron from hydrogen and one from chlorine.\n- Chlorine also has **three lone pairs**.\n- Hydrogen has two electrons in its shell; chlorine has eight in its outer shell when the shared pair is counted.\n- Both positive nuclei **attract the shared negative electrons**, making a covalent bond.",
+      "specification": "4.2.1.4",
+      "evidence": "2023 Q04.4",
+      "number": 23
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare particle arrangement and movement in a solid and a gas, and explain what changes on heating.",
+      "answer": "- In a solid, particles are **close together in fixed positions**.\n- They **vibrate**; in a gas, particles are far apart and move randomly in all directions.\n- Heating transfers energy to the substance.\n- During a change of state, energy overcomes attractions and changes particle arrangement; the particles themselves do not expand or turn into different substances.",
+      "specification": "4.2.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 4,
+      "prompt": "Give two uses of fullerenes or nanotubes and explain the useful property for each.",
+      "answer": "- A hollow fullerene cage can **carry drug molecules**, making targeted drug delivery possible.\n- Carbon nanotubes have **high tensile strength**, so adding them can strengthen composite materials.\n- Their useful properties arise from their carbon structures, not simply from being small.",
+      "specification": "4.2.3.3",
+      "evidence": "2022 Q03.3–03.4",
+      "number": 25
+    },
+    {
+      "marks": 6,
+      "prompt": "Compare diamond, sodium chloride and methane in terms of structure, melting point and electrical conductivity.",
+      "answer": "- Diamond is **giant covalent**; many strong covalent bonds require much energy to break, giving a high melting point.\n- It lacks mobile ions and delocalised electrons, so it does not conduct.\n- Sodium chloride has a **giant ionic lattice**; strong attractions between opposite ions give a high melting point.\n- It conducts when molten or dissolved because ions can move, but not when solid.\n- Methane consists of **small molecules**; weak intermolecular forces need little energy to overcome, so its melting point is low.\n- Methane has no mobile ions or delocalised electrons, so it does not conduct.",
+      "specification": "4.2.2.3–4.2.2.6; 4.2.3.1",
+      "evidence": "2019 Q05.3; 2022 Q03.1–03.2",
+      "number": 26
+    },
+    {
+      "marks": 6,
+      "prompt": "A company plans to use silver nanoparticles in an antibacterial fabric. Evaluate the decision and the evidence it should obtain.",
+      "answer": "- A **large surface area to volume ratio** can make a small amount effective at contacting bacteria.\n- An antibacterial fabric could reduce bacterial growth and odours, but the effectiveness must be measured rather than assumed.\n- Compare treated and untreated fabric under the same conditions, including after washing.\n- Investigate whether nanoparticles are released during use or washing and whether people or organisms are exposed.\n- Assess toxicity at realistic **doses and exposure routes**, including longer-term effects.\n- Use the fabric if evidence supports a useful benefit with acceptable exposure and environmental risks; uncertain safety cannot be settled just by noting that bulk silver is familiar.",
+      "specification": "4.2.4.2",
+      "evidence": "2019 Q03.4; 2023 Q10.1",
+      "number": 27
+    }
+  ]
+}
