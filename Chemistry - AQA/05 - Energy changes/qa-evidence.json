@@ -1,0 +1,239 @@
+{
+  "reviewed": "2026-10-06",
+  "sample": "June 2019, 2022 and 2023 AQA 8462/1H; both questions and mark schemes",
+  "current_specification_checked": true,
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "A reaction warms the surrounding solution. Is it exothermic or endothermic?",
+      "answer": "Exothermic.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the type of reaction that takes energy from its surroundings.",
+      "answer": "Endothermic.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What name is given to the minimum energy that particles need to react when they collide?",
+      "answer": "Activation energy.",
+      "specification": "4.5.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Are ordinary alkaline cells rechargeable or non-rechargeable?",
+      "answer": "Non-rechargeable.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "Four 1.5 V cells are connected in series in the same direction. What is the total voltage?",
+      "answer": "6.0 V.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the overall chemical product of a hydrogen fuel cell?",
+      "answer": "Water.",
+      "specification": "4.5.2.2",
+      "evidence": "2019 Q06.4",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why the surroundings become colder during an endothermic reaction.",
+      "answer": "- Energy is **transferred from the surroundings to the reacting chemicals**.\n- The surroundings lose thermal energy, so their temperature falls.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "State the energy changes associated with breaking and forming chemical bonds.",
+      "answer": "- **Breaking bonds takes in energy**.\n- **Forming bonds releases energy**.",
+      "specification": "4.5.1.3",
+      "evidence": "2019 Q05.6; 2023 Q04.2",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "An exothermic reaction transfers energy to the surroundings. Explain why this does not break the law of conservation of energy.",
+      "answer": "- The products have **less energy than the reactants**.\n- The decrease equals the energy transferred to the surroundings; energy is **transferred, not created**.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is a polystyrene cup with a lid useful for measuring temperature changes?",
+      "answer": "- It **reduces energy transfer between the mixture and the surroundings**.\n- The measured temperature change is therefore closer to that caused by the reaction.",
+      "specification": "4.5.1.1",
+      "evidence": "2019 Q09.1; 2022 Q02.1",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "A solution changes from 22.4 °C to 17.1 °C. Calculate the temperature change and classify the process.",
+      "answer": "- Change = 17.1 − 22.4 = **−5.3 °C**.\n- **Endothermic**, because the surrounding solution cools.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain how a rechargeable cell is restored for further use.",
+      "answer": "- An **external electrical current** is supplied.\n- This **reverses the chemical reactions**, restoring reactants.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "State two factors that affect the voltage produced by a chemical cell.",
+      "answer": "- The **electrode materials**.\n- The **electrolyte used**.",
+      "specification": "4.5.2.1",
+      "evidence": "2019 Q06.1",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Give one exothermic reaction and one endothermic reaction.",
+      "answer": "- Combustion is **exothermic**.\n- Thermal decomposition is **endothermic**.",
+      "specification": "4.5.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 3,
+      "prompt": "On an energy profile, reactants are at 70 kJ, the peak is at 160 kJ and products are at 30 kJ, using the same reference scale. Calculate activation energy and overall energy change, then classify the reaction.",
+      "answer": "- Activation energy = 160 − 70 = **90 kJ**.\n- Overall change = 30 − 70 = **−40 kJ**.\n- **Exothermic**, because the products are lower in energy.",
+      "specification": "4.5.1.2",
+      "evidence": "2019 Q05.7; 2022 Q02.5–02.6; 2023 Q04.3",
+      "number": 15
+    },
+    {
+      "marks": 3,
+      "prompt": "For CH₄ + 2O₂ → CO₂ + 2H₂O, state the numbers and types of bonds broken and formed.",
+      "answer": "- Break **four C–H bonds and two O=O bonds**.\n- Form **two C=O bonds** in carbon dioxide.\n- Form **four O–H bonds** across the two water molecules.",
+      "specification": "4.5.1.3",
+      "evidence": "2019 Q05.5; 2023 Q04.1",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the energy change for H₂ + Cl₂ → 2HCl. Bond energies: H–H 436, Cl–Cl 243, H–Cl 431 kJ/mol.",
+      "answer": "- Bonds broken: 436 + 243 = **679 kJ**.\n- Bonds formed: 2 × 431 = **862 kJ**.\n- Change = 679 − 862 = **−183 kJ** for the molar quantities in the equation.",
+      "specification": "4.5.1.3",
+      "evidence": "2019 Q05.5; 2023 Q04.1",
+      "number": 17
+    },
+    {
+      "marks": 3,
+      "prompt": "A best-fit line on a highest-temperature versus solid-mass graph passes through (0.50 g, 24.0 °C) and (2.00 g, 36.0 °C). Calculate its gradient and state the unit.",
+      "answer": "- Temperature difference = 36.0 − 24.0 = **12.0 °C**.\n- Mass difference = 2.00 − 0.50 = **1.50 g**.\n- Gradient = 12.0/1.50 = **8.0 °C/g**.",
+      "specification": "4.5.1.1",
+      "evidence": "2022 Q02.2",
+      "number": 18
+    },
+    {
+      "marks": 3,
+      "prompt": "A student changes the test metal electrode while measuring cell voltage. State three conditions to control: one for the electrolyte, one for temperature and one for the reference electrode.",
+      "answer": "- Keep the **electrolyte type and concentration** the same.\n- Keep the **electrolyte temperature** the same.\n- Use the **same reference electrode and lead connections** throughout.",
+      "specification": "4.5.2.1",
+      "evidence": "2019 Q06.1",
+      "number": 19
+    },
+    {
+      "marks": 3,
+      "prompt": "With a fixed copper reference and lead convention, a more positive reading means the test metal is more reactive than copper. Metals A, B and C give +1.2 V, +0.4 V and −0.2 V. Order A, B, C and copper by reactivity and explain.",
+      "answer": "- **A > B > copper > C**.\n- A and B are more reactive than copper; A has the larger positive reading under the stated convention.\n- C has reversed polarity and is **less reactive than copper**.",
+      "specification": "4.5.2.1",
+      "evidence": "2019 Q06.2",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "Give the balanced overall equation for a hydrogen fuel cell and identify what is oxidised and reduced.",
+      "answer": "- **2H₂ + O₂ → 2H₂O**.\n- Hydrogen is **oxidised**, losing electrons.\n- Oxygen is **reduced**, gaining electrons.",
+      "specification": "4.5.2.2",
+      "evidence": "2019 Q06.4",
+      "number": 21
+    },
+    {
+      "marks": 3,
+      "prompt": "Balance this alkaline fuel-cell half-equation: O₂ + __H₂O + __e⁻ → __OH⁻. Explain whether it is oxidation or reduction.",
+      "answer": "- **O₂ + 2H₂O + 4e⁻ → 4OH⁻**.\n- Four electrons are gained, so it is **reduction**.\n- Both sides contain four O atoms and four H atoms and have total charge −4.",
+      "specification": "4.5.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 4,
+      "prompt": "For H₂ + Br₂ → 2HBr, the energy change is −103 kJ for the molar quantities in the equation. H–H bond energy is 436 and Br–Br is 193 kJ/mol. Calculate H–Br bond energy.",
+      "answer": "- Energy to break reactant bonds = 436 + 193 = **629 kJ**.\n- Let H–Br bond energy = x; two bonds form, releasing **2x**.\n- 629 − 2x = −103, so 2x = 732.\n- **x = 366 kJ/mol**.",
+      "specification": "4.5.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 4,
+      "prompt": "Draw an exothermic reaction profile. Label the axes, reactants, products, activation energy and overall energy change.",
+      "answer": "- Vertical axis: **energy**; horizontal: **progress of reaction**.\n- Products are **lower than reactants**, joined by a curved peak.\n- Activation energy runs **from reactant level to the peak**.\n- Overall change runs **between reactant and product levels**. The left-hand profile below shows this.\n\n![Exothermic profile on the left, with an endothermic comparison on the right.](../Diagrams/reaction-profiles.svg)",
+      "specification": "4.5.1.2",
+      "evidence": "2019 Q05.7; 2022 Q02.5; 2023 Q04.3",
+      "number": 24
+    },
+    {
+      "marks": 4,
+      "prompt": "Calculate the energy change for CH₄ + 2O₂ → CO₂ + 2H₂O and explain its sign. Bond energies in kJ/mol: C–H 413, O=O 498, C=O 805, O–H 464.",
+      "answer": "- Breaking: (4 × 413) + (2 × 498) = **2,648 kJ**.\n- Forming: (2 × 805) + (4 × 464) = **3,466 kJ**.\n- Change = 2,648 − 3,466 = **−818 kJ** for the molar equation quantities.\n- It is **exothermic**: forming bonds releases more energy than breaking bonds requires.",
+      "specification": "4.5.1.3",
+      "evidence": "2019 Q05.5–05.6; 2023 Q04.1–04.2",
+      "number": 25
+    },
+    {
+      "marks": 4,
+      "prompt": "A student uses an uninsulated beaker, does not stir and takes only one temperature reading long after mixing. Suggest improvements and explain why they help.",
+      "answer": "- Use an **insulated cup and lid** to reduce energy transfer to the surroundings.\n- **Stir consistently** to make mixture temperature more uniform.\n- Record promptly at regular intervals to detect the **maximum or minimum**, rather than missing it.\n- Repeat and average to reduce the effect of random variation, keeping the starting conditions the same.",
+      "specification": "4.5.1.1",
+      "evidence": "2022 Q02.1; 2023 Q02.1",
+      "number": 26
+    },
+    {
+      "marks": 4,
+      "prompt": "Write both acidic hydrogen fuel-cell half-equations, using four electrons in each, and show how they give the overall equation.",
+      "answer": "- Oxidation: **2H₂ → 4H⁺ + 4e⁻**.\n- Reduction: **O₂ + 4H⁺ + 4e⁻ → 2H₂O**.\n- Add and **cancel 4H⁺ and 4e⁻** from both sides.\n- Overall: **2H₂ + O₂ → 2H₂O**.",
+      "specification": "4.5.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan an investigation into how hydrochloric acid concentration affects the temperature change when reacting with sodium hydroxide. Include controls and how you would use the results.",
+      "answer": "- Predict that greater acid concentration increases the rise while acid limits the reaction. Wear goggles and use appropriate dilute solutions.\n- Place an insulated cup in a supporting beaker with a lid and thermometer. Measure fixed volumes of acid and alkali; start both at the same temperature.\n- Record initial temperature, mix and stir consistently; record at regular intervals to find the maximum. Calculate **maximum − initial temperature**.\n- Repeat with several acid concentrations, using fresh solutions. Control volumes, alkali concentration, starting temperature, apparatus and timing.\n- Repeat each condition, investigate anomalies and calculate means. Plot acid concentration against temperature rise.\n- Explain a possible plateau: once **alkali becomes limiting**, more acid cannot cause more neutralisation. Discuss heat loss as a limitation.",
+      "specification": "4.5.1.1",
+      "evidence": "2022 Q02.1; 2023 Q02.1",
+      "number": 28
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate a hydrogen fuel cell and a rechargeable battery for powering a vehicle. Consider how each supplies energy and the environmental effects over its life.",
+      "answer": "- A fuel cell needs a continuous external supply of hydrogen and oxygen; it generates electricity and water through **hydrogen oxidation**. Refuelling may be quick, but storage tanks and supply infrastructure are needed.\n- A rechargeable battery stores its reacting chemicals internally; supplying current **reverses its reactions**. It can use charging infrastructure, but charging time and battery mass matter.\n- Neither produces direct CO₂ exhaust during electrical operation; a hydrogen fuel cell produces water.\n- Overall emissions depend on **how hydrogen and charging electricity are produced**, so water at the outlet does not prove zero lifetime emissions.\n- Compare efficiency, cost, useful life, materials, recycling and hydrogen storage/flammability as well as driving requirements.\n- Choose using the supplied evidence and intended use: access to low-carbon energy, refuelling or charging facilities and acceptable mass/time can change the best option.",
+      "specification": "4.5.2.1–4.5.2.2",
+      "evidence": "2019 Q06.4",
+      "number": 29
+    }
+  ]
+}
