@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-06",
+  "specification": "Eduqas C720QS v4 August 2024, assessment 2027",
+  "coverage": {
+    "poems": [
+      "The Schoolboy — William Blake",
+      "I Wandered Lonely as a Cloud — William Wordsworth",
+      "Blackberry Picking — Seamus Heaney",
+      "Sonnet 29 — Elizabeth Barrett Browning",
+      "Cousin Kate — Christina Rossetti",
+      "Catrin — Gillian Clarke",
+      "Dusting the Phone — Jackie Kay",
+      "Drummer Hodge — Thomas Hardy",
+      "Disabled — Wilfred Owen",
+      "Kamikaze — Beatrice Garland",
+      "War Photographer — Carol Ann Duffy",
+      "Remains — Simon Armitage",
+      "I Shall Return — Claude McKay",
+      "Decomposition — Zulfikar Ghose",
+      "Origin Story — Eve L. Ewing"
+    ],
+    "skills": [
+      "AO1 interpretation and textual references",
+      "AO2 language, form and structure",
+      "AO3 relevant contexts",
+      "15-mark named poem",
+      "25-mark comparison"
+    ],
+    "anthology": "Eduqas first assessment 2027; all 15 poems",
+    "primary_source": "00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf",
+    "support": "https://resources.eduqas.co.uk/pages/ResourceSingle.aspx?rIid=2197",
+    "review_notes": [
+      "Read poems in full; use original interpretation and brief quotation anchors.",
+      "Do not reproduce the support sheet claim connecting kamikaze missions to Pearl Harbor; excluded.",
+      "Distinguish reconstructed memories in Kamikaze from certain access to the pilot thoughts.",
+      "Do not describe the sleeping man in Decomposition as dead.",
+      "Sonnet 29 is by Elizabeth Barrett Browning. PDF wrapping is not a new verse line."
+    ]
+  },
+  "sources": [
+    "https://www.eduqas.co.uk/media/42ldm0wa/eduqas-gcse-english-literature-spec-from-2015.pdf"
+  ]
+}

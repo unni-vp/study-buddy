@@ -1,0 +1,93 @@
+{
+  "source": "Poetry anthology - Revision Notes.md",
+  "groups": [
+    {
+      "id": "nature",
+      "title": "Nature and childhood",
+      "description": "Freedom, pleasure, memory and disappointment.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "The Schoolboy — William Blake"
+        },
+        {
+          "heading": "I Wandered Lonely as a Cloud — William Wordsworth"
+        },
+        {
+          "heading": "Blackberry Picking — Seamus Heaney"
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Love and relationships",
+      "description": "Longing, power and the pull of family bonds.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Sonnet 29 — Elizabeth Barrett Browning"
+        },
+        {
+          "heading": "Cousin Kate — Christina Rossetti"
+        },
+        {
+          "heading": "Catrin — Gillian Clarke"
+        },
+        {
+          "heading": "Dusting the Phone — Jackie Kay"
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "title": "War and its aftermath",
+      "description": "Loss, memory, responsibility and exclusion.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Drummer Hodge — Thomas Hardy"
+        },
+        {
+          "heading": "Disabled — Wilfred Owen"
+        },
+        {
+          "heading": "Kamikaze — Beatrice Garland"
+        },
+        {
+          "heading": "War Photographer — Carol Ann Duffy"
+        },
+        {
+          "heading": "Remains — Simon Armitage"
+        }
+      ]
+    },
+    {
+      "id": "identity",
+      "title": "Place and identity",
+      "description": "Home, human dignity and family origins.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "I Shall Return — Claude McKay"
+        },
+        {
+          "heading": "Decomposition — Zulfikar Ghose"
+        },
+        {
+          "heading": "Origin Story — Eve L. Ewing"
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "Comparing poems",
+      "description": "Find useful connections and build a clear argument.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Comparing poems and writing answers"
+        }
+      ]
+    }
+  ]
+}
