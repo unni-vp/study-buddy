@@ -1,0 +1,1490 @@
+© WJEC CBAC Ltd.
+
+
+
+
+
+
+
+
+
+
+
+ GCSE MARKING SCHEME
+
+
+
+SUMMER 2023
+
+
+ENGLISH LITERATURE - COMPONENT 1
+C720U10-1
+
+
+
+
+PMT
+
+
+© WJEC CBAC Ltd.
+INTRODUCTION
+
+This marking scheme was used by WJEC for the 2023 examination. It was finalised after
+detailed discussion at examiners' conferences by all the examiners involved in the
+assessment. The conference was held shortly after the paper was taken so that reference
+could be made to the full range of candidates' responses, with photocopied scripts forming
+the basis of discussion. The aim of the conference was to ensure that the marking scheme
+was interpreted and applied in the same way by all examiners.
+
+It is hoped that this information will be of assistance to centres but it is recognised at the
+same time that, without the benefit of participation in the examiners' conference, teachers
+may have different views on certain matters of detail or interpretation.
+
+WJEC regrets that it cannot enter into any discussion or correspondence about this marking
+scheme.
+
+
+
+
+
+
+PMT
+
+
+© WJEC CBAC Ltd. 1
+GCSE ENGLISH LITERATURE – COMPONENT 1
+
+SUMMER 2023 MARK SCHEME
+
+
+GENERAL INFORMATION
+
+Prior to on-screen marking
+
+The first priority is for you to become thoroughly familiar with the material on which
+the question paper is based. Examiners are asked to go carefully through the examination
+paper and mark scheme prior to the actual marking process and to consider all questions on
+the paper. You are also required to mark about ten of each item in training mode. In this
+mode, you will be able to practise using the on-screen comment bank. Needless to say, a
+thorough knowledge of the texts themselves is the prime requirement of examiners.
+
+Further guidance on the training process is issued separately.
+
+
+Online marking
+
+WJEC will be using a method of marking examination scripts known as e marker ® for this
+paper. Under this system, candidates’ scripts are scanned and then transmitted to
+examiners electronically via the internet. Examiners mark on-screen; marked responses and
+marks are then submitted electronically.
+
+Whilst the basic principles remain unchanged, this method entails some important changes
+to the way the system operates when examiners mark on paper:
+
+• Examiners do not mark complete scripts. Instead scripts are divided into segments by
+question (item), and are transmitted to examiners in this form.
+
+• In terms of technical requirements, examiners participating will need a personal
+computer running on Windows Vista or Version 7/8/10 and a broadband internet
+connection. With an Apple Mac a Windows emulator is required.
+
+• For further details, please see the user guide available on e marker ® when you log on.
+Details of how to log on to the system and your username and password have been sent
+separately.
+
+
+PMT
+
+
+© WJEC CBAC Ltd. 2
+General Advice to Examiners
+
+1. Familiarise yourself with the questions, and each part of the marking guidelines.
+
+2. Be positive in your approach; look for details to reward in the candidate's response rather
+than faults to penalise.
+
+3. Ticks, underlinings and comments should show how you have judged the quality of an
+answer. All comments must be based on the assessment criteria for the
+examination and taken from the comment bank. The comment box at the bottom of
+responses should not be used. After you have you read the candidate's response,
+drag and drop the relevant comments using the on-screen comment bank. You should
+include a comment for each Assessment Objective that is assessed. Remember that
+your mark at the end of the response must tally with the skills which you have identified.
+
+4. Tick points you reward, you are also required to include a summative comment at the
+end of the response and enter the mark. There must always be a comment at the end of
+each clip, including the poetry question. This should not simply echo the mark but
+indicate the salient features of the candidate's performance. These comments will be
+based on the criteria established by the P.E. for this examination and taken from the
+comment bank.
+
+5. Underlinings should only be used where SPAG is assessed to show where the candidate
+has made errors.
+
+6. You must tick at the end of the response to show all of the response has been seen. This
+often means scrolling to the end of the poetry response.
+
+
+Marking Problems
+
+7. If for any reason you have particular problems in marking a response (e.g. unlikely
+interpretation, handwriting) you should follow the instructions for reporting a problem.
+
+
+Marking positively
+
+8. Please approach the marking of scripts with an open mind and mark positively. All the
+questions provide opportunities for candidates to make informed, independent
+responses, and such opportunities need to be upheld in your marking. You must
+evaluate what is offered by the candidate, using the criteria, but without looking for what
+might have been presented or for what you might have written in the candidate's place.
+Some questions are relatively open, so it is particularly important in such instances that
+you are receptive to a range of responses.
+
+Marking should be positive, rewarding achievement rather than penalising failure or
+omissions. The awarding of marks must be directly related to the marking criteria. Examiners
+should use both the generic assessment grid and the indicative content marking guidance
+when assessing a candidate’s response.
+
+
+PMT
+
+
+© WJEC CBAC Ltd. 3
+Band Descriptors
+
+When awarding a mark, examiners should select the band that most closely describes the
+quality of work being marked.
+
+• Where the candidate’s work convincingly meets the descriptors, the highest mark should
+be awarded.
+
+• Where the candidate’s work adequately meets the descriptors, the most appropriate
+mark in the middle range should be awarded.
+
+• Where the candidate’s work just meets the descriptors, the lowest mark should be
+awarded.
+
+Examiners should use the full range of marks available to them and award full marks for
+work that convincingly meets the descriptors in that band.
+
+Indicative Content
+
+The mark scheme instructs examiners to reward valid alternatives where indicative content
+is suggested for an answer. Indicative content outlines some areas of the text candidates
+may explore in their responses. This is not a checklist for expected content or a ‘model
+answer’. Where a candidate provides a response that contains aspects or approaches not
+included in the indicative content, examiners should use their professional judgement as
+English literature specialists to determine the validity of the response/interpretation in light of
+the text and the question asked. All questions provide opportunities for candidates to make
+informed, independent responses, and such opportunities need to be upheld in the marking.
+Valid alternatives should be rewarded where deemed appropriate, in line with the skills set
+out in the banded levels of response in the generic assessment grids.
+
+
+
+PMT
+
+
+© WJEC CBAC Ltd. 4
+SECTION A (SHAKESPEARE)
+
+GENERIC ASSESSMENT OBJECTIVES GRIDS
+
+Extract questions
+
+The following descriptions have been provided to indicate the way in which progression within
+the criteria is likely to occur. Each successive description assumes demonstration of
+achievements in lower bands.
+
+AO1 and AO2 are equally weighted in these questions.
+Total 15 marks
+
+Band AO1:1a+b, AO1:2 AO2
+5
+
+13-15 marks
+Candidates:
+sustain focus on the task, including overview,
+convey ideas with consistent coherence and use
+an appropriate register; use a sensitive and
+evaluative approach to the task and analyse the
+text critically; show a perceptive understanding of
+the text, engaging fully, perhaps with some
+originality in their personal response; their
+responses include pertinent, direct references from
+across the text, including quotations.
+Candidates:
+analyse and appreciate writers’ use
+of language, form and structure;
+make assured reference to meanings
+and effects exploring and evaluating
+the way meaning and ideas are
+conveyed through language structure
+and form; use precise subject
+terminology in an appropriate context.
+4
+
+10-12 marks
+Candidates:
+sustain focus on the task, convey ideas with
+coherence and use an appropriate register; use a
+thoughtful approach to the task; show a secure
+understanding of key aspects of the text, with
+considerable engagement; support and justify their
+responses by well-chosen direct reference to the
+text, including quotations.
+Candidates:
+discuss and increasingly analyse
+writers’ use of language, form and
+structure; make thoughtful reference
+to the meanings and effects of
+stylistic features used by the writer;
+use apt subject terminology.
+3
+
+7-9 marks
+Candidates:
+focus on the task, convey ideas with general
+coherence and use a mostly appropriate register;
+use a straightforward approach to the task; show
+an understanding of key aspects of the text, with
+engagement; support and justify their responses
+by appropriate direct reference to the text,
+including quotations.
+Candidates:
+comment on and begin to analyse
+writers’ use of language, form and
+structure; make some reference to
+meanings and effects; use relevant
+subject terminology.
+2
+
+4-6 marks
+Candidates:
+have some focus on the task, convey ideas with
+some coherence and sometimes use an
+appropriate register; use a limited approach to the
+task; show some understanding of key aspects of
+the text, with some engagement; support and
+justify their responses by some direct reference to
+the text, including some quotations.
+Candidates:
+recognise and make simple
+comments on writers’ use of
+language, form and structure; may
+make limited reference to meanings
+and effects; may use some relevant
+subject terminology.
+1
+
+1-3 marks
+Candidates:
+have limited focus on the task, convey ideas with
+occasional coherence and may sometimes use an
+appropriate register; use a simple approach to the
+task; show a basic understanding of some key
+aspects of the text, with a little engagement; may
+support and justify their responses by some
+general reference to the text, perhaps including
+some quotations.
+Candidates:
+may make generalised comments on
+writers’ use of language, form and
+structure; may make basic reference
+to meanings and effects; may use
+some subject terminology but not
+always accurately.
+0 marks Nothing worthy of credit. Nothing worthy of credit.
+PMT
+
+
+© WJEC CBAC Ltd. 5
+Essay questions
+
+The following descriptions have been provided to indicate the way in which progression within the
+criteria is likely to occur. Each successive description assumes demonstration of achievements in
+lower bands.
+
+AO1 and AO2 are equally weighted in these questions.
+
+This assessment also includes 5 marks for accuracy in spelling, punctuation and the use of
+vocabulary and sentence structures (AO4). There is a separate assessment grid for AO4.
+
+Total marks 20+5
+
+Band AO1:1a+b, AO1:2 AO2
+5
+
+17-20 marks
+Candidates:
+sustain focus on the task, including overview,
+convey ideas with consistent coherence and use
+an appropriate register; use a sensitive and
+evaluative approach to the task and analyse the
+text critically; show a perceptive understanding of
+the text, engaging fully, perhaps with some
+originality in their personal response; their
+responses include pertinent, direct references
+from across the text, including quotations.
+Candidates:
+analyse and appreciate writers’ use
+of language, form and structure;
+make assured reference to
+meanings and effects exploring and
+evaluating the way meaning and
+ideas are conveyed through
+language structure and form; use
+precise subject terminology in an
+appropriate context.
+4
+
+13-16 marks
+Candidates:
+sustain focus on the task, convey ideas with
+considerable coherence and use an appropriate
+register; use a thoughtful approach to the task;
+show a secure understanding of key aspects of
+the text, with considerable engagement; support
+and justify their responses by well-chosen direct
+reference to the text, including quotations
+Candidates:
+discuss and increasingly analyse
+writers’ use of language, form and
+structure; make thoughtful reference
+to the meanings and effects of
+stylistic features used by the writer;
+use apt subject terminology.
+3
+
+9-12 marks
+Candidates:
+focus on the task, convey ideas with general
+coherence and use a mostly appropriate register;
+use a straightforward approach to the task; show
+an understanding of key aspects of the text, with
+engagement; support and justify their responses
+by appropriate direct reference to the text,
+including quotations.
+Candidates:
+comment on and begin to analyse
+writers’ use of language, form and
+structure; make some reference to
+meanings and effects; use relevant
+subject terminology.
+2
+
+5-8 marks
+Candidates:
+have some focus on the task, convey ideas with
+some coherence and sometimes use an
+appropriate register; use a limited approach to the
+task; show some understanding of key aspects of
+the text, with some engagement; support and
+justify their responses by some direct reference to
+the text, including some quotations.
+Candidates:
+recognise and make simple
+comments on writers’ use of
+language, form and structure; may
+make limited reference to meanings
+and effects; may use some relevant
+subject terminology.
+1
+
+1-4 marks
+Candidates:
+have limited focus on the task, convey ideas with
+occasional coherence and may sometimes use
+an appropriate register; use a simple approach to
+the task; show a basic understanding of some
+key aspects of the text, with a little engagement;
+may support and justify their responses by some
+general reference to the text, perhaps including
+some quotations.
+Candidates:
+may make generalised comments
+on writers’ use of language, form
+and structure; may make basic
+reference to meanings and effects;
+may use some subject terminology
+but not always accurately.
+0 marks Nothing worthy of credit. Nothing worthy of credit.
+
+PMT
+
+
+© WJEC CBAC Ltd. 6
+SECTION A (Shakespeare)
+
+INDICATIVE CONTENT
+
+
+Romeo and Juliet
+
+Read the extract on the opposite page. Answer the following question:
+
+Look at how the characters speak and behave here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the situation presented in the extract, including the Friar and
+Juliet’s differing reactions to Romeo’s death and the imminent arrival of the Watch
+• The Friar’s fears, his blaming of “a greater power” and how an audience might
+react to him fleeing the scene without Juliet
+• Juliet’s isolation and her decisive response to Romeo’s death and the Friar’s exit
+• Comments on how Juliet sees death as a positive outcome to her situation
+• An audience’s possible reactions to Juliet’s suicide at the end of the extract
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• An appreciation of how short sentences, exclamations and questions convey the
+Friar’s sense of misfortune and panic on discovering the bodies of Romeo and
+Paris
+• The Friar’s use of imperatives and repetition when trying to persuade Juliet to
+leave the vault
+• Comments on Juliet’s use of contrast and oxymoron to present her death as a
+positive outcome, e.g. “friendly drop” of “poison”, “die with a restorative” and
+“happy dagger”
+• Shakespeare’s use of blank verse, soliloquy and stage directions in the extract
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+
+
+1 1
+PMT
+
+
+© WJEC CBAC Ltd. 7
+Write about Romeo and how Shakespeare presents him at different points in the play.
+ [20+5]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the use
+of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the character of Romeo and how Shakespeare presents him in the
+play
+• Some selection of key moments from the play involving Romeo
+• Comments on Romeo’s relationships with Juliet, Benvolio, Mercutio, Friar Lawrence
+and the Capulets
+• How the feud between the Montagues and the Capulets makes Juliet his enemy, a
+situation further complicated by his killing of Tybalt
+• Discussion of the choices Romeo makes throughout the play, often showing his
+impulsiveness and propensity to act on his emotions
+
+AO2
+• Comments on Shakespeare’s use of language in the presentation of Romeo
+• The language Romeo uses at different points in the play, for example his use of
+oxymoron to show his sadness and confusion at rejection by Rosaline, his use of
+imagery related to light and heaven when describing Juliet, language related to the
+idea of fate
+• Comments on the use of imagery and language devices to present Romeo, e.g.,
+dramatic irony, puns, rhetorical questions, rhyming couplets, repetition
+• An appreciation of structure through the identification of key moments and events in
+Shakespeare’s presentation of Romeo
+• Comments on Shakespeare’s use of verse, prose and soliloquy in his presentation of
+Romeo
+
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence structures
+to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable accuracy,
+and use a considerable range of vocabulary and sentence
+structures to achieve general control of meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*1 2
+PMT
+
+
+© WJEC CBAC Ltd. 8
+Macbeth
+
+Read the extract on the opposite page. Answer the following question:
+
+Look at how the characters speak and behave here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of Macbeth and Banquo’s contrasting reactions to the witches’
+prediction of Macbeth becoming Thane of Cawdor being fulfilled here
+• Banquo’s understanding that the witches are “the instruments of darkness” and
+his warning that the prediction coming true could be a trap
+• How Macbeth’s asides show the impact that the witches’ prophecies have had on
+him
+• Macbeth’s nascent ambition and how he begins to imagine the murder of King
+Duncan before deciding to leave things to “chance” at the end of the extract
+• Discussion of the ideas of fate, destiny and the natural order that run through the
+extract
+• An audience’s possible reactions to how Banquo and Macbeth receive the news
+and how Macbeth is “rapt” and begins to imagine regicide
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• Shakespeare’s use of contrasts, both in the differing reactions of Banquo and
+Macbeth and in the language used in their thoughts about the witches (e.g.
+“truths”, “honest”, “good” versus “darkness”, “ill”)
+• Comments on Macbeth’s thoughts on killing Duncan, perhaps including some
+focus on the language of the abstract and imaginary, (e.g. “suggestion”, “image”,
+“thought”, “imaginings”, “fantastical”, “surmise”), but also the shocking and
+physical (e.g. “horrid”, “unfix my hair”, “heart knock at my ribs”, “murder”)
+• Discussion of key phrases and metaphors used by Banquo to describe the
+witches (e.g. “instruments of darkness”) and Macbeth (e.g. “rapt”, “new honours…
+like strange garments”)
+• Shakespeare’s use of blank verse, asides, repetition, rhetorical question, rhyming
+couplet and exclamation to show Macbeth’s thoughts and feelings
+• An appreciation of this as a key turning point
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+
+2 1
+PMT
+
+
+© WJEC CBAC Ltd. 9
+Lady Macbeth changes throughout the play. Write about some of the ways Lady
+Macbeth changes and how Shakespeare presents this. [25]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the
+use of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the character of Lady Macbeth and how Shakespeare presents her in
+the play
+• Selection and discussion of key moments involving Lady Macbeth from the play
+• Some tracking of and comments on changes in Lady Macbeth, for example in her
+situation, behaviour or mental state
+• Discussion of her changing relationship with Macbeth
+• Comments on how an audience might react to the changes in Shakespeare’s
+presentation of Lady Macbeth
+
+AO2
+• Comments on Shakespeare’s use of language in the presentation of Lady Macbeth’s
+character
+• Comments on key speeches / soliloquies that show the changes in Lady Macbeth
+• Shakespeare’s use of language and techniques to present Lady Macbeth e.g.
+emotive language, persuasive language, dramatic irony, imagery related to blood or
+the supernatural, rhetorical questions, repetition
+• An appreciation of structure through the identification of key moments and turning
+points in Shakespeare’s presentation of Lady Macbeth
+• Shakespeare’s use of verse and prose in the presentation of Lady Macbeth
+
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence
+structures to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable
+accuracy, and use a considerable range of vocabulary
+and sentence structures to achieve general control of
+meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*2 2
+PMT
+
+
+© WJEC CBAC Ltd. 10
+Othello
+
+Read the extract on the opposite page. Answer the following question:
+
+Look at how the characters speak and behave here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the situation presented in the extract and Iago’s manipulation of
+Cassio, Roderigo and Montano
+• Key ideas and themes in the extract, e.g. appearance, deception, trust, loyalty
+• An appreciation of the changes in mood, from the humour of Cassio denying his
+inebriation through to Iago’s lies and Cassio’s aggressive return at the end of the
+extract
+• An audience’s response to Cassio’s drunkenness, Iago’s lies and control over the
+situation and Montano’s perception of Cassio (and, by extension, how this affects
+his view of Othello)
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• Shakespeare’s use of dramatic irony throughout the extract and its effect on the
+audience
+• Cassio’s use of repetition, simple language and sentence structure to reflect his
+inebriation, and use of a curse, insults and exclamation on his return to convey his
+anger and aggression towards Roderigo
+• Iago’s use of metaphor and hyperbole when speaking to Montano in order to
+discredit Cassio (and undermine Othello)
+• Shakespeare’s use of entrances, exits, the aside and other stage directions for
+dramatic impact and to reflect Iago’s control over events
+• Shakespeare’s use of prose and verse in the extract
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+
+3 1
+PMT
+
+
+© WJEC CBAC Ltd. 11
+Male and female relationships are important in Othello. Write about how Shakespeare
+presents one or two of the male and female relationships in the play. [25]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the use
+of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Please remember that in this question, as with all such open questions, comment is free,
+and be flexible in judging what is offered using the marking guidelines.
+
+Responses may include:
+
+AO1
+• An overview of the presentation of one or two relationships between men and
+women in the play
+• Selection and discussion of key moments in the presentation of relationships
+between men and women
+• Some tracking of and comments on the changes in the male and female
+relationships chosen
+• Some appreciation of the gender constraints in Venice and the lack of women’s
+rights at the time the play was written
+
+AO2
+• Comments on Shakespeare’s use of language in the presentation of relationships
+between men and women
+• The use of misogynistic language by male characters, particularly Iago
+• Comments on the language used by men and women in key relationships, e.g.
+Othello and Desdemona, Iago and Emilia
+• An appreciation of structure through the identification of key moments and turning
+points in Shakespeare’s presentation of relationships between men and women
+• Shakespeare’s use of verse and prose in the presentation of relationships between
+men and women
+
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence structures
+to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable accuracy,
+and use a considerable range of vocabulary and sentence
+structures to achieve general control of meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*3 2
+PMT
+
+
+© WJEC CBAC Ltd. 12
+Much Ado About Nothing
+
+Read the extract on the opposite page. Answer the following question:
+
+Look at how the characters speak and behave here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the situation presented in the extract, including how the truth of
+Don John’s deception is revealed and its effect on Don Pedro and Claudio
+• Comments on Dogberry’s mangled explanation of Borachio and Conrade’s
+offence, and Don Pedro’s humorous response
+• Key ideas and themes in the extract, e.g. lies and deception, appearance and
+reality, shame and remorse
+• An appreciation of the shift in mood, from the comedy of the dialogue between
+Dogberry and Don Pedro into the seriousness of Borachio’s confession and its
+aftermath
+• An audience’s response to Borachio’s confession and the subsequent reactions
+of Don Pedro and Claudio
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• Don Pedro’s questions and exclamations at the start of the extract, showing his
+surprise at seeing Borachio and Conrade under arrest
+• Dogberry’s garbled explanation, including his haphazard sequencing and
+repetition of the same offence through a series of synonyms, and Don Pedro’s
+parodic reply
+• Comments on Borachio’s confession, perhaps including focus on language
+related to appearance and deception (e.g. “deceived… your very eyes”, “brought
+to light”, “saw”, “slander” “false accusation”)
+• Discussion of the imagery used by Don Pedro and Claudio to show their
+mortification at Borachio’s confession
+• Shakespeare’s use of prose and verse in the extract
+• An appreciation of the irony in Claudio’s words at the end of the extract
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+
+4 1
+PMT
+
+
+© WJEC CBAC Ltd. 13
+How does Shakespeare present love in Much Ado About Nothing? Refer to characters
+and events from the play in your answer. [25]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the use
+of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the presentation of love in the play
+• Comments on the different forms of love in the play, e.g., romantic love, familial love,
+the love between friends
+• There may be some discussion and comparison of the two main romantic couplings
+presented in the play: Claudio and Hero’s conventional romantic young love and
+Beatrice and Benedick’s more experienced, pragmatic relationship
+• Identification of and comments on the key moments in the lovers’ journeys towards
+their double wedding at the end of the play
+• Discussion of the attitudes and approaches of various characters towards love and
+marriage
+
+AO2
+• Comments on Shakespeare’s use of language in the presentation of love in the play
+• Comments on the use of exaggerated romantic language and imagery related to
+beauty and appearance used by Claudio
+• Comments on the more down-to-earth imagery used by Beatrice and Benedick on
+the subjects of love, marriage and cuckoldry
+• An appreciation of both structure and dramatic irony through the identification of key
+moments and turning points in Shakespeare’s presentation of love
+• Shakespeare’s use of form in the presentation of love, e.g., verse, prose, soliloquy,
+rhyming couplets
+
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence structures
+to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable
+accuracy, and use a considerable range of vocabulary
+and sentence structures to achieve general control of
+meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*4 2
+PMT
+
+
+© WJEC CBAC Ltd. 14
+Henry V
+
+Read the extract on the opposite page. Answer the following question.
+
+Look at how King Henry speaks and behaves here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the situation presented in the extract
+• Comments on the nature of Henry’s threats and his focus on the innocence and
+vulnerability of the potential victims
+• Comments on Henry’s characterisation of his soldiers as being unfeeling and
+murderous, and the suggestion that he cannot be held responsible for their
+actions
+• An audience’s possible reactions to Henry’s threats and his graphic depiction of
+what his army might do to Harfleur’s civilian population
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• Henry’s use of imagery e.g. the use of graphic images of violence and brutality
+• Henry’s use of the second person, direct address, listing, hyperbole and
+rhetorical questions in order to persuade the citizens of Harfleur to surrender
+• The reference to the biblical story of King Herod’s Massacre of the Innocents to
+illustrate the danger to the people of Harfleur
+• Shakespeare’s use of blank verse to show Henry’s status and the formality of
+this ultimatum
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+
+5 1
+PMT
+
+
+© WJEC CBAC Ltd. 15
+Henry’s relationships with others are important in the play. How does Shakespeare
+present some of these important relationships? Refer to characters and events in
+your answer. [25]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the
+use of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the presentation of Henry and his relationships with others in the play
+• Discussion of Henry’s relationship with his men, e.g. in his speeches, his refusal to
+be ransomed, mingling incognito with them
+• Comments on Henry’s relationships with his nobles, (notably Exeter), the Church
+and the French
+• Comments on Henry’s relationship with Katherine
+• Comments on how Henry is ruthless with former friends and companions when
+required, e.g. Falstaff, Scroop, Bardolph
+
+AO2
+• Comments on Shakespeare’s use of language in the presentation of Henry’s
+relationships with others in the play
+• Comments on the language and rhetorical devices used by Henry in his speeches to
+suggest his relationships with others
+• An appreciation of structure through the identification of key moments and events in
+Shakespeare’s presentation of Henry’s relationships with others
+• Comments on Shakespeare’s use of verse and prose in his presentation of Henry’s
+relationships with others
+
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence
+structures to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable
+accuracy, and use a considerable range of vocabulary
+and sentence structures to achieve general control of
+meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*5 2
+PMT
+
+
+© WJEC CBAC Ltd. 16
+The Merchant of Venice
+
+Read the extract on the opposite page. Answer the following question:
+
+Look at how the characters speak and behave here. How do you think an audience
+might respond to this part of the play? Refer closely to details from the extract to
+support your answer. [15]
+
+This question assesses AO1 and AO2.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the situation and how the characters, particularly Portia (in
+disguise as Doctor Balthazar) and Shylock, speak and behave here
+• Comments on Portia’s view that justice should be tempered with mercy
+• Discussion of Portia’s description of mercy
+• Comments on Shylock questioning why he should be merciful and his refusal to
+heed Portia’s argument
+• An audience’s possible reactions to Portia’s speech and Shylock’s determination
+to have “the law, / The penalty and forfeit” without mercy
+
+AO2
+• Comments on Shakespeare’s use of language in the extract
+• Discussion of Portia’s confident command of the situation and interaction with
+Antonio and Shylock, perhaps including her use of questions and imperatives,
+the eloquence of her speech and Shakespeare’s use of disguise and dramatic
+irony here
+• Comments on how Portia twice refers to Shylock as “Jew,” despite him giving his
+name at the start of the extract, and what this suggests
+• Portia’s use of natural imagery, superlatives and language associated with
+power, royalty and the divine in her description of mercy
+• Shylock’s questioning of Portia’s initial appeal for mercy, followed by his
+dismissive language after her speech
+• Shakespeare’s use of verse in the extract
+
+
+This is not a checklist. Please reward valid alternatives.
+
+
+6 1
+PMT
+
+
+© WJEC CBAC Ltd. 17
+The Merchant of Venice is a play about the importance of wealth. Write about how
+Shakespeare presents the importance of wealth at different points in the play. Refer to
+characters and events from the play in your answer. [25]
+
+*5 of this question’s marks are allocated for accuracy in spelling, punctuation and the use
+of vocabulary and sentence structures.
+
+This question assesses AO1, AO2 and AO4 (5 additional marks).
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An overview of the importance of wealth/money in the play
+• An appreciation of how wealth/money drives the play’s plot, e.g., Bassanio’s request
+for a loan from Antonio both sets up his wooing of Portia and gives Shylock a means
+for revenge
+• Discussion of the importance of money to the lives of various characters, e.g.,
+Antonio’s status and influence, Portia’s attractiveness to suitors, Shylock’s
+occupation
+• Comments on the attitudes to wealth shown by various characters
+• Selection and discussion of key moments involving money, possessions, or material
+wealth
+AO2
+• Comments on Shakespeare’s use of language in the presentation of wealth/money
+and their importance in the play
+• Comments on key words and phrases used in relation to money and wealth
+• Comments on Shakespeare’s use of imagery connected with wealth when describing
+beauty, love and human relationships e.g., “golden fleece”, “your worth is very dear”,
+“to stand high in your account”
+• An appreciation of structure through the identification of key moments and events
+involving money and wealth in the play
+• Shakespeare’s use of verse and prose in relation to the presentation of wealth and
+its importance
+
+This is not a checklist. Please reward valid alternatives.
+
+AO4
+Level Performance Descriptors
+High Performance
+4-5 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with consistent accuracy,
+and consistently use vocabulary and sentence structures
+to achieve effective control of meaning.
+Intermediate Performance
+2-3 marks
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with considerable accuracy,
+and use a considerable range of vocabulary and sentence
+structures to achieve general control of meaning.
+Threshold Performance
+1 mark
+In the context of the Level of Demand of the question,
+Learners spell and punctuate with reasonable accuracy,
+and use a reasonable range of vocabulary and sentence
+structures; any errors do not hinder meaning in the
+response.
+0 marks Candidates do not reach the threshold performance
+outlined in the performance descriptor above.
+*6 2
+PMT
+
+
+© WJEC CBAC Ltd. 18
+SECTION B (POETRY)
+
+GENERIC ASSESSMENT OBJECTIVES GRID
+
+The following descriptions have been provided to indicate the way in which progression within the criteria is likely to occur. Each successive description assumes
+demonstration of achievements in lower bands.
+
+AO1, AO2 and AO3 are equally weighted in this question.  Total 15 marks
+
+Band AO1:1a+b, AO1:2 AO2 AO3
+5
+
+13-15 marks
+Candidates:
+sustain focus on the task, including overview, convey ideas with
+consistent coherence and use an appropriate register; use a
+sensitive and evaluative approach to the task and analyse the text
+critically; show a perceptive understanding of the text, engaging
+fully, perhaps with some originality in their personal response; their
+responses include pertinent, direct references from across the text,
+including quotations.
+Candidates:
+analyse and appreciate writers’ use of
+language, form and structure, make assured
+reference to meanings and effects exploring
+and evaluating the way meaning and ideas are
+conveyed through language structure and
+form; use precise subject terminology in an
+appropriate context.
+Candidates:
+show an assured understanding of the relationships
+between texts and the contexts in which they were written,
+including, where relevant, those of period, location, social
+structures and literary contexts such as genre, and the
+contexts in which texts are engaged with by different
+audiences.
+4
+
+10-12 marks
+Candidates:
+sustain focus on the task, convey ideas with coherence and use an
+appropriate register; use a thoughtful approach to the task; show a
+secure understanding of key aspects of the text, with considerable
+engagement; support and justify their responses by well-chosen
+direct reference to the text, including quotations.
+Candidates:
+discuss and increasingly analyse writers’ use
+of language, form and structure, make
+thoughtful reference to the meanings and
+effects of stylistic features used by the writer;
+use apt subject terminology.
+Candidates:
+show a secure understanding of the relationships between
+texts and the contexts in which they were written, including,
+where relevant, those of period, location, social structures
+and literary contexts such as genre, and the contexts in
+which texts are engaged with by different audiences.
+3
+
+7-9 marks
+Candidates:
+focus on the task, convey ideas with general coherence and use a
+mostly appropriate register; use a straightforward approach to the
+task; show an understanding of key aspects of the text, with
+engagement; support and justify their responses by appropriate
+direct reference to the text, including quotations.
+Candidates:
+comment on and begin to analyse writers’ use
+of language, form and structure, make some
+reference to meanings and effects; use
+relevant subject terminology.
+Candidates:
+show an understanding of the relationships between texts
+and the contexts in which they were written, including,
+where relevant, those of period, location, social structures
+and literary contexts such as genre, and the contexts in
+which texts are engaged with by different audiences.
+2
+
+4-6 marks
+Candidates:
+have some focus on the task, convey ideas with some coherence
+and sometimes use an appropriate register; use a limited approach
+to the task; show some understanding of key aspects of the text,
+with some engagement; support and justify their responses by
+some direct reference to the text, including some quotations.
+Candidates:
+recognise and make simple comments on
+writers’ use of language, form and structure,
+may make limited reference to meanings and
+effects; may use some relevant subject
+terminology.
+Candidates:
+show some understanding of the relationships between
+texts and the contexts in which they were written, including,
+where relevant, those of period, location, social structures
+and literary contexts such as genre, and the contexts in
+which texts are engaged with by different audiences.
+1
+
+1-3 marks
+Candidates:
+have limited focus on the task, convey ideas with occasional
+coherence and may sometimes use an appropriate register; use a
+simple approach to the task; show a basic understanding of some
+key aspects of the text, with a little engagement; may support and
+justify their responses by some general reference to the text,
+perhaps including some quotations.
+Candidates:
+may make generalised comments on writers’
+use of language, form and structure, may
+make basic reference to meanings and effects;
+may use some subject terminology but not
+always accurately.
+Candidates:
+show limited understanding of the relationships between
+texts and the contexts in which they were written, including,
+where relevant, those of period, location, social structures
+and literary contexts such as genre, and the contexts in
+which texts are engaged with by different audiences.
+0 marks Nothing worthy of credit. Nothing worthy of credit. Nothing worthy of credit.
+
+7 1
+PMT
+
+
+© WJEC CBAC Ltd. 19
+SECTION B (Poetry)
+
+INDICATIVE CONTENT
+
+
+Read the poem below, London, by William Blake.
+
+London is a poem about a place. How does William Blake present this place in the
+poem? Refer to the contexts of the poem in your answer. [15]
+
+This question assesses AO1, AO2 and AO3.
+
+Indicative content
+
+Responses may include:
+
+AO1
+• An understanding of Blake’s presentation of London in the 18th century, and the
+misery and lack of freedom that he sees around him
+• An appreciation of Blake’s belief that the citizens of London are trapped, whether by
+poverty, social class or custom, perhaps including some interpretation of the key
+image “mind-forg’d manacles”
+• An understanding of Blake’s view that Londoners are exploited and oppressed by
+institutions such as the church and monarchy
+• Discussion of the portrayal of the social evils Blake sees in London
+
+AO2
+• Comments on Blake’s use of language to present London
+• Discussion of key words and phrases which build up a picture of London being a
+place of misery and restriction, e.g. “charter’d”, “weakness”, “mind forg’d manacles”,
+“black’ning”, “marriage hearse”
+• Discussion of the language and imagery of sadness and suffering (e.g. “woe”, “cry”,
+“fear”, “sigh”, “tear”) and disease (e.g. “curse”, “blasts”, “blights”, “plagues”)
+• Comments on features of language and structure which contribute to the poem’s
+presentation of the drudgery and monotony of London life, e.g. repetition, rhyme
+scheme, sentence structure
+• Comments on Blake’s use of the first person, relatively simple language and
+capitalisation and how these might contribute to his presentation of the city
+
+AO3
+• An understanding of some of the historical context of the subject matter, such as
+poverty and social inequality in 18th century London, prostitution and sexually
+transmitted diseases in London at that time, the Industrial Revolution and the rapid
+growth of urban populations
+• Knowledge of Blake’s life, beliefs and literary career
+• An appreciation of literary context, for example recognising Blake as an early
+Romantic poet
+• An appreciation of the influence of philosophers such as Rousseau on Blake, and
+his support for the French and American revolutions
+
+
+This is not a checklist. Please reward valid alternatives.
+
+7 1
+PMT
+
+
+© WJEC CBAC Ltd. 20
+SECTION B (POETRY)
+
+GENERIC ASSESSMENT OBJECTIVES GRID
+
+The following descriptions have been provided to indicate the way in which progression within the criteria is likely to occur. Each successive description assumes
+demonstration of achievements in lower bands.
+
+
+AO1, AO2 and AO3 are equally weighted in this question. Total 25 marks
+Band AO1:1a+b, AO1:2 AO2 AO3
+5
+
+21-25
+marks
+Comparison is critical, illuminating and sustained across AO1, AO2 and AO3. There will be a wide ranging discussion of the similarities and/or differences between the poems.
+Candidates:
+sustain focus on the task, including overview, convey ideas with consistent
+coherence and use an appropriate register; use a sensitive and evaluative
+approach to the task and analyse the texts critically; show a perceptive
+understanding of the texts, engaging fully, perhaps with some originality in
+their personal response; their responses include pertinent, direct references
+from across the texts, including quotations.
+Candidates:
+analyse and appreciate writers’ use of language,
+form and structure, make assured reference to
+meanings and effects exploring and evaluating
+the way meaning and ideas are conveyed
+through language structure and form; use
+precise subject terminology in an appropriate
+context.
+Candidates:
+show an assured understanding of the relationships between texts and
+the contexts in which they were written, including, where relevant,
+those of period, location, social structures and literary contexts such as
+genre, and the contexts in which texts are engaged with by different
+audiences.
+4
+
+16-20
+marks
+Comparison is focussed, coherent and sustained across AO1, AO2 and AO3. There will be a clear discussion of the similarities and/or differences between the poems.
+Candidates:
+sustain focus on the task, convey ideas with coherence and use an appropriate
+register; use a thoughtful approach to the task; show a secure understanding
+of key aspects of the texts, with considerable engagement; support and justify
+their responses by well-chosen direct reference to the texts, including
+quotations.
+Candidates:
+discuss and increasingly analyse writers’ use of
+language, form and structure, make thoughtful
+reference to the meanings and effects of stylistic
+features used by the writer; use apt subject
+terminology.
+Candidates:
+show a secure understanding of the relationships between texts and
+the contexts in which they were written, including, where relevant,
+those of period, location, social structures and literary contexts such as
+genre, and the contexts in which texts are engaged with by different
+audiences.
+3
+
+11-15
+marks
+Comparison is focussed across AO1, AO2 and AO3 with some valid discussion of the similarities and/or differences between the poems.
+Candidates:
+focus on the task, convey ideas with general coherence and use a mostly
+appropriate register; use a straightforward approach to the task; show an
+understanding of key aspects of the texts, with engagement; support and
+justify their responses by appropriate direct reference to the texts, including
+quotations.
+Candidates:
+comment on and begin to analyse writers’ use of
+language, form and structure, make some
+reference to meanings and effects; use relevant
+subject terminology.
+Candidates:
+show an understanding of the relationships between texts and the
+contexts in which they were written, including, where relevant, those of
+period, location, social structures and literary contexts such as genre,
+and the contexts in which texts are engaged with by different
+audiences.
+2
+
+6-10
+marks
+Comparison is general with some discussion of the obvious similarities and/or differences between the poems.
+Candidates:
+have some focus on the task, convey ideas with some coherence and
+sometimes use an appropriate register; use a limited approach to the task;
+show some understanding of key aspects of the texts, with some engagement;
+support and justify their responses by some direct reference to the texts,
+including some quotations.
+Candidates:
+recognise and make simple comments on
+writers’ use of language, form and structure,
+may make limited reference to meanings and
+effects; may use some relevant subject
+terminology.
+Candidates:
+show some understanding of the relationships between texts and the
+contexts in which they were written, including, where relevant, those of
+period, location, social structures and literary contexts such as genre,
+and the contexts in which texts are engaged with by different
+audiences.
+1
+
+1-5
+marks
+Comparison is very limited. There may be a basic awareness of the obvious similarities and/or differences between the poems.
+Candidates:
+have limited focus on the task, convey ideas with occasional coherence and
+may sometimes use an appropriate register; use a simple approach to the
+task; show a basic understanding of some key aspects of the texts, with a little
+engagement; may support and justify their responses by some general
+reference to the texts, perhaps including some quotations.
+Candidates:
+may make generalised comments on writers’
+use of language, form and structure, may make
+basic reference to meanings and effects; may
+use some subject terminology but not always
+accurately.
+Candidates:
+show limited understanding of the relationships between texts and the
+contexts in which they were written, including, where relevant, those of
+period, location, social structures and literary contexts such as genre,
+and the contexts in which texts are engaged with by different
+audiences.
+0 marks Nothing worthy of credit Nothing worthy of credit Nothing worthy of credit
+
+7 2
+PMT
+
+
+© WJEC CBAC Ltd. 21
+Choose one other poem from the anthology in which the poet also writes about a place.
+
+Compare the way the poet presents the place in your chosen poem with the way William
+Blake presents the place in London. [25]
+
+In your answer to part 7.2 you should:
+• compare the content and structure of the poems – what they are about and how they
+are organised
+• compare how the writers create effects, using appropriate terminology where relevant
+• compare the contexts of the poems, and how these may have influenced the ideas in
+them.
+
+Indicative content
+
+For the second poem, candidates may choose any other appropriate poem from the
+anthology that explores the presentation of place. For example, if candidates choose
+Living Space, then responses may include:
+
+AO1
+• How both poems present a place, though in different parts of the world and in different
+times
+• How Blake describes the sights and problems of an entire city, while Dharker focuses
+on a single dwelling within a poor area of Mumbai
+• How both poems present a place where life is challenging and restricted, but where
+Blake describes the misery of the general population, Dharker presents an individual’s
+more hopeful, if precarious, existence
+• An awareness of the differing tones of the poems
+• How both poems can be read as comments on the inequalities in human societies and
+imply the need for change
+AO2
+• How Dharker uses language to achieve specific effects and how this compares to
+Blake’s use of language in London
+• How both poets use language to suggest the challenges and restrictions in the places
+presented
+• How Dharker uses language to emphasise the “miraculous” nature of the dwelling and
+its occupant’s existence, while Blake shows the misery and oppression of life in London
+through his choice of language
+• Comments on Dharker’s use of symbolism in her description of the “eggs in a wire
+basket” in Living Space, compared with the symbolism of “blood” running down palace
+walls, or metaphors such as “mind forg’d manacles” in London
+• The use of free verse in Living Space and its effect, compared with Blake’s more
+traditional quatrains and simple rhyme scheme in London
+AO3
+• An understanding of the contexts of London and the contexts of Living Space
+• An appreciation of differing historical and biographical contexts, for example recognising
+Blake as a Londoner and early Romantic poet in the late 18th century and Dharker as a
+20th / 21st century poet who has lived in Britain, India and Pakistan
+• An understanding that both poets, though writing at different times, are interested in the
+lives of ordinary people, perhaps with a shared distrust of institutions that can limit
+human freedom, identity and opportunity
+• Knowledge of both poets’ creative work beyond poetry, e.g. Blake’s career as an artist
+and engraver and Dharker’s work as an artist and film maker
+• Awareness of the more prevalent use of unrhyming and less traditional forms by 20th /
+21st century writers compared to those in the 18th century
+
+This is not a checklist. Please reward valid alternatives.
+
+C720U10-1 EDUQAS GCSE English Literature - Component 1 MS S23/CB
+7 2
+PMT

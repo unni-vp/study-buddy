@@ -15,6 +15,11 @@ def render_md(text):
   if not line.strip():i+=1;continue
   if line.startswith('#'):
    n=len(line)-len(line.lstrip('#')); out.append(f'<h{n}>{inline(line[n:].strip())}</h{n}>');i+=1
+  elif line.startswith('>'):
+   quote=[]
+   while i<len(lines) and lines[i].startswith('>'):
+    quote.append(inline(lines[i][1:].lstrip().rstrip()));i+=1
+   out.append('<blockquote class="verse-extract">'+'<br>'.join(quote)+'</blockquote>')
   elif line.startswith('|'):
    rows=[]
    while i<len(lines) and lines[i].startswith('|'):
@@ -33,7 +38,7 @@ def render_md(text):
    out.append('</'+tag+'>')
   else:
    para=[line];i+=1
-   while i<len(lines) and lines[i].strip() and not re.match(r'^(#|\||- |\d+\. )',lines[i]):para.append(lines[i]);i+=1
+   while i<len(lines) and lines[i].strip() and not re.match(r'^(#|>|\||- |\d+\. )',lines[i]):para.append(lines[i]);i+=1
    out.append('<p>'+inline(' '.join(para))+'</p>')
  return '\n'.join(out)
 
