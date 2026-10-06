@@ -9,7 +9,7 @@ def write_bank(n,title,items,evidence):
  topic=ROOT/SUBJECT/TOPICS[n-1];dest=topic/'Questions and Answers';dest.mkdir(exist_ok=True)
  lines=['# '+title+' questions & answers'];last=None
  for number,item in enumerate(sorted(items,key=lambda x:x['marks']),1):
-  if item['marks']!=last:last=item['marks'];lines.append('## '+str(last)+' marks')
+  if item['marks']!=last:last=item['marks'];lines.append('## '+str(last)+(' mark' if last==1 else ' marks'))
   lines.extend([f'**{number}.** '+item['prompt'],'**Answer:** '+item['answer']]);item['number']=number
  lines+=['## Past-paper sources','Original practice questions and tutor-written model answers. The linked papers and mark schemes provide the official assessment examples.','### Resource directory','- [Eduqas English Literature](https://www.eduqas.co.uk/qualifications/english-literature-gcse/) — specification and assessment resources.\n- [Physics & Maths Tutor](https://www.physicsandmathstutor.com/past-papers/gcse-english-literature/) — public archive of board papers.\n- [Eduqas sample assessment materials](https://www.eduqas.co.uk/media/35mh4vb2/eduqas-gcse-english-literature-sams-from-2015.pdf) — sample tasks and assessment grids.','### Papers reviewed']
  for year in ['19','23','24']:

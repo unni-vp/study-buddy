@@ -1,0 +1,50 @@
+[
+  {
+    "year": 2022,
+    "kind": "QP",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612H-QP-JUN22.PDF",
+    "file": "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-QP-JUN22.pdf",
+    "pages": 40,
+    "sha256": "f2b71ff7d91f5df727d4a40ec2b60147f5fdfc268716905fd89675235593221b",
+    "checked": "2026-10-05"
+  },
+  {
+    "year": 2022,
+    "kind": "MS",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84612H-MS-JUN22.PDF",
+    "file": "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-MS-JUN22.pdf",
+    "pages": 31,
+    "sha256": "04b317a69f052c4f5e161419bce780f2172e2d066994184f9e656e16e4a51b60",
+    "checked": "2026-10-05"
+  },
+  {
+    "year": 2023,
+    "kind": "QP",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84612H-QP-JUN23.PDF",
+    "file": "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-QP-JUN23.pdf",
+    "pages": 40,
+    "sha256": "5cb8c8f8fb17f362bb3fda788005554abe51b736819802fc8e18c83d53e972b3",
+    "checked": "2026-10-05"
+  },
+  {
+    "year": 2023,
+    "kind": "MS",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84612H-MS-JUN23.PDF",
+    "file": "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-MS-JUN23.pdf",
+    "pages": 28,
+    "sha256": "33aa663c970557e94d961681848acdd857320f1cc9a8b9a5964ad0d6b650b3c8",
+    "checked": "2026-10-05"
+  },
+  {
+    "year": 2024,
+    "kind": "QP",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2024/june/AQA-84612H-QP-JUN24.PDF"
+  },
+  {
+    "year": 2024,
+    "kind": "MS",
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2024/june/AQA-84612H-MS-JUN24.PDF"
+  }
+]

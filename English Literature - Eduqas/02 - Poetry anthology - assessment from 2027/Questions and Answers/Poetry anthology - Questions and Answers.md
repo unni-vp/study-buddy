@@ -1,8 +1,147 @@
 # Poetry anthology questions & answers
 
+## 1 mark
+
+**1.** In The Schoolboy, what trapped creature is used to suggest the child’s lack of freedom?
+
+**Answer:** A caged bird.
+
+**2.** Which flowers does the speaker encounter in I Wandered Lonely as a Cloud?
+
+**Answer:** Daffodils.
+
+**3.** What happens to the collected fruit in Blackberry Picking?
+
+**Answer:** It rots.
+
+**4.** In Sonnet 29, the speaker’s thoughts are compared to vines. What does the tree represent?
+
+**Answer:** The beloved.
+
+**5.** What does the speaker reveal she has at the end of Cousin Kate?
+
+**Answer:** A son.
+
+**6.** Which family relationship is explored in Catrin?
+
+**Answer:** Mother and daughter.
+
+**7.** What is the speaker waiting for in Dusting the Phone?
+
+**Answer:** A call from an absent lover.
+
+**8.** Which war provides the setting for Drummer Hodge?
+
+**Answer:** The Second Boer War.
+
+**9.** Who wrote Disabled?
+
+**Answer:** Wilfred Owen.
+
+**10.** In Kamikaze, does the pilot return home from his mission?
+
+**Answer:** Yes.
+
+**11.** Where does the photographer develop the photographs in War Photographer?
+
+**Answer:** A darkroom.
+
+**12.** Does Remains establish for certain whether the man who is shot is armed?
+
+**Answer:** No.
+
+**13.** What poetic form does McKay use in I Shall Return?
+
+**Answer:** A Shakespearean sonnet.
+
+**14.** Is the photographed man in Decomposition described as asleep or dead?
+
+**Answer:** Asleep.
+
+**15.** What kind of book connects the parents’ meeting with the central imagery in Origin Story?
+
+**Answer:** A comic book.
+
+## 2 marks
+
+**16.** How does the caged-bird image develop Blake’s argument in The Schoolboy?
+
+**Answer:** - A cage prevents a bird from expressing its natural freedom and song.
+- The comparison suggests that fearful schooling restricts a child’s **joy and curiosity**.
+
+**17.** How does the final stanza change the significance of the daffodils in I Wandered Lonely as a Cloud?
+
+**Answer:** - The speaker recalls them later while alone at home.
+- Nature becomes a lasting source of pleasure through **memory**, rather than only a momentary encounter.
+
+**18.** What is the effect of the change between the two stanzas of Blackberry Picking?
+
+**Answer:** - Excited gathering gives way to the stored berries’ decay.
+- The contrast reveals the limits of trying to **preserve pleasure** and turns desire into disappointment.
+
+**19.** How do the vines and tree develop the idea of longing in Sonnet 29?
+
+**Answer:** - The vines represent thoughts that grow around and obscure the beloved.
+- The speaker wants the real person’s **presence**, rather than imagination as a substitute.
+
+**20.** How does the ending of Cousin Kate challenge the speaker’s apparent powerlessness?
+
+**Answer:** - She has a son who matters as a possible **heir**.
+- Her pride in him challenges the social judgement that treats her only as a disgraced woman.
+
+**21.** How does the movement from childbirth to a later disagreement develop Catrin?
+
+**Answer:** - It links the struggle of physical separation at birth with a daughter’s later wish for **independence**.
+- Love remains, but the tension between attachment and freedom continues.
+
+**22.** How does personifying the telephone develop the speaker’s feelings in Dusting the Phone?
+
+**Answer:** - The phone seems to demand attention and service, as if it could respond to the speaker’s efforts.
+- This reveals **dependence and anxiety**: waiting for contact dominates the speaker’s life.
+
+**23.** Give two ways Hardy presents the loss of an ordinary soldier in Drummer Hodge.
+
+**Answer:** - The hurried burial without a coffin suggests a lack of personal care.
+- The unfamiliar foreign landscape makes his **permanent separation from home** clear.
+
+**24.** How do shifts between past and present affect the reader in Disabled?
+
+**Answer:** - Memories of sport, attraction and public excitement contrast with present isolation.
+- This exposes the gap between the **promises of military life** and the neglect experienced afterwards.
+
+**25.** How does Kamikaze present survival as more complicated than simply returning alive?
+
+**Answer:** - The pilot survives physically, but his family and community treat him as absent.
+- Their rejection makes survival a form of **social isolation**, challenging the value placed on military honour.
+
+**26.** How does the controlled structure of War Photographer contrast with its subject?
+
+**Answer:** - Its regular stanzas and rhyme create a sense of **order**.
+- This contrasts with violent suffering and distress that the photographer cannot fully contain.
+
+**27.** Why is uncertainty about the man’s weapon important in Remains?
+
+**Answer:** - It leaves the speaker unsure whether the shooting was justified.
+- The unresolved doubt returns in memory, contributing to lasting **guilt and distress**.
+
+**28.** What can the repeated promise in the title I Shall Return suggest?
+
+**Answer:** - It expresses determination and hope of returning home.
+- Repetition can also sound like **self-reassurance**, revealing the pain beneath the confidence.
+
+**29.** How does the speaker’s attitude to the photograph change in Decomposition?
+
+**Answer:** - The speaker moves from pride in a striking image towards questioning that pride.
+- This raises **ethical responsibility**: the subject is a person experiencing hardship, not just material for art.
+
+**30.** How does the comic-book imagery help create the ending of Origin Story?
+
+**Answer:** - A worn comic can have value because it has been loved and used, rather than perfectly preserved.
+- Similarly, the parents’ relationship can end yet still create something worthwhile, including the speaker’s life.
+
 ## 15 marks
 
-**1.** Read [The Schoolboy](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=6) by William Blake. How does the poet present the child’s experience of growing up? Refer to language, form, structure and relevant context.
+**31.** Read [The Schoolboy](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=6) by William Blake. How does the poet present the child’s experience of growing up? Refer to language, form, structure and relevant context.
 
 **Answer:** Blake presents childhood as a period of natural energy that can be damaged by fearful adult control. The child's unhappiness at school is therefore more than a complaint about an unpleasant day: it raises a question about future development.
 
@@ -14,7 +153,7 @@ The later plant images extend the problem through time. Damaged buds cannot prod
 
 The six patterned stanzas retain something of a song, but their repeated questions make that song increasingly urgent. The poem ends by asking about consequences rather than reassuring the reader. Blake presents healthy growth as something adults must protect, not something they can safely force through restriction.
 
-**2.** Read [I Wandered Lonely as a Cloud](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=8) by William Wordsworth. How does the poet present the effects of nature? Refer to language, form, structure and relevant context.
+**32.** Read [I Wandered Lonely as a Cloud](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=8) by William Wordsworth. How does the poet present the effects of nature? Refer to language, form, structure and relevant context.
 
 **Answer:** Wordsworth presents nature as a source of companionship whose value continues through memory. The encounter changes both the speaker's mood during the walk and his later experience of being alone.
 
@@ -26,7 +165,7 @@ The final stanza changes the time and location. The speaker is now on his couch,
 
 Four regular six-line stanzas and the closing couplet help the poem arrive at satisfaction. Its movement from loneliness to pleasurable solitude reflects Romantic interest in nature, individual feeling and imagination. The ending does not merely repeat the start: being alone has become enjoyable because recollection supplies company and emotional richness.
 
-**3.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13) by Elizabeth Barrett Browning. How does the poet present longing for a loved person? Refer to language, form, structure and relevant context.
+**33.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13) by Elizabeth Barrett Browning. How does the poet present longing for a loved person? Refer to language, form, structure and relevant context.
 
 **Answer:** Barrett Browning presents longing as energetic and imaginative, but ultimately insufficient without the beloved's presence. The speaker values the real person more highly than the thoughts generated by absence.
 
@@ -40,7 +179,7 @@ The **sonnet form** connects the poem with a long tradition of concentrated love
 
 Its place in Sonnets from the Portuguese, associated with love for Robert Browning, helps explain the personal urgency of this female voice. The final ideal is not endless fantasy but a closeness in which fantasy is no longer needed.
 
-**4.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10) by Christina Rossetti. How does the poet present power in relationships? Refer to language, form, structure and relevant context.
+**34.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10) by Christina Rossetti. How does the poet present power in relationships? Refer to language, form, structure and relevant context.
 
 **Answer:** Rossetti presents power as unequal but capable of being challenged through speech and motherhood. The abandoned speaker begins with a story of exploitation, then forces a reassessment of who possesses something valuable.
 
@@ -54,7 +193,7 @@ The final stanza reveals the son. “My shame, my pride” places social condemn
 
 The patterned storytelling therefore leads to resistance, not complete defeat. Rossetti gives a socially marginalised woman the voice to question the values used against her.
 
-**5.** Read [Drummer Hodge](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=14) by Thomas Hardy. How does the poet present the loss caused by war? Refer to language, form, structure and relevant context.
+**35.** Read [Drummer Hodge](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=14) by Thomas Hardy. How does the poet present the loss caused by war? Refer to language, form, structure and relevant context.
 
 **Answer:** Hardy presents war through the loss of an ordinary young person, concentrating on displacement and an inadequate burial rather than battlefield glory. Naming Hodge gives attention to someone who might otherwise disappear into a casualty total.
 
@@ -66,7 +205,7 @@ The three six-line stanzas move through present burial, past origins and future 
 
 In the final stanza, the possibility of becoming part of a tree offers natural continuity. However, “for ever” also makes separation permanent. This is not a return to the home he knew. Hardy allows connection with nature to coexist with the irreversible loss of a young life, leaving readers with a restrained rather than triumphant ending.
 
-**6.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16) by Wilfred Owen. How does the poet present the consequences of war? Refer to language, form, structure and relevant context.
+**36.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16) by Wilfred Owen. How does the poet present the consequences of war? Refer to language, form, structure and relevant context.
 
 **Answer:** Owen presents war as a rupture between a young man's expectations and his dependent, neglected present. Injury matters, but the poem also exposes the social response that deepens his isolation.
 
@@ -80,7 +219,7 @@ The movement between past and present prevents a smooth progress narrative. Each
 
 The repeated question at the end leaves him waiting for assistance. Owen withholds comforting closure, directing attention towards an unmet need. The criticism concerns this man's experience and society's treatment of him; it does not require readers to treat disability itself as the loss of human value.
 
-**7.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19) by Claude McKay. How does the poet present feelings about home? Refer to language, form, structure and relevant context.
+**37.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19) by Claude McKay. How does the poet present feelings about home? Refer to language, form, structure and relevant context.
 
 **Answer:** McKay presents home as a precious source of identity and hoped-for relief. The speaker's confidence in returning is strong, but the final admission of pain shows why that confidence needs to be repeatedly voiced.
 
@@ -94,7 +233,7 @@ The **Shakespearean sonnet** gives the thought three developing quatrains and a 
 
 McKay's migration from Jamaica and association with the Harlem Renaissance make cultural attachment and displacement relevant contexts. They illuminate the speaker's investment in a homeland without requiring every detail to be a literal autobiography. The poem ends with a desired future, not evidence that the journey has already happened.
 
-**8.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20) by Zulfikar Ghose. How does the poet present attitudes towards suffering? Refer to language, form, structure and relevant context.
+**38.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20) by Zulfikar Ghose. How does the poet present attitudes towards suffering? Refer to language, form, structure and relevant context.
 
 **Answer:** Ghose presents a change from detached visual interest to uncomfortable self-criticism. The speaker learns that making a striking image and responding humanely to its subject are not the same achievement.
 
@@ -108,7 +247,7 @@ Five quatrains in free verse move from description towards reflection. The late 
 
 The ending places the man's hardship above the photographer's artistic pride. Ghose therefore explores responsibility in representation: a vulnerable person should not disappear behind the observer's cleverness. The title does not establish that the sleeping man is dead.
 
-**9.** Read [Catrin](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=22) by Gillian Clarke. How does the poet present the mother–daughter relationship? Refer to language, form, structure and relevant context.
+**39.** Read [Catrin](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=22) by Gillian Clarke. How does the poet present the mother–daughter relationship? Refer to language, form, structure and relevant context.
 
 **Answer:** Clarke presents the relationship as a continuing negotiation between attachment and independence. The mother's love does not remove conflict; it helps explain why separation feels so intense.
 
@@ -122,7 +261,7 @@ The two unequal stanzas therefore connect experiences across years. **Enjambment
 
 The ending does not announce a winner. Instead, it shows that growth requires continuing adjustment. The poem recognises both the child's desire to become independent and the mother's difficulty in loosening a deeply felt connection.
 
-**10.** Read [Blackberry Picking](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=24) by Seamus Heaney. How does the poet present disappointment? Refer to language, form, structure and relevant context.
+**40.** Read [Blackberry Picking](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=24) by Seamus Heaney. How does the poet present disappointment? Refer to language, form, structure and relevant context.
 
 **Answer:** Heaney presents disappointment as the collision between intense desire and an outcome the speaker cannot control. The remembered experience becomes a pattern in which knowledge does not entirely extinguish hope.
 
@@ -136,7 +275,7 @@ At the end, “hoped” and “knew” create a compact conflict between feeling
 
 The adult recollection preserves the experience in language even though the child could not preserve the fruit. Heaney makes disappointment part of a broader encounter with time, desire and the limits of keeping what we love.
 
-**11.** Read [Kamikaze](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=26) by Beatrice Garland. How does the poet present conflict between personal life and duty? Refer to language, form, structure and relevant context.
+**41.** Read [Kamikaze](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=26) by Beatrice Garland. How does the poet present conflict between personal life and duty? Refer to language, form, structure and relevant context.
 
 **Answer:** Garland presents a conflict in which survival itself becomes grounds for punishment. The pilot returns from a mission that expects his death, but the community's response makes continued life socially painful.
 
@@ -150,7 +289,7 @@ The seven six-line stanzas give the narrative a visible pattern, while shifting 
 
 The final imagined question leaves physical death and social erasure in painful tension. Garland does not resolve the pilot's thoughts for us. Instead, the poem asks readers to consider what a system of honour costs the families expected to enforce it.
 
-**12.** Read [War Photographer](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=29) by Carol Ann Duffy. How does the poet present responses to the suffering of others? Refer to language, form, structure and relevant context.
+**42.** Read [War Photographer](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=29) by Carol Ann Duffy. How does the poet present responses to the suffering of others? Refer to language, form, structure and relevant context.
 
 **Answer:** Duffy contrasts the photographer's lasting involvement with the limited response of distant spectators. The process of producing a photograph becomes a way of examining what people do with another person's pain.
 
@@ -164,7 +303,7 @@ Four regular sestets and their rhyme pattern create a formal order beside this d
 
 The ending sends the photographer back towards work, suggesting a cycle rather than resolution. Duffy questions a culture in which images circulate widely but compassion may remain short-lived. The photographer is not simply emotionless; his outward discipline and inner distress are deliberately held together.
 
-**13.** Read [Dusting the Phone](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=31) by Jackie Kay. How does the poet present the effects of uncertain love? Refer to language, form, structure and relevant context.
+**43.** Read [Dusting the Phone](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=31) by Jackie Kay. How does the poet present the effects of uncertain love? Refer to language, form, structure and relevant context.
 
 **Answer:** Kay presents uncertain love as a state in which imagination increases anxiety rather than providing comfort. The speaker can recognise the problem but cannot easily step outside it.
 
@@ -178,7 +317,7 @@ Free verse allows the sentences to change length and direction. The sequence of 
 
 The domestic telephone places the poem within recognisable modern communication habits. Kay turns an everyday object into a means of exploring dependence, showing how desired connection can become a source of isolation.
 
-**14.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33) by Simon Armitage. How does the poet present the lasting effects of violence? Refer to language, form, structure and relevant context.
+**44.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33) by Simon Armitage. How does the poet present the lasting effects of violence? Refer to language, form, structure and relevant context.
 
 **Answer:** Armitage presents violence as an event that continues inside the survivor after its outward action has ended. The soldier's changing voice reveals both traumatic memory and unresolved responsibility.
 
@@ -192,7 +331,7 @@ The dramatic monologue lets the soldier's own speech carry the disturbance. Earl
 
 The poem therefore resists a simple finished-action story. Its speaker can leave the location but cannot resolve the doubt or stop the replay. The poem does not confirm whether the looter was armed; its emotional force depends on that uncertainty remaining open.
 
-**15.** Read [Origin Story](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=35) by Eve L. Ewing. How does the poet present the value of family relationships? Refer to language, form, structure and relevant context.
+**45.** Read [Origin Story](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=35) by Eve L. Ewing. How does the poet present the value of family relationships? Refer to language, form, structure and relevant context.
 
 **Answer:** Ewing presents family value as something that can survive the ending of a romantic relationship. The speaker looks closely at an imperfect past without dismissing either the love or the identity that came from it.
 
@@ -208,7 +347,7 @@ The final “good ending” invites readers to connect the relationship with the
 
 ## 25 marks
 
-**16.** Read [I Wandered Lonely as a Cloud](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=8). Choose one other poem from the anthology that explores experiences of nature. Compare how the poets present experiences of nature, considering content, language, form, structure and relevant contexts.
+**46.** Read [I Wandered Lonely as a Cloud](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=8). Choose one other poem from the anthology that explores experiences of nature. Compare how the poets present experiences of nature, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Wordsworth's I Wandered Lonely as a Cloud and Heaney's Blackberry Picking both make nature emotionally powerful, but they differ over how pleasure can last. Wordsworth finds an enduring resource in recollection; Heaney exposes the failure of trying to keep a physical possession unchanged.
 
@@ -222,7 +361,7 @@ The contexts help explain these different emphases. Wordsworth's Romantic intere
 
 Both poems therefore value close attention to ordinary nature. Their difference lies in the kind of permanence available: Wordsworth celebrates an emotional afterlife, while Heaney shows that the material source of pleasure remains vulnerable to time.
 
-**17.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13). Choose one other poem from the anthology that explores longing in a relationship. Compare how the poets present longing in a relationship, considering content, language, form, structure and relevant contexts.
+**47.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13). Choose one other poem from the anthology that explores longing in a relationship. Compare how the poets present longing in a relationship, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Barrett Browning's Sonnet 29 and Kay's Dusting the Phone both show absence making thought intense. Yet Browning develops an imagined release through closeness, while Kay leaves the speaker caught in uncertainty.
 
@@ -236,7 +375,7 @@ Their contexts support these choices. Browning's poem belongs to a love-sonnet s
 
 Both poems insist that imagined contact is insufficient. The significant difference is the speaker's final position: Browning can envision presence overcoming thought, whereas Kay dramatises a need that remains unanswered.
 
-**18.** Read [The Schoolboy](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=6). Choose one other poem from the anthology that explores freedom and restriction. Compare how the poets present freedom and restriction, considering content, language, form, structure and relevant contexts.
+**48.** Read [The Schoolboy](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=6). Choose one other poem from the anthology that explores freedom and restriction. Compare how the poets present freedom and restriction, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Blake's The Schoolboy and Clarke's Catrin both connect growing up with a struggle for freedom. Blake foregrounds a child's protest against damaging authority, while Clarke explores the emotional difficulty of loosening a loving bond.
 
@@ -250,7 +389,7 @@ These choices fit their contexts. Blake's concern with childhood and restrictive
 
 Neither ending supplies a neat settlement. Blake's questions demand that adults rethink their treatment of children. Clarke's ordinary final request reveals that independence must be negotiated repeatedly. Both value growth, but Clarke more strongly holds the desire for freedom beside the continuing need for connection.
 
-**19.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16). Choose one other poem from the anthology that explores isolation after military service. Compare how the poets present isolation after military service, considering content, language, form, structure and relevant contexts.
+**49.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16). Choose one other poem from the anthology that explores isolation after military service. Compare how the poets present isolation after military service, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Owen's Disabled and Garland's Kamikaze present homecoming as something more difficult than physical return. Both expose a gap between the value society claims to place on military service and its treatment of a person who returns outside the expected heroic pattern.
 
@@ -264,7 +403,7 @@ The First World War background of Disabled helps expose the distance between rec
 
 At the end, Owen leaves the veteran waiting for practical help; Garland leaves an imagined question about different forms of death. Both withhold comforting reintegration. Survival is real, but society's response can prevent it from becoming a restored life.
 
-**20.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33). Choose one other poem from the anthology that explores the lasting effects of conflict. Compare how the poets present the lasting effects of conflict, considering content, language, form, structure and relevant contexts.
+**50.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33). Choose one other poem from the anthology that explores the lasting effects of conflict. Compare how the poets present the lasting effects of conflict, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Armitage's Remains and Duffy's War Photographer both show conflict continuing beyond the place where violence occurred. Their central figures return home, but memory prevents that geographical movement from becoming psychological escape.
 
@@ -278,7 +417,7 @@ The contexts reinforce the distinction. Armitage's engagement with veterans' acc
 
 Both endings resist closure. The soldier cannot remove the memory, while the photographer returns to a cycle of work and limited public response. The poems suggest that coming home can expose the continuing effects of conflict more clearly, because outward safety contrasts with an experience that remains inwardly active.
 
-**21.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20). Choose one other poem from the anthology that explores responses to images of suffering. Compare how the poets present responses to images of suffering, considering content, language, form, structure and relevant contexts.
+**51.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20). Choose one other poem from the anthology that explores responses to images of suffering. Compare how the poets present responses to images of suffering, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Ghose's Decomposition and Duffy's War Photographer both question what happens when suffering becomes an image. They agree that seeing a photograph is not automatically the same as responding responsibly, but direct their criticism towards different points in the process.
 
@@ -292,7 +431,7 @@ The structures carry these developments. Ghose moves from a past photograph towa
 
 The urban Bombay scene and the newspaper darkroom both place a camera between vulnerable subjects and more powerful observers. Ultimately, both poems ask what an image-maker or viewer owes to the people represented, beyond admiration of the image itself.
 
-**22.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19). Choose one other poem from the anthology that explores belonging to a place. Compare how the poets present belonging to a place, considering content, language, form, structure and relevant contexts.
+**52.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19). Choose one other poem from the anthology that explores belonging to a place. Compare how the poets present belonging to a place, considering content, language, form, structure and relevant contexts.
 
 **Answer:** McKay's I Shall Return and Hardy's Drummer Hodge both connect identity with landscape, but place their central figures in sharply different relationships to home. McKay's speaker imagines recovering belonging; Hodge's death makes return impossible.
 
@@ -306,7 +445,7 @@ Context illuminates why the displacements differ. McKay's migration from Jamaica
 
 Hardy's final tree image suggests incorporation into another landscape, but it cannot restore Hodge's living participation in his own community. McKay preserves that possibility as a hope. Together, the poems show that belonging involves remembered relationships and meanings, not simply occupying a piece of ground.
 
-**23.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10). Choose one other poem from the anthology that explores family after a relationship ends. Compare how the poets present family after a relationship ends, considering content, language, form, structure and relevant contexts.
+**53.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10). Choose one other poem from the anthology that explores family after a relationship ends. Compare how the poets present family after a relationship ends, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Rossetti's Cousin Kate and Ewing's Origin Story both resist judging a family solely by whether a romantic relationship lasts. Each finds value in the child connected with that relationship, but their speakers reach this position through different tones and arguments.
 
@@ -340,6 +479,6 @@ Original practice questions and tutor-written model answers. The linked papers a
 
 ### How the papers inform this practice
 
-June 2019, 2023 and 2024 each use Q71 for a named-poem response (15 marks) and Q72 for a comparison with a chosen anthology poem (25 marks). The sampled focuses are loss (2019), place (2023) and a relationship (2024). Each appears once in this three-paper sample; none is a prediction. Those papers assess the previous anthology. Their task structure and assessment skills inform this practice, but every question here uses the new 15-poem anthology first assessed in 2027. There are no completed 2027-series papers available at the time of preparation. The answers demonstrate one supported reading and, for comparisons, one possible second-poem choice. AO1, AO2 and AO3 apply; the extra Shakespeare writing-accuracy allocation does not apply to these poetry questions.
+The 1- and 2-mark questions are original quick-revision practice, not Eduqas examination question formats. Their practice marks indicate the amount of recall or explanation expected. June 2019, 2023 and 2024 each use Q71 for a named-poem response (15 marks) and Q72 for a comparison with a chosen anthology poem (25 marks). The sampled focuses are loss (2019), place (2023) and a relationship (2024). Each appears once in this three-paper sample; none is a prediction. Those papers assess the previous anthology. Their task structure and assessment skills inform this practice, but every question here uses the new 15-poem anthology first assessed in 2027. There are no completed 2027-series papers available at the time of preparation. The answers demonstrate one supported reading and, for comparisons, one possible second-poem choice. AO1, AO2 and AO3 apply; the extra Shakespeare writing-accuracy allocation does not apply to these poetry questions.
 
 [Official anthology for first assessment in 2027](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf). Page links in questions use PDF page numbers, not the contents list.
