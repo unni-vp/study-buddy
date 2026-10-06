@@ -1,0 +1,65 @@
+{
+  "source": "Macbeth - Revision Notes.md",
+  "groups": [
+    {
+      "id": "story",
+      "title": "Story and characters",
+      "description": "Follow the rise, collapse and changing relationships.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "The story in five acts"
+        },
+        {
+          "heading": "Macbeth: from defender to tyrant"
+        },
+        {
+          "heading": "Lady Macbeth and the marriage"
+        },
+        {
+          "heading": "Banquo, Macduff and the rulers"
+        }
+      ]
+    },
+    {
+      "id": "ideas",
+      "title": "Themes and dramatic methods",
+      "description": "Connect repeated images, choices and audience effects.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Ambition, power and kingship"
+        },
+        {
+          "heading": "Guilt, blood and sleep"
+        },
+        {
+          "heading": "Appearance, deception and the supernatural"
+        },
+        {
+          "heading": "Gender, courage and vulnerability"
+        },
+        {
+          "heading": "How Shakespeare makes the drama work"
+        }
+      ]
+    },
+    {
+      "id": "answers",
+      "title": "Quotations and essay writing",
+      "description": "Turn short evidence into clear, developed arguments.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "A small quotation bank with many uses"
+        },
+        {
+          "heading": "Writing about an extract"
+        },
+        {
+          "heading": "Building a whole-play argument"
+        }
+      ]
+    }
+  ]
+}
