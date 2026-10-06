@@ -38,3 +38,6 @@ p('Flexible evidence','“Vaulting ambition”: excess and judgement. “Fruitle
 
 for item, panel, kind, height in [(MAPS[1][0],1,"lit-downfall",125),(MAPS[1][1],2,"lit-partnership",95),(MAPS[1][2],2,"lit-guilt",95),(MAPS[1][3],0,"lit-irony",110),(MAPS[1][4],0,"lit-irony",110)]:
  item["pics"][panel]=(kind,height)
+
+from literature_poetry_maps import MAPS as POETRY_MAPS
+MAPS[2]=POETRY_MAPS

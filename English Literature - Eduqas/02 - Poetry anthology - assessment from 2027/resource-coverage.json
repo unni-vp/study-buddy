@@ -39,5 +39,14 @@
   },
   "sources": [
     "https://www.eduqas.co.uk/media/42ldm0wa/eduqas-gcse-english-literature-spec-from-2015.pdf"
+  ],
+  "mindmaps": [
+    "00-anthology-overview",
+    "01-nature-and-childhood",
+    "02-love-and-absence",
+    "03-family-and-identity",
+    "04-war-and-exclusion",
+    "05-witnessing-and-trauma",
+    "06-home-and-belonging"
   ]
 }

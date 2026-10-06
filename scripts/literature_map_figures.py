@@ -5,7 +5,18 @@ _original=a4.illustration
 def illustration(kind,width,height):
  if not kind.startswith('lit-'): return _original(kind,width,height)
  t=a4.text;out=[]
- if kind=='lit-partnership':
+ if kind in ('lit-camera','lit-nature','lit-absence','lit-bond','lit-return','lit-home'):
+  pairs={
+   'lit-camera':[('Human suffering','Selected image'),('Selected image','Viewer response')],
+   'lit-nature':[('Wordsworth','Pleasure returns'),('Heaney','Fruit decays')],
+   'lit-absence':[('Sonnet 29','Imagined release'),('Dusting the Phone','Unresolved wait')],
+   'lit-bond':[('Birth','Physical separation'),('Growing up','Emotional bond')],
+   'lit-return':[('Returns alive','Family falls silent'),('Survival','Social exclusion')],
+   'lit-home':[('Remembered home','Future promise'),('Present pain','Hoped-for relief')]}[kind]
+  for i,(left,right) in enumerate(pairs):
+   y=18+i*48
+   out += [t(0,y,left,15,'#2166ad',cls='diagram-label'),t(width,y,right,15,'#7750a1',anchor='end',cls='diagram-label'),f'<path d="M5 {y+12}H{width-5}m-6-4 6 4-6 4" stroke="#18837b" stroke-width="2" fill="none"/>']
+ elif kind=='lit-partnership':
   for y,left,right,color in [(20,'Shared plan','Macbeth alone','#2166ad'),(72,'Her control','Her isolation','#7750a1')]:
    out += [t(0,y,left,15,color,cls='diagram-label'),t(width,y,right,15,color,anchor='end',cls='diagram-label'),f'<path d="M8 {y+12}H{width-8}m-6-4 6 4-6 4" stroke="{color}" stroke-width="2" fill="none"/>']
  elif kind=='lit-downfall':
