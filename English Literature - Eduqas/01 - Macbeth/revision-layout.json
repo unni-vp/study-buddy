@@ -2,14 +2,37 @@
   "source": "Macbeth - Revision Notes.md",
   "groups": [
     {
-      "id": "story",
-      "title": "Story and characters",
-      "description": "Follow the rise, collapse and changing relationships.",
+      "id": "acts",
+      "title": "Story / Acts",
+      "description": "Follow each act through its key events, analysis and quotations.",
       "icon": "literature-book",
       "sections": [
         {
           "heading": "The story in five acts"
         },
+        {
+          "heading": "Act 1 — Temptation and choice"
+        },
+        {
+          "heading": "Act 2 — Murder and disorder"
+        },
+        {
+          "heading": "Act 3 — Fear and isolation"
+        },
+        {
+          "heading": "Act 4 — False confidence and cruelty"
+        },
+        {
+          "heading": "Act 5 — Collapse and restoration"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Characters",
+      "description": "Explore personalities, motives and relationships.",
+      "icon": "literature-drama",
+      "sections": [
         {
           "heading": "Macbeth: from defender to tyrant"
         },
