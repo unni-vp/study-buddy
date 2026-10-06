@@ -2,7 +2,7 @@
 from dataclasses import dataclass
 from html import escape
 import re
-from urllib.parse import unquote
+from urllib.parse import unquote, urlsplit, urlunsplit
 from html_utils import render_md
 
 
@@ -67,7 +67,9 @@ def build_qa_pages(source, target, subject, topic, topicpage, write, link):
             url = match[2]
             if re.match(r'^(https?:|#|mailto:)', url):
                 return match[0]
-            return match[1]+'="'+link(page, (source.parent/unquote(url)).resolve())+'"'
+            parts = urlsplit(url)
+            relocated = link(page, (source.parent/unquote(parts.path)).resolve())
+            return match[1]+'="'+urlunsplit(('', '', relocated, parts.query, parts.fragment))+'"'
         return re.sub(r'(href|src)="([^"]+)"', relocate, render_md(md))
 
     def content(page):
