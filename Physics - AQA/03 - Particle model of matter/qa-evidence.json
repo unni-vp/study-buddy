@@ -1,0 +1,183 @@
+{
+  "reviewed": "2026-10-11",
+  "sample": "June 2022 and 2023 AQA 8463/1H (2022 Paper 2 is 2HR)",
+  "selection": "The sample includes a six-mark density investigation in 2022 Q02.1 and particle/internal-energy explanation in 2023 Q03.4. Gas-temperature reasoning appears in 2023 Q09.3. These examples support prioritising measurement, unit conversion and linked particle explanations; no recurrence claim is made for an individual topic seen in only one sampled paper. Other calculations practise the full current topic.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Write the equation linking density, mass and volume.",
+      "answer": "ρ = m/V.",
+      "specification": "4.3.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the change from solid directly to gas.",
+      "answer": "Sublimation.",
+      "specification": "4.3.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the unit of specific latent heat?",
+      "answer": "J/kg.",
+      "specification": "4.3.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "What happens to the temperature of a pure substance while it melts at constant pressure?",
+      "answer": "It stays constant.",
+      "specification": "4.3.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 2,
+      "prompt": "Compare particle movement in a solid and a gas.",
+      "answer": "- In a solid particles **vibrate about fixed positions**.\n- In a gas particles move rapidly and **randomly in all directions**.",
+      "specification": "4.3.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 2,
+      "prompt": "Define internal energy.",
+      "answer": "The **total kinetic energy and potential energy of all the particles** in a system.",
+      "specification": "4.3.2.1",
+      "evidence": "2023 1H Q03.4",
+      "number": 6
+    },
+    {
+      "marks": 2,
+      "prompt": "A block has mass 540 g and volume 200 cm³. Calculate its density in g/cm³.",
+      "answer": "ρ = m/V = 540/200 = **2.7 g/cm³**.",
+      "specification": "4.3.1.1",
+      "evidence": "2022 1H Q02: density skills",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Why does a gas usually have much lower density than a liquid of the same substance?",
+      "answer": "- Gas particles are **much farther apart**.\n- The same mass occupies a much larger volume, so **mass per unit volume is lower**.",
+      "specification": "4.3.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "An empty cylinder has mass 60 g. With 80 cm³ of liquid it has mass 124 g. Calculate the liquid’s density.",
+      "answer": "Liquid mass = 124 − 60 = **64 g**. Density = 64/80 = **0.80 g/cm³**.",
+      "specification": "4.3.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why mass can decrease in an open beaker when water evaporates without violating conservation of mass.",
+      "answer": "- Water particles **escape into the surroundings** as vapour.\n- Total mass including the escaped vapour is conserved; particles are not destroyed.",
+      "specification": "4.3.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Why must the starting water volume be subtracted when measuring an irregular object’s volume?",
+      "answer": "- The final reading includes both the original water and the displaced volume.\n- **Final minus initial volume** gives the volume of the submerged object alone.",
+      "specification": "4.3.1.1",
+      "evidence": "2022 1H Q02.1",
+      "number": 11
+    },
+    {
+      "marks": 3,
+      "prompt": "A 0.25 kg sample has specific heat capacity 800 J/kg°C. Calculate the energy needed to warm it from 20°C to 50°C.",
+      "answer": "- Δθ = 50 − 20 = **30°C**.\n- ΔE = mcΔθ = 0.25 × 800 × 30.\n- **6,000 J**.",
+      "specification": "4.3.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the energy required to melt 0.15 kg of ice at 0°C. Its specific latent heat of fusion is 334,000 J/kg.",
+      "answer": "- **E = mL**.\n- E = 0.15 × 334,000.\n- **50,100 J**.",
+      "specification": "4.3.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 3,
+      "prompt": "A sealed gas occupies 40 cm³ at 120 kPa. It expands to 60 cm³ at constant temperature. Calculate its new pressure.",
+      "answer": "- **p₁V₁ = p₂V₂**.\n- p₂ = 120 × 40/60.\n- **80 kPa**.",
+      "specification": "4.3.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why heating a fixed mass of gas in a rigid sealed container increases its pressure.",
+      "answer": "- Average kinetic energy increases, so particles **move faster**.\n- Wall collisions occur more frequently and involve larger momentum changes.\n- The force per unit area increases, so **pressure rises**.",
+      "specification": "4.3.3.1",
+      "evidence": "2023 1H Q09.3",
+      "number": 15
+    },
+    {
+      "marks": 3,
+      "prompt": "A bicycle pump becomes warm during rapid compression. Explain why.",
+      "answer": "- A force moves the piston, doing **work on the gas**.\n- Energy transfers into the gas’s **internal energy**.\n- With little time for energy to escape, average particle kinetic energy and **temperature increase**.",
+      "specification": "4.3.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why internal energy increases while ice melts even though its temperature is constant.",
+      "answer": "- Energy is transferred into the ice by heating.\n- It increases particle **potential energy** as the arrangement and interactions change.\n- Average kinetic energy does not increase, so **temperature stays constant**.",
+      "specification": "4.3.2.1–4.3.2.3",
+      "evidence": "2023 1H Q03.4",
+      "number": 17
+    },
+    {
+      "marks": 4,
+      "prompt": "A cuboid measures 4.0 cm × 3.0 cm × 2.0 cm and has mass 192 g. Calculate its density in g/cm³ and kg/m³.",
+      "answer": "- V = 4.0 × 3.0 × 2.0 = **24 cm³**.\n- ρ = 192/24 = **8.0 g/cm³**.\n- 1 g/cm³ = **1,000 kg/m³**.\n- Density = **8,000 kg/m³**.",
+      "specification": "4.3.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 4,
+      "prompt": "A gas is compressed slowly at constant temperature from 100 cm³ to 25 cm³. Its initial pressure is 90 kPa. Calculate the new pressure and explain the increase using particles.",
+      "answer": "- p₂ = p₁V₁/V₂ = 90 × 100/25 = **360 kPa**.\n- Average particle kinetic energy stays the same because **temperature is constant**.\n- Particles collide with the walls more frequently per unit area in the smaller volume.\n- Greater force per unit area means **greater pressure**.",
+      "specification": "4.3.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 4,
+      "prompt": "A 200 W heater melts 0.20 kg of ice at 0°C and warms the water to 10°C. Use L = 334,000 J/kg and c = 4,200 J/kg°C. Calculate the minimum heating time.",
+      "answer": "- Melting energy = mL = 0.20 × 334,000 = **66,800 J**.\n- Warming energy = mcΔθ = 0.20 × 4,200 × 10 = **8,400 J**.\n- Total energy = **75,200 J**.\n- t = E/P = 75,200/200 = **376 s**; real heat losses increase the time.",
+      "specification": "4.3.2.2–4.3.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe a method to determine the density of an irregular stone which does not dissolve in water. Include ways to obtain reliable measurements.",
+      "answer": "- Zero a balance and measure the dry stone’s **mass**.\n- Record the initial water volume in a measuring cylinder large enough for the stone.\n- Lower the stone gently until fully submerged, avoiding splashes and trapped air bubbles. Read the final volume at eye level.\n- Calculate stone volume from **final minus initial water volume**. A displacement can with collected water is an alternative.\n- Calculate **ρ = m/V** with consistent units.\n- Repeat and compare values; use suitably fine instrument scales and investigate anomalies. Repeats reduce random variation but do not correct a systematic zero error.",
+      "specification": "4.3.1.1",
+      "evidence": "2022 1H Q02.1–02.4",
+      "number": 21
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how the energy of particles changes as a pure solid is heated, melts and then warms as a liquid. Refer to this heating curve.\n\n![Heating curve with slopes and state-change plateaus.](../Diagrams/heating-curve.svg)",
+      "answer": "- Initially the solid’s particles vibrate more rapidly as their **kinetic energy increases**, so temperature rises.\n- During melting the supplied energy changes the particle arrangement and increases **potential energy**.\n- Average kinetic energy stays constant during this stage, giving a **flat temperature section** even though internal energy increases.\n- Once all the solid has melted, further heating increases the average kinetic energy of the liquid’s particles, so temperature rises again.\n- **Internal energy is the total kinetic plus potential energy of all particles**. Use mcΔθ on warming sections and mL for the state change.\n- The particles themselves do not melt or expand into different particles; the material changes state.",
+      "specification": "4.3.2.1–4.3.2.3",
+      "evidence": "2023 1H Q03.4",
+      "number": 22
+    }
+  ]
+}

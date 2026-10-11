@@ -1,0 +1,53 @@
+{
+  "source": "Atomic structure - Revision Notes.md",
+  "groups": [
+    {
+      "id": "atoms",
+      "title": "Atoms and evidence",
+      "description": "Count particles and understand changing atomic models.",
+      "icon": "physics-atom",
+      "sections": [
+        {
+          "heading": "Atoms, isotopes and ions"
+        },
+        {
+          "heading": "Electron energy levels and changing models"
+        }
+      ]
+    },
+    {
+      "id": "decay",
+      "title": "Radiation and half-life",
+      "description": "Compare emissions, balance equations and calculate decay.",
+      "icon": "physics-atom",
+      "sections": [
+        {
+          "heading": "Radioactive decay and types of radiation"
+        },
+        {
+          "heading": "Balancing nuclear equations"
+        },
+        {
+          "heading": "Half-life and background correction"
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "title": "Uses, risks and nuclear energy",
+      "description": "Distinguish exposure routes and explain nuclear reactions.",
+      "icon": "physics-energy",
+      "sections": [
+        {
+          "heading": "Contamination, irradiation and protection"
+        },
+        {
+          "heading": "Background radiation and uses"
+        },
+        {
+          "heading": "Fission, fusion and chain reactions"
+        }
+      ]
+    }
+  ]
+}

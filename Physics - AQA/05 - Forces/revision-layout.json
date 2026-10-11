@@ -1,0 +1,73 @@
+{
+  "source": "Forces - Revision Notes.md",
+  "groups": [
+    {
+      "id": "interactions",
+      "title": "Forces and deformation",
+      "description": "Use vectors, work and spring relationships.",
+      "icon": "physics-forces",
+      "sections": [
+        {
+          "heading": "Scalars, vectors and interactions"
+        },
+        {
+          "heading": "Weight, resultants and components"
+        },
+        {
+          "heading": "Work and elastic deformation"
+        },
+        {
+          "heading": "Practical: force and extension"
+        }
+      ]
+    },
+    {
+      "id": "turning",
+      "title": "Turning and pressure",
+      "description": "Explain moments, gears, fluids and floating.",
+      "icon": "physics-forces",
+      "sections": [
+        {
+          "heading": "Moments, levers and gears"
+        },
+        {
+          "heading": "Pressure, upthrust and the atmosphere"
+        }
+      ]
+    },
+    {
+      "id": "motion",
+      "title": "Motion and Newton’s laws",
+      "description": "Read graphs and investigate force and acceleration.",
+      "icon": "physics-motion",
+      "sections": [
+        {
+          "heading": "Describing motion"
+        },
+        {
+          "heading": "Reading motion graphs"
+        },
+        {
+          "heading": "Newton's laws and terminal velocity"
+        },
+        {
+          "heading": "Practical: force, mass and acceleration"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "title": "Stopping and momentum",
+      "description": "Calculate collisions and explain safety features.",
+      "icon": "physics-motion",
+      "sections": [
+        {
+          "heading": "Thinking, braking and stopping"
+        },
+        {
+          "heading": "Momentum and collision safety"
+        }
+      ]
+    }
+  ]
+}

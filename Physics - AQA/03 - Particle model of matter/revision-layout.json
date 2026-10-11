@@ -1,0 +1,50 @@
+{
+  "source": "Particle model of matter - Revision Notes.md",
+  "groups": [
+    {
+      "id": "matter",
+      "title": "States and density",
+      "description": "Explain particle arrangements and measure mass per volume.",
+      "icon": "physics-particles",
+      "sections": [
+        {
+          "heading": "Particles, states and density"
+        },
+        {
+          "heading": "Practical: measure density"
+        },
+        {
+          "heading": "Changes of state conserve mass"
+        }
+      ]
+    },
+    {
+      "id": "heating",
+      "title": "Heating and changes of state",
+      "description": "Read heating curves and choose the right energy equation.",
+      "icon": "physics-heat",
+      "sections": [
+        {
+          "heading": "Internal energy and temperature"
+        },
+        {
+          "heading": "Latent heat and heating curves"
+        }
+      ]
+    },
+    {
+      "id": "gas",
+      "title": "Gas pressure",
+      "description": "Connect particle collisions, temperature and volume.",
+      "icon": "physics-particles",
+      "sections": [
+        {
+          "heading": "Gas pressure and temperature"
+        },
+        {
+          "heading": "Compressing and expanding gases"
+        }
+      ]
+    }
+  ]
+}

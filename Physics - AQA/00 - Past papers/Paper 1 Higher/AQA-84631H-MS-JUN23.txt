@@ -1,0 +1,1603 @@
+=== PDF page 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GCSE 
+ 
+PHYSICS 
+ 
+8463/1H 
+ 
+Paper 1 Higher Tier   
+ Mark scheme 
+ 
+June 2023 
+ Version: 1.0 Final 
+ 
+ 
+ 
+*236G8463/1H/MS* 
+
+
+=== PDF page 2 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+2 
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the relevant 
+questions, by a panel of subject teachers.  This mark scheme includes any amendments made at the 
+standardisation events which all associates participate in and is the scheme which was used by them in 
+this examination.  The standardisation process ensures that the mark scheme covers the students’ 
+responses to questions and that every associate understands and applies it in the same correct way.  
+As preparation for standardisation each associate analyses a number of students’ scripts.  Alternative 
+answers not already covered by the mark scheme are discussed and legislated for.  If, after the 
+standardisation process, associates encounter unusual answers which have not been raised they are 
+required to refer these to the Lead Examiner. 
+ 
+It must be stressed that a mark scheme is a working document, in many cases further developed and 
+expanded on the basis of students’ reactions to a particular paper.  Assumptions about future mark 
+schemes on the basis of one year’s document should be avoided; whilst the guiding principles of 
+assessment remain constant, details will change, depending on the content of a particular examination 
+paper. 
+ 
+ 
+Further copies of this mark scheme are available from aqa.org.uk 
+ 
+    
+Copyright information 
+AQA retains the copyright on all its publications.  However, registered schools/colleges for AQA are permitted to copy material from this booklet for their own 
+internal use, with the following important exception: AQA cannot give permission to schools/colleges to photocopy any material that is acknowledged to a third 
+party even for internal use within the centre.  
+Copyright © 2023 AQA and its licensors.  All rights reserved. 
+
+=== PDF page 3 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+3 
+Information to Examiners 
+ 
+ 
+ 
+1. General 
+ 
+The mark scheme for each question shows: 
+• the marks available for each part of the question 
+• the total marks available for the question 
+• the typical answer or answers which are expected 
+• extra information to help the examiner make their judgement 
+• the Assessment Objectives and specification content that each question is intended to cover. 
+ 
+ 
+The extra information is aligned to the appropriate answer in the left-hand part of the mark scheme and 
+should only be applied to that item in the mark scheme. 
+ 
+At the beginning of a part of a question a reminder may be given, for example: where consequential 
+marking needs to be considered in a calculation; or the answer may be on the diagram or at a different 
+place on the script. 
+ 
+In general the right-hand side of the mark scheme is there to provide those extra details which confuse 
+the main part of the mark scheme yet may be helpful in ensuring that marking is straightforward and 
+consistent (for example, a scientifically correct answer that could not reasonably be expected from a 
+student’s knowledge of the specification). 
+ 
+ 
+ 
+2. Emboldening and underlining 
+ 
+2.1 In a list of acceptable answers where more than one mark is available ‘any two from’ is used, with 
+the number of marks emboldened.  Each of the following bullet points is a potential mark. 
+ 
+2.2 A bold and is used to indicate that both parts of the answer are required to award the mark. 
+ 
+2.3 Alternative answers acceptable for a mark are indicated by the use of or.   
+Alternative words in the mark scheme are shown by a solidus eg allow smooth / free movement. 
+ 
+2.4 Any wording that is underlined is essential for the marking point to be awarded. 
+  
+
+=== PDF page 4 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+4 
+3. Marking points 
+ 
+3.1 Marking of lists 
+ 
+ This applies to questions requiring a set number of responses, but for which students have 
+provided extra responses.  The general principle to be followed in such a situation is that  
+‘right + wrong = wrong’. 
+ 
+ Each error / contradiction negates each correct response.  So, if the number of errors / 
+contradictions equals or exceeds the number of marks available for the question, no marks can be 
+awarded. 
+ 
+ However, responses considered to be neutral (indicated as * in example 1) are not penalised. 
+ 
+ Example 1:  What is the pH of an acidic solution?  
+[1 mark] 
+ 
+Student Response Marks 
+awarded 
+1 green, 5 0 
+2 red*, 5 1 
+3 red*, 8 0 
+ 
+ 
+ Example 2:  Name two magnetic materials.   
+[2 marks] 
+ 
+Student Response Marks awarded 
+1 iron, steel, tin 1 
+2 cobalt, nickel, nail* 2 
+ 
+ 
+3.2 Use of symbols / formulae 
+ 
+ If a student writes a chemical symbol / formula instead of a required chemical name, or uses 
+symbols to denote quantities in a physics equation, full credit can be given if the symbol / formula 
+is correct and if, in the context of the question, such action is appropriate. 
+ 
+3.3 Marking procedure for calculations 
+ 
+ Marks should be awarded for each stage of the calculation completed correctly, as students are 
+instructed to show their working.  At any point in a calculation students may omit steps from their 
+working.  If a subsequent step is given correctly, the relevant marks may be awarded. 
+  
+Full marks are not awarded for a correct final answer from incorrect working.   
+ 
+3.4 Interpretation of ‘it’ 
+ 
+ Answers using the word ‘it’ should be given credit only if it is clear that the ‘it’ refers to the correct 
+subject. 
+  
+
+=== PDF page 5 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+5 
+3.5 Errors carried forward 
+ 
+ An error can be carried forward from one question part to the next and is shown by the 
+abbreviation ‘ecf’.  
+ 
+Within an individual question part, an incorrect value in one step of a calculation does not prevent 
+all of the subsequent marks being awarded. 
+ 
+3.6 Phonetic spelling 
+ 
+ Marks should be awarded if spelling is not correct but the intention is clear, unless there is a 
+possible confusion with another technical term. 
+ 
+3.7 Brackets 
+ 
+ (…..) are used to indicate information which is not essential for the mark to be awarded but is 
+included to help the examiner identify the sense of the answer required. 
+ 
+3.8 Allow 
+ 
+ In the mark scheme additional information, ‘allow’ is used to indicate creditworthy  
+ alternative answers. 
+ 
+3.9 Ignore 
+ 
+ Ignore is used when the information given is irrelevant to the question or not enough to gain the 
+marking point.  Any further correct amplification could gain the marking point. 
+ 
+3.10 Do not accept 
+ 
+ Do not accept means that this is a wrong answer which, even if the correct answer is given as 
+well, will still mean that the mark is not awarded. 
+ 
+3.11 Numbered answer lines 
+ 
+Numbered lines on the question paper are intended to support the student to give the correct 
+number of responses.  The answer should still be marked as a whole. 
+ 
+ 
+ 
+4. Level of response marking instructions 
+ 
+Extended response questions are marked on level of response mark schemes.   
+• Level of response mark schemes are broken down into levels, each of which has a descriptor.   
+• The descriptor for the level shows the average performance for the level.   
+• There are two marks in each level. 
+ 
+ 
+Before you apply the mark scheme to a student’s answer, read through the answer and, if 
+necessary, annotate it (as instructed) to show the qualities that are being looked for.  You can then 
+apply the mark scheme. 
+  
+
+=== PDF page 6 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+6 
+Step 1: Determine a level 
+ 
+Start at the lowest level of the mark scheme and use it as a ladder to see whether the answer meets 
+the descriptor for that level.   
+ 
+The descriptor for the level indicates the different qualities that might be seen in the student’s 
+answer for that level.  If it meets the lowest level then go to the next one and decide if it meets this 
+level, and so on, until you have a match between the level descriptor and the answer.  With practice 
+and familiarity you will find that for better answers you will be able to quickly skip through the lower 
+levels of the mark scheme. 
+ 
+When assigning a level you should look at the overall quality of the answer.  Do not look to penalise 
+small and specific parts of the answer where the student has not performed quite as well as the rest.  
+If the answer covers different aspects of different levels of the mark scheme you should use a best 
+fit approach for defining the level.   
+ 
+Use the variability of the response to help decide the mark within the level, ie if the response is 
+predominantly level 2 with a small amount of level 3 material it would be placed in level 2 but be 
+awarded a mark near the top of the level because of the level 3 content. 
+ 
+ 
+Step 2: Determine a mark 
+ 
+Once you have assigned a level you need to decide on the mark.  The descriptors on how to 
+allocate marks can help with this.  The exemplar materials used during standardisation will help.  
+There will be an answer in the standardising materials which will correspond with each level of the 
+mark scheme.  This answer will have been awarded a mark by the Lead Examiner.  You can 
+compare the student’s answer with the example to determine if it is the same standard, better or 
+worse than the example.  You can then use this to allocate a mark for the answer based on the Lead 
+Examiner’s mark on the example. 
+ 
+You may well need to read back through the answer as you apply the mark scheme to clarify points 
+and assure yourself that the level and the mark are appropriate. 
+ 
+Indicative content in the mark scheme is provided as a guide for examiners.  It is not intended to be 
+exhaustive and you must credit other valid points.  Students do not have to cover all of the points 
+mentioned in the indicative content to reach the highest level of the mark scheme. 
+ 
+You should ignore any irrelevant points made.  However, full marks can be awarded only if there are 
+no incorrect statements that contradict a correct response. 
+ 
+An answer which contains nothing of relevance to the question must be awarded no marks. 
+  
+
+=== PDF page 7 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+7 
+ Question 1 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.1 increase 
+ 
+decrease 
+must be in this order 1 
+ 
+1 
+AO1 
+4.2.4.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.2 P = I2R  1 AO1 
+4.2.4.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.3 1.60 × 109 = 20002 × R 
+ 
+R = 1.60×109
+20002  
+ 
+R = 400 (Ω) 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+1 
+ 
+AO2 
+4.2.4.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.4 efficiency = useful energy output
+total energy input  
+or 
+efficiency = 
+useful output energy transfer
+total input energy transfer  
+ 1 AO1 
+4.1.2.2 
+ 
+ 
+  
+
+=== PDF page 8 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+8 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+01.5 0.992 = useful energy output
+34.2  
+ 
+useful energy output  
+= 0.992 × 34.2 
+ 
+useful energy output  
+= 33.9 (GJ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow a correct answer given to 
+more than 3 s.f. 
+ 
+1 
+ 
+ 
+1 
+ 
+1 
+AO2 
+4.1.2.2 
+ 
+ 
+Total Question 1 10  
+ 
+ 
+ 
+  
+
+=== PDF page 9 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+9 
+Question 2 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.1 so the thermometer temperature 
+was the same as the 
+temperature of the iron block 
+ 1 AO3 
+4.1.1.3 
+RPA1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.2 Δθ = (54 – 28) = 26 (°C)  
+ 
+26 000 = 2.0 × c × 26 
+ 
+ 
+ 
+c = 26 000
+2.0 × 26 
+ 
+ 
+c = 500 (J/kg °C) 
+ 
+ 
+allow a correct substitution using 
+an incorrect value of Δθ 
+obtained from the graph 
+ 
+allow a correct rearrangement 
+using an incorrect value of Δθ 
+obtained from the graph 
+ 
+allow an answer consistent with 
+their value of Δθ obtained from 
+the graph 
+ 
+1 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+AO2 
+4.1.1.3 
+RPA1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+02.3 the calculated specific heat 
+capacity will be more accurate 
+ 
+ 
+the iron block will transfer 
+thermal energy to the 
+surroundings at a lower rate 
+ 1 
+ 
+ 
+ 
+1 
+AO3 
+4.1.1.3 
+RPA1 
+ 
+ 
+Total Question 2 7  
+ 
+ 
+  
+
+=== PDF page 10 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+10 
+Question 3 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+03.1 polarity of the potential 
+difference doesn’t change  
+allow direction of the potential 
+difference doesn’t change 
+ 
+ 
+1 AO1 
+4.2.3.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+03.2 E = QV  1 AO1 
+4.2.4.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+03.3 5010 = Q × 12 
+ 
+Q = 5010
+12  
+ 
+Q = 417.5 (C) 
+ 
+ 
+ 
+ 
+ 
+allow 418 (C) 
+1 
+ 
+1 
+ 
+1 
+AO2 
+4.2.4.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+03.4 5010 = 0.015 × L 
+ 
+L = 5010
+0.015 
+ 
+L = 334 000 (J/kg) 
+ 1 
+ 
+ 
+1 
+ 
+1 
+AO2 
+4.3.2.3 
+ 
+ 
+  
+
+=== PDF page 11 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+11 
+Question Answers Mark AO / 
+Spec. Ref. 
+03.5 Level 3: Relevant points (reasons / causes) are identified, given in 
+detail and logically linked to form a clear account. 
+5–6 AO1 
+4.3.1.1 
+4.3.2.1 
+ Level 2: Relevant points (reasons / causes) are identified, and 
+there are attempts at logical linking.  The resulting account is not 
+fully clear. 
+3–4 
+Level 1: Points are identified and stated simply, but their relevance 
+is not clear and there is no attempt at logical linking. 
+1–2 
+No relevant content 0 
+Indicative content 
+ 
+• particles in a solid are in a regular pattern 
+• particles in a liquid are in a random arrangement 
+ 
+• particles in a solid are vibrating about fixed positions 
+• particles in a liquid are moving freely  
+ 
+• as the ice changes to water the temperature remains constant 
+• because as the ice changes to water the potential energy of the 
+particles increases  
+ 
+• as the water warms the particles move faster 
+• so the kinetic energy of the particles increases 
+ 
+• internal energy is the total kinetic and potential energy of all the 
+particles 
+ 
+ 
+ignore any references to density of ice vs liquid water 
+ignore any references to spacing of particles 
+ 
+ 
+Total Question 3 14  
+ 
+  
+
+=== PDF page 12 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+12 
+Question 4 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.1 Ep = 367 500 000 (J) 
+ 
+367 500 000 = 2 500 000 × 9.8 
+× h 
+ 
+ 
+ 
+h = 367 500 000
+2 500 000 × 9.8 
+ 
+ 
+ 
+h = 15 (m) 
+ 
+ 
+allow a correct substitution using 
+an incorrectly/not converted 
+value of Ep 
+ 
+ 
+allow a correct rearrangement 
+using an incorrectly/not 
+converted value of Ep 
+ 
+ 
+allow an answer consistent with 
+their value of Ep 
+ 
+1 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+AO2 
+4.1.1.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.2 3 kW = 3000 W 
+ 
+3000 = 2.16 × 107
+t  
+ 
+ 
+ 
+t = 2.16 × 107
+3000  
+ 
+ 
+t = 7200 (s) 
+ 
+ 
+t = 7.2 × 103 (s) 
+ 
+ 
+all subsequent marks can score 
+using an incorrectly / not 
+converted value of P 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow an answer given in 
+standard form from a calculation 
+using data given in the question 
+1 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+AO2 
+4.1.1.4 
+ 
+ 
+  
+
+=== PDF page 13 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+13 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+04.3  
+ 
+ 
+in the summer the power output 
+from the hydroelectric generator 
+is lower but the solar power 
+output would be greater 
+ 
+ 
+so less variation in total power 
+output (which improves the 
+reliability of the supply) 
+ 
+ 
+allow reference to specific 
+months eg April to September 
+ 
+allow power output of 
+hydroelectric generator depends 
+on rainfall and power output of 
+solar power system depends on 
+light intensity 
+ 
+allow electricity supply for total 
+power output 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+1 
+AO3 
+4.1.3 
+ 
+ 
+Total Question 4 11  
+ 
+  
+
+=== PDF page 14 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+14 
+Question 5 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.1 Similarities: 
+• same number of protons 
+or 
+same atomic number 
+ 
+• same number of electrons 
+ 
+Difference: 
+• different number of neutrons 
+or 
+different mass number 
+ 
+allow both atoms / nuclei contain 
+6 protons 
+ 
+ 
+ 
+ 
+ 
+ 
+allow carbon-12 has 6 neutrons 
+and carbon-14 has 8 neutrons 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO1 
+4.4.1.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.2 the time it takes for the number 
+of nuclei (in a radioactive 
+sample) to halve (is 5700 years) 
+or 
+the time it takes for the activity 
+(of a radioactive sample) to 
+halve (is 5700 years) 
+or 
+the time it takes for the radiation 
+emitted (by a radioactive 
+sample) to halve (is 5700 years) 
+or 
+the time it takes for the count 
+rate (of a radioactive sample) to 
+halve (is 5700 years) 
+or 
+the time it takes for the mass of 
+carbon-14 (in a sample) to halve 
+(is 5700 years) 
+ 
+allow atoms for nuclei 
+ 
+ 
+ 
+ignore radioactivity 
+1 
+ 
+ 
+AO1 
+4.4.2.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.3 2 half-lives 
+ 
+128.74 (s) 
+ 
+ 
+allow 129 (s) 
+ 
+1 
+ 
+1 
+AO2 
+4.4.2.3 
+ 
+ 
+
+=== PDF page 15 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+15 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.4 nitrogen-18 
+ 
+greatest activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(so) greatest dose of radiation 
+absorbed (per second) 
+ 
+ 
+ 
+MP2 and MP3 dependent on 
+scoring MP1 
+ 
+allow emits most radiation per 
+second 
+allow emits most radiation in a 
+given time period 
+ignore shortest half-life 
+ 
+ 
+ 
+ 
+1 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+AO3 
+4.4.2.1 
+4.4.3.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.5 irradiation is the exposure of an 
+object / person to radiation 
+ 
+ 
+ 
+(while) contamination is the 
+(unwanted) presence of 
+radioactive material / atoms on 
+an object / person 
+ 
+allow ‘absorption of radiation’ for 
+‘exposure’ 
+allow specific examples of 
+ionising radiation 
+ 
+allow ‘inside a person’ for ‘on an 
+object / person’ 
+1 
+ 
+ 
+ 
+ 
+1 
+AO1 
+4.4.2.4 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.6 any one from: 
+• cancer / tumours 
+• DNA / genetic mutation 
+• damages / kills cells 
+• radiation poisoning / sickness 
+/ burns 
+ 
+ 
+ignore mutates cells 
+ 
+ 
+ 
+ignore death 
+1 AO3 
+4.4.3.3 
+ 
+ 
+  
+
+=== PDF page 16 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+16 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.7 some radioactive materials emit 
+alpha radiation 
+ 
+which has a (very) short range 
+(in air) 
+ 
+ 
+ 
+ 
+MP2 dependent on scoring MP1 
+allow weakly penetrating for 
+short range (in air) 
+1 
+ 
+ 
+1 
+AO3 
+4.4.2.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+05.8 pilot's dose in 24 hours = 0.072 
+(mSv) 
+ 
+number of days = 0.072
+0.00050 
+ 
+number of days = 144 
+ 
+OR 
+ 
+nuclear power worker hourly 
+dose = 0.0000208… (mSv) (1) 
+ 
+number of days = 
+0.0030
+0.0000208 (1) 
+ 
+number of days = 144 (1) 
+ 
+OR 
+ 
+hourly dose
+daily dose =
+0.0030
+0.00050 = 6 (1) 
+ 
+number of days = 6 × 24 (1) 
+ 
+number of days = 144 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+1 
+AO2 
+4.4.3.1 
+ 
+ 
+Total Question 5 17  
+ 
+ 
+ 
+  
+
+=== PDF page 17 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+17 
+Question 6 
+ 
+Question Answers Mark AO / 
+Spec. Ref. 
+06.1 Level 3: The method would lead to the production of a valid 
+outcome.  The key steps are identified and logically sequenced. 
+5–6 AO1 
+4.2.1.4 
+RPA4 
+ Level 2: The method would not necessarily lead to a valid 
+outcome.  Most steps are identified, but the method is not fully 
+logically sequenced. 
+3–4 
+Level 1: The method would not lead to a valid outcome.  Some 
+relevant steps are identified, but links are not made clear. 
+1–2 
+No relevant content 0 
+Indicative content 
+ 
+• ammeter in series with filament lamp 
+• current measured with an ammeter 
+• voltmeter in parallel with filament lamp 
+• p.d. measured with a voltmeter 
+• variable resistor (or variable power pack or variable number of 
+cells) used to vary current in and p.d. across filament lamp 
+• range of p.d. of 0 to 6 V 
+• interval of p.d. of 1 V 
+• reverse connections to power supply to obtain negative values 
+• take repeat readings and calculate a mean 
+• discard anomalies 
+Indicative content may be seen in a circuit diagram. 
+ 
+Level 3 answer: needs to include a circuit which would work (if 
+included) and a method to obtain negative values. 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 18 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+18 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+06.2 3.0 = 0.16 × R 
+ 
+ 
+ 
+ 
+R = 3.0
+0.16 
+ 
+ 
+R = 18.75 (Ω) 
+ 
+ 
+allow a correct substitution of an 
+incorrect value of I in the range 
+0.15 (A) to 0.17 (A) 
+ 
+ 
+allow a correct rearrangement of 
+an incorrect value of I in the 
+range 0.15 (A) to 0.17 (A) 
+ 
+allow 19 (Ω) 
+allow 18.8  
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+AO2 
+4.2.1.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+06.3 t = 1800 (s) 
+ 
+Q = 0.21 × 1800 
+  
+ 
+Q = 378 (C) 
+ 
+E = 378 × 6.0 
+ 
+E = 2268 (J) 
+ 
+OR 
+ 
+P = 0.21 × 6.0 (1) 
+ 
+P = 1.26 (W) (1) 
+ 
+t = 1800 (s) (1) 
+ 
+ 
+E = 1.26 × 1800 (1) 
+ 
+E = 2268 (J) (1) 
+ 
+ 
+ 
+all subsequent marks can score 
+if an incorrectly / not converted 
+value of t is used 
+ 
+ 
+ 
+ 
+allow an answer to 2 or 3 s.f. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+all subsequent marks can score 
+if an incorrectly / not converted 
+value of t is used 
+ 
+ 
+allow an answer to 2 or 3 s.f. 
+ 
+1 
+ 
+1 
+ 
+ 
+1 
+ 
+1 
+ 
+1 
+AO2 
+4.2.4.2 
+4.1.1.4 
+4.2.1.2 
+4.2.4.1 
+ 
+ 
+  
+
+=== PDF page 19 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+19 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+06.4  
+(for the power to quadruple) the 
+current and the p.d. would both 
+need to double 
+ 
+(but the current doesn’t double) 
+because the resistance of the 
+filament lamp increases 
+or 
+(but the current doesn’t double 
+because the graph shows that) 
+current is not proportional to p.d. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+allow the graph does not show 
+direct proportionality 
+ 
+ignore the graph is not a straight 
+line 
+ignore the graph is not linear 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+AO3 
+4.2.1.4 
+4.2.4.1 
+ 
+ 
+Total Question 6 16  
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 20 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+20 
+Question 7 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.1 spring may become 
+permanently extended  
+ 
+or  
+ 
+extension of the spring may be 
+too great (so the baby’s feet are 
+always on the floor) 
+ignore reference to limit of 
+proportionality 
+allow the harness / spring / 
+chain may break 
+ 
+ 
+ 
+ 
+ignore baby may be injured / 
+harmed / may hit doorframe 
+1 AO3 
+4.1.1.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+07.2 (in position A) the baby has 
+gravitational potential energy 
+ 
+(as the baby moves down this) 
+is transferred to kinetic energy 
+(of the baby) and / then elastic 
+potential energy (of the spring) 
+ 
+(in position B) all the energy is 
+elastic potential energy  
+ 
+allow Ep for gravitational 
+potential energy 
+ 
+allow Ek for kinetic energy 
+ 
+allow Ee for elastic potential 
+energy 
+ 
+ignore energy dissipated to the 
+surroundings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+AO1 
+4.1.1.1 
+ 
+ 
+  
+
+=== PDF page 21 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+21 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+ 
+07.3 
+ 
+e = 0.080 (m) 
+ 
+4.0 = ½ × k × 0.0802 
+ 
+ 
+ 
+k = 4.0
+(0.5 × 0.0802)
+ 
+ 
+ 
+ 
+k = 1250 (N/m) 
+ 
+ 
+ 
+allow a correct substitution using 
+an incorrectly / not converted 
+value of e 
+ 
+allow a correct rearrangement 
+using an incorrectly / not 
+converted value of e 
+ 
+allow an answer consistent with 
+their value of e 
+ 
+ 
+1 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+AO2 
+4.1.1.2 
+ 
+ 
+Total Question 7 8  
+ 
+  
+
+=== PDF page 22 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+22 
+Question 8 
+ 
+Question Answers Mark AO / 
+Spec. Ref. 
+08.1 
+  
+ 
+4 correct for 2 marks 
+2 or 3 correct for 1 mark 
+ 
+additional line from a box on the left negates the mark for that box 
+ 
+2 AO1 
+4.4.1.3 
+ 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.2  
+ 
+both the alpha particles and the 
+(gold) nucleus have positive / 
+same charge 
+ 
+ 
+so the alpha particle and the 
+gold nucleus repel each other 
+‘it’ is alpha particle A 
+ 
+allow alpha particles and 
+protons have positive / same 
+charge 
+ 
+ 
+allow like charges repel 
+ 
+ignore deflection (this refers to 
+the path taken not the force) 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+AO1 
+ 
+ 
+ 
+ 
+AO3 
+ 
+4.4.1.1 
+4.2.5.1 
+4.2.5.2 
+ 
+ 
+  
+
+
+=== PDF page 23 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+23 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.3 particle B passes closer to the 
+nucleus  
+ 
+so experiences a stronger 
+(repulsive) force 
+or 
+so experiences a stronger 
+electric field 
+‘it’ is particle B 
+ 
+any mention of particle B 
+colliding with the nucleus scores 
+zero 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+1 
+AO3 
+4.4.1.1 
+4.2.5.1 
+4.2.5.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.4 the atom is mostly empty space  1 AO3 
+4.4.1.3 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.5 in the Bohr model the electrons 
+orbit (the nucleus) at specific 
+distances 
+(whereas in the nuclear model 
+the electrons can orbit at a 
+continuous range of distances) 
+ 
+allow energy levels or shells for 
+specific distances 
+1 AO1 
+4.4.1.3 
+ 
+ 
+  
+
+=== PDF page 24 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+24 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+08.6 to move to a higher energy level 
+an electron absorbs energy 
+from electromagnetic radiation 
+ 
+ 
+ 
+ 
+to move to a lower energy level 
+an electron emits energy in the 
+form of electromagnetic 
+radiation 
+allow absorbs energy by 
+collision with another electron 
+allow EM radiation for 
+electromagnetic radiation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+if no other mark scored allow 1 
+mark for an electron changes 
+energy level by emitting or 
+absorbing electromagnetic 
+radiation 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+AO1 
+4.4.1.1 
+ 
+ 
+Total Question 8 10  
+ 
+  
+
+=== PDF page 25 ===
+MARK SCHEME – GCSE PHYSICS – 8463/1H – JUNE 2023 
+25 
+Question 9 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.1 random allow all / any 
+ignore many different 
+1 AO1 
+4.3.3.1 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.2 more (air) particles (in the tyre) 
+ 
+greater number of collisions with 
+tyre (walls) per second 
+ 
+ 
+allow collisions with tyre (walls) 
+are more frequent 
+allow greater rate of collisions 
+with tyre (walls) 
+ 
+do not credit MP2 if linked to an 
+increased air temperature or 
+increased speed / Ek of particles 
+ 
+ignore greater force per m2 
+1 
+ 
+1 
+ 
+AO1 
+4.3.3.1 
+4.3.3.2 
+ 
+ 
+Question Answers Extra information Mark AO / 
+Spec. Ref. 
+09.3 (as temperature increases the) 
+air particles have greater (mean) 
+kinetic energy 
+ 
+(so) more collisions with tyre 
+(walls) per second 
+ 
+ 
+ 
+(and) greater force in each 
+collision 
+ 
+ 
+greater (mean) force per square 
+metre causes greater pressure 
+(on wall of tyre) 
+ 
+allow particles move with 
+greater speeds (on average) 
+ 
+ 
+allow collisions with tyre (walls) 
+are more frequent 
+allow greater rate of collisions 
+with tyre (walls) 
+ 
+allow greater rate of change of 
+momentum in each collision 
+ 
+ 
+allow ‘on a given area’ for ‘per 
+square metre’ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+ 
+AO1 
+4.3.3.1 
+ 
+ 
+Total Question 9 7  
+ 

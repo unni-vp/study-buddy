@@ -1,0 +1,59 @@
+{
+  "source": "Electricity - Revision Notes.md",
+  "groups": [
+    {
+      "id": "circuits",
+      "title": "Circuits and components",
+      "description": "Connect charge flow, resistance and circuit behaviour.",
+      "icon": "physics-circuit",
+      "sections": [
+        {
+          "heading": "Charge, current and potential difference"
+        },
+        {
+          "heading": "Circuit symbols and measuring resistance"
+        },
+        {
+          "heading": "Series and parallel circuits"
+        },
+        {
+          "heading": "Components and I–V graphs"
+        }
+      ]
+    },
+    {
+      "id": "practicals",
+      "title": "Circuit practicals",
+      "description": "Measure resistance and investigate component graphs.",
+      "icon": "physics-circuit",
+      "sections": [
+        {
+          "heading": "Practical: resistance of a wire and resistor combinations"
+        },
+        {
+          "heading": "Practical: investigate I–V characteristics"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "Power, mains and static",
+      "description": "Explain energy transfer, safety, the Grid and electric fields.",
+      "icon": "physics-energy",
+      "sections": [
+        {
+          "heading": "Electrical energy and power"
+        },
+        {
+          "heading": "Mains electricity and safety"
+        },
+        {
+          "heading": "The National Grid"
+        },
+        {
+          "heading": "Static charge and electric fields"
+        }
+      ]
+    }
+  ]
+}

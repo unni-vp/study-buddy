@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-11",
+  "specification": "AQA 8463 Higher, section 4.2, version 1.1 September 2019",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "4.2.1.1–4.2.1.4",
+    "4.2.2",
+    "4.2.3.1–4.2.3.2",
+    "4.2.4.1–4.2.4.3",
+    "4.2.5.1–4.2.5.2"
+  ],
+  "practicals": [
+    3,
+    4
+  ],
+  "mindmaps": [
+    "00-electricity-overview",
+    "01-circuits-and-components",
+    "02-circuit-investigations",
+    "03-power-mains-and-fields"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "reviewed": "2026-10-11",
+  "specification": "AQA 8463 Higher, section 4.5, version 1.1 September 2019",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "4.5.1.1–4.5.1.4",
+    "4.5.2",
+    "4.5.3",
+    "4.5.4",
+    "4.5.5.1–4.5.5.2",
+    "4.5.6.1–4.5.6.3",
+    "4.5.7.1–4.5.7.3"
+  ],
+  "practicals": [
+    6,
+    7
+  ],
+  "mindmaps": [
+    "00-forces-overview",
+    "01-interactions-work-and-springs",
+    "02-moments-and-fluid-pressure",
+    "03-motion-and-graphs",
+    "04-newtons-laws-and-practical",
+    "05-stopping-and-momentum"
+  ]
+}

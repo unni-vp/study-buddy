@@ -1,0 +1,2143 @@
+=== PDF page 1 ===
+*JUN2384632H01*
+IB/M/Jun23/E9 8463/2H
+For Examiner’s Use
+Question Mark
+1
+2
+3
+4
+5
+6
+7
+8
+9
+TOTAL
+Friday 16 June 2023           Morning           Time allowed: 1 hour 45 minutes
+Materials
+For this paper you must have:
+• a ruler
+• a scientific calculator
+• a protractor
+• the Physics Equations Sheet (enclosed).
+Instructions
+• Use black ink or black ball-point pen.  Pencil should only be used for drawing.
+• Fill in the boxes at the top of this page.
+• Answer all questions in the spaces provided.  
+• Do not write outside the box around each page or on blank pages.
+• Do all rough work in this book.  Cross through any work you do not want to 
+be marked.
+• If you need extra space for your answer(s), use the lined pages at the end of 
+this book.  Write the question number against your answer(s).
+• In all calculations, show clearly how you work out your answer.
+Information
+• The maximum mark for this paper is 100.
+• The marks for questions are shown in brackets.
+• You are expected to use a calculator where appropriate.
+• You are reminded of the need for good English and clear presentation in 
+your answers.   
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname
+Forename(s)
+Candidate signature
+I declare this is my own work.
+GCSE
+PHYSICS
+Higher Tier Paper 2  
+H
+PMT
+
+=== PDF page 2 ===
+2 
+ 
+*02* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Answer all questions in the spaces provided. 
+ 
+ 
+0 1 
+ 
+ 
+Infrared waves are transverse waves.  
+   
+   
+0 1 
+ 
+. 1 
+ 
+Complete the sentence. 
+[1 mark] 
+   
+  In a transverse wave, the direction of oscillation is  
+  to the direction of energy transfer by the wave. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  A student investigated how the colour of a surface affects the rate at which the 
+surface emits infrared radiation. 
+ 
+Figure 1 shows some of the equipment used. 
+   
+Figure 1 
+   
+ 
+   
+ 
+  
+PMT
+
+=== PDF page 3 ===
+3 
+ 
+*03* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+. 2 
+ 
+The student wrote the following hypothesis: 
+ 
+‘The black-coloured flask will emit more infrared radiation than the  
+silver-coloured flask during 10 minutes of cooling.’ 
+ 
+ 
+Describe a method to test this hypothesis.  
+[6 marks] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Question 1 continues on the next page 
+  
+PMT
+
+=== PDF page 4 ===
+4 
+ 
+*04* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+. 3 
+ 
+When will the flasks emit infrared radiation at the greatest rate? 
+ 
+Give a reason for your answer.  
+[2 marks] 
+  Tick () one box. 
+   
+  
+During the 1st minute  
+ 
+During the 5th minute  
+ 
+During the 9th minute  
+ 
+ 
+ 
+  Reason 
+ 
+   
+ 
+ 
+  
+PMT
+
+=== PDF page 5 ===
+5 
+ 
+*05* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Another student investigated the absorption of infrared radiation by different  
+surface colours. 
+ 
+The student filled four hollow metal cubes with cold water.  
+ 
+Each cube was the same size but had a different surface colour.  
+ 
+The cubes were then placed the same distance from an infrared heater. 
+ 
+After 10 minutes, the student measured the temperature increase of the water inside 
+each cube. 
+   
+   
+0 1 
+ 
+. 4 
+ 
+What was the dependent variable in this investigation? 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 5 
+ 
+Table 1 shows the results. 
+   
+Table 1 
+   
+Surface colour of the cube Temperature increase after 
+10 minutes in °C 
+Matt white 3.0 
+Shiny white 2.0 
+Matt black 6.5 
+Shiny black 4.0 
+ 
+   
+     
+Give two conclusions that can be made from the results in Table 1. 
+ [2 marks] 
+  1 
+ 
+   
+  2 
+ 
+   
+  
+PMT
+
+=== PDF page 6 ===
+6 
+ 
+*06* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 2 shows one of the cubes.  The cube is filled with water. 
+ 
+The weight of the water exerts a pressure on the bottom of the cube. 
+   
+Figure 2 
+   
+ 
+   
+ 
+ 
+ 
+ 
+  Use the Physics Equations Sheet to answer questions 01.6 and 01.7. 
+   
+   
+0 1 
+ 
+. 6 
+ 
+Which equation correctly links area, force and pressure? 
+ [1 mark] 
+  Tick () one box. 
+   
+  
+pressure = force × area2  
+ 
+pressure = force × area  
+ 
+pressure = force
+area 
+ 
+ 
+pressure = area
+force  
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 7 ===
+7 
+ 
+*07* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+17 
+ 
+ 
+0 1 
+ 
+. 7 
+ 
+The water pressure at the bottom of the cube is 1500 Pa. 
+ 
+Calculate the force of the water on the bottom of the cube.  
+[4 marks] 
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+Force = 
+ 
+ N 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+PMT
+
+=== PDF page 8 ===
+8 
+ 
+*08* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+ Figure 3 shows the route an aeroplane takes as it travels from an airport terminal to 
+the runway. 
+ 
+Figure 3 has been drawn to scale. 
+   
+Figure 3 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 1 
+ 
+Determine the magnitude of the aeroplane’s displacement from the start point to the 
+finish point on Figure 3.  
+[2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+Displacement = 
+ 
+ m 
+ 
+  
+PMT
+
+=== PDF page 9 ===
+9 
+ 
+*09* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 4 shows the direction of the horizontal forces acting on the aeroplane as it 
+moves in a straight line towards the runway. 
+   
+Figure 4 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 2 
+ 
+Determine the magnitude of the resultant horizontal force on the aeroplane.  
+[1 mark] 
+   
+ 
+  
+ 
+  
+ 
+Resultant horizontal force = 
+ 
+ N 
+ 
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 3 
+ 
+Describe the motion of the aeroplane as it moves towards the runway. 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 4 
+ 
+Air resistance and friction are contact forces. 
+ 
+Give one other example of a contact force. 
+ [1 mark] 
+   
+ 
+ 
+  
+PMT
+
+=== PDF page 10 ===
+10 
+ 
+*10* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+. 5 
+ 
+The aeroplane stops for a short time and then accelerates along the runway. 
+ 
+Figure 5 shows a distance–time sketch-graph for this stage of the journey. 
+   
+Figure 5 
+   
+ 
+   
+   
+   
+  Draw the velocity–time sketch-graph for this stage of the journey on Figure 6. 
+[2 marks] 
+   
+Figure 6 
+   
+ 
+   
+ 
+  
+PMT
+
+=== PDF page 11 ===
+11 
+ 
+*11* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+. 6 
+ 
+The aeroplane takes off from the runway, so its height above the ground increases. 
+ 
+Figure 7 shows how atmospheric pressure varies with the height of the aeroplane 
+above the ground. 
+   
+Figure 7 
+   
+ 
+   
+   
+  Estimate the atmospheric pressure when the height of the aeroplane above the 
+ground is 10 km.  
+[2 marks] 
+  
+ 
+Atmospheric pressure = 
+ 
+ kPa 
+ 
+ 
+ 
+ 
+Question 2 continues on the next page 
+  
+PMT
+
+=== PDF page 12 ===
+12 
+ 
+*12* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 2 
+ 
+. 7 
+ 
+What happens to the air surrounding the aeroplane as the height of the aeroplane 
+above the ground increases? 
+ [1 mark] 
+  Tick () one box. 
+   
+  
+The average density of the air above the aeroplane decreases.  
+ 
+The mass of air above the aeroplane increases.  
+ 
+The temperature of the air increases.  
+ 
+The volume of air below the aeroplane decreases.  
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 13 ===
+13 
+ 
+*13* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+ Some cars have a lever that is used to apply the handbrake. 
+ 
+Figure 8 shows the handbrake lever in a car. 
+   
+Figure 8 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 1 
+ 
+The driver applies the force shown in Figure 8.  The force produces a moment about 
+the pivot. 
+ 
+How could the driver increase the moment about the pivot without increasing the size 
+of the force? 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Question 3 continues on the next page 
+  
+PMT
+
+=== PDF page 14 ===
+14 
+ 
+*14* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The driver releases the handbrake. 
+ 
+Figure 9 shows how the velocity of the car changes during the first 5 seconds of  
+a journey. 
+   
+Figure 9 
+   
+ 
+   
+ 
+ 
+ 
+0 3 
+ 
+. 2 
+ 
+After 3 seconds, the momentum of the car is 24 000 kg m/s. 
+ 
+Calculate the mass of the car. 
+ 
+Use the Physics Equations Sheet. 
+ [4 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Mass = 
+ 
+ kg 
+  
+PMT
+
+=== PDF page 15 ===
+15 
+ 
+*15* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+. 3 
+ 
+Determine the distance travelled by the car during the first 5 seconds of the journey. 
+ 
+Use Figure 9. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Distance travelled by the car = 
+ 
+ m 
+ 
+ 
+ 
+ 
+Question 3 continues on the next page 
+  
+PMT
+
+=== PDF page 16 ===
+16 
+ 
+*16* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+13 
+ 
+ 
+0 3 
+ 
+. 4 
+ 
+In an emergency the driver needs to apply the brakes suddenly to stop the  
+car quickly. 
+ 
+The driver of the car is distracted. 
+ 
+ 
+Explain why the distraction will increase the stopping distance. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 5 
+ 
+Explain why the temperature of the brakes increases as they are used. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 17 ===
+17 
+ 
+*17* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question  
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+ 
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 18 ===
+18 
+ 
+*18* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+ A megaphone uses a loudspeaker to amplify sounds that are detected by  
+a microphone. 
+ 
+Figure 10 shows a megaphone and microphone. 
+   
+Figure 10 
+   
+ 
+   
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 1 
+ 
+Complete the sentence. 
+[1 mark] 
+   
+  The microphone is used to convert the pressure variations in sound waves into  
+  variations in   . 
+ 
+  
+PMT
+
+=== PDF page 19 ===
+19 
+ 
+*19* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 2 
+ 
+The loudspeaker contains a permanent magnet. 
+ 
+Which diagram in Figure 11 shows the direction of the magnetic field between the 
+north pole and the south pole of the magnet? 
+ 
+The magnets are shown in cross-section. 
+ [1 mark] 
+  Tick () one box. 
+   
+Figure 11 
+   
+ 
+   
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 3 
+ 
+Some magnets are permanent magnets and some are induced magnets.   
+ 
+What is an induced magnet? 
+ [1 mark] 
+   
+ 
+  
+ 
+  
+ 
+  
+PMT
+
+=== PDF page 20 ===
+20 
+ 
+*20* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 12 shows the parts of the loudspeaker in the megaphone. 
+   
+Figure 12 
+   
+ 
+   
+   
+   
+  A current in the coil of the loudspeaker causes the coil to move. 
+   
+   
+   
+0 4 
+ 
+. 4 
+ 
+What is the name of the effect that causes the coil to move? 
+ [1 mark] 
+  Tick () one box. 
+   
+  
+Electromagnet effect  
+ 
+Induction effect  
+ 
+Motor effect  
+ 
+Speaker effect  
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 21 ===
+21 
+ 
+*21* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 5 
+ 
+When the current in the coil is 16 mA, the force on the coil is 0.013 N. 
+ 
+The length of the wire that makes up the coil is 6.5 m. 
+ 
+ 
+Calculate the magnetic flux density around the coil in the electromagnet. 
+ 
+Use the Physics Equations Sheet. 
+ [4 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Magnetic flux density = 
+ 
+ T 
+ 
+ 
+ 
+ 
+Question 4 continues on the next page 
+  
+PMT
+
+=== PDF page 22 ===
+22 
+ 
+*22* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 6 
+ 
+Megaphones can produce very loud sounds. 
+ 
+A person’s hearing can be affected by age and by working in a loud environment. 
+ 
+Figure 13 shows how frequency affects the minimum sound level that can be heard 
+by three different people, A, B and C. 
+   
+Figure 13 
+   
+ 
+   
+ 
+ 
+  
+PMT
+
+=== PDF page 23 ===
+23 
+ 
+*23* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+12 
+ 
+ 
+  Compare how different factors affect the minimum sound level that these 
+people can hear. 
+ [4 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+PMT
+
+=== PDF page 24 ===
+24 
+ 
+*24* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 5 
+ 
+ Figure 14 shows some bumper cars. 
+ 
+Bumper cars are designed to withstand collisions at low speeds. 
+   
+Figure 14 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 1 
+ 
+During a collision between a bumper car and the barrier, the bumper car and barrier 
+act as a closed system. 
+ 
+What is meant by a ‘closed system’? 
+ [1 mark] 
+   
+ 
+  
+ 
+  
+ 
+ 
+  
+PMT
+
+=== PDF page 25 ===
+25 
+ 
+*25* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 5 
+ 
+. 2 
+ 
+How does Newton’s Third Law of motion apply to the collision between the  
+bumper car and the barrier? 
+ [1 mark] 
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 3 
+ 
+During the collision, the change in momentum of the bumper car is 700 kg m/s. 
+ 
+The time taken for the collision is 0.28 s.  
+ 
+ 
+Calculate the force on the bumper car during the collision. 
+ 
+Use the Physics Equations Sheet. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Force = 
+ 
+ N 
+ 
+ 
+ 
+ 
+Question 5 continues on the next page 
+  
+PMT
+
+=== PDF page 26 ===
+26 
+ 
+*26* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 5 
+ 
+. 4 
+ 
+The bumper car has a flexible bumper. 
+ 
+Explain how the flexible bumper reduces the risk of injury to the people in the  
+bumper car during the collision. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 5 
+ 
+A bumper car moved with an initial constant velocity and then accelerated  
+at 2.0 m/s2. 
+ 
+While accelerating, the bumper car travelled a distance of 1.5 m. 
+ 
+The final velocity of the bumper car was 2.5 m/s.   
+ 
+ 
+Calculate the initial constant velocity of the bumper car. 
+ 
+Use the Physics Equations Sheet. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Initial constant velocity = 
+ 
+ m/s 
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 27 ===
+27 
+ 
+*27* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 6 
+ 
+ Figure 15 shows the Hubble Space Telescope orbiting the Earth. 
+   
+Figure 15 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 1 
+ 
+What name is given to objects that orbit a planet? 
+ [1 mark] 
+   
+ 
+ 
+ 
+ 
+ 
+Question 6 continues on the next page 
+  
+PMT
+
+=== PDF page 28 ===
+28 
+ 
+*28* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 6 
+ 
+. 2 
+ 
+A space telescope uses microwaves to communicate with the Earth. 
+ 
+A microwave has a wavelength of 12.5 cm.  
+ 
+The speed of microwaves through space is 3.0 × 108 m/s. 
+ 
+ 
+Calculate the frequency of the microwave. 
+ 
+Use the Physics Equations Sheet. 
+ 
+Give your answer in standard form. 
+ [5 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Frequency (in standard form) = 
+ 
+ Hz 
+ 
+ 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 3 
+ 
+Explain the effect of the Earth’s gravitational force on the motion of the  
+Hubble Space Telescope. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+PMT
+
+=== PDF page 29 ===
+29 
+ 
+*29* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+12 
+ 
+ 
+0 6 
+ 
+. 4 
+ 
+The Hubble Space Telescope can detect visible light from distant galaxies. 
+ 
+The visible light spectra from stars and galaxies include dark lines  
+at specific wavelengths. 
+ 
+Figure 16 shows the visible light spectra from the Sun and two galaxies. 
+   
+Figure 16 
+   
+ 
+   
+   
+  Explain what conclusions can be made about galaxies A and B. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+PMT
+
+=== PDF page 30 ===
+30 
+ 
+*30* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+ A student investigated the behaviour of light. 
+ 
+The student used a mirror with a smooth surface to investigate reflection. 
+ 
+Figure 17 shows the equipment used. 
+   
+Figure 17 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 1 
+ 
+What name is given to reflection from a smooth surface?  
+ [1 mark] 
+   
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 31 ===
+31 
+ 
+*31* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The student measured the angle of reflection for different angles of incidence. 
+   
+  Table 2 shows the results. 
+   
+Table 2 
+   
+Angle of 
+incidence in 
+degrees 
+Angle of reflection in degrees 
+Test 1 Test 2 Test 3 Mean 
+10 8 10 11 10 
+20 20 21 20 20 
+30 28 29 32 30 
+40 39 41 41 40 
+50 49 50 52 50 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 2 
+ 
+What conclusion can be made from the results in Table 2? 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 3 
+ 
+What type of error caused the variation in the results for the angle of reflection? 
+ 
+Suggest one cause of this error.  
+[2 marks] 
+  Type of error 
+ 
+ 
+  Cause of error 
+ 
+   
+   
+ 
+  
+PMT
+
+=== PDF page 32 ===
+32 
+ 
+*32* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The student also investigated the refraction of light. 
+ 
+ 
+ 
+0 7 
+ 
+. 4 
+ 
+Figure 18 shows the path of a ray of light through a glass block. 
+   
+Figure 18 
+   
+ 
+   
+   
+  Why has refraction not occurred? 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+  
+PMT
+
+=== PDF page 33 ===
+33 
+ 
+*33* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+. 5 
+ 
+The student measured the angle of refraction for different angles of incidence. 
+ 
+Figure 19 shows the protractor used. 
+   
+Figure 19 
+   
+ 
+   
+   
+  When the angle of incidence was 10° the student measured the angle of refraction 
+four times. 
+ 
+The student recorded the measurements as: 
+ 
+6.0°               6.3°               6.4°               5.8° 
+ 
+ 
+Explain why the student should not have recorded these results when using the 
+protractor in Figure 19 to make the measurements. 
+ [2 marks] 
+   
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Question 7 continues on the next page 
+  
+PMT
+
+=== PDF page 34 ===
+34 
+ 
+*34* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 7 
+ 
+. 6 
+ 
+Figure 20 shows what happens to wave fronts as they pass across the boundary 
+between air and glass. 
+   
+Figure 20 
+   
+ 
+   
+   
+  Explain in terms of the wave fronts, why refraction happens at the boundary between 
+air and glass. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+PMT
+
+=== PDF page 35 ===
+35 
+ 
+*35* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+ 
+  
+PMT
+
+=== PDF page 36 ===
+36 
+ 
+*36* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+ Figure 21 shows a transformer used to power a lamp using the  
+mains electricity supply. 
+   
+Figure 21 
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 1 
+ 
+What material is used to make the core of the transformer? 
+ 
+Give the reason for using this material. 
+ [2 marks] 
+  Material 
+ 
+ 
+  Reason 
+ 
+   
+ 
+ 
+  
+PMT
+
+=== PDF page 37 ===
+37 
+ 
+*37* 
+ 
+Turn over ► 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+7 
+ 
+ 
+0 8 
+ 
+. 2 
+ 
+Determine the current in the secondary coil when the power output of the transformer 
+is 6.9 W.  
+ 
+The transformer is 100% efficient. 
+ 
+Use the Physics Equations Sheet. 
+ [5 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Current in the secondary coil = 
+ 
+ A 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+PMT
+
+=== PDF page 38 ===
+38 
+ 
+*38* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 9 
+ 
+ A dynamo is used to generate an electric current. 
+ 
+Figure 22 shows the inside parts of the dynamo connected to a lamp. 
+   
+Figure 22 
+   
+ 
+   
+   
+ 
+ 
+0 9 
+ 
+. 1 
+ 
+The coil is rotated.  
+ 
+Explain why a direct current is induced in the coil.  
+[5 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+PMT
+
+=== PDF page 39 ===
+39 
+ 
+*39* 
+ 
+ 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+9 
+ 
+ 
+0 9 
+ 
+. 2 
+ 
+Sketch a graph on Figure 23 to show how the potential difference generated across 
+the lamp varies for two complete revolutions of the dynamo coil.  
+[1 mark] 
+   
+Figure 23 
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 3 
+ 
+The lamp is disconnected from the dynamo. 
+ 
+Explain why the dynamo becomes much easier to turn. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+END  OF  QUESTIONS
+PMT
+
+=== PDF page 40 ===
+40 
+ 
+*40* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+PMT
+
+=== PDF page 41 ===
+41 
+ 
+*41* 
+ 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+PMT
+
+=== PDF page 42 ===
+42 
+ 
+*42* 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+PMT
+
+=== PDF page 43 ===
+43 
+ 
+*43* 
+ 
+IB/M/Jun23/8463/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+PMT
+
+=== PDF page 44 ===
+44
+*44*
+IB/M/Jun23/8463/2H
+Do not write 
+outside the 
+boxThere are no questions printed on this page
+DO  NOT  WRITE  ON  THIS  PAGE
+ANSWER  IN  THE  SPACES  PROVIDED
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet.  This booklet is published after 
+each live examination series and is available for free download from www.aqa.org.uk. 
+Permission to reproduce all copyright material has been applied for.  In some cases, efforts to contact copyright-holders may have been unsuccessful 
+and AQA will be happy to rectify any omissions of acknowledgements.  If you have any queries please contact the CopyrightTeam. 
+Copyright © 2023 AQA and its licensors.  All rights reserved. 
+*236G8463/2H*
+PMT

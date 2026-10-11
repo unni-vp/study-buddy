@@ -1,0 +1,1800 @@
+=== PDF page 1 ===
+*jun2284631H01*
+IB/H/Jun22/E12 8463/1H
+For Examiner’s Use
+Question Mark
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+TOTAL
+Time allowed: 1 hour 45 minutes
+Materials
+For this paper you must have:
+• a ruler
+• a scientific calculator
+• the Physics Equations Sheet (enclosed).
+Instructions
+• Use black ink or black ball-point pen.  Pencil should only be used for drawing.
+• Fill in the boxes at the top of this page.
+• Answer all questions in the spaces provided.
+• Do not write outside the box around each page or on blank pages.
+• Do all rough work in this book.  Cross through any work you do not want to 
+be marked.
+• If you need extra space for your answer(s), use the lined pages at the end of 
+this book.  Write the question number against your answer(s).
+• In all calculations, show clearly how you work out your answer.
+Information
+• The maximum mark for this paper is 100.
+• The marks for questions are shown in brackets.
+• You are expected to use a calculator where appropriate.
+• You are reminded of the need for good English and clear presentation in 
+your answers.   
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname
+Forename(s)
+Candidate signature
+I declare this is my own work.
+GCSE
+PHYSICS
+Higher Tier Paper 1  
+H
+
+=== PDF page 2 ===
+2 
+ 
+*02* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Answer all questions in the spaces provided. 
+ 
+ 
+0 1 
+ 
+ Figure 1 shows a large wind farm off the coast of the UK. 
+   
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ The mean power output of the wind farm is 696 MW, which is enough power for  
+580 000 homes. 
+ 
+ 
+0 1 
+ 
+. 1 
+ 
+Calculate the mean power needed for 1 home. 
+ 
+Give your answer in watts. 
+[2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+                                          Mean power needed for 1 home =    W 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PDF page 3 ===
+3 
+ 
+*03* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+9 
+ 
+ 
+0 1 
+ 
+. 2 
+ 
+On one day the demand for electricity in the UK was 34 000 MW. 
+ 
+Suggest two reasons why wind power was not able to meet this demand. 
+ [2 marks] 
+  
+1  
+  
+ 
+  
+ 
+  
+2  
+  
+ 
+  
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 3 
+ 
+Some of the energy from the wind used to rotate a wind turbine is wasted. 
+ 
+An engineer oils the mechanical parts of a wind turbine. 
+ 
+Explain how oiling would affect the efficiency of the wind turbine.  
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 4 
+ 
+In most homes in the UK there are many different electrical devices. 
+ 
+Explain why people should be encouraged to use energy efficient electrical devices. 
+[2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+
+=== PDF page 4 ===
+4 
+ 
+*04* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+ Figure 2 shows a rock found by a student on a beach. 
+ 
+To help identify the type of rock, the student took measurements to determine  
+its density. 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 1  
+ 
+Describe a method the student could use to determine the density of the rock. 
+[6 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+
+=== PDF page 5 ===
+5 
+ 
+*05* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The student determined the density of the rock to be 2.55 ± 0.10 g/cm3. 
+ 
+ 
+0 2 
+ 
+. 2 
+ 
+What are the maximum and minimum values for the density of the rock? 
+ [1 mark] 
+   
+Maximum density = 
+ 
+ 
+ 
+ g/cm3 
+   
+Minimum density = 
+  
+ g/cm3 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 3 
+ 
+Table 1 gives the density of five different types of rock. 
+ 
+Table 1 
+ 
+Type of rock Density in g/cm3 
+Basalt 2.90 ± 0.10 
+Chalk 2.35 ± 0.15 
+Flint 2.60 ± 0.10 
+Sandstone 2.20 ± 0.20 
+Slate 2.90 ± 0.20 
+ 
+ 
+ 
+  Which two types of rock in Table 1 could be the type of rock the student had? 
+[1 mark] 
+Tick () one box. 
+  
+  
+Basalt or chalk  
+ 
+Chalk or flint  
+ 
+Flint or sandstone  
+ 
+Sandstone or slate  
+ 
+ 
+ 
+ 
+ 
+Question 2 continues on the next page 
+  
+
+=== PDF page 6 ===
+6 
+ 
+*06* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 2 
+ 
+. 4 
+ 
+The student only took one set of measurements to determine the density of the rock. 
+ 
+Explain why taking the measurements more than once may improve the accuracy of 
+the density value. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 7 ===
+7 
+ 
+*07* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   DO  NOT  WRITE  ON  THIS  PAGE 
+ ANSWER  IN  THE  SPACES  PROVIDED   
+
+=== PDF page 8 ===
+8 
+ 
+*08* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+ An engineering company has invented pavement tiles that generate electricity as 
+people walk on them. 
+ 
+Figure 3 shows someone walking on the pavement tiles. 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+ 
+  Use the Physics Equations Sheet to answer questions 03.1 and 03.2. 
+   
+   
+0 3 
+ 
+. 1 
+ 
+What equation links current (I), potential difference (V) and power (P)? 
+[1 mark] 
+Tick () one box. 
+  
+ 
+ 
+P = V
+I 
+ 
+ 
+P = V × I  
+ 
+I = P × V  
+ 
+V = I2 × P 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PDF page 9 ===
+9 
+ 
+*09* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+. 2 
+ 
+When a person walks on a tile, a potential difference of 40 V is induced across the tile.  
+ 
+The power output of the tile is 4.4 W. 
+ 
+ 
+Calculate the current in the tile. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+                                                                                Current =    A 
+ 
+ 
+ 
+ 
+ 
+Question 3 continues on the next page 
+ 
+  
+
+=== PDF page 10 ===
+10 
+ 
+*10* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+8 
+ 
+ 
+  Use the Physics Equations Sheet to answer questions 03.3 and 03.4. 
+   
+   
+0 3 
+ 
+. 3 
+ 
+What equation links efficiency, total power input and useful power output? 
+[1 mark] 
+Tick () one box.  
+   
+  
+Efficiency = useful power output
+total power input   
+ 
+Efficiency = total power input
+useful power output  
+ 
+Efficiency = useful power output × total power input  
+ 
+ 
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 4 
+ 
+The tiles are used to power LED lights in the pavement. 
+ 
+An LED light has a total power input of 4.0 W. 
+ 
+The efficiency of the LED light is 0.85 
+ 
+ 
+Calculate the useful power output of the LED light. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+                                                           Useful power output =    W 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 11 ===
+11 
+ 
+*11* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   DO  NOT  WRITE  ON  THIS  PAGE 
+ ANSWER  IN  THE  SPACES  PROVIDED   
+
+=== PDF page 12 ===
+12 
+ 
+*12* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+ A student investigated the insulating properties of different materials. 
+ 
+Figure 4 shows some of the equipment used by the student. 
+   
+Figure 4 
+ 
+ 
+ 
+  
+  This is the method used: 
+ 
+1. Wrap insulating material around the can. 
+ 
+2. Put a fixed volume of boiling water in the can. 
+ 
+3. Place the lid on the top of the can. 
+ 
+4. Measure the time taken for the temperature of the water to decrease by a fixed 
+amount. 
+ 
+5. Repeat steps 1–4 using the same thickness of different insulating materials. 
+ 
+ 
+0 4 
+ 
+. 1 
+ 
+Identify the independent variable and the dependent variable in this investigation. 
+ [2 marks] 
+  
+Independent variable  
+  
+Dependent variable  
+   
+ 
+ 
+  
+
+
+=== PDF page 13 ===
+13 
+ 
+*13* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+   
+  
+The student used two different types of thermometer to measure the temperature 
+changes.  
+ 
+Figure 5 shows a reading on each thermometer. 
+ 
+Figure 5 
+ 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 2 
+ 
+What is the resolution of thermometer B? 
+[1 mark] 
+   
+                                                                        Resolution =  
+  
+ °C 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 3 
+ 
+Thermometer A is more likely to be misread. 
+ 
+Give one reason why. 
+ [1 mark] 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 4 continues on the next page 
+  
+
+
+=== PDF page 14 ===
+14 
+ 
+*14* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 4 
+ 
+For one type of insulating material, the temperature of the water decreased from  
+85.0 °C to 65.0 °C. 
+ 
+The energy transferred from the water was 10.5 kJ. 
+ 
+specific heat capacity of water = 4200 J/kg °C 
+ 
+ 
+Calculate the mass of water in the can. 
+ 
+Use the Physics Equations Sheet. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Mass = 
+ 
+ kg 
+ 
+  
+
+=== PDF page 15 ===
+15 
+ 
+*15* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+9 
+ 
+ 
+0 4 
+ 
+. 5 
+ 
+Table 2 shows the results for two insulating materials. 
+ 
+Table 2 
+ 
+Material Time for temperature to decrease by 20 °C 
+in seconds 
+X 450 
+Y 745 
+ 
+ 
+ 
+ 
+  Explain how the results in Table 2 can be used to compare the thermal conductivity of 
+the two materials. 
+[2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+=== PDF page 16 ===
+16
+*16*
+IB/H/Jun22/8463/1H
+Do not write 
+outside the 
+box0 5 A student rubbed a plastic rod with a cloth.
+The rod became negatively charged and the cloth became positively charged.
+0 5 . 1 Explain why the cloth became positively charged.
+[3 marks]
+Figure 6 shows the negatively charged rod on a balance.
+Figure 6
+Figure 7 shows another charged rod being held stationary above the rod on the 
+balance.
+The rods do not touch each other.
+Figure 7
+100.35 g
+
+=== PDF page 17 ===
+17 
+ 
+*17* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 5 
+ 
+. 2 
+ 
+Explain why the reading on the balance increases. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+ 
+. 3 
+ 
+The balance had a zero error. 
+ 
+The zero error is not important in this experiment. 
+ 
+Give the reason why. 
+ [1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 4 
+ 
+A negatively charged rod is held near an earthed conductor.  
+ 
+Explain why a spark jumps between the negatively charged rod and the earthed 
+conductor.  
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 18 ===
+18 
+ 
+*18* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 6 
+ 
+ Figure 8 shows how electricity is supplied to consumers by the National Grid. 
+   
+Figure 8 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 1 
+ 
+Explain why transformer X is used in the National Grid. 
+ [4 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 2 
+ 
+Explain why transformer Y is used in the National Grid. 
+ [2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+
+=== PDF page 19 ===
+19 
+ 
+*19* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+10 
+ 
+ 
+0 6 
+ 
+. 3 
+ 
+The town of Hornsdale in Australia has electricity supplied by a huge battery. 
+ 
+On one day the battery transferred 3.24 × 1011 J of energy to the town. 
+ 
+The potential difference of the town’s electricity supply is 230 V. 
+ 
+ 
+Calculate the charge flow to the town on this day. 
+ 
+Use the Physics Equations Sheet. 
+ 
+Give your answer to 3 significant figures. 
+ [4 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+Charge flow (3 significant figures) =       C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+=== PDF page 20 ===
+20
+*20*
+IB/H/Jun22/8463/1H
+Do not write 
+outside the 
+box
+8
+0 7 Alpha particles, beta particles and gamma rays are types of nuclear radiation.
+0 7 . 1 What does an alpha particle consist of?
+[1 mark]
+0 7 . 2 A krypton (Kr) nucleus decays into a rubidium (Rb) nucleus by emitting a beta particle.
+Complete the nuclear equation for this decay by writing the missing number in 
+each box. 
+[2 marks]
+0 7 . 3 Internal contamination of the human body means radioactive material is inside the 
+human body.
+Explain how the risk from internal contamination is different to the risk from external 
+irradiation by a source of alpha radiation.
+[5 marks]
+
+
+=== PDF page 21 ===
+21 
+ 
+*21* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   DO  NOT  WRITE  ON  THIS  PAGE 
+   ANSWER  IN  THE  SPACES  PROVIDED 
+ 
+  
+
+=== PDF page 22 ===
+22 
+ 
+*22* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+ A student determined the specific latent heat of vaporisation of water. 
+ 
+Figure 9 shows some of the equipment used. 
+ 
+  Figure 9 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This is the method used: 
+ 
+1. Put 50 cm3 of water in a beaker. 
+ 
+2. Measure the mass of the beaker and water. 
+ 
+3. Use a heater to boil the water and keep it boiling for 600 seconds. 
+ 
+4. Measure the mass of the beaker and water after 600 seconds. 
+ 
+ 
+0 8 
+ 
+. 1 
+ 
+What measuring instrument should be used to measure the volume of water? 
+ [1 mark] 
+   
+ 
+ 
+ 
+0 8 
+ 
+. 2 
+ 
+What is a hazard in the student’s investigation? 
+[1 mark] 
+Tick ( ) one box. 
+  
+  
+burns  
+ 
+boiling water  
+ 
+heatproof gloves  
+ 
+safety goggles  
+ 
+ 
+  
+
+
+=== PDF page 23 ===
+23 
+ 
+*23* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+. 3 
+ 
+The initial mass of the beaker and water was 0.080 kg. 
+ 
+The final mass of the beaker and water was 0.071 kg. 
+  
+The energy transferred by the immersion heater as the water boiled was 25 200 J. 
+ 
+ 
+Calculate the specific latent heat of vaporisation of water given by the student’s data. 
+ 
+Give the unit.   
+ 
+Use the Physics Equations Sheet. 
+ [5 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Specific latent heat of vaporisation = 
+ 
+ Unit  
+ 
+ 
+ 
+ 
+ 
+Question 8 continues on the next page 
+  
+
+=== PDF page 24 ===
+24 
+ 
+*24* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+11 
+ 
+ 
+0 8 
+ 
+. 4 
+ 
+Some thermal energy was transferred to the surroundings while the water was  
+being heated. 
+ 
+Explain how this affected the student’s value for the specific latent heat of vaporisation 
+of water. 
+[2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 5 
+ 
+Some of the water evaporated before its temperature reached 100 °C. 
+ 
+Explain how this affected the student’s value for the specific latent heat of vaporisation 
+of water. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 25 ===
+25 
+ 
+*25* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED   
+
+=== PDF page 26 ===
+26 
+ 
+*26* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 9 
+ 
+ Figure 10 shows a girl doing an experiment to determine her power output by running 
+to the top of some stairs. 
+   
+Figure 10 
+   
+  
+ 
+ 
+ 
+0 9 
+ 
+. 1 
+ 
+The mass of the girl was 60.0 kg. 
+ 
+The height of the stairs was 175 cm. 
+ 
+The girl ran to the top of the stairs in 1.40 s. 
+ 
+gravitational field strength = 9.8 N/kg 
+ 
+ 
+Calculate the power output of the girl. 
+ 
+Use the Physics Equations Sheet. 
+ [5 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Power = 
+ 
+ W 
+ 
+ 
+  
+
+
+=== PDF page 27 ===
+27 
+ 
+*27* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+8 
+ 
+ 
+0 9 
+ 
+. 2 
+ 
+The total power output of the girl was greater than the answer to question 09.1. 
+  
+Suggest two reasons why. 
+ [2 marks] 
+  
+1  
+  
+ 
+  
+2  
+  
+ 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 3 
+ 
+A boy took more than 1.40 s to run up the same stairs. 
+ 
+The power output of the boy was the same as the power output of the girl. 
+ 
+What conclusion can be made about the boy’s mass? 
+[1 mark] 
+Tick ( ) one box. 
+  
+  
+The boy’s mass was greater than the girl’s mass.  
+ 
+The boy’s mass was lower than the girl’s mass.  
+ 
+The boy’s mass was the same as the girl’s mass.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 28 ===
+28 
+ 
+*28* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+1 0 
+ 
+ Figure 11 shows a student launching a toy aeroplane.   
+ 
+To launch the aeroplane, the student pulls on it to stretch the spring and then  
+releases it. 
+ 
+Figure 11 
+ 
+ 
+ 
+ 
+1 0 
+ 
+. 1 
+ 
+Just before the toy aeroplane is released, the spring has an extension of 0.12 m. 
+ 
+mass of aeroplane = 0.020 kg 
+ 
+spring constant of the spring = 50 N/m 
+ 
+ 
+Calculate the maximum speed of the toy aeroplane just after it is launched. 
+ 
+Use the Physics Equations Sheet. 
+ 
+Give the unit. 
+ [6 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Speed = 
+ 
+ Unit  
+  
+
+
+=== PDF page 29 ===
+29 
+ 
+*29* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+8 
+ 
+ 
+1 0 
+ 
+. 2 
+ 
+Complete the sentence. 
+ [1 mark] 
+  
+As the aeroplane moves upwards through the air there is a decrease  
+  
+in the    energy of the aeroplane.  
+ 
+ 
+ 
+ 
+1 0 
+ 
+. 3 
+ 
+Give one factor which would increase the distance the toy aeroplane travels 
+horizontally before hitting the ground. 
+ [1 mark] 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+=== PDF page 30 ===
+30 
+ 
+*30* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+1 1 
+ 
+ Figure 12 shows some hair straighteners. 
+ 
+Hair straighteners contain heating elements.  
+   
+Figure 12 
+ 
+ 
+ 
+ 
+   
+1 1 
+ 
+. 1 
+ 
+When the hair straighteners reach normal operating temperature, an LED turns on. 
+ 
+Draw the circuit symbol for an LED in the box. 
+ [1 mark] 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+
+=== PDF page 31 ===
+31
+*31*
+Turn over ►
+IB/H/Jun22/8463/1H
+Do not write 
+outside the 
+boxFigure 13 shows the circuit diagram for the hair straighteners. 
+Each resistor represents a heating element.
+The power output of the hair straighteners can be changed by closing different 
+switches.
+Figure 13
+1 1 . 2 Why do the hair straighteners not turn on when only switch S2 is closed?
+[1 mark]
+Question 11 continues on the next page
+
+
+=== PDF page 32 ===
+32 
+ 
+*32* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+1 1 
+ 
+. 3 
+ 
+The hair straighteners have a maximum power output of 120 W. 
+ 
+The energy transferred to the hair straighteners to reach normal operating 
+temperature is 3.6 kJ. 
+ 
+ 
+Calculate the time taken for the hair straighteners to reach normal operating 
+temperature when operating at maximum power. 
+ 
+Use the Physics Equations Sheet. 
+[4 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+Time = 
+  
+seconds 
+ 
+ 
+ 
+  
+ 
+
+=== PDF page 33 ===
+33
+*33*
+IB/H/Jun22/8463/1H
+Do not write 
+outside the 
+box
+9
+1 1 . 4 Figure 14 shows the hair straighteners circuit with switch S1 closed.
+Figure 14
+Switch S2 and switch S3 are then closed at the same time.
+Explain what happens to the power output of the power supply.
+[3 marks]
+END  OF  QUESTIONS
+
+
+=== PDF page 34 ===
+34 
+ 
+*34* 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+
+=== PDF page 35 ===
+35 
+ 
+*35* 
+ 
+ 
+ 
+IB/H/Jun22/8463/1H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 36 ===
+36
+*36*
+IB/H/Jun22/8463/1H
+Do not write 
+outside the 
+boxQuestion 
+number
+Additional page, if required.
+Write the question numbers in the left-hand margin.
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet. This booklet 
+is published after each live examination series and is available for free download from www.aqa.org.uk.
+Permission to reproduce all copyright material has been applied for. In some cases, efforts to contact copyright -holders may have 
+been unsuccessful and AQA will be happy to rectify any omissions of acknowledgements. If you have any queries please contact the 
+Copyright Team.
+Copyright © 2022 AQA and its licensors. All rights reserved.
+*226g8463/1H*

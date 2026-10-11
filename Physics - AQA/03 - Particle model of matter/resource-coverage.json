@@ -1,0 +1,18 @@
+{
+  "reviewed": "2026-10-11",
+  "specification": "AQA 8463 Higher, section 4.3, version 1.1 September 2019",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "4.3.1.1–4.3.1.2",
+    "4.3.2.1–4.3.2.3",
+    "4.3.3.1–4.3.3.3"
+  ],
+  "practicals": [
+    5
+  ],
+  "mindmaps": [
+    "00-particle-model-overview",
+    "01-states-and-density",
+    "02-heating-and-gas-pressure"
+  ]
+}

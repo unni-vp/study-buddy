@@ -1,0 +1,56 @@
+{
+  "source": "Energy - Revision Notes.md",
+  "groups": [
+    {
+      "id": "stores",
+      "title": "Stores and calculations",
+      "description": "Track transfers and calculate energy, power and efficiency.",
+      "icon": "physics-energy",
+      "sections": [
+        {
+          "heading": "Stores and transfers"
+        },
+        {
+          "heading": "Calculating changes in stores"
+        },
+        {
+          "heading": "Conservation, dissipation and efficiency"
+        },
+        {
+          "heading": "Power and work"
+        }
+      ]
+    },
+    {
+      "id": "heat",
+      "title": "Heating and practicals",
+      "description": "Explain warming, insulation and reliable measurements.",
+      "icon": "physics-heat",
+      "sections": [
+        {
+          "heading": "Heating and specific heat capacity"
+        },
+        {
+          "heading": "Practical: measure specific heat capacity"
+        },
+        {
+          "heading": "Insulation and cooling"
+        },
+        {
+          "heading": "Practical: compare thermal insulators"
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Energy resources",
+      "description": "Compare supply, reliability and environmental impacts.",
+      "icon": "physics-energy",
+      "sections": [
+        {
+          "heading": "Energy resources and decisions"
+        }
+      ]
+    }
+  ]
+}

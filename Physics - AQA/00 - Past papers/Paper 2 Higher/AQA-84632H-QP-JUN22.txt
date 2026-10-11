@@ -1,0 +1,1817 @@
+=== PDF page 1 ===
+*JUN2284632HR01* 
+IB/H/Jun22/E15 8463/2HR 
+ 
+For Examiner’s Use 
+Question Mark 
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+TOTAL  
+ 
+ 
+ 
+ 
+ 
+Time allowed: 1 hour 45 minutes 
+ 
+Materials 
+For this paper you must have: 
+• a ruler 
+• a scientific calculator 
+• a protractor 
+• the Physics Equations Sheet (enclosed). 
+ 
+Instructions 
+• Use black ink or black ball-point pen.  Pencil should only be used for drawing. 
+• Fill in the boxes at the top of this page. 
+• Answer all questions in the spaces provided.   
+• Do not write outside the box around each page or on blank pages. 
+• Do all rough work in this book.  Cross through any work you do not want to  
+be marked. 
+• If you need extra space for your answer(s), use the lined pages at the end of  
+this book.  Write the question number against your answer(s). 
+• In all calculations, show clearly how you work out your answer. 
+ 
+Information 
+• The maximum mark for this paper is 100. 
+• The marks for questions are shown in brackets. 
+• You are expected to use a calculator where appropriate. 
+• You are reminded of the need for good English and clear presentation in  
+your answers.    
+Please write clearly in block capitals. 
+Centre number 
+     
+Candidate number 
+     
+ 
+Surname 
+ 
+Forename(s) 
+  
+Candidate signature 
+ 
+ 
+I declare this is my own work. 
+GCSE 
+PHYSICS 
+Higher Tier  Paper 2   
+H 
+
+=== PDF page 2 ===
+2 
+ 
+*02* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+Answer all questions in the spaces provided. 
+ 
+ 
+0 1 
+ 
+ Figure 1 shows an electric super-car. 
+ 
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 1 
+ 
+The battery in an electric car needs to be recharged. 
+ 
+Suggest two factors that affect the distance an electric car can travel before the 
+battery needs to be recharged. 
+ [2 marks] 
+  
+1  
+  
+2  
+ 
+  
+
+=== PDF page 3 ===
+3 
+ 
+*03* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Use the Physics Equations Sheet to answer questions 01.2 and 01.3. 
+   
+   
+0 1 
+ 
+. 2 
+ 
+Write down the equation which links acceleration (a), change in velocity (Δv) and time 
+taken (t). 
+[1 mark] 
+   
+ 
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 3 
+ 
+The maximum acceleration of the car is 20 m/s2. 
+ 
+Calculate the time taken for the speed of the car to change from 0 m/s to 28 m/s at its 
+maximum acceleration. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+                              Time taken =    s 
+ 
+ 
+ 
+ 
+Question 1 continues on the next page 
+  
+
+=== PDF page 4 ===
+4 
+ 
+*04* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+. 4 
+ 
+In a trial run, the car accelerates at 10 m/s2 until it reaches its final velocity. 
+ 
+distance travelled by the car = 605 m 
+ 
+initial velocity of the car = 0 m/s 
+ 
+ 
+Calculate the final velocity of the car. 
+ 
+Use the Physics Equations Sheet. 
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+Final velocity =    
+ 
+m/s 
+ 
+  
+
+=== PDF page 5 ===
+5 
+ 
+*05* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+13 
+ 
+ 
+  Use the Physics Equations Sheet to answer questions 01.5 and 01.6. 
+   
+   
+0 1 
+ 
+. 5 
+ 
+Write down the equation which links distance (s), force (F) and work done (W). 
+ [1 mark] 
+   
+ 
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 6 
+ 
+When travelling at its maximum speed the air resistance acting on the car is 4000 N. 
+ 
+Calculate the work done against air resistance when the car travels a distance of  
+7.5 km at its maximum speed. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ Work done =  J 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+=== PDF page 6 ===
+6 
+ 
+*06* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+ A student used a ray box to shine a ray of light through air into a glass block. 
+ 
+The student investigated how the angle of refraction varied with the angle of 
+incidence. 
+ 
+Table 1 shows the results.  
+ 
+Table 1 
+ 
+Angle of incidence in degrees Angle of refraction in degrees 
+10 5 
+20 10 
+30 14 
+40 19 
+50 23 
+60 26 
+70 28 
+80 29 
+ 
+ 
+ 
+0 2 
+ 
+. 1 
+ 
+Describe a method the student could have used to obtain the results in Table 1. 
+ 
+Your answer may include a labelled diagram.  
+[6 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+=== PDF page 7 ===
+7 
+ 
+*07* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 2 
+ 
+Figure 2 is an incomplete graph of the results. 
+ 
+Figure 2 
+ 
+  
+ 
+ 
+ 
+ 
+   
+Complete Figure 2 using data from Table 1. 
+ 
+• Label the axes.  
+• Plot the remaining data. 
+• Draw a line of best fit. 
+[4 marks] 
+ 
+Question 2 continues on the next page 
+  
+
+
+=== PDF page 8 ===
+8 
+ 
+*08* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+. 3 
+ 
+Complete the ray diagram in Figure 3 to show the reflection of light from the surface 
+of a plane mirror. 
+ 
+You should: 
+• draw the normal line 
+• draw the reflected ray. 
+[2 marks] 
+ 
+Figure 3 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PDF page 9 ===
+9 
+ 
+*09* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+16 
+ 
+ 
+0 2 
+ 
+. 4 
+ 
+Two students investigated the reflection of light by a plane mirror. 
+ 
+Figure 4 shows the different equipment the students used. 
+ 
+Figure 4 
+ 
+ 
+ 
+ 
+ 
+  Explain two ways that Method A is better than Method B. 
+[4 marks] 
+  
+1  
+  
+ 
+  
+ 
+  
+ 
+  
+2  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+
+=== PDF page 10 ===
+10 
+ 
+*10* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+ Speed limits on roads increase safety. 
+ 
+ 
+ 
+0 3 
+ 
+. 1 
+ 
+The braking distance of a car increases as the speed of the car increases. 
+ 
+Give two other factors that increase the braking distance of a car. 
+ [2 marks] 
+  
+1  
+  
+2  
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 2 
+ 
+Explain why the driver’s reaction time affects the thinking distance of a car. 
+ [2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 11 ===
+11 
+ 
+*11* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+. 3 
+ 
+Scientists have investigated how drinking alcohol affects a person’s reaction time. 
+ 
+Figure 5 shows the results of the investigation. 
+ 
+Figure 5 
+ 
+ 
+ 
+ 
+  Which of the following conclusions can be made using Figure 5? 
+[2 marks] 
+Tick () two boxes. 
+ 
+  
+Every person’s reaction time increases after drinking alcohol.  
+ 
+Mean reaction time increases after drinking alcohol.  
+ 
+Some people’s reaction time is not affected by drinking alcohol.  
+ 
+The change in reaction time is not the same for all people after 
+drinking alcohol. 
+ 
+ 
+There is a smaller range of reaction times after drinking alcohol.  
+ 
+ 
+ 
+ 
+Question 3 continues on the next page  
+
+
+=== PDF page 12 ===
+12 
+ 
+*12* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 6 shows some speed cameras on a road. 
+ 
+The speed cameras determine the average speed of cars on the road. 
+ 
+Figure 6 
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 4 
+ 
+The speed limit on the road in Figure 6 is 20 m/s. 
+ 
+The cameras in Figure 6 are 1.5 km apart.  
+ 
+ 
+Calculate the minimum time it takes to travel 1.5 km without breaking the speed limit. 
+ 
+Use the Physics Equations Sheet. 
+ [4 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+       Minimum time = 
+ 
+s 
+ 
+ 
+ 
+  
+
+
+=== PDF page 13 ===
+13 
+ 
+*13* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+13 
+ 
+ 
+0 3 
+ 
+. 5 
+ 
+The average speed of a car between the cameras and the average velocity of the car 
+between the cameras are different. 
+ 
+Explain why. 
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question  
+
+=== PDF page 14 ===
+14 
+ 
+*14* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED   
+
+=== PDF page 15 ===
+15 
+ 
+*15* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+ Hailstones are small balls of ice.  Hailstones form in clouds and fall to the ground. 
+ 
+Figure 7 shows different-sized hailstones. 
+ 
+Figure 7 
+ 
+ 
+ 
+ 
+  A hailstone falls from a cloud and accelerates. 
+ 
+ 
+0 4 
+ 
+. 1 
+ 
+Why does the hailstone accelerate? 
+ [1 mark] 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 2 
+ 
+The hailstone stops accelerating and reaches terminal velocity. 
+ 
+Explain why the hailstone reaches terminal velocity. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+
+=== PDF page 16 ===
+16 
+ 
+*16* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+  A scientist investigated how the mass of hailstones affects their terminal velocity. 
+ 
+Figure 8 shows the results. 
+ 
+Figure 8 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 3 
+ 
+Why does terminal velocity increase with mass? 
+[1 mark] 
+Tick () one box. 
+  
+  
+As mass increases the cross-sectional surface area of a hailstone 
+increases. 
+ 
+ 
+As mass increases the volume of a hailstone increases.  
+ 
+As mass increases the weight of a hailstone increases.  
+ 
+ 
+ 
+  
+
+
+=== PDF page 17 ===
+17 
+ 
+*17* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 4 
+ 
+Explain the difference in the maximum kinetic energy of a hailstone with a mass of  
+10 g and a hailstone with a mass of 20 g. 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 5 
+ 
+The kinetic energy of a hailstone is measured in joules. 
+ 
+Which of the following is the same as 1 joule? 
+[1 mark] 
+Tick () one box. 
+  
+  
+1 N m  
+ 
+1 N/m  
+ 
+1 N/m2  
+ 
+1 N m2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 4 continues on the next page 
+ 
+ 
+  
+
+=== PDF page 18 ===
+18 
+ 
+*18* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+12 
+ 
+ 
+  Figure 8 is repeated below. 
+ 
+Figure 8 
+ 
+ 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 6 
+ 
+A hailstone hit the ground at its terminal velocity of 25 m/s. 
+ 
+The hailstone took 0.060 s to stop moving. 
+ 
+ 
+Determine the average force on the hailstone as it hit the ground. 
+ 
+Use information from Figure 8. 
+ 
+Use the Physics Equations Sheet. 
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+     Average force = 
+ 
+N 
+ 
+ 
+
+
+=== PDF page 19 ===
+19 
+ 
+*19* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED   
+
+=== PDF page 20 ===
+20 
+ 
+*20* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 5 
+ 
+ Figure 9 shows a balance used to measure the mass of five tomatoes. 
+ 
+Figure 9 
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 1 
+ 
+What is meant by ‘centre of mass’?  
+ [1 mark] 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 2 
+ 
+Calculate the mean weight of a tomato in Figure 9. 
+ 
+Use the Physics Equations Sheet. 
+ 
+gravitational field strength = 9.8 N/kg 
+ [3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+     Weight = 
+ 
+N 
+ 
+ 
+  
+
+
+=== PDF page 21 ===
+21 
+ 
+*21* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+9 
+ 
+ 
+0 5 
+ 
+. 3 
+ 
+The balance in Figure 9 contains a spring that compresses when the tomatoes are 
+placed on the balance. 
+ 
+Figure 10 shows the spring with no force acting and with a 6.0 N force acting. 
+ 
+Figure 10 
+ 
+ 
+ 
+ 
+  Determine the spring constant of the spring. 
+ 
+Use the Physics Equations Sheet. 
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+       Spring constant = 
+ 
+N/m 
+ 
+ 
+ 
+ 
+0 5 
+ 
+. 4 
+ 
+Explain one property of the spring that makes it suitable for use in the balance. 
+ [2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+
+=== PDF page 22 ===
+22 
+ 
+*22* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 6 
+ 
+ Galaxies contain billions of stars. 
+ 
+ 
+0 6 
+ 
+. 1 
+ 
+Compare the formation and life cycles of stars with a similar mass to the Sun to stars 
+with a much greater mass than the Sun. 
+ [6 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 23 ===
+23 
+ 
+*23* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+11 
+ 
+ 
+  The points on Figure 11 represent galaxies that are moving away from the Milky Way. 
+ 
+Figure 11 
+ 
+ 
+  Each arrow represents the velocity of the galaxy relative to the Milky Way. 
+ 
+0 6 
+ 
+. 2 
+ 
+Light from all galaxies represented in Figure 11 is red-shifted.  
+ 
+Describe what is meant by red-shift. 
+ [2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+0 6 
+ 
+. 3 
+ 
+Explain how Figure 11 provides evidence for the Big Bang theory. 
+          [2 marks]  
+   
+   
+   
+   
+ 
+0 6 
+ 
+. 4 
+ 
+Sometimes scientists have to change theories about the universe. 
+ 
+Give the reason why. 
+          [1 mark]  
+   
+   
+  
+
+
+=== PDF page 24 ===
+24 
+ 
+*24* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+ The National Grid uses transformers to change potential difference (pd). 
+ 
+Figure 12 shows a transformer. 
+ 
+Figure 12 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 1 
+ 
+Identify the parts of the transformer labelled in Figure 12. 
+ [2 marks] 
+  
+A   
+  
+B   
+  
+C   
+ 
+ 
+ 
+0 7 
+ 
+. 2 
+ 
+There is an alternating input pd of 230 V. 
+ 
+Determine the output pd. 
+ 
+Use the Physics Equations Sheet. 
+ [3 marks] 
+   
+   
+   
+   
+   
+  
+Output pd = 
+  
+V 
+ 
+  
+
+
+=== PDF page 25 ===
+25 
+ 
+*25* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+. 3 
+ 
+The input pd causes an alternating current. 
+ 
+Explain why there is an alternating current in the output when the transformer is 
+connected to a circuit. 
+          [3 marks]  
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 7 continues on the next page 
+  
+
+=== PDF page 26 ===
+26 
+ 
+*26* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 13 shows a large cable supported by two wooden poles.  The cable is 
+connected to an electricity supply. 
+ 
+Figure 13 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 4 
+ 
+There is a force on the cable due to the Earth’s magnetic field when the current is in 
+the direction A to B. 
+ 
+What is the direction of this force? 
+[1 mark] 
+Tick () one box. 
+  
+ 
+  
+Down  
+ 
+Left  
+ 
+Right  
+ 
+Up  
+ 
+ 
+ 
+  
+
+
+=== PDF page 27 ===
+27 
+ 
+*27* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+14 
+ 
+ 
+0 7 
+ 
+. 5 
+ 
+The cable experiences a force of 0.045 N due to the Earth’s magnetic field. 
+ 
+magnetic flux density = 60 µT  
+ 
+current = 50 A  
+ 
+ 
+Calculate the length of the cable between A and B. 
+ 
+Use the Physics Equations Sheet. 
+  [4 marks]  
+   
+   
+   
+   
+   
+   
+   
+   
+  
+Length = 
+  
+m 
+ 
+ 
+ 
+ 
+ 
+0 7 
+ 
+. 6 
+ 
+State one assumption you made in your calculation. 
+          [1 mark]  
+   
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+
+=== PDF page 28 ===
+28 
+ 
+*28* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+ Diving bricks sink to the bottom of a swimming pool. 
+ 
+Figure 14 shows a diving brick. 
+ 
+Figure 14 
+ 
+ 
+ 
+ 
+  Swimmers practise diving to the bottom of the swimming pool to pick up the  
+diving brick. 
+ 
+ 
+0 8 
+ 
+. 1 
+ 
+Explain why the forces on the brick at the bottom of the pool cause the brick to be 
+stationary.   
+[3 marks]  
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+  
+
+=== PDF page 29 ===
+29 
+ 
+*29* 
+ 
+Turn over ► 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+. 2 
+ 
+When the brick from Figure 14 is at the bottom of the pool, the top surface of the brick 
+is 2.50 m below the surface of the water. 
+ 
+The force acting on the top surface of the brick due to the weight of the water is  
+637 N. 
+ 
+gravitational field strength = 9.8 N/kg 
+ 
+ 
+Calculate the density of the water in the swimming pool. 
+ 
+Use the Physics Equations Sheet. 
+  [6 marks]  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+Density of water = 
+  
+kg/m3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 8 continues on the next page 
+  
+
+=== PDF page 30 ===
+30 
+ 
+*30* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+. 3 
+ 
+Professional divers are trained in a very deep swimming pool. 
+ 
+The density of the water in this pool is not the same as the density of the water in 
+Question 08.2 
+ 
+The diving brick was dropped into the very deep swimming pool. 
+ 
+When the brick was at a depth of 2.50 m, the force due to the weight of the water on 
+the top surface of the brick was 618 N. 
+ 
+ 
+Figure 15 shows the diving brick at the bottom of the very deep swimming pool. 
+ 
+Figure 15 
+ 
+ 
+ 
+ 
+
+
+=== PDF page 31 ===
+31 
+ 
+*31* 
+ 
+ 
+ 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+12 
+ 
+ 
+  Determine the force due to the weight of the water on the top surface of the brick  
+in Figure 15. 
+ 
+Use the Physics Equations Sheet. 
+ 
+Give your answer to 3 significant figures. 
+[3 marks] 
+   
+   
+   
+   
+   
+  
+Force (3 significant figures) = 
+ 
+ N 
+ 
+ 
+ 
+ 
+ 
+ 
+END  OF  QUESTIONS 
+ 
+
+=== PDF page 32 ===
+32 
+ 
+*32* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+
+=== PDF page 33 ===
+33 
+ 
+*33* 
+ 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 34 ===
+34 
+ 
+*34* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 35 ===
+35 
+ 
+*35* 
+ 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+
+
+=== PDF page 36 ===
+36 
+ 
+*36* 
+IB/H/Jun22/8463/2HR 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Copyright information 
+ 
+For confidentiality purposes, all acknowledgements of third -party copyright material are published in a separate booklet.  This booklet 
+is published after each live examination series and is available for free download from www.aqa.org.uk.  
+ 
+Permission to reproduce all copyright material has been applied for.  In some cases, efforts to contact copyright -holders may have 
+been unsuccessful and AQA will be happy to rectify any omissions of acknowledgements.  If you have any queries please contact  the 
+Copyright Team.  
+ 
+Copyright © 2022 AQA and its licensors.  All rights reserved.  
+ 
+ 
+*226G8463/2HR* 
