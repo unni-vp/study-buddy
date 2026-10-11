@@ -130,7 +130,9 @@ for subject,course in subjects.items():
    else:sections.append(f'<button class="resource-button" disabled title="Not yet prepared">{resource_icon(kind)}<span>{esc(label)}</span></button>')
   write(page,title,f'<p class="eyebrow">{esc(short(subject))} · {esc(course["tier"])}</p><h1>{esc(title)}</h1><div class="resource-actions">'+''.join(sections)+'</div>',[(short(subject),subjectpage)],subject)
   ready+=bool(count)
-  rows.append(f'<a class="topic-row topic-card" href="{link(subjectpage,page)}"><span class="topic-number">{i:02d}</span><strong>{esc(title)}</strong><div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><span aria-hidden="true">→</span></div></a>')
+  topic_href=link(subjectpage,page)
+  progress_key=slug(subject+f'-{i:02d}-'+title)
+  rows.append(f'<article class="topic-row topic-card"><span class="topic-number">{i:02d}</span><a class="topic-card-title" href="{topic_href}"><strong>{esc(title)}</strong></a><div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><label class="topic-completion"><input type="checkbox" data-topic-progress="{esc(progress_key)}" aria-label="Mark {esc(title)} as revised"><span>Revised</span></label><a class="topic-card-arrow" href="{topic_href}" aria-label="Open {esc(title)}">→</a></div></article>')
  total_ready+=ready
  specs=sorted((ROOT/subject/'00 - Specification').glob('*.pdf'))
  docs='<details class="sources"><summary>Official specifications & course references</summary><ul>'+''.join(f'<li><a href="{link(subjectpage,f)}">{esc(f.stem)}</a></li>' for f in specs)
@@ -141,7 +143,8 @@ for subject,course in subjects.items():
  docs+='</ul></details>'
  extra=''
  if subject=='English Literature - Eduqas':extra='<p class="course-detail">Macbeth · A Christmas Carol · An Inspector Calls · 2027 poetry anthology</p>'
- write(subjectpage,short(subject),f'<p class="eyebrow">{esc(subject.split(" - ")[-1])} · {esc(course["code"])} · {esc(course["tier"])}</p><h1>{esc(short(subject))}</h1>{extra}<div class="topic-list">'+''.join(rows)+'</div>'+docs,subject=subject)
+ progress_script=f'<script defer src="{link(subjectpage,SITE/"topic-progress.js")}"></script>'
+ write(subjectpage,short(subject),f'<p class="eyebrow">{esc(subject.split(" - ")[-1])} · {esc(course["code"])} · {esc(course["tier"])}</p><h1>{esc(short(subject))}</h1>{extra}<div class="topic-list">'+''.join(rows)+'</div>'+docs+progress_script,subject=subject)
 
 home=ROOT/'index.html';cards=[]
 colours=['#5264c8','#277d74','#936343','#497fb1','#8b579d','#d08c30','#378767','#b36377','#51888c']
