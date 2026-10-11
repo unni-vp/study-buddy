@@ -4,7 +4,9 @@ from html import escape
 CSS = '''.mindmap-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0}.mindmap-card{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;padding:12px;background:white;border:1px solid #ccdcd6;border-radius:10px;text-decoration:none;text-align:center;color:#234c46}.mindmap-card:hover{background:#edf5f1;border-color:#28675d}.mindmap-card:focus-visible{outline:3px solid #cd9034;outline-offset:4px}.mindmap-card img{display:block;width:150px;max-width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;border:1px solid #e0e7e3;border-radius:6px;background:#fffdf8}.mindmap-card strong{font-size:16px;line-height:1.35}.mindmap-card .map-arrow{display:none}.mindmap-view{margin:20px 0;background:white;border:1px solid #dce3e8;padding:12px;border-radius:12px}.mindmap-view img{display:block;width:100%;height:auto}.mindmap-view figcaption{font-size:18px;margin:10px 0}.mindmap-grid+footer{margin-top:20px}@media(max-width:1199px){.mindmap-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:899px){.mindmap-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:720px){.mindmap-grid{gap:10px}.mindmap-card{padding:10px}.mindmap-card img{width:132px}.mindmap-card strong{font-size:15px}.mindmap-view{padding:4px}}'''
 
 def icon(slug):
-    if slug.startswith('physics-'):
+    if slug=='language-speech':
+        body='<path d="M22 20h136v78H77l-36 27V98H22Z" fill="#e7f0fb" stroke="#276cad" stroke-width="4"/><path d="M44 43h92M44 62h70M44 81h48" stroke="#25826c" stroke-width="4"/>'
+    elif slug.startswith('physics-'):
         if 'heat' in slug:
             body='<path d="M75 85V25a15 15 0 0 1 30 0v60a28 28 0 1 1-30 0Z" fill="#fbe6d3" stroke="#bf7030" stroke-width="4"/><path d="M90 35v70" stroke="#bf7030" stroke-width="9"/><path d="M116 40h18m-18 20h12" stroke="#bf7030" stroke-width="3"/>'
         elif 'circuit' in slug:

@@ -13,7 +13,9 @@ def render_md(text):
  while i<len(lines):
   line=lines[i]
   if not line.strip():i+=1;continue
-  if line.startswith('#'):
+  if line.strip()=='---':
+   out.append('<hr>');i+=1
+  elif line.startswith('#'):
    n=len(line)-len(line.lstrip('#')); out.append(f'<h{n}>{inline(line[n:].strip())}</h{n}>');i+=1
   elif line.startswith('>'):
    quote=[]

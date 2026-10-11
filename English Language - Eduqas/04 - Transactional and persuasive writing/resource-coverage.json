@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-11",
+  "specification": "Eduqas C700QS, Component 2 Section B, AO5 and AO6",
+  "coverage": [
+    "purpose, audience, form, tone and register",
+    "selection and development of ideas",
+    "whole-text organisation, coherence and cohesion",
+    "article openings, paragraphs, endings and annotated model",
+    "persuasion, concession and counterargument",
+    "letters, speeches/talks, reviews, reports, guides/leaflets",
+    "vocabulary, sentence range, spelling, punctuation, tense and agreement",
+    "planning both tasks, editing and proofreading"
+  ],
+  "assessment": {
+    "tasks": 2,
+    "marks_each": 20,
+    "AO5": 12,
+    "AO6": 8
+  },
+  "sources": [
+    "../00 - Specification/Eduqas-C700QS-specification.pdf",
+    "../00 - Past papers/Component 2/Eduqas-C700U20-1-QP-JUN23.pdf",
+    "../00 - Past papers/Component 2/Eduqas-C700U20-1-MS-JUN23.pdf",
+    "../00 - Past papers/Component 2/Eduqas-C700U20-1-QP-JUN24.pdf",
+    "../00 - Past papers/Component 2/Eduqas-C700U20-1-MS-JUN24.pdf"
+  ],
+  "notes": "Original examples; paragraph routes and editing methods are teaching suggestions, not compulsory mark-scheme templates. Short skill questions are original practice allocations; full writing tasks use the actual 20-mark format.",
+  "mindmaps": [
+    "00-writing-overview",
+    "01-planning-and-development",
+    "02-articles-and-persuasion",
+    "03-forms-and-audiences",
+    "04-style-and-editing"
+  ]
+}

@@ -132,3 +132,13 @@ These checks apply to future resources and revisions of existing resources.
 
 - A4 mind-map readability: use A4 landscape with 10 mm margins and a fixed 277 mm printed map width. Keep body text at least 11 pt and diagram labels at least 10 pt at that physical size. Do not enlarge the SVG viewBox, reduce font size, or apply a fit-to-page transform to manufacture padding. Adjust section widths, heights, positions and related groups; wrap using measured font widths and leave clear inner padding and heading/body gaps. Use concise wording without dropping assessable concepts. The combined Cell biology overview may use shorter one-page summaries (approved by the user); detailed maps and unchanged full text alternatives preserve the detail. Do not silently split over pages.
 - Validate every map using scripts/check_landscape_mindmaps.cjs and inspect its image. Run scripts/check_mindmap_print.cjs then scripts/check_mindmap_print.py to verify both reader and modal produce exactly one A4 landscape page, matching content, minimum physical font sizes, and no clipping. Inspect the rendered A4 proofs. Keep scientific diagram labels readable and explicit when rearranging artwork. Rebuild the HTML site and check desktop/mobile fullscreen navigation before pushing when authorised.
+
+
+## English Language writing resources
+
+- Teach how to make writing decisions: decode purpose/audience/form, select and develop ideas, give paragraphs distinct jobs, organise the whole piece, maintain register and edit for meaning and accuracy.
+- Put particular emphasis on article writing through complete original examples, paragraph-level commentary and weak-to-improved examples. Include other task forms without turning the notes into a rhetorical-device checklist.
+- Match Eduqas Component 2 Section B: two compulsory 20-mark tasks, each split 12 for communication/organisation and 8 for vocabulary/sentences/spelling/punctuation. Check current paper instructions before giving word-count or timing advice.
+- Present paragraph routes as flexible teaching tools, not compulsory examiner formulas. Do not claim every technique or bullet earns a mark. Keep short skill-practice mark allocations distinct from the actual exam format in sources and metadata.
+- Use credible examples and clearly framed hypothetical situations. Do not teach students to fabricate survey results or expert quotations as established facts.
+- Keep full writing models within the intended task length and explain why their content, organisation, tone and sentence choices work. Preserve natural paragraphs within expandable answers.

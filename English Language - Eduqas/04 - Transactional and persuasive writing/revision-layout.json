@@ -1,0 +1,70 @@
+{
+  "source": "Transactional and persuasive writing - Revision Notes.md",
+  "groups": [
+    {
+      "id": "plan",
+      "title": "Plan and develop ideas",
+      "description": "Understand the task and build ideas with substance.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Writing with a clear purpose"
+        },
+        {
+          "heading": "Decode the task before you write"
+        },
+        {
+          "heading": "Find ideas you can develop"
+        },
+        {
+          "heading": "Turn your ideas into a plan"
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "title": "Build an effective article",
+      "description": "Paragraph development, openings, endings and an annotated full example.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Develop a paragraph rather than list points"
+        },
+        {
+          "heading": "Open and close an article effectively"
+        },
+        {
+          "heading": "A complete article, with the choices explained"
+        }
+      ]
+    },
+    {
+      "id": "persuade",
+      "title": "Persuade and adapt your form",
+      "description": "Choose techniques, respond to objections and adapt to different forms.",
+      "icon": "language-speech",
+      "sections": [
+        {
+          "heading": "Persuasion that grows from the idea"
+        },
+        {
+          "heading": "Change the form without losing the purpose"
+        }
+      ]
+    },
+    {
+      "id": "edit",
+      "title": "Style, accuracy and editing",
+      "description": "Control sentences, choose precise words and improve a draft.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Control sentences and vocabulary"
+        },
+        {
+          "heading": "Edit for meaning, then accuracy"
+        }
+      ]
+    }
+  ]
+}

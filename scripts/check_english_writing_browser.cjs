@@ -1,0 +1,14 @@
+const {chromium}=require('C:/Users/archa/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {pathToFileURL}=require('url');const path=require('path');
+(async()=>{const b=await chromium.launch({channel:'msedge',headless:true});try{
+ const p=await b.newPage({viewport:{width:1440,height:1000}});const url=pathToFileURL(path.resolve('English Language - Eduqas/04 - Transactional and persuasive writing/index.html')).href;
+ await p.goto(url);await p.getByRole('link',{name:'Revision notes',exact:true}).click();await p.screenshot({path:'tmp/english-writing-menu.png'});
+ await p.getByRole('link').filter({hasText:'Build an effective article'}).click();await p.getByRole('heading',{name:'A complete article, with the choices explained',exact:true}).scrollIntoViewIfNeeded();await p.screenshot({path:'tmp/english-writing-article.png'});
+ await p.setViewportSize({width:390,height:844});await p.screenshot({path:'tmp/english-writing-article-mobile.png'});
+ for(const width of [1440,390]){await p.setViewportSize({width,height:900});await p.goto(url);const trigger=p.getByRole('link',{name:'Mind maps',exact:true});await trigger.click();const d=p.locator('#mindmap-dialog');if(await d.locator('.mindmap-card').count()!==5)throw Error('Map count');
+ const bounds=await d.boundingBox();if(bounds.x||bounds.y||bounds.width!==width||bounds.height!==900)throw Error('Fullscreen');
+ for(let i=0;i<5;i++){await d.locator('.mindmap-card').nth(i).click();const im=p.locator('#mindmap-full-image');await im.evaluate(i=>i.decode());if(!await im.evaluate(i=>{const a=i.getBoundingClientRect(),c=i.closest('.mindmap-canvas').getBoundingClientRect();return a.width>0&&a.left>=c.left-1&&a.right<=c.right+1&&a.bottom<=c.bottom+1}))throw Error('Fit');const old=(await im.boundingBox()).width;await d.getByRole('button',{name:'Zoom in',exact:true}).click();if((await im.boundingBox()).width<=old)throw Error('Zoom');await d.getByRole('button',{name:'← All maps',exact:true}).click();}
+ await p.keyboard.press('Escape');if(await d.evaluate(n=>n.open)||!await trigger.evaluate(n=>n===document.activeElement))throw Error('Focus');console.log('PASS English writing maps desktop/mobile',width);}
+ await p.setViewportSize({width:1440,height:1000});await p.goto(url);await p.getByRole('link',{name:'Questions & answers',exact:true}).click();const answers=p.locator('details.qa-answer');await answers.nth(20).locator('summary').click();await answers.nth(20).scrollIntoViewIfNeeded();await p.screenshot({path:'tmp/english-writing-model-answer.png'});
+ const count=await answers.nth(20).locator('p').count();if(count<6)throw Error('Model paragraph breaks lost');console.log('PASS model answer preserves',count,'paragraphs');
+}finally{await b.close()}})().catch(e=>{console.error(e);process.exit(1)});
