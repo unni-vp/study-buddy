@@ -27,27 +27,29 @@ UK extremes include strong winds, heatwaves, cold spells, drought and intense ra
 
 The Somerset Levels are the flood case study used in this course.
 
-### Causes
+### Physical setting
 
-- Prolonged and heavy rainfall saturated the ground and increased river discharge.
-- The low-lying, flat landscape drains slowly.
-- High water levels, limited channel capacity and tidal conditions can make drainage harder.
-- Farming, settlements and drainage systems affect how quickly water reaches channels and where it is stored.
+The Somerset Levels are low-lying and very flat, so water moves away slowly. Rivers, drained farmland and settlements occupy a landscape where a small rise in water level can affect a wide area. Tidal conditions can also make it harder for river water to leave the system.
+
+### Causes of flooding
+
+Prolonged and heavy rainfall saturated the ground, so infiltration fell and more water reached rivers. Discharge increased until channels and drainage systems could not carry the flow. High river or tidal water levels slowed drainage further. Farming, settlements and artificial drainage influenced how quickly water moved and where it was stored.
 
 ### Effects
 
-- Homes, farms and roads can be flooded or cut off.
-- Livestock, crops and local businesses may be affected.
-- Travel, services and daily life are disrupted.
-- Floodwater can damage habitats or carry pollutants, but flooding may also deposit sediment.
+Flooding affected homes, farms, businesses and transport routes. Roads could become impassable, leaving communities difficult to reach and disrupting work, education and services. Agricultural land, crops and livestock were vulnerable, while businesses faced damage or loss of trade.
+
+Floodwater could carry pollutants and disturb habitats, although natural flooding can also deposit sediment. The effects lasted beyond the period of deepest water because buildings, soils, roads and services needed time to recover.
 
 ### Management
 
-- **Short term:** warnings, evacuation, rescue, temporary barriers and pumps.
-- **Long term:** maintaining or dredging selected channels, improving drainage, raising roads or defences, and storing water on floodplains or wetlands.
-- Effective management combines methods because moving water away faster can transfer risk downstream.
+**Immediate response:** Warnings, evacuation, rescue, temporary barriers and pumping reduce danger and help communities during an event. These measures manage the emergency but do not remove the underlying flood risk.
 
-**Exam judgement:** A response is successful if it reduces risk over time without creating unacceptable cost or environmental damage elsewhere.
+**Long-term response:** Maintaining or dredging selected channels may help water move through particular sections. Raised roads or defences can protect key locations, while floodplain and wetland storage gives excess water space. A combined strategy is needed because sending water away faster can transfer risk downstream.
+
+### Exam pointer
+
+Structure the case study as **low-lying setting + prolonged rainfall + rising discharge + social, economic and environmental effects + short- and long-term management**. Judge success by whether risk falls over time without unacceptable cost or damage elsewhere.
 
 ## Food, water and energy
 
@@ -96,22 +98,41 @@ Demand also changes with population, industry, transport, household technology a
 
 Hinkley Point C is used to consider a large national energy project.
 
-- It is intended to provide a large, dependable supply of nuclear electricity.
-- Nuclear generation has low operational carbon emissions and can support energy security.
-- Construction creates jobs and contracts and requires major transport and infrastructure planning.
-- Disadvantages include very high cost, long construction, local disruption and the need to manage radioactive waste safely.
-- Its sustainability depends on weighing long-term dependable output against financial, environmental and waste-management costs.
+#### Purpose and scale
+
+The project is intended to provide a large, dependable supply of nuclear electricity. Unlike weather-dependent renewable sources, nuclear output can be planned, so it can contribute to national energy security and support demand when wind or solar generation is low.
+
+#### Benefits
+
+Nuclear generation has low operational carbon emissions. Construction and operation create employment, training and contracts for other firms. A large output from one site can support the electricity system for a long period once the station is operating.
+
+#### Costs and concerns
+
+The project has a very high financial cost and a long construction period. Building work can cause local traffic, noise, landscape and habitat pressures. Radioactive waste must be stored and managed safely over a much longer timescale than the electricity is generated.
+
+#### Exam pointer
+
+Separate **national benefits** from **local impacts**. A balanced judgement can argue that dependable low-carbon output supports sustainability, but cost, construction disruption and long-term waste prevent it from being a simple solution.
 
 ### Dryholme Farm, Silloth, Cumbria
 
 Dryholme Farm is used to consider **anaerobic digestion**.
 
-1. Organic material is placed in a sealed tank without oxygen.
-2. Microorganisms break it down and produce **biogas**, containing methane.
-3. The gas can generate heat and electricity.
-4. The remaining **digestate** can be used as fertiliser when managed safely.
+#### How the system works
 
-Benefits can include using organic material, generating controllable renewable energy and reducing reliance on fossil fuels. Limitations include construction cost, transport of feedstock, odour or traffic concerns and the need to prevent methane leakage.
+Organic material is placed in a sealed tank without oxygen. Microorganisms break it down and produce methane-rich **biogas**. The gas can generate heat and electricity, while the remaining **digestate** can be used as fertiliser when it is managed safely.
+
+#### Local benefits
+
+The system turns organic material into a useful energy source and produces electricity when required, unlike intermittent wind or solar power. Using digestate can recycle nutrients, and generating energy on or near the farm may provide income and reduce some reliance on fossil fuels.
+
+#### Limitations
+
+The plant requires investment and skilled management. Bringing feedstock to the site may create traffic and transport emissions. Odour can concern nearby residents, while methane leakage would weaken the climate benefit because methane is a powerful greenhouse gas.
+
+#### Exam pointer
+
+Explain the full chain **organic material → anaerobic breakdown → biogas → useful energy + digestate**. Evaluate it as a local scheme: it can reuse material and provide controllable renewable energy, but its scale, feedstock transport and management still matter.
 
 ## Evaluating a strategy
 

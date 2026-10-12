@@ -36,13 +36,25 @@ One indicator never tells the whole story. Use several:
 
 Salford Quays is used to study the effects of economic decline and later growth.
 
-- The old docks declined as shipping and industry changed, causing job losses and derelict land.
-- Regeneration reused former industrial land for housing, offices, culture, leisure and media-related employment.
-- New buildings, public spaces and transport links improved the image and accessibility of the area.
-- Benefits include jobs, investment, services and environmental improvement.
-- Challenges can include expensive housing, unequal access to new jobs and the risk that nearby residents do not receive all the benefits.
+### Reasons for decline
 
-**High-yield judgement:** Regeneration can improve a place overall while still creating **uneven benefits** between groups and neighbourhoods.
+The docks lost importance as shipping technology and the location of industry changed. Fewer goods passed through the area, so dock and linked industrial employment declined. Job losses were followed by unused buildings, derelict land and a poorer image, making further investment less likely.
+
+### Regeneration strategy
+
+Former industrial land was reused for housing, offices, culture, leisure and media-related employment. New public spaces, buildings and transport connections improved accessibility and changed how residents, businesses and visitors viewed the area. The strategy aimed to replace a single declining industrial function with a more varied economy.
+
+### Economic and environmental effects
+
+Regeneration attracted businesses, visitors and investment and created jobs in new sectors. Reusing brownfield land improved the appearance of the waterfront and reduced pressure to build entirely on undeveloped land. Better infrastructure also connected the Quays more closely to the surrounding urban area.
+
+### Social effects and inequality
+
+New homes, leisure spaces and employment can improve quality of life, but the benefits are not automatically shared. Housing may be expensive, and some new jobs may require skills that existing residents do not have. Physical improvement can therefore occur faster than reductions in deprivation.
+
+### Exam pointer
+
+Use the sequence **dock decline → unemployment and dereliction → regeneration investment → mixed results**. Finish with the judgement that Salford Quays shows strong physical and economic renewal, while social success depends on affordable housing and accessible jobs.
 
 ## Population change
 
@@ -102,29 +114,31 @@ These movements affect housing demand, traffic, land values, services and the ch
 
 Leeds is the major UK city used in this course.
 
-- It is an important regional centre for employment, shopping, education, culture and transport.
-- Its businesses and services connect it to national and international networks.
-- Migration has helped the city grow and has influenced its diverse communities, food, culture and workforce.
-- Different neighbourhoods have contrasting housing, income, age structure and access to services.
+Leeds is an important regional centre for employment, shopping, education, culture and transport. Its concentration of higher-order services attracts workers, students and visitors from a wide area. Businesses, universities and transport connections also link the city to national and international networks.
+
+### Migration and city character
+
+Migration from within the UK and from other countries has helped the city grow. It has added skills, businesses, languages, food and cultural traditions. The effects vary between neighbourhoods because housing, income, age structure and access to services are uneven across the city.
 
 ### Urban challenges
 
-- **Housing:** demand, affordability and differences in quality.
-- **Transport:** congestion, air pollution and unequal accessibility.
-- **Waste:** collection, recycling and disposal for a large population.
-- **Inequality:** regeneration and growth do not benefit every resident equally.
+**Housing:** Population change and smaller households increase demand. Building new homes and improving older housing can help, but affordability and the quality of neighbourhoods remain uneven.
+
+**Transport:** Commuting and movement across a large urban area can create congestion and air pollution. People without convenient public transport may also have poorer access to employment and services.
+
+**Waste:** A large population and busy economy generate substantial waste. Collection, recycling and disposal must keep pace without increasing pollution or using excessive land.
+
+**Inequality:** Investment and regeneration may improve selected places while other communities continue to experience lower incomes, poorer environments or weaker access to opportunities.
 
 ### Sustainable urban living
 
-A sustainable strategy should meet present needs without reducing future opportunities. It can combine:
+A sustainable strategy should connect rather than isolate solutions. Reliable public transport and safe walking or cycling routes can reduce car use. Brownfield redevelopment and energy-efficient homes can provide housing while limiting outward growth. Recycling, reduced waste and accessible green space improve environmental quality.
 
-- reliable public transport and walking/cycling routes;
-- brownfield redevelopment and energy-efficient homes;
-- recycling and reduced waste;
-- accessible green space;
-- services and jobs that local communities can reach.
+Sustainability also has a social side. Housing, services and jobs need to be affordable and reachable for existing communities. A scheme that looks greener but excludes lower-income residents has not solved the whole problem.
 
-Judge success using evidence about **people, the economy and the environment**, not appearance alone.
+### Exam pointer
+
+For Leeds, organise the answer as **importance → migration and character → challenge → sustainable response**. Evaluate success using social, economic and environmental evidence rather than describing how a project looks.
 
 ## High-yield checklist
 

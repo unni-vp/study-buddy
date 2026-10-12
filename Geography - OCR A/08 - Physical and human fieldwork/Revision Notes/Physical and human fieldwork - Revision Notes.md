@@ -22,6 +22,10 @@ Fieldwork is a chain. If one link is weak, the conclusion becomes less convincin
 
 The investigation compared environmental quality, pedestrian flow and land use at several sites.
 
+### Geographical idea
+
+Different parts of a city centre have different functions, investment and numbers of users. Main shopping areas may receive more maintenance because they attract businesses and visitors, while quieter streets may have different land uses and levels of investment. The enquiry tested whether this expected spatial variation could be observed in Liverpool.
+
 ### Methods
 
 | Data | How it was collected | What it helped show |
@@ -34,10 +38,11 @@ The sample was **systematic** because data was collected at regular points along
 
 ### Findings and conclusion
 
-- Main shopping and central areas had the highest environmental-quality scores.
-- They also had the highest pedestrian counts and greatest concentration of retail and services.
-- Quieter streets away from the busiest central area had lower scores and fewer pedestrians.
-- The enquiry therefore concluded that environmental quality **was not the same everywhere**. The busiest central areas were usually best maintained and most attractive.
+**Environmental quality:** Main shopping and central areas had the highest environmental-quality scores. According to the observations, these places were usually better maintained and more attractive than the quieter streets sampled away from the busiest centre.
+
+**Pedestrian flow and land use:** The same central areas had the highest pedestrian counts and the greatest concentration of retail and services. Quieter streets generally had fewer pedestrians and lower quality scores.
+
+**Overall conclusion:** Environmental quality **was not the same everywhere**. The evidence showed a spatial association between central retail land use, high pedestrian flow and better environmental quality across the sampled sites.
 
 Do not say high pedestrian flow definitely **caused** higher environmental quality. The results show an **association**.
 
@@ -51,6 +56,10 @@ The school account does not contain numerical results, site details or the inves
 - Photograph sites and keep field sketches to support observations.
 - Combine subjective quality scores with objective data such as litter counts where practical.
 
+### Liverpool exam pointer
+
+Organise the answer as **enquiry → systematic sites → three methods → overall pattern → cautious conclusion → one precise improvement**. Use “the results suggest” when explaining the relationship because the investigation does not prove that pedestrian flow or retail land use caused the quality scores.
+
 ## Physical fieldwork: River Alyn
 
 ### Enquiry
@@ -58,6 +67,10 @@ The school account does not contain numerical results, site details or the inves
 **How do river characteristics change downstream along the River Alyn?**
 
 The investigation examined width, depth, velocity, bedload and channel or valley shape at sites from upstream to downstream.
+
+### Geographical idea
+
+River theory predicts that tributaries and runoff add water downstream, increasing discharge. Channels usually become wider, deeper and more efficient, while transported bedload is broken down and rounded. The enquiry tested how closely the River Alyn followed these expected downstream changes.
 
 ### Methods
 
@@ -74,11 +87,11 @@ The account describes **systematic sampling** at a series of upstream-to-downstr
 
 ### Findings and explanation
 
-- Channel width and depth generally increased downstream.
-- Velocity tended to increase as the channel became larger and more efficient.
-- Bedload became smaller and rounder downstream.
-- **Attrition** helps make transported stones smaller and rounder as they collide.
-- Greater discharge and a more efficient channel can reduce the relative effect of friction downstream.
+**Channel size:** Width and depth generally increased downstream. This fits the expectation that tributaries and runoff add water, so a larger channel is needed to carry the growing discharge.
+
+**Velocity:** Velocity tended to increase as the channel became larger and more efficient. In a larger channel, a smaller proportion of the water is in direct contact with the bed and banks, so the relative effect of friction may fall.
+
+**Bedload:** Stones became smaller and rounder downstream. During **attrition**, transported stones collide and chip one another. Continued transport also increases the time available for these changes.
 
 The broad pattern matched river theory, although local conditions could make individual sites different. No specific anomaly or numerical result has been supplied.
 
@@ -92,6 +105,10 @@ Use improvements that match a real weakness:
 - For a float method, use a measured reach, repeat releases and apply the same release procedure.
 - Use a larger, systematically chosen bedload sample.
 - Record recent weather, obstacles and human changes that may explain local variation.
+
+### River Alyn exam pointer
+
+Use a separate result-and-explanation chain for **width/depth**, **velocity** and **bedload**. Say “generally” or “tended to” because the supplied account allows for local variation. Do not add a numerical result, named anomaly, site spacing or exact velocity method unless it is provided in the question.
 
 ## Comparing the enquiries
 

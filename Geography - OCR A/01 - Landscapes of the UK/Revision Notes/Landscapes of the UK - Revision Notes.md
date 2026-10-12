@@ -78,13 +78,25 @@ Upstream, a river usually has a steep gradient, a narrow channel and more vertic
 
 The River Wye is the UK river-basin landscape used in this course.
 
-- Its upper reaches are in the wetter, steeper Welsh uplands, so relief and rainfall encourage erosion and rapid runoff.
-- Further downstream, the valley and channel become wider. Meanders and floodplain features become more important.
-- Geology affects valley shape because rocks differ in resistance and permeability.
-- Farming, settlements, roads and recreation alter vegetation, runoff and the appearance of the valley.
-- Flood management can include warnings, flood defences and working with natural processes. Each choice changes risk, cost and the landscape in different ways.
+### Setting and landscape
 
-**Exam link:** When explaining the Wye, connect a named feature to a **process**, then show how **geology, climate or people** helped shape it.
+The river begins in the wetter, steeper Welsh uplands and flows towards lower, gentler land. This change in relief helps explain why erosion is more important in the upper reaches while wider valleys, meanders and floodplain features become more noticeable downstream.
+
+### Physical processes
+
+Heavy rainfall can saturate the ground and increase surface runoff, raising river discharge. In steep upper areas, fast, turbulent water has enough energy for vertical erosion. Further downstream, tributaries add water and lateral erosion, transport and deposition help reshape the wider channel and valley floor.
+
+### Influence of geology
+
+Rock type affects both resistance and permeability. Resistant rock erodes slowly and can support steeper valley sides. Permeable rock allows more infiltration, while impermeable surfaces encourage runoff. Geology therefore influences valley shape, river flow and the speed at which landforms change.
+
+### Human influence and management
+
+Farming, settlements, roads and recreation change vegetation, drainage and the appearance of the valley. Built surfaces and compacted soil can increase runoff. Flood warnings and defences may protect vulnerable communities, while working with natural processes can store water or slow its movement. Every option has different costs and may move risk elsewhere.
+
+### Exam pointer
+
+Name the **River Wye**, identify the part of the river you are discussing, and build a chain such as **rainfall increases discharge → erosion gains energy → the channel or valley changes**. Add geology or human activity to show that the landscape results from several connected factors.
 
 ## Coastal landscapes
 
@@ -112,13 +124,25 @@ The River Wye is the UK river-basin landscape used in this course.
 
 The North Norfolk coast is the UK coastal landscape used in this course.
 
-- Much of the coastline contains soft, easily eroded material, so cliffs can retreat quickly during energetic waves and storms.
-- Eroded sediment is transported by longshore drift and helps build beaches and depositional features further along the coast.
-- Beaches and spits show that erosion, transport and deposition are connected within a **sediment system**.
-- Sea walls and groynes can protect selected places, but groynes may reduce sediment reaching areas further along the coast.
-- Managed realignment can create space for water and coastal habitats, but it may require land to be surrendered.
+### Setting and vulnerability
 
-**Must know:** Coastal management can transfer effects. Protecting one place may change erosion or deposition elsewhere.
+The North Norfolk coast contains areas of soft, easily eroded material and low-lying land. Energetic waves and storms can therefore cause cliff retreat, beach change and flooding. Its vulnerability comes from the combination of geology, wave energy and exposure to extreme weather.
+
+### Erosion, transport and deposition
+
+Wave erosion releases sediment from the coast. Longshore drift transports it along the shoreline, and deposition occurs where wave energy falls. This connects eroding cliffs with beaches, spits and sheltered depositional environments elsewhere on the coast.
+
+### Why sediment supply matters
+
+A beach acts as a natural buffer because it absorbs wave energy before it reaches the land behind. If less sediment arrives, the beach may become narrower and offer less protection. North Norfolk should therefore be understood as a linked **sediment system**, rather than a series of isolated places.
+
+### Management choices
+
+Sea walls can resist wave attack at selected settlements, while groynes trap sediment and build a wider beach. However, trapping sediment may reduce the supply further along the coast. Managed realignment gives water more space and can create coastal habitat, but it may require farmland or other land uses to move or be surrendered.
+
+### Exam pointer
+
+Use a clear chain: **soft material is eroded → longshore drift transports sediment → deposition builds a beach or spit**. When evaluating management, explain who or what is protected, the cost or environmental effect, and whether the method changes risk elsewhere.
 
 ## High-yield checklist
 
