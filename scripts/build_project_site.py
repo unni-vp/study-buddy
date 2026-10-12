@@ -9,6 +9,7 @@ from mindmap_viewer import viewer_markup
 MAP_CATALOGS={}
 from revision_navigation import build_revision_pages
 from qa_navigation import build_qa_pages
+from flashcard_navigation import build_flashcard_page
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'library'
@@ -17,7 +18,7 @@ READERS.mkdir(parents=True,exist_ok=True)
 config=json.loads((ROOT/'project-config.json').read_text(encoding='utf-8'))
 SITE_TITLE=config['site_title']
 subjects=config['subjects']
-KINDS=[('Revision Notes','Revision notes'),('Mind Maps','Mind maps'),('Questions and Answers','Questions & answers')]
+KINDS=[('Revision Notes','Revision notes'),('Mind Maps','Mind maps'),('Flash Cards','Flash cards'),('Questions and Answers','Questions & answers')]
 ICONS={
  'Computer Science':'<rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4M9 8l-3 3 3 3m6-6 3 3-3 3"/>',
  'English Language':'<path d="m15 3 6 6L8 22H2v-6ZM12 6l6 6M3 17l4 4"/>',
@@ -35,6 +36,7 @@ def resource_icon(kind):
  paths={
   'Revision Notes':'<rect x="5" y="3" width="15" height="18" rx="2"/><path d="M9 7h7M9 11h7M9 15h5M3 7h4M3 12h4M3 17h4"/>',
   'Mind Maps':'<circle cx="12" cy="12" r="3"/><path d="M10 10 6 6m8 4 4-4m-8 8-4 4m8-4 4 4"/><circle cx="4" cy="4" r="2"/><circle cx="20" cy="4" r="2"/><circle cx="4" cy="20" r="2"/><circle cx="20" cy="20" r="2"/>',
+  'Flash Cards':'<rect x="4" y="5" width="14" height="16" rx="2"/><path d="M8 9h6M8 13h4M8 17h5M8 2h12v16"/>',
   'Questions and Answers':'<path d="M16 11h3a2 2 0 0 1 2 2v5l-3-1h-6a2 2 0 0 1-2-2v-2M5 13l-3 2V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5M7 6a2 2 0 0 1 4 0c0 1-2 1-2 2M9 10h.01"/>'
  }
  return '<svg class="resource-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">'+paths[kind]+'</svg>'
@@ -80,6 +82,9 @@ def resource_reader(source,subject,topic,topicpage):
  return target,title
 
 def resources(folder,subject,topic,topicpage,kind):
+ if kind=='Flash Cards':
+  decks=sorted(folder.glob('*.json'))
+  return [build_flashcard_page(deck,READERS/(slug(subject+'-'+topic)+'-flash-cards.html'),subject,topic,topicpage,write,link) for deck in decks]
  if kind=='Mind Maps':
   images=sorted(folder.glob('*.png'))
   if images:
@@ -117,6 +122,7 @@ for subject,course in subjects.items():
   title=topic['title']; folder=ROOT/subject/f'{i:02d} - {title}'; page=folder/'index.html'
   sections=[]; count=0
   for kind,label in KINDS:
+   if kind=='Flash Cards' and not (folder/kind).exists():continue
    (folder/kind).mkdir(exist_ok=True)
    items=resources(folder/kind,subject,title,page,kind);count+=len(items)
    if items:

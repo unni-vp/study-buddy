@@ -36,5 +36,21 @@
     ],
     "reviewed": "2026-10-05",
     "print": "A4 landscape; body >=11 pt, labels >=10 pt; all reader/modal proofs and fullscreen desktop/mobile checked"
+  },
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Revision Notes/Infection and response - Revision Notes.md",
+    "deck": "Flash Cards/Infection and response - Flash Cards.json",
+    "count": 47,
+    "categories": [
+      "Pathogens and transmission",
+      "Human infections",
+      "Body defences",
+      "Vaccination",
+      "Medicines and resistance",
+      "Drug development",
+      "Monoclonal antibodies",
+      "Plant disease"
+    ]
   }
 }

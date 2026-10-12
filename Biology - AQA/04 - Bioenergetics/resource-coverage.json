@@ -31,5 +31,19 @@
     ],
     "reviewed": "2026-10-05",
     "print": "A4 landscape; body >=11 pt, labels >=10 pt; all reader/modal proofs and fullscreen desktop/mobile checked"
+  },
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Revision Notes/Bioenergetics - Revision Notes.md",
+    "deck": "Flash Cards/Bioenergetics - Flash Cards.json",
+    "count": 48,
+    "categories": [
+      "Photosynthesis",
+      "Limiting factors",
+      "Photosynthesis practical",
+      "Respiration",
+      "Exercise",
+      "Metabolism"
+    ]
   }
 }

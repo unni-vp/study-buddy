@@ -120,3 +120,11 @@ Applied to all seven mind maps: larger side/bottom insets, clear heading-to-body
 - Repositioned and relabelled selected scientific diagrams at readable physical sizes, retaining chromosome copy/separation identity, explicit simplified chromosome counts, particle/membrane keys, gas-exchange destinations, correct cube proportions and inhibition-zone maths. Diagrams explain nearby content without reserving a decorative icon in every panel.
 - Added print styles for both full-screen modal and direct reader. Printing hides the underlying page so a map is not printed twice. Each of fourteen print routes (seven maps, two views) yields one A4 landscape page; reader and modal text match exactly.
 - Verification: browser geometry, transformed font sizes, section padding, title clearance and connectors; actual PDF font measurements and clipping; image/print-proof visual review; full desktop/mobile viewer checks; all 114 local HTML pages and 73 topic folders. Saved physical-size rules in AGENTS.md and RESOURCE_GUIDELINES.md so future maps cannot regain padding by reducing printed text size.
+
+## Flash-card deck — 12 October 2026
+
+- Added 54 retrieval cards covering cell structures, specialised cells, microscopy, culturing microorganisms, cell division and stem cells, transport, exchange surfaces and the osmosis practical.
+- Card answers use the reviewed revision notes as their source and introduce no additional mandatory content. Definitions, practical controls, equations and chromosome-copy wording match the notes reviewed against AQA 8461 section 4.1.
+- Added question/answer reveal on the card itself, previous/next controls, shuffle/reset controls, keyboard operation and a printable question-and-answer layout. Other topics do not display an empty Flash cards button.
+- Removed the study-group selector, separate reveal button and retrieval-practice label after visual review. The card now uses a centred, card-sized desktop width rather than filling the content area.
+- Browser verification passed for answer conceal/reveal, navigation, desktop and 390 px mobile widths. The full site link check passed across 331 HTML pages.

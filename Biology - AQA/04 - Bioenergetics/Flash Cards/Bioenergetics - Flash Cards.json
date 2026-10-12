@@ -1,0 +1,58 @@
+{
+  "title": "Bioenergetics flash cards",
+  "cards": [
+    {"category":"Photosynthesis","front":"What is the word equation for photosynthesis?","back":["**Carbon dioxide + water → glucose + oxygen**.","Light transfers the energy needed for the reaction."]},
+    {"category":"Photosynthesis","front":"What is the balanced symbol equation for photosynthesis?","back":["**6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂**."]},
+    {"category":"Photosynthesis","front":"Where does photosynthesis happen, and what absorbs the light?","back":["Photosynthesis happens in chloroplasts.","**Chlorophyll** absorbs light energy."]},
+    {"category":"Photosynthesis","front":"Why is photosynthesis described as endothermic?","back":["Energy is transferred from the environment to the chloroplasts by light."]},
+    {"category":"Photosynthesis","front":"How do carbon dioxide and water reach a leaf's photosynthesising cells?","back":["Carbon dioxide enters through **stomata** and diffuses through leaf air spaces.","Water is absorbed by roots and transported to leaves in the **xylem**."]},
+    {"category":"Photosynthesis","front":"How is glucose used for respiration and storage?","back":["Glucose is used in respiration to transfer energy.","It is converted into insoluble **starch** for storage and into fats or oils, especially in seeds."]},
+    {"category":"Photosynthesis","front":"How is glucose used to build plant structures?","back":["It is converted into **cellulose** for cell walls.","With nitrate-derived nitrogen, it helps make amino acids and then proteins."]},
+    {"category":"Photosynthesis","front":"When do plants photosynthesise and respire?","back":["Plants photosynthesise only when enough light is available.","They respire continuously, during both day and night."]},
+
+    {"category":"Limiting factors","front":"What is a limiting factor?","back":["The factor currently preventing the rate of a process from increasing further.","Improving a non-limiting factor will not increase the rate."]},
+    {"category":"Limiting factors","front":"Which four factors can limit photosynthesis?","back":["Light intensity, carbon dioxide concentration, temperature and the amount of chlorophyll."]},
+    {"category":"Limiting factors","front":"How does light intensity affect photosynthesis rate?","back":["Increasing light raises the rate while light is limiting.","The rate eventually plateaus when another factor becomes limiting."]},
+    {"category":"Limiting factors","front":"How does carbon dioxide concentration affect photosynthesis rate?","back":["More carbon dioxide provides more reactant, increasing rate while carbon dioxide is limiting.","The rate plateaus when another factor limits it."]},
+    {"category":"Limiting factors","front":"How does temperature affect photosynthesis rate?","back":["Warming towards the optimum increases enzyme activity.","Above the optimum, enzymes can denature, so the rate falls."]},
+    {"category":"Limiting factors","front":"How can chlorophyll amount limit photosynthesis?","back":["Less chlorophyll means less light is absorbed.","Disease or magnesium deficiency can reduce chlorophyll amount."]},
+    {"category":"Limiting factors","front":"What does a rising section and a plateau show on a rate-versus-light graph?","back":["A rising section shows that extra light increases rate, so light is limiting.","A plateau shows that more light alone will not help; another factor is limiting."]},
+    {"category":"Limiting factors","front":"Why can you not identify a limiting factor from a flat line alone?","back":["A plateau only shows that the x-axis factor is no longer limiting.","You need the conditions or a comparison curve to identify which other factor limits the rate."]},
+    {"category":"Limiting factors","front":"How are light intensity and distance from a point-like lamp related?","back":["**Light intensity ∝ 1 ÷ distance²**.","Doubling distance gives one-quarter intensity; halving distance gives four times the intensity."]},
+    {"category":"Limiting factors","front":"Why may photosynthesis rate not change in the same proportion as lamp intensity?","back":["Another factor such as carbon dioxide concentration or temperature may become limiting."]},
+    {"category":"Limiting factors","front":"How should a grower decide whether to add light, heat or carbon dioxide?","back":["Improve the current limiting factor first.","Compare the extra crop income with the cost of the treatment.","The highest photosynthesis rate does not always give the highest profit."]},
+
+    {"category":"Photosynthesis practical","front":"What is the independent variable in the pondweed photosynthesis practical?","back":["Light intensity, often changed by altering the measured distance between the lamp and pondweed."]},
+    {"category":"Photosynthesis practical","front":"How can photosynthesis rate be measured in the pondweed practical?","back":["Measure the **volume of oxygen collected in a fixed time**.","Counting bubbles per minute is possible but less accurate because bubble size varies."]},
+    {"category":"Photosynthesis practical","front":"What is the photosynthesis rate equation?","back":["**Rate = volume of oxygen ÷ time**.","If bubbles are counted, rate = number of bubbles ÷ time."]},
+    {"category":"Photosynthesis practical","front":"Why is sodium hydrogencarbonate solution used with pondweed?","back":["It provides a controlled source of carbon dioxide for photosynthesis."]},
+    {"category":"Photosynthesis practical","front":"Which variables should be controlled in the pondweed practical?","back":["Temperature, carbon dioxide concentration and volume, the pondweed and its orientation, measurement time and background lighting."]},
+    {"category":"Photosynthesis practical","front":"Why must temperature be controlled when moving a lamp?","back":["A lamp can heat the water as well as change light intensity.","If temperature changes, it becomes a second independent variable and the cause of any rate change is unclear."]},
+    {"category":"Photosynthesis practical","front":"How can reliability be improved in the pondweed practical?","back":["Allow the plant to acclimatise, repeat each distance and calculate a mean.","Investigate unusual results instead of automatically discarding them.","Use enough collection time to measure a useful gas volume and check for leaks."]},
+    {"category":"Photosynthesis practical","front":"What should be plotted for the pondweed practical?","back":["Photosynthesis rate on the y-axis against light intensity or **1/distance²** on the x-axis.","Include units and draw a suitable best-fit line or curve."]},
+
+    {"category":"Respiration","front":"What is cellular respiration?","back":["A chemical process in living cells that transfers energy from glucose for life processes.","It is **exothermic** and happens continuously.","Breathing is ventilation, not respiration."]},
+    {"category":"Respiration","front":"What is the word equation for aerobic respiration?","back":["**Glucose + oxygen → carbon dioxide + water**."]},
+    {"category":"Respiration","front":"What is the balanced symbol equation for aerobic respiration?","back":["**C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O**."]},
+    {"category":"Respiration","front":"Where does aerobic respiration mainly occur, and how much energy does it transfer?","back":["Most aerobic respiration occurs in mitochondria.","It transfers much more energy per glucose molecule than anaerobic respiration."]},
+    {"category":"Respiration","front":"What is the word equation for anaerobic respiration in muscle cells?","back":["**Glucose → lactic acid**.","No oxygen is required, and much less energy is transferred than in aerobic respiration."]},
+    {"category":"Respiration","front":"What is the word equation for anaerobic respiration in yeast and plant cells?","back":["**Glucose → ethanol + carbon dioxide**.","This incomplete breakdown transfers less energy than aerobic respiration."]},
+    {"category":"Respiration","front":"What is fermentation, and how is it used?","back":["Fermentation is anaerobic respiration in yeast.","Carbon dioxide makes bread dough rise.","Ethanol is the useful product in alcoholic drink production."]},
+    {"category":"Respiration","front":"Why do very high and very low temperatures reduce fermentation rate?","back":["Low temperature slows enzyme-controlled reactions.","Excessive heat can denature yeast enzymes."]},
+
+    {"category":"Exercise","front":"Why do heart rate and breathing increase during exercise?","back":["Working muscles need more energy.","Higher heart rate delivers more oxygen and glucose; faster and deeper breathing brings in more oxygen and removes more carbon dioxide.","This supports a higher rate of aerobic respiration."]},
+    {"category":"Exercise","front":"Why does lactic acid build up during vigorous exercise?","back":["Oxygen supply cannot meet demand, so muscles use more anaerobic respiration.","Glucose is incompletely oxidised and lactic acid accumulates."]},
+    {"category":"Exercise","front":"How can lactic acid affect muscle performance?","back":["Its accumulation is associated with fatigue, so muscles contract less efficiently during prolonged vigorous activity."]},
+    {"category":"Exercise","front":"What is oxygen debt?","back":["The extra oxygen needed after exercise to deal with accumulated lactic acid.","Breathing and heart rate remain raised while this extra oxygen is supplied."]},
+    {"category":"Exercise","front":"What happens to lactic acid after exercise?","back":["Blood carries it from muscles to the **liver**.","The liver converts it back into glucose."]},
+    {"category":"Exercise","front":"How can an investigation compare pulse responses to different activities fairly?","back":["Use the same participants, activity duration and defined intensity, with full recovery between trials.","Randomise activity order, repeat measurements and compare mean changes from resting pulse.","Measure immediately because recovery begins quickly."]},
+    {"category":"Exercise","front":"How is a 15-second pulse count converted to beats per minute?","back":["Multiply the 15-second count by **4**."]},
+
+    {"category":"Metabolism","front":"What is metabolism?","back":["The sum of all chemical reactions in a cell or the body.","It includes both building larger molecules and breaking molecules down."]},
+    {"category":"Metabolism","front":"Into which storage and structural carbohydrates can glucose be converted?","back":["**Starch** for storage in plants.","**Glycogen** for storage in animals.","**Cellulose** for plant cell walls."]},
+    {"category":"Metabolism","front":"How are lipid molecules built?","back":["**Glycerol + three fatty acids → lipid**."]},
+    {"category":"Metabolism","front":"How do plants make amino acids and proteins?","back":["They combine glucose-derived material with nitrogen obtained from nitrate ions.","Amino acids are then joined to make proteins, including enzymes."]},
+    {"category":"Metabolism","front":"How is urea formed?","back":["Excess amino acids cannot be stored.","Their nitrogen-containing part is removed during breakdown, forming **urea**, which is excreted in urine."]},
+    {"category":"Metabolism","front":"How are digestion, respiration and metabolism related?","back":["Digestion supplies small soluble molecules that cells absorb and use.","Respiration is one energy-transferring reaction within metabolism.","Metabolism includes respiration plus many other building and breakdown reactions."]}
+  ]
+}

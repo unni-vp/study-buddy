@@ -44,5 +44,20 @@
       "03-plant-tissues-and-transport"
     ],
     "print": "A4 landscape; body >=11 pt; labels >=10 pt; reader/modal checked"
+  },
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Revision Notes/Organisation - Revision Notes.md",
+    "deck": "Flash Cards/Organisation - Flash Cards.json",
+    "count": 48,
+    "categories": [
+      "Organisation and digestion",
+      "Enzymes",
+      "Food tests and practical",
+      "Heart and circulation",
+      "Blood vessels and lungs",
+      "Heart disease and health",
+      "Plant tissues and transport"
+    ]
   }
 }
