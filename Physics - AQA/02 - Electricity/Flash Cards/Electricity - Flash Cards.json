@@ -1,0 +1,177 @@
+{
+  "title": "Electricity flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Define electric current.",
+      "back": [
+        "The rate of flow of electric charge."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the SI unit of resistance?",
+      "back": [
+        "Ohm (Ω)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which wire in a mains cable is brown?",
+      "back": [
+        "Live."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens to the resistance of an LDR as light intensity increases?",
+      "back": [
+        "It decreases."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between direct and alternating potential difference.",
+      "back": [
+        "Direct pd has **one polarity**.",
+        "Alternating pd **repeatedly reverses polarity**, causing current to reverse direction."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A current of 0.25 A flows for 80 s. Calculate the charge transferred.",
+      "back": [
+        "**Q = It** = 0.25 × 80 = **20 C**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A component has 9.0 V across it and carries 0.30 A. Calculate its resistance.",
+      "back": [
+        "**R = V/I** = 9.0/0.30 = **30 Ω**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Where should an ammeter and a voltmeter be connected to measure a lamp’s resistance?",
+      "back": [
+        "Ammeter **in series** with the lamp.",
+        "Voltmeter **in parallel across** the lamp."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the potential difference and frequency of the UK mains supply.",
+      "back": [
+        "About **230 V**, at **50 Hz**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Two parallel branches carry 0.40 A and 0.65 A from a 12 V supply. State the total current and the pd across each branch.",
+      "back": [
+        "Total current = 0.40 + 0.65 = **1.05 A**.",
+        "Each branch has **12 V** across it."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a rod becomes negative when rubbed with a cloth.",
+      "back": [
+        "**Electrons transfer onto the rod** from the cloth.",
+        "It has an excess of negative charge; protons do not transfer."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does a thermistor’s resistance change when heated, and give one application.",
+      "back": [
+        "Its resistance **decreases**.",
+        "It can be a temperature sensor in a **thermostat**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 5 Ω resistor and a 10 Ω resistor are in series across 6.0 V. Calculate the total resistance, the current and the pd across the 10 Ω resistor.",
+      "back": [
+        "Rtotal = 5 + 10 = **15 Ω**.",
+        "I = 6.0/15 = **0.40 A**.",
+        "V across 10 Ω = 0.40 × 10 = **4.0 V**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a filament lamp’s I–V graph becomes less steep at larger positive potential differences.",
+      "back": [
+        "Increasing current **heats the filament**.",
+        "Ions vibrate more, increasing opposition to electron flow, so **resistance increases**.",
+        "Current then increases less rapidly with pd; the graph flattens."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An appliance receives 230 V and carries 4.0 A for 60 s. Calculate the energy transferred.",
+      "back": [
+        "**P = VI** = 230 × 4.0 = **920 W**.",
+        "**E = Pt** = 920 × 60.",
+        "**55,200 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why does adding a resistor in parallel reduce total resistance when the supply pd is fixed?",
+      "back": [
+        "It provides an **additional path** for charge.",
+        "Total current from the supply **increases**.",
+        "With the same V, **R = V/I decreases**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why transmitting a fixed power at high potential difference reduces losses in National Grid cables.",
+      "back": [
+        "**P = VI** means higher V gives lower I for the same power.",
+        "Cable heating power is **I²R**.",
+        "Lower current therefore reduces unwanted heating and improves transmission efficiency."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an earth wire and fuse protect someone if a live wire touches a metal appliance case.",
+      "back": [
+        "The earth wire provides a low-resistance path from the case to earth.",
+        "A large **fault current** flows.",
+        "The fuse **melts and breaks the live circuit**, disconnecting the supply."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a spark can form between a charged object and a nearby conductor.",
+      "back": [
+        "The charge creates a **strong electric field** in the gap.",
+        "The field **ionises air**, allowing it to conduct.",
+        "Charge flows through the air as a spark, reducing the charge imbalance."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A cable has resistance 0.80 Ω and carries 50 A. Calculate its heating power and the heating power if current is halved. State the factor change.",
+      "back": [
+        "**P = I²R**.",
+        "Initial P = 50² × 0.80 = **2,000 W**.",
+        "New P = 25² × 0.80 = **500 W**.",
+        "Heating falls to **one quarter**, because current is squared."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A component gives these readings: 2.0 V at 0.40 A, and 6.0 V at 0.80 A. Calculate both resistances and explain whether it is ohmic across this range.",
+      "back": [
+        "First R = 2.0/0.40 = **5.0 Ω**.",
+        "Second R = 6.0/0.80 = **7.5 Ω**.",
+        "Resistance increases, so current is **not directly proportional** to pd.",
+        "It is **not ohmic** across this range; a heating filament is one possible explanation."
+      ]
+    }
+  ]
+}
