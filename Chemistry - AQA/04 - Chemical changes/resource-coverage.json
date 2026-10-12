@@ -30,5 +30,17 @@
     "02-acids-and-salts",
     "03-titration",
     "04-electrolysis"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Chemical changes - Questions and Answers.md",
+    "deck": "Flash Cards/Chemical changes - Flash Cards.json",
+    "count": 29,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }

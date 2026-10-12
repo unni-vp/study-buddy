@@ -1,0 +1,245 @@
+{
+  "title": "Chemical changes flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Which ion makes an aqueous solution acidic?",
+      "back": [
+        "H⁺."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give the formula of the ion responsible for alkalinity.",
+      "back": [
+        "OH⁻."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What type of salt is formed using nitric acid?",
+      "back": [
+        "Nitrate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "At which electrode does reduction take place during electrolysis?",
+      "back": [
+        "Cathode."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is meant by a weak acid?",
+      "back": [
+        "An acid that is only partially ionised in aqueous solution."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gas forms when magnesium reacts with dilute hydrochloric acid?",
+      "back": [
+        "Hydrogen."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why copper does not react with dilute hydrochloric acid.",
+      "back": [
+        "Copper is **less reactive than hydrogen**.",
+        "It cannot **displace hydrogen** from this dilute acid."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Write a balanced equation for magnesium reacting with hydrochloric acid.",
+      "back": [
+        "**Mg + 2HCl → MgCl₂ + H₂**. The two hydrogen atoms form one H₂ molecule."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Write the ionic equation for neutralisation, including state symbols.",
+      "back": [
+        "**H⁺(aq) + OH⁻(aq) → H₂O(l)**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Zinc is placed in copper sulfate solution. State two expected observations.",
+      "back": [
+        "A **brown copper deposit** forms.",
+        "The **blue colour fades** as copper ions leave the solution."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why carbon can extract copper from copper oxide but cannot extract aluminium from aluminium oxide.",
+      "back": [
+        "Carbon is **more reactive than copper**, so it can remove oxygen from copper oxide.",
+        "Aluminium is **more reactive than carbon**, so its oxide cannot be reduced by carbon in this way."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is excess copper oxide added when preparing copper sulfate from sulfuric acid?",
+      "back": [
+        "It ensures **all the acid reacts**.",
+        "Any unreacted insoluble oxide can then be **removed by filtration**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Name a suitable indicator for adding acid to sodium hydroxide in a titration, and state its endpoint colour change.",
+      "back": [
+        "Phenolphthalein.",
+        "**Pink to colourless**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does solid sodium chloride not undergo electrolysis, whereas molten sodium chloride does?",
+      "back": [
+        "In the solid, ions are **fixed in a lattice**.",
+        "When molten, ions are **free to move to electrodes and carry charge**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Write the half-equation for aluminium forming from aluminium ions. State whether this is oxidation or reduction.",
+      "back": [
+        "**Al³⁺ + 3e⁻ → Al**.",
+        "**Reduction**, because electrons are gained."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why aluminium oxide is mixed with cryolite for electrolysis.",
+      "back": [
+        "The mixture has a **lower melting/operating temperature** than pure aluminium oxide.",
+        "This reduces the **energy needed for heating**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does hydrogen ion concentration change when pH changes from 5 to 2?",
+      "back": [
+        "It **increases**.",
+        "By **10³ = 1,000 times**, because each decrease of one pH unit gives a tenfold increase."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Metal A displaces B from its salt. Metal C displaces A. B does not displace A or C. Deduce the reactivity order and explain what greater reactivity means in terms of ions.",
+      "back": [
+        "Order: **C > A > B**.",
+        "A metal displaces a **less reactive** metal from its compound.",
+        "More reactive metals have a greater tendency to **lose electrons and form positive ions**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Write the ionic equation for zinc displacing copper and identify which species is oxidised and which is reduced.",
+      "back": [
+        "**Zn + Cu²⁺ → Zn²⁺ + Cu**.",
+        "Zinc is **oxidised**, losing two electrons.",
+        "Copper ions are **reduced**, gaining two electrons."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Write a balanced equation for copper carbonate reacting with sulfuric acid, and name the gas test.",
+      "back": [
+        "**CuCO₃ + H₂SO₄ → CuSO₄ + H₂O + CO₂**.",
+        "Bubble the gas through **limewater**.",
+        "It becomes **cloudy**, identifying carbon dioxide."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why the carbon anodes must be replaced during aluminium extraction.",
+      "back": [
+        "**Oxygen forms at the positive electrode**.",
+        "It **reacts with the carbon**, forming carbon dioxide.",
+        "The carbon anodes are consumed and wear away."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Predict both products when molten lead bromide is electrolysed using inert electrodes. Write the anode half-equation.",
+      "back": [
+        "Lead forms at the **negative cathode**.",
+        "Bromine forms at the **positive anode**.",
+        "**2Br⁻ → Br₂ + 2e⁻**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Predict the products from aqueous sodium sulfate with inert electrodes and explain your choices.",
+      "back": [
+        "**Hydrogen at the cathode**: sodium is more reactive than hydrogen.",
+        "**Oxygen at the anode**: the solution contains no halide ions.",
+        "Water supplies hydrogen and hydroxide ions, which compete with the dissolved salt ions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why should a titration burette be rinsed with acid, but the conical flask may be rinsed with distilled water?",
+      "back": [
+        "Water left in the burette would **dilute the acid** and change its concentration.",
+        "Rinsing with acid avoids that dilution.",
+        "Water in the conical flask does **not change the moles of alkali**, so it does not change the reacting acid amount."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A student obtains titres 24.60 cm³ (rough), 24.20 cm³, 24.10 cm³ and 24.15 cm³. Using a concordance tolerance of 0.10 cm³, calculate the mean titre and explain the selection.",
+      "back": [
+        "Exclude the **rough trial**.",
+        "The three accurate titres are within 0.10 cm³ of each other.",
+        "Mean = (24.20 + 24.10 + 24.15)/3 = **24.15 cm³**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare a dilute strong acid and a concentrated weak acid. Explain why strength alone is insufficient to decide which sample has the lower pH.",
+      "back": [
+        "Strong means **fully ionised**; weak means **partly ionised** in water.",
+        "Dilute means little acid per volume; concentrated means much acid per volume.",
+        "pH depends on the resulting **H⁺ concentration**, which depends on both properties.",
+        "Without concentrations and ionisation information, strength alone cannot determine the lower pH."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Copper chloride solution is electrolysed in the apparatus below using inert electrodes. Name the products and write both electrode half-equations.",
+      "back": [
+        "Cathode product: **copper**.",
+        "**Cu²⁺ + 2e⁻ → Cu**.",
+        "Anode product: **chlorine**.",
+        "**2Cl⁻ → Cl₂ + 2e⁻**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare the products of molten and aqueous sodium chloride electrolysis, using inert electrodes. Explain the difference at the cathode.",
+      "back": [
+        "Molten: **sodium at cathode, chlorine at anode**.",
+        "Aqueous: **hydrogen at cathode, chlorine at anode**.",
+        "The aqueous solution also contains ions from **water**.",
+        "Sodium is more reactive than hydrogen, so hydrogen is produced instead of sodium in the aqueous solution."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Write the anode half-equation for oxygen production from hydroxide ions. Show that charge and atoms balance.",
+      "back": [
+        "**4OH⁻ → O₂ + 2H₂O + 4e⁻**.",
+        "Both sides contain **four oxygen atoms and four hydrogen atoms**.",
+        "Left total charge is −4; right total charge is also −4 from the four electrons.",
+        "Electrons are lost, so this is **oxidation**."
+      ]
+    }
+  ]
+}
