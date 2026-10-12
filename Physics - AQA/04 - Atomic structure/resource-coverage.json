@@ -14,5 +14,17 @@
     "01-atoms-and-nuclear-equations",
     "02-radiation-and-half-life",
     "03-radiation-uses-and-nuclear-energy"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Atomic structure - Questions and Answers.md",
+    "deck": "Flash Cards/Atomic structure - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }
