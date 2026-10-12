@@ -1,0 +1,163 @@
+{
+  "title": "Environmental threats to our planet",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is climate change?",
+      "back": [
+        "A long-term change in average climate conditions."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one source of evidence for past climate.",
+      "back": [
+        "Ice cores."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the greenhouse gas released in large quantities by burning fossil fuels.",
+      "back": [
+        "Carbon dioxide."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What sea temperature is normally needed for a tropical storm to form?",
+      "back": [
+        "About 27°C or above."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is agricultural drought?",
+      "back": [
+        "A shortage of soil moisture for crops and grazing."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the ocean-atmosphere event linked to Australia's 2002–03 drought.",
+      "back": [
+        "El Niño."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how ice cores provide climate evidence.",
+      "back": [
+        "Trapped air bubbles preserve past greenhouse-gas concentrations.",
+        "Oxygen isotopes in the ice indicate past temperature."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two human causes of increased greenhouse-gas emissions.",
+      "back": [
+        "Burning fossil fuels.",
+        "Deforestation, farming, landfill or fertiliser use."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why tropical storms weaken over land.",
+      "back": [
+        "The storm loses its supply of warm ocean water and moisture.",
+        "Friction over land also disrupts its rotating winds."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of climate change on people.",
+      "back": [
+        "Greater heat-related illness or water shortage.",
+        "Damage to homes, food supply or infrastructure from extremes and sea-level rise."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of Australia's 2002–2009 drought.",
+      "back": [
+        "Farm production and income fell.",
+        "Reservoirs and river flows declined, or bushfire risk increased."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two Australian adaptations to drought.",
+      "back": [
+        "Water restrictions or recycling.",
+        "Desalination, efficient irrigation, water trading or changing farm practice."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how volcanic eruptions can cause short-term cooling.",
+      "back": [
+        "Large eruptions send ash and sulphur aerosols high into the atmosphere.",
+        "These reflect part of the Sun's energy back to space.",
+        "Less solar energy reaches the surface, causing temporary cooling."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the enhanced greenhouse effect.",
+      "back": [
+        "Earth gives out long-wave heat radiation.",
+        "Extra greenhouse gases absorb and re-radiate more of this heat.",
+        "Less energy escapes to space, so average temperature rises."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why many hot deserts occur around 30° north and south.",
+      "back": [
+        "Air that rose near the Equator moves poleward and cools.",
+        "It sinks around 30°, creating high pressure.",
+        "Sinking air prevents clouds and rainfall, producing dry conditions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how El Niño can contribute to Australian drought.",
+      "back": [
+        "Warm Pacific water and rising air shift eastwards.",
+        "Rainfall is displaced away from the western Pacific.",
+        "Eastern and northern Australia therefore face a higher chance of dry winter and spring conditions."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain one strength and one limitation of tree rings as climate evidence.",
+      "back": [
+        "Strength: annual rings can be accurately dated and their width records favourable or difficult growing seasons.",
+        "Limitation: growth is affected by rainfall, disease and local conditions as well as temperature."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two conditions needed for a tropical storm to develop.",
+      "back": [
+        "Sea temperature above about 27°C supplies rapid evaporation and latent heat when water condenses.",
+        "Low wind shear allows a tall rotating storm structure to build instead of being torn apart."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two environmental effects of prolonged drought.",
+      "back": [
+        "Low river flow and shrinking wetlands destroy aquatic habitats and reduce water quality.",
+        "Dry vegetation and exposed soil increase wildfire risk and erosion."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why Australia's Millennium Drought became severe even though not every year was an El Niño year.",
+      "back": [
+        "Repeated failures of cool-season rainfall produced a cumulative shortage in soil, rivers and reservoirs.",
+        "High temperatures and evaporation increased water loss, so occasional rain did not fully restore long-term stores."
+      ]
+    }
+  ]
+}

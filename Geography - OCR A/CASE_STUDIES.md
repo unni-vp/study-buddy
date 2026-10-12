@@ -11,6 +11,7 @@
 - Andros Barrier Reef
 - Ethiopia: Oxfam goat aid
 - Istanbul, Turkey
+- Rosario, Argentina
 - Drought in Australia: school study period **2002-2009**
 
 ## Use in future resources

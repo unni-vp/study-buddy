@@ -1,0 +1,32 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "OCR J383 2.3",
+  "source": "../00 - Specification/OCR-J383-specification.pdf",
+  "coverage": {
+    "2.3.1": "Climate change through time",
+    "2.3.2": "Why climate changes",
+    "2.3.3": "Current and future consequences",
+    "2.3.4": "Global circulation and extreme weather",
+    "2.3.5": [
+      "Tropical storms",
+      "Drought"
+    ],
+    "2.3.6": "Drought case study: Australia, 2002–2009"
+  },
+  "case_studies": [
+    "Australia drought, 2002–2009"
+  ],
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Environmental threats to our planet - Questions and Answers.md",
+    "deck": "Flash Cards/Environmental threats to our planet - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

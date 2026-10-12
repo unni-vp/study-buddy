@@ -1,0 +1,55 @@
+{
+  "source": "People of the planet - Revision Notes.md",
+  "groups": [
+    {
+      "id": "development",
+      "title": "Development",
+      "description": "Indicators, uneven development and aid",
+      "icon": "overview",
+      "sections": [
+        {
+          "heading": "Understanding development"
+        }
+      ]
+    },
+    {
+      "id": "ethiopia",
+      "title": "Ethiopia",
+      "description": "Country development and Oxfam goat aid",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Country case study: Ethiopia"
+        }
+      ]
+    },
+    {
+      "id": "urban-world",
+      "title": "Urban change",
+      "description": "Urbanisation, migration, opportunities and challenges",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "A changing urban world"
+        }
+      ]
+    },
+    {
+      "id": "rosario",
+      "title": "Rosario",
+      "description": "Housing, transport, waste and urban agriculture",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Major-city case study: Rosario, Argentina"
+        },
+        {
+          "heading": "Exam links to remember"
+        },
+        {
+          "heading": "Sources for the named case studies"
+        }
+      ]
+    }
+  ]
+}

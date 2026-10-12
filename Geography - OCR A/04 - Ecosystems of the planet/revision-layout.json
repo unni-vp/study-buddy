@@ -1,0 +1,53 @@
+{
+  "source": "Ecosystems of the planet - Revision Notes.md",
+  "groups": [
+    {
+      "id": "ecosystem-basics",
+      "title": "Ecosystem basics",
+      "description": "Interdependence and global ecosystem patterns",
+      "icon": "overview",
+      "sections": [
+        {
+          "heading": "How ecosystems work"
+        },
+        {
+          "heading": "The world's major ecosystems"
+        }
+      ]
+    },
+    {
+      "id": "rainforests",
+      "title": "Rainforests & Peru",
+      "description": "Processes, threats and sustainable management",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "Tropical rainforest processes"
+        },
+        {
+          "heading": "Case study: Peruvian Amazon rainforest"
+        }
+      ]
+    },
+    {
+      "id": "coral-reefs",
+      "title": "Coral reefs & Andros",
+      "description": "Reef interdependence, value and protection",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Coral reef processes"
+        },
+        {
+          "heading": "Case study: Andros Barrier Reef, The Bahamas"
+        },
+        {
+          "heading": "Exam links to remember"
+        },
+        {
+          "heading": "Sources for the named case studies"
+        }
+      ]
+    }
+  ]
+}

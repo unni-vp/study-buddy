@@ -1,0 +1,163 @@
+{
+  "title": "Ecosystems of the planet",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is an ecosystem?",
+      "back": [
+        "A community of organisms interacting with each other and the non-living environment."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give one biotic component of an ecosystem.",
+      "back": [
+        "Plants."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the process by which plants release water vapour.",
+      "back": [
+        "Transpiration."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is coral bleaching?",
+      "back": [
+        "Coral turning white after expelling its symbiotic algae."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the rainforest case study used in this course.",
+      "back": [
+        "The Peruvian Amazon."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the coral reef case study used in this course.",
+      "back": [
+        "Andros Barrier Reef, The Bahamas."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why tropical rainforests have rapid nutrient cycling.",
+      "back": [
+        "Heat and moisture cause dead material to decompose quickly.",
+        "Dense roots rapidly absorb the released nutrients."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two ways in which coral reefs are valuable to people.",
+      "back": [
+        "They support fishing and tourism income.",
+        "They absorb wave energy and protect coasts."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why rainforest soils may lose fertility after trees are cleared.",
+      "back": [
+        "The nutrient store in vegetation is removed.",
+        "Heavy rain then leaches nutrients from exposed soil."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two threats to the Peruvian Amazon.",
+      "back": [
+        "Farming or cattle ranching.",
+        "Mining, road building or logging."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why warm-water coral reefs are found in shallow, clear seas.",
+      "back": [
+        "The algae living in coral need sunlight for photosynthesis.",
+        "Clear, shallow water allows enough light to reach them."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two local strategies used to protect Andros Barrier Reef.",
+      "back": [
+        "Marine protected areas.",
+        "Sustainable fishing, monitoring or eco-tourism."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one example of interdependence in a tropical rainforest.",
+      "back": [
+        "Trees provide food and habitats for animals.",
+        "Animals may pollinate flowers or spread seeds.",
+        "This helps trees reproduce, so each group supports the other."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how deforestation can change the rainforest water cycle.",
+      "back": [
+        "Fewer leaves intercept rainfall.",
+        "Less water returns to the atmosphere through transpiration.",
+        "Surface runoff rises and local rainfall recycling may fall."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how climate controls the distribution of hot deserts.",
+      "back": [
+        "Many occur around 20–30° north and south.",
+        "Descending air creates high pressure and prevents cloud formation.",
+        "Rainfall is therefore very low, producing sparse vegetation."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a marine protected area may improve reef health.",
+      "back": [
+        "Damaging fishing or development is restricted.",
+        "Fish populations and habitats have time to recover.",
+        "A healthier food web can make the reef more resilient."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two adaptations of tropical rainforest plants.",
+      "back": [
+        "**Drip-tip leaves** shed heavy rain quickly, reducing water damage and fungal growth.",
+        "**Buttress roots** spread near the surface and support tall trees where soil is shallow and nutrient-poor."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two ways the Peruvian Amazon is valuable.",
+      "back": [
+        "It stores carbon and recycles water, helping regulate climate and rainfall.",
+        "It supplies habitats, food, materials and livelihoods for Indigenous communities and businesses."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two threats to Andros Barrier Reef.",
+      "back": [
+        "High sea temperatures cause bleaching because coral expels its algae and loses a major food source.",
+        "Pollution or sediment reduces water quality and blocks sunlight needed by the algae."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why clearing rainforest may create short-term gains but long-term costs.",
+      "back": [
+        "Farming, mining and timber can create jobs, exports and tax income.",
+        "However, habitat and stored carbon are lost, soils erode and water cycling is disrupted, weakening future livelihoods."
+      ]
+    }
+  ]
+}

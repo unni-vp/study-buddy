@@ -1,0 +1,55 @@
+{
+  "source": "Environmental threats to our planet - Revision Notes.md",
+  "groups": [
+    {
+      "id": "climate-history",
+      "title": "Climate through time",
+      "description": "Quaternary change and evidence",
+      "icon": "overview",
+      "sections": [
+        {
+          "heading": "Climate change through time"
+        }
+      ]
+    },
+    {
+      "id": "causes-effects",
+      "title": "Causes & consequences",
+      "description": "Natural change and enhanced greenhouse effect",
+      "icon": "exchange",
+      "sections": [
+        {
+          "heading": "Why climate changes"
+        }
+      ]
+    },
+    {
+      "id": "circulation",
+      "title": "Circulation & extremes",
+      "description": "Global circulation, storms and drought",
+      "icon": "cells",
+      "sections": [
+        {
+          "heading": "Global circulation and extreme weather"
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "title": "Australia drought",
+      "description": "Causes, impacts, responses and evaluation",
+      "icon": "practical",
+      "sections": [
+        {
+          "heading": "Drought case study: Australia, 2002–2009"
+        },
+        {
+          "heading": "Exam links to remember"
+        },
+        {
+          "heading": "Sources for the named case study"
+        }
+      ]
+    }
+  ]
+}

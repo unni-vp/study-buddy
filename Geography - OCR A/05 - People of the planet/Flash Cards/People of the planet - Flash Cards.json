@@ -1,0 +1,163 @@
+{
+  "title": "People of the planet",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What does HDI stand for?",
+      "back": [
+        "Human Development Index."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is urbanisation?",
+      "back": [
+        "An increase in the proportion of people living in urban areas."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "How many people must a city have to be called a megacity?",
+      "back": [
+        "More than 10 million."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name Ethiopia's major export crop.",
+      "back": [
+        "Coffee."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "On which river is Rosario located?",
+      "back": [
+        "The Paraná River."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the goat-sharing system used in the Oxfam project.",
+      "back": [
+        "Hirbaa-dabaree."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two components of HDI.",
+      "back": [
+        "Life expectancy.",
+        "Education or income per person."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one limitation of GNI per person.",
+      "back": [
+        "It is a national average.",
+        "It can hide large differences between rich and poor people."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one push and one pull factor for rural-to-urban migration.",
+      "back": [
+        "Push: few rural jobs or drought.",
+        "Pull: urban employment, education or healthcare."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons why Ethiopia's development is difficult.",
+      "back": [
+        "It is landlocked, increasing trade costs.",
+        "Drought, conflict, debt or weak infrastructure restrict progress."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how goat aid can create an income.",
+      "back": [
+        "Goats reproduce and create a growing asset.",
+        "Families can sell offspring or goat products."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two important economic roles of Rosario.",
+      "back": [
+        "Paraná River port and export centre.",
+        "Food processing, manufacturing, logistics or regional services."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how colonialism can continue to affect development.",
+      "back": [
+        "Colonial economies often focused on exporting raw materials.",
+        "Infrastructure linked resources to ports rather than joining communities.",
+        "Dependence on low-value exports may therefore continue after independence."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how foreign direct investment may support Ethiopia's development.",
+      "back": [
+        "Foreign firms may build factories and infrastructure.",
+        "They create jobs, training, exports and tax income.",
+        "These benefits can raise incomes and fund services if they remain in Ethiopia."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why rapid urban growth may cause informal settlements.",
+      "back": [
+        "Migration and natural increase raise housing demand quickly.",
+        "Formal homes may be too few or too expensive.",
+        "Lower-income families build on unplanned land without full services."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one way Rosario's urban agriculture programme is sustainable.",
+      "back": [
+        "Unused urban land is turned into productive gardens.",
+        "Local growers earn income and supply nearby food.",
+        "Shorter supply chains and extra green space can reduce environmental pressure."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain one advantage and one limitation of using HDI.",
+      "back": [
+        "Advantage: it combines health, education and income, so it is broader than a single economic measure.",
+        "Limitation: it is still a national average, so regional and social inequalities may be hidden."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two ways rapid urbanisation can benefit a city.",
+      "back": [
+        "A larger labour force attracts firms and supports business growth.",
+        "A bigger population creates demand that can justify better transport, education and healthcare."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two limitations of the Oxfam goat-aid project.",
+      "back": [
+        "Goats remain vulnerable to severe drought, disease and shortage of grazing or water.",
+        "A small livestock project cannot by itself solve poor infrastructure, education or healthcare."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how Rosario Hábitat improved informal settlements.",
+      "back": [
+        "It combined secure land ownership and basic infrastructure with community participation.",
+        "Employment support and selective relocation addressed social needs as well as the physical condition of housing."
+      ]
+    }
+  ]
+}

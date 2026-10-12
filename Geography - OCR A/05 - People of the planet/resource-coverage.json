@@ -1,0 +1,31 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "OCR J383 2.2",
+  "source": "../00 - Specification/OCR-J383-specification.pdf",
+  "coverage": {
+    "2.2.1": "Understanding development",
+    "2.2.2": "Why development is uneven",
+    "2.2.3": "Country case study: Ethiopia",
+    "2.2.4": "A changing urban world",
+    "2.2.5": "Causes and effects of rapid urbanisation",
+    "2.2.6": "Major-city case study: Rosario, Argentina"
+  },
+  "case_studies": [
+    "Ethiopia",
+    "Oxfam goat aid in Kanbi",
+    "Rosario, Argentina"
+  ],
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/People of the planet - Questions and Answers.md",
+    "deck": "Flash Cards/People of the planet - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
