@@ -1,0 +1,35 @@
+{
+  "source": "Geographical skills - Revision Notes.md",
+  "groups": [
+    {
+      "id": "maps",
+      "title": "Maps & GIS",
+      "description": "Grid references, scale, relief, map types and layers",
+      "icon": "overview",
+      "sections": [
+        {"heading": "Cartographic skills"}
+      ]
+    },
+    {
+      "id": "graphs-numbers",
+      "title": "Graphs & calculations",
+      "description": "Presentations, averages, spread and percentages",
+      "icon": "practical",
+      "sections": [
+        {"heading": "Graphical skills"},
+        {"heading": "Numerical and statistical skills"}
+      ]
+    },
+    {
+      "id": "enquiry",
+      "title": "Enquiry & evaluation",
+      "description": "Sampling, data quality, sources and conclusions",
+      "icon": "exchange",
+      "sections": [
+        {"heading": "Enquiry and data quality"},
+        {"heading": "Reaching a conclusion"},
+        {"heading": "High-yield checklist"}
+      ]
+    }
+  ]
+}

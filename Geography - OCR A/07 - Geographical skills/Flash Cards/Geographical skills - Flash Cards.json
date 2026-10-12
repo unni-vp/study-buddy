@@ -1,0 +1,160 @@
+{
+  "title": "Geographical skills",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "In which order are grid references read?",
+      "back": [
+        "Eastings, then northings."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a contour line join?",
+      "back": [
+        "Points of equal height."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which graph is most suitable for showing a relationship between two variables?",
+      "back": [
+        "Scatter graph."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the range of 4, 7, 9 and 15?",
+      "back": [
+        "11."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is interpolation?",
+      "back": [
+        "Estimating a value within the known data range."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the sampling method that collects data at regular intervals.",
+      "back": [
+        "Systematic sampling."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A distance is 8 cm on a 1:50,000 map. Calculate the real distance in kilometres.",
+      "back": [
+        "1 cm represents 0.5 km.",
+        "8 × 0.5 = **4 km**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how contour spacing shows gradient.",
+      "back": [
+        "Closely spaced contours show height changing rapidly over a short distance, so the slope is steep.",
+        "Widely spaced contours show a gentle slope."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two features required on a clear graph.",
+      "back": [
+        "Labelled axes with units.",
+        "An even and suitable scale."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one difference between a bar chart and a histogram.",
+      "back": [
+        "A bar chart represents separate categories and usually has gaps.",
+        "A histogram represents continuous grouped data, so its bars touch."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the percentage increase from 40 to 50.",
+      "back": [
+        "Increase = 10.",
+        "10 ÷ 40 × 100 = **25%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between reliability and validity.",
+      "back": [
+        "Reliability is whether repetition produces similar results.",
+        "Validity is whether the method measures what the enquiry needs."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "The values are 2, 4, 4, 5 and 10. Calculate the mean and median, and identify which better represents a typical value.",
+      "back": [
+        "Mean = 25 ÷ 5 = **5**.",
+        "Median = **4**.",
+        "The median may be more representative because the high value 10 pulls up the mean."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why extrapolation is less reliable than interpolation.",
+      "back": [
+        "Extrapolation predicts beyond the measured data range.",
+        "The existing trend may not continue there.",
+        "No observations are available to check the estimate directly."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one advantage and one limitation of a choropleth map.",
+      "back": [
+        "It makes broad spatial patterns and regional comparisons easy to see.",
+        "Values are averaged across each area, so local variation may be hidden."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how GIS could help investigate flood risk.",
+      "back": [
+        "Layers for relief, rivers, rainfall, land use and settlements can be stored.",
+        "The layers can be overlaid to identify places where hazards and people coincide.",
+        "Data can be updated and different management options compared."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how to analyse a scatter graph effectively.",
+      "back": [
+        "State whether correlation is positive, negative or absent and comment on its strength.",
+        "Quote paired values or refer to the line of best fit as evidence.",
+        "Identify any anomalies.",
+        "Explain that correlation alone does not prove one variable caused the other."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why systematic sampling may be suitable along an urban transect.",
+      "back": [
+        "Regular intervals give coverage from one end of the route to the other.",
+        "The rule is simple and repeatable, improving reliability.",
+        "It reduces the researcher's freedom to choose only convenient sites.",
+        "However, a repeating pattern could coincide with the interval and bias the sample."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how a geographer could improve the accuracy and reliability of river velocity measurements.",
+      "back": [
+        "Measure a fixed distance carefully and use the same method at every site.",
+        "Repeat readings and calculate a mean to reduce the influence of unusual results.",
+        "Use calibrated equipment and record units consistently.",
+        "Keep the position in the channel or release method consistent where possible."
+      ]
+    }
+  ]
+}

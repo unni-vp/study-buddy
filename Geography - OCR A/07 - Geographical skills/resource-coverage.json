@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "OCR J383 Section 3",
+  "source": "../00 - Specification/OCR-J383-specification.pdf",
+  "coverage": {
+    "cartographic": "Cartographic skills",
+    "graphical": "Graphical skills",
+    "numerical-statistical": "Numerical and statistical skills",
+    "enquiry-data-quality": "Enquiry and data quality",
+    "sources-bias-conclusions": [
+      "Enquiry and data quality",
+      "Reaching a conclusion"
+    ]
+  },
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Geographical skills - Questions and Answers.md",
+    "deck": "Flash Cards/Geographical skills - Flash Cards.json",
+    "count": 19,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
