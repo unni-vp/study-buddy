@@ -17,5 +17,17 @@
     "01-profiles-and-bond-energies",
     "02-temperature-practical",
     "03-cells-and-fuel-cells"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Energy changes - Questions and Answers.md",
+    "deck": "Flash Cards/Energy changes - Flash Cards.json",
+    "count": 27,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }
