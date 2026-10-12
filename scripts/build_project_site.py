@@ -54,6 +54,7 @@ def write(page,title,content,crumbs=[],subject=None):
  page.parent.mkdir(parents=True,exist_ok=True)
  page_title=SITE_TITLE if page==ROOT/'index.html' else title+' · '+SITE_TITLE
  page_class='home-page' if page==ROOT/'index.html' else 'inner-page'
+ if subject:page_class+=' subject-'+slug(short(subject))
  page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
 
 def resource_reader(source,subject,topic,topicpage):
@@ -156,7 +157,7 @@ for subject,course in subjects.items():
  write(subjectpage,short(subject),f'<p class="eyebrow">{esc(subject.split(" - ")[-1])} · {esc(course["code"])} · {esc(course["tier"])}</p><h1>{esc(short(subject))}</h1>{extra}<div class="topic-list">'+''.join(rows)+'</div>'+docs+progress_script,subject=subject)
 
 home=ROOT/'index.html';cards=[]
-colours=['#5264c8','#277d74','#936343','#497fb1','#8b579d','#d08c30','#378767','#b36377','#51888c']
+colours=['#243b64','#8a6500','#754394','#2f64a3','#9a4b19','#a63e72','#28734f','#6650a4','#116b68']
 for i,(subject,course) in enumerate(subjects.items()):
  cards.append(f'<a class="subject-card" style="--subject-colour:{colours[i]}" href="{link(home,ROOT/subject/"index.html")}"><div class="subject-card-top">{subject_icon(short(subject))}<span class="subject-code">{esc(course["code"])}</span></div><h2>{esc(short(subject))}</h2><p>{esc(subject.split(" - ")[-1])} · {esc(course["tier"])}</p><div><span>{len(course["topics"])} topics</span><span aria-hidden="true">→</span></div></a>')
 write(home,'Subjects',f'<p class="intro">Follow each topic from clear explanations to visual mind maps and questions with answers.</p><div class="subject-grid">'+''.join(cards)+f'</div><p class="library-note">{len(subjects)} subjects · {sum(len(c["topics"]) for c in subjects.values())} topics · {total_ready} topics with resources available</p>')
