@@ -1,0 +1,36 @@
+{
+  "source": "People of the UK - Revision Notes.md",
+  "groups": [
+    {
+      "id": "connections-development",
+      "title": "Connections & development",
+      "description": "Trade, indicators, uneven development and Salford Quays",
+      "icon": "overview",
+      "sections": [
+        {"heading": "The UK in the wider world"},
+        {"heading": "Economic change: Salford Quays"}
+      ]
+    },
+    {
+      "id": "population-migration",
+      "title": "Population & migration",
+      "description": "Population structure, ageing and migration impacts",
+      "icon": "transport",
+      "sections": [
+        {"heading": "Population change"},
+        {"heading": "Migration and ways of life"}
+      ]
+    },
+    {
+      "id": "urban-change",
+      "title": "Urban change & Leeds",
+      "description": "Urban trends, city challenges and sustainable living",
+      "icon": "exchange",
+      "sections": [
+        {"heading": "Urban change"},
+        {"heading": "Leeds city case study"},
+        {"heading": "High-yield checklist"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "OCR J383 1.2",
+  "source": "../00 - Specification/OCR-J383-specification.pdf",
+  "coverage": {
+    "1.2.1": "The UK in the wider world",
+    "1.2.2": [
+      "The UK in the wider world",
+      "Economic change: Salford Quays"
+    ],
+    "1.2.3": "Population change",
+    "1.2.4": "Migration and ways of life",
+    "1.2.5": "Urban change",
+    "1.2.6": "Leeds city case study"
+  },
+  "case_studies": [
+    "Salford Quays",
+    "Leeds city"
+  ],
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/People of the UK - Questions and Answers.md",
+    "deck": "Flash Cards/People of the UK - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

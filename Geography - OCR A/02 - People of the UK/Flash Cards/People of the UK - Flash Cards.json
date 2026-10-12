@@ -1,0 +1,169 @@
+{
+  "title": "People of the UK",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is an import?",
+      "back": [
+        "A good or service bought from another country."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a population pyramid show?",
+      "back": [
+        "The age and sex structure of a population."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Define immigration.",
+      "back": [
+        "Movement into a country to live."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is suburbanisation?",
+      "back": [
+        "Movement of people or activities from the inner city to the urban edge."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one indicator of development within the UK.",
+      "back": [
+        "Income."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which city is the major UK city case study in this course?",
+      "back": [
+        "Leeds."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why using income alone may give a misleading picture of development.",
+      "back": [
+        "Income does not show health, education or access to services.",
+        "An average can hide large differences between people or neighbourhoods."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons why an area with good infrastructure may attract businesses.",
+      "back": [
+        "Transport links make workers, customers and goods easier to reach.",
+        "Reliable broadband helps firms communicate and provide digital services."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why the UK population is ageing.",
+      "back": [
+        "People live longer because death rates have fallen.",
+        "Lower birth rates mean young people form a smaller share of the population."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one social and one economic benefit of immigration.",
+      "back": [
+        "Social: migrants can add cultural diversity.",
+        "Economic: migrants can fill skills gaps, work and pay taxes."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one possible consequence of counter-urbanisation for a rural settlement.",
+      "back": [
+        "Housing demand may rise as people move in.",
+        "This can increase prices and make homes less affordable for existing residents."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two challenges created by rapid city growth.",
+      "back": [
+        "Increased demand for affordable housing.",
+        "More congestion and pressure on transport."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one reason why development varies across the UK.",
+      "back": [
+        "Areas with poor transport or digital connections are less accessible.",
+        "Firms may invest elsewhere because costs or travel times are lower.",
+        "This reduces job opportunities and income in the less connected area."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one challenge caused by an ageing population.",
+      "back": [
+        "A larger older population increases demand for healthcare and social care.",
+        "These services require more workers and public spending.",
+        "With fewer workers per dependent person, funding them can become harder."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how migration can change the character of a city.",
+      "back": [
+        "Migrants bring languages, food, beliefs and traditions.",
+        "They may establish businesses and community services.",
+        "These changes make neighbourhoods and the city's workforce more diverse."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how the decline of the docks affected Salford Quays.",
+      "back": [
+        "Shipping and industrial change reduced dock activity.",
+        "Jobs were lost in the docks and linked businesses.",
+        "Land and buildings became derelict, damaging the area's environment and image."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how government policy and infrastructure can reduce uneven development.",
+      "back": [
+        "Government can fund regeneration, education or business support in weaker areas.",
+        "These policies can create jobs and improve skills.",
+        "Better roads, rail and broadband connect people and firms to markets.",
+        "Improved accessibility can attract investment and raise incomes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two possible impacts of re-urbanisation.",
+      "back": [
+        "Reusing brownfield land can bring homes, jobs and improved public spaces back to an inner city.",
+        "Rising demand may increase rents and house prices, so some lower-income residents may be displaced or excluded."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how regeneration changed Salford Quays.",
+      "back": [
+        "Derelict dockland was reused for offices, homes, culture and leisure.",
+        "New transport links and public spaces improved accessibility and image.",
+        "Investment created employment and attracted visitors and businesses.",
+        "However, high costs and skills requirements mean the benefits may not be shared equally."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why Leeds is important at more than one scale.",
+      "back": [
+        "Regionally, Leeds provides jobs, shops, education, culture and services.",
+        "National transport and business links connect it to other UK cities.",
+        "Universities and firms attract people and investment from abroad.",
+        "Its decisions and growth therefore influence local, regional and wider networks."
+      ]
+    }
+  ]
+}
