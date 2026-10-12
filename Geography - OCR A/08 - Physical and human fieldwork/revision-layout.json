@@ -1,0 +1,43 @@
+{
+  "source": "Physical and human fieldwork - Revision Notes.md",
+  "groups": [
+    {
+      "id": "enquiry-process",
+      "title": "Enquiry process",
+      "description": "From question and method to conclusion and evaluation",
+      "icon": "overview",
+      "sections": [
+        {"heading": "The enquiry process"}
+      ]
+    },
+    {
+      "id": "liverpool",
+      "title": "Liverpool fieldwork",
+      "description": "Environmental quality, pedestrian flow and land use",
+      "icon": "exchange",
+      "sections": [
+        {"heading": "Human fieldwork: Liverpool"}
+      ]
+    },
+    {
+      "id": "river-alyn",
+      "title": "River Alyn fieldwork",
+      "description": "Downstream measurements, findings and evaluation",
+      "icon": "transport",
+      "sections": [
+        {"heading": "Physical fieldwork: River Alyn"}
+      ]
+    },
+    {
+      "id": "exam-answers",
+      "title": "Comparison & exam answers",
+      "description": "Compare enquiries and write precise evaluations",
+      "icon": "practical",
+      "sections": [
+        {"heading": "Comparing the enquiries"},
+        {"heading": "Writing fieldwork answers"},
+        {"heading": "High-yield checklist"}
+      ]
+    }
+  ]
+}

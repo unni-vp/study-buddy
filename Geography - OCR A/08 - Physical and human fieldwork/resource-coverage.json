@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "OCR J383 fieldwork and enquiry skills",
+  "source": "../00 - Specification/OCR-J383-specification.pdf",
+  "coverage": {
+    "enquiry-process": "The enquiry process",
+    "human-fieldwork": "Human fieldwork: Liverpool",
+    "physical-fieldwork": "Physical fieldwork: River Alyn",
+    "presentation-analysis-conclusion-evaluation": [
+      "Comparing the enquiries",
+      "Writing fieldwork answers"
+    ]
+  },
+  "fieldwork": [
+    "Liverpool city centre",
+    "River Alyn"
+  ],
+  "internal_sources": [
+    "Internal Sources/Liverpool - School Fieldwork Account.md",
+    "Internal Sources/River Alyn - School Fieldwork Account.md"
+  ],
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Physical and human fieldwork - Questions and Answers.md",
+    "deck": "Flash Cards/Physical and human fieldwork - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

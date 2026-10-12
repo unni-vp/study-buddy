@@ -1,0 +1,171 @@
+{
+  "title": "Physical and human fieldwork",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "State the Liverpool fieldwork enquiry question.",
+      "back": [
+        "How far does environmental quality change across Liverpool town centre?"
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the River Alyn fieldwork enquiry question.",
+      "back": [
+        "How do river characteristics change downstream along the River Alyn?"
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which sampling method collected data at regular points along a route?",
+      "back": [
+        "Systematic sampling."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one River Alyn characteristic that was measured.",
+      "back": [
+        "Channel width."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one indicator used in Liverpool's environmental-quality survey.",
+      "back": [
+        "Litter."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is reliability?",
+      "back": [
+        "Whether repeating a method gives similar results."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two types of data collected in Liverpool.",
+      "back": [
+        "Environmental-quality scores.",
+        "Pedestrian counts."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why pedestrian counts were completed for a set time.",
+      "back": [
+        "A consistent duration makes results from different sites comparable.",
+        "It avoids a site appearing busier simply because it was observed for longer."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reported River Alyn downstream changes.",
+      "back": [
+        "The channel generally became wider and deeper.",
+        "Bedload became smaller and rounder."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why several depth readings are taken across a channel.",
+      "back": [
+        "River beds are uneven, so one reading may be unrepresentative.",
+        "Several readings allow a mean depth to be calculated."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between quantitative and qualitative data.",
+      "back": [
+        "Quantitative data is numerical, such as a pedestrian count.",
+        "Qualitative data is descriptive, such as an annotated field sketch."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one strength and one limitation of an environmental-quality survey.",
+      "back": [
+        "Strength: it turns several observations into comparable site scores.",
+        "Limitation: scores may be subjective and vary between observers."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how the Liverpool environmental-quality data was collected.",
+      "back": [
+        "At each site, factors including litter, graffiti, noise, traffic, building condition and attractiveness were assessed.",
+        "Each factor was given a score using the survey scale.",
+        "Scores were added to produce a total that could be compared between sites."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why field sketches and land-use maps were useful in Liverpool.",
+      "back": [
+        "They recorded the location of shops, services and other buildings.",
+        "They showed the character and function of each site.",
+        "This helped relate environmental quality and pedestrian flow to land use."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why bedload may become smaller and rounder downstream.",
+      "back": [
+        "Stones are transported for longer distances downstream.",
+        "They collide with each other and the river bed.",
+        "Attrition chips edges, making them smaller and rounder."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why River Alyn velocity tended to increase downstream.",
+      "back": [
+        "Tributaries and runoff add water, increasing discharge.",
+        "The channel becomes larger and usually more efficient.",
+        "Proportionally less water is slowed by contact with the bed and banks."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain the main conclusion from the Liverpool investigation.",
+      "back": [
+        "Environmental quality varied across the sampled parts of the town centre.",
+        "Central shopping areas generally had the highest quality scores.",
+        "These areas also had high pedestrian flow and concentrated retail and services.",
+        "Quieter streets away from the centre generally had lower scores and fewer pedestrians."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain the main conclusion from the River Alyn investigation.",
+      "back": [
+        "Width and depth generally increased downstream.",
+        "Velocity also tended to increase as the channel became more efficient.",
+        "Bedload became smaller and rounder through transport and attrition.",
+        "The overall pattern matched river theory, although local conditions may have affected individual sites."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how the reliability of pedestrian-flow data could be improved.",
+      "back": [
+        "Repeat counts at each site rather than relying on one result.",
+        "Use the same count duration and clear counting rules.",
+        "Repeat at comparable times or days to reduce temporary effects.",
+        "Calculate a mean so one unusual count has less influence."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how the River Alyn investigation could improve its bedload sample.",
+      "back": [
+        "Use the same systematic selection rule at every site.",
+        "Measure a larger number of stones.",
+        "Use the same equipment and roundness chart consistently.",
+        "Calculate a mean size and compare the distribution rather than one stone."
+      ]
+    }
+  ]
+}
