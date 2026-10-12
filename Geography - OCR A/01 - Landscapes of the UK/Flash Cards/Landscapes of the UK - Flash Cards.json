@@ -1,0 +1,171 @@
+{
+  "title": "Landscapes of the UK",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is weathering?",
+      "back": [
+        "The breakdown of rock **in place**."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the process in which pebbles collide and become smaller and rounder.",
+      "back": [
+        "Attrition."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the river-transport process in which large stones roll along the bed.",
+      "back": [
+        "Traction."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is deposited on a floodplain during a flood?",
+      "back": [
+        "Alluvium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the process that moves beach sediment along a coast in a zigzag.",
+      "back": [
+        "Longshore drift."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which type of wave usually builds a beach?",
+      "back": [
+        "Constructive wave."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two differences between typical upland and lowland landscapes.",
+      "back": [
+        "Uplands have **higher relief and steeper slopes**.",
+        "Lowlands are generally **lower and flatter**, with wider valleys."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how abrasion erodes a river channel.",
+      "back": [
+        "The river carries rock fragments.",
+        "These scrape against the bed and banks, **wearing them away**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why deposition occurs when a river enters flatter land.",
+      "back": [
+        "The gradient and water velocity decrease.",
+        "The river loses energy and can no longer carry as much sediment, so it **deposits its load**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a river cliff and slip-off slope form on a meander.",
+      "back": [
+        "Faster flow erodes the outside bend, forming a **river cliff**.",
+        "Slower flow deposits sediment on the inside bend, forming a **slip-off slope**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how geology helps create headlands and bays.",
+      "back": [
+        "Softer rock is eroded rapidly to form bays.",
+        "More resistant rock erodes slowly and remains as headlands."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two possible effects of building groynes.",
+      "back": [
+        "They trap sediment and build a wider beach locally.",
+        "Less sediment may reach places further along the coast, increasing erosion there."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the formation of a V-shaped valley.",
+      "back": [
+        "A river uses vertical erosion to cut down into its bed.",
+        "Weathering and mass movement weaken and lower the valley sides.",
+        "The river removes fallen material, leaving steep sides shaped like a V."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a waterfall retreats to form a gorge.",
+      "back": [
+        "Softer rock beneath resistant rock is eroded faster and a plunge pool forms.",
+        "The resistant overhang collapses because it is unsupported.",
+        "Repetition moves the waterfall upstream, leaving a narrow, steep-sided gorge."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an oxbow lake forms.",
+      "back": [
+        "Erosion narrows the neck of a meander.",
+        "During high flow, the river cuts through the neck and takes a straighter route.",
+        "Deposition seals the ends of the old bend, leaving an oxbow lake."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a spit forms.",
+      "back": [
+        "Longshore drift transports sediment along the coast.",
+        "Where the coastline changes direction, material continues into open water and is deposited as energy falls.",
+        "The ridge grows outward; its end may curve if wave direction changes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how climate and geology can influence a UK river landscape.",
+      "back": [
+        "Heavy or frequent rainfall raises discharge, giving a river more power to erode and transport material.",
+        "Storms can also increase flooding and floodplain deposition.",
+        "Resistant rock erodes slowly and can produce steeper features.",
+        "Softer or less resistant rock erodes more quickly, helping valleys widen."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how erosion and deposition are connected along a coast.",
+      "back": [
+        "Waves erode cliffs and release sediment.",
+        "Longshore drift transports that sediment along the shoreline.",
+        "Where wave energy falls, the sediment is deposited.",
+        "This can build beaches or spits, so erosion in one place supplies landforms elsewhere."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how people and natural processes combine to shape the River Wye landscape.",
+      "back": [
+        "Rainfall, gradient and river discharge control erosion, transport and deposition.",
+        "Geology influences the resistance and permeability of the valley rocks.",
+        "Farming and building can change vegetation and surface runoff.",
+        "Flood management and recreation alter parts of the valley and affect how people use it."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why managing one part of the North Norfolk coast can affect another part.",
+      "back": [
+        "Coastal places are linked by sediment moved through longshore drift.",
+        "Groynes trap material and can widen the beach they protect.",
+        "This may reduce the supply reaching places further along the coast.",
+        "Those places may then have narrower beaches and greater exposure to wave erosion."
+      ]
+    }
+  ]
+}

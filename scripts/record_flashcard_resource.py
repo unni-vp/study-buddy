@@ -42,9 +42,15 @@ def main() -> None:
             "- Mind Maps: links between ideas in large or complex topics.\n",
             "- Mind Maps: links between ideas in large or complex topics.\n" + flash_line,
         )
+    has_mindmaps = coverage.get("mindmaps") != []
+    resource_summary = (
+        "Revision notes, visual mind maps and combined exam questions with answers"
+        if has_mindmaps
+        else "Revision notes, combined exam questions with answers and flash cards"
+    )
     available = (
         "## Available resources\n\n"
-        "- Revision notes, visual mind maps and combined exam questions with answers are available from the topic page.\n"
+        f"- {resource_summary} are available from the topic page.\n"
         f"- [Interactive flash cards](../../library/resources/{args.resource_filename}): {count} cards {args.summary}.\n"
         f"- [Editable flash-card deck]({quote(str(args.deck).replace(chr(92), '/'))})\n"
     )

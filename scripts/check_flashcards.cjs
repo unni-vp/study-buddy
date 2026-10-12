@@ -8,7 +8,7 @@ function slugify(value) {
 }
 
 const decks = fs.readdirSync('.', { withFileTypes: true })
-  .filter((entry) => entry.isDirectory() && entry.name.includes(' - AQA'))
+  .filter((entry) => entry.isDirectory() && / - (AQA|Edexcel|Eduqas|OCR A)$/.test(entry.name))
   .flatMap((subject) => fs.readdirSync(subject.name, { withFileTypes: true })
     .filter((entry) => entry.isDirectory() && /^\d+ - /.test(entry.name))
     .flatMap((topic) => {
@@ -40,7 +40,12 @@ const decks = fs.readdirSync('.', { withFileTypes: true })
     await page.goto(pathToFileURL(path.resolve(deck.topic, 'index.html')).href);
     const flashCardLink = page.getByRole('link', { name: 'Flash cards', exact: true });
     if (await flashCardLink.count() !== 1) throw new Error(`${deck.topic} should have one Flash cards resource button.`);
-    if (await page.locator('.resource-actions > *').count() !== 4) throw new Error(`${deck.topic} should have four resource buttons.`);
+    const coveragePath = path.join(deck.topic, 'resource-coverage.json');
+    const coverage = fs.existsSync(coveragePath) ? JSON.parse(fs.readFileSync(coveragePath, 'utf8')) : {};
+    const expectedButtons = Array.isArray(coverage.mindmaps) && coverage.mindmaps.length === 0 ? 3 : 4;
+    if (await page.locator('.resource-actions > *').count() !== expectedButtons) {
+      throw new Error(`${deck.topic} should have ${expectedButtons} resource buttons.`);
+    }
     await flashCardLink.click();
 
     if (!(await page.locator('[data-flashcard-deck]').evaluate((app) => app.classList.contains('flashcards-ready')))) {

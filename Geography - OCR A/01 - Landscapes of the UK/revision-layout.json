@@ -1,0 +1,36 @@
+{
+  "source": "Landscapes of the UK - Revision Notes.md",
+  "groups": [
+    {
+      "id": "landscape-processes",
+      "title": "Landscapes & processes",
+      "description": "UK patterns, weathering, erosion, transport and deposition",
+      "icon": "overview",
+      "sections": [
+        {"heading": "The UK landscape"},
+        {"heading": "Processes that shape landscapes"}
+      ]
+    },
+    {
+      "id": "rivers",
+      "title": "River landscapes",
+      "description": "River landforms and the River Wye case study",
+      "icon": "transport",
+      "sections": [
+        {"heading": "River landscapes"},
+        {"heading": "River Wye case study"}
+      ]
+    },
+    {
+      "id": "coasts",
+      "title": "Coastal landscapes",
+      "description": "Coastal landforms and the North Norfolk case study",
+      "icon": "exchange",
+      "sections": [
+        {"heading": "Coastal landscapes"},
+        {"heading": "North Norfolk coast case study"},
+        {"heading": "High-yield checklist"}
+      ]
+    }
+  ]
+}
