@@ -22,5 +22,17 @@
     "03-motion-and-graphs",
     "04-newtons-laws-and-practical",
     "05-stopping-and-momentum"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Forces - Questions and Answers.md",
+    "deck": "Flash Cards/Forces - Flash Cards.json",
+    "count": 30,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }
