@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Compression · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><h1>Compression</h1>
+<h2>Why compression is used</h2>
+<p><strong>Compression</strong> reduces the number of bits required to store or transmit data.</p>
+<p>Benefits include less storage, faster transfer and lower bandwidth use. Compression and decompression require processing, and some methods may lose information.</p>
+<h2>Run-length encoding</h2>
+<p><strong>Run-length encoding (RLE)</strong> stores each run as a frequency/data pair. It works well when data contains long repeated sequences.</p>
+<p><code>0000011100000011</code> becomes:</p>
+<p><code>5 0, 3 1, 6 0, 2 1</code></p>
+<p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
+<h2>Huffman coding</h2>
+<p><strong>Huffman coding</strong> gives shorter codes to more frequent symbols and longer codes to less frequent symbols.</p>
+<ol>
+<li>Count each symbol&#x27;s frequency.</li>
+<li>Repeatedly combine the two lowest-frequency nodes.</li>
+<li>Label branches 0 and 1.</li>
+<li>Read each symbol&#x27;s code from root to leaf.</li>
+</ol>
+<p>No code is the prefix of another, so the encoded stream can be decoded unambiguously.</p>
+<p>To calculate compressed size, multiply each symbol&#x27;s frequency by its code length and add the results. Compare with uncompressed ASCII at <strong>7 bits per character</strong> when instructed.</p>
+<h2>Calculation checklist</h2>
+<ul>
+<li>Write the formula before substituting values.</li>
+<li>Keep bits and bytes distinct; divide bits by 8 to get bytes.</li>
+<li>Use decimal prefixes of 1,000 for this course.</li>
+<li>Show place values or four-bit groups in base conversions.</li>
+<li>Include units and do not round unless instructed.</li>
+</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-media.html"><span>← Previous</span><strong>Text, images and sound</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

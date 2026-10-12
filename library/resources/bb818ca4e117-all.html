@@ -1,0 +1,100 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Fundamentals of computer networks — all revision notes · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Fundamentals of computer networks</a><span aria-hidden="true"> / </span><a href="bb818ca4e117.html">Revision notes</a></nav><div class="reader-tools"><a href="bb818ca4e117.html">← All revision notes</a><button onclick="window.print()">Print all notes</button></div><article class="reading"><h1>Fundamentals of computer networks</h1>
+<h2>Networks, benefits and risks</h2>
+<p>A <strong>computer network</strong> is two or more computers or devices connected so they can communicate and share resources.</p>
+<p>Think of a network as a transport system: devices are destinations, links are roads and protocols are agreed traffic rules.</p>
+<p>Advantages include:</p>
+<ul>
+<li>sharing files, printers and internet connections</li>
+<li>communication and collaboration</li>
+<li>central user accounts, updates and backups</li>
+<li>access to shared services from different devices</li>
+</ul>
+<p>Disadvantages include:</p>
+<ul>
+<li>setup and maintenance cost</li>
+<li>dependence on network equipment and services</li>
+<li>security and privacy risks</li>
+<li>malware or faults spreading between connected devices</li>
+<li>congestion reducing performance</li>
+</ul>
+<h2>PAN, LAN and WAN</h2>
+<table>
+<tr><th>Type</th><th>Scale and ownership</th><th>Example</th></tr>
+<tr><td>PAN</td><td>Very short range around one person; Bluetooth is required here</td><td>Phone connected to wireless earbuds</td></tr>
+<tr><td>LAN</td><td>Small geographical area, often owned and managed by one person or organisation</td><td>School or home network</td></tr>
+<tr><td>WAN</td><td>Wide geographical area, often using third-party infrastructure and distributed ownership</td><td>The Internet</td></tr>
+</table>
+<p>Classify a network using <strong>geographical scale</strong>, how devices connect and who owns or manages the infrastructure.</p>
+<h2>Wired and wireless networks</h2>
+<h3>Wired</h3>
+<ul>
+<li>Usually stable, low latency and less affected by radio interference.</li>
+<li>Physical access makes interception harder, although it is not automatically secure.</li>
+<li>Devices are restricted by cables and installation can be disruptive.</li>
+<li><strong>Copper cable</strong> is common and relatively inexpensive for shorter links.</li>
+<li><strong>Fibre-optic cable</strong> carries light, supports high bandwidth and long distances, and resists electromagnetic interference, but can cost more to install.</li>
+</ul>
+<h3>Wireless</h3>
+<ul>
+<li>Supports mobility and is convenient where cables are difficult.</li>
+<li>Easier to add mobile devices.</li>
+<li>Signal quality may fall with distance, obstacles, interference or congestion.</li>
+<li>Signals can extend beyond a building, increasing the need for authentication and encryption.</li>
+</ul>
+<p>Choose a connection for the situation: fixed high-demand devices may benefit from wired links, while phones and tablets need wireless mobility.</p>
+<h2>Protocols</h2>
+<p>A <strong>network protocol</strong> is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.</p>
+<table>
+<tr><th>Protocol</th><th>Purpose</th></tr>
+<tr><td>TCP</td><td>Sets up reliable communication, divides data into packets and supports checking/reassembly</td></tr>
+<tr><td>IP</td><td>Addresses and routes packets between networks</td></tr>
+<tr><td>HTTP</td><td>Transfers web pages and related web data</td></tr>
+<tr><td>HTTPS</td><td>Encrypted, authenticated version of HTTP for more secure web communication</td></tr>
+<tr><td>SMTP</td><td>Sends email from a client to a server and between mail servers</td></tr>
+<tr><td>IMAP</td><td>Accesses and manages email kept on a mail server, synchronising folders and status</td></tr>
+</table>
+<p>Do not write that HTTPS makes a website completely safe. It protects data in transit and helps authenticate the connection; the site or user&#x27;s device could still be harmful or compromised.</p>
+<h2>Why network security matters</h2>
+<p>Network security protects systems and data from unauthorised access, alteration, damage and disruption. A strong design uses several controls because each deals with different risks.</p>
+<p>Possible consequences of weak security include data theft, changed files, unavailable services, financial loss and damage to reputation.</p>
+<h2>Authentication and encryption</h2>
+<ul>
+<li><strong>Authentication</strong> checks identity before granting access, for example username/password or another factor.</li>
+<li><strong>Encryption</strong> transforms readable plaintext into ciphertext using a key. An authorised recipient uses the required key to recover the plaintext.</li>
+</ul>
+<p>Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.</p>
+<h2>Firewalls and MAC address filtering</h2>
+<p>A <strong>firewall</strong> monitors incoming and outgoing traffic and allows or blocks it using security rules. It can reduce unwanted connections, but incorrect rules may block legitimate traffic or allow threats.</p>
+<p><strong>MAC address filtering</strong> allows or blocks a device using the physical address associated with its network adapter. It can restrict known devices, but addresses may be copied or spoofed, so it should not be the only defence.</p>
+<p>Use layered security: authentication, encryption, firewall rules and device controls support one another.</p>
+<h2>The four-layer TCP/IP model</h2>
+<p>Layering divides networking into manageable jobs. Each layer provides services to the layer above and uses the layer below.</p>
+<table>
+<tr><th>Layer</th><th>Main job</th><th>Named protocols/components</th></tr>
+<tr><td>Application</td><td>Network applications and user-facing services</td><td>HTTP, HTTPS, SMTP, IMAP; browsers and email programs</td></tr>
+<tr><td>Transport</td><td>Sets up end-to-end communication and agrees details such as packet size</td><td>TCP</td></tr>
+<tr><td>Internet</td><td>Addresses, packages and routes packets across networks</td><td>IP</td></tr>
+<tr><td>Link</td><td>Works with local network hardware and transmission</td><td>NIC and operating-system device drivers</td></tr>
+</table>
+<p>When data is sent, each layer adds information needed for its job. At the destination, layers process and remove the relevant information. This separation makes protocols easier to develop and replace without redesigning the whole system.</p>
+<h2>Following a web request</h2>
+<ol>
+<li>At the application layer, the browser creates an HTTP or HTTPS request.</li>
+<li>TCP at the transport layer manages the connection and packet delivery.</li>
+<li>IP at the internet layer adds addressing and routes packets.</li>
+<li>The link layer sends data using the local network hardware.</li>
+<li>The destination processes the layers in reverse to deliver the request to the web service.</li>
+</ol>
+<p>Packets may take different routes. TCP helps the receiving host detect missing data and put received data into the correct order.</p>
+<h2>Comparison checklist</h2>
+<ul>
+<li>Link each advantage or disadvantage to the stated user and task.</li>
+<li>For PAN/LAN/WAN, mention scale and management, not speed alone.</li>
+<li>Distinguish sending email with SMTP from accessing server-held email with IMAP.</li>
+<li>Distinguish identity checking from protecting intercepted data.</li>
+<li>Name the TCP/IP layer and then state its job.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li>AQA GCSE Computer Science 8525 specification, section 3.5.</li>
+</ul></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

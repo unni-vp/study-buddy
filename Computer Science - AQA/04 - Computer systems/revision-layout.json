@@ -1,0 +1,47 @@
+{
+  "source": "Computer systems - Revision Notes.md",
+  "groups": [
+    {
+      "id": "logic-software",
+      "title": "Logic and software",
+      "description": "Use Boolean logic and classify operating and application software.",
+      "icon": "computer-logic",
+      "sections": [
+        {"heading": "Hardware, software and Boolean logic"},
+        {"heading": "System and application software"}
+      ]
+    },
+    {
+      "id": "languages",
+      "title": "Languages and translators",
+      "description": "Compare language levels, compilers, interpreters and assemblers.",
+      "icon": "computer-code",
+      "sections": [
+        {"heading": "High-level and low-level languages"},
+        {"heading": "Translators"}
+      ]
+    },
+    {
+      "id": "architecture",
+      "title": "CPU and memory",
+      "description": "Follow instruction processing and compare memory types.",
+      "icon": "computer-cpu",
+      "sections": [
+        {"heading": "CPU components"},
+        {"heading": "Fetch-decode-execute cycle"},
+        {"heading": "CPU performance"},
+        {"heading": "Memory types"}
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "Storage and embedded systems",
+      "description": "Choose local, cloud, magnetic and solid-state storage.",
+      "icon": "computer-storage",
+      "sections": [
+        {"heading": "Secondary and cloud storage"},
+        {"heading": "Embedded systems"}
+      ]
+    }
+  ]
+}

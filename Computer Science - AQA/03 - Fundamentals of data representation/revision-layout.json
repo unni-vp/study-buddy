@@ -1,0 +1,40 @@
+{
+  "source": "Fundamentals of data representation - Revision Notes.md",
+  "groups": [
+    {
+      "id": "numbers",
+      "title": "Numbers and units",
+      "description": "Convert bases, add binary and use storage units.",
+      "icon": "computer-binary",
+      "sections": [
+        {"heading": "Binary, decimal and hexadecimal"},
+        {"heading": "Converting number bases"},
+        {"heading": "Bits, bytes and prefixes"},
+        {"heading": "Binary arithmetic and shifts"}
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Text, images and sound",
+      "description": "Understand encodings and calculate media file sizes.",
+      "icon": "computer-media",
+      "sections": [
+        {"heading": "Character encoding"},
+        {"heading": "Bitmap images"},
+        {"heading": "Digital sound"}
+      ]
+    },
+    {
+      "id": "compression",
+      "title": "Compression",
+      "description": "Apply RLE and Huffman coding and compare sizes.",
+      "icon": "computer-compression",
+      "sections": [
+        {"heading": "Why compression is used"},
+        {"heading": "Run-length encoding"},
+        {"heading": "Huffman coding"},
+        {"heading": "Calculation checklist"}
+      ]
+    }
+  ]
+}

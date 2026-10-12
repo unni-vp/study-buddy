@@ -1,0 +1,47 @@
+{
+  "source": "Fundamentals of computer networks - Revision Notes.md",
+  "groups": [
+    {
+      "id": "types",
+      "title": "Network types and connections",
+      "description": "Compare PANs, LANs, WANs, wired and wireless links.",
+      "icon": "computer-network",
+      "sections": [
+        {"heading": "Networks, benefits and risks"},
+        {"heading": "PAN, LAN and WAN"},
+        {"heading": "Wired and wireless networks"}
+      ]
+    },
+    {
+      "id": "protocols",
+      "title": "Protocols",
+      "description": "Match TCP, IP and application protocols to their jobs.",
+      "icon": "computer-protocol",
+      "sections": [
+        {"heading": "Protocols"}
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Network security",
+      "description": "Combine authentication, encryption, firewalls and device filtering.",
+      "icon": "computer-security",
+      "sections": [
+        {"heading": "Why network security matters"},
+        {"heading": "Authentication and encryption"},
+        {"heading": "Firewalls and MAC address filtering"}
+      ]
+    },
+    {
+      "id": "layers",
+      "title": "TCP/IP layers",
+      "description": "Follow data through the four-layer model.",
+      "icon": "computer-layers",
+      "sections": [
+        {"heading": "The four-layer TCP/IP model"},
+        {"heading": "Following a web request"},
+        {"heading": "Comparison checklist"}
+      ]
+    }
+  ]
+}

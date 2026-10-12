@@ -1,0 +1,47 @@
+{
+  "source": "Programming - Revision Notes.md",
+  "groups": [
+    {
+      "id": "foundations",
+      "title": "Programming foundations",
+      "description": "Use types, variables, control flow and operators accurately.",
+      "icon": "computer-code",
+      "sections": [
+        {"heading": "Data types, variables and constants"},
+        {"heading": "Sequence, selection and iteration"},
+        {"heading": "Operators and expressions"}
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Data and input/output",
+      "description": "Work with arrays, records, strings and random values.",
+      "icon": "computer-data",
+      "sections": [
+        {"heading": "Arrays and records"},
+        {"heading": "Input, output and strings"},
+        {"heading": "Random numbers"}
+      ]
+    },
+    {
+      "id": "structure",
+      "title": "Subroutines",
+      "description": "Build reusable modules with clear interfaces.",
+      "icon": "computer-structure",
+      "sections": [
+        {"heading": "Subroutines and structured programming"}
+      ]
+    },
+    {
+      "id": "quality",
+      "title": "Robust programs",
+      "description": "Validate, authenticate, test and correct code.",
+      "icon": "computer-test",
+      "sections": [
+        {"heading": "Validation and authentication"},
+        {"heading": "Testing and error types"},
+        {"heading": "Exam coding checklist"}
+      ]
+    }
+  ]
+}

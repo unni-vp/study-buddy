@@ -1,0 +1,46 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Designing algorithms · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Fundamentals of algorithms</a><span aria-hidden="true"> / </span><a href="77f22de6b23c.html">Revision notes</a></nav><div class="reader-tools"><a href="77f22de6b23c.html">← All revision notes</a></div><article class="reading section-reading"><h1>Designing algorithms</h1>
+<h2>Algorithms and problem solving</h2>
+<p>An <strong>algorithm</strong> is a <strong>sequence of steps that can be followed to complete a task</strong>. Think of it as a precise recipe: the ingredients are the inputs, the method is the processing, and the finished dish is the output.</p>
+<ul>
+<li>A <strong>program</strong> is an implementation of an algorithm in a programming language.</li>
+<li>The same algorithm can be implemented in Python, another language or hardware.</li>
+<li>A good algorithm is unambiguous, finishes after a finite number of steps and produces the required output for valid inputs.</li>
+</ul>
+<h3>Decomposition and abstraction</h3>
+<ul>
+<li><strong>Decomposition</strong> breaks a large problem into smaller sub-problems with identifiable jobs.</li>
+<li><strong>Abstraction</strong> removes detail that is not needed for the current problem.</li>
+</ul>
+<p>For a school-booking system, decomposition might separate login, room search and booking. Abstraction might store whether a room is available without modelling its wall colour.</p>
+<h2>Representing algorithms</h2>
+<p>You may be asked for <strong>pseudocode</strong>, <strong>program code</strong> or a <strong>flowchart</strong>. Follow the form named in the question.</p>
+<h3>Pseudocode</h3>
+<p>Pseudocode expresses the logic without depending on one real programming language.</p>
+<p>``<code>text OUTPUT &quot;Enter a temperature&quot; temperature ← USERINPUT IF temperature &lt; 0 THEN     OUTPUT &quot;Freezing&quot; ELSE     OUTPUT &quot;Not freezing&quot; ENDIF </code>``</p>
+<h3>Python</h3>
+<p>``<code>python temperature = float(input(&quot;Enter a temperature: &quot;)) if temperature &lt; 0:     print(&quot;Freezing&quot;) else:     print(&quot;Not freezing&quot;) </code>``</p>
+<h3>Flowcharts</h3>
+<table>
+<tr><th>Shape</th><th>Meaning</th></tr>
+<tr><td>Oval</td><td>Start or stop</td></tr>
+<tr><td>Rectangle</td><td>Process or calculation</td></tr>
+<tr><td>Parallelogram</td><td>Input or output</td></tr>
+<tr><td>Diamond</td><td>Decision with labelled branches</td></tr>
+<tr><td>Arrow</td><td>Direction of control flow</td></tr>
+</table>
+<p>Keep each decision as a question with clear outcomes such as <strong>Yes/No</strong>.</p>
+<h2>Inputs, processing, outputs and trace tables</h2>
+<ul>
+<li><strong>Input:</strong> data supplied to an algorithm.</li>
+<li><strong>Processing:</strong> calculations, comparisons or changes made to the data.</li>
+<li><strong>Output:</strong> information produced by the algorithm.</li>
+</ul>
+<p>A <strong>trace table</strong> records variable values as an algorithm runs. Work one instruction at a time and create a new row whenever a tracked value changes.</p>
+<p>``<code>text total ← 0 FOR number ← 1 TO 3     total ← total + number ENDFOR OUTPUT total </code>``</p>
+<table>
+<tr><th>number</th><th>total after addition</th></tr>
+<tr><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>3</td></tr>
+<tr><td>3</td><td>6</td></tr>
+</table>
+<p>The output is <strong>6</strong>. Do not guess the purpose from variable names; prove it from the instructions and trace.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="77f22de6b23c-group-search.html"><span>Next →</span><strong>Searching</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

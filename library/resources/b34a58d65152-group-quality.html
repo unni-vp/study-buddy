@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Robust programs · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a></div><article class="reading section-reading"><h1>Robust programs</h1>
+<h2>Validation and authentication</h2>
+<p><strong>Validation</strong> checks that input is sensible and follows rules. It does not prove that the input is factually correct.</p>
+<p>Common checks include:</p>
+<ul>
+<li>range check, such as 1 to 10</li>
+<li>length check, such as at least 8 characters</li>
+<li>presence check, ensuring a string is not empty</li>
+</ul>
+<p>``<code>python age = int(input(&quot;Age 11 to 18: &quot;)) while age &lt; 11 or age &gt; 18:     age = int(input(&quot;Enter 11 to 18: &quot;)) </code>``</p>
+<p><strong>Authentication</strong> checks identity, for example by comparing a username and password with stored values. In exam programming tasks, plain-text values may be used; real systems should store passwords securely.</p>
+<h2>Testing and error types</h2>
+<p>Testing checks whether an algorithm or program behaves as required.</p>
+<table>
+<tr><th>Test data</th><th>Meaning</th><th>For allowed range 1–10</th></tr>
+<tr><td>Normal</td><td>Typical valid value</td><td>5</td></tr>
+<tr><td>Boundary</td><td>At and just outside limits</td><td>0, 1, 10, 11</td></tr>
+<tr><td>Erroneous</td><td>Invalid type or format</td><td><code>&quot;five&quot;</code></td></tr>
+</table>
+<ul>
+<li>A <strong>syntax error</strong> breaks the language&#x27;s grammar and may stop translation or execution.</li>
+<li>A <strong>logic error</strong> allows the program to run but produces the wrong result.</li>
+</ul>
+<p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
+<h2>Exam coding checklist</h2>
+<ul>
+<li>Use the response form requested: Python, pseudocode or flowchart.</li>
+<li>Use meaningful identifiers and suitable data types.</li>
+<li>Initialise totals, counters and flags before use.</li>
+<li>Check loop boundaries and whether an endpoint is included.</li>
+<li>Indent nested selection and iteration clearly.</li>
+<li>Use <code>=</code> for assignment in Python and <code>==</code> for comparison.</li>
+<li>Test normal, boundary and erroneous inputs.</li>
+</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="b34a58d65152-group-structure.html"><span>← Previous</span><strong>Subroutines</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

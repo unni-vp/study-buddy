@@ -1,0 +1,21 @@
+{
+  "reviewed": "2026-10-12",
+  "specification": "AQA 8525 section 3.5, exams from 2027",
+  "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
+  "coverage": [
+    "3.5"
+  ],
+  "mindmaps": [],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Fundamentals of computer networks - Questions and Answers.md",
+    "deck": "Flash Cards/Fundamentals of computer networks - Flash Cards.json",
+    "count": 22,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

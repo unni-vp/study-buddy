@@ -123,6 +123,9 @@ for subject,course in subjects.items():
   sections=[]; count=0
   for kind,label in KINDS:
    if kind=='Flash Cards' and not (folder/kind).exists():continue
+   if kind=='Mind Maps' and (folder/'resource-coverage.json').exists():
+    coverage=json.loads((folder/'resource-coverage.json').read_text(encoding='utf-8'))
+    if coverage.get('mindmaps')==[]:continue
    (folder/kind).mkdir(exist_ok=True)
    items=resources(folder/kind,subject,title,page,kind);count+=len(items)
    if items:

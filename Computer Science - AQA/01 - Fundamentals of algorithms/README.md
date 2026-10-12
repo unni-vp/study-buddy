@@ -7,7 +7,11 @@
 Use the full official specification in ../00 - Specification. Match every resource to the exact sub-section and applicable tier.
 
 - Revision Notes: plain English explanations, everyday analogies and must-know facts.
-- Mind Maps: links between ideas in large or complex topics.
+- Flash Cards: short question-and-answer prompts for active recall.
 - Questions and Answers: one combined document with each question, its answer and marking points together.
 
-Resources have not yet been authored. Follow the project AGENTS.md and RESOURCE_GUIDELINES.md.
+## Available resources
+
+- Revision notes and combined exam questions with answers are available from the topic page.
+- [Interactive flash cards](../../library/resources/computer-science-aqa-fundamentals-of-algorithms-flash-cards.html): 22 cards covering definitions, tracing, searching, sorting and algorithm comparison.
+- [Editable flash-card deck](Flash%20Cards/Fundamentals%20of%20algorithms%20-%20Flash%20Cards.json)

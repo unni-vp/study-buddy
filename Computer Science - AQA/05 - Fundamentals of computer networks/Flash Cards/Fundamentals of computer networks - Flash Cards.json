@@ -1,0 +1,186 @@
+{
+  "title": "Fundamentals of computer networks flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Define a computer network.",
+      "back": [
+        "Two or more computers or devices connected so they can communicate and share resources."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which network type uses Bluetooth in this specification?",
+      "back": [
+        "Personal Area Network (PAN)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which protocol is used to send email?",
+      "back": [
+        "SMTP."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which protocol addresses and routes packets?",
+      "back": [
+        "IP."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "At which TCP/IP layer does TCP operate?",
+      "back": [
+        "Transport layer."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which cable type carries data as light?",
+      "back": [
+        "Fibre-optic cable."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two advantages of networking computers in a school.",
+      "back": [
+        "Any two of sharing files/printers, central accounts, communication, central backups, shared internet access or central software management."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between a LAN and a WAN.",
+      "back": [
+        "A LAN covers a relatively small area and is usually managed by one organisation.",
+        "A WAN covers a wide area and often uses infrastructure under distributed ownership."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between HTTP and HTTPS.",
+      "back": [
+        "Both transfer web data.",
+        "HTTPS encrypts the connection and supports authentication, making data in transit more secure."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between SMTP and IMAP.",
+      "back": [
+        "SMTP sends email to a mail server or between servers.",
+        "IMAP accesses and manages email stored on a server."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one advantage and one disadvantage of a wireless network.",
+      "back": [
+        "It supports mobility and avoids a cable to each device.",
+        "It may suffer interference, reduced range/performance or greater interception risk."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why authentication and encryption are both useful.",
+      "back": [
+        "Authentication checks the identity of someone requesting access.",
+        "Encryption makes intercepted data unreadable without the required key."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why fibre-optic cable may be chosen for a long, high-traffic network link.",
+      "back": [
+        "Fibre supports high bandwidth.",
+        "It can carry signals over long distances.",
+        "It is not affected by electromagnetic interference in the way copper can be."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe what a firewall does.",
+      "back": [
+        "It monitors incoming and outgoing network traffic.",
+        "It compares traffic with defined security rules.",
+        "It allows or blocks traffic according to those rules."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how MAC address filtering controls network access and give one limitation.",
+      "back": [
+        "It compares a device's network-adapter address with an allow/block list.",
+        "The network permits or rejects the device based on the rule.",
+        "A MAC address can be copied or spoofed, so filtering should not be used alone."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "State the job of the application, transport and internet layers.",
+      "back": [
+        "Application: provides services used by network applications.",
+        "Transport: sets up end-to-end communication and manages packet delivery.",
+        "Internet: addresses and routes packets across networks."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why protocols are needed.",
+      "back": [
+        "Devices may use different hardware and software.",
+        "Protocols provide agreed rules for formatting, addressing and transmitting data.",
+        "Following the same rules allows devices to understand one another."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Give three disadvantages of computer networks.",
+      "back": [
+        "Any three of setup/maintenance cost, dependence on shared services, security risk, malware spread, congestion, privacy concerns or need for skilled administration."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare wired and wireless connections for classroom computers.",
+      "back": [
+        "Wired links are normally stable, low latency and less affected by radio interference.",
+        "They restrict device location and require cable installation.",
+        "Wireless links support mobile devices and are easier to extend.",
+        "Wireless performance can fall because of distance, obstacles, interference and congestion, and strong security is required."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe how the four TCP/IP layers take part when a browser requests a web page.",
+      "back": [
+        "The application layer creates an HTTP or HTTPS request.",
+        "TCP at the transport layer manages the end-to-end communication.",
+        "IP at the internet layer adds addressing and routes packets.",
+        "The link layer transmits data using the local NIC and network hardware."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how several network-security methods work together.",
+      "back": [
+        "Authentication limits access to recognised users.",
+        "Encryption protects data if traffic is intercepted.",
+        "A firewall blocks traffic that breaks defined rules.",
+        "MAC filtering can restrict devices, so the combined controls cover identity, data, connections and hardware access."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A business has offices in two cities. Explain why its internal city-office networks are LANs while the connection between cities forms part of a WAN.",
+      "back": [
+        "Each office LAN covers a relatively small local area.",
+        "Each LAN can be owned and managed by the business.",
+        "The inter-city connection spans a wide geographical area.",
+        "It is likely to use telecommunications infrastructure owned or managed by other organisations."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>TCP/IP layers · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Fundamentals of computer networks</a><span aria-hidden="true"> / </span><a href="bb818ca4e117.html">Revision notes</a></nav><div class="reader-tools"><a href="bb818ca4e117.html">← All revision notes</a></div><article class="reading section-reading"><h1>TCP/IP layers</h1>
+<h2>The four-layer TCP/IP model</h2>
+<p>Layering divides networking into manageable jobs. Each layer provides services to the layer above and uses the layer below.</p>
+<table>
+<tr><th>Layer</th><th>Main job</th><th>Named protocols/components</th></tr>
+<tr><td>Application</td><td>Network applications and user-facing services</td><td>HTTP, HTTPS, SMTP, IMAP; browsers and email programs</td></tr>
+<tr><td>Transport</td><td>Sets up end-to-end communication and agrees details such as packet size</td><td>TCP</td></tr>
+<tr><td>Internet</td><td>Addresses, packages and routes packets across networks</td><td>IP</td></tr>
+<tr><td>Link</td><td>Works with local network hardware and transmission</td><td>NIC and operating-system device drivers</td></tr>
+</table>
+<p>When data is sent, each layer adds information needed for its job. At the destination, layers process and remove the relevant information. This separation makes protocols easier to develop and replace without redesigning the whole system.</p>
+<h2>Following a web request</h2>
+<ol>
+<li>At the application layer, the browser creates an HTTP or HTTPS request.</li>
+<li>TCP at the transport layer manages the connection and packet delivery.</li>
+<li>IP at the internet layer adds addressing and routes packets.</li>
+<li>The link layer sends data using the local network hardware.</li>
+<li>The destination processes the layers in reverse to deliver the request to the web service.</li>
+</ol>
+<p>Packets may take different routes. TCP helps the receiving host detect missing data and put received data into the correct order.</p>
+<h2>Comparison checklist</h2>
+<ul>
+<li>Link each advantage or disadvantage to the stated user and task.</li>
+<li>For PAN/LAN/WAN, mention scale and management, not speed alone.</li>
+<li>Distinguish sending email with SMTP from accessing server-held email with IMAP.</li>
+<li>Distinguish identity checking from protecting intercepted data.</li>
+<li>Name the TCP/IP layer and then state its job.</li>
+</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="bb818ca4e117-group-security.html"><span>← Previous</span><strong>Network security</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

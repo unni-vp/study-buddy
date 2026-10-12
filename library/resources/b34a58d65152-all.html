@@ -1,0 +1,135 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Programming — all revision notes · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a><button onclick="window.print()">Print all notes</button></div><article class="reading"><h1>Programming</h1>
+<h2>Data types, variables and constants</h2>
+<p>A <strong>data type</strong> tells the computer what kind of value is stored and which operations make sense.</p>
+<table>
+<tr><th>Type</th><th>Meaning</th><th>Example</th></tr>
+<tr><td>Integer</td><td>Whole number</td><td><code>27</code></td></tr>
+<tr><td>Real</td><td>Number with a fractional part</td><td><code>3.75</code></td></tr>
+<tr><td>Boolean</td><td><code>True</code> or <code>False</code></td><td><code>loggedIn = True</code></td></tr>
+<tr><td>Character</td><td>One character</td><td><code>&#x27;A&#x27;</code></td></tr>
+<tr><td>String</td><td>Sequence of characters</td><td><code>&quot;Shreya&quot;</code></td></tr>
+</table>
+<ul>
+<li>A <strong>variable</strong> is a named storage location whose value can change.</li>
+<li>A <strong>constant</strong> is a named value that should not change while the program runs.</li>
+<li><strong>Assignment</strong> stores a value: pseudocode <code>score ← 0</code>; Python <code>score = 0</code>.</li>
+<li>Use meaningful identifiers such as <code>totalPrice</code>, not vague names such as <code>x</code>.</li>
+</ul>
+<p>Choose types carefully. A telephone number is usually a string because it is not used in arithmetic and may begin with zero.</p>
+<h2>Sequence, selection and iteration</h2>
+<p>The three basic control structures are:</p>
+<ul>
+<li><strong>Sequence:</strong> instructions run in order.</li>
+<li><strong>Selection:</strong> a condition chooses a route.</li>
+<li><strong>Iteration:</strong> instructions repeat.</li>
+</ul>
+<h3>Selection</h3>
+<p>``<code>python if age &gt;= 18:     print(&quot;Adult&quot;) elif age &gt;= 13:     print(&quot;Teenager&quot;) else:     print(&quot;Child&quot;) </code>``</p>
+<p>Selection can be <strong>nested</strong>: one decision sits inside another.</p>
+<h3>Count-controlled iteration</h3>
+<p>Use a <code>for</code> loop when the number of repetitions is known.</p>
+<p>``<code>text FOR count ← 1 TO 5     OUTPUT count ENDFOR </code>``</p>
+<h3>Condition-controlled iteration</h3>
+<p>Use <code>WHILE</code> when the condition is checked before the loop. It may run zero times.</p>
+<p>``<code>python while password != &quot;correct&quot;:     password = input(&quot;Try again: &quot;) </code>``</p>
+<p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
+<h2>Operators and expressions</h2>
+<h3>Arithmetic</h3>
+<table>
+<tr><th>Operation</th><th>Pseudocode</th><th>Python example</th></tr>
+<tr><td>Addition</td><td><code>+</code></td><td><code>a + b</code></td></tr>
+<tr><td>Subtraction</td><td><code>-</code></td><td><code>a - b</code></td></tr>
+<tr><td>Multiplication</td><td><code>*</code></td><td><code>a * b</code></td></tr>
+<tr><td>Real division</td><td><code>/</code></td><td><code>11 / 2</code> gives <code>5.5</code></td></tr>
+<tr><td>Integer division</td><td><code>DIV</code></td><td><code>11 // 2</code> gives <code>5</code></td></tr>
+<tr><td>Remainder</td><td><code>MOD</code></td><td><code>11 % 2</code> gives <code>1</code></td></tr>
+</table>
+<p><code>MOD</code> is useful for divisibility and alternating patterns: <code>number MOD 2 = 0</code> means even.</p>
+<h3>Relational and Boolean operations</h3>
+<p>Relational operators compare values: equal, not equal, <code>&lt;</code>, <code>&gt;</code>, <code>&lt;=</code> and <code>&gt;=</code>.</p>
+<ul>
+<li><code>NOT</code> reverses a Boolean value.</li>
+<li><code>AND</code> is true only when both conditions are true.</li>
+<li><code>OR</code> is true when at least one condition is true.</li>
+</ul>
+<p>Use brackets to make combined conditions clear.</p>
+<h2>Arrays and records</h2>
+<p>A <strong>data structure</strong> organises related data.</p>
+<ul>
+<li>A <strong>one-dimensional array</strong> stores an ordered list of values of the same kind.</li>
+<li>A <strong>two-dimensional array</strong> stores rows and columns, like a grid.</li>
+<li>An array element is accessed using an <strong>index</strong>. Check whether the given language or pseudocode starts indexing at 0 or 1.</li>
+<li>A <strong>record</strong> groups fields about one item, and its fields may have different data types.</li>
+</ul>
+<p>``<code>text RECORD Student     name : String     yearGroup : Integer     present : Boolean ENDRECORD </code>``</p>
+<p>Use an array for 30 test scores. Use a record for one pupil&#x27;s name, date of birth and attendance status.</p>
+<h2>Input, output and strings</h2>
+<ul>
+<li>Input collects data, often from the keyboard.</li>
+<li>Output displays information to the user.</li>
+<li>Convert input to the required type before calculations.</li>
+</ul>
+<p>``<code>python age = int(input(&quot;Age: &quot;)) print(&quot;Next year you will be&quot;, age + 1) </code>``</p>
+<p>String operations you must recognise:</p>
+<ul>
+<li><strong>length</strong>: number of characters</li>
+<li><strong>position</strong>: location of a character or substring</li>
+<li><strong>substring</strong>: selected part of a string</li>
+<li><strong>concatenation</strong>: joining strings</li>
+<li>character ↔ character-code conversion</li>
+<li>string ↔ integer or real conversion</li>
+</ul>
+<p>In Python, examples include <code>len(text)</code>, <code>text[1:4]</code>, <code>first + last</code>, <code>ord(&#x27;A&#x27;)</code>, <code>chr(65)</code>, <code>int(&quot;42&quot;)</code> and <code>str(42)</code>.</p>
+<h2>Random numbers</h2>
+<p>Random-number generation can simulate dice, choose quiz questions or create unpredictable game events. You do not need to explain how pseudo-random numbers are generated.</p>
+<p>``<code>python import random die = random.randint(1, 6) </code>``</p>
+<p>Check whether both endpoints are included in the language or function stated in the question.</p>
+<h2>Subroutines and structured programming</h2>
+<p>A <strong>subroutine</strong> is a named block of code called from elsewhere.</p>
+<ul>
+<li>A <strong>procedure</strong> performs a task.</li>
+<li>A <strong>function</strong> returns a value to the calling code.</li>
+<li>A <strong>parameter</strong> passes data into a subroutine.</li>
+<li>A <strong>return value</strong> passes a result out.</li>
+<li>A <strong>local variable</strong> exists only while its subroutine runs and is accessible only there.</li>
+</ul>
+<p>``<code>python def rectangle_area(width, height):     area = width * height       # local variable     return area </code>``</p>
+<p>Advantages include reuse, less repeated code, easier testing, easier maintenance and clearer decomposition.</p>
+<p><strong>Structured programming</strong> builds a program from small modules with clear interfaces. Parameters, local variables and return values reduce unwanted dependence between modules.</p>
+<h2>Validation and authentication</h2>
+<p><strong>Validation</strong> checks that input is sensible and follows rules. It does not prove that the input is factually correct.</p>
+<p>Common checks include:</p>
+<ul>
+<li>range check, such as 1 to 10</li>
+<li>length check, such as at least 8 characters</li>
+<li>presence check, ensuring a string is not empty</li>
+</ul>
+<p>``<code>python age = int(input(&quot;Age 11 to 18: &quot;)) while age &lt; 11 or age &gt; 18:     age = int(input(&quot;Enter 11 to 18: &quot;)) </code>``</p>
+<p><strong>Authentication</strong> checks identity, for example by comparing a username and password with stored values. In exam programming tasks, plain-text values may be used; real systems should store passwords securely.</p>
+<h2>Testing and error types</h2>
+<p>Testing checks whether an algorithm or program behaves as required.</p>
+<table>
+<tr><th>Test data</th><th>Meaning</th><th>For allowed range 1–10</th></tr>
+<tr><td>Normal</td><td>Typical valid value</td><td>5</td></tr>
+<tr><td>Boundary</td><td>At and just outside limits</td><td>0, 1, 10, 11</td></tr>
+<tr><td>Erroneous</td><td>Invalid type or format</td><td><code>&quot;five&quot;</code></td></tr>
+</table>
+<ul>
+<li>A <strong>syntax error</strong> breaks the language&#x27;s grammar and may stop translation or execution.</li>
+<li>A <strong>logic error</strong> allows the program to run but produces the wrong result.</li>
+</ul>
+<p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
+<h2>Exam coding checklist</h2>
+<ul>
+<li>Use the response form requested: Python, pseudocode or flowchart.</li>
+<li>Use meaningful identifiers and suitable data types.</li>
+<li>Initialise totals, counters and flags before use.</li>
+<li>Check loop boundaries and whether an endpoint is included.</li>
+<li>Indent nested selection and iteration clearly.</li>
+<li>Use <code>=</code> for assignment in Python and <code>==</code> for comparison.</li>
+<li>Test normal, boundary and erroneous inputs.</li>
+</ul>
+<h2>Sources</h2>
+<ul>
+<li>AQA GCSE Computer Science 8525 specification, section 3.2.</li>
+</ul></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

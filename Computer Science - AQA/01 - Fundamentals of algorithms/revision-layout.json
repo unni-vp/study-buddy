@@ -1,0 +1,38 @@
+{
+  "source": "Fundamentals of algorithms - Revision Notes.md",
+  "groups": [
+    {
+      "id": "design",
+      "title": "Designing algorithms",
+      "description": "Break problems down and represent precise solutions.",
+      "icon": "computer-algorithm",
+      "sections": [
+        {"heading": "Algorithms and problem solving"},
+        {"heading": "Representing algorithms"},
+        {"heading": "Inputs, processing, outputs and trace tables"}
+      ]
+    },
+    {
+      "id": "search",
+      "title": "Searching",
+      "description": "Trace and compare linear and binary search.",
+      "icon": "computer-search",
+      "sections": [
+        {"heading": "Comparing efficiency"},
+        {"heading": "Linear search"},
+        {"heading": "Binary search"}
+      ]
+    },
+    {
+      "id": "sort",
+      "title": "Sorting",
+      "description": "Follow bubble sort and merge sort step by step.",
+      "icon": "computer-sort",
+      "sections": [
+        {"heading": "Bubble sort"},
+        {"heading": "Merge sort"},
+        {"heading": "Search and sort comparisons"}
+      ]
+    }
+  ]
+}

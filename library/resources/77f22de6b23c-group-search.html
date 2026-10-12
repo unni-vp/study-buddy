@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Searching · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Fundamentals of algorithms</a><span aria-hidden="true"> / </span><a href="77f22de6b23c.html">Revision notes</a></nav><div class="reader-tools"><a href="77f22de6b23c.html">← All revision notes</a></div><article class="reading section-reading"><h1>Searching</h1>
+<h2>Comparing efficiency</h2>
+<p>More than one algorithm may solve the same problem. For this course, compare <strong>time efficiency</strong>: how the number of steps or time taken changes for the same input.</p>
+<ul>
+<li>Compare algorithms using the <strong>same task and data</strong>.</li>
+<li>An algorithm that performs fewer operations will usually finish faster.</li>
+<li>Formal Big O notation is not required.</li>
+<li>A method may be fast for one kind of data but unsuitable for another.</li>
+</ul>
+<h2>Linear search</h2>
+<p>A <strong>linear search</strong> checks items in order until the target is found or every item has been checked.</p>
+<p>``<code>text found ← False index ← 0 WHILE index &lt; LENGTH(items) AND found = False     IF items[index] = target THEN         found ← True     ELSE         index ← index + 1     ENDIF ENDWHILE </code>``</p>
+<ul>
+<li>Works on <strong>sorted or unsorted</strong> data.</li>
+<li>Simple and suitable for small lists.</li>
+<li>In the worst case, it checks every item.</li>
+</ul>
+<h2>Binary search</h2>
+<p>A <strong>binary search</strong> repeatedly checks the middle item and discards half of the remaining search area.</p>
+<ol>
+<li>Check the middle item.</li>
+<li>If it is the target, stop.</li>
+<li>If the target is smaller, continue in the lower half.</li>
+<li>If the target is larger, continue in the upper half.</li>
+<li>Repeat until found or no items remain.</li>
+</ol>
+<p>The data <strong>must be sorted</strong>. Binary search is usually much faster than linear search for a large sorted list because the search area halves each step.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="77f22de6b23c-group-design.html"><span>← Previous</span><strong>Designing algorithms</strong></a><a href="77f22de6b23c-group-sort.html"><span>Next →</span><strong>Sorting</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

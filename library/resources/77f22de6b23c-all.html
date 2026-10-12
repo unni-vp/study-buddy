@@ -1,0 +1,101 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Fundamentals of algorithms — all revision notes · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Fundamentals of algorithms</a><span aria-hidden="true"> / </span><a href="77f22de6b23c.html">Revision notes</a></nav><div class="reader-tools"><a href="77f22de6b23c.html">← All revision notes</a><button onclick="window.print()">Print all notes</button></div><article class="reading"><h1>Fundamentals of algorithms</h1>
+<h2>Algorithms and problem solving</h2>
+<p>An <strong>algorithm</strong> is a <strong>sequence of steps that can be followed to complete a task</strong>. Think of it as a precise recipe: the ingredients are the inputs, the method is the processing, and the finished dish is the output.</p>
+<ul>
+<li>A <strong>program</strong> is an implementation of an algorithm in a programming language.</li>
+<li>The same algorithm can be implemented in Python, another language or hardware.</li>
+<li>A good algorithm is unambiguous, finishes after a finite number of steps and produces the required output for valid inputs.</li>
+</ul>
+<h3>Decomposition and abstraction</h3>
+<ul>
+<li><strong>Decomposition</strong> breaks a large problem into smaller sub-problems with identifiable jobs.</li>
+<li><strong>Abstraction</strong> removes detail that is not needed for the current problem.</li>
+</ul>
+<p>For a school-booking system, decomposition might separate login, room search and booking. Abstraction might store whether a room is available without modelling its wall colour.</p>
+<h2>Representing algorithms</h2>
+<p>You may be asked for <strong>pseudocode</strong>, <strong>program code</strong> or a <strong>flowchart</strong>. Follow the form named in the question.</p>
+<h3>Pseudocode</h3>
+<p>Pseudocode expresses the logic without depending on one real programming language.</p>
+<p>``<code>text OUTPUT &quot;Enter a temperature&quot; temperature ← USERINPUT IF temperature &lt; 0 THEN     OUTPUT &quot;Freezing&quot; ELSE     OUTPUT &quot;Not freezing&quot; ENDIF </code>``</p>
+<h3>Python</h3>
+<p>``<code>python temperature = float(input(&quot;Enter a temperature: &quot;)) if temperature &lt; 0:     print(&quot;Freezing&quot;) else:     print(&quot;Not freezing&quot;) </code>``</p>
+<h3>Flowcharts</h3>
+<table>
+<tr><th>Shape</th><th>Meaning</th></tr>
+<tr><td>Oval</td><td>Start or stop</td></tr>
+<tr><td>Rectangle</td><td>Process or calculation</td></tr>
+<tr><td>Parallelogram</td><td>Input or output</td></tr>
+<tr><td>Diamond</td><td>Decision with labelled branches</td></tr>
+<tr><td>Arrow</td><td>Direction of control flow</td></tr>
+</table>
+<p>Keep each decision as a question with clear outcomes such as <strong>Yes/No</strong>.</p>
+<h2>Inputs, processing, outputs and trace tables</h2>
+<ul>
+<li><strong>Input:</strong> data supplied to an algorithm.</li>
+<li><strong>Processing:</strong> calculations, comparisons or changes made to the data.</li>
+<li><strong>Output:</strong> information produced by the algorithm.</li>
+</ul>
+<p>A <strong>trace table</strong> records variable values as an algorithm runs. Work one instruction at a time and create a new row whenever a tracked value changes.</p>
+<p>``<code>text total ← 0 FOR number ← 1 TO 3     total ← total + number ENDFOR OUTPUT total </code>``</p>
+<table>
+<tr><th>number</th><th>total after addition</th></tr>
+<tr><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>3</td></tr>
+<tr><td>3</td><td>6</td></tr>
+</table>
+<p>The output is <strong>6</strong>. Do not guess the purpose from variable names; prove it from the instructions and trace.</p>
+<h2>Comparing efficiency</h2>
+<p>More than one algorithm may solve the same problem. For this course, compare <strong>time efficiency</strong>: how the number of steps or time taken changes for the same input.</p>
+<ul>
+<li>Compare algorithms using the <strong>same task and data</strong>.</li>
+<li>An algorithm that performs fewer operations will usually finish faster.</li>
+<li>Formal Big O notation is not required.</li>
+<li>A method may be fast for one kind of data but unsuitable for another.</li>
+</ul>
+<h2>Linear search</h2>
+<p>A <strong>linear search</strong> checks items in order until the target is found or every item has been checked.</p>
+<p>``<code>text found ← False index ← 0 WHILE index &lt; LENGTH(items) AND found = False     IF items[index] = target THEN         found ← True     ELSE         index ← index + 1     ENDIF ENDWHILE </code>``</p>
+<ul>
+<li>Works on <strong>sorted or unsorted</strong> data.</li>
+<li>Simple and suitable for small lists.</li>
+<li>In the worst case, it checks every item.</li>
+</ul>
+<h2>Binary search</h2>
+<p>A <strong>binary search</strong> repeatedly checks the middle item and discards half of the remaining search area.</p>
+<ol>
+<li>Check the middle item.</li>
+<li>If it is the target, stop.</li>
+<li>If the target is smaller, continue in the lower half.</li>
+<li>If the target is larger, continue in the upper half.</li>
+<li>Repeat until found or no items remain.</li>
+</ol>
+<p>The data <strong>must be sorted</strong>. Binary search is usually much faster than linear search for a large sorted list because the search area halves each step.</p>
+<h2>Bubble sort</h2>
+<p>A <strong>bubble sort</strong> repeatedly compares neighbouring items and swaps them when they are in the wrong order.</p>
+<p>Example: <code>5, 2, 4</code></p>
+<ul>
+<li>Compare 5 and 2 → swap: <code>2, 5, 4</code></li>
+<li>Compare 5 and 4 → swap: <code>2, 4, 5</code></li>
+<li>A pass with no swaps proves the list is sorted.</li>
+</ul>
+<p>It is simple but can require many comparisons and swaps, especially for a large or reverse-ordered list.</p>
+<h2>Merge sort</h2>
+<p>A <strong>merge sort</strong> uses decomposition:</p>
+<ol>
+<li>Repeatedly split the list into smaller lists until each contains one item.</li>
+<li>Merge neighbouring lists while placing items into order.</li>
+<li>Continue merging until one sorted list remains.</li>
+</ol>
+<p>Merge sort is generally more time-efficient than bubble sort for large lists, but it needs extra memory to hold temporary lists.</p>
+<h2>Search and sort comparisons</h2>
+<table>
+<tr><th>Pair</th><th>Must-know comparison</th></tr>
+<tr><td>Linear vs binary search</td><td>Linear works on unsorted data; binary needs sorted data but removes half the search area each step</td></tr>
+<tr><td>Bubble vs merge sort</td><td>Bubble repeatedly swaps neighbours; merge sort splits then merges ordered sublists</td></tr>
+<tr><td>Efficiency</td><td>Describe the number of checks, comparisons or swaps for the stated data</td></tr>
+</table>
+<p>When explaining an algorithm, state the <strong>starting condition</strong>, the <strong>repeated action</strong>, how the search area or list changes, and the <strong>stopping condition</strong>.</p>
+<h2>Sources</h2>
+<ul>
+<li>AQA GCSE Computer Science 8525 specification, section 3.1.</li>
+</ul></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

@@ -1,0 +1,107 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Computer systems — all revision notes · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Computer systems</a><span aria-hidden="true"> / </span><a href="f4a695c2bfa7.html">Revision notes</a></nav><div class="reader-tools"><a href="f4a695c2bfa7.html">← All revision notes</a><button onclick="window.print()">Print all notes</button></div><article class="reading"><h1>Computer systems</h1>
+<h2>Hardware, software and Boolean logic</h2>
+<ul>
+<li><strong>Hardware</strong> is the physical equipment in a computer system.</li>
+<li><strong>Software</strong> is the programs and data that tell hardware what to do.</li>
+<li>Hardware needs software instructions; software needs hardware on which to run.</li>
+</ul>
+<p>Boolean logic uses values that are either 0/1 or False/True.</p>
+<table>
+<tr><th>A</th><th>B</th><th>AND</th><th>OR</th><th>XOR</th></tr>
+<tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td></tr>
+</table>
+<p><code>NOT</code> reverses one input. <code>XOR</code> is true when the two inputs are <strong>different</strong>.</p>
+<p>For a circuit with several gates, calculate intermediate outputs one gate at a time. AQA notation may use <code>.</code> for AND, <code>+</code> for OR, <code>⊕</code> for XOR and an overbar for NOT.</p>
+<h2>System and application software</h2>
+<ul>
+<li><strong>System software</strong> manages computer resources and provides a platform for applications.</li>
+<li><strong>Application software</strong> performs end-user tasks, such as word processing or image editing.</li>
+</ul>
+<p>An <strong>operating system</strong> manages:</p>
+<ul>
+<li>processors and scheduling</li>
+<li>memory allocation</li>
+<li>input/output devices and drivers</li>
+<li>applications and files</li>
+<li>users, permissions and security</li>
+</ul>
+<p><strong>Utility software</strong> maintains, protects or configures a system. Examples include backup tools, anti-malware software, compression tools and disk-management utilities.</p>
+<h2>High-level and low-level languages</h2>
+<h3>High-level languages</h3>
+<ul>
+<li>Use human-readable statements and abstractions.</li>
+<li>Usually portable between processor types after suitable translation.</li>
+<li>Faster to write, test and maintain.</li>
+<li>Give less direct control over hardware.</li>
+</ul>
+<h3>Low-level languages</h3>
+<ul>
+<li><strong>Machine code</strong> is binary executed directly by a particular processor instruction set.</li>
+<li><strong>Assembly language</strong> uses mnemonics and has roughly a one-to-one relationship with machine-code instructions.</li>
+<li>Low-level programs can give close hardware control and may be efficient, but are harder to create and are processor-specific.</li>
+<li>Assembly is useful for embedded systems or direct hardware control.</li>
+</ul>
+<h2>Translators</h2>
+<p>Code written in a high-level or assembly language must be translated before the processor can execute it.</p>
+<table>
+<tr><th>Translator</th><th>What it does</th><th>Typical use</th></tr>
+<tr><td>Compiler</td><td>Translates a whole high-level program into machine code and produces executable/object code</td><td>Distributing a finished program and running it repeatedly</td></tr>
+<tr><td>Interpreter</td><td>Reads high-level statements and calls suitable machine-code routines as the program runs; it does not directly create a machine-code program</td><td>Development, testing and interactive execution</td></tr>
+<tr><td>Assembler</td><td>Translates assembly language, normally one instruction to one machine-code instruction</td><td>Low-level and embedded code</td></tr>
+</table>
+<p>A compiler can take time before the first run, but the translated program can run without translating each statement again. An interpreter can stop at the first encountered error and supports quick testing, but needs the interpreter when running.</p>
+<h2>CPU components</h2>
+<p>The <strong>central processing unit (CPU)</strong> executes program instructions.</p>
+<ul>
+<li><strong>Arithmetic logic unit (ALU):</strong> calculations and logical comparisons.</li>
+<li><strong>Control unit (CU):</strong> coordinates the fetch-decode-execute cycle and sends control signals.</li>
+<li><strong>Clock:</strong> produces timing signals that synchronise operations.</li>
+<li><strong>Registers:</strong> tiny, very fast storage locations inside the CPU.</li>
+<li><strong>Buses:</strong> collections of wires carrying data or signals between components.</li>
+<li><strong>Main memory:</strong> stores active instructions and data for direct CPU access.</li>
+</ul>
+<h2>Fetch-decode-execute cycle</h2>
+<p>Think of the CPU as repeatedly collecting and following instruction cards:</p>
+<ol>
+<li><strong>Fetch:</strong> get the next instruction from main memory into the CPU.</li>
+<li><strong>Decode:</strong> the control unit works out what the instruction means.</li>
+<li><strong>Execute:</strong> carry out the instruction, possibly reading or writing data.</li>
+<li>Repeat continuously.</li>
+</ol>
+<p>The clock keeps operations in step, while buses carry instructions, data and control signals.</p>
+<h2>CPU performance</h2>
+<ul>
+<li>Higher <strong>clock speed</strong> allows more clock cycles per second, but heat and architecture limit the benefit.</li>
+<li>More <strong>processor cores</strong> allow more instructions or tasks to be processed at the same time when software can use them.</li>
+<li>Larger <strong>cache</strong> keeps more frequently used instructions and data close to the CPU, reducing slower main-memory access.</li>
+</ul>
+<p>Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.</p>
+<h2>Memory types</h2>
+<table>
+<tr><th>Type</th><th>Volatile?</th><th>Purpose</th></tr>
+<tr><td>Register</td><td>Yes</td><td>Immediate values and instructions inside the CPU</td></tr>
+<tr><td>Cache</td><td>Yes</td><td>Frequently used data/instructions close to the CPU</td></tr>
+<tr><td>RAM</td><td>Yes</td><td>Active programs and data in main memory</td></tr>
+<tr><td>ROM</td><td>No</td><td>Instructions or data that must persist, such as startup firmware</td></tr>
+</table>
+<p><strong>Volatile</strong> memory loses its contents without power. <strong>Non-volatile</strong> memory keeps them.</p>
+<p>Main memory is directly accessible by the CPU, apart from cache and registers which are treated separately here. Secondary storage is non-volatile and not directly accessed by the CPU.</p>
+<h2>Secondary and cloud storage</h2>
+<p>Secondary storage is needed for long-term storage of programs and data.</p>
+<h3>Magnetic storage</h3>
+<p>Stores data by magnetising areas of a surface, usually with moving parts. It often offers high capacity at low cost but is slower and more vulnerable to shock.</p>
+<h3>Solid-state storage</h3>
+<p>Uses electronic circuits with no moving parts. It is fast, quiet, durable and energy-efficient, but often costs more per gigabyte and has limited write endurance.</p>
+<h3>Cloud storage</h3>
+<p>Stores data on remote servers that use magnetic and/or solid-state storage.</p>
+<p>Advantages include access from different locations, sharing, off-site backup and scalable capacity. Disadvantages include dependence on internet access and the provider, ongoing costs, privacy/security concerns and slower transfer for large files.</p>
+<h2>Embedded systems</h2>
+<p>An <strong>embedded system</strong> is a computer built into a larger device to perform a dedicated or limited set of functions.</p>
+<p>Examples include a washing-machine controller, car engine-control unit and smart thermostat. A general-purpose laptop runs many user-selected applications, while an embedded system is designed around its specific job, often with limited memory, power and processing.</p>
+<h2>Sources</h2>
+<ul>
+<li>AQA GCSE Computer Science 8525 specification, section 3.4.</li>
+</ul></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

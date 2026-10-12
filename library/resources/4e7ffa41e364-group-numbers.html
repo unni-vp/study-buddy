@@ -1,0 +1,45 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Numbers and units · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><h1>Numbers and units</h1>
+<h2>Binary, decimal and hexadecimal</h2>
+<p>Computers store every instruction and piece of data as <strong>bit patterns</strong>. The same pattern could represent a number, character, pixel or sound sample; its meaning depends on how software interprets it.</p>
+<table>
+<tr><th>Base</th><th>Digits</th><th>Place values</th></tr>
+<tr><td>Decimal, base 10</td><td>0–9</td><td>powers of 10</td></tr>
+<tr><td>Binary, base 2</td><td>0 and 1</td><td>powers of 2</td></tr>
+<tr><td>Hexadecimal, base 16</td><td>0–9 and A–F</td><td>powers of 16</td></tr>
+</table>
+<p>Hexadecimal is a compact, readable way to write binary: <strong>one hexadecimal digit represents four bits</strong>. It is used for values such as colour codes and memory addresses.</p>
+<h2>Converting number bases</h2>
+<p>For an 8-bit binary number, use place values:</p>
+<table>
+<tr><th>128</th><th>64</th><th>32</th><th>16</th><th>8</th><th>4</th><th>2</th><th>1</th></tr>
+</table>
+<p><code>10110110</code> = 128 + 32 + 16 + 4 + 2 = <strong>182</strong>.</p>
+<p>To convert decimal to binary, select place values that add to the number. For 45: 32 + 8 + 4 + 1, so <strong>00101101</strong>.</p>
+<p>For binary ↔ hexadecimal, split binary into groups of four from the right:</p>
+<p><code>1101 0110</code> → D and 6 → <strong>D6</strong>.</p>
+<p>Hexadecimal <code>7B</code> = (7 × 16) + 11 = <strong>123</strong>. Values in this course range from 0 to 255, equal to <code>00000000</code>–<code>11111111</code> or <code>00</code>–<code>FF</code>.</p>
+<h2>Bits, bytes and prefixes</h2>
+<ul>
+<li>A <strong>bit</strong> is one binary digit, 0 or 1.</li>
+<li>A <strong>byte</strong> is 8 bits.</li>
+<li>Lower-case <strong>b</strong> means bit; upper-case <strong>B</strong> means byte.</li>
+</ul>
+<p>Use decimal prefixes:</p>
+<ul>
+<li>1 kB = 1,000 bytes</li>
+<li>1 MB = 1,000 kB</li>
+<li>1 GB = 1,000 MB</li>
+<li>1 TB = 1,000 GB</li>
+</ul>
+<p>To move to a larger unit, divide by 1,000. To move to a smaller unit, multiply by 1,000.</p>
+<h2>Binary arithmetic and shifts</h2>
+<p>Binary addition follows these facts:</p>
+<ul>
+<li>0 + 0 = 0</li>
+<li>0 + 1 = 1</li>
+<li>1 + 1 = 10, so write 0 and carry 1</li>
+<li>1 + 1 + 1 = 11, so write 1 and carry 1</li>
+</ul>
+<p>A <strong>logical left shift</strong> moves bits left and fills empty positions with zero. Each place left multiplies an unsigned whole number by 2 if no important bit is lost.</p>
+<p>A <strong>logical right shift</strong> moves bits right and fills with zero. Each place right performs integer division by 2; bits shifted out are lost.</p>
+<p>Example: <code>00010110</code> (22) shifted left once becomes <code>00101100</code> (44).</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="4e7ffa41e364-group-media.html"><span>Next →</span><strong>Text, images and sound</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

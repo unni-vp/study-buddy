@@ -1,0 +1,188 @@
+{
+  "title": "Computer systems flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Define hardware.",
+      "back": [
+        "The physical components of a computer system."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which logic gate outputs 1 only when its two inputs are different?",
+      "back": [
+        "XOR."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which CPU component performs calculations and logical comparisons?",
+      "back": [
+        "Arithmetic logic unit (ALU)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which translator converts assembly language into machine code?",
+      "back": [
+        "Assembler."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the volatile main memory used for active programs and data.",
+      "back": [
+        "RAM."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is an embedded system?",
+      "back": [
+        "A computer built into a larger device to perform a dedicated or limited function."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the relationship between hardware and software.",
+      "back": [
+        "Software supplies instructions and data that control operations.",
+        "Hardware provides the physical components that execute those instructions."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between system software and application software.",
+      "back": [
+        "System software manages computer resources and provides a platform.",
+        "Application software performs tasks for the end user."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two functions of an operating system.",
+      "back": [
+        "Any two of processor scheduling, memory management, device/I/O management, application management, file management or security."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between machine code and assembly language.",
+      "back": [
+        "Machine code is binary executed directly by a particular processor.",
+        "Assembly uses mnemonic instructions with a one-to-one correspondence to machine-code instructions."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between volatile and non-volatile memory.",
+      "back": [
+        "Volatile memory loses its contents when power is removed.",
+        "Non-volatile memory retains its contents without power."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one advantage and one disadvantage of cloud storage compared with local storage.",
+      "back": [
+        "It can be accessed from different locations and can provide off-site backup.",
+        "It depends on connectivity/provider availability or may create privacy and ongoing-cost concerns."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Give the outputs of AND, OR and XOR when A = 1 and B = 1.",
+      "back": [
+        "AND = 1.",
+        "OR = 1.",
+        "XOR = 0."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the fetch-decode-execute cycle.",
+      "back": [
+        "Fetch the next instruction from main memory into the CPU.",
+        "Decode it to determine the required operation.",
+        "Execute the instruction, including any required read or write."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how cache size can affect CPU performance.",
+      "back": [
+        "Cache stores frequently used instructions and data close to the CPU.",
+        "A larger cache can hold more of this data.",
+        "This can reduce slower accesses to main memory and improve performance."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Compare RAM and ROM.",
+      "back": [
+        "RAM is volatile and stores programs/data currently in use.",
+        "ROM is non-volatile and stores instructions or data that must persist.",
+        "Both provide electronic storage used by the computer system."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Give three advantages of high-level languages over low-level languages.",
+      "back": [
+        "They are easier for people to read and write.",
+        "Programs are faster to develop, test and maintain.",
+        "The source can usually be translated for different processor types."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why an SSD is suitable for a laptop.",
+      "back": [
+        "It has no moving parts, so it is resistant to physical shock.",
+        "It provides fast access to programs and data.",
+        "It is quiet and generally uses less power than magnetic storage."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare a compiler and an interpreter.",
+      "back": [
+        "A compiler translates the whole high-level program and produces machine/object code.",
+        "The translated program can run later without translating every statement again.",
+        "An interpreter processes statements while the program runs and does not directly create a machine-code program.",
+        "Interpretation supports quick testing but requires the interpreter and may be slower during repeated execution."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain the roles of the ALU, control unit, clock and registers.",
+      "back": [
+        "The ALU performs arithmetic and logical operations.",
+        "The control unit coordinates instruction processing and sends control signals.",
+        "The clock supplies timing signals that synchronise operations.",
+        "Registers hold immediate instructions, data or intermediate results inside the CPU."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare magnetic and solid-state secondary storage.",
+      "back": [
+        "Magnetic storage magnetises a surface and often contains moving parts.",
+        "It normally gives high capacity at a lower cost per gigabyte.",
+        "Solid-state storage uses electronic circuits with no moving parts, so it is faster and more resistant to shock.",
+        "Solid state often costs more per gigabyte and has limited write endurance."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how clock speed, cores and cache can affect CPU performance.",
+      "back": [
+        "Higher clock speed allows more cycles each second.",
+        "Multiple cores can process more tasks simultaneously when software supports parallel work.",
+        "Larger cache reduces time spent waiting for main memory.",
+        "Overall improvement depends on the workload, software and other system bottlenecks."
+      ]
+    }
+  ]
+}
