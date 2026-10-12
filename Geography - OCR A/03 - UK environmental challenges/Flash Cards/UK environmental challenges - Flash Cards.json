@@ -1,0 +1,167 @@
+{
+  "title": "UK environmental challenges",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is an air mass?",
+      "back": [
+        "A large body of air with similar temperature and moisture."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which air mass usually brings mild, wet weather from the Atlantic?",
+      "back": [
+        "Tropical maritime."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is continentality?",
+      "back": [
+        "The effect of distance from the sea on climate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give one renewable energy source.",
+      "back": [
+        "Wind power."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What gas makes biogas useful as a fuel?",
+      "back": [
+        "Methane."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the UK flood case study used in this course.",
+      "back": [
+        "Somerset Levels."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how the North Atlantic Drift affects the UK climate.",
+      "back": [
+        "It transfers warm ocean water towards north-west Europe.",
+        "This helps make UK winters milder than places at a similar latitude."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why western uplands are generally wetter than eastern lowlands.",
+      "back": [
+        "Moist Atlantic air is forced to rise over upland relief.",
+        "It cools, condenses and produces rainfall before descending towards the east."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of flooding on people.",
+      "back": [
+        "Homes or businesses may be damaged.",
+        "Roads may be cut off, disrupting travel and services."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one advantage and one disadvantage of a reservoir.",
+      "back": [
+        "Advantage: it stores water for periods of high demand or low rainfall.",
+        "Disadvantage: it floods land and can damage habitats or communities."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why wind power needs support from storage or other energy sources.",
+      "back": [
+        "Wind speed varies, so output is intermittent.",
+        "Supply must still meet demand when turbines generate little electricity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two products of anaerobic digestion.",
+      "back": [
+        "Biogas.",
+        "Digestate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how prolonged rainfall can cause river flooding.",
+      "back": [
+        "Rain fills soil stores until the ground becomes saturated.",
+        "More water then flows over the surface or rapidly through the soil into rivers.",
+        "Discharge rises above channel capacity and water spills onto the floodplain."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why the Somerset Levels are vulnerable to flooding.",
+      "back": [
+        "Much of the landscape is low-lying and very flat.",
+        "Water drains slowly, especially when the ground is saturated and rivers are high.",
+        "Tidal conditions and limited channel capacity can make it difficult to remove floodwater."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one environmental problem caused by intensive food production.",
+      "back": [
+        "Large fertiliser inputs can be washed into rivers.",
+        "Nutrients encourage excessive algal growth.",
+        "Decomposition then reduces oxygen, harming aquatic life."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how anaerobic digestion produces useful energy.",
+      "back": [
+        "Microorganisms break down organic material in a sealed tank without oxygen.",
+        "This releases methane-rich biogas.",
+        "The gas is burned in suitable equipment to produce heat or electricity."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how air masses and continentality create contrasting UK weather.",
+      "back": [
+        "Tropical maritime air crosses the Atlantic and brings mild, moist conditions.",
+        "Polar continental air can bring cold, dry conditions from eastern Europe.",
+        "Coastal places are moderated by the sea because water heats and cools slowly.",
+        "Inland areas have a greater temperature range because land changes temperature faster."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how two long-term strategies could reduce flood risk on the Somerset Levels.",
+      "back": [
+        "Maintaining or dredging selected channels can increase the amount of water carried away, although effects downstream must be considered.",
+        "Floodplain or wetland storage holds water back and lowers the peak discharge reaching vulnerable settlements."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why the UK's energy mix has changed since 1950.",
+      "back": [
+        "Domestic coal declined as mines closed and pollution and carbon concerns grew.",
+        "Oil and gas became important for transport, heating and electricity.",
+        "Nuclear provided dependable low-operational-carbon electricity.",
+        "Falling costs, technology and climate policy encouraged growth in renewables."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two disadvantages of Hinkley Point C.",
+      "back": [
+        "Its construction is expensive and lengthy, so benefits take a long time to arrive.",
+        "Nuclear waste remains radioactive and requires secure long-term management."
+      ]
+    }
+  ]
+}

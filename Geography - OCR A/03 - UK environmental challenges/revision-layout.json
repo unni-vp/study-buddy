@@ -1,0 +1,36 @@
+{
+  "source": "UK environmental challenges - Revision Notes.md",
+  "groups": [
+    {
+      "id": "climate-flooding",
+      "title": "Climate & flooding",
+      "description": "UK climate controls, extreme weather and Somerset Levels",
+      "icon": "overview",
+      "sections": [
+        {"heading": "The UK's climate"},
+        {"heading": "Flooding: Somerset Levels"}
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Food, water & energy",
+      "description": "Resource pressures, management and energy choices",
+      "icon": "exchange",
+      "sections": [
+        {"heading": "Food, water and energy"},
+        {"heading": "Changing UK energy supply"}
+      ]
+    },
+    {
+      "id": "energy-case-studies",
+      "title": "Energy case studies",
+      "description": "Hinkley Point C, Dryholme Farm and evaluation",
+      "icon": "practical",
+      "sections": [
+        {"heading": "Energy case studies"},
+        {"heading": "Evaluating a strategy"},
+        {"heading": "High-yield checklist"}
+      ]
+    }
+  ]
+}
