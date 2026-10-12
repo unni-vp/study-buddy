@@ -1,0 +1,180 @@
+{
+  "title": "Energy flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is power?",
+      "back": [
+        "The rate of energy transfer or the rate of doing work."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the SI unit of energy?",
+      "back": [
+        "Joule (J)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the store that increases when a spring is stretched.",
+      "back": [
+        "Elastic potential."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a renewable energy resource mean?",
+      "back": [
+        "A resource that is replenished as it is used."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the main energy changes when a ball rises after being thrown, including air resistance.",
+      "back": [
+        "Its **kinetic store decreases** while its **gravitational potential store increases**.",
+        "Air resistance transfers some energy to **thermal stores of the ball and surroundings**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A 500 W motor runs for 20 s. Calculate the energy transferred.",
+      "back": [
+        "**E = Pt** = 500 × 20 = **10,000 J**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A device receives 800 J and transfers 600 J usefully. Calculate its percentage efficiency.",
+      "back": [
+        "Efficiency = 600/800 = 0.75. Percentage efficiency = **75%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is energy described as dissipated rather than destroyed when a moving car brakes?",
+      "back": [
+        "Energy transfers from the car’s kinetic store to **thermal stores**.",
+        "It spreads into the surroundings and becomes less useful, but **total energy is conserved**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State two control variables when comparing different insulating materials around identical containers of hot water.",
+      "back": [
+        "Same **thickness of insulation**.",
+        "Same **mass of water and starting temperature**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a thicker wall of the same material usually reduces cooling, for the same area and temperature difference.",
+      "back": [
+        "It increases the distance over which energy must transfer by **conduction**.",
+        "The **rate of energy transfer decreases**, so the building cools more slowly."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one reliability advantage of tides over wind and one limitation of tidal generation.",
+      "back": [
+        "Tidal timing is **predictable**, whereas wind varies unpredictably.",
+        "Tidal output is **not continuous**, so other supply or storage may still be needed."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the kinetic energy of a 1,200 kg car travelling at 15 m/s.",
+      "back": [
+        "**Eₖ = ½mv²**.",
+        "Eₖ = 0.5 × 1,200 × 15².",
+        "**Eₖ = 135,000 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 3.0 kg load is lifted through 2.0 m. Use g = 9.8 N/kg to calculate its increase in gravitational potential energy.",
+      "back": [
+        "**Eₚ = mgΔh**.",
+        "Eₚ = 3.0 × 9.8 × 2.0.",
+        "**58.8 J** (about 59 J)."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A spring of constant 160 N/m is stretched by 5.0 cm within its proportional limit. Calculate the energy stored.",
+      "back": [
+        "Convert e = **0.050 m**.",
+        "**Eₑ = ½ke²** = 0.5 × 160 × 0.050².",
+        "**0.20 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 0.80 kg sample warms from 18°C to 43°C. Its specific heat capacity is 900 J/kg°C. Calculate the thermal energy increase.",
+      "back": [
+        "Δθ = 43 − 18 = **25°C**.",
+        "**ΔE = mcΔθ** = 0.80 × 900 × 25.",
+        "**18,000 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why lubricating moving machine parts can increase efficiency.",
+      "back": [
+        "Lubrication **reduces friction**.",
+        "Less input energy transfers to unwanted **thermal stores**.",
+        "A greater fraction of input becomes the **useful output**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A heater transfers 9,000 J to a 0.50 kg block. Its temperature rises by 20°C. Calculate the specific heat capacity, assuming all energy heats the block.",
+      "back": [
+        "**c = E/(mΔθ)**.",
+        "c = 9,000/(0.50 × 20).",
+        "**900 J/kg°C**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A metal-block heating experiment loses energy to the room. Explain the effect on the calculated specific heat capacity if all electrical input is treated as energy gained by the block.",
+      "back": [
+        "The measured temperature rise is **smaller** than if all input heated the block.",
+        "The calculation uses **c = E/(mΔθ)** with an input E that includes losses.",
+        "The calculated c is therefore **too high**. Insulation reduces this error."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A motor of efficiency 0.70 lifts a 20 kg load through 3.0 m in 5.0 s. Use g = 10 N/kg. Calculate the useful power and the total electrical input power.",
+      "back": [
+        "Useful energy = mgΔh = 20 × 10 × 3.0 = **600 J**.",
+        "Useful power = E/t = 600/5.0 = **120 W**.",
+        "Efficiency = useful power / input power.",
+        "Input power = 120/0.70 = **171 W** (about 170 W)."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Two equal-mass samples receive equal energy from identical heaters. A warms by 12°C and B by 30°C. Which has the larger specific heat capacity, and by what factor?",
+      "back": [
+        "**c = E/(mΔθ)**.",
+        "With equal E and m, c is **inversely proportional to temperature rise**.",
+        "A has the larger c because it warms less.",
+        "cA/cB = 30/12 = **2.5**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 2.0 kg object falls 5.0 m from rest. Air resistance transfers 18 J to thermal stores. Use g = 9.8 N/kg. Calculate its final speed.",
+      "back": [
+        "Gravitational energy lost = 2.0 × 9.8 × 5.0 = **98 J**.",
+        "Kinetic energy gained = 98 − 18 = **80 J**.",
+        "v = **√(2Eₖ/m)** = √(160/2).",
+        "**v = 8.94 m/s**."
+      ]
+    }
+  ]
+}

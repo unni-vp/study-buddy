@@ -16,5 +16,17 @@
     "01-energy-stores-and-calculations",
     "02-heating-and-practicals",
     "03-energy-resources"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Energy - Questions and Answers.md",
+    "deck": "Flash Cards/Energy - Flash Cards.json",
+    "count": 21,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }
