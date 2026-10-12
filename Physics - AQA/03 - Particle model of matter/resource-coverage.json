@@ -14,5 +14,17 @@
     "00-particle-model-overview",
     "01-states-and-density",
     "02-heating-and-gas-pressure"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Particle model of matter - Questions and Answers.md",
+    "deck": "Flash Cards/Particle model of matter - Flash Cards.json",
+    "count": 20,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }

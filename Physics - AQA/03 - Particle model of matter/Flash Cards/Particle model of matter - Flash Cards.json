@@ -1,0 +1,170 @@
+{
+  "title": "Particle model of matter flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Write the equation linking density, mass and volume.",
+      "back": [
+        "ρ = m/V."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the change from solid directly to gas.",
+      "back": [
+        "Sublimation."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the unit of specific latent heat?",
+      "back": [
+        "J/kg."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens to the temperature of a pure substance while it melts at constant pressure?",
+      "back": [
+        "It stays constant."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Compare particle movement in a solid and a gas.",
+      "back": [
+        "In a solid particles **vibrate about fixed positions**.",
+        "In a gas particles move rapidly and **randomly in all directions**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Define internal energy.",
+      "back": [
+        "The **total kinetic energy and potential energy of all the particles** in a system."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A block has mass 540 g and volume 200 cm³. Calculate its density in g/cm³.",
+      "back": [
+        "ρ = m/V = 540/200 = **2.7 g/cm³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does a gas usually have much lower density than a liquid of the same substance?",
+      "back": [
+        "Gas particles are **much farther apart**.",
+        "The same mass occupies a much larger volume, so **mass per unit volume is lower**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An empty cylinder has mass 60 g. With 80 cm³ of liquid it has mass 124 g. Calculate the liquid’s density.",
+      "back": [
+        "Liquid mass = 124 − 60 = **64 g**. Density = 64/80 = **0.80 g/cm³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why mass can decrease in an open beaker when water evaporates without violating conservation of mass.",
+      "back": [
+        "Water particles **escape into the surroundings** as vapour.",
+        "Total mass including the escaped vapour is conserved; particles are not destroyed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why must the starting water volume be subtracted when measuring an irregular object’s volume?",
+      "back": [
+        "The final reading includes both the original water and the displaced volume.",
+        "**Final minus initial volume** gives the volume of the submerged object alone."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 0.25 kg sample has specific heat capacity 800 J/kg°C. Calculate the energy needed to warm it from 20°C to 50°C.",
+      "back": [
+        "Δθ = 50 − 20 = **30°C**.",
+        "ΔE = mcΔθ = 0.25 × 800 × 30.",
+        "**6,000 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the energy required to melt 0.15 kg of ice at 0°C. Its specific latent heat of fusion is 334,000 J/kg.",
+      "back": [
+        "**E = mL**.",
+        "E = 0.15 × 334,000.",
+        "**50,100 J**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A sealed gas occupies 40 cm³ at 120 kPa. It expands to 60 cm³ at constant temperature. Calculate its new pressure.",
+      "back": [
+        "**p₁V₁ = p₂V₂**.",
+        "p₂ = 120 × 40/60.",
+        "**80 kPa**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why heating a fixed mass of gas in a rigid sealed container increases its pressure.",
+      "back": [
+        "Average kinetic energy increases, so particles **move faster**.",
+        "Wall collisions occur more frequently and involve larger momentum changes.",
+        "The force per unit area increases, so **pressure rises**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A bicycle pump becomes warm during rapid compression. Explain why.",
+      "back": [
+        "A force moves the piston, doing **work on the gas**.",
+        "Energy transfers into the gas’s **internal energy**.",
+        "With little time for energy to escape, average particle kinetic energy and **temperature increase**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why internal energy increases while ice melts even though its temperature is constant.",
+      "back": [
+        "Energy is transferred into the ice by heating.",
+        "It increases particle **potential energy** as the arrangement and interactions change.",
+        "Average kinetic energy does not increase, so **temperature stays constant**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A cuboid measures 4.0 cm × 3.0 cm × 2.0 cm and has mass 192 g. Calculate its density in g/cm³ and kg/m³.",
+      "back": [
+        "V = 4.0 × 3.0 × 2.0 = **24 cm³**.",
+        "ρ = 192/24 = **8.0 g/cm³**.",
+        "1 g/cm³ = **1,000 kg/m³**.",
+        "Density = **8,000 kg/m³**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A gas is compressed slowly at constant temperature from 100 cm³ to 25 cm³. Its initial pressure is 90 kPa. Calculate the new pressure and explain the increase using particles.",
+      "back": [
+        "p₂ = p₁V₁/V₂ = 90 × 100/25 = **360 kPa**.",
+        "Average particle kinetic energy stays the same because **temperature is constant**.",
+        "Particles collide with the walls more frequently per unit area in the smaller volume.",
+        "Greater force per unit area means **greater pressure**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 200 W heater melts 0.20 kg of ice at 0°C and warms the water to 10°C. Use L = 334,000 J/kg and c = 4,200 J/kg°C. Calculate the minimum heating time.",
+      "back": [
+        "Melting energy = mL = 0.20 × 334,000 = **66,800 J**.",
+        "Warming energy = mcΔθ = 0.20 × 4,200 × 10 = **8,400 J**.",
+        "Total energy = **75,200 J**.",
+        "t = E/P = 75,200/200 = **376 s**; real heat losses increase the time."
+      ]
+    }
+  ]
+}
