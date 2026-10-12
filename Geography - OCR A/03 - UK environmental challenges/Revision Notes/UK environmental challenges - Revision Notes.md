@@ -25,31 +25,55 @@ UK extremes include strong winds, heatwaves, cold spells, drought and intense ra
 
 ## Flooding: Somerset Levels
 
-The Somerset Levels are the flood case study used in this course.
+### Place and physical setting
 
-### Physical setting
+The Somerset Levels and Moors are a broad, flat wetland landscape between the Mendip, Blackdown and Quantock Hills. Rivers including the **Parrett** and **Tone** cross land drained by channels known as rhynes.
 
-The Somerset Levels are low-lying and very flat, so water moves away slowly. Rivers, drained farmland and settlements occupy a landscape where a small rise in water level can affect a wide area. Tidal conditions can also make it harder for river water to leave the system.
+About **18% of Somerset lies below the average high-tide level**, and the Levels and Moors cover more than **60,000 hectares**. This makes drainage slow and allows a small rise in water level to spread over a large area.
 
-### Causes of flooding
+### Causes of the 2013–14 flooding
 
-Prolonged and heavy rainfall saturated the ground, so infiltration fell and more water reached rivers. Discharge increased until channels and drainage systems could not carry the flow. High river or tidal water levels slowed drainage further. Farming, settlements and artificial drainage influenced how quickly water moved and where it was stored.
+**Main point:** exceptional rainfall acted on an already vulnerable landscape.
 
-### Effects
+- Repeated Atlantic storms brought prolonged heavy rain.
+- Saturated soil could absorb little more water, increasing surface runoff.
+- River discharge exceeded channel and pumping capacity.
+- High tides and high river levels slowed drainage towards the Bristol Channel.
+- Silt in parts of the Parrett and Tone reduced channel capacity, although dredging alone could not remove the underlying lowland risk.
 
-Flooding affected homes, farms, businesses and transport routes. Roads could become impassable, leaving communities difficult to reach and disrupting work, education and services. Agricultural land, crops and livestock were vulnerable, while businesses faced damage or loss of trade.
+### Scale and effects
 
-Floodwater could carry pollutants and disturb habitats, although natural flooding can also deposit sediment. The effects lasted beyond the period of deepest water because buildings, soils, roads and services needed time to recover.
+In early 2014, about **100 million m³ of floodwater** covered roughly **65 km²**. Around **172 properties** were flooded. **Northmoor** was evacuated, and communities including **Muchelney** were cut off by road.
 
-### Management
+**Social:** homes were damaged, journeys and services were disrupted, and residents experienced stress and isolation.
 
-**Immediate response:** Warnings, evacuation, rescue, temporary barriers and pumping reduce danger and help communities during an event. These measures manage the emergency but do not remove the underlying flood risk.
+**Economic:** farmland remained underwater, livestock had to be moved, roads and businesses were affected, and clean-up costs continued after water levels fell.
 
-**Long-term response:** Maintaining or dredging selected channels may help water move through particular sections. Raised roads or defences can protect key locations, while floodplain and wetland storage gives excess water space. A combined strategy is needed because sending water away faster can transfer risk downstream.
+**Environmental:** floodwater moved sediment and pollutants, damaged some farmland and habitats, but also restored wet conditions in parts of the floodplain.
+
+### Immediate response
+
+Emergency services and volunteers used boats, supported evacuation and delivered supplies. Temporary and permanent pumps removed water when river and tidal conditions allowed. Road closures and warnings reduced danger.
+
+These actions protected life but could not quickly empty such a large, low-lying area while surrounding water levels remained high.
+
+### Long-term management
+
+- Sections of the **Parrett and Tone were dredged**. Dredging programmes in 2014, 2016 and 2018 removed about **270,500 m³ of silt**.
+- The Muchelney–Drayton road was raised and structures at **Beer Wall** were improved to maintain access and move water.
+- **21 permanent pumping stations** help manage water levels.
+- The Somerset Rivers Authority coordinates maintenance, drainage, road resilience and natural flood management.
+- Upstream measures such as soil management, tree planting and temporary storage slow water before it reaches the Levels.
+
+### Evaluation
+
+Dredging and pumping improve channel flow and reduce the duration of some floods. Raised roads protect access even when land floods. Natural flood management adds storage upstream and may improve habitats.
+
+No measure removes risk from land below high-tide level during exceptional rainfall. Pumping costs energy, channels need repeated maintenance, and moving water faster can transfer risk. The strongest strategy combines maintenance, storage, resilient infrastructure, warnings and acceptance that some floodplain land will still hold water.
 
 ### Exam pointer
 
-Structure the case study as **low-lying setting + prolonged rainfall + rising discharge + social, economic and environmental effects + short- and long-term management**. Judge success by whether risk falls over time without unacceptable cost or damage elsewhere.
+Use evidence in a chain: **saturated low-lying land + prolonged rain + restricted drainage → 65 km² flooded and communities cut off → dredging, pumping, raised roads and upstream storage**.
 
 ## Food, water and energy
 
@@ -96,43 +120,73 @@ Demand also changes with population, industry, transport, household technology a
 
 ### Hinkley Point C, Somerset
 
-Hinkley Point C is used to consider a large national energy project.
+#### Place, purpose and scale
 
-#### Purpose and scale
+Hinkley Point C is being built on the Somerset coast beside earlier nuclear stations. It will use **two reactors** and is designed to supply electricity for about **six million homes** for around **60 years**, equal to roughly **7% of UK electricity demand**.
 
-The project is intended to provide a large, dependable supply of nuclear electricity. Unlike weather-dependent renewable sources, nuclear output can be planned, so it can contribute to national energy security and support demand when wind or solar generation is low.
+The project received its Development Consent Order in **March 2013**. Its national purpose is to provide dependable, low-operational-carbon electricity and improve energy security.
 
-#### Benefits
+#### Economic and social benefits
 
-Nuclear generation has low operational carbon emissions. Construction and operation create employment, training and contracts for other firms. A large output from one site can support the electricity system for a long period once the station is operating.
+- Construction was expected to support about **25,000 employment opportunities** and around **1,000 apprenticeships**.
+- Project estimates suggested about **£1.5 billion** could enter the local economy through wages and contracts.
+- Long-term operation creates skilled employment and supports local supply businesses.
+- A planned output can balance periods when wind and solar generation are low.
 
-#### Costs and concerns
+#### Local and environmental costs
 
-The project has a very high financial cost and a long construction period. Building work can cause local traffic, noise, landscape and habitat pressures. Radioactive waste must be stored and managed safely over a much longer timescale than the electricity is generated.
+Construction increases traffic, demand for temporary accommodation and pressure on local services. A very large coastal site changes the landscape and can disturb habitats. Agreements with local authorities fund transport, housing and community mitigation.
 
-#### Exam pointer
+Nuclear generation produces low carbon emissions during operation, but construction has embodied emissions. Radioactive waste needs secure long-term management, and decommissioning adds future cost.
 
-Separate **national benefits** from **local impacts**. A balanced judgement can argue that dependable low-carbon output supports sustainability, but cost, construction disruption and long-term waste prevent it from being a simple solution.
+#### Evaluation
+
+Hinkley Point C offers very large, dependable low-carbon output and substantial employment. Its drawbacks are high cost, long construction, local disruption and responsibility for nuclear waste. It is strongest as one part of a diverse low-carbon system rather than the only solution.
 
 ### Dryholme Farm, Silloth, Cumbria
 
-Dryholme Farm is used to consider **anaerobic digestion**.
+#### Place and scheme
 
-#### How the system works
+Dryholme Farm near Silloth developed a farm-based **anaerobic digestion** plant. Planning documents described a site of about **1.97 hectares**, designed to use roughly **15,000–16,000 tonnes of crops each year** plus farm slurry.
 
-Organic material is placed in a sealed tank without oxygen. Microorganisms break it down and produce methane-rich **biogas**. The gas can generate heat and electricity, while the remaining **digestate** can be used as fertiliser when it is managed safely.
+Feedstock included maize and grass silage, triticale, vegetables and wheat. At least **70% of crop feedstock** was intended to come from the farm's own **368 acres**, with other local farms supplying additional material.
 
-#### Local benefits
+#### How it works
 
-The system turns organic material into a useful energy source and produces electricity when required, unlike intermittent wind or solar power. Using digestate can recycle nutrients, and generating energy on or near the farm may provide income and reduce some reliance on fossil fuels.
+1. Crops and slurry enter a sealed digester without oxygen.
+2. Microorganisms break the material down and release methane-rich **biogas**.
+3. A combined heat and power engine burns the gas.
+4. The plant exports electricity to the grid and can use heat locally.
+5. **Digestate** returns nutrients to farmland as fertiliser.
 
-#### Limitations
+The plant has a capacity of about **1 MW**, enough in planning estimates for roughly **1,200 homes**, and became operational in **2011**.
 
-The plant requires investment and skilled management. Bringing feedstock to the site may create traffic and transport emissions. Odour can concern nearby residents, while methane leakage would weaken the climate benefit because methane is a powerful greenhouse gas.
+#### Benefits
 
-#### Exam pointer
+- It supplies controllable renewable electricity rather than depending on wind or sunshine.
+- Farm slurry and crops become useful energy and digestate.
+- Digestate may reduce use of manufactured fertiliser.
+- Electricity sales diversify farm income.
+- Local sourcing limits some transport distance.
 
-Explain the full chain **organic material → anaerobic breakdown → biogas → useful energy + digestate**. Evaluate it as a local scheme: it can reuse material and provide controllable renewable energy, but its scale, feedstock transport and management still matter.
+#### Costs and limitations
+
+- Growing energy crops uses land that could produce food and may reduce biodiversity if farming is intensive.
+- Feedstock deliveries create traffic, noise and emissions.
+- Poor control can cause odour, water pollution or methane leakage.
+- The scheme's roughly 1 MW output is useful locally but tiny compared with national electricity demand.
+
+#### Evaluation
+
+Dryholme is most sustainable when it uses nearby wastes and residues, prevents methane leakage and manages digestate safely. Heavy reliance on purpose-grown crops weakens the benefit because land, fertiliser and transport are required. It is a valuable local energy strategy, but cannot replace national-scale supply.
+
+### Case-study sources
+
+- [Environment Agency: Somerset Levels and Moors flood-risk reduction](https://www.gov.uk/government/publications/somerset-levels-and-moors-reducing-the-risk-of-flooding/somerset-levels-and-moors-reducing-the-risk-of-flooding)
+- [Somerset Rivers Authority: dredging and silt monitoring](https://www.somersetriversauthority.org.uk/flood-risk-work/sra-annual-report-2020-21/pioneer-dredging-silt-monitoring/)
+- [Somerset Council: Hinkley Point C](https://www.somerset.gov.uk/business-economy-and-licences/major-developments/hinkley-point-c/)
+- [Cumberland Council planning record: Dryholme anaerobic digestion](https://cumberland.moderngov.co.uk/Data/ABC%20Development%20Panel/201002091215/Agenda/Development%20Panel%20-%202%202009%200864.pdf)
+- [Environment Agency public register: Dryholme Farm](https://environment.data.gov.uk/public-register/waste-operations/registration/EB3800HM?__pageState=result-waste-operations)
 
 ## Evaluating a strategy
 

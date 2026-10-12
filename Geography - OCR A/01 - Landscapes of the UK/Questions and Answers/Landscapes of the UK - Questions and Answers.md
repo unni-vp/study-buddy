@@ -124,31 +124,36 @@
 - Where wave energy falls, the sediment is deposited.
 - This can build beaches or spits, so erosion in one place supplies landforms elsewhere.
 
-**19.** Explain how people and natural processes combine to shape the River Wye landscape.
+**19.** Explain how natural processes and people combine to shape the River Wye landscape.
 
 **Answer:**
 
-- Rainfall, gradient and river discharge control erosion, transport and deposition.
-- Geology influences the resistance and permeability of the valley rocks.
-- Farming and building can change vegetation and surface runoff.
-- Flood management and recreation alter parts of the valley and affect how people use it.
+- The Wye rises on Plynlimon, where high rainfall and steep slopes produce rapid runoff and energetic erosion.
+- Downstream, tributaries raise discharge and gentler relief allows meanders, floodplains and deposition.
+- Carboniferous Limestone creates a steep lower gorge around Symonds Yat, showing that geology modifies the usual downstream pattern.
+- Farming and building alter runoff, while natural flood-management work with more than 140 landowners slows and stores water upstream.
 
 **20.** Explain why managing one part of the North Norfolk coast can affect another part.
 
 **Answer:**
 
-- Coastal places are linked by sediment moved through longshore drift.
-- Groynes trap material and can widen the beach they protect.
-- This may reduce the supply reaching places further along the coast.
-- Those places may then have narrower beaches and greater exposure to wave erosion.
+- Soft cliffs at places such as Happisburgh supply sediment to the coastal system.
+- Longshore drift moves this material towards beaches and depositional features such as Blakeney Point.
+- Groynes at a defended settlement such as Cromer retain beach material locally.
+- This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion.
 
 ## 6 marks
 
-**21.** Assess the importance of geology in shaping a UK coastal landscape you have studied.
+**21.** Assess the importance of geology in shaping the North Norfolk coast.
 
 **Answer:**
 
-On the **North Norfolk coast**, geology is very important because much of the coast contains soft material that waves can erode readily. Differences in resistance influence the rate and form of cliff retreat. The eroded material also supplies sediment that longshore drift transports and deposits as beaches and spits. However, geology does not act alone. Storm conditions and wave energy alter erosion rates, while sea walls, groynes and managed realignment change sediment movement and the places protected. Geology creates the underlying vulnerability, but marine processes, weather and human management determine how quickly and where the landscape changes.
+- Much of the coast consists of weak sands, silts, clays and gravels, so waves can erode the cliff foot rapidly.
+- Rainwater saturates this material and encourages slumping, especially at Happisburgh.
+- Eroded sediment is transported by longshore drift and helps build beaches, Blakeney Point, mudflats and salt marsh.
+- Geology therefore creates the basic vulnerability and supplies depositional landforms.
+- However, storms, high tides, wave energy and management alter the rate and location of change.
+- Geology is the underlying control, while marine conditions and human decisions determine the short-term pattern.
 
 **22.** Evaluate the use of hard engineering to manage a coastal landscape.
 
@@ -166,4 +171,10 @@ In the steep upper course, turbulent water and vertical erosion cut V-shaped val
 
 **Answer:**
 
-The Wye's relief, rainfall and geology guide river processes. Steeper upper reaches encourage runoff and erosion, while gentler downstream sections allow meanders, floodplain development and deposition. Weathering and mass movement also supply material to the river. People modify these natural patterns through farming, settlements, transport routes, recreation and flood management. Removing vegetation or creating impermeable surfaces can increase runoff, while defences may protect selected places and alter local flow. Natural processes created the main valley and landforms, but human activity increasingly influences their rate of change and the risks people experience.
+- The 251 km Wye descends from wet uplands at Plynlimon, where steep slopes encourage runoff and vertical erosion.
+- Tributaries increase discharge downstream, supporting lateral erosion, meanders and floodplain deposition.
+- Carboniferous Limestone helps form the lower gorge around Symonds Yat, so geology interrupts a simple source-to-mouth pattern.
+- Farming, settlements, roads and recreation change vegetation, drainage and how the valley is used.
+- Herefordshire's 2018–2021 natural flood-management pilot worked with more than 140 landowners to slow runoff using landscape measures.
+- Natural processes created the main valley, while land use and flood management increasingly alter runoff, risk and local change.
+

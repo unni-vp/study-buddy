@@ -34,27 +34,55 @@ One indicator never tells the whole story. Use several:
 
 ## Economic change: Salford Quays
 
-Salford Quays is used to study the effects of economic decline and later growth.
+### Place and industrial background
 
-### Reasons for decline
+Salford Quays lies beside the Manchester Ship Canal, west of central Manchester. The former Manchester Docks handled imported and exported goods and supported warehouses, engineering and transport employment.
 
-The docks lost importance as shipping technology and the location of industry changed. Fewer goods passed through the area, so dock and linked industrial employment declined. Job losses were followed by unused buildings, derelict land and a poorer image, making further investment less likely.
+### Why the docks declined
+
+**Main point:** technology and changing trade geography made the old docks less competitive.
+
+- Container ships became larger and needed different handling facilities.
+- Coastal ports offered easier access than an inland canal port.
+- Manufacturing decline reduced linked trade and employment.
+- The docks closed in **1982**, leaving unemployment, polluted water, derelict land and an unattractive image.
+
+Decline became a negative cycle: fewer jobs reduced spending, dereliction discouraged investment, and the local tax base weakened.
 
 ### Regeneration strategy
 
-Former industrial land was reused for housing, offices, culture, leisure and media-related employment. New public spaces, buildings and transport connections improved accessibility and changed how residents, businesses and visitors viewed the area. The strategy aimed to replace a single declining industrial function with a more varied economy.
+Salford Council bought much of the dockland and published a development plan in **1985**. Public investment cleaned water, reclaimed land, improved roads and public space, and prepared sites for private development.
 
-### Economic and environmental effects
+Key projects included:
 
-Regeneration attracted businesses, visitors and investment and created jobs in new sectors. Reusing brownfield land improved the appearance of the waterfront and reduced pressure to build entirely on undeveloped land. Better infrastructure also connected the Quays more closely to the surrounding urban area.
+- new housing, offices and leisure facilities;
+- Metrolink connections and improved accessibility;
+- **The Lowry**, opened in **2000**, as a cultural anchor;
+- **MediaCity**, opened in **2011**, attracting the BBC, ITV, education and creative businesses.
 
-### Social effects and inequality
+MediaCity now hosts major broadcasters and more than **250 creative and technology businesses**, helping replace the old dock economy with a more varied service economy.
 
-New homes, leisure spaces and employment can improve quality of life, but the benefits are not automatically shared. Housing may be expensive, and some new jobs may require skills that existing residents do not have. Physical improvement can therefore occur faster than reductions in deprivation.
+### Economic effects
+
+New firms, visitors and residents created jobs, spending and investment. Offices, television production, digital businesses and education widened the employment base. Better transport connected the Quays to the wider city region.
+
+Some work is highly skilled or insecure, so nearby residents do not automatically gain. Training and affordable access are needed if regeneration is to reduce local deprivation.
+
+### Social effects
+
+New homes, cultural venues and public spaces improved opportunities and the area's image. However, rising land and housing values can exclude lower-income households. Regeneration may produce visible success while inequality remains in surrounding neighbourhoods.
+
+### Environmental effects
+
+Brownfield land was reused rather than leaving derelict sites or building only on greenfield land. Water and public-space improvements created a more attractive waterfront. Construction, traffic and high resource use create continuing environmental costs.
+
+### Evaluation
+
+Salford Quays is a strong example of physical and economic regeneration: abandoned docks became a nationally important media and cultural district. Its social success is less complete because benefits depend on affordable housing, transport, training and whether jobs are accessible to existing communities.
 
 ### Exam pointer
 
-Use the sequence **dock decline → unemployment and dereliction → regeneration investment → mixed results**. Finish with the judgement that Salford Quays shows strong physical and economic renewal, while social success depends on affordable housing and accessible jobs.
+Use the sequence **dock closure in 1982 → dereliction and job loss → public land and infrastructure investment → Lowry and MediaCity → economic gains but uneven social benefits**.
 
 ## Population change
 
@@ -110,35 +138,57 @@ These movements affect housing demand, traffic, land values, services and the ch
 
 ## Leeds city case study
 
-### Importance and character
+### Place, population and importance
 
-Leeds is the major UK city used in this course.
+Leeds is the largest city in West Yorkshire and a major centre for finance, business services, retail, healthcare, education and culture. Rail and motorway links connect it to northern England and the rest of the UK.
 
-Leeds is an important regional centre for employment, shopping, education, culture and transport. Its concentration of higher-order services attracts workers, students and visitors from a wide area. Businesses, universities and transport connections also link the city to national and international networks.
+The city's population was about **812,000 in 2021**, an increase of **8.1%** since 2011. Around **471,000 people work in Leeds**, showing its regional employment role.
 
-### Migration and city character
+### Migration and changing character
 
-Migration from within the UK and from other countries has helped the city grow. It has added skills, businesses, languages, food and cultural traditions. The effects vary between neighbourhoods because housing, income, age structure and access to services are uneven across the city.
+Universities attract students from the UK and abroad. National and international migrants add workers, skills, languages, food, religion and businesses. The 2021 population included about **9.7% Asian**, **5.6% Black** and **3.4% mixed ethnic groups**.
 
-### Urban challenges
+Population growth supports services and the economy, but benefits and pressures vary by neighbourhood. New arrivals and natural increase add demand for housing, schools, healthcare and transport.
 
-**Housing:** Population change and smaller households increase demand. Building new homes and improving older housing can help, but affordability and the quality of neighbourhoods remain uneven.
+### Housing challenge
 
-**Transport:** Commuting and movement across a large urban area can create congestion and air pollution. People without convenient public transport may also have poorer access to employment and services.
+Leeds had about **362,780 homes**, and private renting accounted for roughly **21.8%**. The median house price rose from about **£175,000 in 2015 to £225,000 in 2022**. The city also contains about **19,500 pre-1919 back-to-back homes**, some needing improvements in energy efficiency and condition.
 
-**Waste:** A large population and busy economy generate substantial waste. Collection, recycling and disposal must keep pace without increasing pollution or using excessive land.
+Responses include new affordable housing, brownfield redevelopment and upgrading older homes. Around **595 affordable homes were delivered in 2021**, but demand, construction cost and rising prices mean the shortage cannot be solved quickly.
 
-**Inequality:** Investment and regeneration may improve selected places while other communities continue to experience lower incomes, poorer environments or weaker access to opportunities.
+### Inequality challenge
 
-### Sustainable urban living
+About **175,000 residents** were estimated to live in relative poverty. Lower income affects housing quality, health, education and access to opportunities. Growth in the city centre does not automatically remove deprivation elsewhere.
 
-A sustainable strategy should connect rather than isolate solutions. Reliable public transport and safe walking or cycling routes can reduce car use. Brownfield redevelopment and energy-efficient homes can provide housing while limiting outward growth. Recycling, reduced waste and accessible green space improve environmental quality.
+Successful regeneration must connect disadvantaged communities to skills, jobs and services, rather than concentrating only on high-value buildings.
 
-Sustainability also has a social side. Housing, services and jobs need to be affordable and reachable for existing communities. A scheme that looks greener but excludes lower-income residents has not solved the whole problem.
+### Transport challenge
+
+Large commuter flows cause congestion, air pollution and unreliable journeys. People without good public transport may struggle to reach jobs or education.
+
+Leeds promotes buses, park-and-ride, walking and cycling through the **Connecting Leeds** programme. These can reduce car dependence, but routes, price, reliability and safe connections determine whether people actually change travel behaviour.
+
+### Waste and low-carbon living
+
+The city aims to reduce waste, reuse materials and improve recycling. Collection and processing must keep pace with population and business growth.
+
+The **Leeds PIPES** heat network uses heat recovered from the Recycling and Energy Recovery Facility. By 2026 it extended for more than **30 km**, served about **4,100 properties** including **2,000 council flats**, and supplied around **30 public and commercial buildings**. It saved more than **7,000 tonnes of carbon in 2025**.
+
+### Evaluation
+
+Leeds combines transport, housing, waste and low-carbon heat measures, so it addresses several parts of sustainability. PIPES turns waste heat into lower-carbon energy and directly serves homes. Yet high housing costs, poverty and unequal transport access show that environmental projects alone do not make a city socially sustainable.
 
 ### Exam pointer
 
-For Leeds, organise the answer as **importance → migration and character → challenge → sustainable response**. Evaluate success using social, economic and environmental evidence rather than describing how a project looks.
+Organise a developed answer as **challenge → named response → number showing scale → limitation**. For example: housing prices rose, affordable homes were built, but output remains small compared with total need.
+
+### Case-study sources
+
+- [Salford City Council: MediaCity and Salford Quays regeneration](https://www.salford.gov.uk/planning-building-and-regeneration/regeneration/mediacity-and-salford-quays/)
+- [Salford Local List: heritage of the former docks](https://www.salford.gov.uk/lp-heritage)
+- [Leeds City Council: Leeds Housing Strategy](https://www.leeds.gov.uk/housing/housing-strategy/leeds-housing-strategy)
+- [Leeds City Council: transport policy and Connecting Leeds](https://www.leeds.gov.uk/parking-roads-and-travel/connecting-leeds-and-transforming-travel/transport-policy)
+- [Leeds City Council: Leeds PIPES expansion](https://news.leeds.gov.uk/news/next-phase-of-low-carbon-heat-network-set-to-reach-thousands-more-residents)
 
 ## High-yield checklist
 

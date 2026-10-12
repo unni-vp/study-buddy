@@ -149,22 +149,22 @@
     },
     {
       "category": "Multi-step application",
-      "front": "Explain how people and natural processes combine to shape the River Wye landscape.",
+      "front": "Explain how natural processes and people combine to shape the River Wye landscape.",
       "back": [
-        "Rainfall, gradient and river discharge control erosion, transport and deposition.",
-        "Geology influences the resistance and permeability of the valley rocks.",
-        "Farming and building can change vegetation and surface runoff.",
-        "Flood management and recreation alter parts of the valley and affect how people use it."
+        "The Wye rises on Plynlimon, where high rainfall and steep slopes produce rapid runoff and energetic erosion.",
+        "Downstream, tributaries raise discharge and gentler relief allows meanders, floodplains and deposition.",
+        "Carboniferous Limestone creates a steep lower gorge around Symonds Yat, showing that geology modifies the usual downstream pattern.",
+        "Farming and building alter runoff, while natural flood-management work with more than 140 landowners slows and stores water upstream."
       ]
     },
     {
       "category": "Multi-step application",
       "front": "Explain why managing one part of the North Norfolk coast can affect another part.",
       "back": [
-        "Coastal places are linked by sediment moved through longshore drift.",
-        "Groynes trap material and can widen the beach they protect.",
-        "This may reduce the supply reaching places further along the coast.",
-        "Those places may then have narrower beaches and greater exposure to wave erosion."
+        "Soft cliffs at places such as Happisburgh supply sediment to the coastal system.",
+        "Longshore drift moves this material towards beaches and depositional features such as Blakeney Point.",
+        "Groynes at a defended settlement such as Cromer retain beach material locally.",
+        "This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion."
       ]
     }
   ]

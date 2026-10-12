@@ -76,27 +76,50 @@ Upstream, a river usually has a steep gradient, a narrow channel and more vertic
 
 ## River Wye case study
 
-The River Wye is the UK river-basin landscape used in this course.
+### Place and context
 
-### Setting and landscape
+The **River Wye** is about **251 km long**. It rises on **Plynlimon** in the Cambrian Mountains of mid-Wales, flows through places including Hay-on-Wye, Hereford and Monmouth, and joins the Severn Estuary near Chepstow.
 
-The river begins in the wetter, steeper Welsh uplands and flows towards lower, gentler land. This change in relief helps explain why erosion is more important in the upper reaches while wider valleys, meanders and floodplain features become more noticeable downstream.
+This is a useful whole-river case study because its landscape changes from wet uplands to broad lowlands and then to a deeply cut lower valley.
 
-### Physical processes
+### Geology and relief
 
-Heavy rainfall can saturate the ground and increase surface runoff, raising river discharge. In steep upper areas, fast, turbulent water has enough energy for vertical erosion. Further downstream, tributaries add water and lateral erosion, transport and deposition help reshape the wider channel and valley floor.
+**Main point:** geology controls resistance, valley shape and drainage.
 
-### Influence of geology
+- Much of the catchment is underlain by **Old Red Sandstone**.
+- The lower Wye cuts through more resistant **Carboniferous Limestone**, helping form steep wooded gorges around places such as **Symonds Yat**.
+- Softer alluvium on lower floodplains is easier to erode and deposit.
+- Steep upland slopes encourage rapid runoff. Gentler downstream relief allows wider floodplains and meanders to develop.
 
-Rock type affects both resistance and permeability. Resistant rock erodes slowly and can support steeper valley sides. Permeable rock allows more infiltration, while impermeable surfaces encourage runoff. Geology therefore influences valley shape, river flow and the speed at which landforms change.
+### River processes and landforms
 
-### Human influence and management
+**Upper course:** high rainfall, steep gradients and coarse load give the river energy for vertical erosion. Weathering and mass movement steepen valley sides.
 
-Farming, settlements, roads and recreation change vegetation, drainage and the appearance of the valley. Built surfaces and compacted soil can increase runoff. Flood warnings and defences may protect vulnerable communities, while working with natural processes can store water or slow its movement. Every option has different costs and may move risk elsewhere.
+**Middle course:** tributaries increase discharge. Lateral erosion and deposition create meanders, river cliffs and slip-off slopes.
+
+**Lower course:** a larger channel carries more water. Repeated floods deposit alluvium across floodplains, while the river has also cut a dramatic gorge through resistant limestone.
+
+The Wye shows that a textbook downstream pattern is useful, but local geology can create steep scenery even in the lower course.
+
+### Human use and pressure
+
+About **58% of the Wye Valley National Landscape is farmland** and about **27% is woodland**. Farming shapes field patterns and can compact soil or add sediment and nutrients to water. Settlements, roads, tourism, canoeing and walking bring income but add pressure to habitats and river access.
+
+Built surfaces speed runoff. Removing vegetation or compacting soils reduces interception and infiltration, so water reaches channels faster.
+
+### Flood risk and management
+
+Communities such as Hereford and Monmouth can flood after prolonged rainfall. Warnings and local defences reduce immediate risk, but hard defences may be costly and can move water downstream.
+
+The **Herefordshire Natural Flood Management pilot (2018–2021)** worked with more than **140 landowners**. Measures included restoring ponds, planting trees or hedges and using barriers that slow runoff. These store water in the landscape before it reaches the river.
+
+### Evaluation
+
+Natural flood management can reduce peak flow, improve habitats and trap sediment. It needs many landowners and a large area, and it cannot prevent every flood during exceptional rainfall. The strongest strategy combines upstream slowing and storage with warnings and targeted protection for settlements.
 
 ### Exam pointer
 
-Name the **River Wye**, identify the part of the river you are discussing, and build a chain such as **rainfall increases discharge → erosion gains energy → the channel or valley changes**. Add geology or human activity to show that the landscape results from several connected factors.
+Build the chain **upland rainfall and steep slopes → rapid runoff and energetic flow → erosion**, then show how **tributaries, gentler relief and deposition** change the landscape downstream. Add the limestone gorge as evidence that geology can interrupt the simple pattern.
 
 ## Coastal landscapes
 
@@ -122,27 +145,56 @@ Name the **River Wye**, identify the part of the river you are discussing, and b
 
 ## North Norfolk coast case study
 
-The North Norfolk coast is the UK coastal landscape used in this course.
+### Place and context
 
-### Setting and vulnerability
+The North Norfolk coast faces the North Sea. Named places include **Cromer**, **Happisburgh**, **Blakeney Point** and low-lying land beside the Wash. The coast contains cliffs, beaches, spits, salt marsh and areas at risk from both erosion and flooding.
 
-The North Norfolk coast contains areas of soft, easily eroded material and low-lying land. Energetic waves and storms can therefore cause cliff retreat, beach change and flooding. Its vulnerability comes from the combination of geology, wave energy and exposure to extreme weather.
+### Why the coast is vulnerable
 
-### Erosion, transport and deposition
+**Main point:** weak geology and powerful marine conditions produce rapid change.
 
-Wave erosion releases sediment from the coast. Longshore drift transports it along the shoreline, and deposition occurs where wave energy falls. This connects eroding cliffs with beaches, spits and sheltered depositional environments elsewhere on the coast.
+- Many cliffs contain weak **sands, silts, clays and gravels** deposited during the last two million years.
+- Rainwater saturates the cliffs, increasing slumping and landslides.
+- Destructive waves use hydraulic action and abrasion at the cliff foot.
+- North Sea storms and high tides can sharply increase erosion and flood risk.
 
-### Why sediment supply matters
+At **Happisburgh**, soft cliffs retreat as waves remove the base and saturated material collapses. At **Cromer**, the seafront and valuable infrastructure justify stronger protection.
 
-A beach acts as a natural buffer because it absorbs wave energy before it reaches the land behind. If less sediment arrives, the beach may become narrower and offer less protection. North Norfolk should therefore be understood as a linked **sediment system**, rather than a series of isolated places.
+### Sediment movement and depositional landforms
 
-### Management choices
+Eroded cliff material enters the coastal sediment system. **Longshore drift** moves it westwards along parts of the coast. Where wave energy falls, sediment builds beaches and depositional features.
 
-Sea walls can resist wave attack at selected settlements, while groynes trap sediment and build a wider beach. However, trapping sediment may reduce the supply further along the coast. Managed realignment gives water more space and can create coastal habitat, but it may require farmland or other land uses to move or be surrendered.
+**Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast.
+
+### Management at Cromer
+
+Cromer uses a **sea wall, groynes and beach management**. The wall protects the promenade, town and infrastructure; groynes retain beach sediment so the wider beach absorbs wave energy.
+
+These defences protect a high-value settlement and tourism economy. They are expensive to maintain, can look intrusive and may reduce sediment moving along the coast.
+
+### Adaptation at Happisburgh
+
+Continuous hard defence is harder to justify where the coast is long, weak and less densely developed. Happisburgh has experienced defence removal and adaptation to continuing retreat. Property, roads and community identity remain at risk.
+
+This creates conflict: national policy considers cost and sustainability, while residents experience direct loss. Compensation, planning controls, warning and help with relocation can reduce harm but do not stop erosion.
+
+### Shoreline planning and evaluation
+
+Shoreline Management Plans look ahead for roughly **100 years** and select approaches such as **hold the line**, **managed realignment** or **no active intervention**.
+
+Hard engineering is most defensible where many people, services and economic assets are concentrated. Allowing change elsewhere preserves sediment movement and avoids ever-rising defence costs, but the social cost to smaller communities can be severe. Management should therefore be judged by effectiveness, cost, environmental effects and fairness.
 
 ### Exam pointer
 
-Use a clear chain: **soft material is eroded → longshore drift transports sediment → deposition builds a beach or spit**. When evaluating management, explain who or what is protected, the cost or environmental effect, and whether the method changes risk elsewhere.
+Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to retreat**; **Blakeney Point—deposition and habitat**. Explain that all three are connected by sediment movement.
+
+### Case-study sources
+
+- [Environment Agency: River Wye management catchment](https://environment.data.gov.uk/catchment-planning/v/c3-plan/ManagementCatchment/3117)
+- [Wye Valley National Landscape: special qualities and land use](https://www.wyevalley-nl.org.uk/what-makes-the-wye-valley-aonb-special/)
+- [Herefordshire Council: Natural Flood Management pilot](https://www.herefordshire.gov.uk/community/flooding/herefordshire-natural-flood-management-nfm-project/natural-flood-management-nfm-pilot-project/)
+- [North Norfolk District Council: the changing coast](https://www.north-norfolk.gov.uk/tasks/coastal-management/find-out-more-about-the-north-norfolk-coast/)
+- [North Norfolk District Council: Shoreline Management Plans](https://www.north-norfolk.gov.uk/tasks/coastal-management/view-shoreline-management-plans/)
 
 ## High-yield checklist
 

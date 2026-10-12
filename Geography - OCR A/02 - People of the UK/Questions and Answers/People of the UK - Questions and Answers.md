@@ -100,9 +100,9 @@
 
 **Answer:**
 
-- Shipping and industrial change reduced dock activity.
-- Jobs were lost in the docks and linked businesses.
-- Land and buildings became derelict, damaging the area's environment and image.
+- Larger container ships and competition from coastal ports reduced dock activity.
+- The docks closed in 1982, removing dock and linked industrial jobs.
+- Unemployment, polluted water and derelict land damaged the area's environment and image.
 
 ## 4 marks
 
@@ -126,19 +126,19 @@
 
 **Answer:**
 
-- Derelict dockland was reused for offices, homes, culture and leisure.
-- New transport links and public spaces improved accessibility and image.
-- Investment created employment and attracted visitors and businesses.
-- However, high costs and skills requirements mean the benefits may not be shared equally.
+- Public investment reclaimed land, cleaned the waterfront and improved transport and public space.
+- The Lowry opened in 2000 and MediaCity in 2011, attracting visitors, broadcasters and creative firms.
+- MediaCity now contains major broadcasters and more than 250 creative and technology businesses.
+- However, expensive housing and skilled jobs mean benefits are not shared equally with nearby communities.
 
 **20.** Explain why Leeds is important at more than one scale.
 
 **Answer:**
 
-- Regionally, Leeds provides jobs, shops, education, culture and services.
-- National transport and business links connect it to other UK cities.
-- Universities and firms attract people and investment from abroad.
-- Its decisions and growth therefore influence local, regional and wider networks.
+- Leeds had about 812,000 residents in 2021 and around 471,000 people work there, making it a major regional employment and service centre.
+- Finance, retail, healthcare, universities and culture attract people from across northern England.
+- Rail and motorway links connect firms and workers to other UK cities.
+- Universities and internationally connected businesses also attract overseas students, skills and investment.
 
 ## 6 marks
 
@@ -152,7 +152,12 @@ Immigration can fill labour and skills shortages, increase tax revenue and suppo
 
 **Answer:**
 
-Regeneration transformed derelict dockland into a mixed area of employment, housing, culture and leisure. Improved transport and public spaces attracted investment and changed the area's image. This shows environmental and economic success. However, success should also include existing communities. New homes may be expensive and some jobs may require skills local residents do not have. Benefits can spread beyond the regenerated site, but inequality may remain. Salford Quays is therefore successful in physical and economic renewal, while its social success depends on affordable housing, accessible jobs and links to surrounding neighbourhoods.
+- The docks closed in 1982, leaving unemployment, derelict land and polluted water.
+- Public investment prepared land and transport, while the Lowry and MediaCity changed the area's image and economic function.
+- MediaCity opened in 2011 and now hosts major broadcasters and more than 250 creative and technology businesses.
+- Brownfield land has been reused for jobs, homes, education, culture and public space, showing strong physical and economic success.
+- Some jobs need specialist skills and new housing can be expensive, so surrounding deprivation may continue.
+- Regeneration is highly successful at changing the place and attracting investment, but its social success depends on affordable housing, training and accessible jobs.
 
 **23.** Examine the challenges created by an ageing UK population and possible responses.
 
@@ -160,8 +165,14 @@ Regeneration transformed derelict dockland into a mixed area of employment, hous
 
 Longer lives and lower birth rates increase the proportion of older people. This raises demand for pensions, healthcare, accessible housing and social care. A smaller working-age share may have to fund these services. Older people also contribute experience, spending, childcare and volunteering, so ageing is not only a cost. Responses include later retirement, workplace pensions, preventative healthcare, adapted homes and technology that supports independent living. Working-age migration may also help. The best response combines funding and care reforms with measures that allow older people to remain healthy and involved.
 
-**24.** Assess how successfully a major UK city can become more sustainable.
+**24.** Assess how successfully Leeds is becoming more sustainable.
 
 **Answer:**
 
-In Leeds, better public transport, walking and cycling can reduce congestion and pollution. Brownfield redevelopment and energy-efficient housing can limit outward growth, while recycling and green spaces improve environmental quality. These measures can also make neighbourhoods healthier and more attractive. Challenges include cost, disruption, rising population and unequal access. A new development is not fully sustainable if housing is unaffordable or residents cannot reach jobs and services. Leeds can become more sustainable through connected long-term strategies, but success must be measured across environmental, social and economic outcomes.
+- Connecting Leeds invests in buses, park-and-ride, walking and cycling to reduce congestion and car dependence, although price and route coverage affect use.
+- Brownfield building and affordable housing increase supply, but the median house price rose from about £175,000 in 2015 to £225,000 in 2022.
+- Leeds PIPES reuses heat from the waste facility. By 2026 its network exceeded 30 km and served about 4,100 properties, including 2,000 council flats.
+- The scheme saved more than 7,000 tonnes of carbon in 2025, giving a measurable environmental benefit.
+- Yet about 175,000 residents were estimated to experience relative poverty, so city-centre growth and green technology do not remove inequality.
+- Leeds has strong connected projects, but success remains partial until affordable housing, transport and opportunity are shared more evenly.
+

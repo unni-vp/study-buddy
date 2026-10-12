@@ -84,9 +84,9 @@
 
 **Answer:**
 
-- Much of the landscape is low-lying and very flat.
-- Water drains slowly, especially when the ground is saturated and rivers are high.
-- Tidal conditions and limited channel capacity can make it difficult to remove floodwater.
+- The landscape is very low and flat; about 18% of Somerset lies below average high-tide level.
+- Water drains slowly through rivers and artificial channels, especially when the ground is saturated.
+- High tides can restrict river outflow, so water spreads widely across the Levels.
 
 **15.** Explain one environmental problem caused by intensive food production.
 
@@ -115,12 +115,12 @@
 - Coastal places are moderated by the sea because water heats and cools slowly.
 - Inland areas have a greater temperature range because land changes temperature faster.
 
-**18.** Explain how two long-term strategies could reduce flood risk on the Somerset Levels.
+**18.** Explain how two long-term strategies reduce flood risk on the Somerset Levels.
 
 **Answer:**
 
-- Maintaining or dredging selected channels can increase the amount of water carried away, although effects downstream must be considered.
-- Floodplain or wetland storage holds water back and lowers the peak discharge reaching vulnerable settlements.
+- Dredging selected sections of the Parrett and Tone increases channel capacity; programmes in 2014, 2016 and 2018 removed about 270,500 m³ of silt.
+- Raising the Muchelney–Drayton road maintains community access during floods, reducing isolation even when surrounding land stores water.
 
 **19.** Explain why the UK's energy mix has changed since 1950.
 
@@ -135,8 +135,8 @@
 
 **Answer:**
 
-- Its construction is expensive and lengthy, so benefits take a long time to arrive.
-- Nuclear waste remains radioactive and requires secure long-term management.
+- A very large, lengthy construction project creates traffic, accommodation pressure, cost and local habitat or landscape disturbance.
+- Radioactive waste from electricity generation must be securely managed for far longer than the station's planned 60-year operating life.
 
 ## 6 marks
 
@@ -144,19 +144,34 @@
 
 **Answer:**
 
-Emergency warnings, evacuation and pumping can reduce danger during a flood. Longer-term channel maintenance, drainage improvements, raised infrastructure and floodwater storage can reduce the frequency or severity of disruption. However, no method removes risk from a low-lying landscape during prolonged extreme rainfall. Dredging and faster drainage may transfer water downstream, while hard defences cost money and need maintenance. A successful strategy therefore combines warning and protection with space to store water, and is judged over several events rather than by whether flooding ever occurs again.
+- In early 2014 about 100 million m³ of water covered roughly 65 km², flooding around 172 properties and cutting off communities such as Muchelney.
+- Dredging the Parrett and Tone improves channel capacity, while 21 permanent pumping stations move water when river and tidal levels permit.
+- Raised roads and Beer Wall improvements protect access; upstream storage and land management slow runoff.
+- These measures reduce disruption and may shorten some floods, but pumping and maintenance are costly.
+- Faster drainage can transfer risk, and no system can stop exceptional rainfall flooding land below high-tide level.
+- Management is more resilient because it combines channels, pumps, access, warnings and natural storage, although it reduces rather than removes risk.
 
 **22.** Evaluate Hinkley Point C as a sustainable response to UK energy needs.
 
 **Answer:**
 
-Hinkley Point C can provide large quantities of dependable electricity with low operational carbon emissions. This supports energy security and climate goals, while construction and operation create employment. However, the project has high financial costs, a long construction period and local environmental and transport impacts. Radioactive waste also requires secure management far into the future. It is more sustainable when judged as part of a varied low-carbon mix rather than a complete solution. Its national reliability benefits must be weighed against cost, construction impacts and long-term waste responsibility.
+- Two reactors are designed to supply about six million homes for around 60 years, roughly 7% of UK electricity demand.
+- Dependable low-operational-carbon power improves energy security and can support supply when wind and solar output is low.
+- Construction was expected to support about 25,000 employment opportunities, 1,000 apprenticeships and £1.5 billion in the local economy.
+- However, construction is extremely expensive and lengthy and creates traffic, housing and habitat pressure.
+- Radioactive waste and decommissioning create responsibilities far into the future.
+- Its reliable low-carbon scale is valuable, but it is sustainable only as part of a diverse system that also reduces demand and manages local and long-term costs.
 
 **23.** Assess anaerobic digestion at Dryholme Farm as a local energy strategy.
 
 **Answer:**
 
-Anaerobic digestion converts organic material into biogas that can supply controllable heat and electricity. The remaining digestate may replace some manufactured fertiliser, so material is reused rather than simply discarded. This can lower fossil-fuel use and provide income. However, tanks and generators cost money, feedstock transport may add traffic and emissions, and poor management could cause odour or methane leakage. It is a strong local strategy where suitable material is available nearby and the plant is carefully managed, but its output is smaller than that of national-scale projects.
+- The roughly 1 MW plant became operational in 2011 and was estimated to supply electricity equivalent to about 1,200 homes.
+- It uses around 15,000–16,000 tonnes of crops each year plus slurry to make biogas and digestate.
+- Controllable electricity, farm income and nutrient recycling are clear local benefits.
+- At least 70% of crop feedstock was intended to come from the farm's own land, limiting some transport distance.
+- Purpose-grown energy crops still use farmland, while deliveries, odour, pollution or methane leakage can reduce the environmental benefit.
+- The scheme is most sustainable when it prioritises nearby wastes, controls leakage and uses digestate safely; its small scale means it complements rather than replaces national supply.
 
 **24.** Evaluate whether reducing demand is better than increasing resource supply.
 
