@@ -3,12 +3,26 @@ const { pathToFileURL } = require('url');
 const fs = require('fs');
 const path = require('path');
 
-const decks = [
-  { topic: 'Biology - AQA/01 - Cell biology', json: 'Biology - AQA/01 - Cell biology/Flash Cards/Cell biology - Flash Cards.json', slug: 'cell-biology' },
-  { topic: 'Biology - AQA/02 - Organisation', json: 'Biology - AQA/02 - Organisation/Flash Cards/Organisation - Flash Cards.json', slug: 'organisation' },
-  { topic: 'Biology - AQA/03 - Infection and response', json: 'Biology - AQA/03 - Infection and response/Flash Cards/Infection and response - Flash Cards.json', slug: 'infection-and-response' },
-  { topic: 'Biology - AQA/04 - Bioenergetics', json: 'Biology - AQA/04 - Bioenergetics/Flash Cards/Bioenergetics - Flash Cards.json', slug: 'bioenergetics' },
-];
+function slugify(value) {
+  return value.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+const decks = fs.readdirSync('.', { withFileTypes: true })
+  .filter((entry) => entry.isDirectory() && entry.name.includes(' - AQA'))
+  .flatMap((subject) => fs.readdirSync(subject.name, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory() && /^\d+ - /.test(entry.name))
+    .flatMap((topic) => {
+      const topicPath = path.join(subject.name, topic.name);
+      const deckFolder = path.join(topicPath, 'Flash Cards');
+      if (!fs.existsSync(deckFolder)) return [];
+      return fs.readdirSync(deckFolder)
+        .filter((name) => name.endsWith('Flash Cards.json'))
+        .map((name) => ({
+          topic: topicPath,
+          json: path.join(deckFolder, name),
+          slug: `${slugify(subject.name)}-${slugify(topic.name.replace(/^\d+ - /, ''))}`,
+        }));
+    }));
 
 (async () => {
   fs.mkdirSync('tmp', { recursive: true });
@@ -72,7 +86,7 @@ const decks = [
   }
 
   await browser.close();
-  console.log(`PASS: ${totalCards} Biology flash cards across ${decks.length} topics reveal, navigate, print, and fit desktop/mobile layouts.`);
+  console.log(`PASS: ${totalCards} flash cards across ${decks.length} topics reveal, navigate, print, and fit desktop/mobile layouts.`);
 })().catch((error) => {
   console.error(error);
   process.exit(1);

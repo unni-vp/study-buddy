@@ -1,0 +1,203 @@
+{
+  "title": "Atomic structure and the periodic table flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Define an element.",
+      "back": [
+        "A substance containing atoms with the same number of protons."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the atomic number of an atom?",
+      "back": [
+        "Its number of protons."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the particle with no charge and relative mass 1.",
+      "back": [
+        "Neutron."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which separation method recovers an insoluble solid from a liquid?",
+      "back": [
+        "Filtration."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give the electron arrangement of calcium, atomic number 20.",
+      "back": [
+        "2,8,8,2."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "How does boiling point change down Group 0?",
+      "back": [
+        "It increases."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between a compound and a mixture.",
+      "back": [
+        "In a compound, different elements are **chemically combined in fixed proportions**.",
+        "In a mixture, substances are **not chemically combined** and can be separated by physical methods."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a neutral atom has no overall charge.",
+      "back": [
+        "It has **equal numbers of protons and electrons**.",
+        "Their equal but opposite charges **cancel**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why chlorine-35 and chlorine-37 are isotopes of the same element.",
+      "back": [
+        "They have the **same number of protons**.",
+        "They have **different numbers of neutrons**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A sodium atom loses one electron. Explain why the resulting ion is positive and why it is still sodium.",
+      "back": [
+        "It now has one more positive proton than negative electrons, giving a **+1 charge**.",
+        "The number of **protons is unchanged**, so its identity is unchanged."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why helium is unreactive even though it has only two electrons.",
+      "back": [
+        "Its first electron shell is **full**.",
+        "This is a **stable arrangement**, so it does not readily gain, lose or share electrons."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why did Mendeleev sometimes place elements out of strict atomic-weight order?",
+      "back": [
+        "He wanted elements with **similar chemical properties in the same group**.",
+        "Strict atomic-weight order sometimes put elements in **inappropriate groups**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two physical differences between a typical transition metal and a Group 1 metal.",
+      "back": [
+        "A transition metal generally has a **higher melting point**.",
+        "It generally has a **higher density**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe two features of the plum pudding model.",
+      "back": [
+        "A **ball of positive charge**.",
+        "**Negative electrons embedded** within it; no central nucleus."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An aluminium-27 ion has atomic number 13 and charge 3+. Calculate its numbers of protons, neutrons and electrons.",
+      "back": [
+        "Protons = **13**.",
+        "Neutrons = 27 − 13 = **14**.",
+        "Electrons = 13 − 3 = **10**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An element contains 60% isotope of mass 10 and 40% isotope of mass 11. Calculate its relative atomic mass.",
+      "back": [
+        "Weighted total = (60 × 10) + (40 × 11) = **1,040**.",
+        "Divide by the total percentage: 1,040 ÷ 100.",
+        "**Aᵣ = 10.4**, with no unit."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why potassium is more reactive than sodium.",
+      "back": [
+        "Its outer electron is **farther from the nucleus**, with more occupied shells.",
+        "Increased **shielding and distance reduce the attraction** to the outer electron.",
+        "The electron is **lost more easily**, so potassium reacts more readily."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why chlorine is more reactive than bromine.",
+      "back": [
+        "Chlorine has **fewer occupied electron shells**.",
+        "There is less distance/shielding, giving a **stronger nuclear attraction for an incoming electron**.",
+        "Chlorine gains an electron more readily."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Write a balanced equation for sodium reacting with water and state what makes the final solution alkaline.",
+      "back": [
+        "**2Na + 2H₂O → 2NaOH + H₂**.",
+        "The product **sodium hydroxide** supplies hydroxide ions in solution, making it alkaline."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how later discoveries supported Mendeleev’s periodic table.",
+      "back": [
+        "He left **gaps** for undiscovered elements.",
+        "He **predicted their properties** from surrounding elements.",
+        "Newly discovered elements had properties that **matched the predictions**, supporting the table."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A typical atom has radius 0.10 nm. Convert this to metres and compare it with a nucleus of radius 1.0 × 10⁻¹⁴ m.",
+      "back": [
+        "0.10 × 10⁻⁹ = **1.0 × 10⁻¹⁰ m**.",
+        "Ratio = 10⁻¹⁰ ÷ 10⁻¹⁴ = **10⁴**.",
+        "The atom’s radius is **10,000 times** the nuclear radius."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Chlorine is added to potassium bromide solution. Write the balanced full and ionic equations and explain why the reaction occurs.",
+      "back": [
+        "Full: **Cl₂ + 2KBr → 2KCl + Br₂**.",
+        "Ionic: **Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂**.",
+        "Chlorine is **more reactive than bromine**, so it displaces bromine from bromide.",
+        "Potassium ions are **spectator ions** and do not change."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain four choices made when separating ink by paper chromatography.",
+      "back": [
+        "Use **pencil** for the baseline because it does not dissolve and separate like ink.",
+        "Keep the baseline **above the solvent level** so the sample is not washed into the solvent.",
+        "Use small spots so components begin in a narrow region and can separate clearly.",
+        "Mark the **solvent front promptly** before evaporation makes its position unclear."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare simple and fractional distillation and give an example of each.",
+      "back": [
+        "Both **evaporate a liquid and condense its vapour** for collection.",
+        "Simple distillation recovers a solvent, such as **water from salt solution**.",
+        "Fractional distillation separates miscible liquids, such as **ethanol and water**, using their different boiling points.",
+        "A fractionating column provides **repeated evaporation and condensation**, improving separation."
+      ]
+    }
+  ]
+}
