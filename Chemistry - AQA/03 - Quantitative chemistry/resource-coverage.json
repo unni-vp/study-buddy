@@ -23,5 +23,17 @@
     "01-moles-and-reacting-masses",
     "02-solutions-and-gases",
     "03-yield-and-atom-economy"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-12",
+    "source": "Questions and Answers/Quantitative chemistry - Questions and Answers.md",
+    "deck": "Flash Cards/Quantitative chemistry - Flash Cards.json",
+    "count": 25,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
 }
