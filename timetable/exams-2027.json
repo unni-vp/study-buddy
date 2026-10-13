@@ -1,0 +1,30 @@
+{
+  "year": 2027,
+  "source": "GCSE_Timetable_2027.pdf",
+  "exam_period": {"start": "2027-05-10", "end": "2027-06-18"},
+  "contingency_date": "2027-06-23",
+  "speaking_window": {"subject": "French", "board": "AQA", "start": "2027-04-19", "end": "2027-05-28", "note": "Your school will provide the exact speaking slot."},
+  "exams": [
+    {"date": "2027-05-10", "session": "Morning", "subject": "Computer Science", "component": "Paper 1", "board": "AQA"},
+    {"date": "2027-05-11", "session": "Morning", "subject": "Biology", "component": "Paper 1", "board": "AQA"},
+    {"date": "2027-05-12", "session": "Morning", "subject": "English Literature", "component": "Component 1", "board": "Eduqas"},
+    {"date": "2027-05-14", "session": "Morning", "subject": "Mathematics", "component": "Paper 1 (Non-Calculator)", "board": "Edexcel"},
+    {"date": "2027-05-17", "session": "Morning", "subject": "Chemistry", "component": "Paper 1", "board": "AQA"},
+    {"date": "2027-05-18", "session": "Morning", "subject": "Geography", "component": "Paper 1 (Geographical Themes)", "board": "OCR A"},
+    {"date": "2027-05-19", "session": "Morning", "subject": "English Literature", "component": "Component 2", "board": "Eduqas"},
+    {"date": "2027-05-24", "session": "Morning", "subject": "English Language", "component": "Component 1", "board": "Eduqas"},
+    {"date": "2027-05-25", "session": "Morning", "subject": "Physics", "component": "Paper 1", "board": "AQA"},
+    {"date": "2027-05-26", "session": "Afternoon", "subject": "Geography", "component": "Paper 2 (Environments & Skills)", "board": "OCR A"},
+    {"date": "2027-05-27", "session": "Morning", "subject": "Mathematics", "component": "Paper 2 (Calculator)", "board": "Edexcel"},
+    {"date": "2027-06-08", "session": "Morning", "subject": "English Language", "component": "Component 2", "board": "Eduqas"},
+    {"date": "2027-06-10", "session": "Morning", "subject": "Biology", "component": "Paper 2", "board": "AQA"},
+    {"date": "2027-06-10", "session": "Afternoon", "subject": "Geography", "component": "Paper 3 (Environmental Challenges)", "board": "OCR A"},
+    {"date": "2027-06-14", "session": "Morning", "subject": "Mathematics", "component": "Paper 3 (Calculator)", "board": "Edexcel"},
+    {"date": "2027-06-15", "session": "Morning", "subject": "Chemistry", "component": "Paper 2", "board": "AQA"},
+    {"date": "2027-06-18", "session": "Morning", "subject": "Physics", "component": "Paper 2", "board": "AQA"}
+  ],
+  "dates_to_confirm": [
+    {"subject": "French", "board": "AQA", "component": "Listening, reading and writing", "note": "Dates are not listed in the uploaded timetable. Check your school's final timetable."},
+    {"subject": "Computer Science", "board": "AQA", "component": "Paper 2", "note": "The date and session are not listed in the uploaded timetable. Check your school's final timetable."}
+  ]
+}

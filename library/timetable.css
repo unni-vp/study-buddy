@@ -1,0 +1,63 @@
+.timetable-view main{padding:20px 32px 32px}
+.timetable-page{max-width:1200px}
+.timetable-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:12px}
+.timetable-heading h1{margin:0;font-size:30px}
+.timetable-actions{display:flex;align-items:center;gap:16px;font-size:14px;flex-shrink:0}
+.timetable-actions a{text-underline-offset:4px}
+.calendar-toolbar{display:flex;align-items:center;justify-content:space-between;gap:16px;background:white;border:1px solid var(--line);border-radius:12px;padding:6px 12px;margin-bottom:10px}
+.calendar-toolbar[hidden],.calendar-month[hidden]{display:none}
+.calendar-month-picker{display:flex;gap:6px}
+.calendar-month-picker button{padding:4px 14px;font-size:14px}
+.calendar-month-picker button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:white}
+.calendar-step{display:flex;gap:12px;align-items:center}
+.calendar-step button{padding:4px 12px}
+.calendar-step button:disabled{opacity:.35;cursor:default}
+.calendar-step span{font-weight:600;min-width:105px;text-align:center;font-size:14px}
+.calendar-month{margin-bottom:16px}
+.calendar-month h2{margin:0 0 14px;font-size:23px}
+.calendar-enhanced .calendar-month h2{display:none}
+.calendar-weekdays,.calendar-week{display:grid;grid-template-columns:repeat(5,minmax(0,1fr)) repeat(2,minmax(0,.5fr))}
+.calendar-weekdays{padding:6px 0;background:#e9eef1;border:1px solid var(--line);border-radius:10px 10px 0 0;text-align:center;font-size:13px;font-weight:600}
+.calendar-weeks{border-left:1px solid var(--line);border-top:1px solid var(--line);overflow:hidden;border-radius:0 0 10px 10px}
+.calendar-day,.calendar-empty{min-width:0;min-height:36px;padding:5px 7px 6px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:white}
+.calendar-quiet-week .calendar-day,.calendar-quiet-week .calendar-empty{min-height:28px;padding-top:2px;padding-bottom:2px}
+.calendar-quiet-week .calendar-date{margin-bottom:0}
+.calendar-empty,.calendar-weekend{background:#f1f4f6}
+.calendar-date{display:inline-block;min-width:24px;font-size:14px;font-weight:600;margin-bottom:3px;line-height:1.45;color:var(--ink)}
+.mobile-weekday,.mobile-month{display:none}
+.calendar-event{--event-colour:#28675d;--event-bg:#e5efeb;display:flex;flex-direction:column;gap:2px;padding:6px;border-left:3px solid var(--event-colour);border-radius:5px;background:var(--event-bg);color:#1f2c3b;line-height:1.35;font-size:13px;overflow-wrap:anywhere}
+.calendar-event+.calendar-event{margin-top:5px}
+.calendar-event strong{font-size:13px;font-weight:650;line-height:1.35}
+.event-session{font-size:11px;font-weight:700;color:var(--event-colour);margin-bottom:0}
+.event-computer-science{--event-colour:#243b64;--event-bg:#e4eaf4}
+.event-english-language{--event-colour:#785600;--event-bg:#fff2c9}
+.event-english-literature{--event-colour:#754394;--event-bg:#efe3f7}
+.event-mathematics{--event-colour:#2f64a3;--event-bg:#e3ebf7}
+.event-geography{--event-colour:#9a4b19;--event-bg:#f5e4d8}
+.event-french{--event-colour:#a63e72;--event-bg:#f6e1ec}
+.event-biology{--event-colour:#28734f;--event-bg:#e1f0e7}
+.event-chemistry{--event-colour:#6650a4;--event-bg:#ebe6f6}
+.event-physics{--event-colour:#116b68;--event-bg:#dff0ef}
+.event-contingency{--event-colour:#785600;--event-bg:#fff2c9}
+.timetable-information{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.timetable-info{border:1px solid var(--line);border-radius:10px;padding:12px 16px;background:white}
+.timetable-info h2{font-size:16px;margin:0 0 6px}
+.timetable-info p{font-size:14px;margin:6px 0}
+.speaking-info{border-top:3px solid #a63e72}
+.contingency-info{border-top:3px solid #b48620}
+.pending-info{grid-column:1/-1}
+.pending-info ul{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.pending-info li{font-size:14px}
+.pending-info li strong,.pending-info li span{display:block}
+.pending-info li span{color:var(--muted);margin-top:5px}
+@media(max-width:1050px){.calendar-day,.calendar-empty{padding:8px 5px}.calendar-event{padding:7px 5px}.timetable-heading{align-items:flex-start;flex-wrap:wrap}}
+@media(max-width:720px){
+ .timetable-view main{padding:20px 18px}.timetable-heading{gap:12px;margin-bottom:20px}.timetable-actions{gap:18px}.calendar-toolbar{flex-wrap:wrap;gap:12px;padding:12px}.calendar-month-picker{flex:1}.calendar-month-picker button{flex:1;padding:7px 10px}.calendar-step{width:100%;justify-content:space-between}.calendar-key,.calendar-weekdays,.calendar-empty,.calendar-day:not(.has-event){display:none}
+ .calendar-weeks{border:0;overflow:visible}.calendar-week{display:block}.calendar-day{border:1px solid var(--line);border-radius:10px;margin:0 0 12px;min-height:0;padding:13px;background:white}.calendar-date{margin-bottom:10px;font-size:15px}.mobile-weekday,.mobile-month{display:inline}.calendar-event{font-size:14px;padding:12px;gap:5px}.calendar-event strong{font-size:15px}.event-session,.event-board{font-size:12px}.timetable-information,.pending-info ul{grid-template-columns:1fr}.timetable-info{padding:16px}.pending-info{grid-column:auto}
+}
+@media print{
+ @page{size:A4 landscape;margin:10mm}
+ header,aside,footer,.breadcrumbs,.timetable-actions,.calendar-toolbar,.calendar-key{display:none!important}
+ .layout{display:block}main{padding:0}.timetable-heading{margin-bottom:10px}.timetable-heading h1{font-size:24px}.timetable-period{font-size:12px}.timetable-page{max-width:none}
+ .calendar-month[hidden]{display:block!important}.calendar-month{break-inside:avoid;break-after:page}.calendar-month h2{display:block!important;font-size:18px;margin:8px 0}.calendar-weekdays,.calendar-week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr))}.calendar-weekdays{font-size:10px;padding:5px 0}.calendar-empty,.calendar-day:not(.has-event){display:block}.calendar-day,.calendar-empty{min-height:42px;padding:4px;border-radius:0;margin:0}.calendar-date{font-size:10px;margin-bottom:3px}.mobile-weekday,.mobile-month{display:none}.calendar-event{font-size:10px;padding:4px;gap:2px;break-inside:avoid}.calendar-event strong{font-size:10px}.event-session,.event-board{font-size:9px}.calendar-event+.calendar-event{margin-top:4px}.timetable-information{break-inside:avoid}
+}

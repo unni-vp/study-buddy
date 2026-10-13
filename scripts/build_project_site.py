@@ -10,6 +10,7 @@ MAP_CATALOGS={}
 from revision_navigation import build_revision_pages
 from qa_navigation import build_qa_pages
 from flashcard_navigation import build_flashcard_page
+from exam_timetable import render_timetable
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'library'
@@ -50,12 +51,16 @@ def write(page,title,content,crumbs=[],subject=None):
  viewer_assets=(f'<link rel="stylesheet" href="{link(page,SITE/"mindmaps.css")}"><script defer src="{link(page,SITE/"mindmaps.js")}"></script>') if viewer else ''
  side=''.join(f'<a class="{"selected" if s==subject else ""}" href="{link(page,ROOT/s/"index.html")}">{esc(short(s))}</a>' for s in subjects)
  breadcrumb='<a href="'+link(page,ROOT/'index.html')+'">Subjects</a>'+''.join(f'<span aria-hidden="true"> / </span><a href="{link(page,p)}">{esc(label)}</a>' for label,p in crumbs)
- breadcrumb_html='' if page.name=='index.html' and (page.parent==ROOT or page.parent.name in subjects) else '<nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'</nav>'
+ breadcrumb_html='' if page==ROOT/'timetable.html' or (page.name=='index.html' and (page.parent==ROOT or page.parent.name in subjects)) else '<nav class="breadcrumbs" aria-label="Breadcrumb">'+breadcrumb+'</nav>'
  page.parent.mkdir(parents=True,exist_ok=True)
  page_title=SITE_TITLE if page==ROOT/'index.html' else title+' · '+SITE_TITLE
  page_class='home-page' if page==ROOT/'index.html' else 'inner-page'
+ if page==ROOT/'timetable.html':page_class+=' timetable-view'
  if subject:page_class+=' subject-'+slug(short(subject))
- page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
+ exam_label = '<span class="exam">Summer 2027</span>'
+ if page == ROOT/'index.html':
+  exam_label = f'<a class="exam timetable-link" href="{link(page,ROOT/"timetable.html")}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18M7 15h3m4 0h3"/></svg><span>Exam timetable · Summer 2027</span></a>'
+ page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a>{exam_label}</header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
 
 def resource_reader(source,subject,topic,topicpage):
  key=hashlib.sha1(str(source.relative_to(ROOT)).encode()).hexdigest()[:12]
@@ -161,4 +166,6 @@ colours=['#243b64','#8a6500','#754394','#2f64a3','#9a4b19','#a63e72','#28734f','
 for i,(subject,course) in enumerate(subjects.items()):
  cards.append(f'<a class="subject-card" style="--subject-colour:{colours[i]}" href="{link(home,ROOT/subject/"index.html")}"><div class="subject-card-top">{subject_icon(short(subject))}<span class="subject-code">{esc(course["code"])}</span></div><h2>{esc(short(subject))}</h2><p>{esc(subject.split(" - ")[-1])} · {esc(course["tier"])}</p><div><span>{len(course["topics"])} topics</span><span aria-hidden="true">→</span></div></a>')
 write(home,'Subjects',f'<p class="intro">Follow each topic from clear explanations to visual mind maps and questions with answers.</p><div class="subject-grid">'+''.join(cards)+f'</div><p class="library-note">{len(subjects)} subjects · {sum(len(c["topics"]) for c in subjects.values())} topics · {total_ready} topics with resources available</p>')
+timetable=ROOT/'timetable.html'
+write(timetable,'Exam timetable',render_timetable(ROOT,timetable,link))
 print('Built offline subject index, 9 subject contents pages, 73 topic pages and resource readers.')
