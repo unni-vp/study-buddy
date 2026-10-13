@@ -1,0 +1,397 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        314,
+        350,
+        396
+      ],
+      "column_heights": [
+        561,
+        568,
+        694
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 314,
+          "height": 292
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 322,
+          "width": 314,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 344,
+          "y": 18,
+          "width": 350,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 344,
+          "y": 338,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 706,
+          "y": 18,
+          "width": 396,
+          "height": 434
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 706,
+          "y": 464,
+          "width": 396,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "chem-electrodes",
+          "purpose": "Shows positive and negative ions moving to oppositely charged electrodes."
+        }
+      ],
+      "slug": "00-chemical-changes-overview",
+      "title": "Chemical changes",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        334,
+        374,
+        352
+      ],
+      "column_heights": [
+        555,
+        546,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 334,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 334,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 374,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 364,
+          "y": 316,
+          "width": 374,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 294,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-reactivity-and-redox",
+      "title": "Reactivity & redox",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        590,
+        467,
+        590
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 360,
+          "width": 354,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 338,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-acids-and-salts",
+      "title": "Acids & salts",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        314,
+        394,
+        352
+      ],
+      "column_heights": [
+        612,
+        717,
+        596
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 314,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 18,
+          "y": 338,
+          "width": 314,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 344,
+          "y": 18,
+          "width": 394,
+          "height": 478
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 344,
+          "y": 508,
+          "width": 394,
+          "height": 241
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 316,
+          "width": 352,
+          "height": 314
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "chem-titration",
+          "purpose": "Shows the apparatus, meniscus and placement of reagents."
+        }
+      ],
+      "slug": "03-titration",
+      "title": "Titration",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        659,
+        480,
+        656
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 399
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 429,
+          "width": 354,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 316,
+          "width": 354,
+          "height": 198
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 316,
+          "width": 352,
+          "height": 374
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "chem-electrodes",
+          "purpose": "Shows positive and negative ions moving to oppositely charged electrodes."
+        }
+      ],
+      "slug": "04-electrolysis",
+      "title": "Electrolysis",
+      "source_panels_preserved": 6
+    }
+  ]
+}

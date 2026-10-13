@@ -99,13 +99,22 @@ def profile(w,endo=False):
     return s,182
 
 def profiles(w):
-    a,h=profile(w);b,k=profile(w,True)
-    # A single shared axis legend leaves more room for both energy curves.
-    a=a.replace(label(w/2,172,'E: energy    R: reactants    P: products','middle'),'')
-    return a+f'<g transform="translate(0 162)">{b}</g>',344
+    s='';half=(w-12)/2
+    for side in range(2):
+        ry=88 if side==0 else 111;py=111 if side==0 else 88
+        a=label(half/2,18,'Exothermic' if side==0 else 'Endothermic','middle')
+        a+=f'<path d="M20 32V127H{half-2}" stroke="#607583" fill="none"/>'
+        a+=label(0,51,'E')
+        a+=f'<path d="M27 {ry}H43C57 {ry} 59 46 {half*.52} 46S{half*.71} {py} {half-38} {py}H{half-5}" stroke="{BLUE}" stroke-width="2.5" fill="none"/>'
+        a+=label(28,ry-8,'R')+label(half-24,py-8,'P')
+        a+=arrow(60,ry,60,46,ORANGE)+label(45,42,'Eₐ')
+        a+=label(half/2,150,'Progress','middle')
+        s+=f'<g transform="translate({side*(half+12)} 0)">{a}</g>'
+    s+=label(w/2,175,'E: energy    R: reactants    P: products','middle')
+    return s,185
 
 DRAWINGS={'chem-ion':ion,'chem-pairs':pairs,'chem-lattice':lattice,'chem-alloy':alloy,'chem-graphite':graphite,'chem-limiting':limiting,'chem-electrodes':electrodes,'chem-titration':titration,'chem-profile':profile,'chem-profiles':profiles}
-MIN_WIDTH={'chem-ion':266,'chem-pairs':250,'chem-lattice':266,'chem-alloy':294,'chem-graphite':266,'chem-limiting':266,'chem-electrodes':266,'chem-titration':276,'chem-profile':300,'chem-profiles':300}
+MIN_WIDTH={'chem-ion':266,'chem-pairs':250,'chem-lattice':266,'chem-alloy':294,'chem-graphite':266,'chem-limiting':266,'chem-electrodes':266,'chem-titration':276,'chem-profile':300,'chem-profiles':330}
 PURPOSES={
  'chem-ion':'Shows electron loss while proton number stays unchanged.',
  'chem-pairs':'Shows the shared pair and the origins of electrons in a covalent bond.',

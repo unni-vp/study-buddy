@@ -22,6 +22,9 @@ VISUALS={
  ('Chemistry - AQA',5,'00-energy-changes-overview'):{1:('chem-profile',1)},
  ('Chemistry - AQA',5,'01-profiles-and-bond-energies'):{3:('chem-profiles',2)},
 }
+COLUMNS={
+ ('Chemistry - AQA',4,'03-titration'):[[0,3],[1,4],[2,5]],
+}
 
 def colon_labels(value):
     # Bold a short leading label together with its colon. Leave full sentences alone.
@@ -52,9 +55,11 @@ def build(subject,topics,maps,n):
                 panel['title']=panel['title'].replace(' → ',' & ')
             for g in panel['groups']:g['lines']=[colon_labels(clarify_associations(t)) for t in g['lines']]
         key=(subject,n,item['slug'])
+        if key==('Chemistry - AQA',4,'03-titration'):
+            source[1]['groups'][2]['lines']=['Water left in the burette dilutes the acid.','This changes its concentration.']
         for index,(kind,after) in VISUALS.get(key,{}).items():
             source[index]['visual']={'kind':kind,'after':after}
-        svg,record=build_map(item['title'],item['slug'],source,drawing_provider=drawing,purpose_provider=PURPOSES,apply_biology_visuals=False)
+        svg,record=build_map(item['title'],item['slug'],source,columns=COLUMNS.get(key),drawing_provider=drawing,purpose_provider=PURPOSES,apply_biology_visuals=False)
         target=folder/(item['slug']+'.svg');target.write_text(svg,encoding='utf-8');paths.append(str(target))
         record['slug']=item['slug'];record['title']=item['title'];record['source_panels_preserved']=len(source);records.append(record)
     node=Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe'
