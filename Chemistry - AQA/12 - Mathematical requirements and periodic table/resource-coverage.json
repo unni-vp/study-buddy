@@ -1,0 +1,37 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "Mathematical requirements 1a–1d,2a–2c/2h,3a–3c,4a–4e,5b–5c",
+    "Appendix A: periodic table",
+    "Applied 4.1.1/4.3 calculations and RPA2/5/6/8"
+  ],
+  "coverage_checklist": {
+    "Numbers/data": "Decimals,standard form,fractions/ratios/percentages,estimates,significant figures,mean/frequency tables/bars/histograms,orders of magnitude",
+    "Algebra/graphs/geometry": "All stated symbols,rearrange/substitute/units,numeric/graph translation,y=mx+c,plots/slope/intercept/tangents,2D/3D models,triangle/rectangle/cube calculations",
+    "Periodic table": "Actual appendix link,key/Ar vsatomic/isotope numbers,first20 symbols/values,groups/periods/commonions/formulas,weightedAr/Mr",
+    "Chemistry applications": "Moles/Avogadro/stoichiometry/limiting/empirical,mass/molar concentrations/titration/gases,yield/atom economy/bond-energy/rate/Rf/carats/LCA"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-chemistry-maths-overview",
+    "01-numerical-skills",
+    "02-periodic-table-and-masses",
+    "03-moles-and-formulas",
+    "04-solutions-gases-and-yields",
+    "05-graphs-and-geometry"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Mathematical requirements and periodic table - Questions and Answers.md",
+    "deck": "Flash Cards/Mathematical requirements and periodic table - Flash Cards.json",
+    "count": 46,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

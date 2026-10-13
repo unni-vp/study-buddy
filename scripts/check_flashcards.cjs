@@ -85,9 +85,17 @@ const decks = fs.readdirSync('.', { withFileTypes: true })
     await page.emulateMedia({ media: 'screen' });
   }
 
-  await page.goto(pathToFileURL(path.resolve('Biology - AQA/05 - Homeostasis and response/index.html')).href);
+  // Choose an actual topic without a deck: completed science topics now all have cards.
+  const config=JSON.parse(fs.readFileSync('project-config.json','utf8'));
+  const topicWithoutDeck=Object.entries(config.subjects).flatMap(([subject,course])=>course.topics.map((item,index)=>path.join(subject,String(index+1).padStart(2,'0')+' - '+item.title))).find((topic)=>{
+    const folder=path.join(topic,'Flash Cards');
+    return !fs.existsSync(folder)||!fs.readdirSync(folder).some((name)=>name.endsWith('Flash Cards.json'));
+  });
+  if (topicWithoutDeck) {
+  await page.goto(pathToFileURL(path.resolve(topicWithoutDeck,'index.html')).href);
   if (await page.getByRole('link', { name: 'Flash cards', exact: true }).count()) {
     throw new Error('A topic without a flash-card deck should not show an empty Flash cards button.');
+  }
   }
 
   await browser.close();

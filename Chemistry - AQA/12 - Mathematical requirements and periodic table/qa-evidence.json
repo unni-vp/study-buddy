@@ -1,0 +1,390 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "Original calculation values. Reviewed 2023 Paper 2 Higher Q05.2 for formula-mass/element percentage and Q07.3 for tangent rate/precision; 2022 Q07.4–07.5 supplies ammonia-production numerical/graph context. Other worked practice follows current maths requirements and quantitative content, without a frequency claim.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Convert 30 cm³ into dm³.",
+      "answer": "0.030 dm³.",
+      "specification": "MS1a;WS4.5",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Write 0.0006 in standard form.",
+      "answer": "6 ×10⁻⁴.",
+      "specification": "MS1b",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "How many significant figures are in 0.00480?",
+      "answer": "Three.",
+      "specification": "MS2a",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "What does an element’s atomic number count?",
+      "answer": "Protons.",
+      "specification": "Appendix A;4.1.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the chemical symbol for potassium?",
+      "answer": "K.",
+      "specification": "4.1.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the chemical symbol for iron?",
+      "answer": "Fe.",
+      "specification": "4.1.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "What unit is used for the quantity of substance?",
+      "answer": "Mole, mol.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "What volume does one mole of gas occupy at room temperature and pressure in the course approximation?",
+      "answer": "24 dm³.",
+      "specification": "4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "What does ∝ mean?",
+      "answer": "Proportional to.",
+      "specification": "MS3a",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 1,
+      "prompt": "Which graph feature gives instantaneous reaction rate?",
+      "answer": "Tangent gradient.",
+      "specification": "MS4e",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Convert 0.0025 kg to grams and 500 cm³ to dm³.",
+      "answer": "- 0.0025 ×1000 = **2.5 g**.\n- 500/1000 = **0.500 dm³**.",
+      "specification": "WS4.5",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate (8 ×10⁴)/(2 ×10²).",
+      "answer": "- 8/2 =4; exponent =4−2 =2.\n- **4 ×10²**.",
+      "specification": "MS1b",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Round 0.04682 to three significant figures.",
+      "answer": "- Count from the first non-zero digit, 4.\n- **0.0468**.",
+      "specification": "MS2a",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "A quantity rises from 80 to 100. Calculate percentage increase.",
+      "answer": "- (100−80)/80 ×100.\n- **25%**.",
+      "specification": "MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Determine protons and electrons in Mg²⁺, atomic number 12.",
+      "answer": "- **12 protons**.\n- **10 electrons**, after losing two.",
+      "specification": "Appendix A;4.1.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "An isotope has atomic number 17 and mass number 37. Find neutron count and explain why decimal Ar is not used.",
+      "answer": "- Neutrons =37−17 = **20**.\n- Ar is a weighted isotope mean, not this individual isotope’s mass number.",
+      "specification": "4.1.1.4;4.1.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "Write the formula formed by Al³⁺ and O²⁻.",
+      "answer": "- Equal charges require two aluminium ions (+6) and three oxide ions (−6).\n- **Al₂O₃**.",
+      "specification": "4.1.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Write the formula formed by Ca²⁺ and NO₃⁻.",
+      "answer": "- Two nitrate ions balance one calcium ion.\n- **Ca(NO₃)₂**, retaining the nitrate group.",
+      "specification": "4.1.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate Mr of Mg(OH)₂ using Mg=24, O=16 and H=1.",
+      "answer": "- 24+2×(16+1).\n- **58**, with no unit on Mr.",
+      "specification": "4.3.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate moles in 7.2 g magnesium, Ar=24.",
+      "answer": "- n =7.2/24.\n- **0.30 mol**.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate mass of 0.15 mol carbon dioxide, Mr=44.",
+      "answer": "- Mass =0.15 ×44.\n- **6.6 g**.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate moles in 240 cm³ gas at room temperature and pressure.",
+      "answer": "- n =240/24 000.\n- **0.010 mol**.",
+      "specification": "4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate mass concentration for 3.0 g solute in 200 cm³ solution.",
+      "answer": "- Volume = **0.200 dm³**.\n- Concentration =3.0/0.200 = **15 g dm⁻³**.",
+      "specification": "4.3.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate percentage yield from actual 6.0 g and theoretical 8.0 g.",
+      "answer": "- 6.0/8.0 ×100.\n- **75%**.",
+      "specification": "4.3.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate Rf from spot distance 18 mm and front distance 30 mm.",
+      "answer": "- 18/30.\n- **0.60**, no unit.",
+      "specification": "4.8.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 2,
+      "prompt": "Rearrange c=n/V to make V the subject.",
+      "answer": "- Multiply by V: cV=n.\n- Divide by c: **V=n/c**.",
+      "specification": "MS3b",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate weighted Ar for 80% isotope mass 10 and 20% isotope mass 11.",
+      "answer": "- Weighted total =80×10 +20×11 = **1020**.\n- Divide by100.\n- **Ar =10.2**; individual atoms still have integer mass numbers.",
+      "specification": "4.1.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate nitrogen’s mass percentage in NH₄NO₃, using N=14, H=1, O=16.",
+      "answer": "- Mr =2×14 +4×1 +3×16 = **80**.\n- Nitrogen contribution = **28**.\n- Percentage =28/80 ×100 = **35%**.",
+      "specification": "4.3.1.2",
+      "evidence": "2023 2H Q05.2: adapted element-percentage method",
+      "number": 28
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate the number of molecules in 0.20 mol H₂ using 6.02 ×10²³ mol⁻¹, and the number of H atoms.",
+      "answer": "- Molecules =0.20 ×6.02 ×10²³ = **1.204 ×10²³**.\n- Each molecule contains two atoms.\n- H atoms = **2.408 ×10²³** before final requested rounding.",
+      "specification": "4.3.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 3,
+      "prompt": "For 2Mg+O₂ →2MgO, find oxygen moles and MgO mass from 0.10 mol Mg; MgO Mr=40.",
+      "answer": "- Oxygen needed =0.10/2 = **0.050 mol**.\n- MgO formed = **0.10 mol**.\n- Mass =0.10 ×40 = **4.0 g**, if reaction completes with enough oxygen.",
+      "specification": "4.3.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "Find empirical formula from 2.4 g carbon and 0.6 g hydrogen; Ar values 12 and 1.",
+      "answer": "- Carbon moles =2.4/12 = **0.20**. Hydrogen moles =0.6/1 = **0.60**.\n- Divide by0.20: ratio **1:3**.\n- Empirical formula **CH₃**.",
+      "specification": "4.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "An empirical formula is CH₂ and molecular Mr is 56. Determine molecular formula.",
+      "answer": "- Empirical mass =12+2 = **14**.\n- Multiplier =56/14 = **4**.\n- Molecular formula **C₄H₈**.",
+      "specification": "4.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate molar concentration of 2.0 g NaOH in 250 cm³; Mr=40.",
+      "answer": "- Moles =2.0/40 = **0.050 mol**.\n- Volume = **0.250 dm³**.\n- c =0.050/0.250 = **0.200 mol dm⁻³** before rounding to requested precision.",
+      "specification": "4.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "Convert 0.25 mol dm⁻³ sodium carbonate to g dm⁻³, using Na=23, C=12 and O=16.",
+      "answer": "- Mr(Na₂CO₃)=46+12+48 = **106**.\n- Mass concentration =0.25 ×106.\n- **26.5 g dm⁻³**, before final requested rounding.",
+      "specification": "4.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate atom economy for CaCO₃ →CaO+CO₂ when CaO is desired; masses 100, 56 and 44.",
+      "answer": "- Desired contribution = **56**.\n- Total product contribution =56+44 = **100**.\n- Atom economy =56/100 ×100 = **56%**.",
+      "specification": "4.3.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    },
+    {
+      "marks": 3,
+      "prompt": "A tangent has points (10 s, 8 cm³) and (50 s, 32 cm³). Calculate instantaneous rate.",
+      "answer": "- ΔV =32−8 = **24 cm³**.\n- Δt =50−10 = **40 s**.\n- Rate =24/40 = **0.60 cm³ s⁻¹**.",
+      "specification": "MS4e;4.6.1.1",
+      "evidence": "2023 2H Q07.3: adapted tangent method",
+      "number": 36
+    },
+    {
+      "marks": 3,
+      "prompt": "A line passes through (2, 7) and (8, 19). Find gradient and intercept.",
+      "answer": "- m =(19−7)/(8−2)= **2**.\n- 7=2×2+c, so **c=3**.\n- y= **2x+3**.",
+      "specification": "MS4b;MS4d",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 3,
+      "prompt": "Measurements 18.9, 19.0 and 19.1 cm³ are concordant. Calculate their mean and range.",
+      "answer": "- Mean =(18.9+19.0+19.1)/3 = **19.0 cm³**.\n- Range =19.1−18.9 = **0.2 cm³**.\n- Report precision consistently with the measurement resolution.",
+      "specification": "MS2b;WS3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 38
+    },
+    {
+      "marks": 3,
+      "prompt": "Counts 1, 2 and 3 have frequencies 2, 5 and 3. Calculate the mean count.",
+      "answer": "- Weighted total =1×2 +2×5 +3×3 = **21**.\n- Total frequency = **10**.\n- Mean =21/10 = **2.1**.",
+      "specification": "MS2c",
+      "evidence": "Additional specification-based practice",
+      "number": 39
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate surface area and volume of a cube with side 2 cm.",
+      "answer": "- Surface =6×2² = **24 cm²**.\n- Volume =2³ = **8 cm³**.\n- SA:V =24:8 = **3:1**.",
+      "specification": "MS5c",
+      "evidence": "Additional specification-based practice",
+      "number": 40
+    },
+    {
+      "marks": 4,
+      "prompt": "For 2Mg+O₂ →2MgO, a mixture has 0.30 mol Mg and 0.10 mol O₂. Identify limiting reagent and amounts left/formed.",
+      "answer": "- Compare moles/coefficient: Mg 0.30/2=0.15; oxygen 0.10/1=0.10.\n- **Oxygen limits**.\n- It uses **0.20 mol Mg**, leaving **0.10 mol Mg**.\n- Forms **0.20 mol MgO**.",
+      "specification": "4.3.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 41
+    },
+    {
+      "marks": 4,
+      "prompt": "A 25.0 cm³ NaOH sample requires 15.0 cm³ of 0.100 mol dm⁻³ H₂SO₄. Calculate NaOH concentration.",
+      "answer": "- Acid moles =0.100×0.0150 = **0.00150 mol**.\n- H₂SO₄+2NaOH →Na₂SO₄+2H₂O gives 1:2 ratio.\n- NaOH moles = **0.00300 mol**.\n- c =0.00300/0.0250 = **0.120 mol dm⁻³**.",
+      "specification": "4.3.4;RPA2",
+      "evidence": "Additional specification-based practice",
+      "number": 42
+    },
+    {
+      "marks": 4,
+      "prompt": "Use H–H436, Cl–Cl243 and H–Cl431 kJ mol⁻¹ to calculate energy change for H₂+Cl₂ →2HCl.",
+      "answer": "- Broken bonds:436+243 = **679 kJ mol⁻¹**.\n- Formed bonds:2×431 = **862 kJ mol⁻¹**.\n- Change =679−862 = **−183 kJ mol⁻¹**.\n- Negative means **exothermic**, for the reaction quantities shown.",
+      "specification": "4.5.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 43
+    },
+    {
+      "marks": 4,
+      "prompt": "A 2 cm cube is cut into eight 1 cm cubes. Compare total volume and exposed surface area.",
+      "answer": "- Original volume = **8 cm³** and surface = **24 cm²**.\n- New total volume =8×1 = **8 cm³**, unchanged.\n- New total surface =8×6 = **48 cm²**, doubled.\n- More exposed area can increase solid reaction rate without adding substance.",
+      "specification": "MS5c;4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 44
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how to extract a rate from a curved chemical graph without confusing it with yield.",
+      "answer": "- Draw tangent at the specified time.\n- Calculate Δquantity/Δtime on a large triangle using actual scales.\n- Give correct rate units.\n- Final curve height measures total amount, not instantaneous speed.",
+      "specification": "MS4e",
+      "evidence": "Additional specification-based practice",
+      "number": 45
+    },
+    {
+      "marks": 4,
+      "prompt": "Using the same temperature and pressure, determine oxygen needed for 120 cm³ hydrogen in 2H₂+O₂ →2H₂O, and hydrogen moles at room conditions.",
+      "answer": "- Gas-volume ratio H₂:O₂ = **2:1**.\n- Oxygen required =120/2 = **60 cm³**.\n- Hydrogen moles =120/24 000.\n- **0.0050 mol**.",
+      "specification": "4.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 46
+    },
+    {
+      "marks": 4,
+      "prompt": "A 10 g 18-carat gold alloy is recycled with 90% of its gold recovered. Calculate gold content and recovery.",
+      "answer": "- Gold fraction =18/24 = **0.75**.\n- Original gold =10×0.75 = **7.5 g**.\n- Recovery =7.5×0.90.\n- **6.75 g gold**, before rounding to requested precision.",
+      "specification": "4.10.3.2;MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 47
+    },
+    {
+      "marks": 4,
+      "prompt": "A gas-production rate rises linearly from 0 to 8 cm³ s⁻¹ over 5 seconds. Calculate gas produced from the rate-time graph.",
+      "answer": "- Total amount is the **area under the rate-time graph**.\n- Triangle area =½×5×8.\n- Result = **20**.\n- Units s×cm³ s⁻¹ give **20 cm³**.",
+      "specification": "WS3.3;MS5c",
+      "evidence": "Additional specification-based practice",
+      "number": 48
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        410,
+        410,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 259,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-chemistry-maths-overview",
+      "title": "Chemistry maths and periodic-table skills"
+    },
+    {
+      "widths": [
+        342,
+        350,
+        368
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 237,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 734,
+          "y": 18,
+          "width": 368,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 734,
+          "y": 237,
+          "width": 368,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-numerical-skills",
+      "title": "Units, proportions and precision"
+    },
+    {
+      "widths": [
+        398,
+        310,
+        352
+      ],
+      "column_heights": [
+        586,
+        432,
+        366
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 398,
+          "height": 405
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 435,
+          "width": 398,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 428,
+          "y": 18,
+          "width": 310,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 428,
+          "y": 281,
+          "width": 310,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "remaining-chem-periodic-key",
+          "purpose": "Shows the atomic number and relative atomic mass in the same positions as the official AQA periodic-table key, preventing their roles being exchanged."
+        }
+      ],
+      "slug": "02-periodic-table-and-masses",
+      "title": "Periodic table, charges and relative masses"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        388,
+        388,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-moles-and-formulas",
+      "title": "Moles, stoichiometry and formulas"
+    },
+    {
+      "widths": [
+        358,
+        350,
+        352
+      ],
+      "column_heights": [
+        432,
+        410,
+        416
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 259,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 235
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-solutions-gases-and-yields",
+      "title": "Solutions, gases, yield and energy"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        454,
+        432,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-graphs-and-geometry",
+      "title": "Data, algebra, graphs and geometry"
+    }
+  ]
+}

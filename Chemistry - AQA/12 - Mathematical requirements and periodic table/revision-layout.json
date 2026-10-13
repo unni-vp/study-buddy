@@ -1,0 +1,82 @@
+{
+  "source": "Mathematical requirements and periodic table - Revision Notes.md",
+  "groups": [
+    {
+      "id": "numbers",
+      "title": "Units and numerical skills",
+      "description": "Convert, estimate, round and compare quantities.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Units, standard form and estimates"
+        },
+        {
+          "heading": "Ratios, percentages and precision"
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "title": "Periodic-table skills",
+      "description": "Read element data, charges, formulas and isotope averages.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Reading the periodic table"
+        },
+        {
+          "heading": "First 20 elements and useful symbols"
+        },
+        {
+          "heading": "Groups, periods and ion formulas"
+        },
+        {
+          "heading": "Relative masses and isotope averages"
+        }
+      ]
+    },
+    {
+      "id": "amounts",
+      "title": "Moles, solutions and gases",
+      "description": "Use equation ratios and compatible units.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Moles, particles and equation ratios"
+        },
+        {
+          "heading": "Limiting reactants and empirical formulas"
+        },
+        {
+          "heading": "Solutions and titration calculations"
+        },
+        {
+          "heading": "Gases at room temperature and pressure"
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "Yield, energy and mathematical reasoning",
+      "description": "Compare results and interpret graphs or structures.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Yield, atom economy and rates"
+        },
+        {
+          "heading": "Energy calculations and signs"
+        },
+        {
+          "heading": "Data tables, means and graphs"
+        },
+        {
+          "heading": "Algebra, geometry and molecular representations"
+        },
+        {
+          "heading": "Calculation routine"
+        }
+      ]
+    }
+  ]
+}

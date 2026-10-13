@@ -85,8 +85,10 @@ def build_revision_pages(source, layout_path, target, subject, topic, topicpage,
         def relocate(m):
             url=m[2]
             if re.match(r'^(https?:|#|mailto:)',url): return m[0]
-            from urllib.parse import unquote
-            return m[1]+'="'+link(page,(source.parent/unquote(url)).resolve())+'"'
+            from urllib.parse import unquote, urlsplit, urlunsplit
+            parts=urlsplit(url)
+            relocated=link(page,(source.parent/unquote(parts.path)).resolve())
+            return m[1]+'="'+urlunsplit(('', '', relocated, parts.query, parts.fragment))+'"'
         return re.sub(r'(href|src)="([^"]+)"',relocate,content)
 
     cards=''.join(grouped_card(link(target,targets[g['id']]),g) for g in groups)
