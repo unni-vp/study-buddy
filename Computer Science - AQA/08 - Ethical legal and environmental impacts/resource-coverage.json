@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8525 section 3.8, first exams 2027; local specification v1.3 16 June 2025",
+  "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
+  "specification_pdf_pages": [
+    33
+  ],
+  "coverage": [
+    "3.8"
+  ],
+  "notes": {
+    "source": "Revision Notes/Ethical legal and environmental impacts - Revision Notes.md",
+    "groups": [
+      "Privacy, law and evaluation",
+      "Connected devices and services",
+      "Implants, vehicles and the environment"
+    ],
+    "review": "Plain-English explanations, supported technical terms, worked applications and complete topic coverage; student-facing specification banners omitted."
+  },
+  "supporting_sources": [
+    {
+      "title": "AQA topic scope",
+      "url": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/ethical-legal-and-environmental-impacts-of-digital-technology-on-wider-society-including-issues-of-privacy",
+      "use": "Eight specified technology areas and privacy versus security debate"
+    },
+    {
+      "title": "ICO data-protection principles",
+      "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/",
+      "use": "General data handling principles; consent is not the only lawful basis"
+    },
+    {
+      "title": "CPS Computer Misuse Act guidance",
+      "url": "https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act",
+      "use": "Unauthorised access; no detailed penalties or sections taught"
+    },
+    {
+      "title": "Automated Vehicles Act explanatory notes",
+      "url": "https://www.legislation.gov.uk/ukpga/2024/10/notes/division/4/index.htm",
+      "use": "Distinction between automation and assistance; responsibility discussed without assuming a universal liability rule"
+    }
+  ]
+}

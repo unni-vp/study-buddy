@@ -1,0 +1,65 @@
+{
+  "source": "Ethical legal and environmental impacts - Revision Notes.md",
+  "groups": [
+    {
+      "id": "principles",
+      "title": "Privacy, law and evaluation",
+      "description": "Separate the issues and build a reasoned judgement.",
+      "icon": "computer-data",
+      "sections": [
+        {
+          "heading": "Ethical, legal and environmental questions"
+        },
+        {
+          "heading": "Privacy and personal data"
+        },
+        {
+          "heading": "Security and surveillance"
+        },
+        {
+          "heading": "Explaining and evaluating an impact"
+        }
+      ]
+    },
+    {
+      "id": "connected",
+      "title": "Connected devices and services",
+      "description": "Weigh mobile, wireless, cloud and wearable technologies.",
+      "icon": "computer-network",
+      "sections": [
+        {
+          "heading": "Mobile technologies"
+        },
+        {
+          "heading": "Wireless networking"
+        },
+        {
+          "heading": "Cloud storage"
+        },
+        {
+          "heading": "Wearable technologies"
+        }
+      ]
+    },
+    {
+      "id": "systems",
+      "title": "Implants, vehicles and the environment",
+      "description": "Compare benefits, risks and conditions for responsible use.",
+      "icon": "computer-test",
+      "sections": [
+        {
+          "heading": "Computer-based implants"
+        },
+        {
+          "heading": "Autonomous vehicles"
+        },
+        {
+          "heading": "Environmental impacts across a device lifecycle"
+        },
+        {
+          "heading": "A worked balanced judgement"
+        }
+      ]
+    }
+  ]
+}
