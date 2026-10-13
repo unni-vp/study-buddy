@@ -1,0 +1,286 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "Reviewed June 2022 and 2023 Chemistry Paper 2 Higher. Rate/tangent interpretation occurs in 2022 Q08.2–08.3 and 2023 Q07.3–07.4 (2/2 papers); 2023 Q01 tests gas-rate measurement and condition changes. Equilibrium/catalyst applications occur in 2022 Q07.6 and 2023 Q09.5–09.6. Questions here are original current-specification practice, not reproduced papers or a ranked prediction.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What is activation energy?",
+      "answer": "The minimum energy particles must have for a successful reaction.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Which rate unit applies when measuring moles consumed per second?",
+      "answer": "mol s⁻¹.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What does a horizontal product–time graph show?",
+      "answer": "No further measured product formation.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "What does ⇌ represent?",
+      "answer": "A reversible reaction.",
+      "specification": "4.6.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What must be equal at dynamic equilibrium?",
+      "answer": "Forward and reverse reaction rates.",
+      "specification": "4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What is meant by a closed reaction system?",
+      "answer": "Reactants and products cannot escape.",
+      "specification": "4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "What solid makes thiosulfate/acid mixtures cloudy?",
+      "answer": "Sulfur.",
+      "specification": "4.6.1.2",
+      "evidence": "2022 2H Q08.1",
+      "number": 7
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate mean rate when 72 cm³ gas forms in 90 s.",
+      "answer": "- Mean rate = 72/90.\n- **0.80 cm³ s⁻¹**.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate molar rate if 0.020 mol reactant is used in 40 s.",
+      "answer": "- Rate = 0.020/40.\n- **5.0 ×10⁻⁴ mol s⁻¹**.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why higher concentration usually speeds a solution reaction.",
+      "answer": "- More reactant particles occupy each unit volume.\n- There are **more frequent successful collisions**.",
+      "specification": "4.6.1.3",
+      "evidence": "2023 2H Q01.3: related condition comparison",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why increased gas pressure at the same temperature can increase rate.",
+      "answer": "- Reacting gas particles are closer together.\n- Collisions occur **more frequently**, increasing successful collisions per second.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a powder reacts faster than the same mass of large pieces.",
+      "answer": "- Powder has greater **exposed surface area**.\n- More particles are available for collisions at the solid surface.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain how a catalyst increases reaction rate.",
+      "answer": "- It provides a **different pathway**.\n- This pathway has **lower activation energy**.",
+      "specification": "4.6.1.4",
+      "evidence": "2023 2H Q07.1",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why must a stopper be fitted quickly during gas collection?",
+      "answer": "- Gas starts forming as soon as reactants mix.\n- A delay lets gas escape, underestimating collected volume or altering measured endpoint time.",
+      "specification": "4.6.1.2;RPA5",
+      "evidence": "2023 2H Q01.1",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why reaction rate commonly decreases as a batch reaction proceeds.",
+      "answer": "- Reactants are used up, reducing their concentration.\n- Successful collisions become **less frequent**.",
+      "specification": "4.6.1.1",
+      "evidence": "2022 2H Q08.3",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why equilibrium does not mean equal amounts of reactant and product.",
+      "answer": "- Equilibrium requires **equal rates**, not equal quantities.\n- Constant concentrations can be unequal while both reactions continue.",
+      "specification": "4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "An exothermic forward reaction releases 80 kJ for a stated quantity. What is the reverse energy change?",
+      "answer": "- The reverse reaction is **endothermic**.\n- It absorbs **80 kJ** for the corresponding quantity.",
+      "specification": "4.6.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "For A+B ⇌ C, predict the change after adding A and explain it.",
+      "answer": "- Equilibrium shifts **towards C**.\n- More added A is used, opposing the concentration increase.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "For A+B ⇌ C, predict the change after removing C.",
+      "answer": "- Equilibrium shifts **towards products**.\n- More C forms, opposing its removal.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "What is a catalyst’s effect on equilibrium yield and time to equilibrium?",
+      "answer": "- **No change in equilibrium yield/position**.\n- Equilibrium is reached faster because both directions are accelerated.",
+      "specification": "4.6.1.4;4.6.2.3",
+      "evidence": "2023 2H Q09.6",
+      "number": 20
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain the effect of higher temperature using collision theory.",
+      "answer": "- Particles gain kinetic energy and move faster.\n- Collisions occur more frequently.\n- A greater proportion has energy **at least equal to activation energy**, so more successful collisions occur per second.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 3,
+      "prompt": "A tangent has points (20 s, 18 cm³) and (60 s, 46 cm³). Calculate instantaneous rate.",
+      "answer": "- Volume change = 46−18 = **28 cm³**.\n- Time change = 60−20 = **40 s**.\n- Rate = 28/40 = **0.70 cm³ s⁻¹**.",
+      "specification": "4.6.1.1",
+      "evidence": "2022 2H Q08.2;2023 2H Q07.3: adapted tangent method",
+      "number": 22
+    },
+    {
+      "marks": 3,
+      "prompt": "The same turbidity endpoint is reached in 80 s and 50 s. Calculate the rate proxies and their ratio.",
+      "answer": "- Rates = 1/80 = **0.0125 s⁻¹** and 1/50 = **0.020 s⁻¹**.\n- Ratio = 0.020/0.0125 = **1.6**.\n- The 50 s condition is **1.6 times as fast** for this endpoint.",
+      "specification": "4.6.1.1;RPA5",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why reducing temperature can increase equilibrium yield but slow production in an exothermic reaction.",
+      "answer": "- Cooling favours the **exothermic direction**, increasing equilibrium product proportion.\n- Particles move more slowly and collide less frequently.\n- Fewer collisions exceed activation energy, reducing rate.",
+      "specification": "4.6.1.3;4.6.2.6",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 3,
+      "prompt": "For N₂(g)+3H₂(g) ⇌ 2NH₃(g), explain the effect of increased pressure on ammonia yield.",
+      "answer": "- Reactant side has **four gas moles**, product side two.\n- Increased pressure favours the side with **fewer gas moles**.\n- Equilibrium shifts towards ammonia, increasing its yield.",
+      "specification": "4.6.2.7",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 3,
+      "prompt": "For H₂(g)+I₂(g) ⇌ 2HI(g), explain why pressure does not shift equilibrium position.",
+      "answer": "- Each side has **two gas moles**.\n- Neither side reduces the gas-molecule total relative to the other.\n- Pressure changes can affect reaction rates while leaving equilibrium position unchanged.",
+      "specification": "4.6.2.7",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the reversible changes in hydrated copper sulfate when heated and then treated with water.",
+      "answer": "- Heating removes water and changes **blue hydrated** copper sulfate to **white anhydrous** copper sulfate.\n- Adding water restores the blue hydrated form.\n- Dehydration absorbs energy; reverse hydration releases energy.",
+      "specification": "4.6.2.1;4.6.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 3,
+      "prompt": "Why might two concentrations give different final gas volumes even with the same marble-chip mass?",
+      "answer": "- Changing concentration at fixed acid volume changes the amount of acid.\n- At low concentration, acid may be the **limiting reactant**.\n- If less carbonate reacts completely, less total gas forms; this is a yield difference as well as a rate difference.",
+      "specification": "4.6.1.2;4.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how to calculate rate at a chosen point on a curved product–time graph.",
+      "answer": "- Draw a tangent touching the curve at the chosen time.\n- Choose two well-separated points on the tangent, using actual axis scales.\n- Calculate Δproduct/Δtime from a large triangle.\n- State correct units; a chord gives an average over an interval instead.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain a catalyst’s effects on a reaction energy profile and on equilibrium.",
+      "answer": "- Alternative pathway has lower **activation-energy peak**.\n- Reactant/product energy levels and overall energy transfer stay unchanged.\n- Forward and reverse reactions both become faster.\n- Equilibrium is reached sooner, with **unchanged equilibrium position**.",
+      "specification": "4.6.1.4;4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain why the disappearing-cross experiment needs controlled total volume and viewing conditions.",
+      "answer": "- Volume and flask shape affect solution depth.\n- Different depth changes how much cloudiness hides the cross.\n- Lighting, cross and observer affect endpoint judgement.\n- Keeping these constant makes time comparisons better reflect concentration-dependent rate.",
+      "specification": "RPA5",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 4,
+      "prompt": "An exothermic equilibrium is 2A(g) ⇌ B(g). Explain the effects of cooling and reducing pressure separately.",
+      "answer": "- Cooling favours the **exothermic forward direction**.\n- This increases B’s equilibrium proportion.\n- Reducing pressure favours the side with **more gas moles**, two on the left versus one on the right.\n- This decreases B’s equilibrium proportion; the two changes oppose each other, so no combined amount can be calculated without more data.",
+      "specification": "4.6.2.6;4.6.2.7",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan a valid concentration investigation using gas collection.",
+      "answer": "- Use a range of known acid concentrations with fixed total volume and temperature.\n- React each with the same mass/surface area of a suitable carbonate and collect gas in a connected syringe.\n- Mix/seal promptly and record volume at fixed intervals, checking for leaks.\n- Repeat conditions and compare mean curves or common-interval rates.\n- Keep the limiting-reactant situation clear if interpreting final volumes.\n- Use dilute acid, eye protection and a syringe able to move freely; evaluate start-up loss and collection resolution.",
+      "specification": "RPA5",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan a concentration investigation using a change in turbidity.",
+      "answer": "- Prepare thiosulfate concentrations by dilution while keeping total solution volume constant.\n- Add fixed acid amount in the same flask over the same cross and start timing.\n- Control temperature, solution depth and viewing/endpoint conditions.\n- Repeat, compare mean times and 1/time proxies for a common endpoint.\n- Use suitable ventilation, small quantities and eye protection because acid and sulfur dioxide present hazards.\n- Evaluate subjective judgement and consider a fixed light-sensor threshold as an improvement.",
+      "specification": "RPA5",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate choosing high temperature, high pressure and a catalyst for an exothermic industrial reaction with fewer product gas moles.",
+      "answer": "- Higher temperature increases rate but shifts equilibrium towards reactants, reducing equilibrium product yield.\n- A lower temperature improves equilibrium yield but can make production too slow.\n- Higher pressure favours fewer product gas moles and can increase rate, but compression costs energy and requires strong safe equipment.\n- A catalyst lowers activation energy, increasing rate without changing equilibrium yield.\n- Compare production per unit time, operating/plant costs and risks.\n- A justified compromise seeks economical safe output, rather than simply maximum theoretical yield.",
+      "specification": "4.6.1;4.6.2",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    }
+  ]
+}

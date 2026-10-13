@@ -1,0 +1,62 @@
+{
+  "source": "Rate and extent of chemical change - Revision Notes.md",
+  "groups": [
+    {
+      "id": "rates",
+      "title": "Rates, curves and collision theory",
+      "description": "Distinguish reaction speed from product amount.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Reaction rates and measuring change"
+        },
+        {
+          "heading": "Curves, tangents and final yield"
+        },
+        {
+          "heading": "Collision theory and activation energy"
+        },
+        {
+          "heading": "Catalysts"
+        }
+      ]
+    },
+    {
+      "id": "practicals",
+      "title": "Rate investigations",
+      "description": "Compare gas production and turbidity methods.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Gas-volume rate practical"
+        },
+        {
+          "heading": "Colour or turbidity rate practical"
+        }
+      ]
+    },
+    {
+      "id": "equilibrium",
+      "title": "Reversibility and equilibrium",
+      "description": "Predict condition changes and explain equal rates.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Reversible reactions and energy"
+        },
+        {
+          "heading": "Dynamic equilibrium"
+        },
+        {
+          "heading": "Concentration changes at equilibrium"
+        },
+        {
+          "heading": "Temperature and pressure changes"
+        },
+        {
+          "heading": "Common calculation and explanation traps"
+        }
+      ]
+    }
+  ]
+}

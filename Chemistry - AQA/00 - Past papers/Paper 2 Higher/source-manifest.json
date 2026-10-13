@@ -1,0 +1,26 @@
+[
+  {
+    "file": "AQA-84622H-QP-JUN22.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622H-QP-JUN22.PDF",
+    "pages": 40,
+    "sha256": "01611208a1552bbe14bcabb55b0c8e99a72e0e0f8d8958a6de4981a8b783ad23"
+  },
+  {
+    "file": "AQA-84622H-MS-JUN22.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-84622H-MS-JUN22.PDF",
+    "pages": 27,
+    "sha256": "96533f4750bc9348c01e823341ef3bd0e9616dce12af04e37ecd9d06b99012c1"
+  },
+  {
+    "file": "AQA-84622H-QP-JUN23.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84622H-QP-JUN23.PDF",
+    "pages": 40,
+    "sha256": "8881c2ab53a769ac9eabb4968bc02227469ee37412779de2d498d2b90ddf29e5"
+  },
+  {
+    "file": "AQA-84622H-MS-JUN23.pdf",
+    "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-84622H-MS-JUN23.PDF",
+    "pages": 26,
+    "sha256": "44b55a549ce1490c41c31a54d57acb32c64f5368b29fa38e12b8fb7dfcedab53"
+  }
+]

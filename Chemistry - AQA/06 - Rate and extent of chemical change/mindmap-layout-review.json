@@ -1,0 +1,389 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        432,
+        388,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 215,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-rate-and-equilibrium-overview",
+      "title": "Rates and equilibrium"
+    },
+    {
+      "widths": [
+        358,
+        366,
+        336
+      ],
+      "column_heights": [
+        561,
+        565,
+        482
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 358,
+          "height": 380
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 366,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 215,
+          "width": 366,
+          "height": 384
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 279
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 309,
+          "width": 336,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-chem-rate-curves",
+          "purpose": "Compares rates by slopes while both reactions approach the same limiting-reactant gas yield."
+        },
+        {
+          "source_panel": 3,
+          "kind": "remaining-chem-tangent",
+          "purpose": "Shows an analytically correct tangent and large triangle for instantaneous gas-production rate."
+        }
+      ],
+      "slug": "01-rate-graphs",
+      "title": "Measuring rates and reading curves"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        388,
+        388,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 215,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-collision-theory",
+      "title": "Collision theory and catalysts"
+    },
+    {
+      "widths": [
+        370,
+        354,
+        336
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 400,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 400,
+          "y": 237,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 259,
+          "width": 336,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-rate-practicals",
+      "title": "Concentration and reaction-rate practicals"
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        566,
+        476,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 378,
+          "height": 385
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 281,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-chem-equilibrium",
+          "purpose": "Distinguishes initially unequal forward/reverse rates from equal nonzero rates at dynamic equilibrium."
+        }
+      ],
+      "slug": "04-equilibrium",
+      "title": "Reversible reactions and dynamic equilibrium"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "4.6.1.1–4.6.1.4",
+    "4.6.2.1–4.6.2.7"
+  ],
+  "coverage_checklist": {
+    "4.6.1": "Mass/volume/mole mean rates,tangents,all five rate factors,collision/activation energy,catalysts and both required-practical methods",
+    "4.6.2": "Reversible/energy examples,closed dynamic equilibrium,Le Chatelier concentration/temperature/gas pressure plus equal-gas/catalyst qualifications"
+  },
+  "practicals": [
+    "RPA5: gas-volume method and colour/turbidity method"
+  ],
+  "mindmaps": [
+    "00-rate-and-equilibrium-overview",
+    "01-rate-graphs",
+    "02-collision-theory",
+    "03-rate-practicals",
+    "04-equilibrium"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Rate and extent of chemical change - Questions and Answers.md",
+    "deck": "Flash Cards/Rate and extent of chemical change - Flash Cards.json",
+    "count": 32,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

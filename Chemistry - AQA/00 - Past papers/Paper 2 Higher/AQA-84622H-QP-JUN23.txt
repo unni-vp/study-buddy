@@ -1,0 +1,2208 @@
+=== PDF page 1 ===
+*JUN2384622H01*
+IB/M/Jun23/E12 8462/2H
+For Examiner’s Use
+Question Mark
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+TOTAL
+  
+Tuesday 13 June 2023 Morning        Time allowed: 1 hour 45 minutes
+Materials
+For this paper you must have:
+• a ruler
+• a scientific calculator
+• the periodic table (enclosed).  
+Instructions
+• Use black ink or black ball-point pen.
+• Pencil should only be used for drawing.
+• Fill in the boxes at the top of this page.
+• Answer all questions in the spaces provided.  Do not write outside 
+the box around each page or on blank pages.
+• If you need extra space for your answer(s), use the lined pages at the end of 
+this book.  Write the question number against your answer(s).
+• Do all rough work in this book.  Cross through any work you do not want 
+to be marked.
+• In all calculations, show clearly how you work out your answer.
+Information
+• The maximum mark for this paper is 100. 
+• The marks for questions are shown in brackets.
+• You are expected to use a calculator where appropriate.
+• You are reminded of the need for good English and clear presentation 
+in your answers.
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname
+Forename(s)
+Candidate signature
+I declare this is my own work.
+GCSE
+CHEMISTRY
+Higher Tier    Paper 2
+H
+
+
+=== PDF page 2 ===
+2 
+ 
+*02* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+ A student investigated the rate of the reaction between zinc and sulfuric acid. 
+   
+  Hydrogen gas is produced during this reaction. 
+   
+  Figure 1 shows the apparatus. 
+   
+Figure 1 
+   
+ 
+   
+  
+This is the method used. 
+ 
+1. Add 50 cm3 of sulfuric acid to a conical flask. 
+ 
+2. Add 2.0 g of zinc to the conical flask. 
+ 
+3. Quickly put a stopper in the conical flask and start a timer. 
+ 
+4. Measure the time taken to collect 20 cm3 of gas. 
+ 
+5. Repeat steps 1 to 4 three more times. 
+ 
+ 
+ 
+0 1 
+ 
+. 1 
+ 
+Suggest why the stopper must be put in the conical flask as quickly as possible in  
+step 3. 
+[1 mark] 
+   
+   
+ 
+  
+
+
+=== PDF page 3 ===
+3 
+ 
+*03* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+. 2 
+ 
+The student calculated the rate of the reaction for each trial. 
+ 
+Table 1 shows the results of the calculations. 
+   
+Table 1 
+   
+  Trial 1 Trial 2 Trial 3 Trial 4 
+Rate of reaction in cm3/s 0.78 0.81 0.68 0.81 
+ 
+   
+  
+ 
+Determine the mean time taken to collect 20 cm3 of gas. 
+ 
+Do not include any anomalous results. 
+ 
+  
+Use the equation: 
+mean rate of reaction = 
+volume of gas collected
+mean time taken  
+   [5 marks] 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  Mean time taken =   s 
+   
+ 
+ 
+ 
+Question 1 continues on the next page 
+  
+
+=== PDF page 4 ===
+4 
+ 
+*04* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 1 
+ 
+. 3 
+ 
+The student changed the investigation so that the mean time taken to collect 
+20 cm3 of gas was greater. 
+ 
+Which two changes would increase the mean time taken to collect 20 cm3 of gas?  
+ [2 marks] 
+  Tick () two boxes. 
+   
+  
+Use a catalyst  
+ 
+Use a larger conical flask   
+ 
+Use a lower temperature  
+ 
+Use smaller pieces of zinc  
+ 
+Use sulfuric acid of a lower concentration  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 1 
+ 
+. 4 
+ 
+Hydrogen gas is produced during this reaction. 
+ 
+Describe the test for hydrogen gas. 
+ 
+Give the result of the test. 
+[2 marks] 
+  Test 
+ 
+   
+  Result 
+ 
+   
+ 
+ 
+ 
+  
+ 
+10 
+ 
+
+=== PDF page 5 ===
+5 
+ 
+*05* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+      DO  NOT  WRITE  ON  THIS  PAGE 
+      ANSWER  IN  THE  SPACES  PROVIDED 
+  
+
+=== PDF page 6 ===
+6 
+ 
+*06* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+ This question is about alcohols and carboxylic acids. 
+   
+ 
+  Alcohols are used as fuels. 
+   
+  
+A student burned 1.00 g of six alcohols and determined the energy released  
+from each. 
+   
+  Table 2 shows the results. 
+   
+Table 2 
+   
+Alcohol Formula of one molecule of 
+the alcohol Energy released in kJ/g 
+Ethanol C2H5OH 29.6 
+Propanol C3H7OH 33.6 
+Butanol C4H9OH 36.1 
+Pentanol C5H11OH 37.7 
+Hexanol C6H13OH 38.9 
+Heptanol C7H15OH 39.8 
+ 
+   
+ 
+ 
+0 2 
+ 
+. 1 
+ 
+Calculate the mass of ethanol that must be burned to release the same amount of 
+energy as burning 1.00 g of heptanol. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ Mass =   g 
+ 
+ 
+0 2 
+ 
+. 2 
+ 
+The energy released in kJ/g varies with the number of carbon atoms in one molecule 
+of each alcohol. 
+ 
+Plot the data from Table 2 on Figure 2. 
+ [2 marks] 
+   
+  
+
+=== PDF page 7 ===
+7 
+ 
+*07* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Figure 2 
+   
+ 
+   
+   
+ 
+ 
+0 2 
+ 
+. 3 
+ 
+Estimate the energy released in kJ when 1.00 g of octanol (C8H17OH) is burned. 
+ 
+Use Figure 2. 
+ [1 mark] 
+   
+   Energy released =  kJ 
+ 
+ 
+ 
+
+
+=== PDF page 8 ===
+8 
+ 
+*08* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Carbon dioxide is produced when alcohols are burned. 
+ 
+Carbon dioxide is identified by bubbling the gas through limewater. 
+ 
+ 
+0 2 
+ 
+. 4 
+ 
+Complete the sentence. 
+ 
+Choose the answer from the box. 
+[1 mark] 
+   
+  calcium chloride calcium hydroxide calcium nitrate calcium sulfate 
+   
+ 
+  Limewater is an aqueous solution of  . 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 5 
+ 
+Give the result of the test when carbon dioxide is bubbled through limewater.  
+[1 mark] 
+   
+   
+ 
+  
+
+=== PDF page 9 ===
+9 
+ 
+*09* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Ethanoic acid can be produced from ethanol. 
+  
+ 
+0 2 
+ 
+. 6 
+ 
+What is reacted with ethanol to produce ethanoic acid? 
+ [1 mark] 
+  Tick () one box. 
+ 
+  
+A halogen  
+ 
+An alkali metal  
+ 
+An oxidising agent  
+ 
+Water  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 2 
+ 
+. 7 
+ 
+Ethanoic acid contains the functional group –COOH 
+ 
+Complete the displayed structural formula of this functional group. 
+ [1 mark] 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 2 continues on the next page 
+  
+
+
+=== PDF page 10 ===
+10 
+ 
+*10* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 2 
+ 
+. 8 
+ 
+Ethanoic acid reacts with different compounds. 
+ 
+Draw one line from each compound to a product of the reaction of the compound with 
+ethanoic acid. 
+   [2 marks] 
+   
+   
+ 
+  
+Compound  Product of the reaction 
+with ethanoic acid 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ethanol 
+ 
+ 
+ 
+Sodium carbonate 
+ 
+ 
+ 
+Carbon dioxide 
+ 
+ 
+Ethene 
+ 
+ 
+Ethyl ethanoate 
+ 
+ 
+Hydrogen 
+ 
+ 
+Poly(ethene) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+11 
+ 
+
+=== PDF page 11 ===
+11 
+ 
+*11* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Turn over for the next question 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+      DO  NOT  WRITE  ON  THIS  PAGE 
+      ANSWER  IN  THE  SPACES  PROVIDED 
+ 
+  
+
+=== PDF page 12 ===
+12 
+ 
+*12* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 3 
+ 
+ This question is about chemical analysis. 
+ 
+Potassium bromide is used in medicine. 
+ 
+A scientist tested a sample of medicine to show the presence of potassium ions and 
+of bromide ions. 
+ 
+The sample is soluble in water. 
+   
+ 
+ 
+0 3 
+ 
+. 1 
+ 
+Plan a method the scientist could use to show that the sample of medicine contains 
+potassium ions and bromide ions. 
+ 
+The scientist has: 
+• a Bunsen burner 
+• a metal wire 
+• test tubes 
+• a dropping pipette 
+• distilled water 
+• dilute nitric acid 
+• silver nitrate solution. 
+ 
+You should give the results of the tests. 
+[6 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+
+=== PDF page 13 ===
+13 
+ 
+*13* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The scientist could also use an instrumental method to show the presence of 
+potassium ions in the medicine. 
+ 
+ 
+0 3 
+ 
+. 2 
+ 
+Which instrumental method could be used to show the presence of potassium ions in 
+the medicine? 
+[1 mark] 
+   
+ 
+ 
+ 
+0 3 
+ 
+. 3 
+ 
+Give one advantage of using this instrumental method instead of a chemical test. 
+[1 mark] 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+8 
+ 
+
+=== PDF page 14 ===
+14 
+ 
+*14* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+ This question is about greenhouse gases and climate change. 
+ 
+ 
+Carbon dioxide and methane are greenhouse gases. 
+ 
+ 
+0 4 
+ 
+. 1 
+ 
+Which of the following is also a greenhouse gas? 
+ [1 mark] 
+  Tick () one box. 
+   
+  
+Chlorine  
+ 
+Nitrogen  
+ 
+Oxygen  
+ 
+Water vapour  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+In the past 50 years, there has been an increase in: 
+• the world population 
+• the concentration of carbon dioxide in the atmosphere 
+• the concentration of methane in the atmosphere 
+• the mean temperature of the atmosphere at the Earth’s surface. 
+ 
+Most scientists think this information can be used to explain climate change. 
+ 
+ 
+0 4 
+ 
+. 2 
+ 
+Explain why the increase in world population may have caused the increase in the 
+concentration of carbon dioxide in the atmosphere. 
+[2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+
+=== PDF page 15 ===
+15 
+ 
+*15* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 4 
+ 
+. 3 
+ 
+Explain why the increase in world population may have caused the increase in the 
+concentration of methane in the atmosphere.  
+[2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 4 
+ 
+Describe two potential effects of the increase in the mean temperature of the 
+atmosphere at the Earth’s surface. 
+[2 marks] 
+  1 
+ 
+   
+  2 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+0 4 
+ 
+. 5 
+ 
+The mean temperature of the atmosphere at the Earth’s surface has increased.  
+ 
+Most scientists think that this has been caused by an increase in the concentration of 
+greenhouse gases in the atmosphere. 
+ 
+Give one reason why some scientists do not accept this theory. 
+ [1 mark] 
+   
+   
+ 
+ 
+ 
+ 
+Turn over for the next question 
+ 
+  
+ 
+8 
+ 
+
+=== PDF page 16 ===
+16 
+ 
+*16* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 5 
+ 
+ Copper is extracted from metal ores. 
+   
+  Chalcopyrite is a metal ore containing a compound with the formula CuFeS2 
+ 
+ 
+0 5 
+ 
+. 1 
+ 
+CuFeS2 reacts with oxygen to produce copper(II) sulfate and iron(II) sulfate. 
+ 
+Complete the equation for this reaction. 
+ 
+You should balance the equation. 
+[2 marks] 
+   
+  CuFeS2 +  → CuSO4 + FeSO4 
+ 
+ 
+ 
+0 5 
+ 
+. 2 
+ 
+Calculate the percentage by mass of copper in CuFeS2 
+ 
+Relative atomic masses (Ar):     S = 32     Fe = 56     Cu = 63.5  
+[3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ Percentage by mass =   % 
+ 
+ 
+ 
+0 5 
+ 
+. 3 
+ 
+Describe a test to show the presence of copper(II) ions in a solution of  
+copper(II) sulfate. 
+ 
+Give the result of the test. 
+[2 marks] 
+  
+Test 
+ 
+  
+ 
+ 
+  
+Result 
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 17 ===
+17 
+ 
+*17* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 5 
+ 
+. 4 
+ 
+Copper can be extracted from low-grade ores by bioleaching. 
+ 
+Describe what is meant by bioleaching. 
+ [2 marks] 
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+9 
+ 
+
+=== PDF page 18 ===
+18 
+ 
+*18* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 6 
+ 
+ This question is about chromatography. 
+ 
+ 
+A student investigated an orange food colouring using two different types of 
+chromatography paper. 
+   
+  The food colouring: 
+• contained a mixture of red and yellow dyes 
+• was soluble in water. 
+   
+ 
+  This is the method used. 
+ 
+1. Draw a start line on a piece of type A chromatography paper. 
+ 
+2. Put a spot of orange food colouring on the line. 
+ 
+3. Put the paper into a beaker containing water as a solvent. 
+ 
+4. Wait for the water to travel up the paper. 
+ 
+5. Measure the distance above the start line moved by the red and yellow dyes and 
+the water. 
+ 
+6. Repeat steps 1 to 5 using type B chromatography paper. 
+   
+   
+   
+ 
+  
+
+=== PDF page 19 ===
+19 
+ 
+*19* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 3 shows how the student set up the apparatus. 
+ 
+ 
+Figure 3 
+   
+ 
+   
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 1 
+ 
+The student made two mistakes when setting up the apparatus. 
+ 
+Give two mistakes the student made. 
+[2 marks] 
+  1 
+ 
+   
+  2 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Question 6 continues on the next page 
+  
+
+
+=== PDF page 20 ===
+20 
+ 
+*20* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Another student set up the apparatus correctly. 
+   
+  Table 3 shows the results. 
+   
+Table 3 
+   
+ Type A  
+chromatography paper 
+Type B  
+chromatography paper 
+Red dye Yellow dye Red dye Yellow dye 
+Distance moved by 
+dye in cm 4.8 6.6 5.4 X 
+Distance moved by 
+water in cm 12.0 12.0 12.0 12.0 
+Rf value 0.40 0.55 0.45 0.60 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 2 
+ 
+Determine value X in Table 3. 
+ [3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ X =   cm 
+ 
+  
+
+=== PDF page 21 ===
+21 
+ 
+*21* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Changing the type of chromatography paper resulted in different Rf values for the  
+red dye. 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 3 
+ 
+Explain why the Rf values for the red dye are different using the two types of 
+chromatography paper. 
+ 
+Use Table 3. 
+[3 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+0 6 
+ 
+. 4 
+ 
+What other change to the investigation could result in a different Rf value for the  
+red dye? 
+[1 mark] 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question  
+ 
+  
+ 
+9 
+ 
+
+=== PDF page 22 ===
+22 
+ 
+*22* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+ Manganese dioxide catalyses the decomposition of hydrogen peroxide solution. 
+ 
+Oxygen and water are produced.  
+ 
+ 
+ 
+0 7 
+ 
+. 1 
+ 
+Explain how a manganese dioxide catalyst increases the rate of decomposition of 
+hydrogen peroxide. 
+ [2 marks] 
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+  A student investigated the rate of this reaction. 
+ 
+This is the method used.  
+ 
+1. Add 50 cm3 of 2.0 mol/dm3 hydrogen peroxide solution to a conical flask. 
+ 
+2. Add 1.0 g of manganese dioxide to the conical flask. 
+ 
+3. Place the conical flask on a balance and start a timer. 
+ 
+4. Record the total mass lost from the conical flask every 20 seconds for 180 seconds. 
+ 
+ 
+ 
+0 7 
+ 
+. 2 
+ 
+Explain why the mass of the conical flask and contents decreased. 
+ [2 marks] 
+   
+   
+   
+   
+ 
+  
+
+=== PDF page 23 ===
+23 
+ 
+*23* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+. 3 
+ 
+Figure 4 shows the results for 50 cm3 of 2.0 mol/dm3 hydrogen peroxide solution and 
+1.0 g of manganese dioxide. 
+   
+  A tangent to the line has been drawn at 75 seconds. 
+   
+Figure 4 
+   
+ 
+   
+   
+   
+  Determine the rate of reaction when the time was 75 seconds. 
+ 
+Give your answer to 2 significant figures. 
+ [4 marks] 
+   
+   
+   
+   
+   
+  
+Rate (2 significant figures) = 
+ 
+g/s 
+ 
+ 
+ 
+
+
+=== PDF page 24 ===
+24 
+ 
+*24* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 7 
+ 
+. 4 
+ 
+The results for 50 cm3 of 2.0 mol/dm3 hydrogen peroxide solution and 1.0 g of 
+manganese dioxide are shown again on Figure 5. 
+   
+Figure 5 
+   
+ 
+   
+   
+   
+ 
+ 
+  The student repeated the investigation using 50 cm3 of 1.0 mol/dm3 hydrogen 
+peroxide solution and 1.0 g of manganese dioxide. 
+ 
+Sketch the expected results for 1.0 mol/dm3 hydrogen peroxide solution on Figure 5. 
+ [2 marks] 
+ 
+  
+ 
+10 
+ 
+
+=== PDF page 25 ===
+25 
+ 
+*25* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+ This question is about polymers. 
+ 
+ 
+Chloroethene can be used to produce an addition polymer called poly(chloroethene). 
+   
+  The displayed structural formula of chloroethene is 
+   
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 1 
+ 
+Draw a circle around the functional group on the displayed structural formula that 
+allows chloroethene to produce an addition polymer. 
+ [1 mark] 
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 2 
+ 
+Complete the equation for the production of poly(chloroethene) from chloroethene. 
+ [3 marks] 
+   
+  
+ 
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 3 
+ 
+Poly(ethene) can be strengthened with wood particles to make a building material. 
+ 
+The building material consists of a wood particle reinforcement embedded in a 
+poly(ethene) matrix. 
+ 
+What general name is given to materials like this? 
+[1 mark] 
+   
+ 
+  
+
+
+=== PDF page 26 ===
+26 
+ 
+*26* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 8 
+ 
+. 4 
+ 
+The amino acid beta-alanine has the formula 
+ 
+H2NCH2CH2COOH 
+ 
+Beta-alanine polymerises to produce a polypeptide and a small molecule. 
+ 
+Name the small molecule produced when beta-alanine polymerises.  
+[1 mark] 
+   
+ 
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 5 
+ 
+An amino acid can be represented as: 
+ 
+  
+ 
+   
+  The relative formula mass (Mr) of this amino acid is 75 
+ 
+ 
+Calculate the relative formula mass of the section of this amino acid molecule 
+represented by 
+ 
+                                                      
+   
+  Relative atomic masses (Ar):     H = 1    C = 12     N = 14      O = 16 
+[2 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ Relative formula mass = 
+ 
+ 
+  
+
+
+=== PDF page 27 ===
+27 
+ 
+*27* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Figure 6 represents part of a naturally occurring polymer molecule produced  
+from glucose.  
+   
+Figure 6 
+   
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 6 
+ 
+Draw a circle around the repeating unit in the polymer in Figure 6. 
+ [1 mark] 
+ 
+ 
+0 8 
+ 
+. 7 
+ 
+Suggest the identity of this polymer. 
+[1 mark] 
+   
+ 
+ 
+  Figure 7 represents the structure of a naturally occurring polymer. 
+   
+Figure 7 
+   
+ 
+ 
+ 
+ 
+0 8 
+ 
+. 8 
+ 
+Give the general name for the four different monomers which make up the structure 
+shown in Figure 7.  
+[1 mark] 
+   
+ 
+ 
+0 8 
+ 
+. 9 
+ 
+Name the shape of the structure shown in Figure 7.  
+[1 mark] 
+   
+ 
+ 
+12 
+ 
+
+=== PDF page 28 ===
+28 
+ 
+*28* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+      DO  NOT  WRITE  ON  THIS  PAGE 
+      ANSWER  IN  THE  SPACES  PROVIDED 
+ 
+  
+
+=== PDF page 29 ===
+29 
+ 
+*29* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 9 
+ 
+ This question is about reversible reactions. 
+  
+ 
+ 
+ 
+  
+When 4.68 g of hydrated copper sulfate changes into anhydrous copper sulfate: 
+• 2. 99 g of anhydrous copper sulfate is produced 
+• 1.47 kJ of energy is taken in from the surroundings. 
+   
+  
+The equation for the reversible reaction is: 
+ 
+hydrated copper sulfate   ⇌   anhydrous copper sulfate   +   water 
+   
+ 
+ 
+ 
+0 9 
+ 
+. 1 
+ 
+Calculate the maximum mass of water that can be produced from  
+11.7 g of hydrated copper sulfate.  
+[3 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ Mass =   g 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 2 
+ 
+15.0 g of anhydrous copper sulfate completely changes into hydrated copper sulfate 
+when water is added. 
+ 
+ 
+Calculate the amount of energy transferred to the surroundings. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ Energy =   kJ 
+ 
+  
+
+=== PDF page 30 ===
+30 
+ 
+*30* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  The gases nitrogen dioxide and dinitrogen tetroxide reach dynamic equilibrium in a 
+sealed container. 
+   
+  The equation for the reaction is: 
+   
+  2 NO2(g)                       ⇌                            N2O4(g) 
+ 
+     nitrogen dioxide (brown)                       dinitrogen tetroxide (colourless) 
+   
+  The forward reaction is exothermic. 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 3 
+ 
+What happens to the position of the equilibrium in this reaction if the temperature  
+is increased? 
+[1 mark] 
+  Tick () one box. 
+   
+  
+Shifts to the left  
+ 
+Stays the same  
+ 
+Shifts to the right  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 31 ===
+31 
+ 
+*31* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+0 9 
+ 
+. 4 
+ 
+A teacher seals a brown-coloured mixture of nitrogen dioxide and dinitrogen tetroxide 
+in a gas syringe. 
+ 
+ 
+Figure 8 shows the sealed gas syringe. 
+   
+Figure 8 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  The teacher pushes the syringe piston in.   
+ 
+This increases the pressure in the gas syringe. 
+ 
+ 
+What is the colour of the mixture when a new equilibrium position is reached? 
+[1 mark] 
+  Tick () one box. 
+   
+  
+The mixture is a darker shade of brown.  
+ 
+The mixture is the same shade of brown.  
+ 
+The mixture is a lighter shade of brown.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Question 9 continues on the next page 
+ 
+ 
+  
+
+
+=== PDF page 32 ===
+32 
+ 
+*32* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Hydrogen iodide gas decomposes into hydrogen gas and iodine gas at  
+high temperatures. 
+   
+  The equation for the reaction is: 
+   
+  2 HI(g)  ⇌  H2(g)  +  I2(g) 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 5 
+ 
+Explain the effect of increasing the pressure on the equilibrium position of  
+this reaction. 
+ [2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 6 
+ 
+Suggest the effect of adding a catalyst on the equilibrium position of this reaction. 
+ [1 mark] 
+   
+ 
+  
+ 
+  
+
+=== PDF page 33 ===
+33 
+ 
+*33* 
+Turn over ► 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+  Copper forms coloured compounds. 
+   
+  Hydrochloric acid is added to an aqueous solution of copper compound A. 
+   
+  The word equation for the reaction is: 
+   
+  copper compound A   +   hydrochloric acid     ⇌     copper compound B   +   water 
+             (blue)                                                                      (yellow) 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 7 
+ 
+The reaction mixture is green when both copper compounds are present in a solution 
+at equilibrium. 
+ 
+How can the equilibrium position be shifted to make the reaction mixture more yellow? 
+[1 mark] 
+  Tick () one box. 
+   
+  
+Add more hydrochloric acid  
+ 
+Add more water  
+ 
+Leave the reaction mixture for 30 minutes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 9 
+ 
+. 8 
+ 
+The concentrations of the substances in this reaction do not change at  
+dynamic equilibrium. 
+ 
+Explain why.  
+[2 marks] 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+13 
+ 
+
+=== PDF page 34 ===
+34 
+ 
+*34* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+1 0 
+ 
+ This question is about fertilisers. 
+   
+  Compounds of nitrogen (N), phosphorus (P) and potassium (K) are used as fertilisers 
+to improve agricultural productivity. 
+   
+  Table 4 shows information about three compounds, A, B and C, that can be used  
+as fertilisers. 
+   
+Table 4 
+   
+ Compound A Compound B Compound C 
+Name potassium chloride ammonium nitrate diammonium 
+hydrogen phosphate 
+Formula KCl NH4NO3 (NH4)2HPO4 
+Percentage (%) of N, 
+P and K by mass K: 52% N: 35% N: 21%   P: 23% 
+Cost in £/kg 0.24 0.23 0.35 
+ 
+ 
+ 
+1 0 
+ 
+. 1 
+ 
+A scientist analysed the percentages of nitrogen, phosphorus and potassium in a soil. 
+ 
+The percentages of nitrogen and of potassium in the soil were lower than the 
+percentages needed for high agricultural productivity. 
+ 
+There was sufficient phosphorus in the soil for high agricultural productivity. 
+ 
+Evaluate the use of the compounds in Table 4 to improve the agricultural productivity 
+of this soil. 
+ [4 marks] 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+
+=== PDF page 35 ===
+35 
+ 
+*35* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+1 0 
+ 
+. 2 
+ 
+How is potassium chloride (compound A) obtained from the Earth? 
+[1 mark] 
+   
+   
+ 
+ 
+ 
+1 0 
+ 
+. 3 
+ 
+Name one other compound that could be used instead of potassium chloride 
+(compound A) to give a similar improvement in agricultural productivity. 
+ [1 mark] 
+   
+ 
+ 
+ 
+1 0 
+ 
+. 4 
+ 
+Nitric acid is needed to produce ammonium nitrate (compound B). 
+ 
+Name a compound needed to produce nitric acid.  
+[1 mark] 
+   
+ 
+ 
+1 0 
+ 
+. 5 
+ 
+Phosphate rock contains phosphorus compounds. 
+ 
+Plants absorb phosphorus from compounds dissolved in rainwater. 
+ 
+Suggest why phosphate rock cannot be used directly as a fertiliser.  
+[1 mark] 
+   
+   
+ 
+ 
+1 0 
+ 
+. 6 
+ 
+Phosphate rock can be treated with different acids to produce salts useful  
+as fertilisers. 
+ 
+Name the salts which are produced by treating phosphate rock with: 
+• sulfuric acid 
+• phosphoric acid. 
+[2 marks] 
+  Sulfuric acid 
+ 
+  Phosphoric acid 
+ 
+ 
+ 
+END  OF  QUESTIONS 
+ 
+10 
+ 
+
+=== PDF page 36 ===
+36 
+ 
+*36* 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+
+=== PDF page 37 ===
+37 
+ 
+*37* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 38 ===
+38 
+ 
+*38* 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 39 ===
+39 
+ 
+*39* 
+ 
+IB/M/Jun23/8462/2H 
+ 
+Do not write 
+outside the  
+box 
+ 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+
+=== PDF page 40 ===
+40
+*40*
+IB/M/Jun23/8462/2H
+Do not write 
+outside the 
+boxThere are no questions printed on this page
+DO  NOT  WRITE  ON  THIS  PAGE
+ANSWER  IN  THE  SPACES  PROVIDED
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet.  This booklet is published after 
+each live examination series and is available for free download from www.aqa.org.uk. 
+Permission to reproduce all copyright material has been applied for.  In some cases, efforts to contact copyright-holders may have been unsuccessful 
+and AQA will be happy to rectify any omissions of acknowledgements.  If you have any queries please contact the CopyrightTeam. 
+Copyright © 2023 AQA and its licensors.  All rights reserved. 
+*236G8462/2H*

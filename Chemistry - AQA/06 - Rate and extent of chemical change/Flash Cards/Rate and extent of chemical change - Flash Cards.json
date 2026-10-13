@@ -1,0 +1,270 @@
+{
+  "title": "Rate and extent of chemical change flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is activation energy?",
+      "back": [
+        "The minimum energy particles must have for a successful reaction."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which rate unit applies when measuring moles consumed per second?",
+      "back": [
+        "mol s⁻¹."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a horizontal product–time graph show?",
+      "back": [
+        "No further measured product formation."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does ⇌ represent?",
+      "back": [
+        "A reversible reaction."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What must be equal at dynamic equilibrium?",
+      "back": [
+        "Forward and reverse reaction rates."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is meant by a closed reaction system?",
+      "back": [
+        "Reactants and products cannot escape."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What solid makes thiosulfate/acid mixtures cloudy?",
+      "back": [
+        "Sulfur."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate mean rate when 72 cm³ gas forms in 90 s.",
+      "back": [
+        "Mean rate = 72/90.",
+        "**0.80 cm³ s⁻¹**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate molar rate if 0.020 mol reactant is used in 40 s.",
+      "back": [
+        "Rate = 0.020/40.",
+        "**5.0 ×10⁻⁴ mol s⁻¹**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why higher concentration usually speeds a solution reaction.",
+      "back": [
+        "More reactant particles occupy each unit volume.",
+        "There are **more frequent successful collisions**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why increased gas pressure at the same temperature can increase rate.",
+      "back": [
+        "Reacting gas particles are closer together.",
+        "Collisions occur **more frequently**, increasing successful collisions per second."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a powder reacts faster than the same mass of large pieces.",
+      "back": [
+        "Powder has greater **exposed surface area**.",
+        "More particles are available for collisions at the solid surface."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a catalyst increases reaction rate.",
+      "back": [
+        "It provides a **different pathway**.",
+        "This pathway has **lower activation energy**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why must a stopper be fitted quickly during gas collection?",
+      "back": [
+        "Gas starts forming as soon as reactants mix.",
+        "A delay lets gas escape, underestimating collected volume or altering measured endpoint time."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why reaction rate commonly decreases as a batch reaction proceeds.",
+      "back": [
+        "Reactants are used up, reducing their concentration.",
+        "Successful collisions become **less frequent**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why equilibrium does not mean equal amounts of reactant and product.",
+      "back": [
+        "Equilibrium requires **equal rates**, not equal quantities.",
+        "Constant concentrations can be unequal while both reactions continue."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An exothermic forward reaction releases 80 kJ for a stated quantity. What is the reverse energy change?",
+      "back": [
+        "The reverse reaction is **endothermic**.",
+        "It absorbs **80 kJ** for the corresponding quantity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "For A+B ⇌ C, predict the change after adding A and explain it.",
+      "back": [
+        "Equilibrium shifts **towards C**.",
+        "More added A is used, opposing the concentration increase."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "For A+B ⇌ C, predict the change after removing C.",
+      "back": [
+        "Equilibrium shifts **towards products**.",
+        "More C forms, opposing its removal."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What is a catalyst’s effect on equilibrium yield and time to equilibrium?",
+      "back": [
+        "**No change in equilibrium yield/position**.",
+        "Equilibrium is reached faster because both directions are accelerated."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the effect of higher temperature using collision theory.",
+      "back": [
+        "Particles gain kinetic energy and move faster.",
+        "Collisions occur more frequently.",
+        "A greater proportion has energy **at least equal to activation energy**, so more successful collisions occur per second."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A tangent has points (20 s, 18 cm³) and (60 s, 46 cm³). Calculate instantaneous rate.",
+      "back": [
+        "Volume change = 46−18 = **28 cm³**.",
+        "Time change = 60−20 = **40 s**.",
+        "Rate = 28/40 = **0.70 cm³ s⁻¹**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "The same turbidity endpoint is reached in 80 s and 50 s. Calculate the rate proxies and their ratio.",
+      "back": [
+        "Rates = 1/80 = **0.0125 s⁻¹** and 1/50 = **0.020 s⁻¹**.",
+        "Ratio = 0.020/0.0125 = **1.6**.",
+        "The 50 s condition is **1.6 times as fast** for this endpoint."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why reducing temperature can increase equilibrium yield but slow production in an exothermic reaction.",
+      "back": [
+        "Cooling favours the **exothermic direction**, increasing equilibrium product proportion.",
+        "Particles move more slowly and collide less frequently.",
+        "Fewer collisions exceed activation energy, reducing rate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For N₂(g)+3H₂(g) ⇌ 2NH₃(g), explain the effect of increased pressure on ammonia yield.",
+      "back": [
+        "Reactant side has **four gas moles**, product side two.",
+        "Increased pressure favours the side with **fewer gas moles**.",
+        "Equilibrium shifts towards ammonia, increasing its yield."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For H₂(g)+I₂(g) ⇌ 2HI(g), explain why pressure does not shift equilibrium position.",
+      "back": [
+        "Each side has **two gas moles**.",
+        "Neither side reduces the gas-molecule total relative to the other.",
+        "Pressure changes can affect reaction rates while leaving equilibrium position unchanged."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the reversible changes in hydrated copper sulfate when heated and then treated with water.",
+      "back": [
+        "Heating removes water and changes **blue hydrated** copper sulfate to **white anhydrous** copper sulfate.",
+        "Adding water restores the blue hydrated form.",
+        "Dehydration absorbs energy; reverse hydration releases energy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why might two concentrations give different final gas volumes even with the same marble-chip mass?",
+      "back": [
+        "Changing concentration at fixed acid volume changes the amount of acid.",
+        "At low concentration, acid may be the **limiting reactant**.",
+        "If less carbonate reacts completely, less total gas forms; this is a yield difference as well as a rate difference."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe how to calculate rate at a chosen point on a curved product–time graph.",
+      "back": [
+        "Draw a tangent touching the curve at the chosen time.",
+        "Choose two well-separated points on the tangent, using actual axis scales.",
+        "Calculate Δproduct/Δtime from a large triangle.",
+        "State correct units; a chord gives an average over an interval instead."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain a catalyst’s effects on a reaction energy profile and on equilibrium.",
+      "back": [
+        "Alternative pathway has lower **activation-energy peak**.",
+        "Reactant/product energy levels and overall energy transfer stay unchanged.",
+        "Forward and reverse reactions both become faster.",
+        "Equilibrium is reached sooner, with **unchanged equilibrium position**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why the disappearing-cross experiment needs controlled total volume and viewing conditions.",
+      "back": [
+        "Volume and flask shape affect solution depth.",
+        "Different depth changes how much cloudiness hides the cross.",
+        "Lighting, cross and observer affect endpoint judgement.",
+        "Keeping these constant makes time comparisons better reflect concentration-dependent rate."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An exothermic equilibrium is 2A(g) ⇌ B(g). Explain the effects of cooling and reducing pressure separately.",
+      "back": [
+        "Cooling favours the **exothermic forward direction**.",
+        "This increases B’s equilibrium proportion.",
+        "Reducing pressure favours the side with **more gas moles**, two on the left versus one on the right.",
+        "This decreases B’s equilibrium proportion; the two changes oppose each other, so no combined amount can be calculated without more data."
+      ]
+    }
+  ]
+}
