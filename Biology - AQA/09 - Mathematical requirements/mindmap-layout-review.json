@@ -1,0 +1,378 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        362,
+        366,
+        332
+      ],
+      "column_heights": [
+        410,
+        410,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 362,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 362,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 392,
+          "y": 18,
+          "width": 366,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 392,
+          "y": 259,
+          "width": 366,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 770,
+          "y": 18,
+          "width": 332,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 770,
+          "y": 215,
+          "width": 332,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-biology-maths-overview",
+      "title": "Biology maths"
+    },
+    {
+      "widths": [
+        302,
+        406,
+        352
+      ],
+      "column_heights": [
+        366,
+        388,
+        366
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 302,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 406,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 237,
+          "width": 406,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-units-and-proportions",
+      "title": "Units, standard form and proportions"
+    },
+    {
+      "widths": [
+        338,
+        370,
+        352
+      ],
+      "column_heights": [
+        410,
+        410,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 237,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-calculations-and-inheritance",
+      "title": "Magnification, rates and inheritance"
+    },
+    {
+      "widths": [
+        398,
+        330,
+        332
+      ],
+      "column_heights": [
+        432,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 398,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 398,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 428,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 428,
+          "y": 237,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 770,
+          "y": 18,
+          "width": 332,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 770,
+          "y": 237,
+          "width": 332,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-data-graphs-and-algebra",
+      "title": "Data, graphs and algebra"
+    },
+    {
+      "widths": [
+        290,
+        426,
+        344
+      ],
+      "column_heights": [
+        410,
+        475,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 290,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 426,
+          "height": 272
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 302,
+          "width": 426,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 237,
+          "width": 344,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "cubes",
+          "purpose": "A 3 cm cube has three times the drawn side of a 1 cm cube, illustrating the falling surface area to volume ratio."
+        }
+      ],
+      "slug": "04-geometry-and-exchange",
+      "title": "Geometry and exchange surfaces"
+    }
+  ]
+}

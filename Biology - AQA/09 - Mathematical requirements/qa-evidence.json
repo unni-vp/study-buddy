@@ -1,0 +1,310 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "All questions use original values. June 2022 Paper 1 Higher Q03.3 verifies magnification/rearrangement/unit conversion as an assessed type; June 2023 Paper 2 Higher Q04.4 verifies tangent rate comparison. Other practice follows the current mathematical requirements and topic calculations. These examples do not support a frequency ranking.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Convert 2 mm to micrometres.",
+      "answer": "2000 µm.",
+      "specification": "MS1a;WS4.5",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Write 0.000004 m in standard form.",
+      "answer": "4 ×10⁻⁶ m.",
+      "specification": "MS1b",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "How many significant figures are in 0.00620?",
+      "answer": "Three.",
+      "specification": "MS2a",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the range of 5, 6, 8 and 12?",
+      "answer": "7.",
+      "specification": "MS2f",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the probability of an impossible event?",
+      "answer": "Zero.",
+      "specification": "MS2e",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What does ∝ mean?",
+      "answer": "Proportional to.",
+      "specification": "MS3a",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Which graph shows paired numerical measurements to identify a correlation?",
+      "answer": "Scatter diagram.",
+      "specification": "MS2g",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "Does magnification have a unit?",
+      "answer": "No.",
+      "specification": "4.1.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 2,
+      "prompt": "Convert 0.035 mm to µm and then nm.",
+      "answer": "- 0.035 ×1000 = **35 µm**.\n- 35 ×1000 = **35 000 nm**.",
+      "specification": "WS4.5",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Convert 3.2 cm² to mm², explaining the factor.",
+      "answer": "- Each linear dimension is multiplied by 10, so area is multiplied by **100**.\n- 3.2 ×100 = **320 mm²**.",
+      "specification": "MS5c",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate (6 ×10⁵)/(2 ×10²).",
+      "answer": "- Divide coefficients: 6/2 = 3. Subtract powers: 5−2 = 3.\n- Answer = **3 ×10³**.",
+      "specification": "MS1b",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "Round 0.03476 to two significant figures and explain where counting starts.",
+      "answer": "- Count from the first non-zero digit, 3.\n- Rounded result = **0.035**.",
+      "specification": "MS2a",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Simplify 15:25 and express the first group as a fraction of the total.",
+      "answer": "- Ratio = **3:5**.\n- Fraction = 3/(3+5) = **3/8**.",
+      "specification": "MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Calculate the percentage represented by 27 successful outcomes out of 90.",
+      "answer": "- Percentage = 27/90 ×100.\n- Result = **30%**.",
+      "specification": "MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "A microscope has ×10 eyepiece and ×40 objective. Determine its total power.",
+      "answer": "- Multiply eyepiece by objective: 10 ×40.\n- Total = **×400**.",
+      "specification": "RPA1",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "An image is 30 mm long at ×500 magnification. Calculate actual size in µm.",
+      "answer": "- Actual = 30/500 = **0.060 mm**.\n- Convert: 0.060 ×1000 = **60 µm**.",
+      "specification": "4.1.1.5",
+      "evidence": "2022 1H Q03.3: adapted numerical context",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "A pondweed produces 18 cm³ oxygen in 6 minutes. Calculate rate per minute.",
+      "answer": "- Rate = volume/time = 18/6.\n- Rate = **3 cm³ min⁻¹**.",
+      "specification": "MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "A reaction reaches a fixed endpoint in 40 s. Calculate reciprocal-time rate.",
+      "answer": "- Rate proxy = 1/40.\n- **0.025 s⁻¹**, for a comparable endpoint.",
+      "specification": "RPA5;RPA10",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "A distance doubles in an inverse-square light model. What happens to intensity?",
+      "answer": "- Intensity ∝ 1/d².\n- New intensity = **1/4** of the original.",
+      "specification": "4.4.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a positive correlation does not prove causation.",
+      "answer": "- Values tend to rise together in the data.\n- Another variable may affect both, so a controlled comparison is needed to isolate a cause.",
+      "specification": "MS2g;WS3.6",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "Distinguish interpolation from extrapolation.",
+      "answer": "- Interpolation estimates **within** the measured range.\n- Extrapolation extends **outside** it, where the relationship may change.",
+      "specification": "MS4a",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "A bacterium is 2 µm long and a cell is 20 µm long. Compare their linear scale.",
+      "answer": "- 20/2 = **10 times**.\n- The cell is about **one order of magnitude** larger in length.",
+      "specification": "MS2h",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate percentage mass change from 2.50 g to 2.10 g.",
+      "answer": "- Change = 2.10−2.50 = **−0.40 g**.\n- Percentage = −0.40/2.50 ×100.\n- **−16%**, a 16% decrease.",
+      "specification": "MS1c;RPA3",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 3,
+      "prompt": "A success rate rises from 20% to 30%. Calculate percentage-point change and relative percentage increase.",
+      "answer": "- Difference = **10 percentage points**.\n- Relative increase = (30−20)/20 ×100.\n- Relative increase = **50%**.",
+      "specification": "MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 3,
+      "prompt": "A 4 µm scale bar measures 8 mm on an image. A cell measures 30 mm. Calculate cell size.",
+      "answer": "- Cell/bar image-length ratio = 30/8 = 3.75.\n- Actual cell size = 3.75 ×4.\n- **15 µm**.",
+      "specification": "4.1.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 3,
+      "prompt": "Calculate biomass-transfer efficiency if 45 kg is gained from 600 kg available.",
+      "answer": "- Efficiency = next/previous ×100.\n- 45/600 ×100.\n- **7.5%**, using matching mass units/basis.",
+      "specification": "4.7.4.3",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 3,
+      "prompt": "For counts 1, 2, 2, 7, calculate mean, median and mode.",
+      "answer": "- Mean = 12/4 = **3**.\n- Median = (2+2)/2 = **2**.\n- Mode = **2**.",
+      "specification": "MS2b;MS2f",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 3,
+      "prompt": "Counts 0, 1 and 2 occur with frequencies 3, 4 and 3. Calculate the mean.",
+      "answer": "- Total count = 0×3 +1×4 +2×3 = **10**.\n- Total frequency = 3+4+3 = **10**.\n- Mean = 10/10 = **1**.",
+      "specification": "MS2c",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 3,
+      "prompt": "A carrier cross predicts a 1/4 affected probability. Calculate expected affected count in 120 births and explain its limitation.",
+      "answer": "- Expected count = 120 ×1/4.\n- **30** affected births expected.\n- Random variation means an actual sample need not have exactly 30.",
+      "specification": "MS2e",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 3,
+      "prompt": "A line passes through (2, 6) and (8, 18). Find gradient and intercept.",
+      "answer": "- Gradient = (18−6)/(8−2) = **2**.\n- Use y = 2x+c: 6 = 4+c, so **c = 2**.\n- Equation: **y = 2x+2**.",
+      "specification": "MS4b;MS4d",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "A tangent to a pH-time curve passes through (1 day, pH 7) and (5 days, pH 5). Calculate slope and describe the change.",
+      "answer": "- Slope = (5−7)/(5−1).\n- **−0.5 per day**.\n- At the tangent point, pH decreases at magnitude **0.5 per day**.",
+      "specification": "MS4d;WS3.3",
+      "evidence": "2023 2H Q04.4: adapted tangent calculation",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "A 12 mm circular inhibition zone includes its disc. Calculate area to three significant figures.",
+      "answer": "- Radius = **6 mm**.\n- Area = π ×6² = 113.097…\n- **113 mm²**.",
+      "specification": "MS5c;RPA2",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 4,
+      "prompt": "A 2 cm cube exchanges substances through its surface. Calculate surface area, volume and SA:V ratio.",
+      "answer": "- Surface area = 6 ×2² = **24 cm²**.\n- Volume = 2³ = **8 cm³**.\n- SA:V = 24:8 = **3:1**.\n- It has less surface per unit volume than a 1 cm cube, making diffusion less effective for meeting internal demand.",
+      "specification": "MS5c;4.1.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 4,
+      "prompt": "Ten 0.25 m² quadrats contain a total of 30 plants. Estimate population in a 150 m² habitat and state a limitation.",
+      "answer": "- Mean = 30/10 = **3 per quadrat**.\n- Density = 3/0.25 = **12 plants m⁻²**.\n- Estimated population = 12 ×150 = **1800**.\n- Patchy distribution or biased/limited sampling may make the estimate unrepresentative.",
+      "specification": "MS2d;RPA9",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how to calculate the rate at one instant on a curved biological graph.",
+      "answer": "- Draw a **tangent at the specified point**.\n- Use two well-separated points on that tangent to form a large triangle.\n- Calculate change in y divided by change in x using actual axis scales.\n- State units/sign meaning; a chord across the curve gives an average rather than instantaneous rate.",
+      "specification": "MS4d;WS3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    },
+    {
+      "marks": 4,
+      "prompt": "A 10 mm inhibition zone contains a 4 mm disc. Calculate clear-agar area excluding the disc.",
+      "answer": "- Zone radius = 5 mm; total area = **25π mm²**.\n- Disc radius = 2 mm; disc area = **4π mm²**.\n- Clear area = (25−4)π = **21π mm²**.\n- ≈ **66.0 mm²**, to three significant figures.",
+      "specification": "MS5c;RPA2",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 4,
+      "prompt": "Two independent births each have affected probability 1/4. Find probabilities of both affected and exactly one affected.",
+      "answer": "- Both affected = 1/4 ×1/4 = **1/16**.\n- First affected, second unaffected = 1/4 ×3/4 = **3/16**.\n- First unaffected, second affected also **3/16**.\n- Exactly one = 3/16+3/16 = **6/16 = 3/8**.",
+      "specification": "MS2e",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 4,
+      "prompt": "A rate rises linearly from 0 to 6 cm³ min⁻¹ over 4 minutes. Calculate total gas produced from the rate-time graph.",
+      "answer": "- Total change is the **area under the rate–time graph**.\n- Region is a triangle: ½ ×base ×height.\n- ½ ×4 ×6 = **12**.\n- Units min ×cm³ min⁻¹ give **12 cm³**.",
+      "specification": "WS3.3;MS5c",
+      "evidence": "Additional specification-based practice",
+      "number": 38
+    }
+  ]
+}

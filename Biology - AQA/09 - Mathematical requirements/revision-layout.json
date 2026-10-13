@@ -1,0 +1,76 @@
+{
+  "source": "Mathematical requirements - Revision Notes.md",
+  "groups": [
+    {
+      "id": "numbers",
+      "title": "Units and numerical skills",
+      "description": "Convert, estimate, round and compare proportions.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Units, prefixes and standard form"
+        },
+        {
+          "heading": "Estimates, scale and significant figures"
+        },
+        {
+          "heading": "Ratios, fractions and percentages"
+        }
+      ]
+    },
+    {
+      "id": "calculations",
+      "title": "Biological calculations",
+      "description": "Work with images, rates, efficiencies and inheritance.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Magnification and scale bars"
+        },
+        {
+          "heading": "Rates, efficiency and inverse relationships"
+        },
+        {
+          "heading": "Probability in inheritance"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Data, graphs and algebra",
+      "description": "Interpret samples, distributions and relationships.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Averages, spread and frequency tables"
+        },
+        {
+          "heading": "Sampling and population estimates"
+        },
+        {
+          "heading": "Choosing and reading graphs"
+        },
+        {
+          "heading": "Straight lines, gradients and curved rates"
+        },
+        {
+          "heading": "Algebra and mathematical symbols"
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "title": "Geometry and exchange",
+      "description": "Calculate area, volume and ratios with correct units.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Areas, volumes and exchange surfaces"
+        },
+        {
+          "heading": "Calculation checks"
+        }
+      ]
+    }
+  ]
+}

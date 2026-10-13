@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8461, Higher tier",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "coverage": [
+    "Mathematical requirements 1a–1d,2a–2h,3a/3d,4a–4d,5c",
+    "WS3.3;WS4.3–4.6",
+    "Topic-specific magnification,probability,rate/efficiency,sampling,inverse-square and inhibition-area calculations"
+  ],
+  "coverage_checklist": {
+    "Arithmetic": "Decimals,standard form,ratios/fractions/percentages,estimates",
+    "Data": "Significant figures,means,frequency distributions/bars/histograms,sampling,probability,median/mode,scatter correlation,orders of magnitude",
+    "Algebra/graphs": "All stated symbols,solve/rearrange,numerical/graph translation,y=mx+c,plotting,slope/intercept and applied tangents",
+    "Geometry": "Triangles/rectangles,cube surface/volume and applied circular areas"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-biology-maths-overview",
+    "01-units-and-proportions",
+    "02-calculations-and-inheritance",
+    "03-data-graphs-and-algebra",
+    "04-geometry-and-exchange"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Mathematical requirements - Questions and Answers.md",
+    "deck": "Flash Cards/Mathematical requirements - Flash Cards.json",
+    "count": 35,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
