@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C720QS Component 2; local official PDF pages 10–12",
+  "resource_scope": "Revision notes only",
+  "coverage": [
+    "All three acts and cyclical ending",
+    "Arthur, Sybil, Sheila, Eric, Gerald, Goole and Eva",
+    "Responsibility, class, money, gender, generations, guilt and appearance",
+    "Language, stage directions, irony, setting, detective and morality features",
+    "Source-based whole-play response; AO1/AO2/AO4"
+  ],
+  "sources": [
+    {
+      "title": "Official local Eduqas specification",
+      "file": "../00 - Specification/Eduqas-C720QS-specification.pdf",
+      "pages": [
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Eduqas Component 2 teaching guidance",
+      "url": "https://resources.eduqas.co.uk/pages/ResourceSingle.aspx?rIid=1118"
+    },
+    {
+      "title": "Eduqas annotated source-based exemplar",
+      "url": "https://www.eduqas.co.uk/media/ko5gyfpa/7a-annotated-unit-2-exemplar.pdf"
+    },
+    {
+      "title": "Priestley Society: An Inspector Calls",
+      "url": "https://jbpriestleysociety.com/works/an-inspector-calls/",
+      "use": "Historical framing; interpretations in notes are original"
+    }
+  ]
+}

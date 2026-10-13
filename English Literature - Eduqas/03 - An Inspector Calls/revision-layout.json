@@ -1,0 +1,79 @@
+{
+  "source": "An Inspector Calls - Revision Notes.md",
+  "groups": [
+    {
+      "id": "acts",
+      "title": "Story / Acts",
+      "description": "Follow the investigation and its final reversal.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "The central idea"
+        },
+        {
+          "heading": "Act 1: celebration interrupted"
+        },
+        {
+          "heading": "Act 2: respectable appearances break down"
+        },
+        {
+          "heading": "Act 3: confession and the final reversal"
+        }
+      ]
+    },
+    {
+      "id": "characters",
+      "title": "Characters",
+      "description": "Connect each person's choices, development and evidence.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Arthur Birling"
+        },
+        {
+          "heading": "Sybil Birling"
+        },
+        {
+          "heading": "Sheila Birling"
+        },
+        {
+          "heading": "Eric Birling"
+        },
+        {
+          "heading": "Gerald Croft"
+        },
+        {
+          "heading": "Inspector Goole and Eva Smith"
+        }
+      ]
+    },
+    {
+      "id": "themes",
+      "title": "Themes and dramatic methods",
+      "description": "Explore responsibility, power and the audience's response.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Responsibility and social inequality"
+        },
+        {
+          "heading": "Gender, generations and appearance"
+        },
+        {
+          "heading": "Dramatic methods and context"
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Essay writing",
+      "description": "Use extract evidence and the wider play to build an argument.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Building an answer"
+        }
+      ]
+    }
+  ]
+}
