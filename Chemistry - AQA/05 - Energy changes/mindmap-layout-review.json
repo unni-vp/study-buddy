@@ -1,0 +1,318 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        720,
+        564,
+        577
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 271
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 301,
+          "width": 354,
+          "height": 449
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 281,
+          "width": 354,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 325,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "chem-profile",
+          "purpose": "Shows reactant/product energy levels and the starting point of activation energy."
+        }
+      ],
+      "slug": "00-energy-changes-overview",
+      "title": "Energy changes",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        446,
+        324
+      ],
+      "column_heights": [
+        640,
+        692,
+        590
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 290,
+          "height": 358
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 446,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 259,
+          "width": 446,
+          "height": 467
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 778,
+          "y": 18,
+          "width": 324,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 778,
+          "y": 360,
+          "width": 324,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "chem-profiles",
+          "purpose": "Compares the energy levels in exothermic and endothermic profiles."
+        }
+      ],
+      "slug": "01-profiles-and-bond-energies",
+      "title": "Profiles & bond energies",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        302,
+        342,
+        416
+      ],
+      "column_heights": [
+        555,
+        546,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 302,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 342,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 294,
+          "width": 342,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 686,
+          "y": 18,
+          "width": 416,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 686,
+          "y": 294,
+          "width": 416,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-temperature-practical",
+      "title": "Temperature practical",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        358,
+        350,
+        352
+      ],
+      "column_heights": [
+        568,
+        568,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 358,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 350,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 360,
+          "width": 350,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 220
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 250,
+          "width": 352,
+          "height": 330
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-cells-and-fuel-cells",
+      "title": "Cells & fuel cells",
+      "source_panels_preserved": 6
+    }
+  ]
+}
