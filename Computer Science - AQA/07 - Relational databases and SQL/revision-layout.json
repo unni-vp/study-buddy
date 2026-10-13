@@ -1,0 +1,65 @@
+{
+  "source": "Relational databases and SQL - Revision Notes.md",
+  "groups": [
+    {
+      "id": "design",
+      "title": "Tables and relationships",
+      "description": "Understand records, keys and shared data.",
+      "icon": "computer-data",
+      "sections": [
+        {
+          "heading": "Tables, records and fields"
+        },
+        {
+          "heading": "Primary and foreign keys"
+        },
+        {
+          "heading": "Reducing redundancy and inconsistency"
+        }
+      ]
+    },
+    {
+      "id": "retrieve",
+      "title": "Retrieving and sorting data",
+      "description": "Trace SELECT queries and connect two tables.",
+      "icon": "computer-code",
+      "sections": [
+        {
+          "heading": "Our example database"
+        },
+        {
+          "heading": "SELECT and FROM"
+        },
+        {
+          "heading": "WHERE and combined conditions"
+        },
+        {
+          "heading": "ORDER BY"
+        },
+        {
+          "heading": "Retrieving from two tables"
+        }
+      ]
+    },
+    {
+      "id": "change",
+      "title": "Changing data",
+      "description": "Use INSERT, UPDATE and DELETE accurately.",
+      "icon": "computer-test",
+      "sections": [
+        {
+          "heading": "INSERT INTO and VALUES"
+        },
+        {
+          "heading": "UPDATE and SET"
+        },
+        {
+          "heading": "DELETE FROM"
+        },
+        {
+          "heading": "Planning and checking a query"
+        }
+      ]
+    }
+  ]
+}

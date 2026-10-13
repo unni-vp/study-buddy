@@ -1,0 +1,40 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tables and relationships · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><h1>Tables and relationships</h1>
+<h2>Tables, records and fields</h2>
+<p>A <strong>database</strong> is an organised collection of data that can be stored, searched and updated. A <strong>relational database</strong> stores data in tables that can be linked through shared key values.</p>
+<p>Think of a school library. One list describes pupils; another records their loans. A pupil&#x27;s ID connects the person to the books they borrowed, without copying their full details onto every loan.</p>
+<table>
+<tr><th>Term</th><th>Plain meaning</th><th>Library example</th></tr>
+<tr><td><strong>Table</strong></td><td>A collection of records about one kind of item</td><td>Pupils</td></tr>
+<tr><td><strong>Record</strong></td><td>One row describing one item</td><td>The row for pupil 101</td></tr>
+<tr><td><strong>Field</strong></td><td>One named piece of information; a column</td><td>Name</td></tr>
+<tr><td><strong>Data type</strong></td><td>The kind of value a field stores</td><td>Integer for YearGroup; text for Name</td></tr>
+</table>
+<p>Each record has values for the table&#x27;s fields. A table with three pupils has <strong>three records</strong>, regardless of how many fields describe each pupil.</p>
+<p>Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.</p>
+<h2>Primary and foreign keys</h2>
+<p>A <strong>primary key</strong> uniquely identifies a record within its table. It must not be repeated or missing.</p>
+<ul>
+<li><code>PupilID</code> distinguishes pupils who might have the same name.</li>
+<li><code>LoanID</code> distinguishes separate loans, even if the same pupil borrows the same title again.</li>
+<li>A person&#x27;s name is usually a poor primary key because names can repeat or change.</li>
+</ul>
+<p>A <strong>foreign key</strong> is a field whose value links to a primary-key value in another table.</p>
+<ul>
+<li><code>Loans.PupilID</code> identifies which pupil made a loan.</li>
+<li>Its values match <code>Pupils.PupilID</code>.</li>
+<li>The same foreign-key value can occur in several loan records: one pupil can borrow several books.</li>
+</ul>
+<p><img src="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Diagrams/linked-library-records.svg" alt="Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example."></p>
+<p><strong>Primary key:</strong> identifies the row in this table. <strong>Foreign key:</strong> connects a row to another table. A field called <code>PupilID</code> can therefore be a primary key in Pupils and a foreign key in Loans.</p>
+<h2>Reducing redundancy and inconsistency</h2>
+<p><strong>Data redundancy</strong> means unnecessary duplication. <strong>Data inconsistency</strong> means different stored copies disagree.</p>
+<p>Suppose every loan record stores the pupil&#x27;s name and year group. When their year group changes, several rows need updating. Missing one leaves conflicting information.</p>
+<p>With separate linked tables:</p>
+<ol>
+<li>Store the pupil&#x27;s name and year group <strong>once in Pupils</strong>.</li>
+<li>Store their <code>PupilID</code> on each relevant loan.</li>
+<li>Update the pupil&#x27;s details in one record.</li>
+<li>Retrieve those details when a query connects the tables.</li>
+</ol>
+<p>This reduces repeated descriptive data and the risk of conflicting copies. Repeated <strong>foreign-key values are intentional</strong>: they provide the links. They are different from unnecessarily duplicating all of the pupil&#x27;s details.</p>
+<p>Good design supports consistency, but records must still be entered and updated correctly.</p></article><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="197f79a329cd-group-retrieve.html"><span>Next →</span><strong>Retrieving and sorting data</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

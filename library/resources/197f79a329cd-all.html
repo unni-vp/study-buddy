@@ -1,0 +1,189 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Relational databases and SQL — all revision notes · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a><button onclick="window.print()">Print all notes</button></div><article class="reading"><h1>Relational databases and SQL</h1>
+<h2>Tables, records and fields</h2>
+<p>A <strong>database</strong> is an organised collection of data that can be stored, searched and updated. A <strong>relational database</strong> stores data in tables that can be linked through shared key values.</p>
+<p>Think of a school library. One list describes pupils; another records their loans. A pupil&#x27;s ID connects the person to the books they borrowed, without copying their full details onto every loan.</p>
+<table>
+<tr><th>Term</th><th>Plain meaning</th><th>Library example</th></tr>
+<tr><td><strong>Table</strong></td><td>A collection of records about one kind of item</td><td>Pupils</td></tr>
+<tr><td><strong>Record</strong></td><td>One row describing one item</td><td>The row for pupil 101</td></tr>
+<tr><td><strong>Field</strong></td><td>One named piece of information; a column</td><td>Name</td></tr>
+<tr><td><strong>Data type</strong></td><td>The kind of value a field stores</td><td>Integer for YearGroup; text for Name</td></tr>
+</table>
+<p>Each record has values for the table&#x27;s fields. A table with three pupils has <strong>three records</strong>, regardless of how many fields describe each pupil.</p>
+<p>Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.</p>
+<h2>Primary and foreign keys</h2>
+<p>A <strong>primary key</strong> uniquely identifies a record within its table. It must not be repeated or missing.</p>
+<ul>
+<li><code>PupilID</code> distinguishes pupils who might have the same name.</li>
+<li><code>LoanID</code> distinguishes separate loans, even if the same pupil borrows the same title again.</li>
+<li>A person&#x27;s name is usually a poor primary key because names can repeat or change.</li>
+</ul>
+<p>A <strong>foreign key</strong> is a field whose value links to a primary-key value in another table.</p>
+<ul>
+<li><code>Loans.PupilID</code> identifies which pupil made a loan.</li>
+<li>Its values match <code>Pupils.PupilID</code>.</li>
+<li>The same foreign-key value can occur in several loan records: one pupil can borrow several books.</li>
+</ul>
+<p><img src="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Diagrams/linked-library-records.svg" alt="Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example."></p>
+<p><strong>Primary key:</strong> identifies the row in this table. <strong>Foreign key:</strong> connects a row to another table. A field called <code>PupilID</code> can therefore be a primary key in Pupils and a foreign key in Loans.</p>
+<h2>Reducing redundancy and inconsistency</h2>
+<p><strong>Data redundancy</strong> means unnecessary duplication. <strong>Data inconsistency</strong> means different stored copies disagree.</p>
+<p>Suppose every loan record stores the pupil&#x27;s name and year group. When their year group changes, several rows need updating. Missing one leaves conflicting information.</p>
+<p>With separate linked tables:</p>
+<ol>
+<li>Store the pupil&#x27;s name and year group <strong>once in Pupils</strong>.</li>
+<li>Store their <code>PupilID</code> on each relevant loan.</li>
+<li>Update the pupil&#x27;s details in one record.</li>
+<li>Retrieve those details when a query connects the tables.</li>
+</ol>
+<p>This reduces repeated descriptive data and the risk of conflicting copies. Repeated <strong>foreign-key values are intentional</strong>: they provide the links. They are different from unnecessarily duplicating all of the pupil&#x27;s details.</p>
+<p>Good design supports consistency, but records must still be entered and updated correctly.</p>
+<h2>Our example database</h2>
+<h3>Pupils</h3>
+<table>
+<tr><th>PupilID</th><th>Name</th><th>YearGroup</th></tr>
+<tr><td>101</td><td>Shreya</td><td>10</td></tr>
+<tr><td>102</td><td>Amir</td><td>11</td></tr>
+<tr><td>103</td><td>Mia</td><td>10</td></tr>
+</table>
+<p><code>PupilID</code> is the primary key. The ID and year-group fields hold integers; Name holds text.</p>
+<h3>Loans</h3>
+<table>
+<tr><th>LoanID</th><th>PupilID</th><th>BookTitle</th><th>DaysLoaned</th></tr>
+<tr><td>501</td><td>101</td><td>Macbeth</td><td>14</td></tr>
+<tr><td>502</td><td>101</td><td>Geography</td><td>21</td></tr>
+<tr><td>503</td><td>102</td><td>Atlas</td><td>7</td></tr>
+</table>
+<p><code>LoanID</code> is the primary key. <code>PupilID</code> is a foreign key referencing Pupils. The query examples each start from these original tables.</p>
+<h2>SELECT and FROM</h2>
+<p><strong>SQL</strong> stands for <strong>Structured Query Language</strong>. It lets you retrieve and change database data.</p>
+<ul>
+<li><strong>SELECT</strong> chooses the fields to display.</li>
+<li><strong>FROM</strong> identifies the table supplying the data.</li>
+<li><code>*</code> means all fields.</li>
+</ul>
+<pre class="code-block"><code class="language-sql">SELECT Name, YearGroup
+FROM Pupils;
+</code></pre>
+<p>This retrieves each pupil&#x27;s name and year group. It does not display PupilID because that field was not selected.</p>
+<pre class="code-block"><code class="language-sql">SELECT *
+FROM Pupils;
+</code></pre>
+<p>This retrieves all three fields. Neither query changes the stored records.</p>
+<p><strong>Keep the distinction clear:</strong> SELECT chooses columns; a WHERE condition chooses which rows qualify.</p>
+<h2>WHERE and combined conditions</h2>
+<p><strong>WHERE</strong> filters records using a condition.</p>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+WHERE YearGroup = 10;
+</code></pre>
+<p><strong>Result:</strong> Shreya and Mia. Amir is excluded because his year group is 11.</p>
+<h3>Comparisons and text values</h3>
+<ul>
+<li><code>=</code> means equal; <code>&lt;&gt;</code> means not equal.</li>
+<li><code>&lt;</code>, <code>&gt;</code>, <code>&lt;=</code> and <code>&gt;=</code> compare values.</li>
+<li>Put text values in single quotes, such as <code>&#x27;Macbeth&#x27;</code>.</li>
+<li>Write numeric values without quotes, such as <code>10</code>.</li>
+<li>Use the table and field names from the question exactly.</li>
+</ul>
+<p>SQL equality uses **<code>=</code>**, not Python&#x27;s <code>==</code> or pseudocode&#x27;s assignment arrow.</p>
+<h3>AND and OR</h3>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+WHERE YearGroup &gt;= 10 AND YearGroup &lt;= 11;
+</code></pre>
+<p><strong>AND</strong> requires both conditions to be true. All three pupils qualify because their year groups are within the inclusive range.</p>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle
+FROM Loans
+WHERE DaysLoaned &lt; 10 OR DaysLoaned &gt; 20;
+</code></pre>
+<p><strong>OR</strong> requires at least one condition to be true. Atlas qualifies through 7 days; Geography qualifies through 21 days. Macbeth, at 14 days, meets neither condition.</p>
+<p>Use brackets when combining AND and OR to make the intended grouping clear. Without ORDER BY, do not assume a particular result order.</p>
+<h2>ORDER BY</h2>
+<p><strong>ORDER BY</strong> sorts the retrieved results.</p>
+<ul>
+<li><strong>ASC:</strong> ascending, such as A to Z or smallest to largest.</li>
+<li><strong>DESC:</strong> descending, such as Z to A or largest to smallest.</li>
+</ul>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+ORDER BY Name ASC;
+</code></pre>
+<p><strong>Result order:</strong> Amir, Mia, Shreya.</p>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+ORDER BY DaysLoaned DESC;
+</code></pre>
+<p><strong>Result order:</strong> Geography — 21; Macbeth — 14; Atlas — 7.</p>
+<p>Sorting changes the order of the query&#x27;s results. It does not rewrite the original table&#x27;s data. Put ORDER BY after WHERE when both are used.</p>
+<h2>Retrieving from two tables</h2>
+<p>To display pupils&#x27; names beside their book titles, retrieve fields from both tables and match the relevant key values.</p>
+<pre class="code-block"><code class="language-sql">SELECT Pupils.Name, Loans.BookTitle
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+    AND Pupils.YearGroup = 10
+ORDER BY Loans.BookTitle ASC;
+</code></pre>
+<p>Follow the query in three steps:</p>
+<ol>
+<li><strong>Match the pupil IDs.</strong> Loans 501 and 502 belong to pupil 101; loan 503 belongs to pupil 102.</li>
+<li><strong>Keep year group 10.</strong> Shreya&#x27;s two loans remain. Amir is excluded; Mia has no matching loan.</li>
+<li><strong>Display and sort.</strong> Show the pupil&#x27;s name and each matching title, sorted by title.</li>
+</ol>
+<table>
+<tr><th>Name</th><th>BookTitle</th></tr>
+<tr><td>Shreya</td><td>Geography</td></tr>
+<tr><td>Shreya</td><td>Macbeth</td></tr>
+</table>
+<p>The dot in <code>Pupils.Name</code> identifies <strong>the table and its field</strong>. This is especially useful when both tables contain a field named PupilID.</p>
+<p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p>
+<h2>INSERT INTO and VALUES</h2>
+<p><strong>INSERT INTO</strong> adds a new record. The field list and value list must correspond in the same order.</p>
+<pre class="code-block"><code class="language-sql">INSERT INTO Pupils (PupilID, Name, YearGroup)
+VALUES (104, &#x27;Lena&#x27;, 11);
+</code></pre>
+<ul>
+<li>A new pupil record is added; existing pupils remain.</li>
+<li><code>104</code> is an unused primary-key value.</li>
+<li><code>&#x27;Lena&#x27;</code> is text; <code>11</code> is an integer.</li>
+<li>There are three named fields and three matching values.</li>
+</ul>
+<p>INSERT adds a record; it does not edit an existing record simply because the name is similar.</p>
+<h2>UPDATE and SET</h2>
+<p><strong>UPDATE</strong> changes existing records. <strong>SET</strong> specifies their new field values. <strong>WHERE</strong> restricts which records are changed.</p>
+<pre class="code-block"><code class="language-sql">UPDATE Pupils
+SET YearGroup = 11
+WHERE PupilID = 101;
+</code></pre>
+<p>Only Shreya&#x27;s year group changes, from 10 to 11. Her name and primary key remain unchanged. The other pupils are unaffected.</p>
+<p>Using a primary key in the condition is useful when exactly one record should change.</p>
+<p><strong>Without WHERE, the change applies to every record in the table.</strong></p>
+<h2>DELETE FROM</h2>
+<p><strong>DELETE FROM</strong> removes records that match a condition.</p>
+<pre class="code-block"><code class="language-sql">DELETE FROM Loans
+WHERE LoanID = 502;
+</code></pre>
+<p>The Geography loan is removed. Shreya&#x27;s pupil record and her Macbeth loan remain because those records are in different rows or tables.</p>
+<ul>
+<li>DELETE removes whole qualifying rows, rather than just clearing one field.</li>
+<li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
+<li>The table itself still exists; removing its records is different from removing the table structure.</li>
+</ul>
+<h2>Planning and checking a query</h2>
+<p>Before writing, identify the operation:</p>
+<table>
+<tr><th>Need</th><th>Command</th></tr>
+<tr><td>Retrieve information</td><td>SELECT</td></tr>
+<tr><td>Add a record</td><td>INSERT INTO</td></tr>
+<tr><td>Change stored values</td><td>UPDATE ... SET</td></tr>
+<tr><td>Remove records</td><td>DELETE FROM</td></tr>
+</table>
+<p>Then check:</p>
+<ol>
+<li><strong>Fields:</strong> which columns must be displayed or changed?</li>
+<li><strong>Tables:</strong> where is the information stored?</li>
+<li><strong>Conditions:</strong> which rows should qualify? For two tables, what key values must match?</li>
+<li><strong>Order:</strong> is a particular sort required?</li>
+<li><strong>Accuracy:</strong> are names, operators, quotes and values correct?</li>
+</ol>
+<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 330" role="img" aria-labelledby="title desc" font-family="Segoe UI,Arial,sans-serif">
+<title id="title">Primary keys connect pupils to their loans</title>
+<desc id="desc">Pupil 101 is linked to loans 501 and 502 through their PupilID foreign keys. Pupil 102 is linked to loan 503. Pupil 103 has no matching loan.</desc>
+<rect width="650" height="330" rx="12" fill="#f5f7fb"/>
+<rect x="16" y="18" width="240" height="265" rx="10" fill="white" stroke="#233f6c" stroke-width="2"/>
+<rect x="390" y="18" width="244" height="265" rx="10" fill="white" stroke="#233f6c" stroke-width="2"/>
+<g fill="#172638" font-size="24"><text x="136" y="50" text-anchor="middle" font-weight="700">Pupils</text><text x="512" y="50" text-anchor="middle" font-weight="700">Loans</text></g>
+<g fill="#233f6c" font-size="21" font-weight="700"><text x="34" y="88">PupilID</text><text x="161" y="88">Name</text><text x="407" y="88">LoanID</text><text x="520" y="88">PupilID</text></g>
+<g fill="#516278" font-size="18"><text x="34" y="113">Primary key</text><text x="407" y="113">Primary key</text><text x="520" y="113">Foreign key</text></g>
+<g stroke="#d5deeb"><path d="M16 126H256M390 126H634M16 176H256M390 176H634M16 226H256M390 226H634"/></g>
+<g fill="#172638" font-size="24"><text x="34" y="160">101</text><text x="135" y="160">Shreya</text><text x="34" y="210">102</text><text x="135" y="210">Amir</text><text x="34" y="260">103</text><text x="135" y="260">Mia</text><text x="407" y="160">501</text><text x="531" y="160">101</text><text x="407" y="210">502</text><text x="531" y="210">101</text><text x="407" y="260">503</text><text x="531" y="260">102</text></g>
+<g fill="none" stroke="#b86428" stroke-width="3"><path d="M256 153H390"/><path d="M256 153C325 153 325 203 390 203"/><path d="M256 203C310 203 320 253 390 253"/></g>
+<g fill="#b86428"><circle cx="256" cy="153" r="4"/><circle cx="390" cy="153" r="4"/><circle cx="390" cy="203" r="4"/><circle cx="256" cy="203" r="4"/><circle cx="390" cy="253" r="4"/></g>
+<text x="325" y="311" font-size="21" fill="#172638" text-anchor="middle">Lines connect matching PupilID values.</text>
+</svg>

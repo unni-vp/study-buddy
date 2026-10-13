@@ -1,0 +1,100 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Retrieving and sorting data · Shreya&#x27;s Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Shreya&#x27;s Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><h1>Retrieving and sorting data</h1>
+<h2>Our example database</h2>
+<h3>Pupils</h3>
+<table>
+<tr><th>PupilID</th><th>Name</th><th>YearGroup</th></tr>
+<tr><td>101</td><td>Shreya</td><td>10</td></tr>
+<tr><td>102</td><td>Amir</td><td>11</td></tr>
+<tr><td>103</td><td>Mia</td><td>10</td></tr>
+</table>
+<p><code>PupilID</code> is the primary key. The ID and year-group fields hold integers; Name holds text.</p>
+<h3>Loans</h3>
+<table>
+<tr><th>LoanID</th><th>PupilID</th><th>BookTitle</th><th>DaysLoaned</th></tr>
+<tr><td>501</td><td>101</td><td>Macbeth</td><td>14</td></tr>
+<tr><td>502</td><td>101</td><td>Geography</td><td>21</td></tr>
+<tr><td>503</td><td>102</td><td>Atlas</td><td>7</td></tr>
+</table>
+<p><code>LoanID</code> is the primary key. <code>PupilID</code> is a foreign key referencing Pupils. The query examples each start from these original tables.</p>
+<h2>SELECT and FROM</h2>
+<p><strong>SQL</strong> stands for <strong>Structured Query Language</strong>. It lets you retrieve and change database data.</p>
+<ul>
+<li><strong>SELECT</strong> chooses the fields to display.</li>
+<li><strong>FROM</strong> identifies the table supplying the data.</li>
+<li><code>*</code> means all fields.</li>
+</ul>
+<pre class="code-block"><code class="language-sql">SELECT Name, YearGroup
+FROM Pupils;
+</code></pre>
+<p>This retrieves each pupil&#x27;s name and year group. It does not display PupilID because that field was not selected.</p>
+<pre class="code-block"><code class="language-sql">SELECT *
+FROM Pupils;
+</code></pre>
+<p>This retrieves all three fields. Neither query changes the stored records.</p>
+<p><strong>Keep the distinction clear:</strong> SELECT chooses columns; a WHERE condition chooses which rows qualify.</p>
+<h2>WHERE and combined conditions</h2>
+<p><strong>WHERE</strong> filters records using a condition.</p>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+WHERE YearGroup = 10;
+</code></pre>
+<p><strong>Result:</strong> Shreya and Mia. Amir is excluded because his year group is 11.</p>
+<h3>Comparisons and text values</h3>
+<ul>
+<li><code>=</code> means equal; <code>&lt;&gt;</code> means not equal.</li>
+<li><code>&lt;</code>, <code>&gt;</code>, <code>&lt;=</code> and <code>&gt;=</code> compare values.</li>
+<li>Put text values in single quotes, such as <code>&#x27;Macbeth&#x27;</code>.</li>
+<li>Write numeric values without quotes, such as <code>10</code>.</li>
+<li>Use the table and field names from the question exactly.</li>
+</ul>
+<p>SQL equality uses **<code>=</code>**, not Python&#x27;s <code>==</code> or pseudocode&#x27;s assignment arrow.</p>
+<h3>AND and OR</h3>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+WHERE YearGroup &gt;= 10 AND YearGroup &lt;= 11;
+</code></pre>
+<p><strong>AND</strong> requires both conditions to be true. All three pupils qualify because their year groups are within the inclusive range.</p>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle
+FROM Loans
+WHERE DaysLoaned &lt; 10 OR DaysLoaned &gt; 20;
+</code></pre>
+<p><strong>OR</strong> requires at least one condition to be true. Atlas qualifies through 7 days; Geography qualifies through 21 days. Macbeth, at 14 days, meets neither condition.</p>
+<p>Use brackets when combining AND and OR to make the intended grouping clear. Without ORDER BY, do not assume a particular result order.</p>
+<h2>ORDER BY</h2>
+<p><strong>ORDER BY</strong> sorts the retrieved results.</p>
+<ul>
+<li><strong>ASC:</strong> ascending, such as A to Z or smallest to largest.</li>
+<li><strong>DESC:</strong> descending, such as Z to A or largest to smallest.</li>
+</ul>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+ORDER BY Name ASC;
+</code></pre>
+<p><strong>Result order:</strong> Amir, Mia, Shreya.</p>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+ORDER BY DaysLoaned DESC;
+</code></pre>
+<p><strong>Result order:</strong> Geography — 21; Macbeth — 14; Atlas — 7.</p>
+<p>Sorting changes the order of the query&#x27;s results. It does not rewrite the original table&#x27;s data. Put ORDER BY after WHERE when both are used.</p>
+<h2>Retrieving from two tables</h2>
+<p>To display pupils&#x27; names beside their book titles, retrieve fields from both tables and match the relevant key values.</p>
+<pre class="code-block"><code class="language-sql">SELECT Pupils.Name, Loans.BookTitle
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+    AND Pupils.YearGroup = 10
+ORDER BY Loans.BookTitle ASC;
+</code></pre>
+<p>Follow the query in three steps:</p>
+<ol>
+<li><strong>Match the pupil IDs.</strong> Loans 501 and 502 belong to pupil 101; loan 503 belongs to pupil 102.</li>
+<li><strong>Keep year group 10.</strong> Shreya&#x27;s two loans remain. Amir is excluded; Mia has no matching loan.</li>
+<li><strong>Display and sort.</strong> Show the pupil&#x27;s name and each matching title, sorted by title.</li>
+</ol>
+<table>
+<tr><th>Name</th><th>BookTitle</th></tr>
+<tr><td>Shreya</td><td>Geography</td></tr>
+<tr><td>Shreya</td><td>Macbeth</td></tr>
+</table>
+<p>The dot in <code>Pupils.Name</code> identifies <strong>the table and its field</strong>. This is especially useful when both tables contain a field named PupilID.</p>
+<p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p></article><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-design.html"><span>← Previous</span><strong>Tables and relationships</strong></a><a href="197f79a329cd-group-change.html"><span>Next →</span><strong>Changing data</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

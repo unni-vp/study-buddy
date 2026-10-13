@@ -1,0 +1,29 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8525 section 3.7, first exams 2027; local specification v1.3 16 June 2025",
+  "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
+  "specification_pdf_pages": [
+    31,
+    32
+  ],
+  "coverage": [
+    "3.7.1",
+    "3.7.2"
+  ],
+  "notes": {
+    "source": "Revision Notes/Relational databases and SQL - Revision Notes.md",
+    "groups": [
+      "Tables and relationships",
+      "Retrieving and sorting data",
+      "Changing data"
+    ],
+    "review": "Plain-English explanations, supported technical terms, worked applications and complete topic coverage; student-facing specification banners omitted."
+  },
+  "supporting_sources": [
+    "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/relational-databases-and-structured-query-language-sql",
+    "https://www.sqlite.org/lang_select.html",
+    "https://www.sqlite.org/lang_insert.html",
+    "https://www.sqlite.org/lang_update.html",
+    "https://www.sqlite.org/lang_delete.html"
+  ]
+}
