@@ -1,0 +1,293 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/biology_readable_mindmaps.py",
+  "style": "Readable panels without a central hub; black explanations, bold colon labels, consistent coloured headings, light inset dividers, compact outer gutters",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "minimum_body_pt": 11.22
+  },
+  "full_text": "Existing full Markdown counterparts retained",
+  "maps": [
+    {
+      "slug": "00-bioenergetics-overview",
+      "widths": [
+        290,
+        358,
+        412
+      ],
+      "column_heights": [
+        533,
+        612,
+        612
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 358,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 316,
+          "width": 358,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 690,
+          "y": 18,
+          "width": 412,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 690,
+          "y": 294,
+          "width": 412,
+          "height": 352
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "01-photosynthesis-and-limiting-factors",
+      "widths": [
+        314,
+        350,
+        396
+      ],
+      "column_heights": [
+        555,
+        568,
+        550
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 314,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 338,
+          "width": 314,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 344,
+          "y": 18,
+          "width": 350,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 344,
+          "y": 316,
+          "width": 350,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 706,
+          "y": 18,
+          "width": 396,
+          "height": 277
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 706,
+          "y": 307,
+          "width": 396,
+          "height": 277
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "02-photosynthesis-practical",
+      "widths": [
+        334,
+        374,
+        352
+      ],
+      "column_heights": [
+        533,
+        537,
+        533
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 334,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 334,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 374,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 364,
+          "y": 316,
+          "width": 374,
+          "height": 255
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "03-respiration-exercise-and-metabolism",
+      "widths": [
+        422,
+        334,
+        304
+      ],
+      "column_heights": [
+        590,
+        568,
+        590
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 422,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 338,
+          "width": 422,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 452,
+          "y": 18,
+          "width": 334,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 452,
+          "y": 316,
+          "width": 334,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 798,
+          "y": 18,
+          "width": 304,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 798,
+          "y": 316,
+          "width": 304,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22
+    }
+  ]
+}

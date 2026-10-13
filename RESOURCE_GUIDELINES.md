@@ -147,7 +147,7 @@ These checks apply to future resources and revisions of existing resources.
 
 - In graphical mind maps, use bold keywords with colons for labels, functions and associations; bold the colon with its keyword so it stays visible. Keep longer explanations on separate lines. Reserve arrows for actual movement or process sequences. This supersedes the earlier separator preferences for arrows and em dashes.
 
-- For the new Cell biology overview, retain only the existing mitosis diagram. Use the removed illustration space for clear content subsections, fuller explanations, practical methods and calculations. Preserve the earlier maps. In future maps, prioritise useful explanations and add a diagram only when it provides clear learning value.
+- For the Cell biology overview, retain only the existing mitosis diagram. Use the removed illustration space for clear content subsections, fuller explanations, practical methods and calculations. The approved illustrated artwork is now the main 00-cell-biology-overview and replaces the older overview. Keep one overview entry, followed by the detailed maps; do not recreate the removed 07 alternative. In future maps, prioritise useful explanations and add a diagram only when it provides clear learning value.
 
 - Keep mind-map section and subsection headings coloured, and use black for the content beneath them, including bold keywords, explanations, diagram captions and calculations.
 
@@ -157,4 +157,4 @@ These checks apply to future resources and revisions of existing resources.
 
 - Use light, inset divider lines between natural content groups within mind-map panels, matching the panel colour. Keep clear space above and below each line; do not separate every fact or let a line touch text or diagrams.
 
-- Biology mind maps now use the readable panel style from the approved Cell biology alternative: no central hub, measured widths/heights, black body text with bold colon labels, consistent coloured headings, light inset dividers and compact outer gutters. Apply it to existing Biology maps while preserving their complete text counterparts. Use scripts/biology_readable_mindmaps.py through the maintained subject generators. Keep Previous and Next controls inside every mind-map viewer, with a position count and disabled controls at the ends.
+- Biology mind maps now use the readable panel style from the approved Cell biology overview: no central hub, measured widths/heights, black body text with bold colon labels, consistent coloured headings, light inset dividers and compact outer gutters. Apply it to existing Biology maps while preserving their complete text counterparts. Use scripts/biology_readable_mindmaps.py through the maintained subject generators. Keep Previous and Next controls inside every mind-map viewer, with a position count and disabled controls at the ends.
