@@ -1,0 +1,79 @@
+{
+  "source": "Mathematical requirements and equations - Revision Notes.md",
+  "groups": [
+    {
+      "id": "numbers",
+      "title": "Numbers and units",
+      "description": "Select relationships, convert units and rearrange carefully.",
+      "icon": "physics-equations",
+      "sections": [
+        {
+          "heading": "Choose a relationship before calculating"
+        },
+        {
+          "heading": "Units and conversions"
+        },
+        {
+          "heading": "Standard form, estimates and significant figures"
+        },
+        {
+          "heading": "Rearrange and recognise proportionality"
+        }
+      ]
+    },
+    {
+      "id": "equations",
+      "title": "Equation toolkit",
+      "description": "Use the equation families and their physical conditions.",
+      "icon": "physics-equations",
+      "sections": [
+        {
+          "heading": "Equations: energy and heating"
+        },
+        {
+          "heading": "Equations: electricity and matter"
+        },
+        {
+          "heading": "Equations: forces and motion"
+        },
+        {
+          "heading": "Equations: waves and electromagnetism"
+        },
+        {
+          "heading": "Linked calculations"
+        }
+      ]
+    },
+    {
+      "id": "graphs",
+      "title": "Graphs and data",
+      "description": "Use gradients, tangents, areas and statistical summaries.",
+      "icon": "physics-motion",
+      "sections": [
+        {
+          "heading": "Read linear graphs and their units"
+        },
+        {
+          "heading": "Tangents and area under a graph"
+        },
+        {
+          "heading": "Statistics, charts and correlations"
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "title": "Geometry and checking",
+      "description": "Use dimensions and directions, then check the result.",
+      "icon": "physics-forces",
+      "sections": [
+        {
+          "heading": "Angles, areas and three-dimensional shapes"
+        },
+        {
+          "heading": "Check your result"
+        }
+      ]
+    }
+  ]
+}

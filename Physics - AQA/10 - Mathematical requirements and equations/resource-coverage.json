@@ -1,0 +1,38 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8463, Higher tier",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "7:MS1a–1d,MS2a–2c,MS2f–2h,MS3a–3d,MS4a–4f,MS5a–5c",
+    "Appendix A: all 35 equation entries, including alternative power and efficiency forms",
+    "2027 full Physics equation sheet"
+  ],
+  "coverage_checklist": {
+    "MS1": "Units/conversions, standard form, ratio/percent, estimates",
+    "MS2": "Significant figures, mean/median/mode/range, frequency tables, charts/histograms, correlation/order of magnitude",
+    "MS3": "Symbols, rearrangement, substitutions and linked equations",
+    "MS4": "Linear graphs, slope/intercept, tangents, signed areas/counting squares",
+    "MS5": "Angles, 2D/3D interpretation, rectangle/triangle areas and cube/cuboid dimensions",
+    "Equations": "All families in toolkit, conditions and units; full official2027sheet linked locally"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-physics-maths-overview",
+    "01-units-and-calculation",
+    "02-equation-toolkit",
+    "03-graphs-and-data",
+    "04-geometry-and-checking"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Mathematical requirements and equations - Questions and Answers.md",
+    "deck": "Flash Cards/Mathematical requirements and equations - Flash Cards.json",
+    "count": 36,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

@@ -122,7 +122,20 @@ def redshift(w):
     s+=label(w/2,203,'Matching lines at longer wavelength','middle')+label(w/2,231,'Wavelength increases left to right','middle')
     return s,241
 
-RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex,'remaining-motor-force':motor_force,'remaining-transformer':transformer,'remaining-bar-field':bar_field,'remaining-generators':generator_graphs,'remaining-star-life':star_life,'remaining-orbit':orbit,'remaining-redshift':redshift}
+def tangent(w):
+    if w<300:raise ValueError('Tangent figure needs 300 units')
+    x0=23;span=w-49
+    s=label(0,16,'Distance (m)')+line(x0,26,x0,163)+line(x0,163,w-5,163)
+    points=[(x0+span*i/100,160-120*(i/100)**2) for i in range(101)]
+    s+='<polyline points="'+' '.join(f'{x:.2f},{y:.2f}' for x,y in points)+'" fill="none" stroke="'+BLUE+'" stroke-width="2"/>'
+    def ty(u):return 116.8-144*(u-.6)
+    s+=line(x0+span*.35,ty(.35),x0+span*.95,ty(.95),ORANGE,2)
+    s+=line(x0+span*.35,ty(.35),x0+span*.85,ty(.35),GREEN)+line(x0+span*.85,ty(.35),x0+span*.85,ty(.85),GREEN)
+    s+=f'<circle cx="{x0+span*.6}" cy="116.8" r="4" fill="{ORANGE}"/>'
+    s+=label(w/2,187,'Time (s)','middle')+label(w/2,213,'Tangent gradient: speed at that instant','middle')
+    return s,223
+
+RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex,'remaining-motor-force':motor_force,'remaining-transformer':transformer,'remaining-bar-field':bar_field,'remaining-generators':generator_graphs,'remaining-star-life':star_life,'remaining-orbit':orbit,'remaining-redshift':redshift,'remaining-tangent':tangent}
 PURPOSES={
  'remaining-wave':'Distinguishes rest-to-crest amplitude from the distance between successive crests.',
  'remaining-refraction':'Shows light changing speed and bending towards the normal as it enters glass obliquely.',
@@ -133,7 +146,8 @@ PURPOSES={
  'remaining-generators':'Compares alternating potential difference crossing zero with a dynamo’s output that pulses in one direction.',
  'remaining-star-life':'Separates the Sun-like and much-more-massive star routes after their common main-sequence stage.',
  'remaining-orbit':'Distinguishes an inward gravitational force from a tangent velocity in circular orbital motion.',
- 'remaining-redshift':'Compares the same spectral-line pattern at increasing wavelengths, rather than treating red-shift as an object simply appearing red.'}
+ 'remaining-redshift':'Compares the same spectral-line pattern at increasing wavelengths, rather than treating red-shift as an object simply appearing red.',
+ 'remaining-tangent':'Shows a tangent at a point on a curved distance–time graph and a large gradient triangle for instantaneous speed.'}
 def wrap(kind):
     def draw(width):
         svg,height=RAW[kind](width)

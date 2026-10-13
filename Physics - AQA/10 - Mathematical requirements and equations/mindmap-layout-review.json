@@ -1,0 +1,383 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        476,
+        476,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 281,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-physics-maths-overview",
+      "title": "Physics maths overview"
+    },
+    {
+      "widths": [
+        338,
+        350,
+        372
+      ],
+      "column_heights": [
+        432,
+        432,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 237,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 730,
+          "y": 18,
+          "width": 372,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 730,
+          "y": 281,
+          "width": 372,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-units-and-calculation",
+      "title": "Units and calculation methods"
+    },
+    {
+      "widths": [
+        342,
+        366,
+        352
+      ],
+      "column_heights": [
+        520,
+        520,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 342,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 366,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 237,
+          "width": 366,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-equation-toolkit",
+      "title": "Equation toolkit"
+    },
+    {
+      "widths": [
+        430,
+        314,
+        316
+      ],
+      "column_heights": [
+        594,
+        600,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 430,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 430,
+          "height": 391
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 460,
+          "y": 18,
+          "width": 314,
+          "height": 353
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 460,
+          "y": 383,
+          "width": 314,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 786,
+          "y": 18,
+          "width": 316,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 786,
+          "y": 281,
+          "width": 316,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-tangent",
+          "purpose": "Shows a tangent at a point on a curved distance–time graph and a large gradient triangle for instantaneous speed."
+        },
+        {
+          "source_panel": 2,
+          "kind": "ph-motion",
+          "purpose": "Shows the signed area represented by a positive velocity–time graph."
+        }
+      ],
+      "slug": "03-graphs-and-data",
+      "title": "Graphs and data"
+    },
+    {
+      "widths": [
+        318,
+        330,
+        412
+      ],
+      "column_heights": [
+        498,
+        454,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 318,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 318,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 348,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 348,
+          "y": 237,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 690,
+          "y": 18,
+          "width": 412,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 690,
+          "y": 281,
+          "width": 412,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-geometry-and-checking",
+      "title": "Geometry and physical checks"
+    }
+  ]
+}

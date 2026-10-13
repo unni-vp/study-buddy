@@ -8,6 +8,8 @@
 
 The PDF is the source of truth. The matching .txt file is a searchable convenience copy; tables and symbols may extract imperfectly. Downloaded and checked on 4 October 2026.
 
+- [Official 2027 Physics equation sheet](00%20-%20Specification/AQA-8463-equations-JUN27.pdf) | [AQA announcement](https://www.aqa.org.uk/news/gcse-maths-sciences-formulae-equation-sheets-2027-28) | 2 pages. Download source and checksum: 00 - Specification/equations-source.json.
+
 ## Main topics
 
 - 01 - Energy (specification: 4.1)
