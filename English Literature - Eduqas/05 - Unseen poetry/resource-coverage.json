@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C720QS Component 2; local official PDF pages 10–12",
+  "resource_scope": "Revision notes only",
+  "coverage": [
+    "Speaker, situation, overview, tone, ambiguity and deeper meaning",
+    "Language, imagery, form, stanza change, enjambment, caesura, endings and contrast",
+    "Original two-poem worked analysis; verse line breaks retained",
+    "Sustained comparison with evidence from both poems",
+    "15-mark and 25-mark tasks; AO1/AO2; no invented biography"
+  ],
+  "sources": [
+    {
+      "title": "Local official Eduqas specification",
+      "file": "../00 - Specification/Eduqas-C720QS-specification.pdf",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "title": "Eduqas unseen-poetry teaching guide",
+      "url": "https://www.eduqas.co.uk/media/ariif5p5/component-2-section-c-unseen-poetry.pdf",
+      "use": "Task format and assessment verified; poems and worked analyses in these notes are original practice, not copied examination content"
+    }
+  ]
+}

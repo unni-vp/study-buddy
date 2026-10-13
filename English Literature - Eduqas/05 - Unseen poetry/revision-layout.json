@@ -1,0 +1,59 @@
+{
+  "source": "Unseen poetry - Revision Notes.md",
+  "groups": [
+    {
+      "id": "meaning",
+      "title": "Understanding the poem",
+      "description": "Find the speaker, situation, deeper meaning and changes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Finding a poem's meaning"
+        },
+        {
+          "heading": "Literal meaning and deeper ideas"
+        },
+        {
+          "heading": "Tone, viewpoint and ambiguity"
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "Language, structure and form",
+      "description": "Turn precise evidence into a developed interpretation.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Language and imagery"
+        },
+        {
+          "heading": "Structure and form"
+        },
+        {
+          "heading": "A short poem to practise with"
+        },
+        {
+          "heading": "Selecting evidence and building paragraphs"
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "Comparison and exam approach",
+      "description": "Connect both poems and organise the two tasks.",
+      "icon": "literature-drama",
+      "sections": [
+        {
+          "heading": "Comparing two unseen poems"
+        },
+        {
+          "heading": "A contrasting poem and comparison"
+        },
+        {
+          "heading": "Managing the two tasks"
+        }
+      ]
+    }
+  ]
+}
