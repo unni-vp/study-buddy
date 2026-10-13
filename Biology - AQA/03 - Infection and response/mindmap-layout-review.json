@@ -1,0 +1,363 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/biology_readable_mindmaps.py",
+  "style": "Readable panels without a central hub; black explanations, bold colon labels, consistent coloured headings, light inset dividers, compact outer gutters",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "minimum_body_pt": 11.22
+  },
+  "full_text": "Existing full Markdown counterparts retained",
+  "maps": [
+    {
+      "slug": "00-infection-and-response-overview",
+      "widths": [
+        374,
+        334,
+        352
+      ],
+      "column_heights": [
+        577,
+        568,
+        590
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 374,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 374,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 404,
+          "y": 18,
+          "width": 334,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 404,
+          "y": 294,
+          "width": 334,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 338,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "01-pathogens-and-disease",
+      "widths": [
+        342,
+        342,
+        376
+      ],
+      "column_heights": [
+        561,
+        568,
+        555
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 342,
+          "height": 314
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 342,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 272,
+          "width": 342,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 726,
+          "y": 18,
+          "width": 376,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 726,
+          "y": 303,
+          "width": 376,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "02-defence-and-vaccination",
+      "widths": [
+        290,
+        322,
+        448
+      ],
+      "column_heights": [
+        489,
+        467,
+        489
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 290,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 322,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 272,
+          "width": 322,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 654,
+          "y": 18,
+          "width": 448,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 654,
+          "y": 281,
+          "width": 448,
+          "height": 242
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "03-medicines-and-antibodies",
+      "widths": [
+        350,
+        350,
+        360
+      ],
+      "column_heights": [
+        568,
+        568,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 338,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 350,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 338,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 742,
+          "y": 18,
+          "width": 360,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 742,
+          "y": 294,
+          "width": 360,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "04-plant-health",
+      "widths": [
+        358,
+        390,
+        312
+      ],
+      "column_heights": [
+        555,
+        546,
+        489
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 358,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 390,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 294,
+          "width": 390,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 790,
+          "y": 18,
+          "width": 312,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 790,
+          "y": 259,
+          "width": 312,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22
+    }
+  ]
+}

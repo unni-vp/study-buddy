@@ -81,10 +81,104 @@ OVERRIDES={
 'Sample stomata in several random measured areas. Calculate the mean number per unit area.']],
 }
 
+OVERRIDES.update({
+('03 - Infection and response','00-infection-and-response-overview'):[
+['**Pathogens:** bacteria, viruses, fungi and protists that cause infectious disease. Bacteria may release toxins. Viruses reproduce inside cells and damage them.',
+'**Spread:** contact, water, air, food or vectors. Hygiene, isolation, vaccination and vector control interrupt these routes.'],
+['**Measles:** droplets, fever and red rash. **HIV:** body fluids, immune-cell damage. Antiretroviral drugs control HIV.',
+'**Salmonella:** contaminated food, gut illness. **Gonorrhoea:** sexual contact, discharge and painful urination. Resistant bacteria are harder to treat.',
+'**Malaria:** protist carried by mosquitoes. Recurrent fever. Nets and breeding control reduce spread.'],
+['**Barriers:** skin, nose hairs, mucus, cilia and stomach acid.',
+'**White cells:** engulf pathogens, make antibodies and make antitoxins.',
+'**Vaccination:** specific antibodies and memory cells give a faster later response. High uptake reduces transmission.'],
+['**Antibiotics:** kill bacteria, not viruses. **Painkillers:** relieve symptoms. Drug trials check toxicity, efficacy and dose.',
+'**Monoclonal antibodies:** lymphocyte + tumour cell form a hybridoma. Clone it to make one antibody type.',
+'Specific binding enables tests and targeted treatment. Side effects can limit use.'],
+['**TMV:** mosaic leaves. **Black spot:** fungal spots and leaf loss. Both reduce photosynthesis. **Aphids:** feed on sap.',
+'**Nitrate shortage:** less protein and growth. **Magnesium shortage:** less chlorophyll and chlorosis.',
+'Identify using symptoms, references, laboratories or antibody tests.'],
+['**Physical:** cell walls, waxy cuticle and shedding bark resist entry.',
+'**Chemical:** antibacterial substances act against bacteria. Poisons deter herbivores.',
+'**Mechanical:** thorns, hairs, drooping or curling leaves and mimicry discourage feeding.']],
+('03 - Infection and response','01-pathogens-and-disease'):[
+['**Bacteria:** cells that multiply and may release toxins. **Viruses:** reproduce inside living cells and damage them.',
+'**Fungi and protists:** can also cause disease. **Communicable diseases:** can pass between organisms.'],
+['**Contact:** hygiene and isolation. **Water or food:** sanitation, clean preparation and thorough cooking.',
+'**Droplets:** reduce exposure and isolate infected people. **Vectors:** prevent bites and breeding.',
+'Vaccination reduces susceptible hosts. Match prevention to the transmission route.'],
+['**Cause and spread:** a virus inhaled in droplets from coughs and sneezes.',
+'**Symptoms:** fever and a red rash. Complications can be fatal.',
+'**Prevention:** childhood vaccination reduces illness and spread.'],
+['**Spread:** sexual contact or exchanged body fluids, including blood on shared needles. Initial illness is flu-like.',
+'HIV attacks immune cells. **AIDS:** late-stage damage leaves the body unable to deal with other infections or cancers.',
+'Antiretroviral drugs control multiplication. Condoms and avoiding needle sharing reduce spread.'],
+['**Salmonella:** ingested in contaminated food. Bacteria and toxins cause fever, cramps, vomiting and diarrhoea. Hygiene, cooking and poultry vaccination help.',
+'**Gonorrhoea:** sexual contact. Yellow or green discharge and painful urination. Condoms and effective antibiotics help. Resistant strains limit treatment.'],
+['A **protist** causes recurrent fever and can be fatal. The mosquito is the **vector**, not the pathogen.',
+'The life cycle includes mosquitoes. Nets prevent bites. Controlling breeding reduces vectors.',
+'**Plant examples:** TMV is viral. Rose black spot is fungal. See the plant-health map.']],
+('03 - Infection and response','02-defence-and-vaccination'):[
+['**Skin:** a physical barrier. Antimicrobial substances and clotting at cuts help protect it.',
+'**Nose:** hairs and mucus trap pathogens and particles.',
+'These barriers are **non-specific:** they act against many pathogens.'],
+['**Trachea and bronchi:** mucus traps pathogens. Cilia move mucus to the throat to be swallowed.',
+'**Stomach:** hydrochloric acid kills many swallowed pathogens.'],
+['**Phagocytosis:** engulfing and digesting pathogens.',
+'**Antibodies:** bind specific pathogen antigens and help destroy the pathogen.',
+'**Antitoxins:** neutralise bacterial toxins. Different white cells have different roles.'],
+['An antibody binding site is **complementary** to its antigen, like a key fitting a lock.',
+'**Antibodies:** target antigens. **Antitoxins:** neutralise toxins. These terms are not interchangeable.'],
+['A vaccine introduces dead or inactive pathogens, or their antigens. White cells make **specific antibodies**. Memory cells remain.',
+'Later exposure triggers a **faster, larger antibody response**. Pathogens are destroyed before significant illness develops.'],
+['High uptake leaves fewer susceptible hosts. Transmission falls, helping protect people who cannot be vaccinated.',
+'Evaluate disease reduction against reliable evidence about risk, cost, access and uptake.',
+'Protection is not identical for every person.']],
+('03 - Infection and response','03-medicines-and-antibodies'):[
+['**Antibiotics:** penicillin and other antibiotics kill bacteria. Choose one effective against that bacterium. Resistance makes infections harder to treat.',
+'They do not kill viruses. Viruses reproduce inside cells, making safe targeting difficult.',
+'**Painkillers:** relieve symptoms without killing pathogens.'],
+['**Digitalis:** originally from foxgloves. **Aspirin:** originally from willow.',
+'**Penicillin:** discovered by Alexander Fleming from Penicillium mould.',
+'Most new drugs are synthesised. Natural chemicals may provide starting points.'],
+['Test **toxicity** (harm), **efficacy** (effectiveness) and **dose**.',
+'**Preclinical:** cells, tissues and live animals. **Clinical:** start with low doses in healthy volunteers. Use patients to test effectiveness and find the optimum dose.',
+'Results undergo **peer review** before publication.'],
+['**Placebo:** contains no active drug. **Double-blind:** patients and assessors do not know who receives which treatment.',
+'Random allocation, comparable groups and large samples reduce misleading effects.',
+'Compare recovery rates and side effects, rather than raw counts alone.'],
+['Stimulate mouse lymphocytes with an antigen. Fuse an antibody-producing lymphocyte with a tumour cell to make a **hybridoma**.',
+'Select and clone one hybridoma. It divides and produces antibodies with **one specific binding site**.',
+'Collect and purify the antibodies.'],
+['Specific binding allows pregnancy tests, hormone measurement and pathogen detection. Fluorescent tags locate molecules.',
+'Attach a toxic drug, radioactive substance or growth blocker to target cancer cells.',
+'Targeting reduces unwanted damage. Side effects and unsuitable targets can limit benefit.']],
+('03 - Infection and response','04-plant-health'):[
+['**TMV:** viral mosaic discolouration. Less photosynthesis reduces growth. Limit transfer from infected plants and tools.',
+'**Rose black spot:** fungal purple or black spots. Leaves yellow and fall early, reducing photosynthesis. Wind and water spread spores. Remove infected leaves or use fungicides.'],
+['**Aphids:** feed on sugar-rich sap, reducing growth. They may transmit viruses.',
+'Look for stunted growth, spots, decay, growths, malformed stems or leaves, discolouration and pests.',
+'One symptom may have several possible causes.'],
+['**Nitrate ions:** needed for amino acids and proteins. Shortage causes stunted growth.',
+'**Magnesium ions:** needed for chlorophyll. Shortage causes **chlorosis** and reduces photosynthesis.',
+'Deficiencies are not communicable. Adding minerals cannot cure a virus.'],
+['Compare symptoms with reliable gardening references.',
+'Laboratories identify pathogens. **Monoclonal-antibody kits:** test for specific targets.',
+'Combine evidence. A negative test for one pathogen does not rule out other causes.'],
+['**Physical:** cellulose cell walls, a tough waxy cuticle and dead bark resist entry. Shedding bark can remove pathogens.',
+'**Chemical:** antibacterial substances act against bacteria. Poisons deter herbivores.'],
+['**Thorns and hairs:** deter feeding. **Leaves:** may droop or curl when touched.',
+'**Mimicry:** tricks animals into avoiding plants.',
+'Link each feature to how it protects the plant.']],
+})
+
+TITLE_OVERRIDES={('03 - Infection and response','01-pathogens-and-disease'):{3:'HIV & immune damage'}}
+
+
 def course_panels(topic,item):
     data=deepcopy(item['panels'])
     key=(topic,item['slug'])
     if key in OVERRIDES:
         assert len(data)==len(OVERRIDES[key])
         for p,lines in zip(data,OVERRIDES[key]):p['lines']=lines
+    for index,title in TITLE_OVERRIDES.get(key,{}).items():data[index]["title"]=title
     return prepare_panels(data)
