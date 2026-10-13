@@ -95,7 +95,8 @@
           "height": 251
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "02-cell-processes",
@@ -183,98 +184,98 @@
           "height": 243
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "03-transport-processes",
       "widths": [
-        410,
-        342,
-        308
+        350,
+        358,
+        352
       ],
       "column_heights": [
-        700,
-        726,
-        687
+        715,
+        721,
+        702
       ],
       "panels": [
         {
           "source_panels": [
-            0
-          ],
-          "x": 18,
-          "y": 18,
-          "width": 410,
-          "height": 286
-        },
-        {
-          "source_panels": [
+            0,
             1
           ],
           "x": 18,
-          "y": 316,
-          "width": 410,
-          "height": 185
+          "y": 18,
+          "width": 350,
+          "height": 446
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 18,
+          "y": 476,
+          "width": 350,
+          "height": 273
         },
         {
           "source_panels": [
             2
           ],
-          "x": 18,
-          "y": 513,
-          "width": 410,
-          "height": 229
+          "x": 380,
+          "y": 18,
+          "width": 358,
+          "height": 370
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 380,
+          "y": 400,
+          "width": 358,
+          "height": 349
         },
         {
           "source_panels": [
             4,
             5
           ],
-          "x": 440,
+          "x": 750,
           "y": 18,
-          "width": 342,
-          "height": 452
+          "width": 352,
+          "height": 433
         },
         {
           "source_panels": [
             3
           ],
-          "x": 440,
-          "y": 482,
-          "width": 342,
-          "height": 268
-        },
-        {
-          "source_panels": [
-            6
-          ],
-          "x": 794,
-          "y": 18,
-          "width": 308,
-          "height": 295
-        },
-        {
-          "source_panels": [
-            7
-          ],
-          "x": 794,
-          "y": 325,
-          "width": 308,
-          "height": 396
+          "x": 750,
+          "y": 463,
+          "width": 352,
+          "height": 273
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "osmosis",
+          "purpose": "Equal compartments distinguish water from solute; bidirectional arrows show movement with a larger dilute-to-concentrated net movement."
+        }
+      ]
     },
     {
       "slug": "04-exchange-surfaces",
       "widths": [
-        294,
-        414,
+        354,
+        354,
         352
       ],
       "column_heights": [
-        627,
-        687,
+        721,
+        731,
         700
       ],
       "panels": [
@@ -284,44 +285,44 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 294,
-          "height": 323
+          "width": 354,
+          "height": 248
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 353,
-          "width": 294,
-          "height": 308
+          "y": 278,
+          "width": 354,
+          "height": 471
         },
         {
           "source_panels": [
             2
           ],
-          "x": 324,
+          "x": 384,
           "y": 18,
-          "width": 414,
-          "height": 251
+          "width": 354,
+          "height": 265
         },
         {
           "source_panels": [
             3
           ],
-          "x": 324,
-          "y": 281,
-          "width": 414,
-          "height": 229
+          "x": 384,
+          "y": 295,
+          "width": 354,
+          "height": 221
         },
         {
           "source_panels": [
             4
           ],
-          "x": 324,
-          "y": 522,
-          "width": 414,
-          "height": 207
+          "x": 384,
+          "y": 528,
+          "width": 354,
+          "height": 221
         },
         {
           "source_panels": [
@@ -351,7 +352,14 @@
           "height": 264
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "cubes",
+          "purpose": "A 3 cm cube has three times the drawn side of a 1 cm cube, illustrating the falling surface area to volume ratio."
+        }
+      ]
     },
     {
       "slug": "05-microscopy",
@@ -439,7 +447,8 @@
           "height": 295
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "06-culturing-microorganisms",
@@ -449,7 +458,7 @@
         384
       ],
       "column_heights": [
-        555,
+        709,
         704,
         730
       ],
@@ -461,14 +470,14 @@
           "x": 18,
           "y": 18,
           "width": 302,
-          "height": 273
+          "height": 427
         },
         {
           "source_panels": [
             7
           ],
           "x": 18,
-          "y": 303,
+          "y": 457,
           "width": 302,
           "height": 286
         },
@@ -511,8 +520,14 @@
           "height": 235
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "fission",
+          "purpose": "Bacterial DNA is copied before the cell divides into two; no nucleus or mitotic chromosomes are shown."
+        }
+      ]
     }
-  ],
-  "overview_review": "illustrated-overview-review.json"
+  ]
 }

@@ -8,6 +8,8 @@ from html import escape
 import re, json, math
 from itertools import product
 from functools import lru_cache
+from copy import deepcopy
+from biology_explanatory_figures import drawing, VISUALS, PURPOSES
 from PIL import ImageFont
 
 W, H = 1120, 768
@@ -104,13 +106,18 @@ class LayoutPanel:
                 if self.elements:
                     last=y-LEADING
                     self.elements.append(('divider',last+12,None)); y=last+35
-                heading=g.get('heading') or (source['title'] if len(self.indices)>1 and j==0 else None)
+                heading=g.get('heading') or (source['title'] if len(self.indices)>1 and j==0 and (n>0 or not self.title.lower().startswith(source['title'].lower())) else None)
                 if heading:
                     for row in wrap(heading,width-PAD*2,SUBHEADING,True):
                         self.elements.append(('subheading',y,row_text(row))); y+=24
                 for value in g['lines']:
                     for row in wrap(value,width-PAD*2):
                         self.elements.append(('text',y,row_text(row))); y+=LEADING
+                visual=source.get('visual')
+                if visual and visual['after']==j:
+                    artwork,height=drawing(visual['kind'],width-PAD*2)
+                    top=y-LEADING+18
+                    self.elements.append(('diagram',top,artwork)); y=top+height+LEADING
         self.height=y-LEADING+5+PAD
 
     def svg(self,x,y,color,number):
@@ -119,6 +126,8 @@ class LayoutPanel:
         out.append('</g><g class="section-body">')
         for kind,yy,value in self.elements:
             if kind=='divider':out.append(f'<path class="section-divider" d="M{PAD} {yy}H{self.width-PAD}" stroke="{color}" stroke-opacity=".25" stroke-width="1" fill="none"/>')
+            elif kind=='diagram':
+                out.append(f'<g transform="translate({PAD} {yy})">'+value+'</g>')
             elif kind=='picture':
                 from cell_biology_illustrated_overview import division
                 out.append(f'<g class="concept-illustration" transform="translate(0 {yy-73})">'+division()+'</g>')
@@ -128,6 +137,7 @@ class LayoutPanel:
         return ''.join(out)
 
 def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=None):
+    sources=with_visuals(sources,slug)
     columns=columns or [[0,1],[2,3],[4,5]]
     merged_titles=merged_titles or {}
     listed=[i for col in columns for item in col for i in (item if isinstance(item,tuple) else [item])]
@@ -176,7 +186,20 @@ def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=N
             y+=card.height+GUTTER
         x+=width+GUTTER
     out.append('</svg>')
-    return ''.join(out), {'widths':widths,'column_heights':heights,'panels':layout,'body_pt':round(BODY/W*277/25.4*72,2)}
+    return ''.join(out), {'widths':widths,'column_heights':heights,'panels':layout,'body_pt':round(BODY/W*277/25.4*72,2),'diagrams':[{'source_panel':i,'kind':p['visual']['kind'],'purpose':PURPOSES[p['visual']['kind']]} for i,p in enumerate(sources) if p.get('visual')]}
+
+def with_visuals(sources,slug):
+    sources=deepcopy(sources)
+    for index,(kind,after) in VISUALS.get(slug,{}).items():
+        sources[index]['visual']={'kind':kind,'after':after}
+    if slug=='03-transport-processes':
+        # Counts, particle legend and arrows now carry these relationships visually.
+        sources[2]['groups'][1]['lines']=['**No respiration energy** is needed.']
+    if slug=='02-circulation-and-health':
+        # Named chambers, vessels and both full flow routes are carried by the diagram.
+        # The original complete wording remains in the Markdown/text counterpart.
+        sources[0]['groups']=sources[0]['groups'][2:]
+    return sources
 
 def build_cell_map(item):
     from biology_readable_cell_content import CONTENT, COLUMNS, MERGED

@@ -8,7 +8,8 @@ ROOT=Path(__file__).resolve().parents[1]
 def build(topic):
  folder=ROOT/'Biology - AQA'/topic/'Mind Maps';folder.mkdir(exist_ok=True);files=[];records=[]
  for item in MAPS[topic]:
-  artwork,record=build_map(item['title'],item['slug'],course_panels(topic,item))
+  columns={'02-photosynthesis-practical':[[0,2],[1,3],[4,5]]}.get(item['slug'])
+  artwork,record=build_map(item['title'],item['slug'],course_panels(topic,item),columns=columns)
   records.append(dict(slug=item['slug'],**record))
   path=folder/(item['slug']+'.svg');path.write_text(artwork,encoding='utf-8');files.append(str(path))
   path.with_suffix('.md').write_text('# '+item['title']+'\n\n'+'\n\n'.join('## '+p['title']+'\n\n'+'\n'.join('- '+x for x in p['lines']) for p in item['panels'])+'\n',encoding='utf-8')

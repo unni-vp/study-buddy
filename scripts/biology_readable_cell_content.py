@@ -280,13 +280,13 @@ COLUMNS={
 '00-cell-biology-overview': [[(0,1),3],[(5,2),4],[6,7]],
 '01-cells': [[0,1],[2,3,4],[5,6,7]],
 '02-cell-processes': [[0,1,5],[2,3],[4,6,7]],
-'03-transport-processes': [[0,1,2],[(4,5),3],[6,7]],
+'03-transport-processes': [[(0,1),6],[2,7],[(4,5),3]],
 '04-exchange-surfaces': [[0,1],[2,3,4],[5,6,7]],
 '05-microscopy': [[0,1,5],[2,3,4],[6,7]],
 '06-culturing-microorganisms': [[0,7],[(1,2),3],[(4,5),6]],
 }
 MERGED={
 '00-cell-biology-overview': {(0,1):'Cells & specialisation',(5,2):'Division & stem cells'},
-'03-transport-processes': {(4,5):'Active transport & uses'},
+'03-transport-processes': {(0,1):'Diffusion & rate',(4,5):'Active transport & uses'},
 '06-culturing-microorganisms': {(1,2):'Uncontaminated cultures',(4,5):'Compare antimicrobial discs'},
 }
