@@ -1,0 +1,30 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8525 section 3.6, first exams 2027; local specification v1.3 16 June 2025",
+  "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
+  "specification_pdf_pages": [
+    29,
+    30
+  ],
+  "coverage": [
+    "3.6.1",
+    "3.6.2",
+    "3.6.2.1",
+    "3.6.2.2",
+    "3.6.3"
+  ],
+  "notes": {
+    "source": "Revision Notes/Cyber security - Revision Notes.md",
+    "groups": [
+      "Threats and weak points",
+      "Social engineering and malware",
+      "Protection and testing"
+    ],
+    "review": "Plain-English explanations, supported technical terms, worked applications and complete topic coverage; student-facing specification banners omitted."
+  },
+  "supporting_sources": [
+    "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
+    "https://www.ncsc.gov.uk/guidance/phishing",
+    "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks"
+  ]
+}

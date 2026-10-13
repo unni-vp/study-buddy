@@ -1,0 +1,56 @@
+{
+  "source": "Cyber security - Revision Notes.md",
+  "groups": [
+    {
+      "id": "threats",
+      "title": "Threats and weak points",
+      "description": "Protect systems, accounts and website access.",
+      "icon": "computer-security",
+      "sections": [
+        {
+          "heading": "What cyber security protects"
+        },
+        {
+          "heading": "Weak passwords and access rights"
+        },
+        {
+          "heading": "Removable media and outdated software"
+        },
+        {
+          "heading": "Pharming and fake destinations"
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "Social engineering and malware",
+      "description": "Recognise deception and malicious software.",
+      "icon": "computer-test",
+      "sections": [
+        {
+          "heading": "Social engineering"
+        },
+        {
+          "heading": "Malware"
+        }
+      ]
+    },
+    {
+      "id": "protection",
+      "title": "Protection and testing",
+      "description": "Choose checks, combine defences and find weaknesses.",
+      "icon": "computer-security",
+      "sections": [
+        {
+          "heading": "Authentication and automated-abuse checks"
+        },
+        {
+          "heading": "Layered protection and penetration testing"
+        },
+        {
+          "heading": "Applying a security explanation"
+        }
+      ]
+    }
+  ]
+}

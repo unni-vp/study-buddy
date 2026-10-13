@@ -10,4 +10,8 @@ Use the full official specification in ../00 - Specification. Match every resour
 - Mind Maps: links between ideas in large or complex topics.
 - Questions and Answers: one combined document with each question, its answer and marking points together.
 
-Resources have not yet been authored. Follow the project AGENTS.md and RESOURCE_GUIDELINES.md.
+## Available resources
+
+Revision notes are available from the topic page, organised into three broad reading groups.
+
+Editable source: [Revision notes](Revision%20Notes/Cyber%20security%20-%20Revision%20Notes.md).
