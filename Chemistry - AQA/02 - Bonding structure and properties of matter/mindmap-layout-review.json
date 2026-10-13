@@ -1,0 +1,330 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        406,
+        322,
+        332
+      ],
+      "column_heights": [
+        575,
+        564,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 406,
+          "height": 337
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 367,
+          "width": 406,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 436,
+          "y": 18,
+          "width": 322,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 436,
+          "y": 325,
+          "width": 322,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 770,
+          "y": 18,
+          "width": 332,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 770,
+          "y": 281,
+          "width": 332,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "chem-pairs",
+          "purpose": "Shows the shared pair and the origins of electrons in a covalent bond."
+        }
+      ],
+      "slug": "00-bonding-overview",
+      "title": "Bonding & properties",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        330,
+        350,
+        380
+      ],
+      "column_heights": [
+        476,
+        633,
+        656
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 350,
+          "height": 380
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 410,
+          "width": 350,
+          "height": 257
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 722,
+          "y": 18,
+          "width": 380,
+          "height": 374
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 722,
+          "y": 404,
+          "width": 380,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "chem-lattice",
+          "purpose": "Shows the repeating alternation of oppositely charged ions, rather than separate molecules."
+        }
+      ],
+      "slug": "01-ionic-and-covalent-bonds",
+      "title": "Ionic & covalent bonds",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        338,
+        366,
+        356
+      ],
+      "column_heights": [
+        583,
+        588,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 338,
+          "height": 314
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 366,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 259,
+          "width": 366,
+          "height": 363
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 746,
+          "y": 18,
+          "width": 356,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 746,
+          "y": 294,
+          "width": 356,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "chem-alloy",
+          "purpose": "Compares regular metal layers with layers distorted by different-sized atoms."
+        }
+      ],
+      "slug": "02-structures-and-states",
+      "title": "Structures & states",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        390,
+        318,
+        352
+      ],
+      "column_heights": [
+        727,
+        564,
+        634
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 390,
+          "height": 223
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 253,
+          "width": 390,
+          "height": 496
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 420,
+          "y": 18,
+          "width": 318,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 420,
+          "y": 347,
+          "width": 318,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 338,
+          "width": 352,
+          "height": 330
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "chem-graphite",
+          "purpose": "Distinguishes bonds within carbon sheets from weak forces between them."
+        }
+      ],
+      "slug": "03-carbon-and-nanoparticles",
+      "title": "Carbon & nanoparticles",
+      "source_panels_preserved": 6
+    }
+  ]
+}

@@ -46,14 +46,16 @@ def graphite(w):
     s=''
     # Finite fragment of hexagonal sheets; the network continues beyond this view.
     for row in range(2):
-        cy=27+row*56
+        cy=27+row*65
         for j in range(3):
-            cx=w/2+(j-1)*42
-            points=[(cx+28*math.cos(math.pi/3*k),cy+20*math.sin(math.pi/3*k)) for k in range(6)]
+            cx=w/2+(j-1)*math.sqrt(3)*24
+            points=[(cx+24*math.cos(math.pi/6+math.pi/3*k),cy+24*math.sin(math.pi/6+math.pi/3*k)) for k in range(6)]
             s+=f'<polygon points="{" ".join(f"{x},{y}" for x,y in points)}" fill="none" stroke="{GREEN}" stroke-width="2"/>'
+    s+=f'<path d="M{w/2} 51V68M{w/2-42} 51V68M{w/2+42} 51V68" stroke="{GREEN}" stroke-dasharray="3 4" fill="none"/>'
     s+=arrow(w-32,53,w-9,53,GREEN)
-    s+=label(w/2,126,'Strong bonds within each sheet','middle')+label(w/2,150,'Weak forces between sheets','middle')
-    return s,160
+    s+=label(w/2,140,'Strong bonds within each layer','middle')+label(w/2,164,'Dashed: weak forces between layers','middle')
+    s+=label(w/2,188,'Fragment: network continues','middle')
+    return s,198
 
 def limiting(w):
     s=label(0,18,'Before:','start')+label(0,83,'After:','start')
