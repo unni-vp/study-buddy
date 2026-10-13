@@ -111,7 +111,7 @@ class LayoutPanel:
                     for row in wrap(heading,width-PAD*2,SUBHEADING,True):
                         self.elements.append(('subheading',y,row_text(row))); y+=24
                 for value in g['lines']:
-                    for row in wrap(value,width-PAD*2):
+                    for row in wrap(value,width-PAD*2-source.get('text_reserve',0)):
                         self.elements.append(('text',y,row_text(row))); y+=LEADING
                 visual=source.get('visual')
                 if visual and visual['after']==j:

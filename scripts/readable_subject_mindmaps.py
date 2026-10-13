@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import date
 import json,re,subprocess
 from copy import deepcopy
-from biology_readable_mindmaps import build_map,prepare_panels,plain
+from biology_readable_mindmaps import build_map,prepare_panels,plain,group
 from subject_explanatory_figures import drawing,PURPOSES
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -21,6 +21,18 @@ VISUALS={
  ('Chemistry - AQA',4,'04-electrolysis'):{0:('chem-electrodes',1)},
  ('Chemistry - AQA',5,'00-energy-changes-overview'):{1:('chem-profile',1)},
  ('Chemistry - AQA',5,'01-profiles-and-bond-energies'):{3:('chem-profiles',2)},
+ ('English Literature - Eduqas',1,'00-macbeth-overview'):{1:('lit-downfall',2)},
+ ('English Literature - Eduqas',1,'01-characters-and-relationships'):{2:('lit-partnership',2)},
+ ('English Literature - Eduqas',1,'02-power-and-guilt'):{3:('lit-guilt',2)},
+ ('English Literature - Eduqas',1,'03-deception-and-gender'):{0:('lit-irony',1)},
+ ('English Literature - Eduqas',1,'04-drama-and-exam-writing'):{0:('lit-irony',1)},
+ ('English Literature - Eduqas',2,'00-anthology-overview'):{5:('lit-camera',1)},
+ ('English Literature - Eduqas',2,'01-nature-and-childhood'):{5:('lit-nature',1)},
+ ('English Literature - Eduqas',2,'02-love-and-absence'):{5:('lit-absence',1)},
+ ('English Literature - Eduqas',2,'03-family-and-identity'):{2:('lit-bond',1)},
+ ('English Literature - Eduqas',2,'04-war-and-exclusion'):{4:('lit-return',1)},
+ ('English Literature - Eduqas',2,'05-witnessing-and-trauma'):{2:('lit-camera',1)},
+ ('English Literature - Eduqas',2,'06-home-and-belonging'):{0:('lit-home',1)},
 }
 COLUMNS={
  ('Chemistry - AQA',4,'03-titration'):[[0,3],[1,4],[2,5]],
@@ -29,7 +41,7 @@ COLUMNS={
 def colon_labels(value):
     # Bold a short leading label together with its colon. Leave full sentences alone.
     match=re.match(r'^([^:*]{1,42}):\s+(.*)$',value)
-    if match and len(match[1].split())<=6:return '**'+match[1]+':** '+match[2]
+    if match and '. ' not in match[1] and len(match[1].split())<=6:return '**'+match[1]+':** '+match[2]
     return value
 
 def clarify_associations(value):
@@ -51,10 +63,18 @@ def build(subject,topics,maps,n):
     for item in maps[n]:
         source=prepare_panels(item['panels'])
         for panel in source:
+            if subject!='Chemistry - AQA':panel['text_reserve']=12
             if panel['title'] in ('Evidence → decision','Charge → formula'):
                 panel['title']=panel['title'].replace(' → ',' & ')
             for g in panel['groups']:g['lines']=[colon_labels(clarify_associations(t)) for t in g['lines']]
         key=(subject,n,item['slug'])
+        if key==('English Literature - Eduqas',1,'00-macbeth-overview'):
+            source[0]['groups']=[group(
+                '**Act 1:** prophecy and choice.',
+                '**Act 2:** Duncan murdered. Macbeth crowned.',
+                '**Act 3:** Banquo killed. Fleance escapes. Ghost at banquet.',
+                '**Act 4:** misleading assurances. Macduff’s family killed.',
+                '**Act 5:** Lady Macbeth dies. Resistance defeats Macbeth. Malcolm restores rule.')]
         if key==('Chemistry - AQA',4,'03-titration'):
             source[1]['groups'][2]['lines']=['Water left in the burette dilutes the acid.','This changes its concentration.']
         for index,(kind,after) in VISUALS.get(key,{}).items():

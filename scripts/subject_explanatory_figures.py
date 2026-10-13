@@ -128,6 +128,86 @@ PURPOSES={
  'chem-profiles':'Compares the energy levels in exothermic and endothermic profiles.',
 }
 
+def word_card(x,y,w,lines,color=BLUE):
+    h=16+24*len(lines)
+    s=f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="7" fill="{color}" fill-opacity=".06" stroke="{color}"/>'
+    for i,line in enumerate(lines):s+=label(x+w/2,y+24+i*24,line,'middle')
+    return s,h
+
+def downfall(w):
+    s='';cw=(w-24)/3
+    for j,lines in enumerate([['Defender','Protects','Scotland'],['Regicide','Kills','Duncan'],['Tyrant','Attacks','innocents']]):
+        x=j*(cw+12);a,h=word_card(x,0,cw,lines,BLUE if j==0 else ORANGE);s+=a
+        if j<2:s+=arrow(x+cw+2,44,x+cw+10,44)
+    return s,98
+
+def partnership(w):
+    s=label(0,16,'Early:')+label(w/2+8,16,'Later:')
+    a,h=word_card(0,29,w/2-8,['Shared plot','Her direction'],PURPLE);s+=a
+    b,k=word_card(w/2+8,29,w/2-8,['His secret plans','Her isolation'],ORANGE);s+=b
+    s+=label(w/2,125,'Power and knowledge become unequal','middle')
+    return s,135
+
+def guilt(w):
+    s=label(0,16,'Act 2:')+label(w/2+8,16,'Act 5:')
+    a,h=word_card(0,30,w/2-8,['Physical blood','“A little water”'],ORANGE);s+=a
+    b,k=word_card(w/2+8,30,w/2-8,['Imagined stain','“damned spot”'],PURPLE);s+=b
+    s+=label(w/2,124,'Confidence is reversed by lasting guilt','middle')
+    return s,134
+
+def irony(w):
+    a,h=word_card(0,0,w,['Duncan: trusts the welcome'],BLUE)
+    b,k=word_card(0,h+12,w,['Audience: knows the murder plan'],ORANGE)
+    return a+b+label(w/2,h+k+42,'Unequal knowledge creates tension','middle'),h+k+52
+
+def photographer(w):
+    s='';cw=(w-24)/3
+    stages=[['Witness','Painful','events'],['Editor','Selects','images'],['Audience','Brief','response']]
+    for j,lines in enumerate(stages):
+        x=j*(cw+12);a,h=word_card(x,0,cw,lines,[BLUE,PURPLE,ORANGE][j]);s+=a
+        if j<2:s+=arrow(x+cw+2,44,x+cw+10,44)
+    return s,98
+
+def nature(w):
+    a,h=word_card(0,0,w/2-7,['Wordsworth','Memory recalls','lasting pleasure'],GREEN)
+    b,k=word_card(w/2+7,0,w/2-7,['Heaney','Stored fruit','cannot last'],ORANGE)
+    return a+b,98
+
+def absence(w):
+    a,h=word_card(0,0,w/2-7,['Browning','Imagines release','through closeness'],GREEN)
+    b,k=word_card(w/2+7,0,w/2-7,['Kay','Keeps waiting','without resolution'],PURPLE)
+    return a+b,98
+
+def catrin(w):
+    a,h=word_card(0,0,w/2-7,['Childbirth','Physical cord'],BLUE)
+    b,k=word_card(w/2+7,0,w/2-7,['Later conflict','Metaphorical bond'],PURPLE)
+    return a+b+label(w/2,96,'Connection survives the wish to separate','middle'),106
+
+def rejection(w):
+    a,h=word_card(0,0,w,['Pilot returns alive'],GREEN)
+    b,k=word_card(0,60,w,['Family learns silence'],PURPLE)
+    return a+arrow(w/2,44,w/2,57)+b,110
+
+def home(w):
+    a,h=word_card(0,0,w,['Remembered homeland'],BLUE)
+    b,k=word_card(0,60,w,['Return is hoped for, not shown'],GREEN)
+    return a+arrow(w/2,44,w/2,57)+b,110
+
+DRAWINGS.update({'lit-downfall':downfall,'lit-partnership':partnership,'lit-guilt':guilt,'lit-irony':irony,'lit-camera':photographer,'lit-nature':nature,'lit-absence':absence,'lit-bond':catrin,'lit-return':rejection,'lit-home':home})
+MIN_WIDTH.update({'lit-downfall':260,'lit-partnership':298,'lit-guilt':298,'lit-irony':282,'lit-camera':260,'lit-nature':298,'lit-absence':298,'lit-bond':312,'lit-return':260,'lit-home':270})
+PURPOSES.update({
+ 'lit-downfall':'Tracks the changing purpose of Macbeth’s violence through his character arc.',
+ 'lit-partnership':'Compares the couple’s early shared knowledge with later secrecy and isolation.',
+ 'lit-guilt':'Places the early dismissal of guilt beside its later reversal in the washing motif.',
+ 'lit-irony':'Makes the unequal knowledge of Duncan and the audience explicit.',
+ 'lit-camera':'Tracks how witnessed suffering is selected and received in War Photographer.',
+ 'lit-nature':'Compares the different outcomes of remembering nature and trying to preserve fruit.',
+ 'lit-absence':'Compares imagined release with unresolved waiting rather than treating both love poems as identical.',
+ 'lit-bond':'Compares the literal birth cord with the continuing metaphorical bond in Catrin.',
+ 'lit-return':'Shows survival followed by exclusion, rather than equating return with recovery.',
+ 'lit-home':'Distinguishes remembered homeland from a hoped-for return that the poem does not show happening.',
+})
+
 def drawing(kind,width):
     if width<MIN_WIDTH[kind]:raise ValueError('Diagram requires a wider panel: '+kind)
     svg,height=DRAWINGS[kind](width)

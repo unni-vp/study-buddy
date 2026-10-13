@@ -1,0 +1,409 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        434,
+        310,
+        316
+      ],
+      "column_heights": [
+        614,
+        612,
+        599
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 434,
+          "height": 216
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 246,
+          "width": 434,
+          "height": 402
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 464,
+          "y": 18,
+          "width": 310,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 464,
+          "y": 360,
+          "width": 310,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 786,
+          "y": 18,
+          "width": 316,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 786,
+          "y": 303,
+          "width": 316,
+          "height": 330
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "lit-downfall",
+          "purpose": "Tracks the changing purpose of Macbeth’s violence through his character arc."
+        }
+      ],
+      "slug": "00-macbeth-overview",
+      "title": "Macbeth",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        294,
+        442,
+        324
+      ],
+      "column_heights": [
+        640,
+        655,
+        634
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 294,
+          "height": 336
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 366,
+          "width": 294,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 324,
+          "y": 18,
+          "width": 442,
+          "height": 417
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 324,
+          "y": 447,
+          "width": 442,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 778,
+          "y": 18,
+          "width": 324,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 778,
+          "y": 360,
+          "width": 324,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "lit-partnership",
+          "purpose": "Compares the couple’s early shared knowledge with later secrecy and isolation."
+        }
+      ],
+      "slug": "01-characters-and-relationships",
+      "title": "Characters & relationships",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        430,
+        340
+      ],
+      "column_heights": [
+        583,
+        641,
+        555
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 301
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 331,
+          "width": 290,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 430,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 259,
+          "width": 430,
+          "height": 416
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 762,
+          "y": 18,
+          "width": 340,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 762,
+          "y": 281,
+          "width": 340,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "lit-guilt",
+          "purpose": "Places the early dismissal of guilt beside its later reversal in the washing motif."
+        }
+      ],
+      "slug": "02-power-and-guilt",
+      "title": "Power, violence & guilt",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        390,
+        342,
+        328
+      ],
+      "column_heights": [
+        582,
+        590,
+        596
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 390,
+          "height": 357
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 387,
+          "width": 390,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 420,
+          "y": 18,
+          "width": 342,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 420,
+          "y": 294,
+          "width": 342,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 292
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 322,
+          "width": 328,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "lit-irony",
+          "purpose": "Makes the unequal knowledge of Duncan and the audience explicit."
+        }
+      ],
+      "slug": "03-deception-and-gender",
+      "title": "Deception, fate & gender",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        418,
+        306,
+        336
+      ],
+      "column_heights": [
+        617,
+        612,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 418,
+          "height": 379
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 409,
+          "width": 418,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 448,
+          "y": 18,
+          "width": 306,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 448,
+          "y": 360,
+          "width": 306,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 316,
+          "width": 336,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "lit-irony",
+          "purpose": "Makes the unequal knowledge of Duncan and the audience explicit."
+        }
+      ],
+      "slug": "04-drama-and-exam-writing",
+      "title": "Drama & exam writing",
+      "source_panels_preserved": 6
+    }
+  ]
+}
