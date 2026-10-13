@@ -1,5 +1,6 @@
 from literature_qa_writer import q,write_bank
 from literature_quick_revision import macbeth_quick
+from literature_macbeth_enrichment import extra_quick, extended_practice
 
 def passage(s):return '\n\n'+'\n'.join('> '+line for line in s.strip().splitlines())
 items=[
@@ -170,4 +171,7 @@ Macduff offers a different model of courage. **“I must also feel it as a man�
 Malcolm’s testing of Macduff shows greater caution than Duncan’s initial trust. While pretending to be unfit to rule, he names the **“king-becoming graces”** (4.3), including **“justice”** and **“mercy”**, and claims to lack them. These qualities define kingship through moral responsibilities, contrasting with Macbeth’s concern for possession. Malcolm wants to establish whether Macduff puts Scotland before loyalty to an individual. This contrasts with Macbeth’s attempts to eliminate anybody who might challenge him.
 
 The ending restores legitimate rule, but the dead cannot return. Shakespeare makes relief at Macbeth’s defeat coexist with awareness of its cost. Good leadership is associated with responsibility, judgement and concern for others; tyranny treats the country as a means of securing one person’s desires.''')]
-write_bank(1,'Macbeth',macbeth_quick()+items,'The 1- and 2-mark questions are original quick-revision practice, not Eduqas examination question formats. Their practice marks indicate the amount of recall or explanation expected. The sample is June 2019, 2023 and 2024, Component 1, Macbeth Q21–22. Extract analysis occurs in all three papers. Lady Macbeth is the whole-play focus in two (2019 and 2023); sympathy for a chosen character appears in 2024. These overlapping observations describe this small sample, not a forecast. The remaining essays practise character, theme and dramatic-method skills required by the current specification. The Shakespeare essay has 20 literary marks plus 5 for writing accuracy; the extract has 15. AO3 is not assessed in this Shakespeare section.')
+items += extended_practice()
+for item in items:
+ item['aligned_to_notes']='2026-10-13: act quotations, five main character studies and seven separate themes'
+write_bank(1,'Macbeth',macbeth_quick()+extra_quick()+items,'The 1- and 2-mark questions are original quick-revision practice, not Eduqas examination question formats. Their practice marks indicate the amount of recall or explanation expected. The sample is June 2019, 2023 and 2024, Component 1, Macbeth Q21–22. Extract analysis occurs in all three papers. Lady Macbeth is the whole-play focus in two (2019 and 2023); sympathy for a chosen character appears in 2024. These overlapping observations describe this small sample, not a forecast. The remaining essays practise character, theme and dramatic-method skills required by the current specification. The Shakespeare essay has 20 literary marks plus 5 for writing accuracy; the extract has 15. AO3 is not assessed in this Shakespeare section.')

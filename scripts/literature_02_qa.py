@@ -1,11 +1,15 @@
 """All 15 current poems, with short quotation anchors and original analysis."""
 from literature_qa_writer import q,write_bank
 from literature_quick_revision import poetry_quick
+from literature_poetry_enrichment import enrich_single_answer, enrich_comparison_answer, poem_detail
 ANTHOLOGY='../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf'
 items=[]
 def single(title,poet,page,focus,answer):
  prompt=f'Read [{title}]({ANTHOLOGY}#page={page}) by {poet}. How does the poet present {focus}? Refer to language, form, structure and relevant context.'
- items.append(q(15,prompt,answer,'Current 2027 anthology: '+title+'; single-poem format verified in 2019/2023/2024 Q71'))
+ item=q(15,prompt,enrich_single_answer(title,answer),'Current 2027 anthology: '+title+'; single-poem format verified in 2019/2023/2024 Q71')
+ item['poems']=[title]
+ item['aligned_to_notes']='2026-10-13: poet/poem context, content, quotation evidence, language and imagery, worked close analysis'
+ items.append(item)
 
 single('The Schoolboy','William Blake',6,'the child’s experience of growing up', '''Blake presents childhood as a period of natural energy that can be damaged by fearful adult control. The child's unhappiness at school is therefore more than a complaint about an unpleasant day: it raises a question about future development.
 
@@ -167,9 +171,15 @@ Two unequal free-verse stanzas move from narrative into reflection. The title ec
 
 The final “good ending” invites readers to connect the relationship with the speaker herself. The romance may not have lasted, but its consequences cannot be measured only by permanence. Ewing ends with an affectionate reassessment rather than a demand for a flawless family story.''')
 
+COMPARISON_PAIRS={'I Wandered Lonely as a Cloud':'Blackberry Picking','Sonnet 29':'Dusting the Phone','The Schoolboy':'Catrin','Disabled':'Kamikaze','Remains':'War Photographer','Decomposition':'War Photographer','I Shall Return':'Drummer Hodge','Cousin Kate':'Origin Story'}
+
 def comparison(first,page,focus,answer,ref):
  prompt=f'Read [{first}]({ANTHOLOGY}#page={page}). Choose one other poem from the anthology that explores {focus}. Compare how the poets present {focus}, considering content, language, form, structure and relevant contexts.'
- items.append(q(25,prompt,answer,ref+'; original task using the current 2027 anthology'))
+ second=COMPARISON_PAIRS[first]
+ item=q(25,prompt,enrich_comparison_answer(first,second,answer),ref+'; original task using the current 2027 anthology')
+ item['poems']=[first,second]
+ item['aligned_to_notes']='2026-10-13: both poems receive relevant context and quotation analysis alongside the comparative argument'
+ items.append(item)
 
 comparison('I Wandered Lonely as a Cloud',8,'experiences of nature', '''Wordsworth's I Wandered Lonely as a Cloud and Heaney's Blackberry Picking both make nature emotionally powerful, but they differ over how pleasure can last. Wordsworth finds an enduring resource in recollection; Heaney exposes the failure of trying to keep a physical possession unchanged.
 

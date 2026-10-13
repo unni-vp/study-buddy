@@ -145,11 +145,17 @@
 
 **Answer:** Blake presents childhood as a period of natural energy that can be damaged by fearful adult control. The child's unhappiness at school is therefore more than a complaint about an unpleasant day: it raises a question about future development.
 
+As a Romantic poet and artist, Blake valued imagination and questioned restrictive institutions. Within Songs of Innocence and of Experience, the child's complaint becomes a challenge to adults responsible for nurturing growth.
+
 The opening birdsong makes the child part of a lively outdoor world. The transition to school removes that sense of company. The “cruel eye” reduces authority to a threatening gaze, suggesting that being watched replaces the freedom to explore. Blake's interest in childhood and his resistance to restrictive institutions help explain why the poem gives the child a challenging voice.
 
 The **extended metaphor** of a bird in a cage makes the argument concrete. Singing is natural to the bird, but confinement prevents it. Similarly, a child's curiosity cannot flourish when fear dominates the day. The question challenges adults to explain a system that obstructs the very growth it should support.
 
 The later plant images extend the problem through time. Damaged buds cannot produce the expected fruit. By addressing parents, the speaker connects present treatment with adult responsibility for what follows.
+
+The movement from **‘sweet company’** to **‘drooping sit’** gives the argument a physical shape. Companionship and energy become isolation and a wilting posture. Asking how a bird can **‘Sit in a cage and sing’** makes fearful schooling seem self-defeating: the conditions imposed by adults prevent the expression they should encourage.
+
+The **‘youthful spring’** metaphor extends this damage into the future. Spring is the beginning of growth, so **‘buds are nip’d’** suggests that later flourishing is being prevented at its source. Blake's questions make adults answerable for more than temporary unhappiness; the whole course of a child's development is at stake.
 
 The six patterned stanzas retain something of a song, but their repeated questions make that song increasingly urgent. The poem ends by asking about consequences rather than reassuring the reader. Blake presents healthy growth as something adults must protect, not something they can safely force through restriction.
 
@@ -157,17 +163,25 @@ The six patterned stanzas retain something of a song, but their repeated questio
 
 **Answer:** Wordsworth presents nature as a source of companionship whose value continues through memory. The encounter changes both the speaker's mood during the walk and his later experience of being alone.
 
+Wordsworth's Romantic interest in nature and imagination informs the poem. It reworks a real walk with Dorothy near Ullswater in 1802 into an experience whose value grows through memory; the poetic speaker's loneliness is not a literal account of an unaccompanied walk.
+
 The opening cloud **simile** suggests movement and distance. The speaker wanders without an obvious companion, but the daffodils appear as a “crowd”. This social word turns flowers into company. Their dancing movement gives the landscape energy and makes the speaker seem included in a shared pleasure.
 
 The comparison with stars greatly enlarges the scene. The flowers appear plentiful and almost limitless, encouraging wonder rather than a narrow description of a few plants. Repeated dancing imagery connects the waves, flowers and eventually the heart.
 
 The final stanza changes the time and location. The speaker is now on his couch, and the “inward eye” returns him to the scene. This **metaphor** identifies imagination as the means by which an external experience becomes an internal resource. He did not fully understand its value at the time.
 
+The initial **‘lonely as a cloud’** simile places the speaker at a distance from ordinary human company. Being **‘Continuous as the stars’**, the flowers seem expansive and enduring, while **‘Ten thousand’** communicates wonder through hyperbole. This abundance makes the earlier isolation feel small beside the new companionship.
+
+Crucially, **‘bliss of solitude’** changes the meaning of being alone. The positive noun distinguishes recollection at home from the opening loneliness. Nature has not simply provided one pleasant distraction: imagination now allows the speaker to recover pleasure without returning physically to the lake.
+
 Four regular six-line stanzas and the closing couplet help the poem arrive at satisfaction. Its movement from loneliness to pleasurable solitude reflects Romantic interest in nature, individual feeling and imagination. The ending does not merely repeat the start: being alone has become enjoyable because recollection supplies company and emotional richness.
 
 **33.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13) by Elizabeth Barrett Browning. How does the poet present longing for a loved person? Refer to language, form, structure and relevant context.
 
 **Answer:** Barrett Browning presents longing as energetic and imaginative, but ultimately insufficient without the beloved's presence. The speaker values the real person more highly than the thoughts generated by absence.
+
+Barrett Browning's Victorian love-sonnet sequence is associated with Robert Browning. This poem gives its female speaker an active voice: she values the real beloved more than an elaborate mental substitute.
 
 The **extended metaphor** of vines around a tree initially suggests flourishing love. Thoughts grow and spread, giving desire a living form. Yet their abundance becomes a problem when the greenery hides the wood. Imagination can obscure the person it is supposed to celebrate.
 
@@ -177,11 +191,17 @@ The imagined breaking and falling of the vines makes presence feel like liberati
 
 The **sonnet form** connects the poem with a long tradition of concentrated love poetry. However, the turn does not wait neatly for the conventional octave–sestet boundary; the argument starts changing earlier. The ending reverses the opening emphasis on thinking.
 
+The verbs in **‘thoughts do twine and bud’** make longing seem fertile. Yet **‘wild vines’** develop into greenery that **‘hides the wood’**. The extended metaphor therefore changes from celebrating affection to exposing its problem: thoughts can conceal the person they are meant to represent.
+
+The energetic **‘burst, shattered’** makes imagined reunion a release from that enclosure. The closing **‘I am too near thee’** reverses the opening emphasis on thought. The speaker imagines direct intimacy making the mental substitute unnecessary, so the sonnet moves towards presence rather than praising absence for its own sake.
+
 Its place in Sonnets from the Portuguese, associated with love for Robert Browning, helps explain the personal urgency of this female voice. The final ideal is not endless fantasy but a closeness in which fantasy is no longer needed.
 
 **34.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10) by Christina Rossetti. How does the poet present power in relationships? Refer to language, form, structure and relevant context.
 
 **Answer:** Rossetti presents power as unequal but capable of being challenged through speech and motherhood. The abandoned speaker begins with a story of exploitation, then forces a reassessment of who possesses something valuable.
+
+Rossetti writes within Victorian inequalities of class, inheritance and sexual respectability. Her constructed speaker gives a marginalised woman a forceful voice; the accusation should not be mistaken for an impartial account of Kate's motives.
 
 The lord's status allows him to move the speaker from her cottage into his world and then discard her. The **simile** “changed me like a glove” turns a person into something replaceable. It exposes the imbalance between his freedom to choose and her vulnerability to the consequences.
 
@@ -191,11 +211,17 @@ However, the speaker refuses to accept that reputation proves moral superiority.
 
 The final stanza reveals the son. “My shame, my pride” places social condemnation beside maternal affection, and the prospect of inheritance gives the child significance to the lord. The delayed revelation changes the apparent balance of power.
 
+The distance between **‘cottage maiden’** and **‘plaything’** exposes exploitation. The speaker begins with an ordinary identity but becomes an object for the lord's enjoyment. Later, **‘outcast thing’** shows that the surrounding community also reduces her to a label, while marriage protects Kate from the same judgement.
+
+The ending's **‘To wear his coronet’** connects the son with inheritance. The symbol of noble status makes the lord dependent on something the rejected speaker possesses. This does not erase her suffering, but it changes the apparent balance of power and allows affection and defiance to replace complete defeat.
+
 The patterned storytelling therefore leads to resistance, not complete defeat. Rossetti gives a socially marginalised woman the voice to question the values used against her.
 
 **35.** Read [Drummer Hodge](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=14) by Thomas Hardy. How does the poet present the loss caused by war? Refer to language, form, structure and relevant context.
 
 **Answer:** Hardy presents war through the loss of an ordinary young person, concentrating on displacement and an inadequate burial rather than battlefield glory. Naming Hodge gives attention to someone who might otherwise disappear into a casualty total.
+
+Hardy's Wessex writing attends closely to ordinary rural lives. Set during the Second Boer War, this poem makes a young English soldier's displacement the centre of its response to war, rather than celebrating imperial success.
 
 The opening verb “throw” makes the burial sound hurried and impersonal. “Uncoffined” emphasises the absence of a familiar sign of care. These details challenge any expectation that military death will necessarily bring honour or ceremony.
 
@@ -203,11 +229,15 @@ The landscape then becomes central. Local terms and unfamiliar constellations su
 
 The three six-line stanzas move through present burial, past origins and future incorporation into the land. Their regular rhyme gives a lasting order to a life whose ending was abrupt. It is as though the poem supplies some of the attention missing from the burial.
 
+The contrast between **‘Young Hodge’** and **‘Wessex home’** restores an individual background to the abruptly buried casualty. Naming his age and origins makes clear that something particular has been lost. The **‘strange-eyed constellations’** personify the foreign sky as unfamiliar watchers, extending displacement beyond the ground beneath him. The final natural transformation cannot return him to the world he knew.
+
 In the final stanza, the possibility of becoming part of a tree offers natural continuity. However, “for ever” also makes separation permanent. This is not a return to the home he knew. Hardy allows connection with nature to coexist with the irreversible loss of a young life, leaving readers with a restrained rather than triumphant ending.
 
 **36.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16) by Wilfred Owen. How does the poet present the consequences of war? Refer to language, form, structure and relevant context.
 
 **Answer:** Owen presents war as a rupture between a young man's expectations and his dependent, neglected present. Injury matters, but the poem also exposes the social response that deepens his isolation.
+
+Owen's First World War service informs his challenge to idealised military sacrifice. The poem's veteran is a constructed figure whose changing experience exposes both recruitment's glamour and inadequate care afterwards.
 
 The “ghastly suit of grey” makes the opening scene colourless and deathlike. Memories of lively evenings and attractive surroundings create a sharp **contrast**. The world can still be pleasurable for others, making his sense of exclusion more painful.
 
@@ -217,11 +247,17 @@ Blood also changes meaning. In football it once brought admiration; in battle it
 
 The movement between past and present prevents a smooth progress narrative. Each attractive memory makes the current circumstances harder to bear. The weak welcome home exposes the difference between public enthusiasm for enlistment and practical care for a survivor.
 
+**‘Now he is old’** compresses the damage into an abrupt judgement: war has aged a young person beyond his years. The remembered **‘bloodsmear’** from football once won admiration, so its contrast with wartime blood reveals how poorly that earlier experience prepared him for genuine violence.
+
+**‘Smiling they wrote his lie’** exposes the ease with which recruiters accepted his age claim. The welcome contrasts with others later touching him like **‘some queer disease’**. The closing **‘Why don’t they come?’** leaves care unanswered. Owen directs criticism towards a society that encouraged participation but now deepens the veteran's isolation.
+
 The repeated question at the end leaves him waiting for assistance. Owen withholds comforting closure, directing attention towards an unmet need. The criticism concerns this man's experience and society's treatment of him; it does not require readers to treat disability itself as the loss of human value.
 
 **37.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19) by Claude McKay. How does the poet present feelings about home? Refer to language, form, structure and relevant context.
 
 **Answer:** McKay presents home as a precious source of identity and hoped-for relief. The speaker's confidence in returning is strong, but the final admission of pain shows why that confidence needs to be repeatedly voiced.
+
+McKay's migration from Jamaica and association with the Harlem Renaissance make cultural belonging relevant to this sonnet from Harlem Shadows. The imagined homeland offers restoration, but the promise of return remains unfulfilled within the poem.
 
 The repeated promise “I shall return” creates determination. Because the return remains in the future, repetition can also sound like self-reassurance. The poem lets certainty of desire coexist with uncertainty about fulfilment.
 
@@ -231,11 +267,17 @@ The poem then moves from nature towards village music and community. “Deliciou
 
 The **Shakespearean sonnet** gives the thought three developing quatrains and a final couplet. That ending reveals the painful separation behind the earlier richness. The promise of return becomes an answer to emotional need.
 
+The imagined **‘wonder-eyes’** and **‘golden noon’** make home precious and capable of renewing perception. **‘dear delicious tunes’** then turns music into something nourishing through blended senses. By moving from landscape towards **‘native life’**, McKay shows that belonging depends on community and culture as well as scenery.
+
+The final **‘long, long years of pain’** reveals what the repeated promise is resisting. Repetition stretches the duration of separation, making the attractive earlier images emotionally necessary. Confidence is therefore complicated by distress: the speaker needs the prospect of home to sustain hope.
+
 McKay's migration from Jamaica and association with the Harlem Renaissance make cultural attachment and displacement relevant contexts. They illuminate the speaker's investment in a homeland without requiring every detail to be a literal autobiography. The poem ends with a desired future, not evidence that the journey has already happened.
 
 **38.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20) by Zulfikar Ghose. How does the poet present attitudes towards suffering? Refer to language, form, structure and relevant context.
 
 **Answer:** Ghose presents a change from detached visual interest to uncomfortable self-criticism. The speaker learns that making a striking image and responding humanely to its subject are not the same achievement.
+
+Ghose grew up in Bombay and later lived across several countries. The poem revisits a photograph in that city, directing attention to the ethical distance between an observer with a camera and a person experiencing poverty.
 
 Initially, the sleeping man's body seems to merge with the pavement. The **metaphor** “fossil man” makes him appear fixed within stone, suggesting both long neglect and a loss of individuality. Yet it also reveals the photographer's way of looking: a living person has become a shape in a composition.
 
@@ -245,11 +287,17 @@ The speaker is not allowed to remain morally separate from that crowd. His earli
 
 Five quatrains in free verse move from description towards reflection. The late shift from past confidence to present shame changes what the reader is asked to value. Technical success as an image-maker no longer settles the ethical question.
 
+The crowd is **‘indifferent’**, although the man is visibly present. Ghose distinguishes seeing someone from caring about them. Calling the photograph a **‘good composition’** repeats that problem at an artistic level: the speaker initially values the arrangement more than the person.
+
+The closing **‘hunger and solitude’** replaces that satisfaction with human need. This ending explains the self-critical turn: aesthetic judgement cannot settle what the photographer owes to his subject. The poem challenges the observer's conduct rather than treating a sleeping man as an interesting symbol of death.
+
 The ending places the man's hardship above the photographer's artistic pride. Ghose therefore explores responsibility in representation: a vulnerable person should not disappear behind the observer's cleverness. The title does not establish that the sleeping man is dead.
 
 **39.** Read [Catrin](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=22) by Gillian Clarke. How does the poet present the mother–daughter relationship? Refer to language, form, structure and relevant context.
 
 **Answer:** Clarke presents the relationship as a continuing negotiation between attachment and independence. The mother's love does not remove conflict; it helps explain why separation feels so intense.
+
+Clarke's Welsh poetry draws on family life and embodied experience. Here a mother's recollection links childbirth with a later disagreement, making an ordinary relationship a serious exploration of attachment and identity.
 
 The remembered birth introduces a struggle in which both mother and child seek to become separate. The **metaphor** “Red rope of love” evokes the umbilical cord while giving the bond emotional force. Its colour links affection with the bodily intensity of childbirth. Connection can sustain people and also make letting go difficult.
 
@@ -259,11 +307,17 @@ The second stanza moves to a later disagreement. The daughter now wants freedom 
 
 The two unequal stanzas therefore connect experiences across years. **Enjambment** carries feeling over line boundaries, while the repeated rope image prevents the time shift from becoming a complete break. Clarke's experience of motherhood provides a relevant context for the intimate direct address.
 
+**‘We want’** makes separation a need shared by mother and child. Wanting **‘to be ourselves’** is not evidence that affection has failed; it identifies a desire for distinct identities. The birth's struggle therefore becomes a model for the adjustments that continue as the daughter grows.
+
+The balanced **‘Neither won nor lost’** refuses to give one person complete victory. **‘Trailing love and conflict’** then places disagreement inside the bond, not outside it. The poem's tension comes from wanting connection and independence at the same time, rather than from a simple opposition between love and hostility.
+
 The ending does not announce a winner. Instead, it shows that growth requires continuing adjustment. The poem recognises both the child's desire to become independent and the mother's difficulty in loosening a deeply felt connection.
 
 **40.** Read [Blackberry Picking](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=24) by Seamus Heaney. How does the poet present disappointment? Refer to language, form, structure and relevant context.
 
 **Answer:** Heaney presents disappointment as the collision between intense desire and an outcome the speaker cannot control. The remembered experience becomes a pattern in which knowledge does not entirely extinguish hope.
+
+Heaney's rural Northern Irish childhood informs the precise setting of this poem from Death of a Naturalist. An older voice revisits childhood collecting, allowing immediate sensory pleasure to become a reflection on desire and disappointment.
 
 At first, sensory detail makes the fruit powerfully attractive. Taste, colour and texture explain why collecting becomes urgent. The rural containers and fields root the memory in an ordinary childhood activity rather than an abstract lesson. Heaney's Northern Irish upbringing helps account for this precise physical setting.
 
@@ -273,11 +327,17 @@ The **stanza break** marks a decisive change. The longer opening section accumul
 
 At the end, “hoped” and “knew” create a compact conflict between feeling and understanding. The speaker recognises the inevitable outcome but repeats the emotional investment each year. This prevents the poem from becoming a simple story of learning a lesson once.
 
+The attractive **‘glossy purple clot’** already mixes sweetness with blood imagery, while **‘lust’** intensifies collecting into appetite. Pleasure is energetic but not completely innocent. The later **‘rat-grey fungus’** reverses the rich colours and makes the stored harvest appear invaded and repulsive.
+
+**‘It wasn’t fair’** sounds like a child's protest against a world that will not preserve what is loved. **‘Each year I hoped’** shows the pattern returning despite knowledge of decay. The conflict is therefore not solved by learning the facts: emotional desire continues to resist the limit the speaker understands.
+
 The adult recollection preserves the experience in language even though the child could not preserve the fruit. Heaney makes disappointment part of a broader encounter with time, desire and the limits of keeping what we love.
 
 **41.** Read [Kamikaze](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=26) by Beatrice Garland. How does the poet present conflict between personal life and duty? Refer to language, form, structure and relevant context.
 
 **Answer:** Garland presents a conflict in which survival itself becomes grounds for punishment. The pilot returns from a mission that expects his death, but the community's response makes continued life socially painful.
+
+Garland's work often connects life and death with the natural world. In this Second World War setting, a daughter imagines why her father abandoned a Japanese suicide mission; her reconstruction does not give certain access to his thoughts.
 
 The ceremonial details at departure connect his personal journey with military honour. Against this, the sea's movement, colours and abundance make ordinary living attractive. The remembered fishing expeditions centre on a father's safe return, quietly opposing the demand that this father should not come back.
 
@@ -287,11 +347,17 @@ The return changes the poem's focus from natural richness to human exclusion. Ch
 
 The seven six-line stanzas give the narrative a visible pattern, while shifting voices and flowing sentences complicate who controls the story. The Second World War kamikaze context explains the pressure to sacrifice an individual life for a national cause.
 
+The stark **‘one-way’** makes the mission's expected death clear. Against this, the **‘green-blue translucent sea’** and remembered **‘pearl-grey pebbles’** give ordinary life and childhood precious value. The natural images offer an alternative meaning of duty: maintaining human bonds may matter more than entering military history.
+
+On returning, the pilot is treated as though he **‘no longer existed’**. Physical survival becomes social erasure. The unresolved **‘better way to die’** makes the ending disturbing because exclusion is compared with literal death. Garland exposes the damage caused when public expectations of honour are enforced inside family life.
+
 The final imagined question leaves physical death and social erasure in painful tension. Garland does not resolve the pilot's thoughts for us. Instead, the poem asks readers to consider what a system of honour costs the families expected to enforce it.
 
 **42.** Read [War Photographer](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=29) by Carol Ann Duffy. How does the poet present responses to the suffering of others? Refer to language, form, structure and relevant context.
 
 **Answer:** Duffy contrasts the photographer's lasting involvement with the limited response of distant spectators. The process of producing a photograph becomes a way of examining what people do with another person's pain.
+
+Duffy's friendships with war photographers informed this poem from Standing Female Nude. Film development and newspaper publication place the private cost of witnessing violence beside the limited response of a distant public.
 
 In the darkroom, the photographer arranges his work in “ordered rows”. The phrase suggests professional control, but what he orders represents disorder and suffering elsewhere. The religious comparison with a “priest” makes the task solemn, as though the images demand respectful attention rather than casual consumption.
 
@@ -301,11 +367,17 @@ As a face emerges in the developing image, a particular memory returns. The poem
 
 Four regular sestets and their rhyme pattern create a formal order beside this disturbance. The film darkroom and newspaper-supplement setting also makes selection important: the editor can publish only a small number of images, and readers may pause briefly before resuming ordinary pleasure.
 
+**‘spools of suffering’** joins professional material with human pain through alliteration. When an image becomes a **‘half-formed ghost’**, development also becomes the return of memory. The photographer cannot treat the film as a neutral object because it contains people whose suffering he witnessed.
+
+**‘A hundred agonies’** contrasts the scale of pain with the few pictures chosen for publication. The blunt **‘they do not care’** then turns the ending towards alienation. Momentary tears cannot match the photographer's enduring connection to the victims, exposing the gap between consuming images and accepting responsibility.
+
 The ending sends the photographer back towards work, suggesting a cycle rather than resolution. Duffy questions a culture in which images circulate widely but compassion may remain short-lived. The photographer is not simply emotionless; his outward discipline and inner distress are deliberately held together.
 
 **43.** Read [Dusting the Phone](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=31) by Jackie Kay. How does the poet present the effects of uncertain love? Refer to language, form, structure and relevant context.
 
 **Answer:** Kay presents uncertain love as a state in which imagination increases anxiety rather than providing comfort. The speaker can recognise the problem but cannot easily step outside it.
+
+Kay's conversational poetry explores intimate relationships through recognisable behaviour. Here an absent lover and a domestic telephone create anxiety; the poem does not establish the lover's gender or a definite reason for the silence.
 
 The opening sets worrying against the possibility of remembering happy moments. This self-awareness makes the voice recognisable: knowing that a habit is unhelpful does not stop it. Both a ringing phone and a silent phone then become evidence of disaster. The repeated “Sirens” gives ordinary domestic experience the sound of an emergency.
 
@@ -315,11 +387,17 @@ The **personified telephone** becomes an object to serve. Polishing and dressing
 
 Free verse allows the sentences to change length and direction. The sequence of tercets is finally broken by an isolated last line, after the speaker's attempted threat falls apart. That structural deflation makes the ending uncertain rather than triumphant.
 
+**‘Silver service’** turns waiting for the telephone into serving it, as if devotion could earn a call. The pun makes dependence comic but also exposes unequal emotional power. The intimate **‘lonely cotton sheets’** gives absence a physical presence within the bedroom.
+
+The direct **‘I am trapped’** makes desire feel like confinement. At the end, **‘Or else. What?’** interrupts a supposed threat with uncertainty. The abrupt question and isolated last line deny the speaker an effective response, so anger does not create the control that waiting has taken away.
+
 The domestic telephone places the poem within recognisable modern communication habits. Kay turns an everyday object into a means of exploring dependence, showing how desired connection can become a source of isolation.
 
 **44.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33) by Simon Armitage. How does the poet present the lasting effects of violence? Refer to language, form, structure and relevant context.
 
 **Answer:** Armitage presents violence as an event that continues inside the survivor after its outward action has ended. The soldier's changing voice reveals both traumatic memory and unresolved responsibility.
+
+Armitage's The Not Dead project drew on veterans' testimonies. The poem shapes a soldier's account into a dramatic monologue, connecting a shooting during service with unresolved distress at home; Armitage is not claiming his own combat experience.
 
 The colloquial opening makes the patrol sound like another episode in a longer conversation. However, “probably armed, possibly not” introduces a doubt that the speaker cannot settle. The uncertainty matters morally because it concerns the threat posed by the person who is shot.
 
@@ -329,11 +407,17 @@ Returning home fails to create a clean boundary. Blinking and sleeping bring the
 
 The dramatic monologue lets the soldier's own speech carry the disturbance. Early references to the group narrow towards a more isolated sense of responsibility. The short final couplet concentrates the ending on what remains personally inescapable.
 
+**‘End of story’** offers closure that the rest of the poem immediately refuses. The remembered victim is later placed behind **‘enemy lines’** inside the speaker's head, transferring military conflict into psychological experience. Leaving the scene has not ended its influence.
+
+The final **‘my bloody hands’** concentrates responsibility in one individual after the shooting's collective account. The possessive makes the guilt difficult to share or escape. The ending therefore connects continuing memory with moral doubt, rather than presenting trauma as only a sequence of frightening pictures.
+
 The poem therefore resists a simple finished-action story. Its speaker can leave the location but cannot resolve the doubt or stop the replay. The poem does not confirm whether the looter was armed; its emotional force depends on that uncertainty remaining open.
 
 **45.** Read [Origin Story](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=35) by Eve L. Ewing. How does the poet present the value of family relationships? Refer to language, form, structure and relevant context.
 
 **Answer:** Ewing presents family value as something that can survive the ending of a romantic relationship. The speaker looks closely at an imperfect past without dismissing either the love or the identity that came from it.
+
+Ewing is a Chicago writer whose work includes poetry and comics. Within Electric Arches, comic-book imagery gives an ordinary family history imaginative significance and helps question what makes a relationship valuable.
 
 The opening details give the parents separate young lives before they meet. Their clothes, interests and movement through Chicago make them particular people rather than idealised parental figures. The comic book involved in the meeting then provides the poem's central comparison.
 
@@ -343,6 +427,10 @@ The second stanza therefore complicates the obvious lesson that all damage prove
 
 Two unequal free-verse stanzas move from narrative into reflection. The title echoes a superhero backstory, giving an ordinary family's history imaginative importance. Ewing's Chicago and Black family context helps explain the significance of recording these personal origins.
 
+Beginning with **‘my mother and my father’** makes the romance part of the speaker's identity. The **‘love is like a comic book’** simile grows from the actual object connecting the parents, so the larger argument remains rooted in particular lives rather than a detached comparison.
+
+Being **‘worn thin’** may imply damage, but also repeated use and enjoyment. Against the ideal of untouched preservation, **‘a good ending’** offers a structural reversal: a relationship can fail to last yet still leave something worthwhile. The speaker's existence helps make that reassessment convincing.
+
 The final “good ending” invites readers to connect the relationship with the speaker herself. The romance may not have lasted, but its consequences cannot be measured only by permanence. Ewing ends with an affectionate reassessment rather than a demand for a flawless family story.
 
 ## 25 marks
@@ -350,6 +438,8 @@ The final “good ending” invites readers to connect the relationship with the
 **46.** Read [I Wandered Lonely as a Cloud](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=8). Choose one other poem from the anthology that explores experiences of nature. Compare how the poets present experiences of nature, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Wordsworth's I Wandered Lonely as a Cloud and Heaney's Blackberry Picking both make nature emotionally powerful, but they differ over how pleasure can last. Wordsworth finds an enduring resource in recollection; Heaney exposes the failure of trying to keep a physical possession unchanged.
+
+Wordsworth's Romantic interest in nature and imagination informs the poem. It reworks a real walk with Dorothy near Ullswater in 1802 into an experience whose value grows through memory; the poetic speaker's loneliness is not a literal account of an unaccompanied walk. Heaney's rural Northern Irish childhood informs the precise setting of this poem from Death of a Naturalist. An older voice revisits childhood collecting, allowing immediate sensory pleasure to become a reflection on desire and disappointment.
 
 Both poets initially make the natural world inviting. Wordsworth's personified flowers form lively company for a solitary walker. Heaney's sensory descriptions make the berries attractive enough to provoke urgent collecting. However, the responses already differ: Wordsworth watches, whereas Heaney's children gather and hoard. One experience centres on attention; the other develops into an attempt at possession.
 
@@ -359,11 +449,19 @@ Their structural turns make the contrast decisive. Wordsworth's final stanza mov
 
 The contexts help explain these different emphases. Wordsworth's Romantic interest in imagination gives recollection a restorative force. Heaney's remembered rural childhood gives desire a physical setting of fields, containers and storage. The adult speaker can preserve the experience in a poem, but that does not mean the child succeeded in preserving the berries.
 
+Wordsworth's **‘lonely as a cloud’** changes when the flowers appear as a **‘crowd’**, offering company. Heaney's **‘glossy purple clot’** and **‘lust’** also make nature attractive, but introduce bodily appetite and unease. Both create strong desire through imagery; Wordsworth emphasises inclusion, while Heaney exposes wanting to possess what nature offers.
+
+The daffodils are **‘Continuous as the stars’** and number **‘Ten thousand’**, so abundance feels expansive. Heaney's **‘rat-grey fungus’** overturns abundance by consuming the hoarded harvest. The natural world renews Wordsworth's feeling but frustrates the children's attempt to control it.
+
+Wordsworth's **‘inward eye’** creates **‘bliss of solitude’** through recollection. Heaney's **‘It wasn’t fair’** and **‘Each year I hoped’** reveal disappointed desire despite what the speaker **‘knew’**. The difference is between preserving an experience mentally and trying to preserve the living material itself.
+
 Both poems therefore value close attention to ordinary nature. Their difference lies in the kind of permanence available: Wordsworth celebrates an emotional afterlife, while Heaney shows that the material source of pleasure remains vulnerable to time.
 
 **47.** Read [Sonnet 29](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=13). Choose one other poem from the anthology that explores longing in a relationship. Compare how the poets present longing in a relationship, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Barrett Browning's Sonnet 29 and Kay's Dusting the Phone both show absence making thought intense. Yet Browning develops an imagined release through closeness, while Kay leaves the speaker caught in uncertainty.
+
+Barrett Browning's Victorian love-sonnet sequence is associated with Robert Browning. This poem gives its female speaker an active voice: she values the real beloved more than an elaborate mental substitute. Kay's conversational poetry explores intimate relationships through recognisable behaviour. Here an absent lover and a domestic telephone create anxiety; the poem does not establish the lover's gender or a definite reason for the silence.
 
 Both turn an emotional experience into something tangible. In Sonnet 29, thoughts become vines around the beloved tree. Growth communicates the energy of desire, but excessive growth hides the person. In Dusting the Phone, a domestic device becomes the focus of service and attention. The speaker treats it as though it could reward devotion with the wanted call. Both images show a substitute threatening to dominate the relationship it represents.
 
@@ -371,13 +469,19 @@ The speakers also try to assert control. Browning's imperative “Renew thy pres
 
 Form and structure sharpen the difference. Browning uses a traditional sonnet while beginning the turn early. Her argument develops towards an ending that reverses the opening emphasis on thought. Kay's free verse permits conversational fragments and sudden changes of direction. The isolated final line undercuts the attempted ultimatum instead of resolving the wait.
 
-Their contexts support these choices. Browning's poem belongs to a love-sonnet sequence associated with Robert Browning and gives a female speaker an active language of desire. Kay examines intimacy through a modern household telephone, making dependence visible in familiar behaviour. Neither context removes the need to analyse the particular voice rather than assume a complete autobiography.
+Browning's **‘thoughts do twine and bud’** and **‘wild vines’** make longing grow around the beloved until it **‘hides the wood’**. Kay's **‘Silver service’** makes the telephone a substitute demanding devotion. Both images expose absence allowing a representation of the lover to dominate the relationship.
+
+Browning can demand **‘Renew thy presence’** and imagine thoughts falling **‘burst, shattered’**. Kay's repeated **‘Sirens’** and **‘I am trapped’** offer no such release: communication and silence both become alarming. Their different verbs distinguish an imagined route to freedom from recognised dependence.
+
+The sonnet's **‘I am too near thee’** imagines satisfied intimacy. Kay's **‘lonely cotton sheets’** keep absence physically close, while **‘Or else. What?’** defeats the threatened ultimatum. Structure makes the contrast decisive: Browning reverses the opening situation, whereas Kay ends with the problem still active.
 
 Both poems insist that imagined contact is insufficient. The significant difference is the speaker's final position: Browning can envision presence overcoming thought, whereas Kay dramatises a need that remains unanswered.
 
 **48.** Read [The Schoolboy](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=6). Choose one other poem from the anthology that explores freedom and restriction. Compare how the poets present freedom and restriction, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Blake's The Schoolboy and Clarke's Catrin both connect growing up with a struggle for freedom. Blake foregrounds a child's protest against damaging authority, while Clarke explores the emotional difficulty of loosening a loving bond.
+
+As a Romantic poet and artist, Blake valued imagination and questioned restrictive institutions. Within Songs of Innocence and of Experience, the child's complaint becomes a challenge to adults responsible for nurturing growth. Clarke's Welsh poetry draws on family life and embodied experience. Here a mother's recollection links childbirth with a later disagreement, making an ordinary relationship a serious exploration of attachment and identity.
 
 Their speaking positions are crucial. Blake lets the unhappy child challenge adults directly. The “cruel eye” makes authority feel impersonal and threatening, so readers are encouraged to question the conditions imposed on the child. Clarke speaks as a mother remembering childbirth and a later disagreement. Her viewpoint gives the protective adult an inner life as well as acknowledging the daughter's demand for independence.
 
@@ -387,11 +491,19 @@ The movement through time also differs. Blake turns from one unhappy school day 
 
 These choices fit their contexts. Blake's concern with childhood and restrictive institutions gives the poem a protesting force. Clarke makes a mother's bodily and emotional experience worthy of sustained attention, complicating any easy assumption that family authority is either wholly right or wholly oppressive.
 
+Blake contrasts **‘sweet company’** with a **‘cruel eye’** and a child who can only **‘drooping sit’**. Clarke's **‘We want’** and **‘to be ourselves’** show that freedom matters to both people within a family bond. Blake gives authority a threatening face; Clarke presents attachment as a negotiation.
+
+Asking whether a bird can **‘Sit in a cage and sing’**, Blake suggests restriction prevents expression. His **‘youthful spring’** and **‘buds are nip’d’** connect that harm to future growth. Clarke's **‘Red rope of love’** also makes restriction physical, but its connection to childbirth includes care and affection rather than simple confinement.
+
+Clarke's **‘Neither won nor lost’** and **‘Trailing love and conflict’** deny a neat separation between tenderness and disagreement. This complicates Blake's more accusatory questions to adults. Both demand room for growth, but Clarke gives the protective relationship itself emotional value.
+
 Neither ending supplies a neat settlement. Blake's questions demand that adults rethink their treatment of children. Clarke's ordinary final request reveals that independence must be negotiated repeatedly. Both value growth, but Clarke more strongly holds the desire for freedom beside the continuing need for connection.
 
 **49.** Read [Disabled](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=16). Choose one other poem from the anthology that explores isolation after military service. Compare how the poets present isolation after military service, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Owen's Disabled and Garland's Kamikaze present homecoming as something more difficult than physical return. Both expose a gap between the value society claims to place on military service and its treatment of a person who returns outside the expected heroic pattern.
+
+Owen's First World War service informs his challenge to idealised military sacrifice. The poem's veteran is a constructed figure whose changing experience exposes both recruitment's glamour and inadequate care afterwards. Garland's work often connects life and death with the natural world. In this Second World War setting, a daughter imagines why her father abandoned a Japanese suicide mission; her reconstruction does not give certain access to his thoughts.
 
 In Disabled, the veteran's present is set against memories of sport, attraction and public applause. The “ghastly suit of grey” contrasts with the colour of earlier life. People who once encouraged enlistment offer little meaningful support afterwards. Kamikaze instead presents a physically surviving pilot whose decision not to complete a suicide mission leads to deliberate silence. The forms of isolation differ: neglect surrounding injury in Owen, and enforced exclusion in Garland.
 
@@ -401,11 +513,19 @@ Their narrative structures complicate simple judgement. Owen repeatedly interrup
 
 The First World War background of Disabled helps expose the distance between recruitment glamour and care for survivors. The Second World War kamikaze setting makes national duty demand death, so the pilot's return can be interpreted as dishonour by those around him. Neither poem requires us to approve the standards it depicts.
 
+Owen's **‘ghastly suit of grey’** and **‘Now he is old’** contrast present damage with youth; a remembered **‘bloodsmear’** from sport reveals how inadequate earlier glamour was as preparation. Garland's **‘one-way’** makes death the planned outcome from the start, while the **‘green-blue translucent sea’** offers a powerful alternative attraction.
+
+**‘Smiling they wrote his lie’** exposes a society willing to recruit Owen's young character, yet later treating him like **‘some queer disease’**. Garland's family instead erase a survivor as though he **‘no longer existed’**. Injury and disobedience differ, but both poems reveal acceptance becoming conditional on an ideal military role.
+
+The remembered **‘pearl-grey pebbles’** give the pilot's childhood a precious value that cannot protect his homecoming. Owen's **‘Why don’t they come?’** and Garland's **‘better way to die’** both remain unresolved. Neither ending turns physical survival into proof that care or belonging has been restored.
+
 At the end, Owen leaves the veteran waiting for practical help; Garland leaves an imagined question about different forms of death. Both withhold comforting reintegration. Survival is real, but society's response can prevent it from becoming a restored life.
 
 **50.** Read [Remains](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=33). Choose one other poem from the anthology that explores the lasting effects of conflict. Compare how the poets present the lasting effects of conflict, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Armitage's Remains and Duffy's War Photographer both show conflict continuing beyond the place where violence occurred. Their central figures return home, but memory prevents that geographical movement from becoming psychological escape.
+
+Armitage's The Not Dead project drew on veterans' testimonies. The poem shapes a soldier's account into a dramatic monologue, connecting a shooting during service with unresolved distress at home; Armitage is not claiming his own combat experience. Duffy's friendships with war photographers informed this poem from Standing Female Nude. Film development and newspaper publication place the private cost of witnessing violence beside the limited response of a distant public.
 
 The difference in responsibility shapes each poem. The speaker in Remains participated in a shooting and remains uncertain about the threat posed by the victim. The photographer witnesses and records suffering, then faces questions about representing it and communicating it to others. Both carry distress, but the soldier's doubt concerns his own violent action more directly.
 
@@ -415,11 +535,19 @@ Their forms reflect different attempts to contain the experience. Remains uses c
 
 The contexts reinforce the distinction. Armitage's engagement with veterans' accounts draws attention to harm after military service. Duffy's film darkroom and newspaper culture reveal a chain from witness to editor to reader, raising the question of whether recording pain produces lasting concern.
 
+Armitage's **‘probably armed, possibly not’** keeps responsibility uncertain, while the **‘blood-shadow’** makes the incident persist. Duffy's **‘spools of suffering’** and **‘ordered rows’** give pain a professional arrangement. One speaker helped cause a death; the other tries to record deaths without mastering their emotional effect.
+
+The supposed **‘End of story’** is contradicted when the victim occupies **‘enemy lines’** inside the soldier's mind. Duffy's **‘half-formed ghost’** similarly makes an image become a haunting memory. Her **‘priest’** comparison adds moral seriousness to the work, rather than treating recording as a detached technical task.
+
+**‘my bloody hands’** leaves Armitage's speaker with individual guilt. **‘A hundred agonies’** and **‘they do not care’** leave Duffy's photographer facing a public whose limited response cannot match his memories. Lasting distress links the poems, but the nature of responsibility remains different.
+
 Both endings resist closure. The soldier cannot remove the memory, while the photographer returns to a cycle of work and limited public response. The poems suggest that coming home can expose the continuing effects of conflict more clearly, because outward safety contrasts with an experience that remains inwardly active.
 
 **51.** Read [Decomposition](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=20). Choose one other poem from the anthology that explores responses to images of suffering. Compare how the poets present responses to images of suffering, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Ghose's Decomposition and Duffy's War Photographer both question what happens when suffering becomes an image. They agree that seeing a photograph is not automatically the same as responding responsibly, but direct their criticism towards different points in the process.
+
+Ghose grew up in Bombay and later lived across several countries. The poem revisits a photograph in that city, directing attention to the ethical distance between an observer with a camera and a person experiencing poverty. Duffy's friendships with war photographers informed this poem from Standing Female Nude. Film development and newspaper publication place the private cost of witnessing violence beside the limited response of a distant public.
 
 Ghose's speaker begins by describing a sleeping beggar as a striking visual subject. The “fossil man” metaphor merges body and pavement, making neglect visible while also exposing how the observer reduces a person to a pattern. Duffy initially presents the photographer's work as solemn. The comparison with a priest suggests an obligation to attend carefully to human pain rather than merely produce an attractive composition.
 
@@ -429,11 +557,19 @@ However, the photographers occupy different moral positions. Ghose's speaker tur
 
 The structures carry these developments. Ghose moves from a past photograph towards present self-judgement in five free-verse quatrains. Duffy's regular stanzas follow work, memory and publication before returning to another departure. One ending changes the speaker's understanding; the other emphasises a recurring professional cycle.
 
+Ghose's **‘fossil man’** and Duffy's **‘half-formed ghost’** make vulnerable people seem suspended between presence and absence. Ghose questions the observer who liked a **‘good composition’**; Duffy's **‘spools of suffering’** insist that photographic material already carries human pain.
+
+The self-critical **‘glibly’** exposes the shallowness of Ghose's earlier caption. Duffy's **‘ordered rows’** and **‘priest’** comparison instead show an image-maker trying to work carefully and seriously. Their judgements differ: Ghose turns criticism upon his own aesthetic pride, while Duffy stresses the effort and burden of witnessing.
+
+Ghose's **‘indifferent’** crowd resembles Duffy's public who **‘they do not care’**. The ending's **‘hunger and solitude’** and the scale of **‘A hundred agonies’** restore attention to suffering that an image cannot resolve. Both distinguish viewing from responsibility without claiming that making photographs is always worthless.
+
 The urban Bombay scene and the newspaper darkroom both place a camera between vulnerable subjects and more powerful observers. Ultimately, both poems ask what an image-maker or viewer owes to the people represented, beyond admiration of the image itself.
 
 **52.** Read [I Shall Return](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=19). Choose one other poem from the anthology that explores belonging to a place. Compare how the poets present belonging to a place, considering content, language, form, structure and relevant contexts.
 
 **Answer:** McKay's I Shall Return and Hardy's Drummer Hodge both connect identity with landscape, but place their central figures in sharply different relationships to home. McKay's speaker imagines recovering belonging; Hodge's death makes return impossible.
+
+McKay's migration from Jamaica and association with the Harlem Renaissance make cultural belonging relevant to this sonnet from Harlem Shadows. The imagined homeland offers restoration, but the promise of return remains unfulfilled within the poem. Hardy's Wessex writing attends closely to ordinary rural lives. Set during the Second Boer War, this poem makes a young English soldier's displacement the centre of its response to war, rather than celebrating imperial success.
 
 McKay's remembered home is rich in valued colour. “Golden” and “sapphire” make the landscape seem precious, while streams and music suggest participation in a living community. Hardy instead emphasises unfamiliar local features and strange constellations. Hodge is surrounded by a landscape that he never learned to understand. In both poems, geography carries feeling rather than functioning as neutral scenery.
 
@@ -443,11 +579,19 @@ Both poets use patterned forms to give individual feeling weight. McKay's sonnet
 
 Context illuminates why the displacements differ. McKay's migration from Jamaica and association with the Harlem Renaissance make cultural memory and attachment to a homeland significant. Hardy's Second Boer War setting shows an ordinary young person carried abroad by imperial conflict. The same distance from home can therefore involve different kinds of agency and different possibilities of return.
 
+McKay's **‘I shall return’** imagines **‘wonder-eyes’** rediscovering a **‘golden noon’**, making home restorative. Hardy's **‘Young Hodge’** and **‘Wessex home’** establish origins that death has placed beyond recovery. One voice can promise a journey; the other person has no future journey available.
+
+McKay's **‘dear delicious tunes’** and **‘native life’** make belonging cultural as well as geographical. Hardy's **‘strange-eyed constellations’** make the foreign surroundings unfamiliar, while **‘throw’** and **‘Uncoffined’** deny the care associated with a familiar community. Landscape is therefore emotionally different in each poem.
+
+The repetition in **‘long, long years of pain’** reveals the need behind McKay's confidence. Hardy's **‘for ever’** closes off the hoped-for recovery through permanent separation. Both make distance painful, but Hardy's future natural continuity cannot supply the human reunion McKay desires.
+
 Hardy's final tree image suggests incorporation into another landscape, but it cannot restore Hodge's living participation in his own community. McKay preserves that possibility as a hope. Together, the poems show that belonging involves remembered relationships and meanings, not simply occupying a piece of ground.
 
 **53.** Read [Cousin Kate](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf#page=10). Choose one other poem from the anthology that explores family after a relationship ends. Compare how the poets present family after a relationship ends, considering content, language, form, structure and relevant contexts.
 
 **Answer:** Rossetti's Cousin Kate and Ewing's Origin Story both resist judging a family solely by whether a romantic relationship lasts. Each finds value in the child connected with that relationship, but their speakers reach this position through different tones and arguments.
+
+Rossetti writes within Victorian inequalities of class, inheritance and sexual respectability. Her constructed speaker gives a marginalised woman a forceful voice; the accusation should not be mistaken for an impartial account of Kate's motives. Ewing is a Chicago writer whose work includes poetry and comics. Within Electric Arches, comic-book imagery gives an ordinary family history imaginative significance and helps question what makes a relationship valuable.
 
 In Cousin Kate, the abandoned mother's direct address makes the poem confrontational. The lord has “changed me like a glove”, and public judgement compounds his treatment. The simile exposes her reduction to a replaceable possession. Origin Story gives the parents individual histories before their meeting, so an ended romance is approached through affectionate attention rather than primarily through accusation.
 
@@ -456,6 +600,12 @@ Both poems use an object comparison to explore vulnerability. Rossetti's glove s
 Their structures also reframe the past. Rossetti delays the revelation of the son until the final stanza, changing the apparent distribution of power. “My shame, my pride” brings social condemnation into direct conflict with maternal feeling. Ewing moves from the story of a meeting into reflection, then ends by inviting the reader to see the speaker herself as a valuable consequence.
 
 The contextual pressures are different. Victorian respectability and inheritance explain why the unmarried mother faces exclusion and why a son matters to the lord. Ewing's Chicago family history gives personal and Black cultural experience a place within a contemporary poetic account of identity. Her title's comic-book association makes ordinary origins worthy of imaginative attention.
+
+Rossetti's **‘cottage maiden’** becomes a **‘plaything’**, so the relationship begins in unequal power. Ewing's **‘my mother and my father’** gives two particular people a shared place in the speaker's identity. The **‘love is like a comic book’** comparison values their imperfect story without adopting Rossetti's accusatory tone.
+
+The lord has **‘changed me like a glove’**, and society labels the speaker an **‘outcast thing’**. Ewing's **‘love is paper’** also uses a physical object, but fragility does not automatically prove exploitation: being **‘worn thin’** can show intense use and enjoyment. Similar object imagery supports different judgements of damaged relationships.
+
+Rossetti's **‘My shame, my pride’** and **‘To wear his coronet’** make the son a source of affection and leverage against hierarchy. Ewing's **‘a good ending’** also finds value in the next generation, but without a contest over inheritance. Both endings challenge the assumption that a broken romance leaves only failure.
 
 Rossetti ends with defiance against a damaging hierarchy; Ewing offers a gentler reassessment of an imperfect past. Both challenge the assumption that an ended romance leaves only failure, but only Rossetti makes that challenge a direct confrontation with public shame.
 

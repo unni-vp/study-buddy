@@ -12,6 +12,11 @@
       "15-mark extract AO1/AO2",
       "25-mark essay AO1/AO2 plus 5 AO4"
     ],
+    "act_quotation_review": {
+      "reviewed": "2026-10-13",
+      "added_per_act": 3,
+      "primary_source": "Folger Shakespeare Library; speakers and act/scene references checked"
+    },
     "character_and_theme_review": {
       "reviewed": "2026-10-13",
       "characters": [

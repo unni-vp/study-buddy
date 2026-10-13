@@ -68,3 +68,7 @@ body[class*="subject-"] .flashcard-category{background:var(--accent-soft);color:
 .timetable-link{display:inline-flex;align-items:center;gap:8px;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:7px 11px;color:var(--accent);background:white;line-height:1.4}
 .timetable-link svg{width:19px;height:19px;flex-shrink:0}
 .timetable-link:hover{background:#edf4f0;border-color:var(--accent)}
+
+.topic-paper-tags{display:flex;flex-wrap:wrap;gap:5px;line-height:1.3}
+.topic-paper-label{font-size:12px;font-weight:600;color:var(--accent-dark,var(--accent));background:var(--accent-soft,#edf4f0);border:1px solid var(--accent-line,var(--line));border-radius:5px;padding:3px 7px}
+.topic-paper-label.paper-linked{font-weight:400;background:white}

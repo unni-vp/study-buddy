@@ -1,0 +1,24 @@
+{
+  "reviewed": "2026-10-13",
+  "qualification": "GCSE, confirmed course specifications",
+  "source_documents": {
+    "Computer Science - AQA": "Computer Science - AQA/00 - Specification/AQA-8525-specification-2027.pdf",
+    "English Language - Eduqas": "English Language - Eduqas/00 - Specification/Eduqas-C700QS-specification.pdf",
+    "English Literature - Eduqas": "English Literature - Eduqas/00 - Specification/Eduqas-C720QS-specification.pdf",
+    "Maths - Edexcel": "Maths - Edexcel/00 - Specification/Edexcel-1MA1-specification.pdf",
+    "Geography - OCR A": "Geography - OCR A/00 - Specification/OCR-J383-specification.pdf",
+    "French - AQA": "French - AQA/00 - Specification/AQA-8652-specification.pdf",
+    "Biology - AQA": "Biology - AQA/00 - Specification/AQA-8461-specification.pdf",
+    "Chemistry - AQA": "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf",
+    "Physics - AQA": "Physics - AQA/00 - Specification/AQA-8463-specification.pdf"
+  },
+  "interpretation": [
+    "Eduqas Components 1 and 2 are labelled Paper 1 and Paper 2 on the cards. English Language spoken assessment is not labelled as a written Paper 3.",
+    "AQA Computer Science first assessment 2027 places algorithms/programming in Paper 1 and data, systems, networks, security, SQL and impacts in Paper 2.",
+    "Edexcel Maths content is assessed across all three papers.",
+    "OCR Geography Paper 3 draws synoptically on both thematic papers; geographical skills are assessed in all three, and fieldwork is specifically assessed in Paper 3.",
+    "Chemistry Paper 2 may draw on fundamental concepts in sections 4.1–4.3; Physics Paper 2 may draw on energy and electricity concepts. Linked-paper badges identify these cross-references.",
+    "French themes, grammar and vocabulary apply across four papers; sound-symbol correspondence is directly examined in listening/dictation and speaking/reading aloud.",
+    "Science practical and mathematical skills run across both papers."
+  ]
+}

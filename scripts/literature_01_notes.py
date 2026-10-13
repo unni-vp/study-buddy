@@ -43,6 +43,9 @@ Duncan trusts Macbeth just after being betrayed by the previous Cawdor. This cre
 | “unsex me here” | Lady Macbeth, 1.5 | Her command to the spirits rejects the tenderness she associates with femininity. Needing to ask for cruelty also suggests effort and vulnerability. |
 | “innocent flower” / “serpent” | Lady Macbeth, 1.5 | The contrasting images turn hospitality into a disguise for danger. The serpent can also suggest temptation and betrayal. |
 | “vaulting ambition” | Macbeth, 1.7 | The **metaphor** of leaping too far suggests ambition that causes its own fall. Macbeth identifies his dangerous motive himself. |
+| “The instruments of darkness tell us truths” | Banquo, 1.3 | The warning separates truth from good intentions. Banquo recognises the danger Macbeth increasingly ignores. |
+| “To find the mind's construction in the face” | Duncan, 1.4 | A face cannot reveal intention. Macbeth's entrance after this admission makes Duncan's renewed trust dramatically ironic. |
+| “When you durst do it, then you were a man” | Lady Macbeth, 1.7 | She makes masculinity conditional on murder, turning Macbeth's moral doubts into a supposed failure of courage. |
 
 **Turning point:** Macbeth agrees to murder Duncan. A possible future becomes a deliberate plan.
 
@@ -70,6 +73,9 @@ Keeping Duncan's murder offstage concentrates attention on anticipation and afte
 | “all great Neptune's ocean” | Macbeth, 2.2 | The enormous scale is **hyperbole**: even an ocean seems unable to remove his guilt. |
 | “A little water clears us of this deed” | Lady Macbeth, 2.2 | “Little” minimises the crime. Her practical confidence contrasts with Macbeth's distress and prepares the later reversal in her sleepwalking. |
 | “Wake Duncan with thy knocking. I would thou couldst.” | Macbeth, 2.2 | The impossible wish reveals regret. The knocking cannot reverse the irreversible act. |
+| “My bosom franchised and allegiance clear” | Banquo, 2.1 | He wants conscience free and loyalty untainted. Advancement should not require moral compromise. |
+| “My father as he slept” | Lady Macbeth, 2.2 | Duncan's resemblance to her father stops her killing him herself. The memory reveals a limit to her performed ruthlessness. |
+| “O horror, horror, horror!” | Macduff, 2.3 | Repetition and exclamation convey genuine shock, contrasting with Macbeth's attempt to hide responsibility. |
 
 **Turning point:** Duncan's death makes Macbeth's ambition real, but kingship begins in fear and concealment.
 
@@ -98,6 +104,9 @@ The ghost can be read as supernatural punishment, a visible expression of guilt,
 | “full of scorpions is my mind” | Macbeth, 3.2 | The **animal imagery** makes anxiety seem painful and poisonous. His thoughts torment him and encourage further violence. |
 | “Thou canst not say I did it” | Macbeth to the ghost, 3.4 | His denial points towards the guilt he tries to escape. Hiring killers does not free him from responsibility. |
 | “I am in blood” | Macbeth, 3.4 | The image of wading through blood presents violence as a condition he is trapped in. He uses this feeling to justify continuing rather than stopping. |
+| “Thou played'st most foully for 't” | Banquo, 3.1 | His private suspicion creates tension beneath public politeness. It is suspicion rather than certain proof. |
+| “Be innocent of the knowledge, dearest chuck” | Macbeth, 3.2 | The command excludes Lady Macbeth from his new plot. Their earlier partnership becomes unequal knowledge and control. |
+| “blood will have blood” | Macbeth, 3.4 | Repetition suggests bloodshed producing retaliation and exposure. Macbeth recognises consequences but continues the violence. |
 
 **Turning point:** Macbeth becomes an isolated ruler whose attempts to protect his crown expose his instability.
 
@@ -125,6 +134,9 @@ The attack on Macduff's family shows how far Macbeth has moved from the soldier 
 | “The very firstlings of my heart” | Macbeth, 4.1 | He decides to turn his first impulses directly into action. Compare this with his extended moral debate before Duncan's murder. |
 | “All my pretty ones?” | Macduff, 4.3 | The affectionate phrase and shocked **question** expose a father's loss, making political violence personal. |
 | “I must also feel it as a man” | Macduff, 4.3 | “Also” joins feeling to action. His definition of masculinity challenges the idea that courage requires emotional hardness. |
+| “Bleed, bleed, poor country!” | Macduff, 4.3 | Scotland is personified as a wounded body. His concern reaches beyond private revenge to national suffering. |
+| “king-becoming graces” | Malcolm, 4.3 | While testing Macduff, he lists the virtues a ruler should possess. Kingship requires moral responsibility, not simply a crown. |
+| “all my pretty chickens” | Macduff, 4.3 | The vulnerable family image exposes the predatory nature of Macbeth's violence and makes grief intensely personal. |
 
 **Turning point:** misleading reassurance makes Macbeth more reckless, while his cruelty strengthens the resistance against him.
 
@@ -153,6 +165,9 @@ The prophecies are fulfilled through meanings Macbeth did not expect. His final 
 | “Untimely ripped” | Macduff, 5.8 | The violent wording reveals the unexpected meaning of the prophecy and destroys Macbeth's confidence in it. |
 | “I will not yield” | Macbeth, 5.8 | The refusal shows continuing defiance after his assurances fail. It can preserve a trace of his soldierly courage without excusing him. |
 | “dead butcher and his fiend-like queen” | Malcolm, final scene | The brutal labels judge the pair by their destructive rule. Compare this public judgement with the complicated private lives Shakespeare has shown. |
+| “the perfumes of Arabia” | Lady Macbeth, 5.1 | The exaggerated scale of possible cleansing recalls Macbeth's ocean. Even imagined fragrance cannot remove her sense of guilt. |
+| “Turn, hellhound, turn!” | Macduff, 5.8 | Repeated imperatives demand confrontation, while animal and religious imagery condemn Macbeth's savagery. |
+| “juggling fiends” | Macbeth, 5.8 | He finally recognises the deceptive promises. Awareness comes too late to undo actions driven by false confidence. |
 
 **Turning point:** Macbeth loses both the crown and the future he tried to force into existence. Lady Macbeth's death is reported rather than shown; Malcolm says she is thought to have taken her own life.
 
@@ -587,4 +602,4 @@ For Shakespeare, the assessed focus is your understanding, analysis and writing 
 ('acts','Story / Acts','Follow each act through its key events, analysis and quotations.','literature-book',['The story in five acts','Act 1 — Temptation and choice','Act 2 — Murder and disorder','Act 3 — Fear and isolation','Act 4 — False confidence and cruelty','Act 5 — Collapse and restoration']),
 ('story','Characters','Explore personalities, motives and relationships.','literature-drama',['Macbeth: from defender to tyrant','Lady Macbeth and the marriage','The witches: temptation and deceptive promises','Banquo: temptation, integrity and a threatening legacy','Macduff: loyalty, grief and resistance','Other characters and the rulers']),
 ('ideas','Themes and dramatic methods','Connect repeated images, choices and audience effects.','literature-drama',['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality','How Shakespeare makes the drama work']),
-('answers','Quotations and essay writing','Turn short evidence into clear, developed arguments.','literature-pen',['A small quotation bank with many uses','Writing about an extract','Building a whole-play argument'])],{'Component 1 Section A':['whole play plot and turning points','act-by-act analysis and key quotations checked against the Folger primary text','major and supporting characters','relationships and development','themes and motifs','language form structure dramatic techniques','15-mark extract AO1/AO2','25-mark essay AO1/AO2 plus 5 AO4'],'character_and_theme_review':{'reviewed':'2026-10-13','characters':['Macbeth','Lady Macbeth','The witches','Banquo','Macduff'],'presentation':'Concise overview, traits, key quotations with short analysis, relationships and central argument','themes':['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality'],'quotations':'Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines'},'primary_text':'https://www.folger.edu/explore/shakespeares-works/macbeth/read/','assessment_sample':['2019 Q21/Q22','2023 Q21/Q22','2024 Q21/Q22']})
+('answers','Quotations and essay writing','Turn short evidence into clear, developed arguments.','literature-pen',['A small quotation bank with many uses','Writing about an extract','Building a whole-play argument'])],{'Component 1 Section A':['whole play plot and turning points','act-by-act analysis and key quotations checked against the Folger primary text','major and supporting characters','relationships and development','themes and motifs','language form structure dramatic techniques','15-mark extract AO1/AO2','25-mark essay AO1/AO2 plus 5 AO4'],'act_quotation_review':{'reviewed':'2026-10-13','added_per_act':3,'primary_source':'Folger Shakespeare Library; speakers and act/scene references checked'},'character_and_theme_review':{'reviewed':'2026-10-13','characters':['Macbeth','Lady Macbeth','The witches','Banquo','Macduff'],'presentation':'Concise overview, traits, key quotations with short analysis, relationships and central argument','themes':['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality'],'quotations':'Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines'},'primary_text':'https://www.folger.edu/explore/shakespeares-works/macbeth/read/','assessment_sample':['2019 Q21/Q22','2023 Q21/Q22','2024 Q21/Q22']})

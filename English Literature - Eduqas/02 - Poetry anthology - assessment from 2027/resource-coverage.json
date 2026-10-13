@@ -2,6 +2,88 @@
   "reviewed": "2026-10-06",
   "specification": "Eduqas C720QS v4 August 2024, assessment 2027",
   "coverage": {
+    "poem_note_review": {
+      "reviewed": "2026-10-13",
+      "sections": [
+        "Poet context",
+        "Poem context",
+        "The poem content",
+        "Key quotations",
+        "Language and imagery",
+        "Form and structure",
+        "Example quotation analysis"
+      ],
+      "quotation_count": {
+        "The Schoolboy — William Blake": 6,
+        "I Wandered Lonely as a Cloud — William Wordsworth": 6,
+        "Blackberry Picking — Seamus Heaney": 6,
+        "Sonnet 29 — Elizabeth Barrett Browning": 6,
+        "Cousin Kate — Christina Rossetti": 6,
+        "Catrin — Gillian Clarke": 5,
+        "Dusting the Phone — Jackie Kay": 5,
+        "Drummer Hodge — Thomas Hardy": 6,
+        "Disabled — Wilfred Owen": 6,
+        "Kamikaze — Beatrice Garland": 5,
+        "War Photographer — Carol Ann Duffy": 6,
+        "Remains — Simon Armitage": 5,
+        "I Shall Return — Claude McKay": 6,
+        "Decomposition — Zulfikar Ghose": 5,
+        "Origin Story — Eve L. Ewing": 5
+      },
+      "context_sources": {
+        "The Schoolboy — William Blake": [
+          "https://www.poetryfoundation.org/poets/william-blake"
+        ],
+        "I Wandered Lonely as a Cloud — William Wordsworth": [
+          "https://www.poetryfoundation.org/poets/william-wordsworth",
+          "https://wordsworth.org.uk/daffodils/"
+        ],
+        "Blackberry Picking — Seamus Heaney": [
+          "https://www.seamusheaney.com/death-of-a-naturalist",
+          "https://www.poetryfoundation.org/poets/seamus-heaney"
+        ],
+        "Sonnet 29 — Elizabeth Barrett Browning": [
+          "https://www.poetryfoundation.org/poets/elizabeth-barrett-browning"
+        ],
+        "Cousin Kate — Christina Rossetti": [
+          "https://www.poetryfoundation.org/poets/christina-rossetti"
+        ],
+        "Catrin — Gillian Clarke": [
+          "https://poetryarchive.org/poet/gillian-clarke/",
+          "https://www.gillianclarke.co.uk/gc2017/poems-a-l/"
+        ],
+        "Dusting the Phone — Jackie Kay": [
+          "https://poetryarchive.org/poet/jackie-kay/"
+        ],
+        "Drummer Hodge — Thomas Hardy": [
+          "https://www.poetryfoundation.org/poets/thomas-hardy"
+        ],
+        "Disabled — Wilfred Owen": [
+          "https://www.poetryfoundation.org/poets/wilfred-owen"
+        ],
+        "Kamikaze — Beatrice Garland": [
+          "https://templarpoetry.com/collections/beatrice-garland"
+        ],
+        "War Photographer — Carol Ann Duffy": [
+          "https://www.poetryfoundation.org/poets/carol-ann-duffy",
+          "https://resource.download.wjec.co.uk/vtc/2024-25/edu/edu24-25_2g-11/pdf/war-photographer-carol-ann-duffy.pdf"
+        ],
+        "Remains — Simon Armitage": [
+          "https://www.simonarmitage.com/works/the-not-dead/"
+        ],
+        "I Shall Return — Claude McKay": [
+          "https://www.poetryfoundation.org/poets/claude-mckay"
+        ],
+        "Decomposition — Zulfikar Ghose": [
+          "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00384&showrequest=0",
+          "https://lifeandletters.la.utexas.edu/2022/12/remembering-uts-world-class-creative-writing-professor-zulfikar-ghose/"
+        ],
+        "Origin Story — Eve L. Ewing": [
+          "https://eveewing.com/"
+        ]
+      },
+      "primary_text": "Official 2027 anthology: all quotations checked in the poem text"
+    },
     "theme_tags": {
       "The Schoolboy — William Blake": [
         "Nature",

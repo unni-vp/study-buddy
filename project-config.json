@@ -12,35 +12,59 @@
       "topics": [
         {
           "reference": "3.1",
-          "title": "Fundamentals of algorithms"
+          "title": "Fundamentals of algorithms",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "3.2",
-          "title": "Programming"
+          "title": "Programming",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "3.3",
-          "title": "Fundamentals of data representation"
+          "title": "Fundamentals of data representation",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3.4",
-          "title": "Computer systems"
+          "title": "Computer systems",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3.5",
-          "title": "Fundamentals of computer networks"
+          "title": "Fundamentals of computer networks",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3.6",
-          "title": "Cyber security"
+          "title": "Cyber security",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3.7",
-          "title": "Relational databases and SQL"
+          "title": "Relational databases and SQL",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3.8",
-          "title": "Ethical legal and environmental impacts"
+          "title": "Ethical legal and environmental impacts",
+          "exam_papers": [
+            2
+          ]
         }
       ]
     },
@@ -50,23 +74,37 @@
       "topics": [
         {
           "reference": "Component 1 Reading",
-          "title": "20th-century fiction reading"
+          "title": "20th-century fiction reading",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "Component 1 Writing",
-          "title": "Creative prose writing"
+          "title": "Creative prose writing",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "Component 2 Reading",
-          "title": "19th and 21st-century non-fiction reading"
+          "title": "19th and 21st-century non-fiction reading",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "Component 2 Writing",
-          "title": "Transactional and persuasive writing"
+          "title": "Transactional and persuasive writing",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "Spoken language",
-          "title": "Speaking listening and discussion"
+          "title": "Speaking listening and discussion",
+          "assessment_label": "Spoken assessment",
+          "exam_papers": []
         }
       ]
     },
@@ -76,23 +114,38 @@
       "topics": [
         {
           "reference": "Component 1 Section A",
-          "title": "Macbeth"
+          "title": "Macbeth",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "Component 1 Section B",
-          "title": "Poetry anthology - assessment from 2027"
+          "title": "Poetry anthology - assessment from 2027",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "Component 2 Section A",
-          "title": "An Inspector Calls"
+          "title": "An Inspector Calls",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "Component 2 Section B",
-          "title": "A Christmas Carol"
+          "title": "A Christmas Carol",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "Component 2 Section C",
-          "title": "Unseen poetry"
+          "title": "Unseen poetry",
+          "exam_papers": [
+            2
+          ]
         }
       ]
     },
@@ -102,27 +155,57 @@
       "topics": [
         {
           "reference": "1",
-          "title": "Number"
+          "title": "Number",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "2",
-          "title": "Algebra"
+          "title": "Algebra",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "3",
-          "title": "Ratio proportion and rates of change"
+          "title": "Ratio proportion and rates of change",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "4",
-          "title": "Geometry and measures"
+          "title": "Geometry and measures",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "5",
-          "title": "Probability"
+          "title": "Probability",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "6",
-          "title": "Statistics"
+          "title": "Statistics",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         }
       ]
     },
@@ -132,35 +215,79 @@
       "topics": [
         {
           "reference": "1.1",
-          "title": "Landscapes of the UK"
+          "title": "Landscapes of the UK",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "1.2",
-          "title": "People of the UK"
+          "title": "People of the UK",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "1.3",
-          "title": "UK environmental challenges"
+          "title": "UK environmental challenges",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "2.1",
-          "title": "Ecosystems of the planet"
+          "title": "Ecosystems of the planet",
+          "exam_papers": [
+            2
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "2.2",
-          "title": "People of the planet"
+          "title": "People of the planet",
+          "exam_papers": [
+            2
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "2.3",
-          "title": "Environmental threats to our planet"
+          "title": "Environmental threats to our planet",
+          "exam_papers": [
+            2
+          ],
+          "linked_exam_papers": [
+            3
+          ]
         },
         {
           "reference": "J383-03",
-          "title": "Geographical skills"
+          "title": "Geographical skills",
+          "exam_papers": [
+            1,
+            2,
+            3
+          ]
         },
         {
           "reference": "Fieldwork",
-          "title": "Physical and human fieldwork"
+          "title": "Physical and human fieldwork",
+          "exam_papers": [
+            3
+          ]
         }
       ]
     },
@@ -170,43 +297,89 @@
       "topics": [
         {
           "reference": "3.1.1",
-          "title": "People and lifestyle"
+          "title": "People and lifestyle",
+          "exam_papers": [
+            1,
+            2,
+            3,
+            4
+          ]
         },
         {
           "reference": "3.1.2",
-          "title": "Popular culture"
+          "title": "Popular culture",
+          "exam_papers": [
+            1,
+            2,
+            3,
+            4
+          ]
         },
         {
           "reference": "3.1.3",
-          "title": "Communication and the world around us"
+          "title": "Communication and the world around us",
+          "exam_papers": [
+            1,
+            2,
+            3,
+            4
+          ]
         },
         {
           "reference": "3.2",
-          "title": "Grammar"
+          "title": "Grammar",
+          "exam_papers": [
+            1,
+            2,
+            3,
+            4
+          ]
         },
         {
           "reference": "3.3 and Appendix 2",
-          "title": "Vocabulary"
+          "title": "Vocabulary",
+          "exam_papers": [
+            1,
+            2,
+            3,
+            4
+          ]
         },
         {
           "reference": "Appendix 1",
-          "title": "Phonics and sound symbol correspondences"
+          "title": "Phonics and sound symbol correspondences",
+          "exam_papers": [
+            1,
+            2
+          ]
         },
         {
           "reference": "Paper 1",
-          "title": "Listening and dictation"
+          "title": "Listening and dictation",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "Paper 2",
-          "title": "Speaking and reading aloud"
+          "title": "Speaking and reading aloud",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "Paper 3",
-          "title": "Reading and translation into English"
+          "title": "Reading and translation into English",
+          "exam_papers": [
+            3
+          ]
         },
         {
           "reference": "Paper 4",
-          "title": "Writing and translation into French"
+          "title": "Writing and translation into French",
+          "exam_papers": [
+            4
+          ]
         }
       ]
     },
@@ -216,39 +389,68 @@
       "topics": [
         {
           "reference": "4.1",
-          "title": "Cell biology"
+          "title": "Cell biology",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.2",
-          "title": "Organisation"
+          "title": "Organisation",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.3",
-          "title": "Infection and response"
+          "title": "Infection and response",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.4",
-          "title": "Bioenergetics"
+          "title": "Bioenergetics",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.5",
-          "title": "Homeostasis and response"
+          "title": "Homeostasis and response",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.6",
-          "title": "Inheritance variation and evolution"
+          "title": "Inheritance variation and evolution",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.7",
-          "title": "Ecology"
+          "title": "Ecology",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3 and 8",
-          "title": "Working scientifically and required practicals"
+          "title": "Working scientifically and required practicals",
+          "exam_papers": [
+            1,
+            2
+          ]
         },
         {
           "reference": "7",
-          "title": "Mathematical requirements"
+          "title": "Mathematical requirements",
+          "exam_papers": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -258,51 +460,98 @@
       "topics": [
         {
           "reference": "4.1",
-          "title": "Atomic structure and the periodic table"
+          "title": "Atomic structure and the periodic table",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.2",
-          "title": "Bonding structure and properties of matter"
+          "title": "Bonding structure and properties of matter",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.3",
-          "title": "Quantitative chemistry"
+          "title": "Quantitative chemistry",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.4",
-          "title": "Chemical changes"
+          "title": "Chemical changes",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.5",
-          "title": "Energy changes"
+          "title": "Energy changes",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.6",
-          "title": "Rate and extent of chemical change"
+          "title": "Rate and extent of chemical change",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.7",
-          "title": "Organic chemistry"
+          "title": "Organic chemistry",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.8",
-          "title": "Chemical analysis"
+          "title": "Chemical analysis",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.9",
-          "title": "Chemistry of the atmosphere"
+          "title": "Chemistry of the atmosphere",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.10",
-          "title": "Using resources"
+          "title": "Using resources",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3 and 8",
-          "title": "Working scientifically and required practicals"
+          "title": "Working scientifically and required practicals",
+          "exam_papers": [
+            1,
+            2
+          ]
         },
         {
           "reference": "7 and Appendix A",
-          "title": "Mathematical requirements and periodic table"
+          "title": "Mathematical requirements and periodic table",
+          "exam_papers": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -312,43 +561,81 @@
       "topics": [
         {
           "reference": "4.1",
-          "title": "Energy"
+          "title": "Energy",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.2",
-          "title": "Electricity"
+          "title": "Electricity",
+          "exam_papers": [
+            1
+          ],
+          "linked_exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.3",
-          "title": "Particle model of matter"
+          "title": "Particle model of matter",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.4",
-          "title": "Atomic structure"
+          "title": "Atomic structure",
+          "exam_papers": [
+            1
+          ]
         },
         {
           "reference": "4.5",
-          "title": "Forces"
+          "title": "Forces",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.6",
-          "title": "Waves"
+          "title": "Waves",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.7",
-          "title": "Magnetism and electromagnetism"
+          "title": "Magnetism and electromagnetism",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "4.8",
-          "title": "Space physics"
+          "title": "Space physics",
+          "exam_papers": [
+            2
+          ]
         },
         {
           "reference": "3 and 8",
-          "title": "Working scientifically and required practicals"
+          "title": "Working scientifically and required practicals",
+          "exam_papers": [
+            1,
+            2
+          ]
         },
         {
           "reference": "7 and Appendix A",
-          "title": "Mathematical requirements and equations"
+          "title": "Mathematical requirements and equations",
+          "exam_papers": [
+            1,
+            2
+          ]
         }
       ]
     }

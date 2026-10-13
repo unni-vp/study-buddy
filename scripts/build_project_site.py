@@ -42,6 +42,20 @@ def resource_icon(kind):
  }
  return '<svg class="resource-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">'+paths[kind]+'</svg>'
 
+def paper_label(papers):
+ if len(papers)==1:return 'Paper '+str(papers[0])
+ if len(papers)>2 and papers==list(range(papers[0],papers[-1]+1)):return f'Papers {papers[0]}–{papers[-1]}'
+ return 'Papers '+' & '.join(str(p) for p in papers)
+
+def topic_paper_tags(topic):
+ papers=topic.get('exam_papers',[])
+ label=paper_label(papers) if papers else topic.get('assessment_label')
+ if not label:raise ValueError('Missing assessment mapping for '+topic['title'])
+ tags=f'<span class="topic-paper-label">{esc(label)}</span>'
+ linked=topic.get('linked_exam_papers',[])
+ if linked:tags+=f'<span class="topic-paper-label paper-linked" title="Selected concepts also support {esc(paper_label(linked))}">{esc(paper_label(linked))} links</span>'
+ return '<div class="topic-paper-tags" aria-label="Assessment papers">'+tags+'</div>'
+
 def link(page,target):return quote(os.path.relpath(target,page.parent).replace('\\','/'),safe='/')
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def short(s):return s.split(' - ')[0]
@@ -147,7 +161,7 @@ for subject,course in subjects.items():
   ready+=bool(count)
   topic_href=link(subjectpage,page)
   progress_key=slug(subject+f'-{i:02d}-'+title)
-  rows.append(f'<article class="topic-row topic-card"><span class="topic-number">{i:02d}</span><a class="topic-card-title" href="{topic_href}"><strong>{esc(title)}</strong></a><div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><label class="topic-completion"><input type="checkbox" data-topic-progress="{esc(progress_key)}" aria-label="Mark {esc(title)} as revised"><span>Revised</span></label><a class="topic-card-arrow" href="{topic_href}" aria-label="Open {esc(title)}">→</a></div></article>')
+  rows.append(f'<article class="topic-row topic-card"><span class="topic-number">{i:02d}</span><a class="topic-card-title" href="{topic_href}"><strong>{esc(title)}</strong></a>{topic_paper_tags(topic)}<div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><label class="topic-completion"><input type="checkbox" data-topic-progress="{esc(progress_key)}" aria-label="Mark {esc(title)} as revised"><span>Revised</span></label><a class="topic-card-arrow" href="{topic_href}" aria-label="Open {esc(title)}">→</a></div></article>')
  total_ready+=ready
  specs=sorted((ROOT/subject/'00 - Specification').glob('*.pdf'))
  docs='<details class="sources"><summary>Official specifications & course references</summary><ul>'+''.join(f'<li><a href="{link(subjectpage,f)}">{esc(f.stem)}</a></li>' for f in specs)
