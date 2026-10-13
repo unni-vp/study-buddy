@@ -144,7 +144,7 @@ def pondweed(w):
     s+=leader('M168 75H225')+label(230,80,'Oxygen')+leader('M195 96L225 113')+label(230,118,'Thermometer')
     s+=leader('M167 166L225 155')+label(230,160,'Pondweed')
     s+=label(w/2,205,'Sodium hydrogencarbonate solution','middle')
-    return s,215
+    return '<g transform="translate(0 -46)">'+s+'</g>',169
 
 DRAWINGS={'osmosis':osmosis,'cubes':cubes,'fission':fission,'enzyme':enzyme,'circulation':circulation,'leaf':leaf,'memory':memory,'hybridoma':hybridoma,'limiting':limiting,'pondweed':pondweed}
 MIN_WIDTH={'osmosis':322,'cubes':285,'fission':266,'enzyme':310,'circulation':310,'leaf':310,'memory':316,'hybridoma':330,'limiting':310,'pondweed':382}

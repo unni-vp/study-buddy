@@ -77,19 +77,20 @@
           "height": 352
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "01-photosynthesis-and-limiting-factors",
       "widths": [
-        314,
-        350,
-        396
+        290,
+        438,
+        332
       ],
       "column_heights": [
-        555,
-        568,
-        550
+        577,
+        714,
+        594
       ],
       "panels": [
         {
@@ -98,68 +99,75 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 314,
-          "height": 308
+          "width": 290,
+          "height": 330
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 338,
-          "width": 314,
+          "y": 360,
+          "width": 290,
           "height": 251
         },
         {
           "source_panels": [
             2
           ],
-          "x": 344,
+          "x": 320,
           "y": 18,
-          "width": 350,
-          "height": 286
+          "width": 438,
+          "height": 242
         },
         {
           "source_panels": [
             3
           ],
-          "x": 344,
-          "y": 316,
-          "width": 350,
-          "height": 286
+          "x": 320,
+          "y": 272,
+          "width": 438,
+          "height": 476
         },
         {
           "source_panels": [
             4
           ],
-          "x": 706,
+          "x": 770,
           "y": 18,
-          "width": 396,
-          "height": 277
+          "width": 332,
+          "height": 299
         },
         {
           "source_panels": [
             5
           ],
-          "x": 706,
-          "y": 307,
-          "width": 396,
-          "height": 277
+          "x": 770,
+          "y": 329,
+          "width": 332,
+          "height": 299
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "limiting",
+          "purpose": "Two schematic curves show the effect of increased carbon dioxide at fixed temperature and chlorophyll."
+        }
+      ]
     },
     {
       "slug": "02-photosynthesis-practical",
       "widths": [
-        334,
-        374,
-        352
+        426,
+        290,
+        344
       ],
       "column_heights": [
-        533,
+        676,
         537,
-        533
+        555
       ],
       "panels": [
         {
@@ -168,56 +176,63 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 334,
-          "height": 273
-        },
-        {
-          "source_panels": [
-            1
-          ],
-          "x": 18,
-          "y": 303,
-          "width": 334,
-          "height": 264
+          "width": 426,
+          "height": 207
         },
         {
           "source_panels": [
             2
           ],
-          "x": 364,
+          "x": 18,
+          "y": 237,
+          "width": 426,
+          "height": 473
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 456,
           "y": 18,
-          "width": 374,
-          "height": 286
+          "width": 290,
+          "height": 264
         },
         {
           "source_panels": [
             3
           ],
-          "x": 364,
-          "y": 316,
-          "width": 374,
-          "height": 255
+          "x": 456,
+          "y": 294,
+          "width": 290,
+          "height": 277
         },
         {
           "source_panels": [
             4
           ],
-          "x": 750,
+          "x": 758,
           "y": 18,
-          "width": 352,
+          "width": 344,
           "height": 251
         },
         {
           "source_panels": [
             5
           ],
-          "x": 750,
+          "x": 758,
           "y": 281,
-          "width": 352,
-          "height": 286
+          "width": 344,
+          "height": 308
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "pondweed",
+          "purpose": "The lamp, submerged plant and funnel, inverted water-filled gas collector and thermometer clarify oxygen collection."
+        }
+      ]
     },
     {
       "slug": "03-respiration-exercise-and-metabolism",
@@ -287,7 +302,8 @@
           "height": 308
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     }
   ]
 }
