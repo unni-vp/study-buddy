@@ -77,7 +77,8 @@
           "height": 286
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "01-pathogens-and-disease",
@@ -147,7 +148,8 @@
           "height": 286
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "02-defence-and-vaccination",
@@ -159,7 +161,7 @@
       "column_heights": [
         489,
         467,
-        489
+        679
       ],
       "panels": [
         {
@@ -205,31 +207,38 @@
           "x": 654,
           "y": 18,
           "width": 448,
-          "height": 251
+          "height": 441
         },
         {
           "source_panels": [
             5
           ],
           "x": 654,
-          "y": 281,
+          "y": 471,
           "width": 448,
           "height": 242
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "memory",
+          "purpose": "Matched schematic axes show the shorter delay and higher antibody response on later exposure."
+        }
+      ]
     },
     {
       "slug": "03-medicines-and-antibodies",
       "widths": [
+        318,
         350,
-        350,
-        360
+        392
       ],
       "column_heights": [
+        612,
         568,
-        568,
-        568
+        730
       ],
       "panels": [
         {
@@ -238,23 +247,23 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 350,
-          "height": 308
+          "width": 318,
+          "height": 352
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 338,
-          "width": 350,
+          "y": 382,
+          "width": 318,
           "height": 264
         },
         {
           "source_panels": [
             2
           ],
-          "x": 380,
+          "x": 348,
           "y": 18,
           "width": 350,
           "height": 308
@@ -263,7 +272,7 @@
           "source_panels": [
             3
           ],
-          "x": 380,
+          "x": 348,
           "y": 338,
           "width": 350,
           "height": 264
@@ -272,22 +281,29 @@
           "source_panels": [
             4
           ],
-          "x": 742,
+          "x": 710,
           "y": 18,
-          "width": 360,
-          "height": 264
+          "width": 392,
+          "height": 463
         },
         {
           "source_panels": [
             5
           ],
-          "x": 742,
-          "y": 294,
-          "width": 360,
-          "height": 308
+          "x": 710,
+          "y": 493,
+          "width": 392,
+          "height": 257
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "hybridoma",
+          "purpose": "Fusion combines antibody production from a lymphocyte with repeated division from a tumour cell."
+        }
+      ]
     },
     {
       "slug": "04-plant-health",
@@ -357,7 +373,8 @@
           "height": 264
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     }
   ]
 }
