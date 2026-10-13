@@ -1,0 +1,340 @@
+{
+  "title": "Working scientifically and required practicals flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is the dependent variable in a concentration experiment measuring gas volume per second?",
+      "back": [
+        "Gas-production rate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a concordant titre mean?",
+      "back": [
+        "A titre closely agreeing with other careful repeat titres."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "At which electrode does reduction occur?",
+      "back": [
+        "Cathode."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which electrical supply is used for electrolysis?",
+      "back": [
+        "DC."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the liquid passing through filter paper called?",
+      "back": [
+        "Filtrate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Why use a pipette filler?",
+      "back": [
+        "To transfer measured liquid safely without mouth pipetting."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a systematic error?",
+      "back": [
+        "A consistent measurement bias or offset."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gas turns limewater milky?",
+      "back": [
+        "Carbon dioxide."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish a control variable from a control experiment.",
+      "back": [
+        "A control variable is a factor kept consistent across trials.",
+        "A control experiment is a comparison used to check the cause of an effect."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why repeat measurements and calculate a mean?",
+      "back": [
+        "Repeats reveal scatter and possible anomalies.",
+        "A mean reduces the influence of **random variation**, but does not fix a consistent bias."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between accuracy and precision.",
+      "back": [
+        "Accuracy is closeness to the true value.",
+        "Precision means repeated results cluster closely; they may still all be biased."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What should happen before deciding to exclude an anomalous result?",
+      "back": [
+        "Check for a procedural or measurement problem and repeat if possible.",
+        "Exclude only with a **justified reason**, since a real difference can also be unusual."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why add excess insoluble copper oxide to acid in salt preparation?",
+      "back": [
+        "It ensures the acid is used up.",
+        "Unreacted insoluble oxide can be removed by **filtration**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why cool a concentrated salt solution instead of evaporating it completely dry?",
+      "back": [
+        "Cooling reduces solubility and allows crystals to form.",
+        "Strong heating to dryness can cause decomposition or unwanted damage/impurities."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A burette reads 1.20 cm³ initially and 21.45 cm³ finally. Calculate titre.",
+      "back": [
+        "Titre = final−initial = 21.45−1.20.",
+        "**20.25 cm³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why add acid dropwise near the titration endpoint?",
+      "back": [
+        "It reduces the chance of overshooting the colour-change endpoint.",
+        "The reacting volume can be measured more accurately."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does distilled water in the conical flask not change the required acid moles?",
+      "back": [
+        "It changes alkali concentration but not the **moles initially pipetted**.",
+        "The same stoichiometric acid amount is therefore still required."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why rinse a burette with the solution it will contain?",
+      "back": [
+        "Residual water could dilute that solution.",
+        "This would create a systematic concentration error in the titration."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the products from aqueous copper sulfate using inert electrodes.",
+      "back": [
+        "Cathode: **copper**.",
+        "Anode: **oxygen**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Where do ions and electrons move in an electrolysis setup?",
+      "back": [
+        "**Ions** move through the liquid electrolyte.",
+        "**Electrons** move through the external wires."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why use insulation and a lid in a temperature-change investigation?",
+      "back": [
+        "They reduce energy exchange with the surrounding room.",
+        "Measured ΔT then better reflects the reaction’s energy transfer."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why compare temperature changes rather than final temperatures alone?",
+      "back": [
+        "Starting temperatures may differ.",
+        "Subtracting each initial value gives the actual rise/fall for that trial."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does a gas-collection leak reduce measured output?",
+      "back": [
+        "Some formed gas escapes instead of entering the collector.",
+        "Recorded volume/rate is therefore underestimated."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why keep total volume constant in the disappearing-cross investigation?",
+      "back": [
+        "It keeps solution depth comparable in the same flask.",
+        "Different depths could hide the cross at different amounts of sulfur, changing endpoint time."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why must both chromatography distances be measured from the baseline?",
+      "back": [
+        "Both numerator and denominator must describe travel from the same starting position.",
+        "Measuring one from the paper edge would give a false Rf ratio."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why use a fresh sample portion for each unknown-ion test?",
+      "back": [
+        "Earlier reagents could introduce interfering ions or products.",
+        "Separate portions reduce contamination and false identification."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is nitric acid used before silver nitrate in a halide test?",
+      "back": [
+        "Acid removes interfering carbonate.",
+        "Nitric acid avoids introducing chloride, which HCl would add."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why cool an evaporating basin before weighing its residue?",
+      "back": [
+        "Hot apparatus can give unstable/inaccurate balance readings and damage equipment.",
+        "Comparable cooled readings give a more reliable residue mass."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does distillation require an open receiver?",
+      "back": [
+        "Vapour must be able to pass and condense without sealing the whole system.",
+        "A sealed receiver can create unsafe pressure buildup."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe how to separate and dry crystals after cooling a salt solution.",
+      "back": [
+        "Filter/separate the crystals from remaining solution.",
+        "Wash with a little **cold distilled water** to remove surface solution while limiting dissolution.",
+        "Dry between filter papers or by a suitable gentle method."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 25.0 cm³ sodium-hydroxide sample reacts with 20.0 cm³ of 0.100 mol dm⁻³ HCl. Calculate NaOH concentration.",
+      "back": [
+        "HCl moles = 0.100 ×0.0200 = **0.00200 mol**.",
+        "HCl:NaOH ratio is 1:1, so alkali moles = 0.00200.",
+        "Concentration = 0.00200/0.0250 = **0.0800 mol dm⁻³**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Convert 0.0800 mol dm⁻³ NaOH into g dm⁻³, showing Mr using Na=23, O=16, H=1.",
+      "back": [
+        "Mr = 23+16+1 = **40**.",
+        "Mass concentration = molar concentration ×Mr.",
+        "0.0800 ×40 = **3.20 g dm⁻³**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why temperature rise can decrease when one reactant is reduced.",
+      "back": [
+        "Less reactant may become limiting, so less reaction occurs.",
+        "Less energy is transferred to the solution.",
+        "For the same total mass and heat capacity, the temperature rise is smaller."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A graph tangent passes through (10 s, 12 cm³) and (50 s, 36 cm³). Calculate gas rate.",
+      "back": [
+        "Volume rise = **24 cm³**.",
+        "Time interval = **40 s**.",
+        "Rate = 24/40 = **0.60 cm³ s⁻¹**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A cross disappears in 60 s, then in 30 s at another concentration. Compare reciprocal-time rates.",
+      "back": [
+        "1/60 ≈ **0.0167 s⁻¹**.",
+        "1/30 ≈ **0.0333 s⁻¹**.",
+        "The second rate proxy is **twice** the first for the same endpoint."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A chromatography spot travels 24 mm and solvent 40 mm. Calculate Rf and state a comparison condition.",
+      "back": [
+        "Rf = 24/40 = **0.60**.",
+        "It has **no unit**.",
+        "Compare references using the **same solvent and stationary phase/conditions**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 100 cm³ water sample leaves 0.20 g residue. Calculate residue concentration in g dm⁻³ and state a limit of the result.",
+      "back": [
+        "Volume = **0.100 dm³**.",
+        "Concentration = 0.20/0.100 = **2.0 g dm⁻³**.",
+        "The result alone does not identify harmful chemicals or microbes, so it cannot prove potable quality."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how peer review and reproducibility help assess a chemical investigation.",
+      "back": [
+        "Reviewers check methods, analysis and whether conclusions follow evidence.",
+        "Independent investigators test whether similar results occur.",
+        "Agreement increases confidence, while errors or limitations can still remain."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a controlled investigation comparing temperature rise at different metal masses in a displacement reaction.",
+      "back": [
+        "Use measured equal solution volumes/concentrations at comparable starting temperatures in insulated cups.",
+        "Add a range of known metal masses with controlled piece size and mixing.",
+        "Record temperatures consistently to find each maximum/change, and repeat.",
+        "Compare ΔT, considering limiting reagent, heat loss and total solution mass; handle chemicals safely."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why a correlation between acid concentration and rate needs a controlled method to support causation.",
+      "back": [
+        "Temperature, solid surface area or volume may also change between trials.",
+        "Each can affect collisions or the measured endpoint.",
+        "Keep these consistent while changing only concentration and repeat.",
+        "Then rate differences are better attributed to concentration, with uncertainty still considered."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a safe aqueous electrolysis investigation with inert electrodes.",
+      "back": [
+        "Place the solution in a suitable vessel and separate inert electrodes.",
+        "Connect to low-voltage DC with named cathode− and anode+.",
+        "Observe/collect small product samples and use suitable gas/metal tests.",
+        "Keep conditions controlled, avoid short circuits and use ventilation/eye protection without inhaling gases."
+      ]
+    }
+  ]
+}

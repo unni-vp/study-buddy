@@ -1,0 +1,84 @@
+{
+  "source": "Working scientifically and required practicals - Revision Notes.md",
+  "groups": [
+    {
+      "id": "investigations",
+      "title": "Investigations and evidence",
+      "description": "Plan valid comparisons and evaluate measurement quality.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "From question to fair investigation"
+        },
+        {
+          "heading": "Measurements, errors and improvements"
+        },
+        {
+          "heading": "Evidence, graphs and conclusions"
+        },
+        {
+          "heading": "Applying practical skills to new questions"
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Salt preparation and titration",
+      "description": "Make crystals and determine reacting quantities accurately.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Preparing a pure dry soluble salt"
+        },
+        {
+          "heading": "Acid–alkali titration"
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "title": "Electrolysis and temperature changes",
+      "description": "Predict products and measure energy-transfer effects.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Electrolysis of aqueous solutions"
+        },
+        {
+          "heading": "Temperature changes in reacting solutions"
+        }
+      ]
+    },
+    {
+      "id": "rates",
+      "title": "Rate investigations",
+      "description": "Compare concentration with gas and turbidity methods.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Concentration and rate: gas volume"
+        },
+        {
+          "heading": "Concentration and rate: turbidity or colour"
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "Chromatography, ions and water",
+      "description": "Separate, identify and purify using valid observations.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Paper chromatography"
+        },
+        {
+          "heading": "Identifying unknown ionic compounds"
+        },
+        {
+          "heading": "Water analysis and purification"
+        }
+      ]
+    }
+  ]
+}

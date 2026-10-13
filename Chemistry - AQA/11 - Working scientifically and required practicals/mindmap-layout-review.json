@@ -1,0 +1,444 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        346,
+        362,
+        352
+      ],
+      "column_heights": [
+        432,
+        454,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 346,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 362,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 259,
+          "width": 362,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-chemistry-practical-overview",
+      "title": "Chemistry investigations and practicals"
+    },
+    {
+      "widths": [
+        338,
+        350,
+        372
+      ],
+      "column_heights": [
+        432,
+        366,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 215,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 730,
+          "y": 18,
+          "width": 372,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 730,
+          "y": 259,
+          "width": 372,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-investigation-skills",
+      "title": "Planning, measurement and evidence"
+    },
+    {
+      "widths": [
+        342,
+        326,
+        392
+      ],
+      "column_heights": [
+        410,
+        388,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 342,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 326,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 215,
+          "width": 326,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 710,
+          "y": 18,
+          "width": 392,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 710,
+          "y": 237,
+          "width": 392,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-salts-and-titration",
+      "title": "Salt preparation and titration"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        432,
+        454,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 281,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-electrolysis-and-temperature",
+      "title": "Electrolysis and temperature investigations"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        388,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-concentration-and-rates",
+      "title": "Concentration-rate investigations"
+    },
+    {
+      "widths": [
+        330,
+        354,
+        376
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 237,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 726,
+          "y": 18,
+          "width": 376,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 726,
+          "y": 215,
+          "width": 376,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-analysis-and-water",
+      "title": "Chromatography, ion tests and water"
+    }
+  ]
+}

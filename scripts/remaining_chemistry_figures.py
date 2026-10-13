@@ -139,12 +139,35 @@ def haber(w):
     s+=label(w/2,259,'Unreacted nitrogen and hydrogen recycled','middle')
     return s,271
 
-RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram,'remaining-chem-greenhouse':greenhouse,'remaining-chem-polymer-links':polymer_links,'remaining-chem-haber':haber}
+def aqueous_cell(w):
+    if w<540:raise ValueError('Aqueous cell needs notes width')
+    left=90;right=w-90;mid=w/2;s=label(mid,16,'DC supply','middle')
+    s+=f'<path d="M{left} 90V52H{mid-10}M{mid+10} 52H{right}V90M{mid-10} 44V60M{mid+10} 36V68" stroke="#687b85" fill="none" stroke-width="2"/>'
+    s+=f'<path d="M42 110V238H{w-42}V110" fill="#e6f1f6" stroke="#829cab"/><rect x="{left-5}" y="90" width="10" height="132" fill="#727c82"/><rect x="{right-5}" y="90" width="10" height="132" fill="#727c82"/>'
+    s+=label(w*.32,141,'Cu²⁺','middle')+arrow(w*.32-20,146,left+8,146)
+    s+=label(w*.66,199,'OH⁻','middle')+arrow(w*.66+22,204,right-8,204)
+    for yy in (173,192,211):s+=f'<circle cx="{left-7}" cy="{yy}" r="4" fill="{ORANGE}"/>'
+    for yy in (126,143,160):s+=f'<circle cx="{right+14}" cy="{yy}" r="4" fill="none" stroke="{BLUE}"/>'
+    s+=label(left,268,'Cathode −: copper','middle')+label(right,268,'Anode +: oxygen','middle')+label(w/2,300,'Copper sulfate solution, inert electrodes','middle')
+    return s,312
+
+def distillation(w):
+    if w<580:raise ValueError('Distillation apparatus needs notes width')
+    s='<circle cx="65" cy="179" r="41" fill="#f4f7fa" stroke="#728d9c" stroke-width="2"/><path d="M55 143V64H75V143" fill="#f4f7fa" stroke="#728d9c" stroke-width="2"/><rect x="53" y="60" width="24" height="12" fill="#91867b"/><path d="M65 33V113" stroke="#b84754" stroke-width="3"/><circle cx="65" cy="113" r="4" fill="#b84754"/><path d="M28 184Q65 174 102 184L99 199Q65 232 31 199Z" fill="#b8dce9"/>'
+    s+='<rect x="199" y="93" width="201" height="49" rx="7" fill="#dcecf6" stroke="#7f9daf"/><path d="M75 110H426L510 183" fill="none" stroke="#6d8898" stroke-width="5"/><path d="M220 93V63M380 142V169" stroke="#7f9daf" stroke-width="4"/><path d="M467 174V239H552V174" stroke="#728d9c" stroke-width="2" fill="none"/><path d="M468 216H551V237H468Z" fill="#dcecf6"/>'
+    s+=label(139,26,'Thermometer')+'<path d="M130 24L68 34" stroke="#697e89"/>'
+    s+=label(255,58,'Cooling water out')+'<path d="M247 56H225" stroke="#697e89"/>'
+    s+=label(420,156,'Cooling water in')+'<path d="M412 152L383 160" stroke="#697e89"/>'
+    s+=label(300,191,'Condenser','middle')+label(65,253,'Heat','middle')+label(509,268,'Distilled water','middle')+label(w/2,300,'Open receiver. Dissolved salts stay in flask.','middle')
+    return s,312
+
+RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram,'remaining-chem-greenhouse':greenhouse,'remaining-chem-polymer-links':polymer_links,'remaining-chem-haber':haber,'remaining-chem-aqueous-cell':aqueous_cell,'remaining-chem-distillation':distillation}
 PURPOSES={'remaining-chem-rate-curves':'Compares rates by slopes while both reactions approach the same limiting-reactant gas yield.','remaining-chem-tangent':'Shows an analytically correct tangent and large triangle for instantaneous gas-production rate.','remaining-chem-equilibrium':'Distinguishes initially unequal forward/reverse rates from equal nonzero rates at dynamic equilibrium.','remaining-chem-gas':'Shows a stoppered reaction flask connected to a graduated gas syringe, with an open moving plunger rather than a blocked collector.'}
 PURPOSES.update({'remaining-chem-alkenes':'Displays every atom and bond in straight-chain representatives of the first four alkenes, keeping carbon valency four.','remaining-chem-additions':'Shows hydrogen, water and bromine adding across ethene’s double bond with the new atoms attached to the correct carbons.','remaining-chem-polymer':'Changes ethene C=C into a single-bond repeating unit with two external chain bonds, brackets and n, preserving all atoms.'})
 PURPOSES['remaining-chem-chromatogram']='Shows separated reference/sample spots with a distinct common baseline and solvent front; the dimensionless Rf is calculated from two distances measured from that baseline.'
 PURPOSES['remaining-chem-greenhouse']='Distinguishes incoming short-wavelength radiation, outgoing infrared escape and absorption/re-emission by greenhouse gases, without depicting a reflecting solid blanket or implying all radiation is trapped.'
 PURPOSES.update({'remaining-chem-polymer-links':'Compares separate polymer chains with covalent cross-links, explaining why heating permits thermosoftening movement but not thermosetting melting.','remaining-chem-haber':'Separates the reactor, ammonia condensation outlet and actual unreacted-gas recycle route in the Haber process.'})
+PURPOSES.update({'remaining-chem-aqueous-cell':'Shows DC electrode polarity, aqueous copper-ion reduction/deposition and hydroxide movement/oxygen formation at inert anode, rather than reusing a molten-salt diagram.','remaining-chem-distillation':'Shows evaporation flask, thermometer at the vapour route, water-cooled condenser and an open receiver; water cooling has separate inlet/outlet from the distilled vapour route.'})
 def wrapper(kind):
     def draw(w):
         s,h=RAW[kind](w);return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+s+'</g>',h

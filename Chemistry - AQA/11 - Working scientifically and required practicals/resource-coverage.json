@@ -1,0 +1,45 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "Working scientifically 1–4",
+    "Apparatus and techniques AT1–AT8",
+    "8.2.1–8.2.8"
+  ],
+  "coverage_checklist": {
+    "WS1–4": "Hypotheses/models/evidence/ethics/risk/peer-review,variables/apparatus/sampling/safety/observations/improvements,data/maths/uncertainty/error/conclusions/vocabulary/units",
+    "RPA1–RPA4": "Pure dry salt,reacting volumes+HTconcentrations,aqueous inert electrolysis/hypothesis/products,solution temperature-variable investigation",
+    "RPA5–RPA8": "Both gas and colour/turbidity concentration methods/hypothesis,chromatography+Rf,all specified unknown ions,water pH/residue/distillation"
+  },
+  "practicals": [
+    "RPA1",
+    "RPA2",
+    "RPA3",
+    "RPA4",
+    "RPA5",
+    "RPA6",
+    "RPA7",
+    "RPA8"
+  ],
+  "mindmaps": [
+    "00-chemistry-practical-overview",
+    "01-investigation-skills",
+    "02-salts-and-titration",
+    "03-electrolysis-and-temperature",
+    "04-concentration-and-rates",
+    "05-analysis-and-water"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Working scientifically and required practicals - Questions and Answers.md",
+    "deck": "Flash Cards/Working scientifically and required practicals - Flash Cards.json",
+    "count": 41,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
