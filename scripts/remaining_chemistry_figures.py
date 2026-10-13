@@ -97,9 +97,20 @@ def addition_polymer(w):
     s+=label(w/2,291,'Poly(ethene) repeating unit','middle')+label(w/2,319,'Same atoms, no small by-product','middle')
     return s,331
 
-RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer}
+def chromatogram(w):
+    if w<350:raise ValueError('Chromatogram needs 350 units')
+    s=label(w/2,16,'Solvent front: dashed line','middle')+f'<rect x="22" y="34" width="{w-44}" height="180" fill="#f7f9f6" stroke="#a7b8ae"/><path d="M22 55H{w-22}" stroke="{BLUE}" stroke-dasharray="5 4"/><path d="M22 185H{w-22}" stroke="#666"/>'
+    xs=[w*.2,w*.5,w*.8]
+    for x,ys in zip(xs,[(107,),(143,),(107,143)]):
+        for y in ys:s+=f'<circle cx="{x}" cy="{y}" r="7" fill="{BLUE if y==107 else ORANGE}"/>'
+    for x,t in zip(xs,'ABC'):s+=label(x,236,t,'middle')
+    s+=label(w/2,265,'Baseline: solid starting line','middle')+label(w/2,293,'A’s Rf = 78 / 130 = 0.60','middle')+label(w/2,321,'C contains spots matching A and B','middle')
+    return s,333
+
+RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram}
 PURPOSES={'remaining-chem-rate-curves':'Compares rates by slopes while both reactions approach the same limiting-reactant gas yield.','remaining-chem-tangent':'Shows an analytically correct tangent and large triangle for instantaneous gas-production rate.','remaining-chem-equilibrium':'Distinguishes initially unequal forward/reverse rates from equal nonzero rates at dynamic equilibrium.','remaining-chem-gas':'Shows a stoppered reaction flask connected to a graduated gas syringe, with an open moving plunger rather than a blocked collector.'}
 PURPOSES.update({'remaining-chem-alkenes':'Displays every atom and bond in straight-chain representatives of the first four alkenes, keeping carbon valency four.','remaining-chem-additions':'Shows hydrogen, water and bromine adding across ethene’s double bond with the new atoms attached to the correct carbons.','remaining-chem-polymer':'Changes ethene C=C into a single-bond repeating unit with two external chain bonds, brackets and n, preserving all atoms.'})
+PURPOSES['remaining-chem-chromatogram']='Shows separated reference/sample spots with a distinct common baseline and solvent front; the dimensionless Rf is calculated from two distances measured from that baseline.'
 def wrapper(kind):
     def draw(w):
         s,h=RAW[kind](w);return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+s+'</g>',h

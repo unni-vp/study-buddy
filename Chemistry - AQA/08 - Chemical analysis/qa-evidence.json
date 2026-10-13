@@ -1,0 +1,326 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "Original practice mapped to the current specification. Reviewed 2023 Paper 2 Higher Q01.4 and Q02.5 for gas tests, Q03.1–03.3 for potassium/bromide methods and instruments, and Q06.1–06.4 for chromatography/Rf/phase attraction. June 2022 and 2023 papers are included as local sources; no frequency ranking is claimed.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What is a chemically pure substance?",
+      "answer": "A single element or compound, not mixed with other substances.",
+      "specification": "4.8.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a formulation?",
+      "answer": "A mixture designed to have useful properties.",
+      "specification": "4.8.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the mobile phase in paper chromatography.",
+      "answer": "The solvent.",
+      "specification": "4.8.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Which gas relights a glowing splint?",
+      "answer": "Oxygen.",
+      "specification": "4.8.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "Which gas bleaches damp litmus white?",
+      "answer": "Chlorine.",
+      "specification": "4.8.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "Which metal ion gives a lilac flame?",
+      "answer": "Potassium.",
+      "specification": "4.8.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Which metal ion gives a crimson flame?",
+      "answer": "Lithium.",
+      "specification": "4.8.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "Which metal ion gives a yellow flame?",
+      "answer": "Sodium.",
+      "specification": "4.8.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "What colour is iron(III) hydroxide precipitate?",
+      "answer": "Brown.",
+      "specification": "4.8.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 1,
+      "prompt": "Which instrumental technique identifies metal ions from emitted spectral lines?",
+      "answer": "Flame emission spectroscopy.",
+      "specification": "4.8.3.7",
+      "evidence": "2023 2H Q03.2",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "Why can “pure milk” still be chemically impure?",
+      "answer": "- Everyday “pure” can mean nothing was added.\n- Milk contains several substances, so it is a **mixture**, not one element or compound.",
+      "specification": "4.8.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "How can melting-point data help identify an impure solid?",
+      "answer": "- Compare with a known pure reference at comparable conditions.\n- Impurity commonly gives a **lower melting point and a melting range**, rather than a sharp reference temperature.",
+      "specification": "4.8.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Why are formulation ingredients carefully measured?",
+      "answer": "- Each component has a purpose.\n- Their proportions control the product’s required properties and consistency.",
+      "specification": "4.8.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why use pencil for a chromatography baseline?",
+      "answer": "- Graphite does not dissolve in the usual solvent.\n- Ink could dissolve and separate, contaminating the chromatogram.",
+      "specification": "4.8.1.3;RPA6",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Why keep the starting spots above solvent level?",
+      "answer": "- Submerged samples could dissolve into the solvent reservoir.\n- They would not begin a controlled separation along the paper from the baseline.",
+      "specification": "RPA6",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "Why mark the solvent front promptly?",
+      "answer": "- Solvent evaporates after the paper is removed.\n- Marking it preserves the travelled distance needed for a valid **Rf** calculation.",
+      "specification": "RPA6",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "A spot moves 4.2 cm and the solvent front 7.0 cm from the baseline. Calculate Rf.",
+      "answer": "- Rf = 4.2/7.0.\n- **0.60**, with no unit.",
+      "specification": "4.8.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a compound can have different Rf values on two papers in the same solvent.",
+      "answer": "- Its attraction to the stationary phases can differ.\n- More time associated with a paper means less movement with solvent and a lower Rf.",
+      "specification": "4.8.1.3",
+      "evidence": "2023 2H Q06.3",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe the hydrogen test and positive result.",
+      "answer": "- Hold a **burning splint** at the open end of a tube containing the gas.\n- Hydrogen burns with a **squeaky pop**.",
+      "specification": "4.8.2.1",
+      "evidence": "2023 2H Q01.4",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe the carbon-dioxide test and result.",
+      "answer": "- Bubble the gas through **limewater**.\n- It turns **milky/cloudy**.",
+      "specification": "4.8.2.3",
+      "evidence": "2023 2H Q02.5",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "State copper’s flame-test colour and sodium-hydroxide precipitate colour.",
+      "answer": "- Flame: **green**.\n- Hydroxide precipitate: **blue**.",
+      "specification": "4.8.3.1;4.8.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "How can aluminium ions be distinguished from calcium or magnesium ions using sodium hydroxide?",
+      "answer": "- All initially give **white precipitates**.\n- Only aluminium’s precipitate **dissolves in excess sodium hydroxide** among these three.",
+      "specification": "4.8.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "State the initial hydroxide-precipitate colours of iron(II) and iron(III).",
+      "answer": "- Iron(II): **green**.\n- Iron(III): **brown**.",
+      "specification": "4.8.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "Which metal ion gives an orange-red flame, and why is a clean loop needed?",
+      "answer": "- **Calcium**.\n- A clean loop prevents previous samples contaminating the colour.",
+      "specification": "4.8.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "State two advantages of instrumental analysis over simple chemical tests.",
+      "answer": "- It can be **more sensitive**, detecting smaller quantities.\n- It can be **rapid and accurate**, with quantitative measurements when calibrated.",
+      "specification": "4.8.3.6",
+      "evidence": "2023 2H Q03.3",
+      "number": 25
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the test for chloride ions.",
+      "answer": "- Acidify a fresh dissolved sample with **dilute nitric acid**.\n- Add **silver nitrate solution**.\n- A **white precipitate** indicates silver chloride.",
+      "specification": "4.8.3.4;RPA7",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the test for bromide ions.",
+      "answer": "- Add **dilute nitric acid** to a fresh solution sample.\n- Add silver nitrate solution.\n- A **cream precipitate** indicates bromide.",
+      "specification": "4.8.3.4",
+      "evidence": "2023 2H Q03.1",
+      "number": 27
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the test for iodide ions.",
+      "answer": "- Acidify with dilute nitric acid.\n- Add silver nitrate solution.\n- A **yellow precipitate** indicates iodide.",
+      "specification": "4.8.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the test for sulfate ions.",
+      "answer": "- Acidify the sample with **dilute hydrochloric acid**.\n- Add **barium chloride solution**.\n- A **white barium sulfate precipitate** indicates sulfate.",
+      "specification": "4.8.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the test for carbonate ions.",
+      "answer": "- Add a suitable **dilute acid** to the sample.\n- Collect/bubble evolved gas into limewater.\n- Limewater turns **milky**, identifying carbon dioxide and supporting carbonate.",
+      "specification": "4.8.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "Why must hydrochloric acid not be used to acidify a halide test?",
+      "answer": "- It introduces **chloride ions**.\n- Silver nitrate would then form white silver chloride precipitate from the reagent itself.\n- Dilute **nitric acid** avoids this false chloride result.",
+      "specification": "4.8.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why one chromatography spot does not always prove purity.",
+      "answer": "- Different compounds may overlap under those conditions.\n- Some components may not dissolve or travel clearly.\n- A different solvent or independent test can help separate/detect them.",
+      "specification": "4.8.1.3",
+      "evidence": "2023 2H Q06.4: related solvent choice",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Write a balanced ionic equation for copper(II) hydroxide formation.",
+      "answer": "- Copper ion: **Cu²⁺**; hydroxide: **OH⁻**.\n- Two hydroxide ions balance charge and give the correct formula.\n- **Cu²⁺(aq)+2OH⁻(aq) →Cu(OH)₂(s)**.",
+      "specification": "4.8.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how flame emission spectroscopy identifies ions and measures concentration.",
+      "answer": "- Put the sample in a flame and pass emitted light through a spectroscope.\n- Match line positions/patterns against reference spectra to identify ions.\n- Compare a suitable signal with **calibrated concentration data** for quantity.",
+      "specification": "4.8.3.7",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 4,
+      "prompt": "Plan a flame test to check for potassium ions.",
+      "answer": "- Clean a suitable metal wire loop to remove contaminating colour.\n- Put a small sample on the loop.\n- Hold it in a **blue non-luminous flame** and observe.\n- A **lilac flame** supports potassium; use suitable hot-wire/acid precautions.",
+      "specification": "4.8.3.1",
+      "evidence": "2023 2H Q03.1: original single-ion task",
+      "number": 35
+    },
+    {
+      "marks": 4,
+      "prompt": "An unknown gives a green flame and a white precipitate after hydrochloric acid/barium chloride. Identify the ions and a possible formula.",
+      "answer": "- Green flame supports **copper ions**.\n- Acidified barium chloride white precipitate supports **sulfate ions**.\n- In this usual single-compound context the cation is Cu²⁺ and anion SO₄²⁻.\n- Formula: **CuSO₄**, with balanced charge.",
+      "specification": "4.8.3;RPA7",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 4,
+      "prompt": "An unknown gives a white sodium-hydroxide precipitate that dissolves in excess, and a yellow acidified silver-nitrate precipitate. Identify both ions and a formula.",
+      "answer": "- White precipitate dissolving in excess supports **Al³⁺**.\n- Yellow silver-nitrate precipitate supports **I⁻**.\n- Three iodides balance one aluminium ion.\n- Formula: **AlI₃**.",
+      "specification": "4.8.3;RPA7",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how to compare an unknown dye with references fairly using chromatography.",
+      "answer": "- Spot the unknown and references on the same baseline/paper or use matched conditions.\n- Use the same solvent and keep conditions consistent.\n- Compare spot positions and Rf values measured from the baseline.\n- Matching values support identity but coincident spots can occur, so use another solvent/test if uncertain.",
+      "specification": "4.8.1.3;RPA6",
+      "evidence": "Additional specification-based practice",
+      "number": 38
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan a chromatography investigation to separate and compare coloured samples.",
+      "answer": "- Draw a pencil baseline and apply small dried sample/reference spots.\n- Place paper in a covered vessel with solvent below the baseline.\n- Allow solvent to rise, then remove before it reaches the top and mark the front promptly.\n- Measure baseline-to-spot-centre and baseline-to-front distances, calculating dimensionless Rf.\n- Compare matched conditions, repeat and try another solvent if components overlap.\n- Use appropriate solvent safety and evaluate spot spreading/measurement uncertainty.",
+      "specification": "RPA6",
+      "evidence": "Additional specification-based practice",
+      "number": 39
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan tests identifying potassium bromide in an unknown single-compound sample.",
+      "answer": "- Use clean equipment and dissolve a small amount in distilled water where required.\n- Perform a flame test on a clean loop in a blue flame; **lilac** supports potassium.\n- Use a fresh solution portion for the anion test.\n- Add dilute **nitric acid**, then silver nitrate solution.\n- A **cream precipitate** supports bromide; combine evidence as KBr.\n- Repeat uncertain observations and use eye protection, small quantities and safe hot-wire/reagent handling.",
+      "specification": "RPA7",
+      "evidence": "2023 2H Q03.1: original wording",
+      "number": 40
+    }
+  ]
+}

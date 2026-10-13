@@ -1,0 +1,38 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "4.8.1.1–4.8.1.3",
+    "4.8.2.1–4.8.2.4",
+    "4.8.3.1–4.8.3.7"
+  ],
+  "coverage_checklist": {
+    "4.8.1": "Purity/melting/boiling/formulations/phase distribution/Rf/paper method/limits",
+    "4.8.2": "All four gas test methods and results",
+    "4.8.3": "All five flame ions,all six hydroxides/excess distinction/balanced equations,carbonate/three halides/sulfate,unknown tests,instrumental benefits/emission/reference identification/concentration"
+  },
+  "practicals": [
+    "RPA6",
+    "RPA7"
+  ],
+  "mindmaps": [
+    "00-analysis-overview",
+    "01-purity-and-chromatography",
+    "02-gases-and-cations",
+    "03-anions-and-unknowns",
+    "04-instrumental-evidence"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Chemical analysis - Questions and Answers.md",
+    "deck": "Flash Cards/Chemical analysis - Flash Cards.json",
+    "count": 38,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "source": "Chemical analysis - Revision Notes.md",
+  "groups": [
+    {
+      "id": "separation",
+      "title": "Purity and chromatography",
+      "description": "Separate mixtures and calculate comparable Rf values.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Purity and designed mixtures"
+        },
+        {
+          "heading": "How chromatography separates"
+        },
+        {
+          "heading": "Chromatography practical and Rf"
+        }
+      ]
+    },
+    {
+      "id": "gases",
+      "title": "Gas and metal-ion tests",
+      "description": "Match reagents to precise observations.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Gas tests"
+        },
+        {
+          "heading": "Flame tests for metal ions"
+        },
+        {
+          "heading": "Sodium hydroxide tests and precipitates"
+        }
+      ]
+    },
+    {
+      "id": "unknowns",
+      "title": "Anions, unknowns and instruments",
+      "description": "Combine independent tests and interpret spectra.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Carbonate, halide and sulfate tests"
+        },
+        {
+          "heading": "Identifying an unknown ionic compound"
+        },
+        {
+          "heading": "Instrumental analysis and flame emission"
+        },
+        {
+          "heading": "Avoid these identification mistakes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "title": "Chemical analysis flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is a chemically pure substance?",
+      "back": [
+        "A single element or compound, not mixed with other substances."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a formulation?",
+      "back": [
+        "A mixture designed to have useful properties."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the mobile phase in paper chromatography.",
+      "back": [
+        "The solvent."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gas relights a glowing splint?",
+      "back": [
+        "Oxygen."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gas bleaches damp litmus white?",
+      "back": [
+        "Chlorine."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which metal ion gives a lilac flame?",
+      "back": [
+        "Potassium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which metal ion gives a crimson flame?",
+      "back": [
+        "Lithium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which metal ion gives a yellow flame?",
+      "back": [
+        "Sodium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What colour is iron(III) hydroxide precipitate?",
+      "back": [
+        "Brown."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which instrumental technique identifies metal ions from emitted spectral lines?",
+      "back": [
+        "Flame emission spectroscopy."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can “pure milk” still be chemically impure?",
+      "back": [
+        "Everyday “pure” can mean nothing was added.",
+        "Milk contains several substances, so it is a **mixture**, not one element or compound."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How can melting-point data help identify an impure solid?",
+      "back": [
+        "Compare with a known pure reference at comparable conditions.",
+        "Impurity commonly gives a **lower melting point and a melting range**, rather than a sharp reference temperature."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why are formulation ingredients carefully measured?",
+      "back": [
+        "Each component has a purpose.",
+        "Their proportions control the product’s required properties and consistency."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why use pencil for a chromatography baseline?",
+      "back": [
+        "Graphite does not dissolve in the usual solvent.",
+        "Ink could dissolve and separate, contaminating the chromatogram."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why keep the starting spots above solvent level?",
+      "back": [
+        "Submerged samples could dissolve into the solvent reservoir.",
+        "They would not begin a controlled separation along the paper from the baseline."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why mark the solvent front promptly?",
+      "back": [
+        "Solvent evaporates after the paper is removed.",
+        "Marking it preserves the travelled distance needed for a valid **Rf** calculation."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A spot moves 4.2 cm and the solvent front 7.0 cm from the baseline. Calculate Rf.",
+      "back": [
+        "Rf = 4.2/7.0.",
+        "**0.60**, with no unit."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a compound can have different Rf values on two papers in the same solvent.",
+      "back": [
+        "Its attraction to the stationary phases can differ.",
+        "More time associated with a paper means less movement with solvent and a lower Rf."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the hydrogen test and positive result.",
+      "back": [
+        "Hold a **burning splint** at the open end of a tube containing the gas.",
+        "Hydrogen burns with a **squeaky pop**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the carbon-dioxide test and result.",
+      "back": [
+        "Bubble the gas through **limewater**.",
+        "It turns **milky/cloudy**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State copper’s flame-test colour and sodium-hydroxide precipitate colour.",
+      "back": [
+        "Flame: **green**.",
+        "Hydroxide precipitate: **blue**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How can aluminium ions be distinguished from calcium or magnesium ions using sodium hydroxide?",
+      "back": [
+        "All initially give **white precipitates**.",
+        "Only aluminium’s precipitate **dissolves in excess sodium hydroxide** among these three."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the initial hydroxide-precipitate colours of iron(II) and iron(III).",
+      "back": [
+        "Iron(II): **green**.",
+        "Iron(III): **brown**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Which metal ion gives an orange-red flame, and why is a clean loop needed?",
+      "back": [
+        "**Calcium**.",
+        "A clean loop prevents previous samples contaminating the colour."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State two advantages of instrumental analysis over simple chemical tests.",
+      "back": [
+        "It can be **more sensitive**, detecting smaller quantities.",
+        "It can be **rapid and accurate**, with quantitative measurements when calibrated."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the test for chloride ions.",
+      "back": [
+        "Acidify a fresh dissolved sample with **dilute nitric acid**.",
+        "Add **silver nitrate solution**.",
+        "A **white precipitate** indicates silver chloride."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the test for bromide ions.",
+      "back": [
+        "Add **dilute nitric acid** to a fresh solution sample.",
+        "Add silver nitrate solution.",
+        "A **cream precipitate** indicates bromide."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the test for iodide ions.",
+      "back": [
+        "Acidify with dilute nitric acid.",
+        "Add silver nitrate solution.",
+        "A **yellow precipitate** indicates iodide."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the test for sulfate ions.",
+      "back": [
+        "Acidify the sample with **dilute hydrochloric acid**.",
+        "Add **barium chloride solution**.",
+        "A **white barium sulfate precipitate** indicates sulfate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the test for carbonate ions.",
+      "back": [
+        "Add a suitable **dilute acid** to the sample.",
+        "Collect/bubble evolved gas into limewater.",
+        "Limewater turns **milky**, identifying carbon dioxide and supporting carbonate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why must hydrochloric acid not be used to acidify a halide test?",
+      "back": [
+        "It introduces **chloride ions**.",
+        "Silver nitrate would then form white silver chloride precipitate from the reagent itself.",
+        "Dilute **nitric acid** avoids this false chloride result."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why one chromatography spot does not always prove purity.",
+      "back": [
+        "Different compounds may overlap under those conditions.",
+        "Some components may not dissolve or travel clearly.",
+        "A different solvent or independent test can help separate/detect them."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Write a balanced ionic equation for copper(II) hydroxide formation.",
+      "back": [
+        "Copper ion: **Cu²⁺**; hydroxide: **OH⁻**.",
+        "Two hydroxide ions balance charge and give the correct formula.",
+        "**Cu²⁺(aq)+2OH⁻(aq) →Cu(OH)₂(s)**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how flame emission spectroscopy identifies ions and measures concentration.",
+      "back": [
+        "Put the sample in a flame and pass emitted light through a spectroscope.",
+        "Match line positions/patterns against reference spectra to identify ions.",
+        "Compare a suitable signal with **calibrated concentration data** for quantity."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Plan a flame test to check for potassium ions.",
+      "back": [
+        "Clean a suitable metal wire loop to remove contaminating colour.",
+        "Put a small sample on the loop.",
+        "Hold it in a **blue non-luminous flame** and observe.",
+        "A **lilac flame** supports potassium; use suitable hot-wire/acid precautions."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An unknown gives a green flame and a white precipitate after hydrochloric acid/barium chloride. Identify the ions and a possible formula.",
+      "back": [
+        "Green flame supports **copper ions**.",
+        "Acidified barium chloride white precipitate supports **sulfate ions**.",
+        "In this usual single-compound context the cation is Cu²⁺ and anion SO₄²⁻.",
+        "Formula: **CuSO₄**, with balanced charge."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An unknown gives a white sodium-hydroxide precipitate that dissolves in excess, and a yellow acidified silver-nitrate precipitate. Identify both ions and a formula.",
+      "back": [
+        "White precipitate dissolving in excess supports **Al³⁺**.",
+        "Yellow silver-nitrate precipitate supports **I⁻**.",
+        "Three iodides balance one aluminium ion.",
+        "Formula: **AlI₃**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how to compare an unknown dye with references fairly using chromatography.",
+      "back": [
+        "Spot the unknown and references on the same baseline/paper or use matched conditions.",
+        "Use the same solvent and keep conditions consistent.",
+        "Compare spot positions and Rf values measured from the baseline.",
+        "Matching values support identity but coincident spots can occur, so use another solvent/test if uncertain."
+      ]
+    }
+  ]
+}
