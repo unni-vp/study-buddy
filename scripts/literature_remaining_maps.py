@@ -45,3 +45,19 @@ p('Context linked to evidence','1843: industrial growth alongside deprivation. D
 p('Form and narrative voice','Novella: concentrated moral journey. Ghost story: fear opens a route to change.','Staves: musical title suggests shared celebration. Ending revisits the opening world differently.','Narrator: humour, direct address and emotion shape judgement.'),
 p('Imagery and essay writing','Cold/warmth: emotional contrast. Light/dark: insight and fear. Chains: consequences. Food: sharing and need.','Evidence: connect a short anchor with method and meaning. Track development.','Task: printed extract and wider novella, with relevant context woven into analysis.')])
 ]
+MAPS[5]=[
+m('00-unseen-poetry-overview','Unseen poetry overview',[],[
+p('Understand the whole poem','Speaker: voice in the poem, not automatically the poet. Situation: what happens and where.','Overview: what is described and what deeper idea emerges?','Read: sentences across line endings. Check title, turns and ending.'),
+p('Language and imagery','Words: precise connotations. Metaphor/simile: qualities transferred by comparison.','Personification: attitude towards a non-human subject. Sensory detail: imagined experience.','Sound/repetition: explain this effect, not an automatic meaning.'),
+p('Structure and form','Structure: order, stanza shifts, contrasts and ending. Form: overall kind or shape.','Enjambment: continuing sentence. Caesura: internal pause. End-stopping: closure or pause at a line end.','Turn: show what changes. Free verse still has deliberate organisation.'),
+p('Build a developed reading','Point: answer the task. Evidence: short and precise. Method: particular word, image or arrangement.','Meaning: explain the idea and its effect. Development: connect another moment.','Avoid: technique lists, unsupported guesses and invented biography.'),
+p('Compare both poems','Shared idea: compare attitudes, images and development, not only matching subjects.','Both poems: evidence and analysis within linked paragraphs.','Difference: similar objects can express opposing values. Check each ending.'),
+p('Manage the tasks','Single poem: 15 marks, about 20 minutes. Comparison: 25 marks, about 40 minutes.','Include reading and planning. Give the comparison its larger share.','Check: task focus, accurate evidence, methods and the overall meaning.')]),
+m('01-analysis-and-comparison','Analysis and comparison',[],[
+p('Literal and deeper meaning','Literal: what is directly described. Deeper: what the details imply about experience or values.','Waiting: cup and extra place reveal unresolved attachment.','Departure: cup and key begin a chosen movement towards independence.'),
+p('Tone and viewpoint','Tone: attitude of the voice. Mood: atmosphere created. They may contrast.','Pronouns, questions and changes of certainty help establish viewpoint.','Ambiguity: support plausible readings. Do not turn guesses into facts.'),
+p('Analyse a specific choice','Image: name the relevant qualities and connect them to the idea.','Example: bus windows carrying other lives place companionship beyond the waiting speaker.','Effect: public movement contrasts with private stillness.'),
+p('Trace structure accurately','Opening: establishes expectation. Turn: changes time, place or thought. Ending: resolves or complicates.','Waiting: room, street, return indoors. Departure: house, journey, increasing distance.','Meaning: similar movement can reinforce attachment or freedom.'),
+p('Different responses to absence','Waiting and Departure are the original practice poems in the notes and Q&A.','Comparison: the same general subject does not mean the same attitude.'),
+p('An effective paragraph','Claim: a meaningful similarity or difference. Evidence: details from both poems.','Analysis: explain each method and meaning. Link: why the difference matters.','Response: informed interpretation with evidence, not only personal liking.')])
+]

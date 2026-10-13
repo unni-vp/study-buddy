@@ -56,6 +56,8 @@ VISUALS[('English Literature - Eduqas',3,'00-inspector-calls-overview')]={5:('li
 
 VISUALS[('English Literature - Eduqas',4,'00-christmas-carol-overview')]={5:('lit-spirit-sequence',1)}
 
+VISUALS[('English Literature - Eduqas',5,'01-analysis-and-comparison')]={4:('lit-unseen-contrast',1)}
+
 COLUMNS={
  ('Chemistry - AQA',4,'03-titration'):[[0,3],[1,4],[2,5]],
 }

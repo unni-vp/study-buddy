@@ -1,0 +1,166 @@
+{
+  "reviewed": "2026-10-14",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Editable Markdown counterparts synchronised with the same maintained map definitions.",
+  "maps": [
+    {
+      "widths": [
+        342,
+        366,
+        352
+      ],
+      "column_heights": [
+        546,
+        568,
+        524
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 342,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 366,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 316,
+          "width": 366,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 316,
+          "width": 352,
+          "height": 242
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-unseen-poetry-overview",
+      "title": "Unseen poetry overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        342,
+        350,
+        368
+      ],
+      "column_heights": [
+        524,
+        546,
+        573
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 342,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 294,
+          "width": 350,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 734,
+          "y": 18,
+          "width": 368,
+          "height": 335
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 734,
+          "y": 365,
+          "width": 368,
+          "height": 242
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "lit-unseen-contrast",
+          "purpose": "Compares the two original practice poems by attitude and ending; similar absence is experienced as unresolved attachment or chosen independence."
+        }
+      ],
+      "slug": "01-analysis-and-comparison",
+      "title": "Analysis and comparison",
+      "source_panels_preserved": 6
+    }
+  ]
+}

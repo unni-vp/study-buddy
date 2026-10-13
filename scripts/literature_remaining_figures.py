@@ -23,3 +23,14 @@ def spirit_sequence(w):
 DRAWINGS['lit-spirit-sequence']=spirit_sequence
 MIN_WIDTH['lit-spirit-sequence']=252
 PURPOSES['lit-spirit-sequence']='Shows how the ordered visits build regret, empathy and urgency; avoids presenting Scrooge’s redemption as only fear of death.'
+
+def unseen_contrast(w):
+    half=(w-12)/2
+    s=box(0,0,half,32,'Waiting',BLUE)+box(half+12,0,half,32,'Departure',GREEN)
+    s+=box(0,45,half,32,'Attachment',BLUE)+box(half+12,45,half,32,'Independence',GREEN)
+    s+=box(0,90,half,32,'Unresolved',BLUE)+box(half+12,90,half,32,'Chosen space',GREEN)
+    return s,132
+
+DRAWINGS['lit-unseen-contrast']=unseen_contrast
+MIN_WIDTH['lit-unseen-contrast']=278
+PURPOSES['lit-unseen-contrast']='Compares the two original practice poems by attitude and ending; similar absence is experienced as unresolved attachment or chosen independence.'
