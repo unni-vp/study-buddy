@@ -1,0 +1,567 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        346,
+        350,
+        364
+      ],
+      "column_heights": [
+        542,
+        542,
+        570
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 346,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 350,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 303,
+          "width": 350,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 738,
+          "y": 18,
+          "width": 364,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 738,
+          "y": 237,
+          "width": 364,
+          "height": 367
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "lit-camera",
+          "purpose": "Tracks how witnessed suffering is selected and received in War Photographer."
+        }
+      ],
+      "slug": "00-anthology-overview",
+      "title": "Poetry anthology",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        322,
+        302,
+        436
+      ],
+      "column_heights": [
+        564,
+        548,
+        570
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 322,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 325,
+          "width": 322,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 352,
+          "y": 18,
+          "width": 302,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 352,
+          "y": 281,
+          "width": 302,
+          "height": 301
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 666,
+          "y": 18,
+          "width": 436,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 666,
+          "y": 237,
+          "width": 436,
+          "height": 367
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "lit-nature",
+          "purpose": "Compares the different outcomes of remembering nature and trying to preserve fruit."
+        }
+      ],
+      "slug": "01-nature-and-childhood",
+      "title": "Nature & childhood",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        322,
+        306,
+        432
+      ],
+      "column_heights": [
+        520,
+        548,
+        548
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 322,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 322,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 352,
+          "y": 18,
+          "width": 306,
+          "height": 257
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 352,
+          "y": 287,
+          "width": 306,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 670,
+          "y": 18,
+          "width": 432,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 670,
+          "y": 259,
+          "width": 432,
+          "height": 323
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "lit-absence",
+          "purpose": "Compares imagined release with unresolved waiting rather than treating both love poems as identical."
+        }
+      ],
+      "slug": "02-love-and-absence",
+      "title": "Love & absence",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        306,
+        446,
+        308
+      ],
+      "column_heights": [
+        564,
+        556,
+        548
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 306,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 306,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 336,
+          "y": 18,
+          "width": 446,
+          "height": 331
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 336,
+          "y": 361,
+          "width": 446,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 794,
+          "y": 18,
+          "width": 308,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 794,
+          "y": 281,
+          "width": 308,
+          "height": 301
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "lit-bond",
+          "purpose": "Compares the literal birth cord with the continuing metaphorical bond in Catrin."
+        }
+      ],
+      "slug": "03-family-and-identity",
+      "title": "Family & identity",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        520,
+        498,
+        604
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 259,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 357
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 387,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "lit-return",
+          "purpose": "Shows survival followed by exclusion, rather than equating return with recovery."
+        }
+      ],
+      "slug": "04-war-and-exclusion",
+      "title": "War & exclusion",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        326,
+        390,
+        344
+      ],
+      "column_heights": [
+        564,
+        570,
+        564
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 326,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 326,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 356,
+          "y": 18,
+          "width": 390,
+          "height": 345
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 356,
+          "y": 375,
+          "width": 390,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 325,
+          "width": 344,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "lit-camera",
+          "purpose": "Tracks how witnessed suffering is selected and received in War Photographer."
+        }
+      ],
+      "slug": "05-witnessing-and-trauma",
+      "title": "Witnessing & trauma",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        604,
+        520,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 379
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 409,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 281,
+          "width": 330,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 303,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "lit-home",
+          "purpose": "Distinguishes remembered homeland from a hoped-for return that the poem does not show happening."
+        }
+      ],
+      "slug": "06-home-and-belonging",
+      "title": "Home & belonging",
+      "source_panels_preserved": 6
+    }
+  ]
+}
