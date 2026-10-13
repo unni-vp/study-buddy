@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.8, first exams 2027; local specification v1.3 16 June 2025",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "specification_pdf_pages": [
@@ -38,5 +38,30 @@
       "url": "https://www.legislation.gov.uk/ukpga/2024/10/notes/division/4/index.htm",
       "use": "Distinction between automation and assistance; responsibility discussed without assuming a universal liability rule"
     }
-  ]
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 31,
+    "source": "Questions and Answers/Ethical legal and environmental impacts - Questions and Answers.md",
+    "type": "Original practice with independent 2027 scope check",
+    "paper_type_references": {
+      "June 2022": "Q5 legal and ethical impacts of autonomous vehicles; Q10.1 cloud advantages (cross-topic networking overlap)",
+      "June 2023": "Q15 wearable benefits, privacy and legal responsibilities",
+      "bank_mapping": {
+        "29": "Original autonomous-bus adaptation of June 2022 Q5 discussion type",
+        "30": "Original fitness-watch/cloud adaptation of June 2023 Q15 type",
+        "31": "Additional current-specification government-versus-privacy evaluation",
+        "all_other_questions": "Original retrieval/application practice covering the eight 3.8 contexts and environmental/privacy principles"
+      }
+    },
+    "sample": [
+      "AQA 8525/2 June 2022",
+      "AQA 8525/2 June 2023"
+    ],
+    "frequency_claim": false
+  },
+  "flashcards": {
+    "count": 28,
+    "source": "1–4 mark retrieval and application prompts from the paired bank"
+  }
 }

@@ -1,0 +1,237 @@
+{
+  "title": "Ethical legal and environmental impacts flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Which kind of issue concerns whether a decision is fair or morally responsible?",
+      "back": [
+        "Ethical."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which kind of issue concerns whether an action meets the law?",
+      "back": [
+        "Legal."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which kind of issue concerns waste, energy use or damage to habitats?",
+      "back": [
+        "Environmental."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is personal data?",
+      "back": [
+        "Information relating to an identifiable person."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a wearable device?",
+      "back": [
+        "A computing device worn on the body."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is cloud storage?",
+      "back": [
+        "Storing data on remote servers accessed through a network."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does unauthorised access mean?",
+      "back": [
+        "Access to a system without permission."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one action that can reduce electronic waste.",
+      "back": [
+        "Repair."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why legal conduct can still raise an ethical concern.",
+      "back": [
+        "Law and ethics answer different questions: compliance with rules does not settle fairness.",
+        "For example, a workplace monitoring arrangement could meet legal requirements yet still create intrusive pressure on staff."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A walking app stores every user's movements indefinitely. Explain a privacy risk.",
+      "back": [
+        "Location history can reveal someone's home or routine.",
+        "Keeping a large identifiable record increases what could be exposed or misused if access is compromised."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain data minimisation using a homework app.",
+      "back": [
+        "Collect only information needed for the purpose.",
+        "For example, pupil identity and assignment submissions may be needed, while continuous location tracking is unnecessary."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one way mobile technology can improve access to services.",
+      "back": [
+        "A person can use a phone while away from a fixed computer.",
+        "This lets them contact support, check directions or use a learning service wherever a suitable connection is available."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one reason cloud storage might interrupt a business's work.",
+      "back": [
+        "Access depends on the provider and a working network connection.",
+        "An outage can prevent staff reaching the files needed for their tasks."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one security issue associated with an unsecured wireless network.",
+      "back": [
+        "Traffic or access may be inadequately protected.",
+        "An attacker could intercept information or reach resources they should not be able to use."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why replacing an implant's software requires particular care.",
+      "back": [
+        "The device may support an important bodily function.",
+        "A faulty update could interrupt that function, so reliable testing and safe maintenance matter."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one employment impact of autonomous vehicles.",
+      "back": [
+        "Some driving roles could be reduced or changed.",
+        "Workers may need retraining, even if new maintenance or software jobs are created."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a biometric health record is a privacy concern even if the company removes the user's name.",
+      "back": [
+        "Other information may still allow the person to be identified.",
+        "Removing a name alone does not necessarily make sensitive data anonymous."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why an authorised security test differs from illegal hacking.",
+      "back": [
+        "The tester has permission and works within an agreed scope.",
+        "Unauthorised access lacks that permission, even when the person claims a helpful intention."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A company offers staff fitness trackers and plans to share individual activity data with managers. Explain an ethical concern and a safeguard.",
+      "back": [
+        "Employees may feel pressured to participate because the employer has power over them.",
+        "Activity comparisons could unfairly disadvantage staff with different needs or circumstances.",
+        "A meaningful alternative and tightly limited access reduce pressure and unrelated use."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how repairable devices can reduce environmental harm.",
+      "back": [
+        "Repair keeps useful equipment operating for longer.",
+        "This can reduce the need to mine materials and manufacture replacements.",
+        "It also reduces electronic waste, although running energy use still matters."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A government argues that it needs access to private communications to prevent attacks. Explain its argument and a concern for citizens.",
+      "back": [
+        "Access may help investigators identify threats or connections between suspects.",
+        "Broad monitoring also collects information about people who have done nothing wrong.",
+        "That information could be misused or exposed, reducing their privacy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a mobile-only public service could disadvantage some users.",
+      "back": [
+        "Some users cannot afford a suitable device or data connection.",
+        "Others may have limited coverage or difficulty using the app.",
+        "They could be excluded from an essential service, so an accessible alternative is needed."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Evaluate a school storing pupil work in the cloud.",
+      "back": [
+        "Pupils and staff can access and share work from different locations.",
+        "Off-site storage may support recovery if local equipment is lost, when suitable backup arrangements exist.",
+        "Incorrect sharing permissions or compromised accounts can expose work and personal information.",
+        "It is useful if accounts, access and recovery arrangements are managed well; provider security alone does not protect a publicly shared folder."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A smartwatch reports an unexpectedly high reading. Explain two risks of making decisions from unverified readings.",
+      "back": [
+        "A reading may be inaccurate because of the sensor or how it is used.",
+        "Treating it as a diagnosis could create unnecessary worry or an inappropriate response.",
+        "An employer or insurer could use misleading data to make an unfair judgement about somebody.",
+        "The data needs appropriate verification and limits on its use; it is not a complete medical assessment."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain environmental impacts at three stages in a phone's lifecycle and one way to reduce them.",
+      "back": [
+        "**Manufacture:** mining materials can damage habitats; production uses energy.",
+        "**Use:** the phone and the services it accesses require electricity.",
+        "**Disposal:** unsuitable handling of electronic waste can release harmful substances.",
+        "Keeping the phone supported and repaired for longer can reduce replacement manufacture and waste."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why switching every meeting online does not automatically remove environmental harm.",
+      "back": [
+        "Fewer journeys can reduce travel-related emissions.",
+        "However, computers and network equipment still require manufacture.",
+        "Running the devices, networks and data centres uses energy.",
+        "The net effect depends on the travel avoided and the equipment and electricity used."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A connected medical implant sends identifiable readings to a clinic. Explain two benefits or risks of this connection.",
+      "back": [
+        "Remote readings could help the clinic notice a problem without requiring every check in person.",
+        "This can improve convenience and support timely review.",
+        "Transmitted health information is sensitive and could be exposed by inadequate protection.",
+        "Secure access and reliable operation are needed because unauthorised control or an interrupted service may have serious consequences."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Evaluate giving public Wi-Fi access in a town centre.",
+      "back": [
+        "It may help residents and visitors reach information without using their own mobile data.",
+        "This improves access for some people, but still requires a suitable device.",
+        "Poorly protected connections or excessive tracking create security and privacy risks.",
+        "The service is more beneficial if access is inclusive, protection is suitable and unnecessary personal data is not collected."
+      ]
+    }
+  ]
+}

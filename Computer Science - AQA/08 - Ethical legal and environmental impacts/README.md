@@ -15,3 +15,6 @@ Use the full official specification in ../00 - Specification. Match every resour
 Revision notes are available from the topic page, organised into three broad reading groups.
 
 Editable source: [Revision notes](Revision%20Notes/Ethical%20legal%20and%20environmental%20impacts%20-%20Revision%20Notes.md).
+
+
+Questions & answers and flash cards are available from the topic page.
