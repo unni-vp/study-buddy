@@ -161,7 +161,7 @@ for subject,course in subjects.items():
   ready+=bool(count)
   topic_href=link(subjectpage,page)
   progress_key=slug(subject+f'-{i:02d}-'+title)
-  rows.append(f'<article class="topic-row topic-card"><span class="topic-number">{i:02d}</span><a class="topic-card-title" href="{topic_href}"><strong>{esc(title)}</strong></a>{topic_paper_tags(topic)}<div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><label class="topic-completion"><input type="checkbox" data-topic-progress="{esc(progress_key)}" aria-label="Mark {esc(title)} as revised"><span>Revised</span></label><a class="topic-card-arrow" href="{topic_href}" aria-label="Open {esc(title)}">→</a></div></article>')
+  rows.append(f'<article class="topic-row topic-card"><div class="topic-card-top"><span class="topic-number">{i:02d}</span>{topic_paper_tags(topic)}</div><a class="topic-card-title" href="{topic_href}"><strong>{esc(title)}</strong></a><div class="topic-card-footer"><span class="status {"ready" if count else ""}">{"Resources available" if count else "Not yet prepared"}</span><label class="topic-completion"><input type="checkbox" data-topic-progress="{esc(progress_key)}" aria-label="Mark {esc(title)} as revised"><span>Revised</span></label><a class="topic-card-arrow" href="{topic_href}" aria-label="Open {esc(title)}">→</a></div></article>')
  total_ready+=ready
  specs=sorted((ROOT/subject/'00 - Specification').glob('*.pdf'))
  docs='<details class="sources"><summary>Official specifications & course references</summary><ul>'+''.join(f'<li><a href="{link(subjectpage,f)}">{esc(f.stem)}</a></li>' for f in specs)
