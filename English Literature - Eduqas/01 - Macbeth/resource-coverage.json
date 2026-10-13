@@ -12,6 +12,24 @@
       "15-mark extract AO1/AO2",
       "25-mark essay AO1/AO2 plus 5 AO4"
     ],
+    "character_and_theme_review": {
+      "reviewed": "2026-10-13",
+      "characters": [
+        "The witches",
+        "Banquo",
+        "Macduff"
+      ],
+      "themes": [
+        "Ambition / Power",
+        "Kingship",
+        "Violence",
+        "Guilt",
+        "Gender",
+        "The supernatural",
+        "Appearance and reality"
+      ],
+      "quotations": "Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines"
+    },
     "primary_text": "https://www.folger.edu/explore/shakespeares-works/macbeth/read/",
     "assessment_sample": [
       "2019 Q21/Q22",

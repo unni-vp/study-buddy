@@ -184,73 +184,447 @@ Lady Macbeth links **power with the suppression of compassion**. Her forceful la
 
 A useful argument: **her apparent strength depends on denying feelings that cannot be permanently silenced.** Shakespeare makes the contrast between confident speech and emotional vulnerability central to her character.
 
-## Banquo, Macduff and the rulers
+## The witches: temptation and deceptive promises
+
+The witches make dangerous possibilities sound attractive. They offer Macbeth a future he wants, but leave him to decide how to reach it. **They encourage his ambition without removing his responsibility.**
+
+Think of an advert that tells you something true about a product but hides the catch. The true detail makes the larger promise feel trustworthy. The witches work in a similar way: Macbeth receives Cawdor's title, then starts trusting promises whose meaning he does not fully understand.
+
+### What to remember
+
+- **Temptation:** their greeting gives Macbeth's ambition a specific goal: kingship. They never tell him to murder Duncan.
+- **Deception:** their words can be technically fulfilled while misleading the listener. This is **equivocation**: language with more than one possible meaning.
+- **Disorder:** thunder, unusual appearances and conflicting statements make their world feel unstable. Opening the play with them prepares the audience to question appearances.
+- **Influence rather than complete control:** Macbeth first encounters them unexpectedly; later, he actively seeks them out. His growing dependence matters as much as their predictions.
+
+### Key quotations and analysis
+
+**“Fair is foul, and foul is fair” — all three witches, 1.1**
+
+- The **paradox** joins opposites: what looks good may be evil, and what looks evil may appear good. Their values unsettle ordinary moral distinctions.
+- Reversing the order of “fair” and “foul” makes them seem interchangeable. This prepares the audience for false appearances, especially Macbeth's loyal public image and hidden ambition.
+- Their joint speech presents a united, unsettling voice. Shakespeare introduces moral confusion before introducing his main character.
+
+**“All hail, Macbeth, that shalt be king hereafter!” — Third Witch, 1.3**
+
+- “All hail” sounds like a ceremonial greeting to someone already powerful. It flatters Macbeth and invites him to imagine himself as king.
+- “Shalt” sounds certain, but “hereafter” supplies no date or method. **Macbeth turns a prediction into a murder plan himself.**
+- The sequence of three greetings moves from his known title to Cawdor and then kingship. Confirmation of Cawdor gives the final promise apparent credibility.
+
+**“Double, double toil and trouble” — all three witches, 4.1**
+
+- **Repetition**, rhyme and strong rhythmic beats make the cauldron scene sound like a ritual. “Double” can suggest trouble multiplying, matching Macbeth's escalating violence.
+- Many of their chants use **trochaic rhythm**: a stressed beat followed by an unstressed one. This differs from the usual rhythm of the nobles' **blank verse**, making the witches sound distinctive onstage.
+- The cauldron, unsettling ingredients and repeated refrain give the audience a visible and audible experience of their threat.
+
+**“Something wicked this way comes” — Second Witch about Macbeth, 4.1**
+
+- Calling Macbeth “wicked” reverses the opening praise of “brave Macbeth”. Even a witch now recognises his evil.
+- “Something” can make him sound less like an individual human being and more like a threatening presence. He has moved closer to the darkness he once feared.
+- Macbeth comes to them demanding answers. The relationship has changed: he now pursues the source of his temptation.
+
+**“none of woman born” — Second Apparition summoned by the witches, 4.1**
+
+- This sounds like protection from every human opponent. Macbeth hears the reassuring meaning and overlooks the warning to beware Macduff.
+- Macduff's delivery by being cut from his mother's womb exposes the unexpected meaning. **The apparent guarantee creates false confidence.**
+- Attribute this quotation to the **apparition**, rather than to one of the three witches directly. Their scene supplies the deceptive reassurance.
+
+### Relationships and Shakespeare's purpose
+
+**Macbeth and Banquo provide a comparison.** Both hear predictions, but Banquo questions whether a true statement can hide a harmful purpose. Macbeth increasingly treats the witches as a source of certainty. Their different responses show that hearing a prophecy does not force someone to act violently.
+
+The witches can be read as supernatural agents of evil and as a way of exposing Macbeth's desires. A production may emphasise either reading. Their precise power remains uncertain; Macbeth's conscious choices are shown clearly.
+
+**A useful argument:** Shakespeare presents the witches as dangerous because they make destructive choices seem promising, then make vulnerability feel like safety.
+
+**Avoid this mistake:** saying the witches order Duncan's murder or control everything Macbeth does. Explain how their language influences the decisions he makes.
+
+[Read the witches' opening scene](https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/1/) · [First prophecies](https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/3/) · [The cauldron and apparitions](https://www.folger.edu/explore/shakespeares-works/macbeth/read/4/1/)
+
+## Banquo: temptation, integrity and a threatening legacy
+
+Banquo is Macbeth's fellow soldier and Fleance's father. He is interested in the witches' promises, but tries to keep his loyalty and conscience intact. **He shows that temptation can be resisted, even when it is attractive.**
+
+Imagine two teammates being offered an unfair shortcut to success. Both want the reward, but one questions the offer and refuses to sacrifice their principles. Banquo's different response makes Macbeth's choices stand out. This makes him a **foil**: a character whose differences help reveal another character's qualities.
+
+### What to remember
+
+- **Cautious:** he questions the witches' motives, recognising that telling the truth can be part of a trap.
+- **Tempted:** he dreams about them and hopes their prediction for his descendants will come true. He is not completely untouched by ambition.
+- **Principled:** he sets limits when Macbeth suggests that supporting him could bring honour. He wants advancement without losing integrity.
+- **Threatening to Macbeth:** his courage, judgement, suspicions and promised descendants make Macbeth feel insecure.
+- **A continuing presence:** his ghost disrupts Macbeth's public authority. Killing Banquo does not remove Macbeth's fear or guilt.
+
+### Key quotations and analysis
+
+**“The instruments of darkness tell us truths” — Banquo, 1.3**
+
+- “Darkness” associates the witches with hidden danger and evil. “Instruments” suggests agents serving a harmful purpose.
+- The surprising combination of “darkness” and “truths” explains Banquo's warning: an accurate detail does not prove good intentions.
+- His warning anticipates Macbeth's later reliance on deceptive promises. Banquo recognises the danger that Macbeth increasingly ignores.
+
+**“My bosom franchised and allegiance clear” — Banquo, 2.1**
+
+- “Franchised” means free. Banquo wants to keep his inner conscience free and his loyalty untainted.
+- He responds to Macbeth's suggestion of future honour by insisting on moral conditions. **Success is worth having only if it does not cost his integrity.**
+- This contrasts with Macbeth, who gains a crown by betraying the king he should protect.
+
+**“Thou played'st most foully for 't” — Banquo, 3.1**
+
+- In private, Banquo suspects that Macbeth has acted dishonestly to gain power. “Foully” recalls the witches' confused language of fair and foul, but Banquo uses it as a moral judgement.
+- His opening speech lets the audience hear doubts he does not voice directly to Macbeth. This creates tension beneath their polite public relationship.
+- Suspicion is not the same as proof. Shakespeare does not show Banquo organising a rebellion against Macbeth.
+
+**“May they not be my oracles as well” — Banquo, 3.1**
+
+- “Oracles” means sources of prophecy. The **question** reveals his hope that the witches may also offer a reliable future for him.
+- Placing this hope beside his suspicion of Macbeth complicates his character: he doubts their influence but still desires the promised outcome.
+- **A foil is not a perfect opposite.** Banquo shares Macbeth's curiosity about power, but the play does not show him committing murder to achieve it.
+
+**“royalty of nature” — Macbeth about Banquo, 3.1**
+
+- Macbeth recognises a natural nobility in Banquo. “Royalty” suggests qualities associated with worthy leadership, although Banquo does not wear the crown.
+- This contrasts **having the title of king** with **having the qualities of a good ruler**. Macbeth's respect turns into fear.
+- Because Macbeth speaks these words, they also expose his insecurity: Banquo's character threatens him as well as the prophecy about Banquo's descendants.
+
+### Relationships and Shakespeare's purpose
+
+**With Macbeth:** their shared military service makes the betrayal more disturbing. Macbeth treats a former companion as an obstacle. Banquo's more cautious response also prevents Macbeth from blaming his crimes entirely on the witches.
+
+**With Fleance:** Banquo's concern for his son gives the threatened dynasty a personal face. Fleance's escape means Macbeth cannot secure the future simply by killing Banquo. The play does not show Fleance becoming king.
+
+**As a ghost:** Banquo's return at the banquet can suggest supernatural punishment, Macbeth's guilt, or both. The guests cannot see the ghost, but they see Macbeth lose control. A murder intended to create security instead exposes his weakness in public.
+
+**A useful argument:** Banquo reveals Macbeth's moral failure while his threatened family exposes how fear of the future drives Macbeth towards further violence.
+
+**Avoid this mistake:** calling Banquo completely free from ambition, or claiming he knows for certain that Macbeth murdered Duncan. His private hopes and suspicions make him more complicated.
+
+[Read Banquo's warning](https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/3/) · [His conditions for loyalty](https://www.folger.edu/explore/shakespeares-works/macbeth/read/2/1/) · [His hopes and Macbeth's fear](https://www.folger.edu/explore/shakespeares-works/macbeth/read/3/1/)
+
+## Macduff: loyalty, grief and resistance
+
+Macduff is a Scottish nobleman who resists Macbeth's rule. He cares about Scotland and loves his family. **His courage includes feeling grief, rather than pretending that suffering does not matter.**
+
+Think of someone helping a damaged community recover. Anger may motivate them, but caring about the people affected gives their action a purpose. Macduff combines personal loss with resistance to a ruler harming the whole country.
+
+### What to remember
+
+- **Loyal to Scotland:** his horror at Duncan's death and distress for his country contrast with Macbeth's concern for his own power.
+- **Independent:** he does not attend Macbeth's coronation. His resistance develops beyond private unease into action with Malcolm.
+- **Emotionally open:** his response to his family's murder makes the human cost of tyranny visible. He challenges the idea that manhood requires suppressing grief.
+- **Not without conflict:** leaving his family to seek help creates a painful tension between public duty and responsibility at home.
+- **An opponent who exposes deception:** his unusual birth defeats Macbeth's interpretation of the apparitions' promise.
+
+### Key quotations and analysis
+
+**“O horror, horror, horror!” — Macduff, 2.3**
+
+- The **repetition** and exclamation suggest shock so powerful that ordinary description fails. His grief contrasts with Macbeth's attempt to conceal his part in the murder.
+- Macduff's nearby religious language presents killing Duncan as an attack on sacred authority. His reaction establishes genuine loyalty to the murdered king.
+
+**“Bleed, bleed, poor country!” — Macduff, 4.3**
+
+- **Personification** presents Scotland as an injured body. Macbeth's violence harms a whole country, not just individual rivals.
+- Repeating “bleed” conveys urgency and ongoing suffering. “Poor” expresses compassion rather than a desire for personal advancement.
+- Malcolm's testing makes Macduff fear that Scotland has no trustworthy rescuer. His distress helps show that his loyalty belongs to the country, rather than simply to whoever offers power.
+
+**“All my pretty ones?” — Macduff, 4.3**
+
+- The affectionate “pretty ones” identifies the victims as loved children. Political violence becomes a father's devastating loss.
+- His repeated questions around “all” suggest disbelief: he struggles to take in the scale of the news.
+- The image of his children as “chickens” and their mother as their “dam” makes the family seem vulnerable. Macbeth's violence looks predatory, not heroic.
+
+**“But I must also feel it as a man” — Macduff, 4.3**
+
+- Malcolm has urged him to confront the loss “like a man”. Macduff agrees to act, but **“also” joins feeling to courage** instead of treating them as opposites.
+- “Must” makes grief necessary. Remembering people he loved is a responsibility, not a weakness to be ashamed of.
+- This offers an alternative to Lady Macbeth's earlier use of masculinity to pressure Macbeth into violence. Macduff shows that a man can be brave and compassionate.
+
+**“Turn, hellhound, turn!” — Macduff, 5.8**
+
+- The repeated **imperative** demands a direct confrontation. Macduff's decisive speech contrasts with Macbeth's reliance on hidden plots and hired killers.
+- “Hellhound” combines animal and religious imagery, presenting Macbeth as a savage agent of evil.
+- Macduff's violence has a different purpose from Macbeth's: confronting tyranny and avenging innocent victims. The shared violence makes the contrast about motives and consequences, rather than strength alone.
+
+**“Untimely ripped” — Macduff, 5.8**
+
+- The violent wording describes his delivery by being cut from his mother's womb. It exposes the unusual meaning hidden inside “none of woman born”.
+- Macbeth's confidence collapses because the promise meant something different from what he assumed. Macduff remains human; the deception depends on the prophecy's wording.
+- Shakespeare makes the final confrontation both a physical struggle and a revelation about the danger of trusting convenient interpretations.
+
+### Relationships and Shakespeare's purpose
+
+**With Malcolm:** Malcolm initially fears that Macduff may be Macbeth's agent. His test of Macduff's loyalty makes trust something that must be examined, contrasting with Duncan's vulnerable trust. Macduff's distress at the prospect of another corrupt king supports his concern for Scotland.
+
+**With his family:** Lady Macduff criticises his departure, and Macduff later blames himself for their deaths. This makes public resistance morally painful. He did not knowingly arrange their deaths; **Macbeth orders the murders and bears responsibility for them**.
+
+**With Macbeth:** both are capable fighters, but Macbeth increasingly uses violence to protect himself, while Macduff helps end a destructive reign. His victory supports Malcolm's restoration; Macduff does not take the crown for himself.
+
+Macduff's statement about feeling is important, but it does not make all his attitudes modern. Elsewhere he assumes Lady Macbeth is too delicate to hear about Duncan's murder, and he later associates tears with women. **His compassionate response challenges a narrow idea of masculinity without erasing every conventional assumption.**
+
+**A useful argument:** Shakespeare uses Macduff to connect national suffering with personal grief, presenting humane courage as an alternative to Macbeth's destructive pursuit of power.
+
+**Avoid this mistake:** reducing Macduff to revenge alone, or treating him as a flawless hero. His love of country, grief and conflict over his family all matter.
+
+[Read his discovery of Duncan](https://www.folger.edu/explore/shakespeares-works/macbeth/read/2/3/) · [His loyalty and grief](https://www.folger.edu/explore/shakespeares-works/macbeth/read/4/3/) · [His confrontation with Macbeth](https://www.folger.edu/explore/shakespeares-works/macbeth/read/5/8/)
+
+## Other characters and the rulers
 
 | Character | Main purpose | Evidence and interpretation |
 |---|---|---|
-| **Banquo** | A contrast, or **foil**, to Macbeth | Both hear prophecies. Banquo warns about “instruments of darkness” (1.3), showing suspicion rather than immediate surrender. Yet he is interested in the promised future of his descendants. |
 | **Fleance** | A future Macbeth cannot control | His escape means killing Banquo has not removed the threat to Macbeth's dynasty. The play does not show Fleance becoming king. |
-| **Macduff** | Resistance and the human cost of tyranny | He discovers Duncan's murder, seeks help for Scotland and grieves for his family. “I must also feel it as a man” (4.3) challenges the idea that masculinity excludes emotion. |
 | **Lady Macduff and her son** | Innocent victims | Their domestic conversation and onstage danger expose how political violence destroys ordinary family life. Lady Macduff also questions her husband's departure. |
 | **Duncan** | Legitimate authority, but vulnerable judgement | He rewards loyalty but misjudges both the old Thane of Cawdor and Macbeth. His trusting arrival makes the betrayal more disturbing. |
 | **Malcolm** | A possible restoration of responsible rule | He tests Macduff's loyalty in 4.3 and contrasts a ruler's duties with Macbeth's self-interest. His final order offers a fresh start after damage. |
-| **The witches** | Temptation and uncertainty | Their paradoxes and double meanings encourage Macbeth to hear what he wants. Their power over events can be debated; his moral choices remain visible. |
 
-**A foil is not an exact opposite in every way.** Banquo shares curiosity about the future; Macduff's political duty creates a painful conflict with his duty to his family.
+## Ambition / Power
 
-## Ambition, power and kingship
+**Ambition** is wanting to achieve something. **Power** is the ability to influence or control others. Macbeth's tragedy begins when he values gaining power more than the moral limits on how he should gain it.
 
-The play questions **how power is gained and what it is used for**.
+Imagine winning a competition by cheating, then becoming more worried about being found out than enjoying the prize. Macbeth gains the crown but spends his reign trying to protect it. **Success brings fear instead of satisfaction.**
 
-1. Macbeth begins by protecting a king and is rewarded for loyalty.
-2. His desire for the crown overcomes his knowledge of duty.
-3. Once crowned, he treats other people as threats to his survival.
-4. Scotland suffers under a ruler concerned with himself.
-5. Malcolm's restoration suggests that legitimate leadership should serve the country.
+### How the theme develops
 
-“Upon my head they placed a fruitless crown” (3.1) turns kingship into an image of infertility: Macbeth has power but fears he cannot pass it on. The crown produces anxiety instead of fulfilment.
+- **Desire:** the witches make kingship seem possible. Macbeth soon sees Malcolm as an obstacle and wants to hide his wishes.
+- **Choice:** Lady Macbeth pressures him, but his own soliloquy shows that he knows murder is wrong. Ambition overcomes his conscience.
+- **Insecurity:** after becoming king, he fears Banquo's descendants and acts independently to destroy perceived threats.
+- **Emptiness:** gaining power damages his marriage, peace of mind and sense of purpose. His final despair exposes the cost of the future he pursued.
 
-**Violence changes its purpose:** defence of Scotland becomes murder of a guest, then political assassination, then slaughter of a family. Track that escalation instead of listing murders without explanation.
+### Quotations to analyse
 
-## Guilt, blood and sleep
+**“vaulting ambition” — Macbeth, 1.7**
+
+The **metaphor** suggests a rider leaping too far and falling. His ambition reaches beyond a safe or proper limit. Macbeth identifies the danger himself, making his later choice more blameworthy.
+
+**“To be thus is nothing” — Macbeth, 3.1**
+
+“Thus” means being king. The absolute “nothing” makes his achievement seem worthless unless he can feel secure. **Wanting power turns into wanting impossible certainty.**
+
+**“fruitless crown” — Macbeth, 3.1**
+
+The image of infertility suggests a crown that cannot produce a lasting dynasty. Macbeth fears that his crimes will benefit Banquo's descendants, rather than his own. Power does not give him ownership of the future.
+
+**“Tomorrow and tomorrow and tomorrow” — Macbeth, 5.5**
+
+**Repetition** makes time seem monotonous and empty. The future that once excited him now feels pointless. Shakespeare links the pursuit of greatness with the loss of meaning.
+
+**Essay argument:** ambition becomes destructive when achievement matters more than conscience; power then deepens Macbeth's insecurity instead of solving it.
+
+## Kingship
+
+Kingship asks a different question from ambition: **what makes someone worthy to rule?** Shakespeare contrasts a ruler who serves the country with a tyrant who treats it as a possession.
+
+Think of a team captain. Wearing the badge gives them authority, but good leadership depends on protecting the team, rewarding effort and earning trust. Macbeth holds the title while losing the qualities that justify it.
+
+### Three rulers to compare
+
+| Ruler | What his leadership reveals |
+|---|---|
+| **Duncan** | Rewards loyal service and inspires affection. His trusting nature also leaves him vulnerable: he misjudges the old Cawdor and then Macbeth. |
+| **Macbeth** | Gains the crown through betrayal. He relies increasingly on fear, murder and surveillance, putting his own security ahead of Scotland. |
+| **Malcolm** | Tests loyalty before trusting it. He considers the moral qualities of leadership and offers restoration, although the play ends before showing his reign. |
+
+### Quotations to analyse
+
+**Macbeth about Duncan, 1.7:**
+
+> his virtues
+> Will plead like angels
+
+The **religious simile** presents Duncan's goodness as a powerful argument against murder. Macbeth recognises the king's virtues before betraying him. His awareness makes the betrayal deliberate.
+
+**“royalty of nature” — Macbeth about Banquo, 3.1**
+
+Banquo has natural nobility despite not wearing a crown. This separates **moral authority from a royal title** and exposes Macbeth's fear of someone whose qualities he respects.
+
+**“Bleed, bleed, poor country!” — Macduff, 4.3**
+
+Scotland is **personified** as a wounded body. A ruler's private wrongdoing becomes a national injury. Good leadership should heal this damage rather than create it.
+
+**“mercy” and “courage” — Malcolm, 4.3**
+
+These are among the qualities Malcolm lists while pretending to lack the virtues of a king. Their combination matters: leadership needs compassion as well as strength. Macduff's distress at Malcolm's supposed corruption helps Malcolm judge his loyalty.
+
+**Essay argument:** Shakespeare distinguishes possessing power from deserving it. Malcolm's restoration promises repair, but it cannot undo the lives lost under Macbeth.
+
+## Violence
+
+Violence is not presented in the same way throughout the play. **Its purpose, victims and consequences change.** Macbeth's violence begins in defence of Scotland and ends in attacks on innocent people.
+
+Like a tool that can protect someone or injure them, strength alone is not evidence of goodness. Shakespeare asks who uses force, whom it harms and what it is meant to achieve.
+
+### Track the changing purpose
+
+1. **Battlefield defence:** Macbeth's violence earns praise because he fights against Scotland's enemies.
+2. **Betrayal:** murdering Duncan attacks a king, relative and guest whom Macbeth should protect.
+3. **Political assassination:** he hires killers to attack Banquo and Fleance because he fears a rival dynasty.
+4. **Terror:** the attack on Macduff's household targets vulnerable people who cannot threaten him in battle.
+5. **Resistance:** Macduff's confrontation with Macbeth uses force to end tyranny and avenge its victims.
+
+### Quotations and dramatic choices
+
+**“brave Macbeth” — Captain, 1.2**
+
+The approving adjective establishes a violent soldier as a national defender. This starting point makes his later brutality a **reversal**, rather than an unchanged trait.
+
+**“blood will have blood” — Macbeth, 3.4**
+
+**Repetition** presents bloodshed as something that calls forth further bloodshed. Macbeth fears consequences, revenge and exposure, yet continues the actions that create them.
+
+**“I am in blood” — Macbeth, 3.4**
+
+The image of wading through blood makes violence seem to surround him. He argues that returning would be as difficult as going on. This is his justification for continuing, not proof that he has no choice.
+
+**“All my pretty ones?” — Macduff, 4.3**
+
+The affectionate phrase shifts attention from the murderer to the bereaved family. Shakespeare makes the cost of political violence personal and emotionally immediate.
+
+**Stagecraft:** Duncan's murder occurs **offstage**, directing attention towards anticipation and guilt. Macduff's son is killed **onstage**, confronting the audience with a helpless victim. The final combat makes resistance visible. These choices shape how the audience judges different acts of violence.
+
+**Essay argument:** Macbeth's increasing readiness to harm innocent people marks his decline from defender to tyrant; the play judges violence through its motives and effects.
+
+## Guilt
+
+Guilt is the distress caused by recognising wrongdoing. Macbeth and Lady Macbeth try to hide the evidence of murder, but **removing physical evidence cannot remove their knowledge of what they have done**.
+
+Think of deleting a dishonest message: the screen may look clean, but the person who sent it still remembers it. Washing blood from their hands cannot simply restore the couple's peace of mind.
+
+### Blood, sleep and washing
 
 A **motif** is a repeated image or idea whose meaning develops.
 
-| Motif | Early meaning | Later development |
+| Motif | Earlier meaning | Later development |
 |---|---|---|
-| **Blood** | Evidence of military bravery | Evidence of murder, then an imagined permanent moral stain |
-| **Sleep** | Innocence, rest and vulnerability | Macbeth fears he has destroyed sleep; Lady Macbeth's sleepwalking exposes distress |
-| **Washing** | Lady Macbeth's practical way to hide the crime | Her imagined stain cannot be washed away |
+| **Blood** | Evidence of military bravery, then murder | An imagined permanent moral stain |
+| **Sleep** | Rest, innocence and vulnerability | Macbeth fears he has destroyed rest; Lady Macbeth's sleepwalking exposes distress |
+| **Washing** | A practical way to remove evidence | Lady Macbeth cannot remove an imagined stain |
 
-Macbeth asks whether “all great Neptune's ocean” can clean his hand (2.2). The **hyperbole** makes guilt larger than the natural world. His next thought reverses the image: his blood could make the sea red. The stain seems able to contaminate everything around it.
+### Quotations to analyse
 
-The contrast with Lady Macbeth's “little water” is crucial. In Act 2 she minimises the problem; in Act 5 her body acts out the guilt she can no longer contain. **The repeated action changes meaning across the play.**
+**“Macbeth does murder sleep” — Macbeth reporting a voice, 2.2**
 
-## Appearance, deception and the supernatural
+**Personification** turns sleep into another victim of the crime. Killing Duncan seems to destroy Macbeth's own ability to rest. The voice reveals immediate mental disturbance, not a separate physical murder.
 
-“Fair is foul, and foul is fair” (1.1) joins opposites, unsettling the audience's trust in appearances.
+**“all great Neptune's ocean” — Macbeth, 2.2**
 
-- Lady Macbeth tells her husband to resemble an “innocent flower” while being a “serpent” underneath (1.5). The image separates a harmless surface from hidden danger.
-- Duncan feels safe at Macbeth's castle, while the audience knows the murder plan. This is **dramatic irony**: the audience knows what a character does not.
-- At the banquet, Macbeth tries to perform secure kingship but his reactions to the ghost reveal instability.
-- The apparitions' promises are **equivocal**: they can be technically fulfilled in a way Macbeth does not expect.
+The **hyperbole** makes guilt too large for an entire ocean to wash away. His next thought reverses the image: his blood could turn the sea red. The stain seems able to contaminate the world around him.
 
-**Birnam Wood** appears to move because soldiers use branches as camouflage. **Macduff** was delivered by being cut from his mother's womb, defeating Macbeth's interpretation of the prophecy about birth. Macbeth mistakes partial information for complete protection.
+**“A little water clears us of this deed” — Lady Macbeth, 2.2**
 
-Hallucination and the supernatural are not always identical. Macbeth's dagger vision can be read as an outward sign of his murderous intention and fear. Banquo's ghost may be staged to emphasise supernatural punishment, psychological guilt, or both. Explain the reading through what an audience sees and hears.
+“Little” minimises the crime and treats guilt as a practical cleaning problem. Her confidence contrasts with Macbeth's horror and prepares the audience for her later collapse.
 
-## Gender, courage and vulnerability
+**“Out, damned spot” — Lady Macbeth, 5.1**
 
-Characters argue about what it means to be a man.
+Her **imperative** cannot control an imagined stain. “Damned” gives guilt a moral and religious force. Hand-rubbing and fragmented prose turn private distress into visible stage action.
 
-- Lady Macbeth treats courage as willingness to carry out murder.
-- Macbeth first argues that there are moral limits to manhood: “I dare do all that may become a man” (1.7).
-- Later he manipulates the murderers through similar challenges to their masculinity.
-- Macduff insists that feeling grief is part of being a man (4.3), offering a different model of courage.
+**Compare the couple:** Macbeth initially voices guilt while Lady Macbeth dismisses it. Later, she compulsively relives the crime while he increasingly responds to fear with further violence. They both suffer, but they do not react identically.
 
-The play therefore gives **competing definitions of masculinity**, rather than one simple message that men are violent and women are weak. Lady Macbeth's early influence also complicates expectations of obedience within marriage.
+**Essay argument:** Shakespeare makes guilt a lasting consequence of deliberate wrongdoing. The repeated washing image changes from confidence to helplessness.
 
-The Scottish setting and the early seventeenth-century stage audience are different contexts. Beliefs about monarchy, witchcraft and gender can clarify a moment, but avoid claims that every person in Shakespeare's audience thought the same thing. Keep the argument grounded in the play.
+## Gender
+
+Characters disagree about what makes someone a man or a woman. **The play offers competing definitions of courage**, rather than a simple rule that men are violent and women are weak.
+
+Imagine someone being pressured with “prove you're brave” before doing something dangerous. Lady Macbeth uses this kind of challenge to make Macbeth's refusal seem shameful. Macduff later offers a different view: courage can include grief.
+
+### Quotations and competing ideas
+
+**“unsex me here” — Lady Macbeth, 1.5**
+
+The **imperative** asks supernatural forces to remove qualities she associates with femininity, especially tenderness. She links cruelty with the power to act. Needing to request this change also suggests that ruthlessness is something she must work to achieve.
+
+**“I dare do all that may become a man” — Macbeth, 1.7**
+
+“Become” means be fitting or appropriate here. Macbeth initially gives manhood a moral limit: being brave does not mean committing any act. His objection shows an alternative to Lady Macbeth's definition.
+
+**“When you durst do it, then you were a man” — Lady Macbeth, 1.7**
+
+She makes masculinity conditional on committing murder. This is **emotional manipulation**, turning a moral objection into a supposed failure of courage and identity. Macbeth later uses comparable challenges against the hired murderers.
+
+**“But I must also feel it as a man” — Macduff, 4.3**
+
+“Also” joins emotion with action. Macduff refuses to treat grief for his family as incompatible with manhood. His response challenges the idea that compassion must be suppressed before someone can act bravely.
+
+### What to compare
+
+- Lady Macbeth has considerable influence early in the marriage, complicating an expectation of female obedience. Her influence later declines as Macbeth plans independently.
+- Her own attachment to her father and later guilt complicate the hardness she tries to perform.
+- Macduff combines feeling and resistance, although some of his other remarks still reflect conventional gender assumptions.
+
+The Scottish setting and Shakespeare's early seventeenth-century stage audience are different contexts. Gender expectations can clarify the pressure characters use, but do not assume every member of the audience held identical beliefs.
+
+**Essay argument:** Shakespeare exposes the danger of equating masculinity with cruelty and presents compassion as compatible with courage.
+
+## The supernatural
+
+The supernatural involves forces beyond ordinary nature: witches, apparitions and ghosts. Shakespeare uses them to raise questions about **temptation, fate and human choice**.
+
+Think of someone relying on a prediction because it promises the result they want. The prediction may influence their decisions, but it does not explain away the decisions themselves. Macbeth increasingly lets supernatural reassurance replace careful judgement.
+
+### Different supernatural experiences
+
+- **The witches:** make predictions and create an atmosphere of disorder through thunder, paradoxes and ritual-like speech.
+- **The apparitions:** supply warnings and deceptive reassurance, encouraging Macbeth to feel secure.
+- **Banquo's ghost:** disrupts the banquet and makes Macbeth's hidden guilt or supernatural punishment visible onstage. Other guests cannot see it.
+- **The dagger vision:** may be a hallucination expressing Macbeth's intention and fear. Do not automatically treat every disturbing vision as an independent supernatural being.
+
+### Quotations to analyse
+
+**“The instruments of darkness tell us truths” — Banquo, 1.3**
+
+The warning shows that a correct prediction can still lead someone towards harm. Banquo's caution contrasts with Macbeth's growing dependence.
+
+**“Is this a dagger which I see before me” — Macbeth, 2.1**
+
+The **question** makes his perception uncertain. The apparent weapon gives visible form to the murder already occupying his mind. It does not remove his ability to choose.
+
+**“Something wicked this way comes” — Second Witch, 4.1**
+
+Macbeth has become the wicked presence approaching the witches. The description reverses his opening reputation and suggests increasing association with evil.
+
+**“none of woman born” — Second Apparition, 4.1**
+
+The apparently universal protection depends on an unexpected meaning. Macbeth trusts the comforting interpretation and becomes more reckless. Macduff's unusual birth later exposes his error.
+
+**Dramatic effect:** sound, entrances, cauldron action and the ghost's appearance make uncertainty something the audience experiences. A production may stress supernatural power, psychological disturbance, or a combination; support the interpretation with what is said and staged.
+
+**Essay argument:** supernatural promises tempt Macbeth and intensify his fear, while his repeated choices preserve his responsibility for the harm he causes.
+
+## Appearance and reality
+
+This theme asks whether the surface can be trusted. **Characters hide their intentions, and reassuring words conceal danger.** The gap between what others see and what the audience knows creates tension.
+
+Think of a friendly-looking message that hides a scam. Its harmless appearance encourages trust. Duncan's welcoming hosts similarly hide a deadly intention, while Macbeth accepts comforting promises without examining their limits.
+
+### Quotations to analyse
+
+**“Fair is foul, and foul is fair” — witches, 1.1**
+
+The **paradox** introduces a world in which good and evil appearances become confused. It prepares the audience to look beneath attractive surfaces.
+
+**“innocent flower” and “serpent” — Lady Macbeth, 1.5**
+
+The contrasting **images** separate harmless appearance from hidden threat. She teaches Macbeth to make hospitality a disguise. The serpent can also suggest temptation and betrayal.
+
+**“There's no art” — Duncan, 1.4**
+
+He says it is impossible to read a person's mind from their face. Macbeth enters just after Duncan admits that his trust in the previous Cawdor was misplaced. The placement creates **dramatic irony**: Duncan is about to repeat the mistake with another Cawdor.
+
+### Three important gaps
+
+| Appearance | Reality and dramatic effect |
+|---|---|
+| **Welcoming hosts** | Macbeth and Lady Macbeth plan Duncan's murder. The audience's knowledge makes Duncan's trust painful to watch. |
+| **Secure, commanding king** | Macbeth's reactions to Banquo's ghost expose fear and disorder during a public banquet. |
+| **Promises of safety** | Birnam Wood appears to move when soldiers carry branches. Macduff's unusual delivery defeats Macbeth's interpretation of the birth prophecy. |
+
+The apparitions use **equivocation**: words that can be fulfilled in a way Macbeth does not expect. They do not need to make an openly false promise to mislead him. He mistakes partial information for complete protection.
+
+**Connect the themes:** appearance and reality concerns the gap between surface and truth. The supernatural is one source of that gap; the couple's deliberate deception is another.
+
+**Essay argument:** Shakespeare shows that trusting appearances without examining motives or meanings leaves people vulnerable to betrayal, including Macbeth himself.
+
+[Read Macbeth's moral debate](https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/7/) · [The banquet's aftermath](https://www.folger.edu/explore/shakespeares-works/macbeth/read/3/4/) · [Malcolm and Macduff on leadership](https://www.folger.edu/explore/shakespeares-works/macbeth/read/4/3/)
 
 ## How Shakespeare makes the drama work
 
