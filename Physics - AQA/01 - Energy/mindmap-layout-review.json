@@ -1,0 +1,324 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        290,
+        442,
+        328
+      ],
+      "column_heights": [
+        548,
+        575,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 301
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 442,
+          "height": 372
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 402,
+          "width": 442,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 259,
+          "width": 328,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-energy",
+          "purpose": "Shows that useful and dissipated outputs still add up to the supplied energy."
+        }
+      ],
+      "slug": "00-energy-overview",
+      "title": "Energy overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        350,
+        358,
+        352
+      ],
+      "column_heights": [
+        467,
+        591,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 237,
+          "width": 358,
+          "height": 388
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-spring",
+          "purpose": "Shows that elastic energy is the triangular area under a proportional force–extension graph."
+        }
+      ],
+      "slug": "01-energy-stores-and-calculations",
+      "title": "Stores & calculations",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        410,
+        350,
+        300
+      ],
+      "column_heights": [
+        572,
+        599,
+        612
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 410,
+          "height": 391
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 421,
+          "width": 410,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 440,
+          "y": 18,
+          "width": 350,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 440,
+          "y": 360,
+          "width": 350,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 802,
+          "y": 18,
+          "width": 300,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 802,
+          "y": 316,
+          "width": 300,
+          "height": 330
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "ph-specific",
+          "purpose": "Compares temperature rises for equal masses with different heat capacities."
+        }
+      ],
+      "slug": "02-heating-and-practicals",
+      "title": "Heating & practicals",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        378,
+        350,
+        332
+      ],
+      "column_heights": [
+        476,
+        476,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 378,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 259,
+          "width": 350,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 770,
+          "y": 18,
+          "width": 332,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 770,
+          "y": 259,
+          "width": 332,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-energy-resources",
+      "title": "Energy resources",
+      "source_panels_preserved": 6
+    }
+  ]
+}

@@ -212,3 +212,8 @@ def drawing(kind,width):
     if width<MIN_WIDTH[kind]:raise ValueError('Diagram requires a wider panel: '+kind)
     svg,height=DRAWINGS[kind](width)
     return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+svg+'</g>',height
+
+from physics_readable_figures import DRAWINGS as PHYSICS_DRAWINGS,MIN_WIDTH as PHYSICS_WIDTHS,PURPOSES as PHYSICS_PURPOSES
+DRAWINGS.update(PHYSICS_DRAWINGS)
+MIN_WIDTH.update(PHYSICS_WIDTHS)
+PURPOSES.update(PHYSICS_PURPOSES)
