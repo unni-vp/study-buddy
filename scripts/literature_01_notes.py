@@ -276,13 +276,32 @@ Macduff resists Macbeth because he cares about Scotland and its people. **His co
 
 **Central argument:** Macduff connects national suffering with personal grief and presents humane courage as an answer to tyranny.
 
+## Duncan: generous kingship and misplaced trust
+
+Duncan is Scotland's king and Malcolm's father. **He rewards loyalty and values service, but cannot reliably recognise betrayal.** His goodness makes Macbeth's murder more disturbing; his mistakes prevent him from being a flawless ruler.
+
+- **Generous and appreciative:** he rewards Macbeth and Banquo rather than treating their success as a threat.
+- **Trusting, with vulnerable judgement:** the old Thane of Cawdor betrays him; he then places confidence in Macbeth, repeating the danger.
+- **A contrast to tyranny:** his nurturing language presents leadership as helping others flourish. Macbeth increasingly rules through fear.
+
+### Key quotations
+
+- **“noble Macbeth” — Duncan, 1.2:** **language — approving adjective:** he rewards the soldier he believes is loyal. Transferring Cawdor's title to another future traitor creates a **structural irony**.
+- **“There's no art” — Duncan, 1.4:** **structure — dramatic irony:** he admits that faces cannot reveal intentions. Macbeth enters immediately afterwards, exposing the gap between Duncan's trust and the danger the audience knows.
+- **“I have begun to plant thee” — Duncan, 1.4:** **imagery — gardening metaphor:** he treats Macbeth's advancement as growth he should nurture. Good kingship supports others, rather than destroying rivals.
+- **“pleasant seat” — Duncan, 1.6:** **language / structure — reassuring adjective and dramatic irony:** Macbeth's castle seems welcoming, but the audience knows a murder is being planned. Apparent comfort conceals danger.
+- **“plead like angels” — Macbeth about Duncan, 1.7:** **imagery / form — religious simile in Macbeth's soliloquy:** Duncan's virtues become a powerful argument against murder. Macbeth recognises his goodness before choosing to betray him.
+
+**Relationships and role:** Duncan is Macbeth's king, relative and guest, so the murder breaks several duties at once. Naming Malcolm as his heir also creates an obstacle to Macbeth's ambition. His death is a **structural turning point**, replacing temptation with guilt and political disorder.
+
+**Central argument:** Duncan represents benevolent authority whose vulnerability exposes both the danger of trusting appearances and the cruelty of Macbeth's choices.
+
 ## Other characters and the rulers
 
 | Character | Main purpose | Evidence and interpretation |
 |---|---|---|
 | **Fleance** | A future Macbeth cannot control | His escape means killing Banquo has not removed the threat to Macbeth's dynasty. The play does not show Fleance becoming king. |
 | **Lady Macduff and her son** | Innocent victims | Their domestic conversation and onstage danger expose how political violence destroys ordinary family life. Lady Macduff also questions her husband's departure. |
-| **Duncan** | Legitimate authority, but vulnerable judgement | He rewards loyalty but misjudges both the old Thane of Cawdor and Macbeth. His trusting arrival makes the betrayal more disturbing. |
 | **Malcolm** | A possible restoration of responsible rule | He tests Macduff's loyalty in 4.3 and contrasts a ruler's duties with Macbeth's self-interest. His final order offers a fresh start after damage. |
 
 ## Ambition / Power
@@ -600,6 +619,6 @@ Write connected paragraphs in the exam. A useful paragraph does more than name a
 For Shakespeare, the assessed focus is your understanding, analysis and writing accuracy. Context can illuminate a reading, but a detached history paragraph takes space away from close analysis. Avoid diagnosing a character or stating Shakespeare's purpose as a proven fact when it is an interpretation.
 ''',[
 ('acts','Story / Acts','Follow each act through its key events, analysis and quotations.','literature-book',['The story in five acts','Act 1 — Temptation and choice','Act 2 — Murder and disorder','Act 3 — Fear and isolation','Act 4 — False confidence and cruelty','Act 5 — Collapse and restoration']),
-('story','Characters','Explore personalities, motives and relationships.','literature-drama',['Macbeth: from defender to tyrant','Lady Macbeth and the marriage','The witches: temptation and deceptive promises','Banquo: temptation, integrity and a threatening legacy','Macduff: loyalty, grief and resistance','Other characters and the rulers']),
+('story','Characters','Explore personalities, motives and relationships.','literature-drama',['Macbeth: from defender to tyrant','Lady Macbeth and the marriage','The witches: temptation and deceptive promises','Banquo: temptation, integrity and a threatening legacy','Macduff: loyalty, grief and resistance','Duncan: generous kingship and misplaced trust','Other characters and the rulers']),
 ('ideas','Themes and dramatic methods','Connect repeated images, choices and audience effects.','literature-drama',['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality','How Shakespeare makes the drama work']),
-('answers','Quotations and essay writing','Turn short evidence into clear, developed arguments.','literature-pen',['A small quotation bank with many uses','Writing about an extract','Building a whole-play argument'])],{'Component 1 Section A':['whole play plot and turning points','act-by-act analysis and key quotations checked against the Folger primary text','major and supporting characters','relationships and development','themes and motifs','language form structure dramatic techniques','15-mark extract AO1/AO2','25-mark essay AO1/AO2 plus 5 AO4'],'act_quotation_review':{'reviewed':'2026-10-13','added_per_act':3,'primary_source':'Folger Shakespeare Library; speakers and act/scene references checked'},'character_and_theme_review':{'reviewed':'2026-10-13','characters':['Macbeth','Lady Macbeth','The witches','Banquo','Macduff'],'presentation':'Concise overview, traits, key quotations with short analysis, relationships and central argument','themes':['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality'],'quotations':'Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines'},'primary_text':'https://www.folger.edu/explore/shakespeares-works/macbeth/read/','assessment_sample':['2019 Q21/Q22','2023 Q21/Q22','2024 Q21/Q22']})
+('answers','Quotations and essay writing','Turn short evidence into clear, developed arguments.','literature-pen',['A small quotation bank with many uses','Writing about an extract','Building a whole-play argument'])],{'Component 1 Section A':['whole play plot and turning points','act-by-act analysis and key quotations checked against the Folger primary text','major and supporting characters','relationships and development','themes and motifs','language form structure dramatic techniques','15-mark extract AO1/AO2','25-mark essay AO1/AO2 plus 5 AO4'],'act_quotation_review':{'reviewed':'2026-10-13','added_per_act':3,'primary_source':'Folger Shakespeare Library; speakers and act/scene references checked'},'character_and_theme_review':{'reviewed':'2026-10-13','characters':['Macbeth','Lady Macbeth','The witches','Banquo','Macduff','Duncan'],'presentation':'Concise overview, traits, key quotations with short analysis, relationships and central argument','themes':['Ambition / Power','Kingship','Violence','Guilt','Gender','The supernatural','Appearance and reality'],'quotations':'Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines'},'duncan_character_review':{'reviewed':'2026-10-13','quotations':5,'sources':['https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/2/','https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/4/','https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/6/','https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/7/'],'checks':['Quotation wording, speakers and scenes verified against the primary text.','Concise character format; every quotation linked to a method and effect.',"Distinguish generosity from reliable judgement; retain Macbeth's responsibility."]},'primary_text':'https://www.folger.edu/explore/shakespeares-works/macbeth/read/','assessment_sample':['2019 Q21/Q22','2023 Q21/Q22','2024 Q21/Q22']})

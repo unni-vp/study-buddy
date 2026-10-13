@@ -24,7 +24,8 @@
         "Lady Macbeth",
         "The witches",
         "Banquo",
-        "Macduff"
+        "Macduff",
+        "Duncan"
       ],
       "presentation": "Concise overview, traits, key quotations with short analysis, relationships and central argument",
       "themes": [
@@ -37,6 +38,21 @@
         "Appearance and reality"
       ],
       "quotations": "Speakers, wording and scene references checked against Folger primary text; verse breaks retained where quoted across lines"
+    },
+    "duncan_character_review": {
+      "reviewed": "2026-10-13",
+      "quotations": 5,
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/2/",
+        "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/4/",
+        "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/6/",
+        "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/7/"
+      ],
+      "checks": [
+        "Quotation wording, speakers and scenes verified against the primary text.",
+        "Concise character format; every quotation linked to a method and effect.",
+        "Distinguish generosity from reliable judgement; retain Macbeth's responsibility."
+      ]
     },
     "primary_text": "https://www.folger.edu/explore/shakespeares-works/macbeth/read/",
     "assessment_sample": [

@@ -276,13 +276,32 @@ Macduff resists Macbeth because he cares about Scotland and its people. **His co
 
 **Central argument:** Macduff connects national suffering with personal grief and presents humane courage as an answer to tyranny.
 
+## Duncan: generous kingship and misplaced trust
+
+Duncan is Scotland's king and Malcolm's father. **He rewards loyalty and values service, but cannot reliably recognise betrayal.** His goodness makes Macbeth's murder more disturbing; his mistakes prevent him from being a flawless ruler.
+
+- **Generous and appreciative:** he rewards Macbeth and Banquo rather than treating their success as a threat.
+- **Trusting, with vulnerable judgement:** the old Thane of Cawdor betrays him; he then places confidence in Macbeth, repeating the danger.
+- **A contrast to tyranny:** his nurturing language presents leadership as helping others flourish. Macbeth increasingly rules through fear.
+
+### Key quotations
+
+- **“noble Macbeth” — Duncan, 1.2:** **language — approving adjective:** he rewards the soldier he believes is loyal. Transferring Cawdor's title to another future traitor creates a **structural irony**.
+- **“There's no art” — Duncan, 1.4:** **structure — dramatic irony:** he admits that faces cannot reveal intentions. Macbeth enters immediately afterwards, exposing the gap between Duncan's trust and the danger the audience knows.
+- **“I have begun to plant thee” — Duncan, 1.4:** **imagery — gardening metaphor:** he treats Macbeth's advancement as growth he should nurture. Good kingship supports others, rather than destroying rivals.
+- **“pleasant seat” — Duncan, 1.6:** **language / structure — reassuring adjective and dramatic irony:** Macbeth's castle seems welcoming, but the audience knows a murder is being planned. Apparent comfort conceals danger.
+- **“plead like angels” — Macbeth about Duncan, 1.7:** **imagery / form — religious simile in Macbeth's soliloquy:** Duncan's virtues become a powerful argument against murder. Macbeth recognises his goodness before choosing to betray him.
+
+**Relationships and role:** Duncan is Macbeth's king, relative and guest, so the murder breaks several duties at once. Naming Malcolm as his heir also creates an obstacle to Macbeth's ambition. His death is a **structural turning point**, replacing temptation with guilt and political disorder.
+
+**Central argument:** Duncan represents benevolent authority whose vulnerability exposes both the danger of trusting appearances and the cruelty of Macbeth's choices.
+
 ## Other characters and the rulers
 
 | Character | Main purpose | Evidence and interpretation |
 |---|---|---|
 | **Fleance** | A future Macbeth cannot control | His escape means killing Banquo has not removed the threat to Macbeth's dynasty. The play does not show Fleance becoming king. |
 | **Lady Macduff and her son** | Innocent victims | Their domestic conversation and onstage danger expose how political violence destroys ordinary family life. Lady Macduff also questions her husband's departure. |
-| **Duncan** | Legitimate authority, but vulnerable judgement | He rewards loyalty but misjudges both the old Thane of Cawdor and Macbeth. His trusting arrival makes the betrayal more disturbing. |
 | **Malcolm** | A possible restoration of responsible rule | He tests Macduff's loyalty in 4.3 and contrasts a ruler's duties with Macbeth's self-interest. His final order offers a fresh start after damage. |
 
 ## Ambition / Power
