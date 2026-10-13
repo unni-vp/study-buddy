@@ -3,7 +3,7 @@ from pathlib import Path
 import json
 ROOT=Path(__file__).resolve().parents[1]
 SUBJECT='English Literature - Eduqas'
-TOPICS=['01 - Macbeth','02 - Poetry anthology - assessment from 2027']
+TOPICS=['01 - Macbeth','02 - Poetry anthology - assessment from 2027','03 - An Inspector Calls','04 - A Christmas Carol','05 - Unseen poetry']
 def notes(n,title,body,groups,coverage):
  p=ROOT/SUBJECT/TOPICS[n-1];f=p/'Revision Notes';f.mkdir(parents=True,exist_ok=True)
  name=title+' - Revision Notes.md';(f/name).write_text('# '+title+'\n\n'+body.strip()+'\n',encoding='utf-8')

@@ -52,6 +52,8 @@ VISUALS={
  ('Physics - AQA',5,'03-motion-and-graphs'):{5:('ph-motion',1)},
  ('Physics - AQA',5,'04-newtons-laws-and-practical'):{2:('ph-terminal',1)},
 }
+VISUALS[('English Literature - Eduqas',3,'00-inspector-calls-overview')]={5:('lit-inspector-cycle',1)}
+
 COLUMNS={
  ('Chemistry - AQA',4,'03-titration'):[[0,3],[1,4],[2,5]],
 }

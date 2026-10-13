@@ -44,3 +44,6 @@ MAPS[1] = enrich_maps(MAPS[1])
 
 from literature_poetry_maps import MAPS as POETRY_MAPS
 MAPS[2]=POETRY_MAPS
+
+from literature_remaining_maps import MAPS as REMAINING_MAPS
+MAPS.update(REMAINING_MAPS)

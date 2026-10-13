@@ -1,0 +1,239 @@
+{
+  "reviewed": "2026-10-14",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Editable Markdown counterparts synchronised with the same maintained map definitions.",
+  "maps": [
+    {
+      "widths": [
+        338,
+        354,
+        368
+      ],
+      "column_heights": [
+        612,
+        590,
+        631
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 338,
+          "width": 338,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 354,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 316,
+          "width": 354,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 734,
+          "y": 18,
+          "width": 368,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 734,
+          "y": 316,
+          "width": 368,
+          "height": 349
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "lit-inspector-cycle",
+          "purpose": "Shows the cyclical ending: investigation, apparent escape and renewed pressure, making the moral lesson distinct from fear of punishment."
+        }
+      ],
+      "slug": "00-inspector-calls-overview",
+      "title": "An Inspector Calls overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        338,
+        370,
+        352
+      ],
+      "column_heights": [
+        546,
+        546,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 338,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 370,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 316,
+          "width": 370,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 294,
+          "width": 352,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-characters-and-responsibility",
+      "title": "Characters and responsibility",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        326,
+        354,
+        380
+      ],
+      "column_heights": [
+        524,
+        524,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 326,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 326,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 356,
+          "y": 18,
+          "width": 354,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 356,
+          "y": 316,
+          "width": 354,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 722,
+          "y": 18,
+          "width": 380,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 722,
+          "y": 316,
+          "width": 380,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-themes-and-stagecraft",
+      "title": "Themes and stagecraft",
+      "source_panels_preserved": 6
+    }
+  ]
+}

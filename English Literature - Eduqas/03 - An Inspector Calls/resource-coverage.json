@@ -1,7 +1,7 @@
 {
   "reviewed": "2026-10-14",
   "specification": "Eduqas C720QS Component 2; local official PDF pages 10–12",
-  "resource_scope": "Revision notes only",
+  "resource_scope": "Revision notes, mind maps, questions and answers, flash cards",
   "coverage": [
     "All three acts and cyclical ending",
     "Arthur, Sybil, Sheila, Eric, Gerald, Goole and Eva",
@@ -31,5 +31,14 @@
       "url": "https://jbpriestleysociety.com/works/an-inspector-calls/",
       "use": "Historical framing; interpretations in notes are original"
     }
-  ]
+  ],
+  "questions_and_answers": {
+    "count": 31,
+    "format": "Original practice; one combined page ordered by marks",
+    "assessment_review": "Eduqas official SAMs Component 2 Question 8 verifies the source-based extract-and-whole-play format: 40 marks including 5 for AO4, with AO1/AO2 assessing the literature. The two long practice prompts use named moments rather than reproducing a copyrighted extract; in the examination use the printed extract. Short practice marks are not examiner allocations. No recurrence claims are made from a single specimen."
+  },
+  "flashcards": {
+    "count": 26,
+    "source": "Short paired retrieval/application questions"
+  }
 }
