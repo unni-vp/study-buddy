@@ -1,0 +1,528 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        366,
+        342,
+        352
+      ],
+      "column_heights": [
+        454,
+        454,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 366,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 366,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 396,
+          "y": 18,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 396,
+          "y": 259,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-resources-overview",
+      "title": "Using resources"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        454,
+        454,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 259,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-water-treatment",
+      "title": "Potable water, wastewater and analysis"
+    },
+    {
+      "widths": [
+        334,
+        338,
+        388
+      ],
+      "column_heights": [
+        454,
+        454,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 334,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 334,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 364,
+          "y": 259,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 714,
+          "y": 18,
+          "width": 388,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 714,
+          "y": 281,
+          "width": 388,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-recovery-and-life-cycles",
+      "title": "Metal recovery, recycling and life cycles"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        432,
+        465,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 262
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "chem-alloy",
+          "purpose": "Compares regular metal layers with layers distorted by different-sized atoms."
+        }
+      ],
+      "slug": "03-corrosion-and-alloys",
+      "title": "Corrosion, protection and alloys"
+    },
+    {
+      "widths": [
+        290,
+        426,
+        344
+      ],
+      "column_heights": [
+        476,
+        541,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 426,
+          "height": 338
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 368,
+          "width": 426,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 237,
+          "width": 344,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "remaining-chem-polymer-links",
+          "purpose": "Compares separate polymer chains with covalent cross-links, explaining why heating permits thermosoftening movement but not thermosetting melting."
+        }
+      ],
+      "slug": "04-material-selection",
+      "title": "Glass, ceramics, polymers and composites"
+    },
+    {
+      "widths": [
+        302,
+        406,
+        352
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 302,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 406,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 215,
+          "width": 406,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-haber-process",
+      "title": "Haber process and industrial compromises"
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        454,
+        454,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 237,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "06-npk-fertilisers",
+      "title": "NPK fertilisers and manufacture"
+    }
+  ]
+}

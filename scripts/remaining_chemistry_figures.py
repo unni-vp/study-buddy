@@ -117,11 +117,34 @@ def greenhouse(w):
     s+=label(w/2,258,'Orange: incoming short-wave radiation','middle')+label(w/2,285,'Blue/red: outgoing long-wave infrared','middle')+label(w/2,312,'Some escapes, some is absorbed by gases','middle')+label(w/2,339,'Re-emission towards surface warms it','middle')
     return s,351
 
-RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram,'remaining-chem-greenhouse':greenhouse}
+def polymer_links(w):
+    if w<340:raise ValueError('Chain comparison needs 340 units')
+    s='';half=(w-24)/2
+    for side,t in [(0,'Thermosoftening'),(1,'Thermosetting')]:
+        x=side*(half+24);s+=label(x+half/2,16,t,'middle')
+        for y in (57,94,131):s+=f'<path d="M{x+12} {y}Q{x+half*.3} {y-10} {x+half*.5} {y}T{x+half-12} {y}" fill="none" stroke="{BLUE}" stroke-width="3"/>'
+        if side:
+            for cx in (x+half*.3,x+half*.7):s+=f'<path d="M{cx} 57V131" stroke="{ORANGE}" stroke-width="3"/>'
+    s+=label(w/2,174,'Right: covalent links join the chains','middle')+label(w/2,202,'Left: separate chains can move on heating','middle')
+    return s,214
+
+def haber(w):
+    if w<580:raise ValueError('Haber flow needs notes width')
+    xs=[80,w*.47,w*.8];s=''
+    for x,t in zip(xs,['N₂ + H₂','Reactor','Cooler']):s+=f'<rect x="{x-55}" y="37" width="110" height="47" rx="9" fill="#f0f5ed" stroke="{GREEN}"/>'+label(x,66,t,'middle')
+    s+=arrow(xs[0]+59,61,xs[1]-59,61)+arrow(xs[1]+59,61,xs[2]-59,61)
+    s+=label(xs[1],117,'450°C / 200 atm','middle')+label(xs[1],145,'Iron catalyst','middle')
+    s+=arrow(xs[2],90,xs[2],145)+label(xs[2],173,'Liquid ammonia','middle')
+    s+=f'<path d="M{xs[2]+55} 61H{w-15}V228H80V91" fill="none" stroke="{BLUE}" stroke-width="2"/>'+arrow(80,111,80,87)
+    s+=label(w/2,259,'Unreacted nitrogen and hydrogen recycled','middle')
+    return s,271
+
+RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram,'remaining-chem-greenhouse':greenhouse,'remaining-chem-polymer-links':polymer_links,'remaining-chem-haber':haber}
 PURPOSES={'remaining-chem-rate-curves':'Compares rates by slopes while both reactions approach the same limiting-reactant gas yield.','remaining-chem-tangent':'Shows an analytically correct tangent and large triangle for instantaneous gas-production rate.','remaining-chem-equilibrium':'Distinguishes initially unequal forward/reverse rates from equal nonzero rates at dynamic equilibrium.','remaining-chem-gas':'Shows a stoppered reaction flask connected to a graduated gas syringe, with an open moving plunger rather than a blocked collector.'}
 PURPOSES.update({'remaining-chem-alkenes':'Displays every atom and bond in straight-chain representatives of the first four alkenes, keeping carbon valency four.','remaining-chem-additions':'Shows hydrogen, water and bromine adding across ethene’s double bond with the new atoms attached to the correct carbons.','remaining-chem-polymer':'Changes ethene C=C into a single-bond repeating unit with two external chain bonds, brackets and n, preserving all atoms.'})
 PURPOSES['remaining-chem-chromatogram']='Shows separated reference/sample spots with a distinct common baseline and solvent front; the dimensionless Rf is calculated from two distances measured from that baseline.'
 PURPOSES['remaining-chem-greenhouse']='Distinguishes incoming short-wavelength radiation, outgoing infrared escape and absorption/re-emission by greenhouse gases, without depicting a reflecting solid blanket or implying all radiation is trapped.'
+PURPOSES.update({'remaining-chem-polymer-links':'Compares separate polymer chains with covalent cross-links, explaining why heating permits thermosoftening movement but not thermosetting melting.','remaining-chem-haber':'Separates the reactor, ammonia condensation outlet and actual unreacted-gas recycle route in the Haber process.'})
 def wrapper(kind):
     def draw(w):
         s,h=RAW[kind](w);return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+s+'</g>',h

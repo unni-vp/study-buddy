@@ -1,0 +1,41 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "4.10.1.1–4.10.1.4",
+    "4.10.2.1–4.10.2.2",
+    "4.10.3.1–4.10.3.3",
+    "4.10.4.1–4.10.4.2"
+  ],
+  "coverage_checklist": {
+    "4.10.1": "Natural/synthetic/finite/renewable/sustainability,all potable/desalination/wastewater steps,water pH/residue/distillation practical,phyto/bioleaching/recovery/evaluation",
+    "4.10.2": "All LCA stages/transport/data/value judgement/bags/reuse,reduce/recycle/separation",
+    "4.10.3": "Rust conditions/barriers/sacrificial/Al oxide,all specified alloy compositions/properties/uses/carats,glass/clay/polymer LDHD/cross-links/composites/data selection",
+    "4.10.4": "Haber gases/sources/ratio/conditions/cooling/recycle/HTcompromises,NPKsalt sources/ammonia-acid integration/phosphate-treatment names/industrial-lab comparison"
+  },
+  "practicals": [
+    "RPA8"
+  ],
+  "mindmaps": [
+    "00-resources-overview",
+    "01-water-treatment",
+    "02-recovery-and-life-cycles",
+    "03-corrosion-and-alloys",
+    "04-material-selection",
+    "05-haber-process",
+    "06-npk-fertilisers"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Using resources - Questions and Answers.md",
+    "deck": "Flash Cards/Using resources - Flash Cards.json",
+    "count": 50,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "title": "Using resources flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is potable water?",
+      "back": [
+        "Water safe to drink."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name a method that removes dissolved salt from seawater.",
+      "back": [
+        "Distillation."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the solid formed by sewage sedimentation called?",
+      "back": [
+        "Sludge."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which organisms carry out bioleaching?",
+      "back": [
+        "Bacteria."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What two substances must be present for iron to rust?",
+      "back": [
+        "Oxygen and water."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which metal commonly galvanises iron?",
+      "back": [
+        "Zinc."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which two metals form bronze?",
+      "back": [
+        "Copper and tin."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which two metals form brass?",
+      "back": [
+        "Copper and zinc."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What percentage gold is in 18-carat gold?",
+      "back": [
+        "75%."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What catalyst is used in the Haber process?",
+      "back": [
+        "Iron."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does NPK stand for?",
+      "back": [
+        "Nitrogen, phosphorus and potassium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which polymer type has covalent cross-links and does not melt on heating?",
+      "back": [
+        "Thermosetting."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish renewable from finite resources.",
+      "back": [
+        "Renewable resources can be replenished on useful timescales if managed appropriately.",
+        "Finite resources are used far faster than they are replaced, so available reserves decline."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Define sustainable development.",
+      "back": [
+        "Development meeting **current generations’ needs**.",
+        "Without compromising **future generations’ ability to meet theirs**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is potable water not necessarily chemically pure?",
+      "back": [
+        "It is safe because microbes and harmful substances are sufficiently low.",
+        "It still contains **dissolved substances**, so it is not only H₂O."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one purpose of filtering water and one purpose of sterilising it.",
+      "back": [
+        "Filtering removes **suspended solid particles**.",
+        "Sterilising kills microorganisms."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two sterilisation methods for freshwater supplies.",
+      "back": [
+        "Chlorine and ultraviolet light."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does filtering seawater not usually make it potable?",
+      "back": [
+        "Ordinary filters do not remove the **dissolved salts**.",
+        "Desalination, such as distillation or reverse osmosis, is needed to reduce salt levels sufficiently."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe how distillation removes dissolved salts.",
+      "back": [
+        "Water evaporates, leaving dissolved salts behind.",
+        "Vapour is cooled and **condensed** into collected water."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish sewage-sludge treatment from effluent treatment.",
+      "back": [
+        "Sludge undergoes **anaerobic digestion**.",
+        "Effluent undergoes **aerobic biological treatment**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe bioleaching of copper compounds.",
+      "back": [
+        "Bacteria help produce a **leachate solution**.",
+        "The leachate contains dissolved copper compounds for further metal recovery."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can scrap iron recover copper from copper-salt solution?",
+      "back": [
+        "Iron is **more reactive** than copper.",
+        "It displaces copper from its compound, producing copper metal."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons recycling copper can be better than extracting more ore.",
+      "back": [
+        "It conserves **finite ore resources**.",
+        "It can require less energy and cause less mining damage than fresh extraction."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can painting fail to protect scratched iron?",
+      "back": [
+        "A scratch breaks the **barrier**.",
+        "Water and oxygen can then reach the iron and cause rusting."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why zinc can protect scratched galvanised iron.",
+      "back": [
+        "Zinc is more reactive and **oxidises preferentially**.",
+        "It gives **sacrificial protection** while enough connected zinc remains."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does aluminium resist further corrosion after its surface reacts?",
+      "back": [
+        "It forms an adherent **oxide coating**.",
+        "The coating acts as a barrier to further reaction of the underlying metal."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State a use of stainless steel and a property supporting it.",
+      "back": [
+        "Cutlery or kitchen equipment.",
+        "It is hard and **corrosion-resistant**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State a use of low-carbon steel and a supporting property.",
+      "back": [
+        "Car body panels.",
+        "It is comparatively soft and **easily shaped**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give a use of high-carbon steel and its relevant limitation.",
+      "back": [
+        "Cutting tools need its hardness/strength.",
+        "It is **brittle**, which can limit uses requiring bending or impact resistance."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why aluminium alloys suit aircraft structures.",
+      "back": [
+        "They have **low density**, reducing mass.",
+        "Suitable alloys combine this with useful strength."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Name the three main starting materials for soda-lime glass.",
+      "back": [
+        "Sand, sodium carbonate and limestone."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What two roles make up a composite material?",
+      "back": [
+        "A **matrix/binder** holds the structure together.",
+        "A **reinforcement**, such as fibres, supplies useful strength or other properties."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State a usual source of each Haber-process reactant.",
+      "back": [
+        "Nitrogen from **air**.",
+        "Hydrogen from **natural gas**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What happens to ammonia and unused gases after the Haber reactor?",
+      "back": [
+        "Ammonia is cooled so it **liquefies and is removed**.",
+        "Unreacted nitrogen/hydrogen are **recycled**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is untreated phosphate rock not an effective direct fertiliser?",
+      "back": [
+        "It is **poorly soluble**.",
+        "Nutrients cannot readily dissolve and become available for plant uptake."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Name the fertiliser products associated with sulfuric and phosphoric acid treatment of phosphate rock.",
+      "back": [
+        "Sulfuric acid: **single superphosphate**, including calcium sulfate and soluble phosphate compounds.",
+        "Phosphoric acid: **triple superphosphate**, mainly calcium dihydrogenphosphate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe phytomining and the form of the recovered material.",
+      "back": [
+        "Plants absorb metal compounds from soil.",
+        "Harvest and burn the biomass.",
+        "Ash contains **metal compounds**, requiring further processing to obtain metal."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An empty basin is 24.50 g; after evaporating 50 cm³ water it is 24.65 g. Calculate residue mass and concentration in g dm⁻³.",
+      "back": [
+        "Residue = 24.65−24.50 = **0.15 g**.",
+        "Volume = 50/1000 = **0.050 dm³**.",
+        "Concentration = 0.15/0.050 = **3.0 g dm⁻³**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 16 g jewellery alloy is 18 carat. Calculate gold mass and explain why alloying is useful.",
+      "back": [
+        "Gold fraction = 18/24 = **0.75**.",
+        "Gold mass = 16 ×0.75 = **12 g**.",
+        "Alloying increases hardness/wear resistance compared with soft pure gold."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why alloys are usually harder than the pure metal.",
+      "back": [
+        "Pure metal has relatively regular layers of similar-sized atoms.",
+        "Other elements introduce different sizes and **distort the layers**.",
+        "Layers slide less easily."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe manufacturing clay ceramics.",
+      "back": [
+        "Shape **wet clay** into the required form.",
+        "Dry as appropriate and heat strongly in a **furnace**.",
+        "The resulting hard material can form pottery or bricks, though it is brittle."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how LDPE and HDPE can both be made from ethene yet have different properties.",
+      "back": [
+        "Different conditions/catalysts produce different chain arrangements.",
+        "LDPE’s greater branching prevents close packing.",
+        "HDPE packs more closely, giving higher density and greater rigidity."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why thermosetting polymers do not melt like thermosoftening polymers.",
+      "back": [
+        "Thermosetting chains have **covalent cross-links**.",
+        "These prevent chains moving freely on heating.",
+        "Thermosoftening chains are separate, so overcoming intermolecular attractions allows movement and melting."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "State the Haber equation and explain the gas ratio.",
+      "back": [
+        "**N₂+3H₂ ⇌2NH₃**.",
+        "One nitrogen molecule reacts with three hydrogen molecules.",
+        "Feed gases therefore use a **1:3 nitrogen:hydrogen molar ratio**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why high pressure favours ammonia in the Haber process.",
+      "back": [
+        "There are **four gas moles** on the reactant side and **two** on the product side.",
+        "High pressure favours fewer gas moles.",
+        "Equilibrium shifts towards ammonia, increasing its proportion."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Name the products from nitric acid and phosphate rock, and link one to fertiliser use.",
+      "back": [
+        "Products include **calcium nitrate**.",
+        "**Phosphoric acid** is also produced.",
+        "Calcium nitrate supplies plant nutrients in a soluble salt; phosphoric acid can support further phosphate-fertiliser manufacture."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a controlled experiment showing rust needs both oxygen and water.",
+      "back": [
+        "Use comparable clean iron nails, same time and temperature.",
+        "One nail has air and water and should rust.",
+        "One has dry air with a drying agent, preventing water exposure.",
+        "One has boiled water covered with oil, removing/excluding oxygen; little/no rust in the latter two supports both requirements."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain the four major life-cycle stages and why transport matters.",
+      "back": [
+        "Raw-material extraction/processing.",
+        "Manufacture and packaging.",
+        "Use over the product’s useful lifetime.",
+        "Disposal/reuse/recycling, with **transport between stages** adding energy use and emissions."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why a reusable glass bottle can have lower impact per use despite higher production energy.",
+      "back": [
+        "Manufacture impact is spread over many uses.",
+        "Reuse avoids making a new bottle for every use.",
+        "Washing and return transport still consume resources/energy.",
+        "Actual reuse count, breakage and travel determine whether the overall comparison is favourable."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe the main wastewater treatment sequence.",
+      "back": [
+        "Screen/remove grit.",
+        "Sediment to separate **sludge and effluent**.",
+        "Digest sludge **anaerobically**.",
+        "Treat effluent **aerobically**, with extra chemical treatment if required by contaminants."
+      ]
+    }
+  ]
+}

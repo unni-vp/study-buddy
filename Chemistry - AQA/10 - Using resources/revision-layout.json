@@ -1,0 +1,82 @@
+{
+  "source": "Using resources - Revision Notes.md",
+  "groups": [
+    {
+      "id": "water",
+      "title": "Resources and water",
+      "description": "Compare sustainable use, treatment and analysis methods.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Resources and sustainable development"
+        },
+        {
+          "heading": "Potable water and freshwater treatment"
+        },
+        {
+          "heading": "Desalination and water analysis"
+        },
+        {
+          "heading": "Wastewater treatment"
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "title": "Recovery and life-cycle choices",
+      "description": "Assess extraction, recycling and full environmental impacts.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Phytomining and bioleaching"
+        },
+        {
+          "heading": "Life-cycle assessments"
+        },
+        {
+          "heading": "Reduce, reuse and recycle"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "title": "Materials and protection",
+      "description": "Link structures and properties to practical uses.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Corrosion, rusting and protective layers"
+        },
+        {
+          "heading": "Alloys and their uses"
+        },
+        {
+          "heading": "Glass, ceramics and composites"
+        },
+        {
+          "heading": "Polymers: manufacturing conditions and heating"
+        }
+      ]
+    },
+    {
+      "id": "fertilisers",
+      "title": "Ammonia and fertilisers",
+      "description": "Explain industrial conditions and nutrient formulations.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "The Haber process"
+        },
+        {
+          "heading": "Rate–yield compromise in ammonia production"
+        },
+        {
+          "heading": "NPK fertilisers and integrated production"
+        },
+        {
+          "heading": "Common traps"
+        }
+      ]
+    }
+  ]
+}
