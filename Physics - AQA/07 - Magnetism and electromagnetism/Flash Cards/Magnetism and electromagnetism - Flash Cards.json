@@ -1,0 +1,291 @@
+{
+  "title": "Magnetism and electromagnetism flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Name the magnetic material commonly used as a transformer core.",
+      "back": [
+        "Iron."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens when two north poles are brought together?",
+      "back": [
+        "They repel."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the unit of magnetic flux density?",
+      "back": [
+        "Tesla (T)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which device uses the generator effect to convert sound vibrations into an electrical signal?",
+      "back": [
+        "A microphone."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the effect that makes a current-carrying coil move in a loudspeaker.",
+      "back": [
+        "The motor effect."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Does a stationary magnet beside a stationary coil produce a sustained induced potential difference?",
+      "back": [
+        "No."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does the north-seeking end of a compass show?",
+      "back": [
+        "The direction of the local magnetic field."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which ring arrangement connects a simple alternator coil to its external circuit?",
+      "back": [
+        "Two slip rings."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish a permanent magnet from an induced magnet.",
+      "back": [
+        "A permanent magnet **retains its magnetism** and produces its own field.",
+        "An induced magnet becomes magnetic in an external field and usually **loses most or all magnetism when the field is removed**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does attraction alone not prove that an iron object is a permanent magnet?",
+      "back": [
+        "An initially unmagnetised iron object can become an **induced magnet**.",
+        "It is then **attracted** to the magnet, even though it was not a permanent magnet."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two changes that increase the strength of an electromagnet.",
+      "back": [
+        "Increase the **current** through its coil.",
+        "Add an **iron core** or increase turns per unit length."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the field inside a long solenoid, away from its ends.",
+      "back": [
+        "It is **strong and approximately uniform**.",
+        "Draw **parallel, evenly spaced** field lines with the same direction."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is a compass needed as well as iron filings when mapping a magnetic field?",
+      "back": [
+        "Filings show the field’s **pattern**.",
+        "A compass shows its **direction**, using the north-seeking end of its needle."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the directions shown by Fleming’s first finger and second finger.",
+      "back": [
+        "First finger: **magnetic field**, from north to south.",
+        "Second finger: **conventional current**, positive to negative."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A wire carries 4.0 A perpendicular to a 0.20 T field. A length of 0.15 m is within the field. Calculate the force.",
+      "back": [
+        "**F = BIl = 0.20 × 4.0 × 0.15 = 0.12 N**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What happens to the force on a wire if only the current is reversed? What if both current and field reverse?",
+      "back": [
+        "Reversing current alone **reverses force**.",
+        "Reversing both leaves force in its **original direction**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a split-ring commutator is used in a simple DC motor.",
+      "back": [
+        "It **reverses current in the coil every half-turn**.",
+        "This reverses the side forces at the appropriate position, keeping the **turning effect in the same rotational direction**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A magnet is moved into a coil connected to a voltmeter. Give two ways to increase the peak induced potential difference.",
+      "back": [
+        "Move the magnet **faster**.",
+        "Use a **stronger magnet** or more turns in the coil, with otherwise comparable conditions."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can a voltmeter show induced potential difference even when the coil does not carry a significant current?",
+      "back": [
+        "A changing linked field induces **potential difference across the coil**.",
+        "A substantial current requires a **complete conducting circuit**; potential difference does not require current to flow."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What happens to the induced signal if a magnet moves out of a coil instead of into it? Explain the comparison.",
+      "back": [
+        "Its **polarity reverses** for the same pole orientation.",
+        "The field change is reversed. Magnitude depends on speed and the other conditions."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a transformer normally needs AC rather than steady DC.",
+      "back": [
+        "AC creates a **continuously changing magnetic field** in the core.",
+        "This induces secondary potential difference. Steady DC does not provide the sustained field change needed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is iron suitable for a transformer core?",
+      "back": [
+        "It is **easily magnetised**.",
+        "Its magnetisation can change and reverse with the **alternating primary current**, linking the changing field to the secondary."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A transformer has 500 primary turns and 100 secondary turns. Is it step-up or step-down? Explain.",
+      "back": [
+        "**Step-down**.",
+        "Fewer secondary turns mean **lower secondary potential difference**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a moving-coil loudspeaker makes sound.",
+      "back": [
+        "Changing current flows in a coil within a magnetic field, producing a **changing motor-effect force**.",
+        "The attached coil and cone **vibrate** as the current changes.",
+        "The cone creates **pressure variations in air**, producing sound waves."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a moving-coil microphone makes an electrical signal.",
+      "back": [
+        "Sound pressure variations **vibrate a diaphragm and attached coil**.",
+        "The coil moves in a magnetic field, changing the field linked with it.",
+        "The **generator effect induces a changing potential difference** that represents the sound."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A perpendicular wire experiences a 0.018 N force in a 60 mT field while carrying 2.0 A. Calculate the length within the field.",
+      "back": [
+        "B = **0.060 T**.",
+        "l = F/(BI) = 0.018/(0.060 × 2.0).",
+        "**l = 0.15 m**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A transformer has 300 primary turns at 240 V and 30 secondary turns. Calculate secondary voltage and state the type.",
+      "back": [
+        "**Vₛ = Vₚ × nₛ/nₚ**.",
+        "Vₛ = 240 × 30/300 = **24 V**.",
+        "It is **step-down**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how AC in a primary coil leads to potential difference in a secondary coil.",
+      "back": [
+        "AC makes a **changing magnetic field** around the primary.",
+        "The iron core links the changing field with the secondary.",
+        "This **induces alternating potential difference** across the secondary."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an induced current opposes a magnet being pushed into a coil.",
+      "back": [
+        "Movement changes the magnetic field linked with the coil and induces current.",
+        "The current produces a field that **opposes the original change**.",
+        "An opposing magnetic force means **work must be done** to continue pushing, supplying the electrical energy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Compare the potential-difference graphs of a simple alternator and a simple dynamo.",
+      "back": [
+        "Alternator **AC crosses zero**, changing sign each half-turn.",
+        "Dynamo output remains in **one external direction** because the split ring swaps connections.",
+        "Its output can **pulse**, so DC does not necessarily mean constant size."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An ideal transformer supplies 18 V at 2.0 A from a 240 V source. Calculate primary current.",
+      "back": [
+        "Secondary power = VₛIₛ = 18 × 2.0 = **36 W**.",
+        "Ideal primary power = secondary power.",
+        "Iₚ = 36/240 = **0.15 A**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For the same transmitted power, a grid voltage is doubled. State the new current and heating loss as fractions of their original values, with resistance fixed.",
+      "back": [
+        "P = VI, so current becomes **one half**.",
+        "Cable heating follows **I²R**.",
+        "Heating loss becomes (1/2)² = **one quarter**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a compass method for plotting the field around a bar magnet.",
+      "back": [
+        "Trace the magnet on paper and keep it fixed.",
+        "Place a small compass nearby and mark both ends of its needle.",
+        "Move it to continue from a previous mark, repeating to trace a line. Join marks smoothly.",
+        "Add arrows using the **north-seeking end** and repeat from other starting points. Keep other magnetic objects away."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An 80% efficient transformer supplies 12 V at 3.0 A from a 240 V source. Calculate input power and input current.",
+      "back": [
+        "Output power = 12 × 3.0 = **36 W**.",
+        "Efficiency = output/input, so input power = 36/0.80 = **45 W**.",
+        "Iₚ = Pₚ/Vₚ = 45/240 = **0.1875 A**, about **0.19 A**.",
+        "Input power exceeds output because some energy is dissipated."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how opposite forces on the two sides of a motor coil can cause rotation rather than canceling the turning effect.",
+      "back": [
+        "The sides carry current in **opposite directions** within the same field.",
+        "They experience opposite motor-effect forces.",
+        "The forces act at **different positions** and create moments in the same rotational sense.",
+        "In a simple DC motor, a split-ring commutator reverses coil current each half-turn to maintain rotation."
+      ]
+    }
+  ]
+}

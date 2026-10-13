@@ -40,11 +40,68 @@ def convex(w):
     s+=label(w/2,264,'Real, inverted image at 2F','middle')
     return s,274
 
-RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex}
+def motor_force(w):
+    if w<280:raise ValueError('Motor-effect figure needs 280 units')
+    cx=w/2
+    s=f'<rect x="5" y="45" width="48" height="64" rx="4" fill="#e7eff7" stroke="{BLUE}"/><rect x="{w-53}" y="45" width="48" height="64" rx="4" fill="#e7eff7" stroke="{BLUE}"/>'
+    s+=label(29,83,'N','middle')+label(w-29,83,'S','middle')
+    s+=arrow(60,48,w-60,48,BLUE)+label(cx,27,'Field: N to S','middle')
+    s+=f'<circle cx="{cx}" cy="84" r="13" fill="white" stroke="{GREEN}" stroke-width="2"/>'+line(cx-6,78,cx+6,90,GREEN,2)+line(cx-6,90,cx+6,78,GREEN,2)
+    s+=arrow(cx,105,cx,151,ORANGE)
+    s+=label(cx,178,'Force downwards','middle')+label(cx,204,'×: current into the page','middle')
+    return s,214
+def transformer(w):
+    if w<290:raise ValueError('Transformer figure needs 290 units')
+    a=65;b=w-65
+    s=f'<rect x="{a}" y="41" width="{b-a}" height="94" rx="14" fill="none" stroke="#b5c3cb" stroke-width="16"/>'
+    for x,ys in [(a,[65,87,109]),(b,[54,68,82,96,110,124])]:
+        for y in ys:s+=f'<ellipse cx="{x}" cy="{y}" rx="24" ry="7" fill="none" stroke="{BLUE}" stroke-width="2"/>'
+    s+=label(a,24,'Primary','middle')+label(b,24,'Secondary','middle')
+    s+=label(a,164,'AC input','middle')+label(b,164,'Induced AC','middle')
+    s+=label(w/2,193,'Changing field in iron core','middle')
+    s+=label(w/2,219,'More secondary turns: step-up','middle')
+    return s,229
+
+def bar_field(w):
+    if w<280:raise ValueError('Field diagram needs 280 units')
+    a=w*.32;b=w*.68;cx=w/2
+    s=''
+    for offset in (40,72):
+        for sign in (-1,1):
+            yy=94+sign*offset
+            start_y=94+sign*(6 if offset==40 else 11)
+            s+=f'<path d="M{a} {start_y}C{a-50} {start_y} {a-40} {yy} {cx} {yy}C{b+40} {yy} {b+50} {start_y} {b} {start_y}" fill="none" stroke="{BLUE}" stroke-width="2"/>'
+            s+=arrow(cx-12,yy,cx+12,yy,BLUE)
+    s+=f'<rect x="{a}" y="79" width="{b-a}" height="30" fill="#e7eff7" stroke="{BLUE}"/>'
+    s+=label(a+18,100,'N','middle')+label(b-18,100,'S','middle')
+    s+=label(cx,195,'Outside magnet: N to S','middle')
+    s+=label(cx,219,'Compass follows field direction','middle')
+    return s,229
+def generator_graphs(w):
+    if w<290:raise ValueError('Generator graphs need 290 units')
+    s='';x0=19;span=w-32
+    for row,name,rectified in [(0,'Alternator: AC',False),(1,'Dynamo: pulsing DC',True)]:
+        y=52+row*125
+        s+=label(0,y-36,name)+line(x0,y-27,x0,y+28)+line(x0,y,w-8,y)
+        points=[]
+        for i in range(121):
+            value=math.sin(i*4*math.pi/120)
+            if rectified:value=abs(value)
+            points.append((x0+i*span/120,y-25*value))
+        s+='<polyline points="'+' '.join(f'{x:.2f},{yy:.2f}' for x,yy in points)+'" fill="none" stroke="'+BLUE+'" stroke-width="2"/>'
+        s+=label(x0-3,y+5,'0','end')+label(w-8,y+47,'Time','end')
+    s+=label(w/2,249,'Vertical axes: potential difference','middle')
+    return s,259
+
+RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex,'remaining-motor-force':motor_force,'remaining-transformer':transformer,'remaining-bar-field':bar_field,'remaining-generators':generator_graphs}
 PURPOSES={
  'remaining-wave':'Distinguishes rest-to-crest amplitude from the distance between successive crests.',
  'remaining-refraction':'Shows light changing speed and bending towards the normal as it enters glass obliquely.',
- 'remaining-convex':'Traces two rays from an object at twice the focal length to an inverted real image of equal size.'}
+ 'remaining-convex':'Traces two rays from an object at twice the focal length to an inverted real image of equal size.',
+ 'remaining-motor-force':'Shows mutually perpendicular field, current and force with explicit into-page current notation.',
+ 'remaining-transformer':'Shows separate coils linked by an iron core and distinguishes alternating input from induced output.',
+ 'remaining-bar-field':'Shows curved field lines outside a bar magnet pointing from north to south, matching compass direction.',
+ 'remaining-generators':'Compares alternating potential difference crossing zero with a dynamo’s output that pulses in one direction.'}
 def wrap(kind):
     def draw(width):
         svg,height=RAW[kind](width)

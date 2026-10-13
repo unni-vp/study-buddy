@@ -1,0 +1,396 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        346,
+        362,
+        352
+      ],
+      "column_heights": [
+        454,
+        454,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 346,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 362,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 259,
+          "width": 362,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-magnetism-overview",
+      "title": "Magnetism overview"
+    },
+    {
+      "widths": [
+        362,
+        346,
+        352
+      ],
+      "column_heights": [
+        666,
+        520,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 362,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 362,
+          "height": 419
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 392,
+          "y": 18,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 392,
+          "y": 281,
+          "width": 346,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-bar-field",
+          "purpose": "Shows curved field lines outside a bar magnet pointing from north to south, matching compass direction."
+        }
+      ],
+      "slug": "01-magnets-and-fields",
+      "title": "Magnets and fields"
+    },
+    {
+      "widths": [
+        442,
+        290,
+        328
+      ],
+      "column_heights": [
+        598,
+        520,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 442,
+          "height": 417
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 447,
+          "width": 442,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 472,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 472,
+          "y": 303,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 281,
+          "width": 328,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "remaining-motor-force",
+          "purpose": "Shows mutually perpendicular field, current and force with explicit into-page current notation."
+        }
+      ],
+      "slug": "02-motor-effect-and-devices",
+      "title": "Motor effect and devices"
+    },
+    {
+      "widths": [
+        294,
+        414,
+        352
+      ],
+      "column_heights": [
+        520,
+        652,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 294,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 294,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 324,
+          "y": 18,
+          "width": 414,
+          "height": 449
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 324,
+          "y": 479,
+          "width": 414,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "remaining-generators",
+          "purpose": "Compares alternating potential difference crossing zero with a dynamo’s output that pulses in one direction."
+        }
+      ],
+      "slug": "03-induction-and-generators",
+      "title": "Induction and generators"
+    },
+    {
+      "widths": [
+        398,
+        310,
+        352
+      ],
+      "column_heights": [
+        600,
+        476,
+        564
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 398,
+          "height": 397
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 427,
+          "width": 398,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 428,
+          "y": 18,
+          "width": 310,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 428,
+          "y": 259,
+          "width": 310,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 303,
+          "width": 352,
+          "height": 295
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "remaining-transformer",
+          "purpose": "Shows separate coils linked by an iron core and distinguishes alternating input from induced output."
+        }
+      ],
+      "slug": "04-transformers-and-grid",
+      "title": "Transformers and the Grid"
+    }
+  ]
+}

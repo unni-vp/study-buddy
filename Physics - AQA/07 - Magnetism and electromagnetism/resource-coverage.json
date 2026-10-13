@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8463, Higher tier",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "4.7.1.1–4.7.1.2",
+    "4.7.2.1–4.7.2.4",
+    "4.7.3.1–4.7.3.4"
+  ],
+  "coverage_checklist": {
+    "4.7.1": "Magnets and fields; map 01",
+    "4.7.2": "Current makes a magnetic field; The motor effect; map 02",
+    "4.7.3.1–4.7.3.3": "Generating signals; map 03",
+    "4.7.3.4": "Transformers and the Grid; map 04"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-magnetism-overview",
+    "01-magnets-and-fields",
+    "02-motor-effect-and-devices",
+    "03-induction-and-generators",
+    "04-transformers-and-grid"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Magnetism and electromagnetism - Questions and Answers.md",
+    "deck": "Flash Cards/Magnetism and electromagnetism - Flash Cards.json",
+    "count": 35,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

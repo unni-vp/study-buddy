@@ -1,0 +1,67 @@
+{
+  "source": "Magnetism and electromagnetism - Revision Notes.md",
+  "groups": [
+    {
+      "id": "fields",
+      "title": "Magnets and fields",
+      "description": "Use field patterns, compasses and electromagnets.",
+      "icon": "physics-magnetism",
+      "sections": [
+        {
+          "heading": "Magnetic poles and materials"
+        },
+        {
+          "heading": "Fields and compasses"
+        },
+        {
+          "heading": "Current makes a magnetic field"
+        }
+      ]
+    },
+    {
+      "id": "motors",
+      "title": "The motor effect",
+      "description": "Calculate forces and explain motors and speakers.",
+      "icon": "physics-magnetism",
+      "sections": [
+        {
+          "heading": "The motor effect and Fleming's rule"
+        },
+        {
+          "heading": "Motors, loudspeakers and headphones"
+        }
+      ]
+    },
+    {
+      "id": "generators",
+      "title": "Generating signals",
+      "description": "Explain induction, generators and microphones.",
+      "icon": "physics-magnetism",
+      "sections": [
+        {
+          "heading": "The generator effect"
+        },
+        {
+          "heading": "Alternators, dynamos and microphones"
+        }
+      ]
+    },
+    {
+      "id": "transformers",
+      "title": "Transformers and the Grid",
+      "description": "Link changing fields, turn ratios and efficient transmission.",
+      "icon": "physics-electricity",
+      "sections": [
+        {
+          "heading": "How a transformer works"
+        },
+        {
+          "heading": "Transformer calculations and the National Grid"
+        },
+        {
+          "heading": "Avoid these mistakes"
+        }
+      ]
+    }
+  ]
+}
