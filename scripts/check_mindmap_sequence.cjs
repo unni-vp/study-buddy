@@ -6,7 +6,7 @@ const path=require('path');
  try{
   const page=await browser.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));
   const topic=process.argv[2]||'01 - Cell biology';
-  const url=pathToFileURL(path.resolve('Biology - AQA',topic,'index.html')).href;
+  const url=pathToFileURL(path.resolve(process.env.SUBJECT_DIR||'Biology - AQA',topic,'index.html')).href;
   for(const width of [1440,390]){
    await page.setViewportSize({width,height:900});await page.goto(url);
    const catalog=JSON.parse(await page.locator('#mindmap-catalog').textContent());

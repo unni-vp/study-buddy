@@ -1,0 +1,312 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        302,
+        350,
+        408
+      ],
+      "column_heights": [
+        504,
+        511,
+        502
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 257
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 287,
+          "width": 302,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 294,
+          "width": 350,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 694,
+          "y": 18,
+          "width": 408,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 694,
+          "y": 294,
+          "width": 408,
+          "height": 242
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-atomic-structure-overview",
+      "title": "Atomic structure overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        426,
+        344
+      ],
+      "column_heights": [
+        640,
+        662,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 290,
+          "height": 358
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 426,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 338,
+          "width": 426,
+          "height": 358
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 294,
+          "width": 344,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "chem-ion",
+          "purpose": "Shows electron loss while proton number stays unchanged."
+        }
+      ],
+      "slug": "01-atoms-isotopes-and-models",
+      "title": "Atoms, isotopes & models",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        294,
+        350,
+        416
+      ],
+      "column_heights": [
+        555,
+        489,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 294,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 294,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 324,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 324,
+          "y": 259,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 686,
+          "y": 18,
+          "width": 416,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 686,
+          "y": 316,
+          "width": 416,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-substances-and-separation",
+      "title": "Substances & separation",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        342,
+        366,
+        352
+      ],
+      "column_heights": [
+        476,
+        634,
+        546
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 366,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 316,
+          "width": 366,
+          "height": 352
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 272,
+          "width": 352,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-periodic-patterns",
+      "title": "Periodic patterns",
+      "source_panels_preserved": 6
+    }
+  ]
+}

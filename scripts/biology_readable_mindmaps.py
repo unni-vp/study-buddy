@@ -89,7 +89,7 @@ def prepare_panels(panels):
     return [panel(p['title'],*(group(*split_facts(line)) for line in p['lines'])) for p in panels]
 
 class LayoutPanel:
-    def __init__(self,indices,sources,width,title=None,picture=False):
+    def __init__(self,indices,sources,width,title=None,picture=False,drawing_provider=drawing):
         self.indices=list(indices) if isinstance(indices,tuple) else [indices]
         self.width=width
         self.title=title or sources[self.indices[0]]['title']
@@ -115,7 +115,7 @@ class LayoutPanel:
                         self.elements.append(('text',y,row_text(row))); y+=LEADING
                 visual=source.get('visual')
                 if visual and visual['after']==j:
-                    artwork,height=drawing(visual['kind'],width-PAD*2)
+                    artwork,height=drawing_provider(visual['kind'],width-PAD*2)
                     top=y-LEADING+18
                     self.elements.append(('diagram',top,artwork)); y=top+height+LEADING
         self.height=y-LEADING+5+PAD
@@ -136,8 +136,8 @@ class LayoutPanel:
         out.append('</g></g>')
         return ''.join(out)
 
-def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=None):
-    sources=with_visuals(sources,slug)
+def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=None,*,drawing_provider=drawing,purpose_provider=PURPOSES,apply_biology_visuals=True):
+    sources=with_visuals(sources,slug) if apply_biology_visuals else deepcopy(sources)
     columns=columns or [[0,1],[2,3],[4,5]]
     merged_titles=merged_titles or {}
     listed=[i for col in columns for item in col for i in (item if isinstance(item,tuple) else [item])]
@@ -149,7 +149,7 @@ def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=N
         key=(k,width)
         if key not in cache:
             try:
-                cards=[LayoutPanel(item,sources,width,merged_titles.get(item),picture_index is not None and picture_index in (item if isinstance(item,tuple) else [item])) for item in columns[k]]
+                cards=[LayoutPanel(item,sources,width,merged_titles.get(item),picture_index is not None and picture_index in (item if isinstance(item,tuple) else [item]),drawing_provider) for item in columns[k]]
                 cache[key]=(cards,sum(c.height for c in cards)+GUTTER*(len(cards)-1))
             except ValueError:
                 cache[key]=([],float('inf'))
@@ -186,7 +186,7 @@ def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=N
             y+=card.height+GUTTER
         x+=width+GUTTER
     out.append('</svg>')
-    return ''.join(out), {'widths':widths,'column_heights':heights,'panels':layout,'body_pt':round(BODY/W*277/25.4*72,2),'diagrams':[{'source_panel':i,'kind':p['visual']['kind'],'purpose':PURPOSES[p['visual']['kind']]} for i,p in enumerate(sources) if p.get('visual')]}
+    return ''.join(out), {'widths':widths,'column_heights':heights,'panels':layout,'body_pt':round(BODY/W*277/25.4*72,2),'diagrams':[{'source_panel':i,'kind':p['visual']['kind'],'purpose':purpose_provider[p['visual']['kind']]} for i,p in enumerate(sources) if p.get('visual')]}
 
 def with_visuals(sources,slug):
     sources=deepcopy(sources)
