@@ -1,0 +1,342 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "June 2022 and 2023 Paper 2 Higher were reviewed. Reflection/refraction practical reasoning appears in 2022 Q02.1–02.4 and 2023 Q07.1–07.6 (2/2 papers). Infrared surfaces appear in 2023 Q01; wave-equation conversion in 2023 Q06.2; hearing-data interpretation in 2023 Q04. This small sample does not establish a ranked frequency list. Remaining questions provide specification-based coverage. Original numbers, wording and contexts are used.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "Name the wave type in which vibrations are parallel to the direction of energy transfer.",
+      "answer": "Longitudinal.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "What does the amplitude of a wave measure?",
+      "answer": "The maximum displacement from the resting position.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "Give the approximate upper frequency limit of normal human hearing.",
+      "answer": "20 kHz.",
+      "specification": "4.6.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Which electromagnetic group lies between visible light and X-rays?",
+      "answer": "Ultraviolet.",
+      "specification": "4.6.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What type of image can be formed on a screen?",
+      "answer": "Real.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the line from which angles of incidence and reflection are measured.",
+      "answer": "The normal.",
+      "specification": "4.6.1.3",
+      "evidence": "2022 2H Q02.3; 2023 2H Q07.2",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Which seismic wave cannot travel through liquids?",
+      "answer": "S-wave.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "What happens to a wave’s frequency when it enters a different medium?",
+      "answer": "It stays the same.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a perfect black body?",
+      "answer": "An object that absorbs all radiation incident on it.",
+      "specification": "4.6.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 2,
+      "prompt": "Compare particle vibrations in transverse and longitudinal waves.",
+      "answer": "- Transverse vibrations are **perpendicular** to energy transfer.\n- Longitudinal vibrations are **parallel** to energy transfer.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 2,
+      "prompt": "A cork bobs in a ripple tank but stays in approximately the same horizontal position. Explain what this shows.",
+      "answer": "- The cork and nearby water move locally as the disturbance passes.\n- The wave transfers **energy without an overall transfer of the water** across the tank.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 2,
+      "prompt": "A wave has frequency 25 Hz. Calculate its period.",
+      "answer": "**T = 1/f = 1/25 = 0.040 s**.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "A ripple has frequency 5.0 Hz and wavelength 0.060 m. Calculate its speed.",
+      "answer": "**v = fλ = 5.0 × 0.060 = 0.30 m/s**.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is a distance–displacement wave graph unsuitable for reading the period directly?",
+      "answer": "- Its horizontal axis shows **distance**, so a full cycle gives wavelength.\n- Period needs a **time axis** or a separate timing measurement.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "A ray strikes a mirror at 35° to the normal. State its reflection angle and its angle to the mirror surface.",
+      "answer": "- Reflection angle = **35°**.\n- Angle to the surface = 90° − 35° = **55°**.",
+      "specification": "4.6.1.3",
+      "evidence": "2022 2H Q02.3; 2023 2H Q07.2",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why rough surfaces scatter reflected light even though the reflection law still applies.",
+      "answer": "- Different small parts of the surface have **different normal directions**.\n- Each obeys i = r, but the reflected rays travel in **different directions**.",
+      "specification": "4.6.2.6",
+      "evidence": "2023 2H Q07.1: contrasting reflection type",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "Why can ultrasound be used to find a hidden boundary?",
+      "answer": "- Some ultrasound is **reflected at a boundary between different materials**.\n- The returning echo’s time delay reveals the boundary’s **distance**, using the wave speed.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why S-wave observations support a liquid outer core.",
+      "answer": "- S-waves **cannot travel through liquids**.\n- Their failure to pass through the outer core supports the conclusion that it is **liquid**.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Why are X-rays suitable for an image of a broken bone?",
+      "answer": "- Bone **absorbs more X-rays** than surrounding soft tissue.\n- Different amounts reaching the detector produce **contrast**, showing the bone and fracture.",
+      "specification": "4.6.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a red shirt appears dark under only blue light.",
+      "answer": "- It mostly **absorbs blue** and reflects red.\n- There is little red in the illumination, so **little light reaches the eye from the shirt**.",
+      "specification": "4.6.2.6",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "A lens forms a 30 mm image of a 12 mm object. Calculate magnification and state whether it has a unit.",
+      "answer": "Magnification = 30/12 = **2.5**, with **no unit**.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why an object cools by radiation when it emits 80 W and absorbs 50 W.",
+      "answer": "- It loses energy at a **net rate of 30 W**.\n- More radiation is emitted than absorbed, so its **temperature falls**, assuming no other transfers balance the loss.",
+      "specification": "4.6.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "Why must the distance between an infrared detector and each Leslie-cube face be the same?",
+      "answer": "- Detector reading changes with distance.\n- Keeping distance constant helps ensure differences are caused by **surface finish**, rather than measurement position.",
+      "specification": "4.6.2.2",
+      "evidence": "2023 2H Q01: infrared investigation",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "Two students report reflection angles of 29.1° and 29.2° using a protractor marked every 1°. Explain the problem.",
+      "answer": "- The instrument’s **resolution is 1°**.\n- It does not resolve a **0.1° difference**, so those readings imply unjustified precision.",
+      "specification": "4.6.1.3",
+      "evidence": "2023 2H Q07.5",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "How can radio waves be generated and then detected in electrical circuits?",
+      "answer": "- **Oscillating electrical currents** generate radio waves.\n- Absorbed radio waves can induce an **alternating current at the same frequency** in a receiving circuit.",
+      "specification": "4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 3,
+      "prompt": "Sound of frequency 400 Hz travels at 340 m/s in air and 1,500 m/s in water. Calculate its wavelength in both media and explain the frequency.",
+      "answer": "- Air: λ = v/f = 340/400 = **0.85 m**.\n- Water: λ = 1,500/400 = **3.75 m**.\n- Frequency remains **400 Hz** because it is set by the source.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 3,
+      "prompt": "A microwave travels at 3.0 × 10⁸ m/s and has wavelength 12.0 cm. Calculate its frequency in standard form.",
+      "answer": "- λ = **0.120 m**.\n- f = v/λ = (3.0 × 10⁸)/0.120.\n- **f = 2.5 × 10⁹ Hz**.",
+      "specification": "4.6.1.2",
+      "evidence": "2023 2H Q06.2: adapted wave-equation conversion",
+      "number": 27
+    },
+    {
+      "marks": 3,
+      "prompt": "An echo returns 0.060 s after a pulse is sent through water. Sound travels at 1,480 m/s. Calculate the distance to the reflector.",
+      "answer": "- Total travelled distance = vt = 1,480 × 0.060 = **88.8 m**.\n- This is the **out-and-back** journey.\n- Distance to reflector = 88.8/2 = **44.4 m**.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why a light ray entering glass obliquely bends towards the normal.",
+      "answer": "- Parts of a wavefront reach the glass at **different times**.\n- Light travels **more slowly in glass**, so one part slows before another.\n- The wavefront turns, changing the ray’s direction **towards the normal**.",
+      "specification": "4.6.2.2",
+      "evidence": "2023 2H Q07.6",
+      "number": 29
+    },
+    {
+      "marks": 3,
+      "prompt": "A convex lens is used as a magnifying glass. Where is the object, and what are three properties of its image?",
+      "answer": "- Object is **closer to the lens than its focal length**.\n- Image is **virtual and upright**.\n- It is **magnified**, on the same side as the object.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe how to locate the virtual image formed by a concave lens on a ray diagram.",
+      "answer": "- Draw a ray from the object tip **parallel to the axis**, then diverging as if from the near focus.\n- Draw a second ray through the **optical centre**, continuing straight.\n- Extend outgoing rays **backwards with dashed lines**. Their intersection locates the virtual image tip.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain one benefit and two precautions when using X-rays for medical imaging.",
+      "answer": "- They can reveal internal structures such as **bone fractures** without surgery.\n- Use the **lowest dose that gives useful information**, limiting exposure time and unnecessary repeats.\n- Use appropriate **shielding** for staff and unaffected areas where suitable, because ionising radiation can damage cells.",
+      "specification": "4.6.2.3–4.6.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Six consecutive crest lines span 0.15 m in a ripple tank. Frequency is 12 Hz. Calculate wavelength and speed.",
+      "answer": "- Six crest lines contain **five wavelengths**.\n- λ = 0.15/5 = **0.030 m**.\n- v = fλ = 12 × 0.030 = **0.36 m/s**.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "A string has four stationary loops across 1.20 m and vibrates at 50 Hz. Calculate the travelling wave’s wavelength and speed.",
+      "answer": "- Each loop spans **half a wavelength**.\n- λ = 2 × 1.20/4 = **0.60 m**.\n- v = 50 × 0.60 = **30 m/s**.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 3,
+      "prompt": "White light passes through an ideal red filter and then an ideal blue filter. Explain why almost no light emerges.",
+      "answer": "- The first filter **transmits red light** and absorbs other visible wavelengths.\n- The second mainly **transmits blue** and absorbs red.\n- Little of the light leaving the first filter can pass the second; filters **do not create new colours**.",
+      "specification": "4.6.2.6",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe a method to measure the speed of sound using two microphones.",
+      "answer": "- Measure the **separation** of microphones connected to a data logger or oscilloscope.\n- Make a sharp sound in line with them and identify the **same pulse** in both recordings.\n- Measure arrival-time difference and calculate **v = separation/time delay**.\n- Repeat and average. Use enough separation for a measurable delay; electronic timing avoids human reaction-time error.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how a warming object’s emitted radiation changes and what radiation balance means.",
+      "answer": "- It emits **more energy per second** as temperature rises.\n- Its spectrum shifts towards **shorter wavelengths**.\n- At constant temperature, absorbed and emitted power balance if radiation is the only energy transfer.\n- If absorbed power exceeds emitted power, its **temperature rises** until the balance changes.",
+      "specification": "4.6.3.1–4.6.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 4,
+      "prompt": "An IR experiment compares a black and a shiny surface. The black surface starts hotter and is closer to the detector. Explain why the result does not isolate the effect of surface finish and how to improve it.",
+      "answer": "- **Hotter surfaces emit more**, so starting-temperature differences affect the readings.\n- **Distance** also affects the detector’s reading.\n- Use faces at the **same temperature**, for example on one hot Leslie cube.\n- Keep **detector distance and angle fixed**, repeat, and compare readings.",
+      "specification": "4.6.2.2–4.6.3.1",
+      "evidence": "2023 2H Q01: fair comparison",
+      "number": 38
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how a convex-lens ray diagram shows a real image for an object beyond twice the focal length.",
+      "answer": "- Draw the axis, lens, **F and 2F** on both sides, and the object beyond 2F.\n- Draw a tip ray parallel to the axis, refracted through the **far focus**.\n- Draw a second ray through the optical centre, continuing straight.\n- Their intersection gives a **real, inverted, smaller** image between F and 2F.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 39
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe a valid investigation of how incident angle affects refraction through a rectangular glass block. Include measurement and ways to reduce uncertainty.",
+      "answer": "- Place the block on paper and **trace its outline** so its position is recorded.\n- Shine a **narrow ray** at one face. Mark two points on the incident ray and two on the emerging ray while the block stays fixed.\n- Remove it. Join the ray marks and connect entry and exit points to reconstruct the path inside the glass.\n- Draw a **normal at 90° to the surface** at entry. Measure incidence and refraction angles from this normal using a protractor.\n- Repeat across a suitable range of incident angles, keeping the same block and entry face. Repeat readings and calculate means.\n- Use fine marks and a ruler, consistent eye position, and a resolution appropriate to the claimed difference. Plot refracted angle against incident angle and describe the trend. Do not replace a refraction method with a mirror-reflection method.",
+      "specification": "4.6.1.3–4.6.2.2",
+      "evidence": "2022 2H Q02.1–02.4; 2023 2H Q07.3–07.6",
+      "number": 40
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe how to compare the infrared absorption of different surface finishes. Explain how to make a valid comparison.",
+      "answer": "- Use otherwise identical containers or samples with different finishes. Put the **same mass of water or material** in each, starting at the same temperature.\n- Place each at the **same distance and orientation** from an IR lamp, with equal exposure time and lamp output.\n- Record initial and final temperatures and calculate **temperature increases**. Keep thermometer positions, room conditions and other apparatus comparable.\n- Repeat, average and compare the rises. A greater rise under matched conditions indicates greater absorption, because the same amount of material needs more absorbed energy to warm further.\n- Prevent unequal mass, shading, draughts or differing heat loss from determining the result. A matt black surface generally absorbs more IR than a shiny surface.\n- Use heatproof surfaces and avoid hot lamps or water; keep electrical equipment dry.",
+      "specification": "4.6.2.2",
+      "evidence": "2023 2H Q01.4–01.5",
+      "number": 41
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how a change in atmospheric greenhouse gases can affect Earth’s temperature. Include incoming, outgoing and reflected radiation.",
+      "answer": "- Solar radiation reaches Earth; **some is reflected** into space and some is absorbed by the surface and atmosphere.\n- Earth’s surface **emits infrared**, transferring energy away.\n- Greenhouse gases **absorb and emit infrared**, including emission towards the surface, changing energy transfer to space.\n- An increase can initially reduce outgoing energy for the existing temperature. Then absorbed incoming power exceeds outgoing power and the surface and lower atmosphere **warm**.\n- As temperature rises, radiation emitted increases. A new balance can be reached at a higher temperature, depending on the other factors involved.\n- Changes in reflection, such as cloud or surface changes, also affect absorbed sunlight. The explanation is an **energy balance**, not a claim that all radiation is trapped forever.",
+      "specification": "4.6.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 42
+    }
+  ]
+}

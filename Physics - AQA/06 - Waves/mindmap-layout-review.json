@@ -1,0 +1,462 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        338,
+        326,
+        396
+      ],
+      "column_heights": [
+        454,
+        454,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 326,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 259,
+          "width": 326,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 706,
+          "y": 18,
+          "width": 396,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 706,
+          "y": 259,
+          "width": 396,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-waves-overview",
+      "title": "Waves overview"
+    },
+    {
+      "widths": [
+        434,
+        290,
+        336
+      ],
+      "column_heights": [
+        546,
+        520,
+        542
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 434,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 434,
+          "height": 343
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 464,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 464,
+          "y": 303,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 303,
+          "width": 336,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-wave",
+          "purpose": "Distinguishes rest-to-crest amplitude from the distance between successive crests."
+        }
+      ],
+      "slug": "01-measuring-waves",
+      "title": "Measuring waves"
+    },
+    {
+      "widths": [
+        398,
+        310,
+        352
+      ],
+      "column_heights": [
+        694,
+        542,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 398,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 398,
+          "height": 491
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 428,
+          "y": 18,
+          "width": 310,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 428,
+          "y": 325,
+          "width": 310,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-refraction",
+          "purpose": "Shows light changing speed and bending towards the normal as it enters glass obliquely."
+        }
+      ],
+      "slug": "02-boundaries-and-sound",
+      "title": "Boundaries and sound"
+    },
+    {
+      "widths": [
+        350,
+        350,
+        360
+      ],
+      "column_heights": [
+        432,
+        476,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 350,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 281,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 742,
+          "y": 18,
+          "width": 360,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 742,
+          "y": 259,
+          "width": 360,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-electromagnetic-waves",
+      "title": "Electromagnetic waves"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        680,
+        476,
+        542
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 354,
+          "height": 455
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 259,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 303,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-convex",
+          "purpose": "Traces two rays from an object at twice the focal length to an inverted real image of equal size."
+        }
+      ],
+      "slug": "04-lenses-and-colour",
+      "title": "Lenses and colour"
+    },
+    {
+      "widths": [
+        330,
+        350,
+        380
+      ],
+      "column_heights": [
+        498,
+        498,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 330,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 259,
+          "width": 350,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 722,
+          "y": 18,
+          "width": 380,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 722,
+          "y": 303,
+          "width": 380,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-infrared-and-radiation",
+      "title": "Infrared and radiation balance"
+    }
+  ]
+}

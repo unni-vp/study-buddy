@@ -1,0 +1,304 @@
+{
+  "title": "Waves flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Name the wave type in which vibrations are parallel to the direction of energy transfer.",
+      "back": [
+        "Longitudinal."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does the amplitude of a wave measure?",
+      "back": [
+        "The maximum displacement from the resting position."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give the approximate upper frequency limit of normal human hearing.",
+      "back": [
+        "20 kHz."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which electromagnetic group lies between visible light and X-rays?",
+      "back": [
+        "Ultraviolet."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What type of image can be formed on a screen?",
+      "back": [
+        "Real."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the line from which angles of incidence and reflection are measured.",
+      "back": [
+        "The normal."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which seismic wave cannot travel through liquids?",
+      "back": [
+        "S-wave."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens to a wave’s frequency when it enters a different medium?",
+      "back": [
+        "It stays the same."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a perfect black body?",
+      "back": [
+        "An object that absorbs all radiation incident on it."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Compare particle vibrations in transverse and longitudinal waves.",
+      "back": [
+        "Transverse vibrations are **perpendicular** to energy transfer.",
+        "Longitudinal vibrations are **parallel** to energy transfer."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A cork bobs in a ripple tank but stays in approximately the same horizontal position. Explain what this shows.",
+      "back": [
+        "The cork and nearby water move locally as the disturbance passes.",
+        "The wave transfers **energy without an overall transfer of the water** across the tank."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A wave has frequency 25 Hz. Calculate its period.",
+      "back": [
+        "**T = 1/f = 1/25 = 0.040 s**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A ripple has frequency 5.0 Hz and wavelength 0.060 m. Calculate its speed.",
+      "back": [
+        "**v = fλ = 5.0 × 0.060 = 0.30 m/s**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is a distance–displacement wave graph unsuitable for reading the period directly?",
+      "back": [
+        "Its horizontal axis shows **distance**, so a full cycle gives wavelength.",
+        "Period needs a **time axis** or a separate timing measurement."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A ray strikes a mirror at 35° to the normal. State its reflection angle and its angle to the mirror surface.",
+      "back": [
+        "Reflection angle = **35°**.",
+        "Angle to the surface = 90° − 35° = **55°**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why rough surfaces scatter reflected light even though the reflection law still applies.",
+      "back": [
+        "Different small parts of the surface have **different normal directions**.",
+        "Each obeys i = r, but the reflected rays travel in **different directions**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can ultrasound be used to find a hidden boundary?",
+      "back": [
+        "Some ultrasound is **reflected at a boundary between different materials**.",
+        "The returning echo’s time delay reveals the boundary’s **distance**, using the wave speed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why S-wave observations support a liquid outer core.",
+      "back": [
+        "S-waves **cannot travel through liquids**.",
+        "Their failure to pass through the outer core supports the conclusion that it is **liquid**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why are X-rays suitable for an image of a broken bone?",
+      "back": [
+        "Bone **absorbs more X-rays** than surrounding soft tissue.",
+        "Different amounts reaching the detector produce **contrast**, showing the bone and fracture."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a red shirt appears dark under only blue light.",
+      "back": [
+        "It mostly **absorbs blue** and reflects red.",
+        "There is little red in the illumination, so **little light reaches the eye from the shirt**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A lens forms a 30 mm image of a 12 mm object. Calculate magnification and state whether it has a unit.",
+      "back": [
+        "Magnification = 30/12 = **2.5**, with **no unit**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why an object cools by radiation when it emits 80 W and absorbs 50 W.",
+      "back": [
+        "It loses energy at a **net rate of 30 W**.",
+        "More radiation is emitted than absorbed, so its **temperature falls**, assuming no other transfers balance the loss."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why must the distance between an infrared detector and each Leslie-cube face be the same?",
+      "back": [
+        "Detector reading changes with distance.",
+        "Keeping distance constant helps ensure differences are caused by **surface finish**, rather than measurement position."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Two students report reflection angles of 29.1° and 29.2° using a protractor marked every 1°. Explain the problem.",
+      "back": [
+        "The instrument’s **resolution is 1°**.",
+        "It does not resolve a **0.1° difference**, so those readings imply unjustified precision."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How can radio waves be generated and then detected in electrical circuits?",
+      "back": [
+        "**Oscillating electrical currents** generate radio waves.",
+        "Absorbed radio waves can induce an **alternating current at the same frequency** in a receiving circuit."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Sound of frequency 400 Hz travels at 340 m/s in air and 1,500 m/s in water. Calculate its wavelength in both media and explain the frequency.",
+      "back": [
+        "Air: λ = v/f = 340/400 = **0.85 m**.",
+        "Water: λ = 1,500/400 = **3.75 m**.",
+        "Frequency remains **400 Hz** because it is set by the source."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A microwave travels at 3.0 × 10⁸ m/s and has wavelength 12.0 cm. Calculate its frequency in standard form.",
+      "back": [
+        "λ = **0.120 m**.",
+        "f = v/λ = (3.0 × 10⁸)/0.120.",
+        "**f = 2.5 × 10⁹ Hz**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An echo returns 0.060 s after a pulse is sent through water. Sound travels at 1,480 m/s. Calculate the distance to the reflector.",
+      "back": [
+        "Total travelled distance = vt = 1,480 × 0.060 = **88.8 m**.",
+        "This is the **out-and-back** journey.",
+        "Distance to reflector = 88.8/2 = **44.4 m**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a light ray entering glass obliquely bends towards the normal.",
+      "back": [
+        "Parts of a wavefront reach the glass at **different times**.",
+        "Light travels **more slowly in glass**, so one part slows before another.",
+        "The wavefront turns, changing the ray’s direction **towards the normal**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A convex lens is used as a magnifying glass. Where is the object, and what are three properties of its image?",
+      "back": [
+        "Object is **closer to the lens than its focal length**.",
+        "Image is **virtual and upright**.",
+        "It is **magnified**, on the same side as the object."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one benefit and two precautions when using X-rays for medical imaging.",
+      "back": [
+        "They can reveal internal structures such as **bone fractures** without surgery.",
+        "Use the **lowest dose that gives useful information**, limiting exposure time and unnecessary repeats.",
+        "Use appropriate **shielding** for staff and unaffected areas where suitable, because ionising radiation can damage cells."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Six consecutive crest lines span 0.15 m in a ripple tank. Frequency is 12 Hz. Calculate wavelength and speed.",
+      "back": [
+        "Six crest lines contain **five wavelengths**.",
+        "λ = 0.15/5 = **0.030 m**.",
+        "v = fλ = 12 × 0.030 = **0.36 m/s**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A string has four stationary loops across 1.20 m and vibrates at 50 Hz. Calculate the travelling wave’s wavelength and speed.",
+      "back": [
+        "Each loop spans **half a wavelength**.",
+        "λ = 2 × 1.20/4 = **0.60 m**.",
+        "v = 50 × 0.60 = **30 m/s**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "White light passes through an ideal red filter and then an ideal blue filter. Explain why almost no light emerges.",
+      "back": [
+        "The first filter **transmits red light** and absorbs other visible wavelengths.",
+        "The second mainly **transmits blue** and absorbs red.",
+        "Little of the light leaving the first filter can pass the second; filters **do not create new colours**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a method to measure the speed of sound using two microphones.",
+      "back": [
+        "Measure the **separation** of microphones connected to a data logger or oscilloscope.",
+        "Make a sharp sound in line with them and identify the **same pulse** in both recordings.",
+        "Measure arrival-time difference and calculate **v = separation/time delay**.",
+        "Repeat and average. Use enough separation for a measurable delay; electronic timing avoids human reaction-time error."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how a warming object’s emitted radiation changes and what radiation balance means.",
+      "back": [
+        "It emits **more energy per second** as temperature rises.",
+        "Its spectrum shifts towards **shorter wavelengths**.",
+        "At constant temperature, absorbed and emitted power balance if radiation is the only energy transfer.",
+        "If absorbed power exceeds emitted power, its **temperature rises** until the balance changes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An IR experiment compares a black and a shiny surface. The black surface starts hotter and is closer to the detector. Explain why the result does not isolate the effect of surface finish and how to improve it.",
+      "back": [
+        "**Hotter surfaces emit more**, so starting-temperature differences affect the readings.",
+        "**Distance** also affects the detector’s reading.",
+        "Use faces at the **same temperature**, for example on one hot Leslie cube.",
+        "Keep **detector distance and angle fixed**, repeat, and compare readings."
+      ]
+    }
+  ]
+}

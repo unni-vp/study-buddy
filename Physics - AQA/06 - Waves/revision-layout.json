@@ -1,0 +1,87 @@
+{
+  "source": "Waves - Revision Notes.md",
+  "groups": [
+    {
+      "id": "basics",
+      "title": "Waves and measurements",
+      "description": "Compare waves, calculate and measure their properties.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "What a wave carries"
+        },
+        {
+          "heading": "Describing and calculating waves"
+        },
+        {
+          "heading": "Practical: measuring waves"
+        }
+      ]
+    },
+    {
+      "id": "behaviour",
+      "title": "Boundaries and sound",
+      "description": "Explain reflection, refraction and hidden structures.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "Reflection, absorption and transmission"
+        },
+        {
+          "heading": "Refraction and the wavefront explanation"
+        },
+        {
+          "heading": "Sound, ultrasound and seismic waves"
+        }
+      ]
+    },
+    {
+      "id": "spectrum",
+      "title": "Electromagnetic waves",
+      "description": "Choose applications and weigh radiation risks.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "The electromagnetic spectrum"
+        },
+        {
+          "heading": "Choosing electromagnetic waves"
+        },
+        {
+          "heading": "Radiation hazards and dose"
+        }
+      ]
+    },
+    {
+      "id": "optics",
+      "title": "Lenses and colour",
+      "description": "Construct images and explain which colours reach the eye.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "Lenses and ray diagrams"
+        },
+        {
+          "heading": "Colour and filters"
+        }
+      ]
+    },
+    {
+      "id": "thermal",
+      "title": "Radiation and practicals",
+      "description": "Explain emission, temperature balance and fair comparisons.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "Infrared emission and radiation balance"
+        },
+        {
+          "heading": "Practical: infrared surfaces"
+        },
+        {
+          "heading": "Avoid these mistakes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8463, Higher tier",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "4.6.1.1–4.6.1.5",
+    "4.6.2.1–4.6.2.6",
+    "4.6.3.1–4.6.3.2"
+  ],
+  "coverage_checklist": {
+    "4.6.1": "Waves and measurements; Boundaries and sound; maps 01–02; practical 8 and 9",
+    "4.6.2": "Electromagnetic waves; Lenses and colour; maps 03–04; practical 10",
+    "4.6.3": "Radiation and practicals; map 05; absorption/emission balance"
+  },
+  "practicals": [
+    8,
+    9,
+    10
+  ],
+  "mindmaps": [
+    "00-waves-overview",
+    "01-measuring-waves",
+    "02-boundaries-and-sound",
+    "03-electromagnetic-waves",
+    "04-lenses-and-colour",
+    "05-infrared-and-radiation"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Waves - Questions and Answers.md",
+    "deck": "Flash Cards/Waves - Flash Cards.json",
+    "count": 37,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
