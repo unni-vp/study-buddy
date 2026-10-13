@@ -1,0 +1,59 @@
+{
+  "source": "Space physics - Revision Notes.md",
+  "groups": [
+    {
+      "id": "stars",
+      "title": "Stars and elements",
+      "description": "Explain formation, balance and the two life-cycle routes.",
+      "icon": "physics-space",
+      "sections": [
+        {
+          "heading": "Our place in space"
+        },
+        {
+          "heading": "From nebula to a stable star"
+        },
+        {
+          "heading": "Two stellar life-cycle routes"
+        },
+        {
+          "heading": "Where elements come from"
+        }
+      ]
+    },
+    {
+      "id": "orbits",
+      "title": "Orbits and satellites",
+      "description": "Separate force, speed, velocity and orbital radius.",
+      "icon": "physics-motion",
+      "sections": [
+        {
+          "heading": "Why objects stay in orbit"
+        },
+        {
+          "heading": "Comparing satellites and orbital data"
+        }
+      ]
+    },
+    {
+      "id": "universe",
+      "title": "The expanding universe",
+      "description": "Use red-shift evidence and recognise unanswered questions.",
+      "icon": "physics-space",
+      "sections": [
+        {
+          "heading": "What red-shift means"
+        },
+        {
+          "heading": "Evidence for the Big Bang"
+        },
+        {
+          "heading": "Accelerating expansion and unanswered questions"
+        },
+        {
+          "heading": "Avoid these mistakes"
+        }
+      ]
+    }
+  ]
+}

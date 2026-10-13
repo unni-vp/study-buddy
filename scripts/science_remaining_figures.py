@@ -93,7 +93,36 @@ def generator_graphs(w):
     s+=label(w/2,249,'Vertical axes: potential difference','middle')
     return s,259
 
-RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex,'remaining-motor-force':motor_force,'remaining-transformer':transformer,'remaining-bar-field':bar_field,'remaining-generators':generator_graphs}
+def star_life(w):
+    if w<330:raise ValueError('Star routes require 330 units')
+    cx=w/2;left=w*.25;right=w*.75
+    s=label(cx,16,'Nebula','middle')+arrow(cx,25,cx,43)+label(cx,65,'Protostar','middle')+arrow(cx,74,cx,94)+label(cx,116,'Main sequence','middle')
+    s+=arrow(cx-10,130,left,159)+arrow(cx+10,130,right,159)
+    s+=label(left,182,'Red giant','middle')+label(right,182,'Red supergiant','middle')
+    s+=arrow(left,192,left,211)+arrow(right,192,right,211)
+    s+=label(left,235,'White dwarf','middle')+label(right,235,'Supernova','middle')
+    s+=arrow(left,245,left,264)+arrow(right,245,right,264)
+    s+=label(left,288,'Black dwarf','middle')+label(right,288,'Neutron star','middle')+label(right,312,'or black hole','middle')
+    s+=label(left,345,'Sun-like route','middle')+label(right,345,'Massive route','middle')
+    return s,357
+def orbit(w):
+    if w<290:raise ValueError('Orbit diagram requires 290 units')
+    cx=w/2;cy=92;r=65
+    s=f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="#9eb3c3" stroke-width="2"/><circle cx="{cx}" cy="{cy}" r="19" fill="#edf2fa" stroke="{BLUE}"/><circle cx="{cx+r}" cy="{cy}" r="6" fill="{ORANGE}"/>'
+    s+=arrow(cx+r-10,cy,cx+25,cy,ORANGE)+arrow(cx+r,cy-10,cx+r,cy-66,GREEN)
+    s+=label(cx,98,'Earth','middle')+label(cx,181,'Gravity acts towards the centre','middle')+label(cx,205,'Velocity is tangent to the orbit','middle')
+    s+=label(w/2,230,'Speed constant, direction changes','middle')
+    return s,240
+def redshift(w):
+    if w<290:raise ValueError('Spectrum comparison needs 290 units')
+    s=label(0,16,'Laboratory pattern')+label(0,114,'Distant galaxy pattern')
+    for y,shift in [(28,0),(128,w*.15)]:
+        s+=f'<rect x="7" y="{y}" width="{w-14}" height="44" fill="#f2f5f8" stroke="#9eb3c3"/>'
+        for ratio in (.23,.42,.61):s+=line(w*ratio+shift,y,w*ratio+shift,y+44,BLUE,3)
+    s+=label(w/2,203,'Matching lines at longer wavelength','middle')+label(w/2,231,'Wavelength increases left to right','middle')
+    return s,241
+
+RAW={'remaining-wave':wave,'remaining-refraction':refraction,'remaining-convex':convex,'remaining-motor-force':motor_force,'remaining-transformer':transformer,'remaining-bar-field':bar_field,'remaining-generators':generator_graphs,'remaining-star-life':star_life,'remaining-orbit':orbit,'remaining-redshift':redshift}
 PURPOSES={
  'remaining-wave':'Distinguishes rest-to-crest amplitude from the distance between successive crests.',
  'remaining-refraction':'Shows light changing speed and bending towards the normal as it enters glass obliquely.',
@@ -101,7 +130,10 @@ PURPOSES={
  'remaining-motor-force':'Shows mutually perpendicular field, current and force with explicit into-page current notation.',
  'remaining-transformer':'Shows separate coils linked by an iron core and distinguishes alternating input from induced output.',
  'remaining-bar-field':'Shows curved field lines outside a bar magnet pointing from north to south, matching compass direction.',
- 'remaining-generators':'Compares alternating potential difference crossing zero with a dynamo’s output that pulses in one direction.'}
+ 'remaining-generators':'Compares alternating potential difference crossing zero with a dynamo’s output that pulses in one direction.',
+ 'remaining-star-life':'Separates the Sun-like and much-more-massive star routes after their common main-sequence stage.',
+ 'remaining-orbit':'Distinguishes an inward gravitational force from a tangent velocity in circular orbital motion.',
+ 'remaining-redshift':'Compares the same spectral-line pattern at increasing wavelengths, rather than treating red-shift as an object simply appearing red.'}
 def wrap(kind):
     def draw(width):
         svg,height=RAW[kind](width)

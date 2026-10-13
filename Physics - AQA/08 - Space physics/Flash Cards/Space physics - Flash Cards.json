@@ -1,0 +1,223 @@
+{
+  "title": "Space physics flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Which galaxy contains our solar system?",
+      "back": [
+        "The Milky Way."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the cloud of gas and dust from which a star forms.",
+      "back": [
+        "A nebula."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the stable, long-lasting stage of a star’s life called?",
+      "back": [
+        "Main sequence."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which remnant follows the red-giant stage in the Sun-like route?",
+      "back": [
+        "A white dwarf."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the explosion that scatters a massive star’s material into space.",
+      "back": [
+        "A supernova."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What force maintains a planet’s orbit around the Sun?",
+      "back": [
+        "Gravity."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens to the observed wavelength of a red-shifted spectral line?",
+      "back": [
+        "It increases."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a natural satellite?",
+      "back": [
+        "A naturally occurring object that orbits a planet or another larger body."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why temperature rises as a protostar forms.",
+      "back": [
+        "**Gravity pulls gas and dust together**, contracting the cloud.",
+        "Contraction transfers energy so the protostar’s **temperature rises**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State what happens to nuclei during fusion and name the main product of hydrogen fusion in a main-sequence star.",
+      "back": [
+        "**Small nuclei join into a larger nucleus**.",
+        "Hydrogen fusion produces **helium**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the balance that keeps a main-sequence star stable.",
+      "back": [
+        "**Inward gravitational effects** tend to collapse it.",
+        "Energy from fusion maintains an **outward pressure effect** that balances gravity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is initial mass important when describing a star’s life cycle?",
+      "back": [
+        "It determines the broad later route: **red giant and white dwarf** for a Sun-like star.",
+        "Much more massive stars become **red supergiants and supernovae**, leaving a neutron star or black hole."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a supernova helps form later planets containing heavy elements.",
+      "back": [
+        "Its extreme conditions can **produce elements heavier than iron**.",
+        "The explosion **distributes elements into space**, providing material for later stars and planets."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Compare a moon and an artificial satellite around Earth.",
+      "back": [
+        "Both orbit Earth under **gravitational force**.",
+        "A moon formed naturally; an artificial satellite is **constructed and launched by people**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a satellite can accelerate while moving at constant speed in a circular orbit.",
+      "back": [
+        "Its **direction changes**, so its velocity changes.",
+        "A change in velocity is **acceleration**, even at constant speed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What is the relationship between stable circular orbital speed and radius around the same central body?",
+      "back": [
+        "A **smaller radius** has a higher orbital speed.",
+        "A **larger radius** has a lower orbital speed; a speed change requires a different stable circular orbit."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is simply seeing a red-looking galaxy not enough to establish red-shift?",
+      "back": [
+        "Scientists must compare **matching spectral lines** with their laboratory wavelengths.",
+        "Red-shift is a **shift to longer wavelength**, not just an object’s apparent colour."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A more distant galaxy has a larger red-shift than a nearer galaxy. What does this suggest about their recession speeds?",
+      "back": [
+        "Both are receding in the stated comparison.",
+        "The more distant, more red-shifted galaxy is **receding faster**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What do observations of distant supernovae suggest about cosmic expansion?",
+      "back": [
+        "The expansion is **accelerating**.",
+        "This means its rate changes over time, not merely that further galaxies currently recede faster."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why gravity is not balanced by a forward force in a satellite’s circular orbit.",
+      "back": [
+        "Gravity provides an **inward resultant force**.",
+        "This changes the direction of motion rather than the speed in an ideal circular orbit.",
+        "The satellite continually accelerates towards the centre; no forward balancing force is needed to maintain motion."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the route of a Sun-like star after its main-sequence stage.",
+      "back": [
+        "It expands into a **red giant**.",
+        "After losing outer material, it leaves a **white dwarf**.",
+        "The white dwarf cools over a very long time towards an expected **black dwarf**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the route of a much more massive star after its main-sequence stage.",
+      "back": [
+        "It becomes a **red supergiant**.",
+        "It undergoes a **supernova**.",
+        "Its remnant becomes a **neutron star or black hole**, depending on the remaining mass."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A circular orbit has radius 8.0 × 10⁶ m and period 8,000 s. Calculate average orbital speed using distance/time.",
+      "back": [
+        "One orbit is **2πr = 2π × 8.0 × 10⁶ m**.",
+        "v = 2πr/T = (2π × 8.0 × 10⁶)/8,000.",
+        "**v ≈ 6.3 × 10³ m/s**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A satellite is 600 km above a planet with radius 6,400 km. Its period is 6,000 s. Calculate its circular orbital speed.",
+      "back": [
+        "Orbital radius = 6,400 + 600 = **7,000 km = 7.0 × 10⁶ m**.",
+        "v = 2πr/T = (2π × 7.0 × 10⁶)/6,000.",
+        "**v ≈ 7.3 × 10³ m/s**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why red-shift supports an expanding universe.",
+      "back": [
+        "Matching lines from most distant galaxies have **longer wavelengths**, showing recession.",
+        "More distant galaxies generally **recede faster**.",
+        "This distance–speed pattern supports **expansion of space itself**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how a nebula develops into a main-sequence star.",
+      "back": [
+        "**Gravity pulls together** gas and dust.",
+        "Contraction raises temperature and pressure, forming a **protostar**.",
+        "When the core is hot enough, **hydrogen fusion begins**, producing helium and releasing energy.",
+        "Fusion maintains outward pressure effects that balance gravity, giving a stable **main-sequence** stage."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why scientists may revise a cosmological model when new observations are made.",
+      "back": [
+        "A model should explain existing evidence and give **testable predictions**.",
+        "Scientists compare new observations with those predictions, considering measurement uncertainty.",
+        "Reliable evidence that does not fit may require the model to be **modified or replaced**.",
+        "For example, accelerating expansion led to further questions about **dark energy** rather than a claim that expansion was already completely explained."
+      ]
+    }
+  ]
+}

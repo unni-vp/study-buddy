@@ -1,0 +1,318 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        290,
+        426,
+        344
+      ],
+      "column_heights": [
+        498,
+        476,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 426,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 259,
+          "width": 426,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 259,
+          "width": 344,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-space-physics-overview",
+      "title": "Space physics overview"
+    },
+    {
+      "widths": [
+        366,
+        342,
+        352
+      ],
+      "column_heights": [
+        684,
+        476,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 366,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 366,
+          "height": 503
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 396,
+          "y": 18,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 396,
+          "y": 259,
+          "width": 342,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-star-life",
+          "purpose": "Separates the Sun-like and much-more-massive star routes after their common main-sequence stage."
+        }
+      ],
+      "slug": "01-stars-and-elements",
+      "title": "Stars and elements"
+    },
+    {
+      "widths": [
+        406,
+        302,
+        352
+      ],
+      "column_heights": [
+        589,
+        520,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 406,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 406,
+          "height": 408
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 436,
+          "y": 18,
+          "width": 302,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 436,
+          "y": 281,
+          "width": 302,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-orbit",
+          "purpose": "Distinguishes an inward gravitational force from a tangent velocity in circular orbital motion."
+        }
+      ],
+      "slug": "02-orbits-and-satellites",
+      "title": "Orbits and satellites"
+    },
+    {
+      "widths": [
+        434,
+        290,
+        336
+      ],
+      "column_heights": [
+        612,
+        542,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 434,
+          "height": 409
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 439,
+          "width": 434,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 464,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 464,
+          "y": 303,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 281,
+          "width": 336,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "remaining-redshift",
+          "purpose": "Compares the same spectral-line pattern at increasing wavelengths, rather than treating red-shift as an object simply appearing red."
+        }
+      ],
+      "slug": "03-red-shift-and-expansion",
+      "title": "Red-shift and expansion"
+    }
+  ]
+}
