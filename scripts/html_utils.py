@@ -15,6 +15,9 @@ def render_md(text):
   if not line.strip():i+=1;continue
   if line.strip()=='---':
    out.append('<hr>');i+=1
+  elif line.startswith('**Themes:** '):
+   tags=[tag.strip() for tag in line[len('**Themes:** '):].split(' · ') if tag.strip()]
+   out.append('<div class="poem-theme-tags" role="group" aria-label="Poem themes"><span class="poem-theme-label">Themes:</span>'+''.join('<span class="poem-theme-tag">'+html.escape(tag)+'</span>' for tag in tags)+'</div>');i+=1
   elif line.startswith('#'):
    n=len(line)-len(line.lstrip('#')); out.append(f'<h{n}>{inline(line[n:].strip())}</h{n}>');i+=1
   elif line.startswith('>'):

@@ -2,6 +2,8 @@
 
 ## The Schoolboy — William Blake
 
+**Themes:** Family · Nature · Youth · Childhood · Conflict · Power · Negative emotions
+
 A child loves the freedom of a summer morning but feels miserable at school. Imagine trying to make a bird sing by locking it in a small cage: the method destroys the joy it needs.
 
 - **Main argument:** learning that relies on fear can damage a child's natural curiosity and future growth.
@@ -14,6 +16,8 @@ A child loves the freedom of a summer morning but feels miserable at school. Ima
 - **Compare:** Blackberry Picking also uses nature to explore childhood, but disappointment comes through decay. Catrin shows a child's wish for freedom from a parent's viewpoint.
 
 ## I Wandered Lonely as a Cloud — William Wordsworth
+
+**Themes:** Nature · Loneliness · Isolation
 
 A solitary walker sees daffodils. Later, remembering them brings pleasure. Nature works like a favourite photograph you can replay in your mind, even when the real scene is far away.
 
@@ -29,6 +33,8 @@ A solitary walker sees daffodils. Later, remembering them brings pleasure. Natur
 
 ## Blackberry Picking — Seamus Heaney
 
+**Themes:** Nature · Youth · Childhood · Conflict · Negative emotions
+
 Children collect berries enthusiastically, but their stored fruit rots. It is like trying to keep a perfect summer day in a box: wanting it to last does not stop time.
 
 - **Main argument:** desire repeatedly meets the limits of nature. Growing older means recognising loss without necessarily stopping hope.
@@ -42,6 +48,8 @@ Children collect berries enthusiastically, but their stored fruit rots. It is li
 - **Must know:** the fruit's decay can suggest a wider loss of innocence, but start with what actually happens before developing that interpretation.
 
 ## Sonnet 29 — Elizabeth Barrett Browning
+
+**Themes:** Love · Relationship · Nature
 
 The speaker thinks intensely about an absent lover, then insists that being with the real person is better than imagining them. Think of vines hiding a tree: thoughts about somebody can grow so large that they obscure the person.
 
@@ -57,6 +65,8 @@ The speaker thinks intensely about an absent lover, then insists that being with
 
 ## Cousin Kate — Christina Rossetti
 
+**Themes:** Love · Family · Relationship · Loneliness · Isolation · Conflict · Identity · Power · Negative emotions
+
 An abandoned woman addresses the cousin who married the lord who rejected her. She seems powerless, then reveals a son whom the wealthy household wants as an heir. It resembles somebody finally answering back after others have told the story for them.
 
 - **Main argument:** status and public respectability do not reliably reveal love or moral worth.
@@ -70,6 +80,8 @@ An abandoned woman addresses the cousin who married the lord who rejected her. S
 - **Must know:** the speaker asserts that her love was truer than Kate's; treat this as her claim and explore how she persuades us.
 
 ## Catrin — Gillian Clarke
+
+**Themes:** Love · Family · Relationship · Youth · Childhood · Conflict · Identity · Power · Negative emotions
 
 A mother recalls giving birth, then describes a later disagreement about her daughter's freedom. The relationship resembles a tug of war in which both people still want to stay connected.
 
@@ -85,6 +97,8 @@ A mother recalls giving birth, then describes a later disagreement about her dau
 
 ## Dusting the Phone — Jackie Kay
 
+**Themes:** Love · Relationship · Loneliness · Isolation · Conflict · Power · Negative emotions
+
 A person waits anxiously for a lover to call and becomes absorbed by the telephone. Imagine repeatedly checking for a message until the device seems to control your whole day.
 
 - **Main argument:** uncertainty can turn affection into dependence, fear and frustrated attempts at control.
@@ -98,6 +112,8 @@ A person waits anxiously for a lover to call and becomes absorbed by the telepho
 - **Must know:** the comic exaggeration can make the speaker relatable without making the loneliness trivial.
 
 ## Drummer Hodge — Thomas Hardy
+
+**Themes:** Nature · Youth · Isolation · War · Conflict · Identity
 
 A young drummer is buried far from his English home. The strange land will permanently contain him. Think of a name placed in a landscape that the person never had time to understand.
 
@@ -113,6 +129,8 @@ A young drummer is buried far from his English home. The strange land will perma
 
 ## Disabled — Wilfred Owen
 
+**Themes:** Relationship · Youth · Loneliness · Isolation · War · Conflict · Identity · Power · Negative emotions
+
 A young veteran compares his dependent present with the energetic life he had before war. It is like cutting between two versions of the same place: others still enjoy it, but his access to it has changed.
 
 - **Main argument:** the promises surrounding recruitment contrast cruelly with injury, isolation and inadequate care afterwards.
@@ -126,6 +144,8 @@ A young veteran compares his dependent present with the energetic life he had be
 - **Must know:** analyse the speaker's perception and society's treatment without assuming that all disabled lives must resemble this character's experience.
 
 ## Kamikaze — Beatrice Garland
+
+**Themes:** Love · Family · Relationship · Nature · Childhood · Isolation · War · Conflict · Identity · Power · Negative emotions
 
 A pilot returns from a suicide mission and is treated as absent by his family. His daughter later imagines why he turned back. He survives physically but loses his place among the people he loves.
 
@@ -141,6 +161,8 @@ A pilot returns from a suicide mission and is treated as absent by his family. H
 
 ## War Photographer — Carol Ann Duffy
 
+**Themes:** Isolation · War · Conflict · Power · Negative emotions
+
 A photographer develops images of suffering at home while remembering what he witnessed. Readers will see only a few pictures before returning to comfortable routines. The darkroom is like an attempt to organise a box of memories that refuse to stay neatly filed.
 
 - **Main argument:** recording suffering has a lasting personal cost, while distant spectators may respond only briefly.
@@ -154,6 +176,8 @@ A photographer develops images of suffering at home while remembering what he wi
 - **Must know:** the photographer's professional composure does not prove that he feels nothing; the poem shows delayed emotional effects.
 
 ## Remains — Simon Armitage
+
+**Themes:** Isolation · War · Conflict · Identity · Negative emotions
 
 A soldier recounts shooting a suspected looter, then discovers that leaving the war zone does not leave the event behind. Memory works like an unwanted replay that restarts without permission.
 
@@ -169,6 +193,8 @@ A soldier recounts shooting a suspected looter, then discovers that leaving the 
 
 ## I Shall Return — Claude McKay
 
+**Themes:** Love · Nature · Loneliness · Isolation · Identity · Negative emotions
+
 A speaker separated from home imagines going back to its sights, sounds and community. Home is like an anchor carried in memory, even when the person is physically far away.
 
 - **Main argument:** belonging to a place and culture can sustain hope during painful separation.
@@ -183,6 +209,8 @@ A speaker separated from home imagines going back to its sights, sounds and comm
 
 ## Decomposition — Zulfikar Ghose
 
+**Themes:** Isolation · Conflict · Identity · Power · Negative emotions
+
 A photographer looks again at a picture of a sleeping beggar and questions the pride he once took in it. Imagine realising that the striking photograph you admired contains somebody's actual hardship, not simply an interesting pattern.
 
 - **Main argument:** looking carefully at a person should challenge, rather than merely decorate, our way of seeing.
@@ -196,6 +224,8 @@ A photographer looks again at a picture of a sleeping beggar and questions the p
 - **Must know:** the man is described as asleep. The title and stone imagery do not prove that he is dead.
 
 ## Origin Story — Eve L. Ewing
+
+**Themes:** Love · Family · Relationship · Youth · Identity
 
 A speaker tells how her parents met through a comic book, then uses comics to think about their relationship. A comic can be carefully preserved or worn out through being loved and used: those are different kinds of value.
 

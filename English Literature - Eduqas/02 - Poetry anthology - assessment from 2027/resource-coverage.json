@@ -2,6 +2,144 @@
   "reviewed": "2026-10-06",
   "specification": "Eduqas C720QS v4 August 2024, assessment 2027",
   "coverage": {
+    "theme_tags": {
+      "The Schoolboy — William Blake": [
+        "Family",
+        "Nature",
+        "Youth",
+        "Childhood",
+        "Conflict",
+        "Power",
+        "Negative emotions"
+      ],
+      "I Wandered Lonely as a Cloud — William Wordsworth": [
+        "Nature",
+        "Loneliness",
+        "Isolation"
+      ],
+      "Blackberry Picking — Seamus Heaney": [
+        "Nature",
+        "Youth",
+        "Childhood",
+        "Conflict",
+        "Negative emotions"
+      ],
+      "Sonnet 29 — Elizabeth Barrett Browning": [
+        "Love",
+        "Relationship",
+        "Nature"
+      ],
+      "Cousin Kate — Christina Rossetti": [
+        "Love",
+        "Family",
+        "Relationship",
+        "Loneliness",
+        "Isolation",
+        "Conflict",
+        "Identity",
+        "Power",
+        "Negative emotions"
+      ],
+      "Catrin — Gillian Clarke": [
+        "Love",
+        "Family",
+        "Relationship",
+        "Youth",
+        "Childhood",
+        "Conflict",
+        "Identity",
+        "Power",
+        "Negative emotions"
+      ],
+      "Dusting the Phone — Jackie Kay": [
+        "Love",
+        "Relationship",
+        "Loneliness",
+        "Isolation",
+        "Conflict",
+        "Power",
+        "Negative emotions"
+      ],
+      "Drummer Hodge — Thomas Hardy": [
+        "Nature",
+        "Youth",
+        "Isolation",
+        "War",
+        "Conflict",
+        "Identity"
+      ],
+      "Disabled — Wilfred Owen": [
+        "Relationship",
+        "Youth",
+        "Loneliness",
+        "Isolation",
+        "War",
+        "Conflict",
+        "Identity",
+        "Power",
+        "Negative emotions"
+      ],
+      "Kamikaze — Beatrice Garland": [
+        "Love",
+        "Family",
+        "Relationship",
+        "Nature",
+        "Childhood",
+        "Isolation",
+        "War",
+        "Conflict",
+        "Identity",
+        "Power",
+        "Negative emotions"
+      ],
+      "War Photographer — Carol Ann Duffy": [
+        "Isolation",
+        "War",
+        "Conflict",
+        "Power",
+        "Negative emotions"
+      ],
+      "Remains — Simon Armitage": [
+        "Isolation",
+        "War",
+        "Conflict",
+        "Identity",
+        "Negative emotions"
+      ],
+      "I Shall Return — Claude McKay": [
+        "Love",
+        "Nature",
+        "Loneliness",
+        "Isolation",
+        "Identity",
+        "Negative emotions"
+      ],
+      "Decomposition — Zulfikar Ghose": [
+        "Isolation",
+        "Conflict",
+        "Identity",
+        "Power",
+        "Negative emotions"
+      ],
+      "Origin Story — Eve L. Ewing": [
+        "Love",
+        "Family",
+        "Relationship",
+        "Youth",
+        "Identity"
+      ]
+    },
+    "theme_tag_review": {
+      "reviewed": "2026-10-13",
+      "source": "Official first-assessment-2027 anthology PDF, all 15 poems read in full",
+      "principles": [
+        "Use the user's thirteen labels; love includes family and homeland affection where supported.",
+        "Conflict includes emotional, ethical and interpersonal struggles as well as war.",
+        "Loneliness is emotional experience; isolation includes social exclusion, physical separation and positive solitude.",
+        "Do not infer a sleeping beggar's inner feelings or treat Wordsworth's final solitude as distress.",
+        "Identity includes personal dignity, origins, national belonging and a changed sense of self."
+      ]
+    },
     "poems": [
       "The Schoolboy — William Blake",
       "I Wandered Lonely as a Cloud — William Wordsworth",

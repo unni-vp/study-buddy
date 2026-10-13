@@ -58,3 +58,9 @@ body[class*="subject-"] .qa-mark-links a:hover,body[class*="subject-"] .qa-answe
 body[class*="subject-"] .qa-answer-body{background:color-mix(in srgb,var(--accent-soft) 45%,white);border-color:var(--accent-line)}
 body[class*="subject-"] .flashcard-item{background:linear-gradient(145deg,#fff,color-mix(in srgb,var(--accent-soft) 65%,white));border-color:var(--accent)}
 body[class*="subject-"] .flashcard-category{background:var(--accent-soft);color:var(--accent-dark)}
+
+/* Poem theme labels wrap naturally on small screens and remain visible in print. */
+.poem-theme-tags{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin:12px 0 20px;line-height:1.45}
+.poem-theme-label{font-size:14px;font-weight:600;margin-right:2px;color:var(--ink)}
+.poem-theme-tag{display:inline-block;font-size:14px;padding:3px 10px;border:1px solid var(--accent-line,var(--line));border-radius:20px;background:var(--accent-soft,#edf4f0);color:var(--ink);max-width:100%;overflow-wrap:anywhere}
+@media print{.poem-theme-tags{break-inside:avoid}.poem-theme-tag{background:white;border-color:#777;color:black}}
