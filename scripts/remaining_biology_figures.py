@@ -214,3 +214,7 @@ def wrap(kind):
         return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+svg+'</g>',height
     return draw
 FIGURES={kind:wrap(kind) for kind in RAW}
+
+from remaining_ecology_figures import FIGURES as ECOLOGY_FIGURES, PURPOSES as ECOLOGY_PURPOSES
+FIGURES.update(ECOLOGY_FIGURES)
+PURPOSES.update(ECOLOGY_PURPOSES)

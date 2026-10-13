@@ -1,0 +1,93 @@
+{
+  "source": "Ecology - Revision Notes.md",
+  "groups": [
+    {
+      "id": "communities",
+      "title": "Communities and adaptations",
+      "description": "Connect environmental factors to survival and distribution.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Ecosystems and interdependence"
+        },
+        {
+          "heading": "Living and non-living factors"
+        },
+        {
+          "heading": "Adaptations and distribution"
+        },
+        {
+          "heading": "Food chains and population cycles"
+        }
+      ]
+    },
+    {
+      "id": "sampling",
+      "title": "Sampling and distribution",
+      "description": "Use random quadrats, transects and valid estimates.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Random quadrats: estimating population size"
+        },
+        {
+          "heading": "Transects: investigating distribution"
+        }
+      ]
+    },
+    {
+      "id": "cycles",
+      "title": "Cycles and decomposition",
+      "description": "Follow matter, decay conditions and milk-pH measurements.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "The carbon cycle"
+        },
+        {
+          "heading": "The water cycle"
+        },
+        {
+          "heading": "Decomposition, compost and biogas"
+        },
+        {
+          "heading": "Milk-decay practical"
+        }
+      ]
+    },
+    {
+      "id": "biodiversity",
+      "title": "Biodiversity and human impacts",
+      "description": "Explain habitat threats and evaluate protection.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Biodiversity and human impacts"
+        },
+        {
+          "heading": "Deforestation and climate change"
+        },
+        {
+          "heading": "Maintaining biodiversity"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Biomass and food production",
+      "description": "Calculate transfer and compare sustainable supply methods.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Biomass pyramids and transfer efficiency"
+        },
+        {
+          "heading": "Food security and farming"
+        },
+        {
+          "heading": "Sustainable fishing and biotechnology"
+        }
+      ]
+    }
+  ]
+}

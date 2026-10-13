@@ -1,0 +1,40 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8461, Higher tier",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "coverage": [
+    "4.7.1–4.7.5"
+  ],
+  "coverage_checklist": {
+    "4.7.1": "Organisation/interdependence/competition, all abiotic and biotic factors, structural/behavioural/functional adaptation and extremophiles",
+    "4.7.2": "Food chains/predator cycles, random/systematic sampling/calculation, carbon/water cycles, decomposition/biogas/milk practical, distribution change",
+    "4.7.3": "Biodiversity, pollution/land use/peat/deforestation/climate/protection and conflicting pressures",
+    "4.7.4": "All trophic levels, decomposers, scaled pyramids, biomass loss and efficiency",
+    "4.7.5": "All food-security factors, farming/welfare, quotas/mesh, Fusarium/insulin/GM nutrition"
+  },
+  "practicals": [
+    "RPA9",
+    "RPA10"
+  ],
+  "mindmaps": [
+    "00-ecology-overview",
+    "01-communities-and-distribution",
+    "02-sampling",
+    "03-cycles-and-decomposition",
+    "04-milk-decay-practical",
+    "05-biodiversity",
+    "06-biomass-and-food"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Ecology - Questions and Answers.md",
+    "deck": "Flash Cards/Ecology - Flash Cards.json",
+    "count": 42,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}
