@@ -1,0 +1,324 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        302,
+        406,
+        352
+      ],
+      "column_heights": [
+        526,
+        655,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 302,
+          "height": 279
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 406,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 259,
+          "width": 406,
+          "height": 430
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 303,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-half-life",
+          "purpose": "Shows equal time intervals halving a background-corrected source count rate."
+        }
+      ],
+      "slug": "00-atomic-structure-overview",
+      "title": "Atomic structure overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        432,
+        638,
+        423
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 435
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 465,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 220
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-scatter",
+          "purpose": "Shows straight-through and rare turned-back alpha paths around a small positive nucleus."
+        }
+      ],
+      "slug": "01-atoms-and-nuclear-equations",
+      "title": "Atoms & nuclear equations",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        346,
+        362,
+        352
+      ],
+      "column_heights": [
+        577,
+        611,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 360,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 362,
+          "height": 430
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 460,
+          "width": 362,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-half-life",
+          "purpose": "Shows equal time intervals halving a background-corrected source count rate."
+        }
+      ],
+      "slug": "02-radiation-and-half-life",
+      "title": "Radiation & half-life",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        498,
+        476,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 281,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-radiation-uses-and-nuclear-energy",
+      "title": "Radiation uses & nuclear energy",
+      "source_panels_preserved": 6
+    }
+  ]
+}

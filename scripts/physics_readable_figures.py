@@ -79,9 +79,9 @@ def scatter(w):
     s+=label(x+20,58,'Nucleus')
     s+=arrow(2,17,w-3,17)+arrow(2,98,w-3,98)
     s+=path(f'M2 51H{x-33}Q{x-6} 51 {x-33} 74H{x-64}')+arrow(x-33,74,x-64,74)
-    s+=label(w/2,128,'Arrows: alpha particles','middle')+label(w/2,152,'Most pass; very few turn back','middle')
-    s+=label(w/2,176,'Nucleus and paths not to scale','middle')
-    return s,186
+    s+=label(w/2,128,'Arrows: alpha particles','middle')+label(w/2,152,'Most pass straight through','middle')
+    s+=label(w/2,176,'Very few turn back','middle')+label(w/2,200,'Nucleus and paths not to scale','middle')
+    return s,210
 
 def lever(w):
     left=27;pivot=w*.35;right=pivot+2*(pivot-left)
