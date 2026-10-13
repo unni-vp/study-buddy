@@ -1,0 +1,62 @@
+{
+  "source": "Chemistry of the atmosphere - Revision Notes.md",
+  "groups": [
+    {
+      "id": "history",
+      "title": "Atmosphere and its history",
+      "description": "Connect early gases, photosynthesis and carbon stores.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Today’s atmosphere"
+        },
+        {
+          "heading": "Early atmosphere and oceans"
+        },
+        {
+          "heading": "Photosynthesis changes the atmosphere"
+        },
+        {
+          "heading": "Storing carbon in rocks and fuels"
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "title": "Greenhouse effect and climate",
+      "description": "Explain radiation, emissions and evidence.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "The greenhouse effect"
+        },
+        {
+          "heading": "Human sources of greenhouse gases"
+        },
+        {
+          "heading": "Climate effects and evaluating evidence"
+        }
+      ]
+    },
+    {
+      "id": "impacts",
+      "title": "Footprints and pollutants",
+      "description": "Compare full-life-cycle choices and specific pollution mechanisms.",
+      "icon": "chemistry-atom",
+      "sections": [
+        {
+          "heading": "Carbon footprints and reducing emissions"
+        },
+        {
+          "heading": "Fuel combustion and pollutant formation"
+        },
+        {
+          "heading": "Acid rain, dimming and control choices"
+        },
+        {
+          "heading": "Keep these ideas separate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "title": "Chemistry of the atmosphere flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What gas makes up most of today’s atmosphere?",
+      "back": [
+        "Nitrogen."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Approximately what percentage of dry air is oxygen?",
+      "back": [
+        "21%."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What process increased atmospheric oxygen?",
+      "back": [
+        "Photosynthesis."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name a greenhouse gas other than carbon dioxide or methane.",
+      "back": [
+        "Water vapour."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which pollutant is toxic, colourless and odourless?",
+      "back": [
+        "Carbon monoxide."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which kind of radiation is emitted by Earth’s warm surface?",
+      "back": [
+        "Long-wavelength infrared."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is global dimming?",
+      "back": [
+        "A reduction in sunlight reaching Earth’s surface caused by atmospheric particulates."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe two likely features of the early atmosphere.",
+      "back": [
+        "Much **carbon dioxide**.",
+        "**Little or no oxygen**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How did Earth’s oceans form in the volcanic-outgassing model?",
+      "back": [
+        "Volcanoes released **water vapour**.",
+        "As Earth cooled, vapour **condensed** into liquid water."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two processes that reduced atmospheric carbon dioxide over long timescales.",
+      "back": [
+        "**Photosynthesis** incorporated carbon into organisms.",
+        "Dissolution/carbonate sediment formation and fossil-fuel formation stored carbon outside the atmosphere."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two human activities that increase methane emissions.",
+      "back": [
+        "Cattle farming or flooded rice cultivation.",
+        "Anaerobic decomposition of organic waste in landfill."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how burning sulfur-containing fuel can harm the environment.",
+      "back": [
+        "Sulfur burns to form **sulfur dioxide**.",
+        "This can cause **acid rain**, damaging ecosystems/buildings."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can nitrogen oxides form from a nitrogen-free fuel?",
+      "back": [
+        "Air contains nitrogen and oxygen.",
+        "They react at the **high combustion temperature**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why increasing oxygen supply reduces carbon monoxide formation.",
+      "back": [
+        "Carbon monoxide forms during **incomplete combustion**.",
+        "More oxygen supports complete oxidation to carbon dioxide."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does deforestation increase atmospheric carbon dioxide?",
+      "back": [
+        "Burning/decay releases carbon dioxide from biomass.",
+        "Fewer trees remove it through **photosynthesis**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two possible effects of climate change.",
+      "back": [
+        "**Sea-level rise** can increase coastal flood risk.",
+        "**Habitat/rainfall changes** can affect species or food production."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is one cold winter insufficient evidence against a long-term warming trend?",
+      "back": [
+        "Weather varies by location and year.",
+        "Climate trends need **long-term, broad measurements**, not one local event."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Define the carbon footprint of a product.",
+      "back": [
+        "Its total **carbon dioxide and other greenhouse-gas emissions**.",
+        "Across the **full life cycle**, including production, use and disposal."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A product’s emissions are 30, 12, 60 and 8 kg CO₂e at four life-cycle stages. Calculate total footprint.",
+      "back": [
+        "Total = 30+12+60+8.",
+        "**110 kg CO₂e**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the greenhouse effect using radiation wavelengths.",
+      "back": [
+        "Short-wavelength sunlight passes through and warms Earth’s surface.",
+        "The surface emits **long-wavelength infrared**.",
+        "Greenhouse gases **absorb and re-emit some infrared**, including downwards, reducing net energy loss at a given temperature."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how crude oil and natural gas deposits formed.",
+      "back": [
+        "Ancient marine biomass such as plankton died and was buried in sediment.",
+        "Oxygen-poor conditions limited complete decay.",
+        "Heat and pressure changed it over **millions of years** into fossil-fuel deposits."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how limestone formation can store carbon.",
+      "back": [
+        "Carbon dioxide dissolves in oceans and contributes to carbonate formation.",
+        "Carbonate sediments and shells/skeletons accumulate.",
+        "They compact into limestone, storing carbon outside the atmosphere."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the formation of coal.",
+      "back": [
+        "Dead vegetation accumulates in conditions limiting decay.",
+        "It becomes buried under sediments.",
+        "Heat and pressure over long timescales transform it into a carbon-rich fuel."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why is evidence for the early atmosphere uncertain?",
+      "back": [
+        "Events occurred billions of years ago, with no direct measurements.",
+        "Ancient rocks/materials have been altered or destroyed.",
+        "Scientists compare surviving evidence and models, revising explanations as new data arise."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a growing population can raise carbon-dioxide emissions.",
+      "back": [
+        "Greater demand for energy and transport increases fossil-fuel burning.",
+        "Burning carbon-containing fuels releases carbon dioxide.",
+        "Extra farmland/development can also cause deforestation and reduced carbon uptake."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A total footprint is 135 kg CO₂e, including 80 kg from use. Use emissions fall by 25%. Calculate new footprint and whole-footprint reduction.",
+      "back": [
+        "Saving = 0.25 ×80 = **20 kg**.",
+        "New footprint = 135−20 = **115 kg CO₂e**.",
+        "Whole reduction = 20/135 ×100 ≈ **14.8%**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why carbon monoxide is dangerous.",
+      "back": [
+        "It is **colourless and odourless**, making exposure difficult to notice.",
+        "It binds strongly to haemoglobin.",
+        "This reduces blood’s **oxygen-carrying ability**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how particulates affect sunlight and human health.",
+      "back": [
+        "Particles scatter/reflect incoming sunlight.",
+        "Less sunlight reaches the surface, causing **global dimming**.",
+        "Inhaled particles can damage respiratory health."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare global warming with acid rain.",
+      "back": [
+        "Greenhouse gases absorb/re-emit outgoing infrared, enhancing warming.",
+        "This affects average temperature and climate.",
+        "Sulfur dioxide/nitrogen oxides form acidic substances in atmospheric moisture.",
+        "Acid rain damages plants, aquatic systems and buildings; it is a different mechanism."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Give four potential consequences of climate change with a brief link to each.",
+      "back": [
+        "Warmer oceans and melting land ice raise sea level, increasing coastal flooding.",
+        "Changed rainfall can increase drought and limit freshwater.",
+        "Habitat conditions shift, changing species distributions.",
+        "Heat/rainfall changes can alter crop yields and food security."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why full-life-cycle evidence is needed to compare two transport technologies.",
+      "back": [
+        "Manufacturing and raw materials can emit greenhouse gases before either is used.",
+        "Fuel/electricity production affects use-related emissions.",
+        "Disposal/recycling and lifetime change the total.",
+        "Compare equal transport service, not just exhaust emissions from one trip."
+      ]
+    }
+  ]
+}

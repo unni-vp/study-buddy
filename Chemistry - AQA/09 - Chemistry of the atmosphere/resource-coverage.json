@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "4.9.1.1–4.9.1.4",
+    "4.9.2.1–4.9.2.4",
+    "4.9.3.1–4.9.3.2"
+  ],
+  "coverage_checklist": {
+    "4.9.1": "Current approximate proportions,volcanic model/evidence limits,ocean formation,photosynthesis/oxygen,limestone/coal/oil/gas",
+    "4.9.2": "Short/long-wave radiation,gases,two activities each CO₂/methane,evidence/peer review/uncertainty,four climate effects,life-cycle footprint/reduction/limits",
+    "4.9.3": "Composition/conditions predicting pollutants,CO/soot/SO₂/NOx formation,all specified health/environment effects"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-atmosphere-overview",
+    "01-atmosphere-evolution",
+    "02-greenhouse-and-climate",
+    "03-carbon-footprints",
+    "04-pollutants"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Chemistry of the atmosphere - Questions and Answers.md",
+    "deck": "Flash Cards/Chemistry of the atmosphere - Flash Cards.json",
+    "count": 31,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

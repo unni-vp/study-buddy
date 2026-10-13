@@ -1,0 +1,378 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        350,
+        334,
+        376
+      ],
+      "column_heights": [
+        432,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 334,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 237,
+          "width": 334,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 726,
+          "y": 18,
+          "width": 376,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 726,
+          "y": 237,
+          "width": 376,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-atmosphere-overview",
+      "title": "Chemistry of the atmosphere"
+    },
+    {
+      "widths": [
+        358,
+        350,
+        352
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 358,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 215,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-atmosphere-evolution",
+      "title": "Atmosphere evolution and carbon stores"
+    },
+    {
+      "widths": [
+        374,
+        290,
+        396
+      ],
+      "column_heights": [
+        577,
+        526,
+        467
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 374,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 374,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 18,
+          "y": 412,
+          "width": 374,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 404,
+          "y": 18,
+          "width": 290,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 404,
+          "y": 259,
+          "width": 290,
+          "height": 301
+        },
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 706,
+          "y": 18,
+          "width": 396,
+          "height": 475
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "remaining-chem-greenhouse",
+          "purpose": "Distinguishes incoming short-wavelength radiation, outgoing infrared escape and absorption/re-emission by greenhouse gases, without depicting a reflecting solid blanket or implying all radiation is trapped."
+        }
+      ],
+      "slug": "02-greenhouse-and-climate",
+      "title": "Greenhouse effect and climate evidence"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        410,
+        388,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-carbon-footprints",
+      "title": "Carbon footprints and reducing emissions"
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        432,
+        432,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 378,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 259,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-pollutants",
+      "title": "Fuel pollutants and their effects"
+    }
+  ]
+}

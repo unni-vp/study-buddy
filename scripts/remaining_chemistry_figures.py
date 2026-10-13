@@ -107,10 +107,21 @@ def chromatogram(w):
     s+=label(w/2,265,'Baseline: solid starting line','middle')+label(w/2,293,'A’s Rf = 78 / 130 = 0.60','middle')+label(w/2,321,'C contains spots matching A and B','middle')
     return s,333
 
-RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram}
+def greenhouse(w):
+    if w<360:raise ValueError('Radiation routes require 360 units')
+    s=label(40,18,'Sun','middle')+label(w*.5,18,'Space','middle')+f'<circle cx="40" cy="51" r="17" fill="#ffe1a0" stroke="{ORANGE}"/><rect x="15" y="76" width="{w-30}" height="97" rx="10" fill="#dcecf5" fill-opacity=".6" stroke="#adc4d1" stroke-dasharray="5 4"/><path d="M15 227H{w-15}" stroke="{GREEN}" stroke-width="5"/>'
+    s+=arrow(57,65,w*.28,223,ORANGE)+arrow(w*.5,220,w*.5,36,BLUE)
+    s+=f'<path d="M{w*.75} 220l-5 -13l10 -13l-10 -13l10 -13l-5 -13V141" fill="none" stroke="#b94b57" stroke-width="2"/>'+arrow(w*.75,150,w*.75,140,'#b94b57')
+    s+=f'<circle cx="{w*.75}" cy="129" r="7" fill="#b94b57"/>'+arrow(w*.78,142,w*.93,222,'#b94b57')+arrow(w*.78,118,w*.92,88,'#b94b57')
+    s+=label(w*.78,64,'Re-emission','middle')+label(20,201,'Surface')
+    s+=label(w/2,258,'Orange: incoming short-wave radiation','middle')+label(w/2,285,'Blue/red: outgoing long-wave infrared','middle')+label(w/2,312,'Some escapes, some is absorbed by gases','middle')+label(w/2,339,'Re-emission towards surface warms it','middle')
+    return s,351
+
+RAW={'remaining-chem-rate-curves':rates,'remaining-chem-tangent':tangent,'remaining-chem-equilibrium':equilibrium,'remaining-chem-gas':gas_collection,'remaining-chem-alkenes':alkenes,'remaining-chem-additions':additions,'remaining-chem-polymer':addition_polymer,'remaining-chem-chromatogram':chromatogram,'remaining-chem-greenhouse':greenhouse}
 PURPOSES={'remaining-chem-rate-curves':'Compares rates by slopes while both reactions approach the same limiting-reactant gas yield.','remaining-chem-tangent':'Shows an analytically correct tangent and large triangle for instantaneous gas-production rate.','remaining-chem-equilibrium':'Distinguishes initially unequal forward/reverse rates from equal nonzero rates at dynamic equilibrium.','remaining-chem-gas':'Shows a stoppered reaction flask connected to a graduated gas syringe, with an open moving plunger rather than a blocked collector.'}
 PURPOSES.update({'remaining-chem-alkenes':'Displays every atom and bond in straight-chain representatives of the first four alkenes, keeping carbon valency four.','remaining-chem-additions':'Shows hydrogen, water and bromine adding across ethene’s double bond with the new atoms attached to the correct carbons.','remaining-chem-polymer':'Changes ethene C=C into a single-bond repeating unit with two external chain bonds, brackets and n, preserving all atoms.'})
 PURPOSES['remaining-chem-chromatogram']='Shows separated reference/sample spots with a distinct common baseline and solvent front; the dimensionless Rf is calculated from two distances measured from that baseline.'
+PURPOSES['remaining-chem-greenhouse']='Distinguishes incoming short-wavelength radiation, outgoing infrared escape and absorption/re-emission by greenhouse gases, without depicting a reflecting solid blanket or implying all radiation is trapped.'
 def wrapper(kind):
     def draw(w):
         s,h=RAW[kind](w);return '<g class="concept-illustration"><title>'+escape(PURPOSES[kind])+'</title>'+s+'</g>',h
