@@ -4,7 +4,9 @@ const fs=require('fs'), path=require('path'), {pathToFileURL}=require('url');
  const browser=await chromium.launch({channel:'msedge',headless:true});
  try{
   const page=await browser.newPage({viewport:{width:1440,height:1000}});
-  const maps=fs.readdirSync(process.env.MINDMAP_DIR||'Biology - AQA/01 - Cell biology/Mind Maps').filter(f=>f.endsWith('.svg'));
+  const requested=process.argv.slice(2);
+  const maps=fs.readdirSync(process.env.MINDMAP_DIR||'Biology - AQA/01 - Cell biology/Mind Maps').filter(f=>f.endsWith('.svg')&&(!requested.length||requested.includes(f)||requested.includes(f.slice(0,-4))));
+  if(!maps.length)throw Error('No requested maps found');
   fs.mkdirSync('tmp/pdfs',{recursive:true});
   for(const name of maps){
    const slug=name.slice(0,-4);

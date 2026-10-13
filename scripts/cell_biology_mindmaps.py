@@ -42,8 +42,8 @@ def rich(x,y,rows,size):
     return ''.join(result),y
 
 def build_svg(m):
-    from a4_mindmaps import build_a4
-    return build_a4(m)
+    from biology_readable_mindmaps import build_cell_map
+    return build_cell_map(m)
 
 
 def build_maps(slugs=None):

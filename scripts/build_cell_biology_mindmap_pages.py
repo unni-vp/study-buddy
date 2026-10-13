@@ -14,6 +14,14 @@ def build_standalone_pages(paths=None):
     root=BASE.parents[1];folder=BASE/'Mind Maps';index=folder/'Cell Biology - Mind Maps.html'
     site_title=json.loads((root/'project-config.json').read_text(encoding='utf-8'))['site_title']
     catalog=[{'title':m['title'],'image':folder/(m['slug']+'.svg'),'thumbnail':folder/(m['slug']+'.png'),'page':folder/(m['slug']+'.html')} for m in MAP_CONTENT]
+    # Independent alternative maps keep their own generator and join both galleries.
+    known={m['image'].stem for m in catalog}
+    for artwork in sorted(folder.glob('*.svg')):
+        if artwork.stem in known or not artwork.with_suffix('.png').exists():
+            continue
+        text_source=artwork.with_suffix('.md')
+        title=text_source.read_text(encoding='utf-8').splitlines()[0].lstrip('# ').strip() if text_source.exists() else artwork.stem
+        catalog.append({'title':title,'image':artwork,'thumbnail':artwork.with_suffix('.png'),'page':artwork.with_suffix('.html')})
     def write(page,title,body):
         styles=''.join(f'<link rel="stylesheet" href="{link(page,root/"library"/name)}">' for name in ['style.css','mindmaps.css'])
         script=f'<script defer src="{link(page,root/"library/mindmaps.js")}"></script>'

@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-10-13",
+  "type": "Alternative one-page text-led overview with the existing mitosis diagram and complete overview text counterpart",
+  "source": "scripts/cell_biology_illustrated_overview.py",
+  "specification": "AQA 8461 4.1, local specification PDF pages 15–23",
+  "scope": [
+    "cell structures",
+    "six specialised cells",
+    "differentiation",
+    "microscopy",
+    "mitosis and stem cells",
+    "culturing and calculations",
+    "diffusion, osmosis, active transport and exchange"
+  ],
+  "detail_preservation": "Original seven maps and their full Markdown content are unchanged. The alternative has the same complete overview text counterpart.",
+  "print": {
+    "width_mm": 277,
+    "orientation": "landscape",
+    "smallest_text_pt": 11.22
+  },
+  "layout_preferences": [
+    "Mitosis is the only diagram",
+    "No central heading panel",
+    "Clear subsections and fuller explanations",
+    "Bold keyword and colon labels",
+    "Black body text and keywords beneath coloured headings",
+    "Consistent 16-unit bold subsection headings; explanations on separate body lines",
+    "Compact 16-unit outer gutters with preserved inner padding",
+    "Light panel-colour dividers between natural content groups",
+    "Original maps preserved"
+  ],
+  "scientific_review": [
+    "Existing chromosome identities, copies, separation and daughter sets preserved",
+    "No nucleus around separating chromatids",
+    "Plant chloroplast qualification retained",
+    "Bacterial plasmid qualification retained",
+    "Osmosis describes water, solutions and partially permeable membrane",
+    "Active transport states against-gradient direction and respiration energy",
+    "Clear-zone area and repeated-doubling calculations retained",
+    "School incubation limit and practical comparison retained"
+  ]
+}

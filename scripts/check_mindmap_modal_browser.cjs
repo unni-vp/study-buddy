@@ -9,7 +9,7 @@ const {pathToFileURL}=require('url');const path=require('path');const fs=require
  const dialog=page.locator('#mindmap-dialog');
  const image=page.locator('#mindmap-full-image');
  const close=()=>page.getByRole('button',{name:'Close mind map',exact:true});
- const names=['Cell biology overview','Cells','Cell processes','Transport processes','Exchange surfaces','Microscopy','Culturing microorganisms'];
+ const names=[];
  async function loaded(){await page.waitForFunction(()=>{const i=document.getElementById('mindmap-full-image');return i.complete&&i.naturalWidth===2400&&i.getBoundingClientRect().width>0;});}
  async function fullScreen(){
   if(!await dialog.evaluate(d=>d.open))throw Error('Modal did not open');
@@ -22,8 +22,9 @@ const {pathToFileURL}=require('url');const path=require('path');const fs=require
   if(!fits)throw Error('Fit clips the map');
  }
  await page.goto(topic);
+ names.push(...JSON.parse(await page.locator('#mindmap-catalog').textContent()).map(m=>m.title));
  const button=page.getByRole('link',{name:'Mind maps',exact:true});await button.click();await fullScreen();
- if(page.url()!==topic||await dialog.locator('.mindmap-card').count()!==7)throw Error('Topic button should open seven-map modal gallery on the same page');
+ if(page.url()!==topic||await dialog.locator('.mindmap-card').count()!==names.length)throw Error('Topic button should open the complete modal gallery on the same page');
  await page.screenshot({path:'tmp/mindmap-modal-gallery.png'});
  for(const name of names){
   await dialog.getByRole('button',{name,exact:true}).click();await loaded();await fullScreen();await fitted();
@@ -98,5 +99,5 @@ const {pathToFileURL}=require('url');const path=require('path');const fs=require
  if(hostedErrors.length)throw Error(hostedErrors.join(';'));
  await hosted.close();await new Promise(resolve=>server.close(resolve));
  if(errors.length)throw Error(errors.join(';'));
- await browser.close();console.log('PASS: seven full-screen SVG maps, topic/gallery/direct/standalone entry, fit/zoom/pan, keyboard focus and Escape, background locking, print isolation, mobile scrolling no-script text fallbacks and hosted /study-buddy/ asset paths.');
+ await browser.close();console.log('PASS: all full-screen SVG maps, topic/gallery/direct/standalone entry, fit/zoom/pan, keyboard focus and Escape, background locking, print isolation, mobile scrolling no-script text fallbacks and hosted /study-buddy/ asset paths.');
 })().catch(e=>{console.error(e);process.exit(1)});

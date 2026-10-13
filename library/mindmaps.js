@@ -11,6 +11,8 @@
   const gallery = dialog.querySelector('.mindmap-modal-gallery');
   const galleryGrid = gallery.querySelector('.mindmap-grid');
   const zoom = document.getElementById('mindmap-zoom');
+  const sequence = dialog.querySelector('.mindmap-sequence');
+  const position = document.getElementById('mindmap-position');
   const error = dialog.querySelector('.mindmap-load-error');
   const textLink = document.getElementById('mindmap-text-link');
   let selected = -1, scale = 1, fitting = true, opener = null, request = 0, drag = null;
@@ -68,6 +70,7 @@
     gallery.hidden = false; canvas.hidden = true; error.hidden = true;
     title.textContent = maps[0].title.replace(/ overview$/i, '') + ' mind maps';
     controls('gallery').hidden = true;
+    sequence.hidden = true;
     dialog.querySelector('.mindmap-zoom-controls').hidden = true;
     controls('print').hidden = true; textLink.hidden = true;
     ensureOpen(trigger);
@@ -79,6 +82,10 @@
     gallery.hidden = true; canvas.hidden = false; error.hidden = true;
     title.textContent = map.title; image.alt = map.title + ' revision map';
     controls('gallery').hidden = false;
+    sequence.hidden = maps.length < 2;
+    controls('previous').disabled = index === 0;
+    controls('next').disabled = index === maps.length - 1;
+    position.textContent = (index + 1) + ' / ' + maps.length;
     dialog.querySelector('.mindmap-zoom-controls').hidden = false;
     controls('print').hidden = false; textLink.hidden = false;
     textLink.href = map.page + '#text-version'; error.querySelector('a').href = map.page;
@@ -97,6 +104,12 @@
       const name = action.dataset.mapAction;
       if (name === 'close') dialog.close();
       else if (name === 'gallery') { showGallery(); galleryGrid.querySelector('button')?.focus(); }
+      else if (name === 'previous' || name === 'next') {
+        if (!action.disabled) {
+          showMap(selected + (name === 'next' ? 1 : -1));
+          if (action.disabled) controls(name === 'next' ? 'previous' : 'next').focus();
+        }
+      }
       else if (name === 'fit') fit();
       else if (name === 'print') window.print();
       else if (name === 'actual') { fitting = false; setScale(1); }

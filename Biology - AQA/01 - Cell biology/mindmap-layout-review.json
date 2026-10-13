@@ -1,0 +1,589 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/biology_readable_mindmaps.py",
+  "style": "Readable panels without a central hub; black explanations, bold colon labels, consistent coloured headings, light inset dividers, compact outer gutters",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "minimum_body_pt": 11.22
+  },
+  "full_text": "Existing full Markdown counterparts retained",
+  "maps": [
+    {
+      "slug": "00-cell-biology-overview",
+      "widths": [
+        362,
+        382,
+        316
+      ],
+      "column_heights": [
+        731,
+        731,
+        692
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0,
+            1
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 362,
+          "height": 489
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 18,
+          "y": 519,
+          "width": 362,
+          "height": 230
+        },
+        {
+          "source_panels": [
+            5,
+            2
+          ],
+          "x": 392,
+          "y": 18,
+          "width": 382,
+          "height": 445
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 392,
+          "y": 475,
+          "width": 382,
+          "height": 274
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 786,
+          "y": 18,
+          "width": 316,
+          "height": 326
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 786,
+          "y": 356,
+          "width": 316,
+          "height": 370
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "01-cells",
+      "widths": [
+        290,
+        346,
+        424
+      ],
+      "column_heights": [
+        665,
+        718,
+        700
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 347,
+          "width": 290,
+          "height": 352
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 346,
+          "height": 291
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 321,
+          "width": 346,
+          "height": 190
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 320,
+          "y": 523,
+          "width": 346,
+          "height": 225
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 678,
+          "y": 18,
+          "width": 424,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 678,
+          "y": 259,
+          "width": 424,
+          "height": 220
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 678,
+          "y": 491,
+          "width": 424,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "02-cell-processes",
+      "widths": [
+        326,
+        362,
+        372
+      ],
+      "column_heights": [
+        709,
+        554,
+        731
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 326,
+          "height": 228
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 258,
+          "width": 326,
+          "height": 206
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 18,
+          "y": 476,
+          "width": 326,
+          "height": 272
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 356,
+          "y": 18,
+          "width": 362,
+          "height": 351
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 356,
+          "y": 381,
+          "width": 362,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 730,
+          "y": 18,
+          "width": 372,
+          "height": 221
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 730,
+          "y": 251,
+          "width": 372,
+          "height": 243
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 730,
+          "y": 506,
+          "width": 372,
+          "height": 243
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "03-transport-processes",
+      "widths": [
+        410,
+        342,
+        308
+      ],
+      "column_heights": [
+        700,
+        726,
+        687
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 410,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 316,
+          "width": 410,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 18,
+          "y": 513,
+          "width": 410,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4,
+            5
+          ],
+          "x": 440,
+          "y": 18,
+          "width": 342,
+          "height": 452
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 440,
+          "y": 482,
+          "width": 342,
+          "height": 268
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 794,
+          "y": 18,
+          "width": 308,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 794,
+          "y": 325,
+          "width": 308,
+          "height": 396
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "04-exchange-surfaces",
+      "widths": [
+        294,
+        414,
+        352
+      ],
+      "column_heights": [
+        627,
+        687,
+        700
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 294,
+          "height": 323
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 353,
+          "width": 294,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 324,
+          "y": 18,
+          "width": 414,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 324,
+          "y": 281,
+          "width": 414,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 324,
+          "y": 522,
+          "width": 414,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 750,
+          "y": 478,
+          "width": 352,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "05-microscopy",
+      "widths": [
+        358,
+        402,
+        300
+      ],
+      "column_heights": [
+        722,
+        722,
+        621
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 202
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 232,
+          "width": 358,
+          "height": 202
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 18,
+          "y": 446,
+          "width": 358,
+          "height": 303
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 402,
+          "height": 202
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 232,
+          "width": 402,
+          "height": 246
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 388,
+          "y": 490,
+          "width": 402,
+          "height": 259
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 802,
+          "y": 18,
+          "width": 300,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 802,
+          "y": 360,
+          "width": 300,
+          "height": 295
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "06-culturing-microorganisms",
+      "widths": [
+        302,
+        374,
+        384
+      ],
+      "column_heights": [
+        555,
+        704,
+        730
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            7
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 302,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1,
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 374,
+          "height": 457
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 487,
+          "width": 374,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4,
+            5
+          ],
+          "x": 718,
+          "y": 18,
+          "width": 384,
+          "height": 485
+        },
+        {
+          "source_panels": [
+            6
+          ],
+          "x": 718,
+          "y": 515,
+          "width": 384,
+          "height": 235
+        }
+      ],
+      "body_pt": 11.22
+    }
+  ]
+}

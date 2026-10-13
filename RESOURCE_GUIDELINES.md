@@ -142,3 +142,19 @@ These checks apply to future resources and revisions of existing resources.
 - Present paragraph routes as flexible teaching tools, not compulsory examiner formulas. Do not claim every technique or bullet earns a mark. Keep short skill-practice mark allocations distinct from the actual exam format in sources and metadata.
 - Use credible examples and clearly framed hypothetical situations. Do not teach students to fabricate survey results or expert quotations as established facts.
 - Keep full writing models within the intended task length and explain why their content, organisation, tone and sentence choices work. Preserve natural paragraphs within expandable answers.
+
+- For graphical overview revisions, use compact informative illustrations and give most space to readable explanations. The illustrated Cell biology alternative omits the central heading panel to reclaim space. Put separate facts and calculations on separate lines or bullets, rather than packing them together with semicolons. Reflow panel widths and heights while preserving the physical print font size.
+
+- In graphical mind maps, use bold keywords with colons for labels, functions and associations; bold the colon with its keyword so it stays visible. Keep longer explanations on separate lines. Reserve arrows for actual movement or process sequences. This supersedes the earlier separator preferences for arrows and em dashes.
+
+- For the new Cell biology overview, retain only the existing mitosis diagram. Use the removed illustration space for clear content subsections, fuller explanations, practical methods and calculations. Preserve the earlier maps. In future maps, prioritise useful explanations and add a diagram only when it provides clear learning value.
+
+- Keep mind-map section and subsection headings coloured, and use black for the content beneath them, including bold keywords, explanations, diagram captions and calculations.
+
+- Use a consistent font size and bold weight for all subsection headings within each mind map. In the new Cell biology overview, match Compare discs (16 SVG units, about 11.2 pt on A4). Keep explanatory phrases in the black body text rather than mixing them into a coloured heading.
+
+- Main mind-map panel gutters may be reduced to reclaim useful content space, while preserving clear separation, internal padding and readable text sizes. Reorganise or enlarge panels before reducing body fonts.
+
+- Use light, inset divider lines between natural content groups within mind-map panels, matching the panel colour. Keep clear space above and below each line; do not separate every fact or let a line touch text or diagrams.
+
+- Biology mind maps now use the readable panel style from the approved Cell biology alternative: no central hub, measured widths/heights, black body text with bold colon labels, consistent coloured headings, light inset dividers and compact outer gutters. Apply it to existing Biology maps while preserving their complete text counterparts. Use scripts/biology_readable_mindmaps.py through the maintained subject generators. Keep Previous and Next controls inside every mind-map viewer, with a position count and disabled controls at the ends.

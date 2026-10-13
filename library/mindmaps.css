@@ -14,3 +14,6 @@
 }
 
 @media print {body.mindmap-is-open:has(.mindmap-dialog[open]) > :not(.mindmap-dialog) {display:none!important;}}
+
+/* Move between maps without leaving the full-screen viewer. */
+.mindmap-sequence{display:inline-flex;align-items:center;gap:6px}.mindmap-sequence output{min-width:42px}.mindmap-sequence button:disabled{opacity:.4;cursor:default}
