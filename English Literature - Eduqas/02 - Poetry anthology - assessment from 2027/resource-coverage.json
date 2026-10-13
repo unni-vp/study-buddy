@@ -4,120 +4,80 @@
   "coverage": {
     "theme_tags": {
       "The Schoolboy — William Blake": [
-        "Family",
         "Nature",
-        "Youth",
         "Childhood",
-        "Conflict",
-        "Power",
-        "Negative emotions"
+        "Power"
       ],
       "I Wandered Lonely as a Cloud — William Wordsworth": [
         "Nature",
-        "Loneliness",
-        "Isolation"
+        "Loneliness"
       ],
       "Blackberry Picking — Seamus Heaney": [
         "Nature",
-        "Youth",
         "Childhood",
-        "Conflict",
         "Negative emotions"
       ],
       "Sonnet 29 — Elizabeth Barrett Browning": [
         "Love",
-        "Relationship",
-        "Nature"
+        "Relationship"
       ],
       "Cousin Kate — Christina Rossetti": [
         "Love",
         "Family",
         "Relationship",
-        "Loneliness",
-        "Isolation",
         "Conflict",
-        "Identity",
-        "Power",
-        "Negative emotions"
+        "Power"
       ],
       "Catrin — Gillian Clarke": [
         "Love",
         "Family",
         "Relationship",
-        "Youth",
-        "Childhood",
         "Conflict",
-        "Identity",
-        "Power",
-        "Negative emotions"
+        "Identity"
       ],
       "Dusting the Phone — Jackie Kay": [
         "Love",
         "Relationship",
         "Loneliness",
-        "Isolation",
-        "Conflict",
-        "Power",
         "Negative emotions"
       ],
       "Drummer Hodge — Thomas Hardy": [
         "Nature",
         "Youth",
         "Isolation",
-        "War",
-        "Conflict",
-        "Identity"
+        "War"
       ],
       "Disabled — Wilfred Owen": [
-        "Relationship",
         "Youth",
-        "Loneliness",
         "Isolation",
         "War",
-        "Conflict",
         "Identity",
-        "Power",
         "Negative emotions"
       ],
       "Kamikaze — Beatrice Garland": [
-        "Love",
         "Family",
-        "Relationship",
         "Nature",
-        "Childhood",
         "Isolation",
         "War",
-        "Conflict",
-        "Identity",
-        "Power",
-        "Negative emotions"
+        "Conflict"
       ],
       "War Photographer — Carol Ann Duffy": [
-        "Isolation",
         "War",
         "Conflict",
-        "Power",
         "Negative emotions"
       ],
       "Remains — Simon Armitage": [
-        "Isolation",
         "War",
         "Conflict",
-        "Identity",
         "Negative emotions"
       ],
       "I Shall Return — Claude McKay": [
-        "Love",
         "Nature",
-        "Loneliness",
         "Isolation",
-        "Identity",
-        "Negative emotions"
+        "Identity"
       ],
       "Decomposition — Zulfikar Ghose": [
         "Isolation",
-        "Conflict",
-        "Identity",
         "Power",
         "Negative emotions"
       ],
@@ -125,7 +85,6 @@
         "Love",
         "Family",
         "Relationship",
-        "Youth",
         "Identity"
       ]
     },
@@ -133,6 +92,7 @@
       "reviewed": "2026-10-13",
       "source": "Official first-assessment-2027 anthology PDF, all 15 poems read in full",
       "principles": [
+        "Keep only major themes sustained by the poem; omit incidental images and weaker associations.",
         "Use the user's thirteen labels; love includes family and homeland affection where supported.",
         "Conflict includes emotional, ethical and interpersonal struggles as well as war.",
         "Loneliness is emotional experience; isolation includes social exclusion, physical separation and positive solitude.",

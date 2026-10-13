@@ -15,10 +15,13 @@
     "character_and_theme_review": {
       "reviewed": "2026-10-13",
       "characters": [
+        "Macbeth",
+        "Lady Macbeth",
         "The witches",
         "Banquo",
         "Macduff"
       ],
+      "presentation": "Concise overview, traits, key quotations with short analysis, relationships and central argument",
       "themes": [
         "Ambition / Power",
         "Kingship",
