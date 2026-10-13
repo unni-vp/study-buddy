@@ -8,7 +8,7 @@ def single(title,poet,page,focus,answer):
  prompt=f'Read [{title}]({ANTHOLOGY}#page={page}) by {poet}. How does the poet present {focus}? Refer to language, form, structure and relevant context.'
  item=q(15,prompt,enrich_single_answer(title,answer),'Current 2027 anthology: '+title+'; single-poem format verified in 2019/2023/2024 Q71')
  item['poems']=[title]
- item['aligned_to_notes']='2026-10-13: poet/poem context, content, quotation evidence, language and imagery, worked close analysis'
+ item['aligned_to_notes']='2026-10-13: relevant poet context, form and structure, content and deeper meaning, quotation methods and effects'
  items.append(item)
 
 single('The Schoolboy','William Blake',6,'the child’s experience of growing up', '''Blake presents childhood as a period of natural energy that can be damaged by fearful adult control. The child's unhappiness at school is therefore more than a complaint about an unpleasant day: it raises a question about future development.
@@ -88,9 +88,9 @@ Initially, the sleeping man's body seems to merge with the pavement. The **metap
 
 The surrounding crowd watches entertainment rather than the beggar. This contrast suggests that familiarity can make hardship easy to overlook. The busy Bombay setting makes suffering public without making it the centre of public attention.
 
-The speaker is not allowed to remain morally separate from that crowd. His earlier satisfaction with the photograph and its clever caption become part of the problem. “Glibly” judges his former response as too easy and superficial. The poem turns the observer into somebody who must also be examined.
+The speaker is not allowed to remain morally separate from that crowd. His earlier satisfaction with the photograph and its clever caption become part of the problem. The self-critical **adverb** “Glibly” judges his former response as too easy and superficial. The poem turns the observer into somebody who must also be examined.
 
-Five quatrains in free verse move from description towards reflection. The late shift from past confidence to present shame changes what the reader is asked to value. Technical success as an image-maker no longer settles the ethical question.
+The reflective free-verse account moves from description towards reflection. The late shift from past confidence to present shame changes what the reader is asked to value. Technical success as an image-maker no longer settles the ethical question.
 
 The ending places the man's hardship above the photographer's artistic pride. Ghose therefore explores responsibility in representation: a vulnerable person should not disappear behind the observer's cleverness. The title does not establish that the sleeping man is dead.''')
 single('Catrin','Gillian Clarke',22,'the mother–daughter relationship', '''Clarke presents the relationship as a continuing negotiation between attachment and independence. The mother's love does not remove conflict; it helps explain why separation feels so intense.
@@ -244,7 +244,7 @@ Both include spectators whose attention is inadequate. In Decomposition, the cro
 
 However, the photographers occupy different moral positions. Ghose's speaker turns criticism on himself. His former satisfaction becomes shame when he recognises the presumption of making art from another person's hardship. Duffy gives the photographer delayed distress and a serious purpose, while exposing the limits imposed by editorial selection and public indifference. He is not simply outside the ethical problem, but neither is he presented as a straightforward exploiter.
 
-The structures carry these developments. Ghose moves from a past photograph towards present self-judgement in five free-verse quatrains. Duffy's regular stanzas follow work, memory and publication before returning to another departure. One ending changes the speaker's understanding; the other emphasises a recurring professional cycle.
+The structures carry these developments. Ghose moves from a past photograph towards present self-judgement through a reflective free-verse account. Duffy's regular stanzas follow work, memory and publication before returning to another departure. One ending changes the speaker's understanding; the other emphasises a recurring professional cycle.
 
 The urban Bombay scene and the newspaper darkroom both place a camera between vulnerable subjects and more powerful observers. Ultimately, both poems ask what an image-maker or viewer owes to the people represented, beyond admiration of the image itself.''','2023 Q71–72 place; additional ethical comparison using current anthology'),
 comparison('I Shall Return',19,'belonging to a place', '''McKay's I Shall Return and Hardy's Drummer Hodge both connect identity with landscape, but place their central figures in sharply different relationships to home. McKay's speaker imagines recovering belonging; Hodge's death makes return impossible.

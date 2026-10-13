@@ -31,13 +31,16 @@ def enrich_notes(body):
         parts = ['## ' + heading, opening]
         if 'Main argument' in retained:
             parts.append('**Main idea:** ' + retained['Main argument'])
-        parts += ['### Poet context', detail['poet_context'], '### Poem context', detail['poem_context'],
-                  '### The poem content', '\n'.join('- ' + point for point in detail['content']),
-                  '### Key quotations', '\n'.join('- **“' + quote + '”:** ' + analysis for quote, analysis in detail['quotes']),
-                  '### Language and imagery', '\n'.join('- ' + point for point in detail['language'])]
-        if 'Form and structure' in retained:
-            parts += ['### Form and structure', retained['Form and structure']]
-        parts += ['### Example quotation analysis', detail['example']]
+        quotations = []
+        for (quote, analysis), method in zip(detail['quotes'], detail['quote_methods'], strict=True):
+            quotations.append('**“' + quote + '”**\n\n- **' + method['category'] + ' — ' + method['feature'] + ':** ' + analysis)
+        parts += ['### Poet context', detail['poet_context'],
+                  '### Poem context — form and structure', '\n'.join('- ' + point for point in detail['form_structure']),
+                  '### Content and deeper meaning', '**What happens:**\n\n' + '\n'.join('- ' + point for point in detail['content']),
+                  '**Deeper meaning and relevant setting:**\n\n' + '\n'.join('- ' + point for point in detail['deeper_meaning']),
+                  '### Key quotations', '\n\n'.join(quotations),
+                  '### Language and imagery', '\n'.join('- ' + point for point in detail['language']),
+                  '### Example quotation analysis', detail['example']]
         if 'Compare' in retained:
             parts.append('**Compare:** ' + retained['Compare'])
         if 'Must know' in retained:

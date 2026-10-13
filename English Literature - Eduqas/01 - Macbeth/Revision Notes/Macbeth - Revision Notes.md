@@ -37,15 +37,15 @@ Duncan trusts Macbeth just after being betrayed by the previous Cawdor. This cre
 
 | Quotation | Who and where | What to analyse |
 |---|---|---|
-| “Fair is foul, and foul is fair” | Witches, 1.1 | The **paradox** mixes good and evil. It introduces deception before Macbeth appears. |
-| “brave Macbeth” | Captain, 1.2 | This admiring description establishes the honour Macbeth will lose. His violence initially serves Scotland. |
-| “Stars, hide your fires” | Macbeth, 1.4 | The **imperative** asks for concealment. Light suggests exposure; he recognises that his desires are shameful. |
-| “unsex me here” | Lady Macbeth, 1.5 | Her command to the spirits rejects the tenderness she associates with femininity. Needing to ask for cruelty also suggests effort and vulnerability. |
-| “innocent flower” / “serpent” | Lady Macbeth, 1.5 | The contrasting images turn hospitality into a disguise for danger. The serpent can also suggest temptation and betrayal. |
-| “vaulting ambition” | Macbeth, 1.7 | The **metaphor** of leaping too far suggests ambition that causes its own fall. Macbeth identifies his dangerous motive himself. |
-| “The instruments of darkness tell us truths” | Banquo, 1.3 | The warning separates truth from good intentions. Banquo recognises the danger Macbeth increasingly ignores. |
-| “To find the mind's construction in the face” | Duncan, 1.4 | A face cannot reveal intention. Macbeth's entrance after this admission makes Duncan's renewed trust dramatically ironic. |
-| “When you durst do it, then you were a man” | Lady Macbeth, 1.7 | She makes masculinity conditional on murder, turning Macbeth's moral doubts into a supposed failure of courage. |
+| “Fair is foul, and foul is fair” | Witches, 1.1 | **Language — paradox and reversed word order:** The **paradox** mixes good and evil. It introduces deception before Macbeth appears. |
+| “brave Macbeth” | Captain, 1.2 | **Language / structure — approving adjective establishing the tragic reversal:** This admiring description establishes the honour Macbeth will lose. His violence initially serves Scotland. |
+| “Stars, hide your fires” | Macbeth, 1.4 | **Language / imagery — imperative and light-dark imagery:** The **imperative** asks for concealment. Light suggests exposure; he recognises that his desires are shameful. |
+| “unsex me here” | Lady Macbeth, 1.5 | **Language / form — imperative in an appeal to spirits:** Her command to the spirits rejects the tenderness she associates with femininity. Needing to ask for cruelty also suggests effort and vulnerability. |
+| “innocent flower” / “serpent” | Lady Macbeth, 1.5 | **Imagery — contrasting flower and serpent images:** The contrasting images turn hospitality into a disguise for danger. The serpent can also suggest temptation and betrayal. |
+| “vaulting ambition” | Macbeth, 1.7 | **Imagery / form — riding metaphor within a soliloquy:** The **metaphor** of leaping too far suggests ambition that causes its own fall. Macbeth identifies his dangerous motive himself. |
+| “The instruments of darkness tell us truths” | Banquo, 1.3 | **Imagery / structure — metaphor of evil agents and a warning before the crime:** The warning separates truth from good intentions. Banquo recognises the danger Macbeth increasingly ignores. |
+| “To find the mind's construction in the face” | Duncan, 1.4 | **Structure — dramatic irony through the timing of Macbeth's entrance:** A face cannot reveal intention. Macbeth's entrance after this admission makes Duncan's renewed trust dramatically ironic. |
+| “When you durst do it, then you were a man” | Lady Macbeth, 1.7 | **Language — conditional claim and manipulation of identity:** She makes masculinity conditional on murder, turning Macbeth's moral doubts into a supposed failure of courage. |
 
 **Turning point:** Macbeth agrees to murder Duncan. A possible future becomes a deliberate plan.
 
@@ -68,14 +68,14 @@ Keeping Duncan's murder offstage concentrates attention on anticipation and afte
 
 | Quotation | Who and where | What to analyse |
 |---|---|---|
-| “Is this a dagger which I see before me” | Macbeth, 2.1 | The **question** makes his senses uncertain. The vision can suggest a mind already consumed by the murder; it does not remove his choice. |
-| “Macbeth does murder sleep” | Macbeth reporting a voice, 2.2 | Sleep represents innocence and rest. The image suggests that killing Duncan also destroys Macbeth's own peace. |
-| “all great Neptune's ocean” | Macbeth, 2.2 | The enormous scale is **hyperbole**: even an ocean seems unable to remove his guilt. |
-| “A little water clears us of this deed” | Lady Macbeth, 2.2 | “Little” minimises the crime. Her practical confidence contrasts with Macbeth's distress and prepares the later reversal in her sleepwalking. |
-| “Wake Duncan with thy knocking. I would thou couldst.” | Macbeth, 2.2 | The impossible wish reveals regret. The knocking cannot reverse the irreversible act. |
-| “My bosom franchised and allegiance clear” | Banquo, 2.1 | He wants conscience free and loyalty untainted. Advancement should not require moral compromise. |
-| “My father as he slept” | Lady Macbeth, 2.2 | Duncan's resemblance to her father stops her killing him herself. The memory reveals a limit to her performed ruthlessness. |
-| “O horror, horror, horror!” | Macduff, 2.3 | Repetition and exclamation convey genuine shock, contrasting with Macbeth's attempt to hide responsibility. |
+| “Is this a dagger which I see before me” | Macbeth, 2.1 | **Language / form — question within a soliloquy:** The **question** makes his senses uncertain. The vision can suggest a mind already consumed by the murder; it does not remove his choice. |
+| “Macbeth does murder sleep” | Macbeth reporting a voice, 2.2 | **Imagery — personification of sleep:** Sleep represents innocence and rest. The image suggests that killing Duncan also destroys Macbeth's own peace. |
+| “all great Neptune's ocean” | Macbeth, 2.2 | **Imagery / language — classical allusion and hyperbole:** The enormous scale is **hyperbole**: even an ocean seems unable to remove his guilt. |
+| “A little water clears us of this deed” | Lady Macbeth, 2.2 | **Language / structure — minimising adjective and later reversal:** The **minimising adjective** “Little” downplays the crime. Her practical confidence contrasts with Macbeth's distress and prepares the later reversal in her sleepwalking. |
+| “Wake Duncan with thy knocking. I would thou couldst.” | Macbeth, 2.2 | **Language — imperative followed by an impossible wish:** The impossible wish reveals regret. The knocking cannot reverse the irreversible act. |
+| “My bosom franchised and allegiance clear” | Banquo, 2.1 | **Imagery / language — freedom metaphor and vocabulary of loyalty:** He wants conscience free and loyalty untainted. Advancement should not require moral compromise. |
+| “My father as he slept” | Lady Macbeth, 2.2 | **Language / structure — personal kinship reference revealing a limit to cruelty:** Duncan's resemblance to her father stops her killing him herself. The memory reveals a limit to her performed ruthlessness. |
+| “O horror, horror, horror!” | Macduff, 2.3 | **Language — repetition and exclamation:** Repetition and exclamation convey genuine shock, contrasting with Macbeth's attempt to hide responsibility. |
 
 **Turning point:** Duncan's death makes Macbeth's ambition real, but kingship begins in fear and concealment.
 
@@ -98,15 +98,15 @@ The ghost can be read as supernatural punishment, a visible expression of guilt,
 
 | Quotation | Who and where | What to analyse |
 |---|---|---|
-| “To be thus is nothing” | Macbeth, 3.1 | Being king feels worthless without security. The absolute “nothing” reveals how little satisfaction success brings. |
-| “fruitless crown” | Macbeth, 3.1 | The **metaphor** makes his kingship seem unable to produce a lasting dynasty. He fears that his crimes will benefit Banquo's family. |
-| “Naught's had, all's spent” | Lady Macbeth, 3.2 | The balanced contrast between nothing gained and everything spent exposes the emptiness of their achievement. |
-| “full of scorpions is my mind” | Macbeth, 3.2 | The **animal imagery** makes anxiety seem painful and poisonous. His thoughts torment him and encourage further violence. |
-| “Thou canst not say I did it” | Macbeth to the ghost, 3.4 | His denial points towards the guilt he tries to escape. Hiring killers does not free him from responsibility. |
-| “I am in blood” | Macbeth, 3.4 | The image of wading through blood presents violence as a condition he is trapped in. He uses this feeling to justify continuing rather than stopping. |
-| “Thou played'st most foully for 't” | Banquo, 3.1 | His private suspicion creates tension beneath public politeness. It is suspicion rather than certain proof. |
-| “Be innocent of the knowledge, dearest chuck” | Macbeth, 3.2 | The command excludes Lady Macbeth from his new plot. Their earlier partnership becomes unequal knowledge and control. |
-| “blood will have blood” | Macbeth, 3.4 | Repetition suggests bloodshed producing retaliation and exposure. Macbeth recognises consequences but continues the violence. |
+| “To be thus is nothing” | Macbeth, 3.1 | **Language — absolute negative judgement:** Being king feels worthless without security. The absolute “nothing” reveals how little satisfaction success brings. |
+| “fruitless crown” | Macbeth, 3.1 | **Imagery — metaphor of infertility:** The **metaphor** makes his kingship seem unable to produce a lasting dynasty. He fears that his crimes will benefit Banquo's family. |
+| “Naught's had, all's spent” | Lady Macbeth, 3.2 | **Language / imagery — antithesis and the language of expenditure:** The balanced contrast between nothing gained and everything spent exposes the emptiness of their achievement. |
+| “full of scorpions is my mind” | Macbeth, 3.2 | **Imagery — metaphor of poisonous creatures:** The **animal imagery** makes anxiety seem painful and poisonous. His thoughts torment him and encourage further violence. |
+| “Thou canst not say I did it” | Macbeth to the ghost, 3.4 | **Language / dramatic form — denial addressed to the visible ghost:** His denial points towards the guilt he tries to escape. Hiring killers does not free him from responsibility. |
+| “I am in blood” | Macbeth, 3.4 | **Imagery — extended metaphor of wading through blood:** The image of wading through blood presents violence as a condition he is trapped in. He uses this feeling to justify continuing rather than stopping. |
+| “Thou played'st most foully for 't” | Banquo, 3.1 | **Language / dramatic form — moral judgement in a private soliloquy:** His private suspicion creates tension beneath public politeness. It is suspicion rather than certain proof. |
+| “Be innocent of the knowledge, dearest chuck” | Macbeth, 3.2 | **Language / structure — imperative and changed marital power:** The command excludes Lady Macbeth from his new plot. Their earlier partnership becomes unequal knowledge and control. |
+| “blood will have blood” | Macbeth, 3.4 | **Language / imagery — repetition within the blood motif:** Repetition suggests bloodshed producing retaliation and exposure. Macbeth recognises consequences but continues the violence. |
 
 **Turning point:** Macbeth becomes an isolated ruler whose attempts to protect his crown expose his instability.
 
@@ -129,14 +129,14 @@ The attack on Macduff's family shows how far Macbeth has moved from the soldier 
 
 | Quotation | Who and where | What to analyse |
 |---|---|---|
-| “Something wicked this way comes” | Second Witch, 4.1 | Macbeth is now described as wicked even by a witch. This reverses the opening praise of “brave Macbeth”. |
-| “none of woman born” | Second Apparition, 4.1 | The phrase seems to include everyone. Macbeth mistakes its deceptive reassurance for complete protection. |
-| “The very firstlings of my heart” | Macbeth, 4.1 | He decides to turn his first impulses directly into action. Compare this with his extended moral debate before Duncan's murder. |
-| “All my pretty ones?” | Macduff, 4.3 | The affectionate phrase and shocked **question** expose a father's loss, making political violence personal. |
-| “I must also feel it as a man” | Macduff, 4.3 | “Also” joins feeling to action. His definition of masculinity challenges the idea that courage requires emotional hardness. |
-| “Bleed, bleed, poor country!” | Macduff, 4.3 | Scotland is personified as a wounded body. His concern reaches beyond private revenge to national suffering. |
-| “king-becoming graces” | Malcolm, 4.3 | While testing Macduff, he lists the virtues a ruler should possess. Kingship requires moral responsibility, not simply a crown. |
-| “all my pretty chickens” | Macduff, 4.3 | The vulnerable family image exposes the predatory nature of Macbeth's violence and makes grief intensely personal. |
+| “Something wicked this way comes” | Second Witch, 4.1 | **Language / structure — moral label reversing Macbeth's opening reputation:** Macbeth is now described as wicked even by a witch. This reverses the opening praise of “brave Macbeth”. |
+| “none of woman born” | Second Apparition, 4.1 | **Language / structure — equivocation and delayed revelation:** The phrase seems to include everyone. Macbeth mistakes its deceptive reassurance for complete protection. |
+| “The very firstlings of my heart” | Macbeth, 4.1 | **Imagery / structure — birth metaphor marking the move to impulsive action:** He decides to turn his first impulses directly into action. Compare this with his extended moral debate before Duncan's murder. |
+| “All my pretty ones?” | Macduff, 4.3 | **Language — affectionate adjective and shocked question:** The affectionate phrase and shocked **question** expose a father's loss, making political violence personal. |
+| “I must also feel it as a man” | Macduff, 4.3 | **Language / structure — inclusive adverb and contrast with earlier ideas of manhood:** “Also” joins feeling to action. His definition of masculinity challenges the idea that courage requires emotional hardness. |
+| “Bleed, bleed, poor country!” | Macduff, 4.3 | **Imagery / language — personification, repetition and exclamation:** Scotland is personified as a wounded body. His concern reaches beyond private revenge to national suffering. |
+| “king-becoming graces” | Malcolm, 4.3 | **Language — ethical vocabulary within a list of virtues:** While testing Macduff, he lists the virtues a ruler should possess. Kingship requires moral responsibility, not simply a crown. |
+| “all my pretty chickens” | Macduff, 4.3 | **Imagery — vulnerable animal metaphor:** The vulnerable family image exposes the predatory nature of Macbeth's violence and makes grief intensely personal. |
 
 **Turning point:** misleading reassurance makes Macbeth more reckless, while his cruelty strengthens the resistance against him.
 
@@ -159,15 +159,15 @@ The prophecies are fulfilled through meanings Macbeth did not expect. His final 
 
 | Quotation | Who and where | What to analyse |
 |---|---|---|
-| “Out, damned spot” | Lady Macbeth, 5.1 | The **imperative** fails to control an imagined stain. “Damned” gives guilt a moral and religious weight. |
-| “Tomorrow and tomorrow and tomorrow” | Macbeth, 5.5 | **Repetition** makes time feel monotonous and empty. His pursuit of a glorious future has ended in exhaustion. |
-| “Life's but a walking shadow” | Macbeth, 5.5 | The **metaphor** suggests something insubstantial and passing. It expresses his despair, rather than a fact the audience must accept about life. |
-| “Untimely ripped” | Macduff, 5.8 | The violent wording reveals the unexpected meaning of the prophecy and destroys Macbeth's confidence in it. |
-| “I will not yield” | Macbeth, 5.8 | The refusal shows continuing defiance after his assurances fail. It can preserve a trace of his soldierly courage without excusing him. |
-| “dead butcher and his fiend-like queen” | Malcolm, final scene | The brutal labels judge the pair by their destructive rule. Compare this public judgement with the complicated private lives Shakespeare has shown. |
-| “the perfumes of Arabia” | Lady Macbeth, 5.1 | The exaggerated scale of possible cleansing recalls Macbeth's ocean. Even imagined fragrance cannot remove her sense of guilt. |
-| “Turn, hellhound, turn!” | Macduff, 5.8 | Repeated imperatives demand confrontation, while animal and religious imagery condemn Macbeth's savagery. |
-| “juggling fiends” | Macbeth, 5.8 | He finally recognises the deceptive promises. Awareness comes too late to undo actions driven by false confidence. |
+| “Out, damned spot” | Lady Macbeth, 5.1 | **Language / dramatic form — failed imperative within fragmented sleepwalking prose:** The **imperative** fails to control an imagined stain. “Damned” gives guilt a moral and religious weight. |
+| “Tomorrow and tomorrow and tomorrow” | Macbeth, 5.5 | **Language / structure — repetition in the late speech of despair:** **Repetition** makes time feel monotonous and empty. His pursuit of a glorious future has ended in exhaustion. |
+| “Life's but a walking shadow” | Macbeth, 5.5 | **Imagery — metaphor of insubstantial existence:** The **metaphor** suggests something insubstantial and passing. It expresses his despair, rather than a fact the audience must accept about life. |
+| “Untimely ripped” | Macduff, 5.8 | **Language / structure — violent verb resolving the deceptive prophecy:** The violent wording reveals the unexpected meaning of the prophecy and destroys Macbeth's confidence in it. |
+| “I will not yield” | Macbeth, 5.8 | **Language — defiant negative statement:** The refusal shows continuing defiance after his assurances fail. It can preserve a trace of his soldierly courage without excusing him. |
+| “dead butcher and his fiend-like queen” | Malcolm, final scene | **Imagery / structure — condemnatory labels in the closing judgement:** The brutal labels judge the pair by their destructive rule. Compare this public judgement with the complicated private lives Shakespeare has shown. |
+| “the perfumes of Arabia” | Lady Macbeth, 5.1 | **Language / imagery — hyperbole and imagined fragrance:** The exaggerated scale of possible cleansing recalls Macbeth's ocean. Even imagined fragrance cannot remove her sense of guilt. |
+| “Turn, hellhound, turn!” | Macduff, 5.8 | **Language / imagery — repeated imperatives and demonic animal metaphor:** Repeated imperatives demand confrontation, while animal and religious imagery condemn Macbeth's savagery. |
+| “juggling fiends” | Macbeth, 5.8 | **Language / structure — deception metaphor and belated recognition:** He finally recognises the deceptive promises. Awareness comes too late to undo actions driven by false confidence. |
 
 **Turning point:** Macbeth loses both the crown and the future he tried to force into existence. Lady Macbeth's death is reported rather than shown; Malcolm says she is thought to have taken her own life.
 
@@ -302,19 +302,19 @@ Imagine winning a competition by cheating, then becoming more worried about bein
 
 **“vaulting ambition” — Macbeth, 1.7**
 
-The **metaphor** suggests a rider leaping too far and falling. His ambition reaches beyond a safe or proper limit. Macbeth identifies the danger himself, making his later choice more blameworthy.
+**Imagery / form — riding metaphor within a soliloquy:** The **metaphor** suggests a rider leaping too far and falling. His ambition reaches beyond a safe or proper limit. Macbeth identifies the danger himself, making his later choice more blameworthy.
 
 **“To be thus is nothing” — Macbeth, 3.1**
 
-“Thus” means being king. The absolute “nothing” makes his achievement seem worthless unless he can feel secure. **Wanting power turns into wanting impossible certainty.**
+**Language — absolute negative judgement:** “Thus” means being king. The **absolute negative** “nothing” makes his achievement seem worthless unless he can feel secure. **Wanting power turns into wanting impossible certainty.**
 
 **“fruitless crown” — Macbeth, 3.1**
 
-The image of infertility suggests a crown that cannot produce a lasting dynasty. Macbeth fears that his crimes will benefit Banquo's descendants, rather than his own. Power does not give him ownership of the future.
+**Imagery — metaphor of infertility:** The image of infertility suggests a crown that cannot produce a lasting dynasty. Macbeth fears that his crimes will benefit Banquo's descendants, rather than his own. Power does not give him ownership of the future.
 
 **“Tomorrow and tomorrow and tomorrow” — Macbeth, 5.5**
 
-**Repetition** makes time seem monotonous and empty. The future that once excited him now feels pointless. Shakespeare links the pursuit of greatness with the loss of meaning.
+**Language / structure — repetition in the late speech of despair:** **Repetition** makes time seem monotonous and empty. The future that once excited him now feels pointless. Shakespeare links the pursuit of greatness with the loss of meaning.
 
 **Essay argument:** ambition becomes destructive when achievement matters more than conscience; power then deepens Macbeth's insecurity instead of solving it.
 
@@ -339,19 +339,19 @@ Think of a team captain. Wearing the badge gives them authority, but good leader
 > his virtues
 > Will plead like angels
 
-The **religious simile** presents Duncan's goodness as a powerful argument against murder. Macbeth recognises the king's virtues before betraying him. His awareness makes the betrayal deliberate.
+**Imagery — religious simile:** Duncan's goodness is presented as a powerful argument against murder. Macbeth recognises the king's virtues before betraying him. His awareness makes the betrayal deliberate.
 
 **“royalty of nature” — Macbeth about Banquo, 3.1**
 
-Banquo has natural nobility despite not wearing a crown. This separates **moral authority from a royal title** and exposes Macbeth's fear of someone whose qualities he respects.
+**Language / imagery — metaphor distinguishing inner nobility from rank:** Banquo has natural nobility despite not wearing a crown. This separates **moral authority from a royal title** and exposes Macbeth's fear of someone whose qualities he respects.
 
 **“Bleed, bleed, poor country!” — Macduff, 4.3**
 
-Scotland is **personified** as a wounded body. A ruler's private wrongdoing becomes a national injury. Good leadership should heal this damage rather than create it.
+**Imagery / language — personification, repetition and exclamation:** Scotland is **personified** as a wounded body. A ruler's private wrongdoing becomes a national injury. Good leadership should heal this damage rather than create it.
 
 **“mercy” and “courage” — Malcolm, 4.3**
 
-These are among the qualities Malcolm lists while pretending to lack the virtues of a king. Their combination matters: leadership needs compassion as well as strength. Macduff's distress at Malcolm's supposed corruption helps Malcolm judge his loyalty.
+**Language — paired virtues within a longer list:** These are among the qualities Malcolm lists while pretending to lack the virtues of a king. Their combination matters: leadership needs compassion as well as strength. Macduff's distress at Malcolm's supposed corruption helps Malcolm judge his loyalty.
 
 **Essay argument:** Shakespeare distinguishes possessing power from deserving it. Malcolm's restoration promises repair, but it cannot undo the lives lost under Macbeth.
 
@@ -373,19 +373,19 @@ Like a tool that can protect someone or injure them, strength alone is not evide
 
 **“brave Macbeth” — Captain, 1.2**
 
-The approving adjective establishes a violent soldier as a national defender. This starting point makes his later brutality a **reversal**, rather than an unchanged trait.
+**Language / structure — approving adjective establishing the tragic reversal:** The approving adjective establishes a violent soldier as a national defender. This starting point makes his later brutality a **reversal**, rather than an unchanged trait.
 
 **“blood will have blood” — Macbeth, 3.4**
 
-**Repetition** presents bloodshed as something that calls forth further bloodshed. Macbeth fears consequences, revenge and exposure, yet continues the actions that create them.
+**Language / imagery — repetition within the blood motif:** **Repetition** presents bloodshed as something that calls forth further bloodshed. Macbeth fears consequences, revenge and exposure, yet continues the actions that create them.
 
 **“I am in blood” — Macbeth, 3.4**
 
-The image of wading through blood makes violence seem to surround him. He argues that returning would be as difficult as going on. This is his justification for continuing, not proof that he has no choice.
+**Imagery — extended metaphor of wading through blood:** The image of wading through blood makes violence seem to surround him. He argues that returning would be as difficult as going on. This is his justification for continuing, not proof that he has no choice.
 
 **“All my pretty ones?” — Macduff, 4.3**
 
-The affectionate phrase shifts attention from the murderer to the bereaved family. Shakespeare makes the cost of political violence personal and emotionally immediate.
+**Language — affectionate adjective and shocked question:** The affectionate phrase shifts attention from the murderer to the bereaved family. Shakespeare makes the cost of political violence personal and emotionally immediate.
 
 **Stagecraft:** Duncan's murder occurs **offstage**, directing attention towards anticipation and guilt. Macduff's son is killed **onstage**, confronting the audience with a helpless victim. The final combat makes resistance visible. These choices shape how the audience judges different acts of violence.
 
@@ -411,19 +411,19 @@ A **motif** is a repeated image or idea whose meaning develops.
 
 **“Macbeth does murder sleep” — Macbeth reporting a voice, 2.2**
 
-**Personification** turns sleep into another victim of the crime. Killing Duncan seems to destroy Macbeth's own ability to rest. The voice reveals immediate mental disturbance, not a separate physical murder.
+**Imagery — personification of sleep:** **Personification** turns sleep into another victim of the crime. Killing Duncan seems to destroy Macbeth's own ability to rest. The voice reveals immediate mental disturbance, not a separate physical murder.
 
 **“all great Neptune's ocean” — Macbeth, 2.2**
 
-The **hyperbole** makes guilt too large for an entire ocean to wash away. His next thought reverses the image: his blood could turn the sea red. The stain seems able to contaminate the world around him.
+**Imagery / language — classical allusion and hyperbole:** The **hyperbole** makes guilt too large for an entire ocean to wash away. His next thought reverses the image: his blood could turn the sea red. The stain seems able to contaminate the world around him.
 
 **“A little water clears us of this deed” — Lady Macbeth, 2.2**
 
-“Little” minimises the crime and treats guilt as a practical cleaning problem. Her confidence contrasts with Macbeth's horror and prepares the audience for her later collapse.
+**Language / structure — minimising adjective and later reversal:** The **minimising adjective** “Little” downplays the crime and treats guilt as a practical cleaning problem. Her confidence contrasts with Macbeth's horror and prepares the audience for her later collapse.
 
 **“Out, damned spot” — Lady Macbeth, 5.1**
 
-Her **imperative** cannot control an imagined stain. “Damned” gives guilt a moral and religious force. Hand-rubbing and fragmented prose turn private distress into visible stage action.
+**Language / dramatic form — failed imperative within fragmented sleepwalking prose:** Her **imperative** cannot control an imagined stain. “Damned” gives guilt a moral and religious force. Hand-rubbing and fragmented prose turn private distress into visible stage action.
 
 **Compare the couple:** Macbeth initially voices guilt while Lady Macbeth dismisses it. Later, she compulsively relives the crime while he increasingly responds to fear with further violence. They both suffer, but they do not react identically.
 
@@ -439,19 +439,19 @@ Imagine someone being pressured with “prove you're brave” before doing somet
 
 **“unsex me here” — Lady Macbeth, 1.5**
 
-The **imperative** asks supernatural forces to remove qualities she associates with femininity, especially tenderness. She links cruelty with the power to act. Needing to request this change also suggests that ruthlessness is something she must work to achieve.
+**Language / form — imperative in an appeal to spirits:** The **imperative** asks supernatural forces to remove qualities she associates with femininity, especially tenderness. She links cruelty with the power to act. Needing to request this change also suggests that ruthlessness is something she must work to achieve.
 
 **“I dare do all that may become a man” — Macbeth, 1.7**
 
-“Become” means be fitting or appropriate here. Macbeth initially gives manhood a moral limit: being brave does not mean committing any act. His objection shows an alternative to Lady Macbeth's definition.
+**Language — moral qualification of courage:** “Become” means be fitting or appropriate here. Macbeth initially gives manhood a moral limit: being brave does not mean committing any act. His objection shows an alternative to Lady Macbeth's definition.
 
 **“When you durst do it, then you were a man” — Lady Macbeth, 1.7**
 
-She makes masculinity conditional on committing murder. This is **emotional manipulation**, turning a moral objection into a supposed failure of courage and identity. Macbeth later uses comparable challenges against the hired murderers.
+**Language — conditional claim and manipulation of identity:** She makes masculinity conditional on committing murder. This is **emotional manipulation**, turning a moral objection into a supposed failure of courage and identity. Macbeth later uses comparable challenges against the hired murderers.
 
 **“But I must also feel it as a man” — Macduff, 4.3**
 
-“Also” joins emotion with action. Macduff refuses to treat grief for his family as incompatible with manhood. His response challenges the idea that compassion must be suppressed before someone can act bravely.
+**Language / structure — inclusive adverb and contrast with earlier ideas of manhood:** The **adverb** “Also” joins emotion with action. Macduff refuses to treat grief for his family as incompatible with manhood. His response challenges the idea that compassion must be suppressed before someone can act bravely.
 
 ### What to compare
 
@@ -480,19 +480,19 @@ Think of someone relying on a prediction because it promises the result they wan
 
 **“The instruments of darkness tell us truths” — Banquo, 1.3**
 
-The warning shows that a correct prediction can still lead someone towards harm. Banquo's caution contrasts with Macbeth's growing dependence.
+**Imagery / structure — metaphor of evil agents and a warning before the crime:** The warning shows that a correct prediction can still lead someone towards harm. Banquo's caution contrasts with Macbeth's growing dependence.
 
 **“Is this a dagger which I see before me” — Macbeth, 2.1**
 
-The **question** makes his perception uncertain. The apparent weapon gives visible form to the murder already occupying his mind. It does not remove his ability to choose.
+**Language / form — question within a soliloquy:** The **question** makes his perception uncertain. The apparent weapon gives visible form to the murder already occupying his mind. It does not remove his ability to choose.
 
 **“Something wicked this way comes” — Second Witch, 4.1**
 
-Macbeth has become the wicked presence approaching the witches. The description reverses his opening reputation and suggests increasing association with evil.
+**Language / structure — moral label reversing Macbeth's opening reputation:** Macbeth has become the wicked presence approaching the witches. The description reverses his opening reputation and suggests increasing association with evil.
 
 **“none of woman born” — Second Apparition, 4.1**
 
-The apparently universal protection depends on an unexpected meaning. Macbeth trusts the comforting interpretation and becomes more reckless. Macduff's unusual birth later exposes his error.
+**Language / structure — equivocation and delayed revelation:** The apparently universal protection depends on an unexpected meaning. Macbeth trusts the comforting interpretation and becomes more reckless. Macduff's unusual birth later exposes his error.
 
 **Dramatic effect:** sound, entrances, cauldron action and the ghost's appearance make uncertainty something the audience experiences. A production may stress supernatural power, psychological disturbance, or a combination; support the interpretation with what is said and staged.
 
@@ -508,15 +508,15 @@ Think of a friendly-looking message that hides a scam. Its harmless appearance e
 
 **“Fair is foul, and foul is fair” — witches, 1.1**
 
-The **paradox** introduces a world in which good and evil appearances become confused. It prepares the audience to look beneath attractive surfaces.
+**Language — paradox and reversed word order:** The **paradox** introduces a world in which good and evil appearances become confused. It prepares the audience to look beneath attractive surfaces.
 
 **“innocent flower” and “serpent” — Lady Macbeth, 1.5**
 
-The contrasting **images** separate harmless appearance from hidden threat. She teaches Macbeth to make hospitality a disguise. The serpent can also suggest temptation and betrayal.
+**Imagery — contrasting flower and serpent images:** The contrasting **images** separate harmless appearance from hidden threat. She teaches Macbeth to make hospitality a disguise. The serpent can also suggest temptation and betrayal.
 
 **“There's no art” — Duncan, 1.4**
 
-He says it is impossible to read a person's mind from their face. Macbeth enters just after Duncan admits that his trust in the previous Cawdor was misplaced. The placement creates **dramatic irony**: Duncan is about to repeat the mistake with another Cawdor.
+**Structure — dramatic irony created by the next entrance:** He says it is impossible to read a person's mind from their face. Macbeth enters just after Duncan admits that his trust in the previous Cawdor was misplaced. The placement creates **dramatic irony**: Duncan is about to repeat the mistake with another Cawdor.
 
 ### Three important gaps
 

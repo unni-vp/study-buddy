@@ -31,13 +31,15 @@ notes_source = topic / 'Revision Notes/Poetry anthology - Revision Notes.md'
 notes = notes_source.read_text(encoding='utf-8')
 sections = dict((part.split('\n', 1)[0], part.split('\n', 1)[1])
                 for part in re.split(r'^## ', notes, flags=re.M)[1:])
-required = ['Poet context', 'Poem context', 'The poem content', 'Key quotations',
-            'Language and imagery', 'Form and structure', 'Example quotation analysis']
+required = ['Poet context', 'Poem context — form and structure', 'Content and deeper meaning',
+            'Key quotations', 'Language and imagery', 'Example quotation analysis']
 ordered_pages = sorted(starts.values())
 anchor_count = 0
 for heading, detail in DETAILS.items():
     assert all('### ' + label in sections[heading] for label in required), heading
     assert 5 <= len(detail['quotes']) <= 6, heading
+    assert len(detail['quote_methods']) == len(detail['quotes']), heading
+    assert len(detail['form_structure']) == 3 and len(detail['deeper_meaning']) >= 3, heading
     title = heading.split(' — ')[0]
     start = starts[title]
     end = next((p-1 for p in ordered_pages if p > start), len(pdf.pages))
@@ -47,7 +49,21 @@ for heading, detail in DETAILS.items():
         assert explanation.strip()
         anchor_count += 1
     bank = sections[heading].split('### Key quotations', 1)[1].split('### Language and imagery', 1)[0]
-    assert len(re.findall(r'^- \*\*“', bank, re.M)) == len(detail['quotes']), heading
+    assert len(re.findall(r'^\*\*“', bank, re.M)) == len(detail['quotes']), heading
+    for method in detail['quote_methods']:
+        assert '**' + method['category'] + ' — ' + method['feature'] + ':**' in bank, heading
+
+macbeth_notes = (subject / '01 - Macbeth/Revision Notes/Macbeth - Revision Notes.md').read_text(encoding='utf-8')
+act_notes = macbeth_notes.split('## Act 1 —', 1)[1].split('## Macbeth: from defender', 1)[0]
+act_rows = re.findall(r'^\| “.+$', act_notes, re.M)
+assert len(act_rows) == 43
+assert all(re.search(r'\| \*\*(?:Language|Imagery|Structure)', row) for row in act_rows)
+theme_notes = macbeth_notes.split('## Ambition / Power', 1)[1].split('## How Shakespeare makes the drama work', 1)[0]
+theme_blocks = re.findall(r'^\*\*“[^\n]+\n\n([^\n]+)', theme_notes, re.M)
+assert len(theme_blocks) == 26
+assert all(re.match(r'\*\*(?:Language|Imagery|Structure)', paragraph) for paragraph in theme_blocks)
+assert '> his virtues\n> Will plead like angels' in theme_notes
+assert '**Imagery — religious simile:**' in theme_notes
 
 for folder in ['01 - Macbeth', '02 - Poetry anthology - assessment from 2027']:
     source = next((subject / folder / 'Questions and Answers').glob('* - Questions and Answers.md'))

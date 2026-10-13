@@ -153,7 +153,7 @@ The **extended metaphor** of a bird in a cage makes the argument concrete. Singi
 
 The later plant images extend the problem through time. Damaged buds cannot produce the expected fruit. By addressing parents, the speaker connects present treatment with adult responsibility for what follows.
 
-The movement from **‘sweet company’** to **‘drooping sit’** gives the argument a physical shape. Companionship and energy become isolation and a wilting posture. Asking how a bird can **‘Sit in a cage and sing’** makes fearful schooling seem self-defeating: the conditions imposed by adults prevent the expression they should encourage.
+The **structural contrast** between **‘sweet company’**, with its affectionate adjective, and the plantlike **‘drooping sit’** gives the argument a physical shape. Companionship and energy become isolation and a wilting posture. Asking how a bird can **‘Sit in a cage and sing’** makes fearful schooling seem self-defeating: the conditions imposed by adults prevent the expression they should encourage.
 
 The **‘youthful spring’** metaphor extends this damage into the future. Spring is the beginning of growth, so **‘buds are nip’d’** suggests that later flourishing is being prevented at its source. Blake's questions make adults answerable for more than temporary unhappiness; the whole course of a child's development is at stake.
 
@@ -171,7 +171,7 @@ The comparison with stars greatly enlarges the scene. The flowers appear plentif
 
 The final stanza changes the time and location. The speaker is now on his couch, and the “inward eye” returns him to the scene. This **metaphor** identifies imagination as the means by which an external experience becomes an internal resource. He did not fully understand its value at the time.
 
-The initial **‘lonely as a cloud’** simile places the speaker at a distance from ordinary human company. Being **‘Continuous as the stars’**, the flowers seem expansive and enduring, while **‘Ten thousand’** communicates wonder through hyperbole. This abundance makes the earlier isolation feel small beside the new companionship.
+The initial **‘lonely as a cloud’** simile places the speaker at a distance from ordinary human company. The **simile** **‘Continuous as the stars’** makes the flowers seem expansive and enduring, while **‘Ten thousand’** communicates wonder through hyperbole. This abundance makes the earlier isolation feel small beside the new companionship.
 
 Crucially, **‘bliss of solitude’** changes the meaning of being alone. The positive noun distinguishes recollection at home from the opening loneliness. Nature has not simply provided one pleasant distraction: imagination now allows the speaker to recover pleasure without returning physically to the lake.
 
@@ -193,7 +193,7 @@ The **sonnet form** connects the poem with a long tradition of concentrated love
 
 The verbs in **‘thoughts do twine and bud’** make longing seem fertile. Yet **‘wild vines’** develop into greenery that **‘hides the wood’**. The extended metaphor therefore changes from celebrating affection to exposing its problem: thoughts can conceal the person they are meant to represent.
 
-The energetic **‘burst, shattered’** makes imagined reunion a release from that enclosure. The closing **‘I am too near thee’** reverses the opening emphasis on thought. The speaker imagines direct intimacy making the mental substitute unnecessary, so the sonnet moves towards presence rather than praising absence for its own sake.
+The forceful **verbs** **‘burst, shattered’** make imagined reunion a release from that enclosure. The closing **‘I am too near thee’** reverses the opening emphasis on thought. The speaker imagines direct intimacy making the mental substitute unnecessary, so the sonnet moves towards presence rather than praising absence for its own sake.
 
 Its place in Sonnets from the Portuguese, associated with love for Robert Browning, helps explain the personal urgency of this female voice. The final ideal is not endless fantasy but a closeness in which fantasy is no longer needed.
 
@@ -211,7 +211,7 @@ However, the speaker refuses to accept that reputation proves moral superiority.
 
 The final stanza reveals the son. “My shame, my pride” places social condemnation beside maternal affection, and the prospect of inheritance gives the child significance to the lord. The delayed revelation changes the apparent balance of power.
 
-The distance between **‘cottage maiden’** and **‘plaything’** exposes exploitation. The speaker begins with an ordinary identity but becomes an object for the lord's enjoyment. Later, **‘outcast thing’** shows that the surrounding community also reduces her to a label, while marriage protects Kate from the same judgement.
+The contrast between the class-marking phrase **‘cottage maiden’** and the objectifying **noun** **‘plaything’** exposes exploitation. The speaker begins with an ordinary identity but becomes an object for the lord's enjoyment. Later, **‘outcast thing’** shows that the surrounding community also reduces her to a label, while marriage protects Kate from the same judgement.
 
 The ending's **‘To wear his coronet’** connects the son with inheritance. The symbol of noble status makes the lord dependent on something the rejected speaker possesses. This does not erase her suffering, but it changes the apparent balance of power and allows affection and defiance to replace complete defeat.
 
@@ -229,7 +229,7 @@ The landscape then becomes central. Local terms and unfamiliar constellations su
 
 The three six-line stanzas move through present burial, past origins and future incorporation into the land. Their regular rhyme gives a lasting order to a life whose ending was abrupt. It is as though the poem supplies some of the attention missing from the burial.
 
-The contrast between **‘Young Hodge’** and **‘Wessex home’** restores an individual background to the abruptly buried casualty. Naming his age and origins makes clear that something particular has been lost. The **‘strange-eyed constellations’** personify the foreign sky as unfamiliar watchers, extending displacement beyond the ground beneath him. The final natural transformation cannot return him to the world he knew.
+The contrast between **‘Young Hodge’** and **‘Wessex home’** restores an individual background to the abruptly buried casualty. The adjective marking his youth and the place-name recalling his origins make clear that something particular has been lost. The **‘strange-eyed constellations’** personify the foreign sky as unfamiliar watchers, extending displacement beyond the ground beneath him. The final natural transformation cannot return him to the world he knew.
 
 In the final stanza, the possibility of becoming part of a tree offers natural continuity. However, “for ever” also makes separation permanent. This is not a return to the home he knew. Hardy allows connection with nature to coexist with the irreversible loss of a young life, leaving readers with a restrained rather than triumphant ending.
 
@@ -247,9 +247,9 @@ Blood also changes meaning. In football it once brought admiration; in battle it
 
 The movement between past and present prevents a smooth progress narrative. Each attractive memory makes the current circumstances harder to bear. The weak welcome home exposes the difference between public enthusiasm for enlistment and practical care for a survivor.
 
-**‘Now he is old’** compresses the damage into an abrupt judgement: war has aged a young person beyond his years. The remembered **‘bloodsmear’** from football once won admiration, so its contrast with wartime blood reveals how poorly that earlier experience prepared him for genuine violence.
+The short **declarative statement** **‘Now he is old’** compresses the damage into an abrupt judgement: war has aged a young person beyond his years. The remembered **‘bloodsmear’** from football once won admiration, so its contrast with wartime blood reveals how poorly that earlier experience prepared him for genuine violence.
 
-**‘Smiling they wrote his lie’** exposes the ease with which recruiters accepted his age claim. The welcome contrasts with others later touching him like **‘some queer disease’**. The closing **‘Why don’t they come?’** leaves care unanswered. Owen directs criticism towards a society that encouraged participation but now deepens the veteran's isolation.
+The **ironic contrast** in **‘Smiling they wrote his lie’** exposes the ease with which recruiters accepted his age claim. The welcome contrasts with the later **simile** **‘some queer disease’**, which presents other people's recoil from him. The **repeated closing question** **‘Why don’t they come?’** leaves his need for care unanswered. Owen directs criticism towards a society that encouraged participation but now deepens the veteran's isolation.
 
 The repeated question at the end leaves him waiting for assistance. Owen withholds comforting closure, directing attention towards an unmet need. The criticism concerns this man's experience and society's treatment of him; it does not require readers to treat disability itself as the loss of human value.
 
@@ -267,7 +267,7 @@ The poem then moves from nature towards village music and community. “Deliciou
 
 The **Shakespearean sonnet** gives the thought three developing quatrains and a final couplet. That ending reveals the painful separation behind the earlier richness. The promise of return becomes an answer to emotional need.
 
-The imagined **‘wonder-eyes’** and **‘golden noon’** make home precious and capable of renewing perception. **‘dear delicious tunes’** then turns music into something nourishing through blended senses. By moving from landscape towards **‘native life’**, McKay shows that belonging depends on community and culture as well as scenery.
+The compound expression **‘wonder-eyes’** and the precious colour **imagery** of **‘golden noon’** make home precious and capable of renewing perception. **‘dear delicious tunes’** then turns music into something nourishing through **synesthesia**, blending taste and sound. By moving from landscape towards **‘native life’**, McKay shows that belonging depends on community and culture as well as scenery.
 
 The final **‘long, long years of pain’** reveals what the repeated promise is resisting. Repetition stretches the duration of separation, making the attractive earlier images emotionally necessary. Confidence is therefore complicated by distress: the speaker needs the prospect of home to sustain hope.
 
@@ -277,17 +277,17 @@ McKay's migration from Jamaica and association with the Harlem Renaissance make 
 
 **Answer:** Ghose presents a change from detached visual interest to uncomfortable self-criticism. The speaker learns that making a striking image and responding humanely to its subject are not the same achievement.
 
-Ghose grew up in Bombay and later lived across several countries. The poem revisits a photograph in that city, directing attention to the ethical distance between an observer with a camera and a person experiencing poverty.
+Ghose grew up in Bombay, the setting of the photograph. The poem makes that familiar urban scene a question about an observer's responsibility towards a person experiencing poverty. Its constructed speaker reconsiders the value of a visually successful picture.
 
 Initially, the sleeping man's body seems to merge with the pavement. The **metaphor** “fossil man” makes him appear fixed within stone, suggesting both long neglect and a loss of individuality. Yet it also reveals the photographer's way of looking: a living person has become a shape in a composition.
 
 The surrounding crowd watches entertainment rather than the beggar. This contrast suggests that familiarity can make hardship easy to overlook. The busy Bombay setting makes suffering public without making it the centre of public attention.
 
-The speaker is not allowed to remain morally separate from that crowd. His earlier satisfaction with the photograph and its clever caption become part of the problem. “Glibly” judges his former response as too easy and superficial. The poem turns the observer into somebody who must also be examined.
+The speaker is not allowed to remain morally separate from that crowd. His earlier satisfaction with the photograph and its clever caption become part of the problem. The self-critical **adverb** “Glibly” judges his former response as too easy and superficial. The poem turns the observer into somebody who must also be examined.
 
-Five quatrains in free verse move from description towards reflection. The late shift from past confidence to present shame changes what the reader is asked to value. Technical success as an image-maker no longer settles the ethical question.
+The reflective free-verse account moves from description towards reflection. The late shift from past confidence to present shame changes what the reader is asked to value. Technical success as an image-maker no longer settles the ethical question.
 
-The crowd is **‘indifferent’**, although the man is visibly present. Ghose distinguishes seeing someone from caring about them. Calling the photograph a **‘good composition’** repeats that problem at an artistic level: the speaker initially values the arrangement more than the person.
+The **adjective** **‘indifferent’** describes the crowd's lack of concern, although the man is visibly present. Ghose distinguishes seeing someone from caring about them. The approving artistic phrase **‘good composition’**, later overturned by self-criticism, repeats that problem at an artistic level: the speaker initially values the arrangement more than the person.
 
 The closing **‘hunger and solitude’** replaces that satisfaction with human need. This ending explains the self-critical turn: aesthetic judgement cannot settle what the photographer owes to his subject. The poem challenges the observer's conduct rather than treating a sleeping man as an interesting symbol of death.
 
@@ -307,9 +307,9 @@ The second stanza moves to a later disagreement. The daughter now wants freedom 
 
 The two unequal stanzas therefore connect experiences across years. **Enjambment** carries feeling over line boundaries, while the repeated rope image prevents the time shift from becoming a complete break. Clarke's experience of motherhood provides a relevant context for the intimate direct address.
 
-**‘We want’** makes separation a need shared by mother and child. Wanting **‘to be ourselves’** is not evidence that affection has failed; it identifies a desire for distinct identities. The birth's struggle therefore becomes a model for the adjustments that continue as the daughter grows.
+The shared **pronoun** in **‘We want’** makes separation a need on both sides. The **reflexive pronoun** in **‘to be ourselves’** is not evidence that affection has failed; it identifies a desire for distinct identities. The birth's struggle therefore becomes a model for the adjustments that continue as the daughter grows.
 
-The balanced **‘Neither won nor lost’** refuses to give one person complete victory. **‘Trailing love and conflict’** then places disagreement inside the bond, not outside it. The poem's tension comes from wanting connection and independence at the same time, rather than from a simple opposition between love and hostility.
+The **balanced negatives** in **‘Neither won nor lost’** refuse to give one person complete victory. The **juxtaposition** in **‘Trailing love and conflict’** then places disagreement inside the bond, not outside it. The poem's tension comes from wanting connection and independence at the same time, rather than from a simple opposition between love and hostility.
 
 The ending does not announce a winner. Instead, it shows that growth requires continuing adjustment. The poem recognises both the child's desire to become independent and the mother's difficulty in loosening a deeply felt connection.
 
@@ -327,9 +327,9 @@ The **stanza break** marks a decisive change. The longer opening section accumul
 
 At the end, “hoped” and “knew” create a compact conflict between feeling and understanding. The speaker recognises the inevitable outcome but repeats the emotional investment each year. This prevents the poem from becoming a simple story of learning a lesson once.
 
-The attractive **‘glossy purple clot’** already mixes sweetness with blood imagery, while **‘lust’** intensifies collecting into appetite. Pleasure is energetic but not completely innocent. The later **‘rat-grey fungus’** reverses the rich colours and makes the stored harvest appear invaded and repulsive.
+The attractive **‘glossy purple clot’** already mixes sweetness with blood imagery, while the intense **noun** **‘lust’** turns collecting into appetite. Pleasure is energetic but not completely innocent. The later **‘rat-grey fungus’** reverses the rich colours and makes the stored harvest appear invaded and repulsive.
 
-**‘It wasn’t fair’** sounds like a child's protest against a world that will not preserve what is loved. **‘Each year I hoped’** shows the pattern returning despite knowledge of decay. The conflict is therefore not solved by learning the facts: emotional desire continues to resist the limit the speaker understands.
+The plain **declarative protest** **‘It wasn’t fair’** sounds like a child's response against a world that will not preserve what is loved. The **recurring time phrase** **‘Each year I hoped’** shows the pattern returning despite knowledge of decay. The conflict is therefore not solved by learning the facts: emotional desire continues to resist the limit the speaker understands.
 
 The adult recollection preserves the experience in language even though the child could not preserve the fruit. Heaney makes disappointment part of a broader encounter with time, desire and the limits of keeping what we love.
 
@@ -347,9 +347,9 @@ The return changes the poem's focus from natural richness to human exclusion. Ch
 
 The seven six-line stanzas give the narrative a visible pattern, while shifting voices and flowing sentences complicate who controls the story. The Second World War kamikaze context explains the pressure to sacrifice an individual life for a national cause.
 
-The stark **‘one-way’** makes the mission's expected death clear. Against this, the **‘green-blue translucent sea’** and remembered **‘pearl-grey pebbles’** give ordinary life and childhood precious value. The natural images offer an alternative meaning of duty: maintaining human bonds may matter more than entering military history.
+The stark **travel description** **‘one-way’** makes the mission's expected death clear. Against this, the colour **imagery** of the **‘green-blue translucent sea’** and precious-material association of **‘pearl-grey pebbles’** give ordinary life and childhood precious value. The natural images offer an alternative meaning of duty: maintaining human bonds may matter more than entering military history.
 
-On returning, the pilot is treated as though he **‘no longer existed’**. Physical survival becomes social erasure. The unresolved **‘better way to die’** makes the ending disturbing because exclusion is compared with literal death. Garland exposes the damage caused when public expectations of honour are enforced inside family life.
+On returning, the pilot is treated as though he **‘no longer existed’**. This **contrast** between physical survival and denied existence makes rejection a form of social erasure. The unresolved **closing comparison** **‘better way to die’** makes the ending disturbing because exclusion is compared with literal death. Garland exposes the damage caused when public expectations of honour are enforced inside family life.
 
 The final imagined question leaves physical death and social erasure in painful tension. Garland does not resolve the pilot's thoughts for us. Instead, the poem asks readers to consider what a system of honour costs the families expected to enforce it.
 
@@ -369,7 +369,7 @@ Four regular sestets and their rhyme pattern create a formal order beside this d
 
 **‘spools of suffering’** joins professional material with human pain through alliteration. When an image becomes a **‘half-formed ghost’**, development also becomes the return of memory. The photographer cannot treat the film as a neutral object because it contains people whose suffering he witnessed.
 
-**‘A hundred agonies’** contrasts the scale of pain with the few pictures chosen for publication. The blunt **‘they do not care’** then turns the ending towards alienation. Momentary tears cannot match the photographer's enduring connection to the victims, exposing the gap between consuming images and accepting responsibility.
+The **numerical emphasis** and pain-focused noun in **‘A hundred agonies’** contrast the scale of pain with the few pictures chosen for publication. The blunt **negative statement** **‘they do not care’** then turns the ending towards alienation. Momentary tears cannot match the photographer's enduring connection to the victims, exposing the gap between consuming images and accepting responsibility.
 
 The ending sends the photographer back towards work, suggesting a cycle rather than resolution. Duffy questions a culture in which images circulate widely but compassion may remain short-lived. The photographer is not simply emotionless; his outward discipline and inner distress are deliberately held together.
 
@@ -387,9 +387,9 @@ The **personified telephone** becomes an object to serve. Polishing and dressing
 
 Free verse allows the sentences to change length and direction. The sequence of tercets is finally broken by an isolated last line, after the speaker's attempted threat falls apart. That structural deflation makes the ending uncertain rather than triumphant.
 
-**‘Silver service’** turns waiting for the telephone into serving it, as if devotion could earn a call. The pun makes dependence comic but also exposes unequal emotional power. The intimate **‘lonely cotton sheets’** gives absence a physical presence within the bedroom.
+**‘Silver service’** turns waiting for the telephone into serving it, as if devotion could earn a call. The pun makes dependence comic but also exposes unequal emotional power. The bedroom **imagery** of **‘lonely cotton sheets’** transfers the speaker's loneliness to the setting and gives absence a physical presence within the bedroom.
 
-The direct **‘I am trapped’** makes desire feel like confinement. At the end, **‘Or else. What?’** interrupts a supposed threat with uncertainty. The abrupt question and isolated last line deny the speaker an effective response, so anger does not create the control that waiting has taken away.
+The short **declarative statement** **‘I am trapped’** makes desire feel like confinement. At the end, **‘Or else. What?’** interrupts a supposed threat with uncertainty. The abrupt question and isolated last line deny the speaker an effective response, so anger does not create the control that waiting has taken away.
 
 The domestic telephone places the poem within recognisable modern communication habits. Kay turns an everyday object into a means of exploring dependence, showing how desired connection can become a source of isolation.
 
@@ -407,7 +407,7 @@ Returning home fails to create a clean boundary. Blinking and sleeping bring the
 
 The dramatic monologue lets the soldier's own speech carry the disturbance. Early references to the group narrow towards a more isolated sense of responsibility. The short final couplet concentrates the ending on what remains personally inescapable.
 
-**‘End of story’** offers closure that the rest of the poem immediately refuses. The remembered victim is later placed behind **‘enemy lines’** inside the speaker's head, transferring military conflict into psychological experience. Leaving the scene has not ended its influence.
+The **false structural ending** **‘End of story’** offers closure that the rest of the poem immediately refuses. The remembered victim is later placed behind **‘enemy lines’** inside the speaker's head, using a **military metaphor** to transfer conflict into psychological experience. Leaving the scene has not ended its influence.
 
 The final **‘my bloody hands’** concentrates responsibility in one individual after the shooting's collective account. The possessive makes the guilt difficult to share or escape. The ending therefore connects continuing memory with moral doubt, rather than presenting trauma as only a sequence of frightening pictures.
 
@@ -427,9 +427,9 @@ The second stanza therefore complicates the obvious lesson that all damage prove
 
 Two unequal free-verse stanzas move from narrative into reflection. The title echoes a superhero backstory, giving an ordinary family's history imaginative importance. Ewing's Chicago and Black family context helps explain the significance of recording these personal origins.
 
-Beginning with **‘my mother and my father’** makes the romance part of the speaker's identity. The **‘love is like a comic book’** simile grows from the actual object connecting the parents, so the larger argument remains rooted in particular lives rather than a detached comparison.
+The **possessives** in the opening **‘my mother and my father’** make the romance part of the speaker's identity. The **‘love is like a comic book’** simile grows from the actual object connecting the parents, so the larger argument remains rooted in particular lives rather than a detached comparison.
 
-Being **‘worn thin’** may imply damage, but also repeated use and enjoyment. Against the ideal of untouched preservation, **‘a good ending’** offers a structural reversal: a relationship can fail to last yet still leave something worthwhile. The speaker's existence helps make that reassessment convincing.
+The tactile **imagery** of **‘worn thin’** may imply damage, but also repeated use and enjoyment. Against the ideal of untouched preservation, **‘a good ending’** offers a structural reversal: a relationship can fail to last yet still leave something worthwhile. The speaker's existence helps make that reassessment convincing.
 
 The final “good ending” invites readers to connect the relationship with the speaker herself. The romance may not have lasted, but its consequences cannot be measured only by permanence. Ewing ends with an affectionate reassessment rather than a demand for a flawless family story.
 
@@ -547,7 +547,7 @@ Both endings resist closure. The soldier cannot remove the memory, while the pho
 
 **Answer:** Ghose's Decomposition and Duffy's War Photographer both question what happens when suffering becomes an image. They agree that seeing a photograph is not automatically the same as responding responsibly, but direct their criticism towards different points in the process.
 
-Ghose grew up in Bombay and later lived across several countries. The poem revisits a photograph in that city, directing attention to the ethical distance between an observer with a camera and a person experiencing poverty. Duffy's friendships with war photographers informed this poem from Standing Female Nude. Film development and newspaper publication place the private cost of witnessing violence beside the limited response of a distant public.
+Ghose grew up in Bombay, the setting of the photograph. The poem makes that familiar urban scene a question about an observer's responsibility towards a person experiencing poverty. Its constructed speaker reconsiders the value of a visually successful picture. Duffy's friendships with war photographers informed this poem from Standing Female Nude. Film development and newspaper publication place the private cost of witnessing violence beside the limited response of a distant public.
 
 Ghose's speaker begins by describing a sleeping beggar as a striking visual subject. The “fossil man” metaphor merges body and pavement, making neglect visible while also exposing how the observer reduces a person to a pattern. Duffy initially presents the photographer's work as solemn. The comparison with a priest suggests an obligation to attend carefully to human pain rather than merely produce an attractive composition.
 
@@ -555,7 +555,7 @@ Both include spectators whose attention is inadequate. In Decomposition, the cro
 
 However, the photographers occupy different moral positions. Ghose's speaker turns criticism on himself. His former satisfaction becomes shame when he recognises the presumption of making art from another person's hardship. Duffy gives the photographer delayed distress and a serious purpose, while exposing the limits imposed by editorial selection and public indifference. He is not simply outside the ethical problem, but neither is he presented as a straightforward exploiter.
 
-The structures carry these developments. Ghose moves from a past photograph towards present self-judgement in five free-verse quatrains. Duffy's regular stanzas follow work, memory and publication before returning to another departure. One ending changes the speaker's understanding; the other emphasises a recurring professional cycle.
+The structures carry these developments. Ghose moves from a past photograph towards present self-judgement through a reflective free-verse account. Duffy's regular stanzas follow work, memory and publication before returning to another departure. One ending changes the speaker's understanding; the other emphasises a recurring professional cycle.
 
 Ghose's **‘fossil man’** and Duffy's **‘half-formed ghost’** make vulnerable people seem suspended between presence and absence. Ghose questions the observer who liked a **‘good composition’**; Duffy's **‘spools of suffering’** insist that photographic material already carries human pain.
 

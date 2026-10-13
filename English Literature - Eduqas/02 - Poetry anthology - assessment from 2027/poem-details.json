@@ -1,6 +1,6 @@
 {
   "The Schoolboy — William Blake": {
-    "poet_context": "Blake was an English poet and artist associated with Romanticism. He valued imagination and challenged institutions that suppressed freedom, especially the freedom of children.",
+    "poet_context": "Blake was a Romantic poet who valued imagination and challenged authority that restricted children's freedom. Within Songs of Innocence and of Experience, the child's voice questions education that replaces curiosity with fear. The natural images express a concern with protecting growth, rather than rejecting learning.",
     "poem_context": "The poem belongs to Songs of Innocence and of Experience. A child's voice questions fearful schooling and asks parents to consider its consequences; the target is damaging education, not learning itself.",
     "content": [
       "A summer morning offers birdsong, companionship and enjoyment.",
@@ -41,10 +41,47 @@
     "example": "Blake presents fearful education as a threat to growth through **‘youthful spring’**. Spring normally brings new life, so the **seasonal metaphor** makes childhood a time of possibility. Losing that spring suggests more than temporary unhappiness: adult restrictions may damage the child's future. The later questions about fruit develop this idea by asking how maturity can flourish when its beginnings have been harmed.",
     "sources": [
       "https://www.poetryfoundation.org/poets/william-blake"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a first-person child speaker in six five-line stanzas. Patterned rhyme and a songlike voice make the child's argument memorable.",
+      "**Structure:** outdoor joy gives way to classroom misery, then comparisons with trapped birds and damaged plants. The focus widens from today's unhappiness to the child's future.",
+      "**Questions and ending:** the appeal to parents asks how adult life can flourish after childhood has been damaged. The unanswered questions make adults responsible for a response."
+    ],
+    "deeper_meaning": [
+      "The cage is more than a picture of school: it represents control that prevents natural abilities from developing.",
+      "The seasons connect childhood to adulthood. Damaging a young person's curiosity may reduce what they can become.",
+      "The child is given an argument, not simply a complaint. The poem challenges adults to recognise that fear and education are different things."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language",
+        "feature": "affectionate adjective"
+      },
+      {
+        "category": "Imagery / language",
+        "feature": "threatening gaze and adjective"
+      },
+      {
+        "category": "Imagery",
+        "feature": "plant and bird associations"
+      },
+      {
+        "category": "Imagery / structure",
+        "feature": "caged-bird comparison within a challenging question"
+      },
+      {
+        "category": "Imagery",
+        "feature": "seasonal metaphor"
+      },
+      {
+        "category": "Imagery / language",
+        "feature": "plant metaphor and passive verb"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "I Wandered Lonely as a Cloud — William Wordsworth": {
-    "poet_context": "Wordsworth was a Romantic poet closely connected with the Lake District. His work values nature, individual feeling and the way remembered experiences shape the imagination.",
+    "poet_context": "Wordsworth was a Romantic poet closely connected with the Lake District. He valued nature, emotion and recollection. The walk with Dorothy Wordsworth near Ullswater in 1802 helps explain the real landscape behind the poem, while the solitary speaker is a poetic construction: the actual walk was shared.",
     "poem_context": "The poem grew from a walk with Dorothy Wordsworth near Ullswater in 1802. Its solitary speaker is a poetic presentation: the real walk was shared. Recollection matters as much as the original sight.",
     "content": [
       "A solitary walker discovers a large, lively group of daffodils beside a lake.",
@@ -86,10 +123,47 @@
     "sources": [
       "https://www.poetryfoundation.org/poets/william-wordsworth",
       "https://wordsworth.org.uk/daffodils/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** four six-line stanzas with **ABABCC rhyme**, ending each stanza in a rhyming couplet. The regular pattern gives the recollection an ordered, musical quality.",
+      "**Structure:** the first three stanzas recall the encounter; the last moves to later moments at home. This shift reveals a benefit that was not fully understood during the walk.",
+      "**Ending:** the speaker's heart takes on the flowers' dancing movement. Nature becomes part of his inner life, so the poem ends in renewed pleasure."
+    ],
+    "deeper_meaning": [
+      "Nature acts as company when the speaker feels apart from others. The flowers' human qualities make the landscape emotionally welcoming.",
+      "The encounter creates lasting emotional wealth. Memory can restore pleasure without physically returning to the lake.",
+      "Being alone changes its meaning: early loneliness becomes enjoyable solitude. The poem does not treat every experience of being alone as unhappy."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery",
+        "feature": "opening simile"
+      },
+      {
+        "category": "Imagery / language",
+        "feature": "personification through a social noun"
+      },
+      {
+        "category": "Imagery",
+        "feature": "simile linking flowers and stars"
+      },
+      {
+        "category": "Language",
+        "feature": "hyperbole"
+      },
+      {
+        "category": "Imagery / structure",
+        "feature": "metaphor in the final stanza"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "positive noun and reversal of opening loneliness"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Blackberry Picking — Seamus Heaney": {
-    "poet_context": "Heaney grew up in rural Northern Ireland. His early collection Death of a Naturalist, published in 1966, draws on childhood experiences through precise physical and sensory detail.",
+    "poet_context": "Heaney grew up in rural Northern Ireland. His childhood surroundings inform the fields, farm containers and cattle shed, while his precise sensory language recreates the excitement of collecting. The older voice can recognise a pattern of disappointment that the child still wants to resist.",
     "poem_context": "An older voice looks back on a repeated childhood activity. Familiar farm objects make the memory concrete, while the berries' decay develops a wider idea about pleasure, disappointment and growing understanding.",
     "content": [
       "Ripening berries provoke excited, increasingly greedy collecting.",
@@ -131,10 +205,47 @@
     "sources": [
       "https://www.seamusheaney.com/death-of-a-naturalist",
       "https://www.poetryfoundation.org/poets/seamus-heaney"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** two unequal stanzas, with mostly pentameter lines and paired rhymes or half-rhymes. The poem shapes an ordinary childhood memory into a reflection on desire.",
+      "**Structure:** the longer first stanza builds ripening, tasting and urgent collecting. The shorter second stanza reverses the pleasure through rot and disgust.",
+      "**Ending:** the final line sets hoping against knowing. The experience repeats each year, so understanding the outcome does not remove the desire."
+    ],
+    "deeper_meaning": [
+      "Picking becomes hoarding: wanting more than can be enjoyed suggests how pleasure can turn into greed.",
+      "Rot makes time's limits physical. Possessing something does not mean being able to keep it unchanged.",
+      "Growing up includes knowing that good things end, but the final hope shows that knowledge and feeling do not always agree."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery",
+        "feature": "sensory description with a blood association"
+      },
+      {
+        "category": "Language",
+        "feature": "intense noun"
+      },
+      {
+        "category": "Imagery / structure",
+        "feature": "repulsive colour image reversing the opening"
+      },
+      {
+        "category": "Language",
+        "feature": "plain childlike protest"
+      },
+      {
+        "category": "Structure / language",
+        "feature": "recurring time phrase and past-tense verb"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "verb of certainty in the closing contrast"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Sonnet 29 — Elizabeth Barrett Browning": {
-    "poet_context": "Barrett Browning was a Victorian poet who wrote confidently about love and women's experience. Sonnets from the Portuguese, published in 1850, is associated with her love for Robert Browning.",
+    "poet_context": "Barrett Browning was a Victorian poet. Sonnets from the Portuguese, published in 1850, is associated with her love for Robert Browning. The collection provides a relevant background for a female speaker who actively expresses desire and asks for closeness, rather than passively waiting to be chosen.",
     "poem_context": "This is Barrett Browning's Sonnet 29, not Shakespeare's. The speaker addresses an absent beloved, then imagines the closeness that would make thinking about him unnecessary.",
     "content": [
       "Thoughts about the lover grow like vines around a tree.",
@@ -175,10 +286,47 @@
     "example": "The command **‘Renew thy presence’** shows that the speaker refuses to accept fantasy as sufficient. **‘Renew’** implies that closeness has existed before and must be restored. The **imperative** gives her an assertive voice within a traditional love-poem form. This develops the poem's argument: thoughts may express affection, but the beloved's actual presence is more valuable than thoughts alone.",
     "sources": [
       "https://www.poetryfoundation.org/poets/elizabeth-barrett-browning"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a **14-line Petrarchan sonnet**, using an octave and a sestet. A traditional love-poem form holds an unusually forceful demand for the beloved's presence.",
+      "**Structure:** the turn begins early, at the start of line five, and develops through the demand for reunion. Thoughts that first express love become something the speaker wants to break through.",
+      "**Ending:** the closing declaration reverses the opening emphasis on thinking. Imagined physical closeness is valued above thoughts about an absent person."
+    ],
+    "deeper_meaning": [
+      "The vines represent thoughts and the tree represents the beloved. Thoughts can express love while also hiding the real person.",
+      "The speaker wants a relationship experienced through sight, sound and breath. Love is presented as more than private fantasy.",
+      "Commands give the speaker agency. The poem celebrates desire while recognising that imagining someone cannot fully replace being with them."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery / language",
+        "feature": "growing verbs in an extended metaphor"
+      },
+      {
+        "category": "Imagery",
+        "feature": "extended vine-and-tree metaphor"
+      },
+      {
+        "category": "Imagery",
+        "feature": "concealment within the extended metaphor"
+      },
+      {
+        "category": "Language",
+        "feature": "imperative"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "forceful verbs of breaking and release"
+      },
+      {
+        "category": "Structure",
+        "feature": "closing reversal of the opening claim"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Cousin Kate — Christina Rossetti": {
-    "poet_context": "Rossetti was a Victorian poet whose work often examines love, moral judgement and women's vulnerability. Her writing gives serious attention to people constrained by social expectations.",
+    "poet_context": "Rossetti was a Victorian poet whose work explores love and moral judgement, often through women constrained by social expectations. This matters to the dramatic voice: an abandoned woman is allowed to challenge the judgement passed on her, rather than being defined only by other people's approval.",
     "poem_context": "A dramatic speaker addresses the cousin who married the lord who rejected her. Victorian class divisions, inheritance and unequal sexual judgement help explain why the women face different consequences from the wealthy man.",
     "content": [
       "A previously contented young woman is attracted into a lord's household, then discarded.",
@@ -219,10 +367,47 @@
     "example": "Rossetti exposes the lord's power through **‘changed me like a glove’**. A glove is a possession easily removed and replaced, so the **simile** denies the speaker the permanence she expected from love. **‘Changed’** makes his decision seem casual despite its devastating consequences. The image helps reveal the inequality of a relationship in which his status protects him while she bears the social damage.",
     "sources": [
       "https://www.poetryfoundation.org/poets/christina-rossetti"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a **dramatic monologue** in six eight-line stanzas. A balladlike rhythm and recurring rhyme carry a personal story of seduction and rejection.",
+      "**Structure:** the speaker moves from her earlier life through the lord's rejection to direct accusation of Kate. The account is forceful and personal, rather than neutral.",
+      "**Ending:** the son is revealed in the final stanza. This delayed revelation changes the balance of power: the excluded mother possesses the heir the wealthy household wants."
+    ],
+    "deeper_meaning": [
+      "Victorian class divisions, inheritance and sexual double standards help explain the unequal consequences. The lord's wealth protects him while the women are ranked by respectability.",
+      "The speaker distinguishes public approval from genuine feeling. Marriage and status do not automatically prove kindness or moral worth.",
+      "Her child carries both society's shame and her private pride. The ending gives her leverage, but does not erase the hurt that drives her accusation."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language",
+        "feature": "class-marking noun phrase"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "objectifying noun"
+      },
+      {
+        "category": "Imagery",
+        "feature": "simile of a replaceable possession"
+      },
+      {
+        "category": "Language",
+        "feature": "dehumanising label"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "juxtaposition of opposing nouns in the final revelation"
+      },
+      {
+        "category": "Imagery / structure",
+        "feature": "status symbol in the final line"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Catrin — Gillian Clarke": {
-    "poet_context": "Clarke is a Welsh poet whose work often draws on family life, memory and the physical world. Her experience of motherhood informs this exploration of attachment and independence.",
+    "poet_context": "Clarke draws on her experience of motherhood and her relationship with her daughter. This gives childbirth and a later argument a shared personal background. The poem makes ordinary family experience a serious exploration of love, identity and independence.",
     "poem_context": "A mother addresses her daughter, Catrin, recalling childbirth and a later disagreement. The two moments show that physical separation at birth does not end the emotional struggle to become independent people.",
     "content": [
       "The mother remembers a hot hospital room and the intense struggle of childbirth.",
@@ -260,10 +445,43 @@
     "sources": [
       "https://poetryarchive.org/poet/gillian-clarke/",
       "https://www.gillianclarke.co.uk/gc2017/poems-a-l/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a first-person address to a daughter in **free verse** and two unequal stanzas. The conversational voice makes an intense experience feel personal.",
+      "**Structure:** childbirth in the first stanza is linked to a later struggle for independence in the second. The recurring rope image connects physical separation with an emotional bond.",
+      "**Line movement and ending:** enjambment carries thoughts across line endings. The final request to stay out skating brings the large question of independence into everyday family life."
+    ],
+    "deeper_meaning": [
+      "The mother and daughter both need identities of their own. The struggle is not simply a caring adult against an ungrateful child.",
+      "Birth separates their bodies but does not end their connection. The rope can represent support and attachment while also becoming restrictive.",
+      "Love and conflict coexist. Letting a child become independent can be necessary and painful at the same time."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery",
+        "feature": "extended metaphor rooted in the umbilical cord"
+      },
+      {
+        "category": "Language",
+        "feature": "shared pronoun"
+      },
+      {
+        "category": "Language",
+        "feature": "reflexive pronoun expressing separate identities"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "balanced negatives linking the two stages"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "juxtaposition within the continuing rope image"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Dusting the Phone — Jackie Kay": {
-    "poet_context": "Kay is a Scottish poet whose writing explores identity, love and belonging. She often uses intimate, conversational voices, mixing emotional intensity with humour without reducing people to their biographies.",
+    "poet_context": "Kay often explores love and belonging through intimate, conversational voices. Her mixture of humour and emotional intensity is relevant here: exaggerated behaviour can make the speaker recognisable while still showing the distress of waiting for contact.",
     "poem_context": "An anxious speaker waits for contact from an absent lover. A domestic telephone becomes the centre of the speaker's life. Neither the lover's gender nor a precise reason for the silence is established.",
     "content": [
       "The speaker imagines disaster whether the telephone rings or remains silent.",
@@ -300,10 +518,43 @@
     "example": "Kay exposes unequal emotional power through **‘Silver service’**. The speaker's waiting has become service offered to an object, as if the phone could be persuaded to deliver love. The **pun** changes an ordinary delay into a relationship of dependence. Its humour makes the behaviour recognisable, but the effort also reveals how little control the speaker has over the desired contact.",
     "sources": [
       "https://poetryarchive.org/poet/jackie-kay/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a first-person lyric in **free verse**, with recurring three-line stanzas and an isolated final line. The voice resembles urgent, shifting conversation.",
+      "**Structure:** imagined disasters and possible futures lead to rituals of serving the telephone, then anger and an attempted ultimatum. Thought keeps circling the absent lover.",
+      "**Ending:** abrupt questions interrupt the threat, followed by an admission of uncertainty in the isolated last line. The speaker finishes without contact or a workable way to regain control."
+    ],
+    "deeper_meaning": [
+      "A domestic telephone becomes the centre of the speaker's life. Its silence feels like rejection, but a call can also trigger fear: neither possibility feels safe.",
+      "Serving and polishing the phone makes the imbalance visible. The speaker acts as if devotion to an object could earn affection from a person.",
+      "The humour exposes a painful lack of control. The lover's gender and the precise reason for the silence remain unspecified."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery / structure",
+        "feature": "emergency sound image repeated after opposite outcomes"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "pun on waiting and service"
+      },
+      {
+        "category": "Imagery",
+        "feature": "bedroom detail with transferred loneliness"
+      },
+      {
+        "category": "Language",
+        "feature": "short declarative sentence"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "fragment and abrupt question before the isolated ending"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Drummer Hodge — Thomas Hardy": {
-    "poet_context": "Hardy was an English novelist and poet strongly associated with Dorset and the fictional region of Wessex. His writing often attends to ordinary people whose lives are shaped by forces beyond their control.",
+    "poet_context": "Hardy was strongly associated with Dorset and the fictional region of Wessex. That rural background matters because Hodge's English home is contrasted with an unfamiliar southern African landscape. Hardy's attention to ordinary people gives an individual life importance within a large military conflict.",
     "poem_context": "The poem responds to the Second Boer War in southern Africa, not the First World War. A young English drummer is buried far from home. It concentrates on the human cost of imperial warfare rather than military triumph.",
     "content": [
       "Hodge receives a hurried burial without a coffin in an unfamiliar landscape.",
@@ -344,10 +595,47 @@
     "example": "Hardy questions the dignity of military death through **‘throw’**. The abrupt **verb** suggests hurried disposal instead of a careful funeral. Beginning with this action makes Hodge seem powerless before the reader learns about his youth and home. The poem's attention to his individual life then supplies a kind of remembrance that the burial itself appears to lack.",
     "sources": [
       "https://www.poetryfoundation.org/poets/thomas-hardy"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** three six-line stanzas with alternating rhyme. The regular verse gives sustained attention to a soldier whose burial receives little ceremony.",
+      "**Structure:** the first stanza shows the burial, the second looks back to Hodge's home and youth, and the third imagines his permanent place in the foreign earth.",
+      "**Ending:** unfamiliar stars return, now ruling over him permanently. The circular star imagery makes distance from home continue beyond death."
+    ],
+    "deeper_meaning": [
+      "The setting is the **Second Boer War**, not the First World War. An ordinary young English drummer dies in a landscape he never came to understand.",
+      "Naming Hodge and recalling his home resist reducing him to a disposable casualty. The poem offers remembrance missing from the hurried burial.",
+      "Becoming part of the earth can suggest a lasting natural connection, but it cannot restore his life or allow him to return home."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language / structure",
+        "feature": "abrupt verb opening the poem"
+      },
+      {
+        "category": "Language",
+        "feature": "negative prefix in a description of burial"
+      },
+      {
+        "category": "Language",
+        "feature": "adjective emphasising youth and individual naming"
+      },
+      {
+        "category": "Structure / language",
+        "feature": "place-name contrasting home with the burial site"
+      },
+      {
+        "category": "Imagery",
+        "feature": "personification of unfamiliar stars"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "time phrase establishing permanence in the final stanza"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Disabled — Wilfred Owen": {
-    "poet_context": "Owen served in the First World War and wrote about its suffering rather than celebrating heroic sacrifice. His military experience informs the poem, but the injured veteran is a constructed character, not a literal description of Owen.",
+    "poet_context": "Owen served in the First World War and wrote about its suffering rather than celebrating heroic sacrifice. This experience helps explain the contrast between attractive recruitment promises and their human cost. The injured veteran is a constructed character, not a literal account of Owen's own injuries.",
     "poem_context": "A young veteran waits in institutional care after devastating injuries. Memories of recruitment, sport and attraction contrast with his present treatment. The poem questions the promises that encouraged enlistment and society's care afterwards.",
     "content": [
       "The veteran sits alone while other young people enjoy the evening.",
@@ -388,10 +676,47 @@
     "example": "Owen exposes neglect through **‘Why don’t they come?’**. The **repeated question** conveys both a practical need for help and emotional abandonment. Because it closes the poem without an answer, the reader is left inside the veteran's waiting. This makes the problem extend beyond the original injury: the society that welcomed his enlistment now fails to provide the care he needs.",
     "sources": [
       "https://www.poetryfoundation.org/poets/wilfred-owen"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a third-person account focused closely on one veteran. Varied stanza lengths, rhyme and changes of pace give shape to his memories without producing a settled, comforting pattern.",
+      "**Structure:** the poem repeatedly cuts between a dependent present and the energetic past of sport, attraction and recruitment. The contrasts reveal how different reality is from his expectations.",
+      "**Ending:** the final question is repeated without an answer. The poem leaves him waiting for help, making neglect an ongoing problem rather than a completed story."
+    ],
+    "deeper_meaning": [
+      "The veteran's memories expose why enlistment once looked attractive: admiration, appearance and belonging outweigh an informed understanding of danger.",
+      "War changes his body, but other people's responses deepen his isolation. The poem criticises rejection and inadequate care, rather than presenting disability as a loss of human worth.",
+      "Football blood once won admiration; wartime injury brings dependence and avoidance. This reversal questions a society that cheers men into war but fails to support them afterwards."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery / language",
+        "feature": "bleak colour and deathlike adjective"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "compressed judgement contrasting past and present"
+      },
+      {
+        "category": "Imagery / structure",
+        "feature": "sporting blood contrasted with wartime injury"
+      },
+      {
+        "category": "Language",
+        "feature": "ironic contrast between smiling and accepting a false age"
+      },
+      {
+        "category": "Imagery",
+        "feature": "simile presenting other people's recoil"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "repeated question closing the poem without an answer"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Kamikaze — Beatrice Garland": {
-    "poet_context": "Garland is an English poet who also worked in psychological medicine. Her publisher describes her collection's interest in life, death and the natural world; this helps connect human choices with the vivid landscape in the poem.",
+    "poet_context": "Garland is an English poet whose work explores life, death and the natural world. That interest is relevant to the vivid sea life and memories set against a mission of deliberate self-destruction. The poem imaginatively reconstructs a Japanese family's experience rather than presenting the poet's own testimony.",
     "poem_context": "Japanese kamikaze pilots in the Second World War were expected to die on their missions. A daughter reconstructs her father's return and exclusion. The fictional family's response should not be generalised to every Japanese family.",
     "content": [
       "A pilot sets out on a suicide mission, carrying the symbols and expectations of duty.",
@@ -428,10 +753,43 @@
     "example": "Garland presents exclusion through **‘no longer existed’**. The father has physically returned, so the phrase describes how the community treats him rather than his actual death. This **contrast** makes silence a form of punishment: he survives the mission but loses recognition within his own home. The ending therefore questions a model of honour that values military obedience above a living family member.",
     "sources": [
       "https://templarpoetry.com/collections/beatrice-garland"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a narrative poem in **seven six-line stanzas**, using free verse. A daughter reconstructs a father's experience, so the pilot does not directly explain his decision.",
+      "**Structure:** the planned mission gives way to sea life and imagined childhood memories, then to return and rejection. The daughter's first-person family account becomes more direct in the later stanzas.",
+      "**Ending:** the imagined question about two kinds of death stays unresolved. The ordered stanza pattern contains a story whose moral outcome is far less certain."
+    ],
+    "deeper_meaning": [
+      "Japanese kamikaze pilots in the Second World War were expected to die on their missions. The poem places that military ideal beside the value of ordinary life and family connection.",
+      "Nature and childhood memories offer possible reasons to turn back. They are the daughter's reconstruction, not certain access to the pilot's thoughts.",
+      "Physical survival becomes social exclusion when the family learns to ignore him. The fictional family's response should not be generalised to every Japanese family."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language",
+        "feature": "stark travel description"
+      },
+      {
+        "category": "Imagery",
+        "feature": "vivid colour and light description"
+      },
+      {
+        "category": "Imagery",
+        "feature": "precious-material association in childhood memory"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "denial of existence after physical return"
+      },
+      {
+        "category": "Structure / language",
+        "feature": "unresolved closing comparison between kinds of death"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "War Photographer — Carol Ann Duffy": {
-    "poet_context": "Duffy is a Scottish poet known for dramatic voices and moral questions. Her friendships with war photographers informed this poem's interest in the responsibility and personal cost of witnessing suffering.",
+    "poet_context": "Duffy's friendships with war photographers informed the poem's concern with the responsibility and personal cost of witnessing suffering. Her use of a closely observed professional figure allows the reader to see both the work of recording events and the distress that continues afterwards.",
     "poem_context": "Published in Standing Female Nude in 1985, the poem presents film development and newspaper publication. A photographer returns to safe rural England while memories of conflict continue to disturb him.",
     "content": [
       "The photographer carefully develops film in a quiet darkroom.",
@@ -473,10 +831,47 @@
     "sources": [
       "https://www.poetryfoundation.org/poets/carol-ann-duffy",
       "https://resource.download.wjec.co.uk/vtc/2024-25/edu/edu24-25_2g-11/pdf/war-photographer-carol-ann-duffy.pdf"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** four six-line stanzas with **ABBCDD rhyme**. The controlled pattern echoes the photographer's attempt to order his material and perform a difficult job.",
+      "**Structure:** film development leads to traumatic recollection, then to editing and public consumption. Contrasts between rural England and war zones expose unequal safety.",
+      "**Ending:** another departure makes the work a cycle. The blunt closing judgement contrasts his continuing responsibility with the audience's limited response."
+    ],
+    "deeper_meaning": [
+      "Published in Standing Female Nude in 1985, the poem describes film developing in a darkroom. The technical process also brings suppressed memories into focus.",
+      "Photographs preserve suffering, but editors select only a few and readers quickly return to comfortable routines. Visibility does not guarantee lasting care.",
+      "The photographer needs professional control to work, yet cannot fully contain what he has witnessed. The religious comparison gives this burden moral seriousness."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language / imagery",
+        "feature": "alliteration joining film with suffering"
+      },
+      {
+        "category": "Imagery / form",
+        "feature": "ordered visual image echoed by regular stanzas"
+      },
+      {
+        "category": "Imagery",
+        "feature": "religious simile"
+      },
+      {
+        "category": "Imagery",
+        "feature": "metaphor joining a developing image to haunting memory"
+      },
+      {
+        "category": "Language",
+        "feature": "numerical emphasis and a pain-focused noun"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "blunt negative statement at the close"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Remains — Simon Armitage": {
-    "poet_context": "Armitage is an English poet associated with Yorkshire and conversational voices. The Not Dead draws on veterans' testimonies, giving attention to experiences that had often gone unheard.",
+    "poet_context": "Armitage's The Not Dead draws on veterans' testimonies. This background matters to the conversational soldier's voice and the attention given to lasting psychological harm. Armitage is shaping a testimony-based dramatic voice, rather than describing his own combat experience.",
     "poem_context": "The speaker is a soldier recounting a shooting and its aftermath, not Armitage reporting his own combat experience. The documentary-based project explores how warfare can continue psychologically after someone returns home.",
     "content": [
       "Several soldiers shoot a fleeing suspected looter whose weapon is uncertain.",
@@ -513,10 +908,43 @@
     "example": "Armitage presents unresolved guilt through **‘probably armed, possibly not’**. Both alternatives remain open, so the speaker cannot settle whether the killing was justified. The balanced phrasing sounds like an attempt to weigh evidence, but its **repetition** later in dreams shows that reasoning has failed to bring peace. Violence continues through doubt as well as through remembered physical images.",
     "sources": [
       "https://www.simonarmitage.com/works/the-not-dead/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a **dramatic monologue** in free verse, with seven quatrains and a final two-line stanza. Casual spoken language makes the account sound immediate rather than ceremonial.",
+      "**Structure:** a group shooting gives way to a personal burden at home. Enjambment across the homecoming transition carries the remembered attack into the speaker's present.",
+      "**Ending:** the shift towards individual possession and the shortened final stanza focus responsibility on the speaker. Repeated uncertainty prevents a reassuring conclusion."
+    ],
+    "deeper_meaning": [
+      "The soldier cannot establish whether the fleeing man was armed. The uncertainty makes it difficult to settle whether the killing was justified.",
+      "Physical removal of the body does not end the incident. Stains, dreams and military images show the conflict moving into the mind.",
+      "Responsibility narrows from a group action to one person's guilt. Drink and drugs fail to remove the memory, so homecoming does not mean peace."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language / structure",
+        "feature": "balanced uncertainty repeated in the dreams"
+      },
+      {
+        "category": "Imagery",
+        "feature": "compound metaphor of stain and haunting presence"
+      },
+      {
+        "category": "Structure / language",
+        "feature": "false closure immediately overturned"
+      },
+      {
+        "category": "Imagery",
+        "feature": "military metaphor for mental conflict"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "possessive pronoun and blood as a guilt image"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "I Shall Return — Claude McKay": {
-    "poet_context": "McKay was a Jamaican-born poet who migrated to the United States and became associated with the Harlem Renaissance. His writing explores cultural belonging, racial inequality and attachment to a homeland.",
+    "poet_context": "McKay was born in Jamaica and migrated to the United States, becoming associated with the Harlem Renaissance. Separation from a homeland provides a relevant background for the poem's attachment to landscape and village culture. The speaker's longing is supported by that context, rather than explained by scenery alone.",
     "poem_context": "The sonnet appears in Harlem Shadows, published in 1922. A voice separated from home imagines recovering its landscape and community. The poem promises return but does not show it taking place.",
     "content": [
       "The speaker repeatedly promises to return to a remembered homeland.",
@@ -557,10 +985,47 @@
     "example": "McKay complicates confidence through **‘I shall return’**. The future tense sounds definite, but the repeated promise may also be needed because the speaker remains far away. This **refrain** holds hope and uncertainty together. The closing reference to years of pain reveals the emotional need behind the assertion, so the sonnet presents return as a desired source of healing rather than an accomplished event.",
     "sources": [
       "https://www.poetryfoundation.org/poets/claude-mckay"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a **Shakespearean sonnet**: three quatrains and a closing couplet, with **ABAB CDCD EFEF GG rhyme**. A form often used for love is directed towards a homeland.",
+      "**Structure:** the repeated promise moves through landscape, flowing water and village music. Personal pleasure broadens into cultural belonging.",
+      "**Ending:** the couplet reveals years of pain behind the confident promises. Future tense keeps the return hoped for rather than accomplished."
+    ],
+    "deeper_meaning": [
+      "The sonnet appears in Harlem Shadows, published in 1922. A speaker separated from home imagines return as a way to ease long-lasting distress.",
+      "The precious colours and blended senses make home nourishing to identity as well as beautiful to look at.",
+      "Determination and vulnerability coexist: repeated promises can express confidence while also revealing a need for reassurance."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language / structure",
+        "feature": "refrain and future tense"
+      },
+      {
+        "category": "Language / imagery",
+        "feature": "compound expression of renewed sight"
+      },
+      {
+        "category": "Imagery",
+        "feature": "precious colour association"
+      },
+      {
+        "category": "Imagery",
+        "feature": "synesthesia blending taste and sound"
+      },
+      {
+        "category": "Language",
+        "feature": "phrase linking belonging to culture"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "repetition of duration in the closing couplet"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Decomposition — Zulfikar Ghose": {
-    "poet_context": "Ghose grew up in Bombay and later lived in Britain and the United States. His experience across cultures helps situate this poem's interest in looking, representation and the limits of an observer's judgement.",
+    "poet_context": "Ghose grew up in Bombay, the city shown in the photograph. This gives the setting a relevant biographical connection. The poem's important question is how an observer represents another person's hardship; the constructed speaker's self-criticism should not automatically be treated as a complete account of the poet's life.",
     "poem_context": "A speaker reconsiders a photograph of a beggar in Bombay, now Mumbai. Urban poverty and unequal power between image-maker and subject matter directly. The man is described as sleeping, not as dead.",
     "content": [
       "The photograph initially turns the beggar's body into patterns resembling stone and a fossil.",
@@ -598,10 +1063,43 @@
     "sources": [
       "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00384&showrequest=0",
       "https://lifeandletters.la.utexas.edu/2022/12/remembering-uts-world-class-creative-writing-professor-zulfikar-ghose/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** a first-person reflective poem in **free verse**, without a fixed rhyme scheme. The voice moves from describing a photograph to questioning its own judgement.",
+      "**Structure:** attention shifts from the sleeping man, to the indifferent crowd, to the photographer's earlier pride and present shame. The observer gradually becomes the object of scrutiny.",
+      "**Ending:** human need replaces satisfaction with an attractive composition. The poem dismantles the speaker's earlier way of seeing, as the title suggests."
+    ],
+    "deeper_meaning": [
+      "A photograph of a sleeping beggar in Bombay, now Mumbai, raises a question about art and poverty. The man is asleep, not established as dead.",
+      "Stone and fossil images initially make him look like part of a visual pattern. The poem then exposes the danger of turning a person into an object for others to admire.",
+      "Both the crowd's indifference and the photographer's cleverness fail to meet his needs. Recognising hunger and isolation challenges artistic pride."
+    ],
+    "quote_methods": [
+      {
+        "category": "Imagery",
+        "feature": "dehumanising stone metaphor"
+      },
+      {
+        "category": "Language",
+        "feature": "adjective identifying lack of concern"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "artistic judgement later challenged by the speaker"
+      },
+      {
+        "category": "Language",
+        "feature": "self-critical adverb"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "paired human needs at the ending"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   },
   "Origin Story — Eve L. Ewing": {
-    "poet_context": "Ewing is an American writer and scholar from Chicago whose work includes poetry and comics. Her writing gives imaginative and cultural value to everyday Black experience and personal histories.",
+    "poet_context": "Ewing is a Chicago writer and scholar whose work includes poetry and comics. These interests matter to a poem that uses a comic book to give an ordinary family history the significance of an origin story. Everyday Black experience is presented as worthy of imaginative attention.",
     "poem_context": "The poem, from Electric Arches, tells a family origin through a meeting in 1980s Chicago. Comic-book language provides a way to reconsider a relationship that did not last without dismissing its value.",
     "content": [
       "The speaker describes the parents as distinctive young people whose lives meet through a comic book.",
@@ -638,6 +1136,39 @@
     "example": "Ewing redefines a successful relationship through **‘a good ending’**. An ending usually suggests loss in a love poem, but **‘good’** refuses that automatic judgement. The comic-book frame makes an ending part of a story with consequences beyond the romance itself. Because the speaker has described her own parents, the **structural reversal** suggests that her existence can give value to a relationship that did not survive.",
     "sources": [
       "https://eveewing.com/"
-    ]
+    ],
+    "form_structure": [
+      "**Form:** two unequal stanzas in **free verse**, with mostly lower-case presentation and a conversational voice. Personal details make the account intimate rather than formal.",
+      "**Structure:** the first stanza tells how the parents met; the second turns the comic book into an extended comparison for love. Lists contrast protective storage with affectionate use.",
+      "**Ending:** the unexpected positive judgement redefines a relationship's value. The family story can have a worthwhile outcome even though the romance did not last."
+    ],
+    "deeper_meaning": [
+      "The poem, from Electric Arches, begins with a meeting in 1980s Chicago. A comic is both an object in the story and a way of thinking about the relationship.",
+      "Preserving something untouched is not its only possible value. Wear can show damage, but also enjoyment, closeness and shared life.",
+      "The speaker's existence offers a possible good outcome of imperfect love. A family origin need not be a story of a permanent, flawless romance."
+    ],
+    "quote_methods": [
+      {
+        "category": "Language / form",
+        "feature": "possessives establishing a personal family narrative"
+      },
+      {
+        "category": "Imagery",
+        "feature": "simile introducing the extended comic-book comparison"
+      },
+      {
+        "category": "Imagery",
+        "feature": "compressed metaphor"
+      },
+      {
+        "category": "Imagery",
+        "feature": "tactile wear within the extended comparison"
+      },
+      {
+        "category": "Language / structure",
+        "feature": "positive adjective in the final reversal"
+      }
+    ],
+    "quotation_method_review": "2026-10-13: each anchor linked to a text-specific method and effect"
   }
 }

@@ -27,5 +27,5 @@
 
 ## Decomposition: the method
 
-- Five quatrains in free verse. Past confidence changes to present self-criticism. The beggar is asleep, not confirmed dead.
+- Reflective free verse. Past confidence changes to present self-criticism. The beggar is asleep, not confirmed dead.
 - Compare photographer, subject and viewer responsibilities. Duffy questions the audience; Ghose also questions the image-maker.
