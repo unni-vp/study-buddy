@@ -86,7 +86,7 @@ def scatter(w):
 def lever(w):
     left=27;pivot=w*.35;right=pivot+2*(pivot-left)
     s=path(f'M8 61H{w-8}',BLUE,5)+f'<path d="M{pivot} 64l-14 25h28Z" fill="#dae6f2" stroke="{BLUE}"/>'
-    s+=label(left,16,'30 N','middle')+arrow(left,23,left,58)+label(right,36,'15 N','middle')+arrow(right,42,right,58)
+    s+=label(left,16,'30 N','middle')+arrow(left,26,left,58)+label(right,36,'15 N','middle')+arrow(right,42,right,58)
     for x in [left,pivot,right]:s+=path(f'M{x} 94V113','#667781',1)
     s+=path(f'M{left} 105H{right}','#667781',1)
     s+=label((left+pivot)/2,133,'0.20 m','middle')+label((pivot+right)/2,133,'0.40 m','middle')

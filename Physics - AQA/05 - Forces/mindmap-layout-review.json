@@ -1,0 +1,482 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        346,
+        362,
+        352
+      ],
+      "column_heights": [
+        564,
+        701,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 325,
+          "width": 346,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 362,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 281,
+          "width": 362,
+          "height": 454
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-motion",
+          "purpose": "Shows the signed area represented by a positive velocity–time graph."
+        }
+      ],
+      "slug": "00-forces-overview",
+      "title": "Forces overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        326,
+        444
+      ],
+      "column_heights": [
+        592,
+        476,
+        657
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 323
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 353,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 326,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 259,
+          "width": 326,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 658,
+          "y": 18,
+          "width": 444,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 658,
+          "y": 303,
+          "width": 444,
+          "height": 388
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "ph-spring",
+          "purpose": "Shows that elastic energy is the triangular area under a proportional force–extension graph."
+        }
+      ],
+      "slug": "01-interactions-work-and-springs",
+      "title": "Interactions, work & springs",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        414,
+        294,
+        352
+      ],
+      "column_heights": [
+        576,
+        454,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 414,
+          "height": 373
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 403,
+          "width": 414,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 444,
+          "y": 18,
+          "width": 294,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 444,
+          "y": 259,
+          "width": 294,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "ph-lever",
+          "purpose": "Shows perpendicular lever arms and opposite, equal moments with properly scaled distances."
+        }
+      ],
+      "slug": "02-moments-and-fluid-pressure",
+      "title": "Moments & fluid pressure",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        342,
+        350,
+        368
+      ],
+      "column_heights": [
+        520,
+        410,
+        657
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 342,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 237,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 734,
+          "y": 18,
+          "width": 368,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 734,
+          "y": 259,
+          "width": 368,
+          "height": 432
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "ph-motion",
+          "purpose": "Shows the signed area represented by a positive velocity–time graph."
+        }
+      ],
+      "slug": "03-motion-and-graphs",
+      "title": "Motion & graphs",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        434,
+        336
+      ],
+      "column_heights": [
+        520,
+        623,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 434,
+          "height": 398
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 428,
+          "width": 434,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 766,
+          "y": 281,
+          "width": 336,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-terminal",
+          "purpose": "Shows equal and opposite drag and weight at terminal velocity."
+        }
+      ],
+      "slug": "04-newtons-laws-and-practical",
+      "title": "Newton’s laws & practical",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        450,
+        290,
+        320
+      ],
+      "column_heights": [
+        476,
+        476,
+        482
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 450,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 450,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 480,
+          "y": 18,
+          "width": 290,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 480,
+          "y": 259,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 782,
+          "y": 18,
+          "width": 320,
+          "height": 257
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 782,
+          "y": 287,
+          "width": 320,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-stopping-and-momentum",
+      "title": "Stopping & momentum",
+      "source_panels_preserved": 6
+    }
+  ]
+}

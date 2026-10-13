@@ -93,6 +93,14 @@ def build(subject,topics,maps,n):
                 '**Act 3:** Banquo killed. Fleance escapes. Ghost at banquet.',
                 '**Act 4:** misleading assurances. Macduff’s family killed.',
                 '**Act 5:** Lady Macbeth dies. Resistance defeats Macbeth. Malcolm restores rule.')]
+        if key==('Physics - AQA',5,'03-motion-and-graphs'):
+            source[1]['groups'][0]['lines']=[
+                '**Walking:** about 1.5 m/s.', '**Running:** about 3 m/s.',
+                '**Cycling:** about 6 m/s.', '**Sound in air:** about 330 m/s.',
+                'Conditions change these estimates.']
+            source[3]['groups'][0]['lines']=[
+                '**v²−u² = 2as** only for constant acceleration.',
+                'From rest, a = 2 m/s² over 25 m gives v = 10 m/s.']
         if key==('Chemistry - AQA',4,'03-titration'):
             source[1]['groups'][2]['lines']=['Water left in the burette dilutes the acid.','This changes its concentration.']
         for index,(kind,after) in VISUALS.get(key,{}).items():
