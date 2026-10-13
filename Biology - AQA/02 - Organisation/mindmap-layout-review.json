@@ -1,0 +1,293 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/biology_readable_mindmaps.py",
+  "style": "Readable panels without a central hub; black explanations, bold colon labels, consistent coloured headings, light inset dividers, compact outer gutters",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "minimum_body_pt": 11.22
+  },
+  "full_text": "Existing full Markdown counterparts retained",
+  "maps": [
+    {
+      "slug": "00-organisation-overview",
+      "widths": [
+        314,
+        398,
+        348
+      ],
+      "column_heights": [
+        656,
+        691,
+        603
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 314,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 360,
+          "width": 314,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 344,
+          "y": 18,
+          "width": 398,
+          "height": 387
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 344,
+          "y": 417,
+          "width": 398,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 754,
+          "y": 18,
+          "width": 348,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 754,
+          "y": 316,
+          "width": 348,
+          "height": 321
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "01-digestion-and-enzymes",
+      "widths": [
+        330,
+        322,
+        408
+      ],
+      "column_heights": [
+        603,
+        590,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 321
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 351,
+          "width": 330,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 322,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 338,
+          "width": 322,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 694,
+          "y": 18,
+          "width": 408,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 694,
+          "y": 294,
+          "width": 408,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "02-circulation-and-health",
+      "widths": [
+        290,
+        350,
+        420
+      ],
+      "column_heights": [
+        634,
+        634,
+        647
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 352
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 382,
+          "width": 290,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 350,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 360,
+          "width": 350,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 682,
+          "y": 18,
+          "width": 420,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 682,
+          "y": 316,
+          "width": 420,
+          "height": 365
+        }
+      ],
+      "body_pt": 11.22
+    },
+    {
+      "slug": "03-plant-tissues-and-transport",
+      "widths": [
+        290,
+        322,
+        448
+      ],
+      "column_heights": [
+        520,
+        520,
+        511
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 322,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 303,
+          "width": 322,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 654,
+          "y": 18,
+          "width": 448,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 654,
+          "y": 237,
+          "width": 448,
+          "height": 308
+        }
+      ],
+      "body_pt": 11.22
+    }
+  ]
+}

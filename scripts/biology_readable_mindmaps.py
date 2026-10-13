@@ -66,6 +66,10 @@ def split_facts(value):
     while i<len(value):
         if value[i:i+2]=='**':
             strong=not strong; current+='**'; i+=2; continue
+        if value[i]=='.' and value[i+1:i+2]==' ' and re.match(r'(?:\*\*|[A-Z])',value[i+2:]) and not current.endswith(('e.g','i.e','s.f')):
+            current+='.'
+            parts.append((current+('**' if strong else '')).strip())
+            current='**' if strong else ''; i+=1; continue
         if value[i]==';':
             parts.append((current+('**' if strong else '')).strip())
             current='**' if strong else ''; i+=1; continue
