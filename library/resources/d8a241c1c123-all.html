@@ -47,7 +47,15 @@
 <li>Merge sort splits the data and merges sublists in order.</li>
 <li>Bubble sort is simple but may make many comparisons and swaps.</li>
 <li>Merge sort is generally faster for large lists but requires extra temporary memory.</li>
-</ul></div></details></div><div class="qa-question" id="q21"><p><strong>21.</strong> Write pseudocode that inputs five numbers and outputs the largest.</p><details class="qa-answer" id="answer-21"><summary aria-label="Answer to question 21">Answer:</summary><div class="qa-answer-body"><p>``<code>text largest ← USERINPUT FOR count ← 2 TO 5     number ← USERINPUT     IF number &gt; largest THEN         largest ← number     ENDIF ENDFOR OUTPUT largest </code>``</p></div></details></div><div class="qa-question" id="q22"><p><strong>22.</strong> Explain how a trace table helps determine the purpose of an unfamiliar algorithm.</p><details class="qa-answer" id="answer-22"><summary aria-label="Answer to question 22">Answer:</summary><div class="qa-answer-body"><ul>
+</ul></div></details></div><div class="qa-question" id="q21"><p><strong>21.</strong> Write pseudocode that inputs five numbers and outputs the largest.</p><details class="qa-answer" id="answer-21"><summary aria-label="Answer to question 21">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-text">largest ← USERINPUT
+FOR count ← 2 TO 5
+    number ← USERINPUT
+    IF number &gt; largest THEN
+        largest ← number
+    ENDIF
+ENDFOR
+OUTPUT largest
+</code></pre></div></details></div><div class="qa-question" id="q22"><p><strong>22.</strong> Explain how a trace table helps determine the purpose of an unfamiliar algorithm.</p><details class="qa-answer" id="answer-22"><summary aria-label="Answer to question 22">Answer:</summary><div class="qa-answer-body"><ul>
 <li>Choose suitable input data and record the initial variable values.</li>
 <li>Follow one instruction at a time in the correct control-flow order.</li>
 <li>Record every change, including each loop iteration and decision outcome.</li>

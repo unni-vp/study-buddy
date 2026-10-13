@@ -16,9 +16,21 @@
 <p>You may be asked for <strong>pseudocode</strong>, <strong>program code</strong> or a <strong>flowchart</strong>. Follow the form named in the question.</p>
 <h3>Pseudocode</h3>
 <p>Pseudocode expresses the logic without depending on one real programming language.</p>
-<p>``<code>text OUTPUT &quot;Enter a temperature&quot; temperature ← USERINPUT IF temperature &lt; 0 THEN     OUTPUT &quot;Freezing&quot; ELSE     OUTPUT &quot;Not freezing&quot; ENDIF </code>``</p>
+<pre class="code-block"><code class="language-text">OUTPUT &quot;Enter a temperature&quot;
+temperature ← USERINPUT
+IF temperature &lt; 0 THEN
+    OUTPUT &quot;Freezing&quot;
+ELSE
+    OUTPUT &quot;Not freezing&quot;
+ENDIF
+</code></pre>
 <h3>Python</h3>
-<p>``<code>python temperature = float(input(&quot;Enter a temperature: &quot;)) if temperature &lt; 0:     print(&quot;Freezing&quot;) else:     print(&quot;Not freezing&quot;) </code>``</p>
+<pre class="code-block"><code class="language-python">temperature = float(input(&quot;Enter a temperature: &quot;))
+if temperature &lt; 0:
+    print(&quot;Freezing&quot;)
+else:
+    print(&quot;Not freezing&quot;)
+</code></pre>
 <h3>Flowcharts</h3>
 <table>
 <tr><th>Shape</th><th>Meaning</th></tr>
@@ -36,7 +48,12 @@
 <li><strong>Output:</strong> information produced by the algorithm.</li>
 </ul>
 <p>A <strong>trace table</strong> records variable values as an algorithm runs. Work one instruction at a time and create a new row whenever a tracked value changes.</p>
-<p>``<code>text total ← 0 FOR number ← 1 TO 3     total ← total + number ENDFOR OUTPUT total </code>``</p>
+<pre class="code-block"><code class="language-text">total ← 0
+FOR number ← 1 TO 3
+    total ← total + number
+ENDFOR
+OUTPUT total
+</code></pre>
 <table>
 <tr><th>number</th><th>total after addition</th></tr>
 <tr><td>1</td><td>1</td></tr>

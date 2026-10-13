@@ -168,16 +168,7 @@
       "category": "Multi-step application",
       "front": "Write pseudocode that inputs five numbers and outputs the largest.",
       "back": [
-        "```text",
-        "largest ← USERINPUT",
-        "FOR count ← 2 TO 5",
-        "number ← USERINPUT",
-        "IF number > largest THEN",
-        "largest ← number",
-        "ENDIF",
-        "ENDFOR",
-        "OUTPUT largest",
-        "```"
+        "```text\nlargest ← USERINPUT\nFOR count ← 2 TO 5\n    number ← USERINPUT\n    IF number > largest THEN\n        largest ← number\n    ENDIF\nENDFOR\nOUTPUT largest\n```"
       ]
     },
     {

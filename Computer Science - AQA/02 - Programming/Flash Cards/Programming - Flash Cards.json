@@ -119,9 +119,7 @@
       "category": "Apply and calculate",
       "front": "Write a Python condition that is true when `age` is from 11 to 18 inclusive.",
       "back": [
-        "```python",
-        "age >= 11 and age <= 18",
-        "```",
+        "```python\nage >= 11 and age <= 18\n```",
         "Both boundary values are included."
       ]
     },
@@ -156,11 +154,7 @@
       "category": "Apply and calculate",
       "front": "Write Python that inputs a name, removes no characters, and outputs `Hello ` followed by the name.",
       "back": [
-        "```python",
-        "name = input(\"Enter your name: \")",
-        "message = \"Hello \" + name",
-        "print(message)",
-        "```"
+        "```python\nname = input(\"Enter your name: \")\nmessage = \"Hello \" + name\nprint(message)\n```"
       ]
     },
     {
@@ -176,37 +170,21 @@
       "category": "Multi-step application",
       "front": "Write Python that inputs five integers and outputs their total.",
       "back": [
-        "```python",
-        "total = 0",
-        "for count in range(5):",
-        "number = int(input(\"Number: \"))",
-        "total = total + number",
-        "print(total)",
-        "```"
+        "```python\ntotal = 0\nfor count in range(5):\n    number = int(input(\"Number: \"))\n    total = total + number\nprint(total)\n```"
       ]
     },
     {
       "category": "Multi-step application",
       "front": "Write pseudocode that repeatedly inputs a mark until it is from 0 to 100 inclusive.",
       "back": [
-        "```text",
-        "mark ← USERINPUT",
-        "WHILE mark < 0 OR mark > 100",
-        "OUTPUT \"Enter 0 to 100\"",
-        "mark ← USERINPUT",
-        "ENDWHILE",
-        "```"
+        "```text\nmark ← USERINPUT\nWHILE mark < 0 OR mark > 100\n    OUTPUT \"Enter 0 to 100\"\n    mark ← USERINPUT\nENDWHILE\n```"
       ]
     },
     {
       "category": "Multi-step application",
       "front": "Write a function that accepts width and height and returns the area of a rectangle.",
       "back": [
-        "```python",
-        "def rectangle_area(width, height):",
-        "area = width * height",
-        "return area",
-        "```",
+        "```python\ndef rectangle_area(width, height):\n    area = width * height\n    return area\n```",
         "The two values enter as parameters and the calculated value is returned."
       ]
     },
@@ -227,10 +205,7 @@
         "Python comparison uses `==`, not assignment `=`.",
         "The condition needs a colon.",
         "The output statement must be indented.",
-        "```python",
-        "if score == 10:",
-        "print(\"Win\")",
-        "```"
+        "```python\nif score == 10:\n    print(\"Win\")\n```"
       ]
     }
   ]

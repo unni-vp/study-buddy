@@ -9,7 +9,16 @@
 </ul>
 <h2>Linear search</h2>
 <p>A <strong>linear search</strong> checks items in order until the target is found or every item has been checked.</p>
-<p>``<code>text found ← False index ← 0 WHILE index &lt; LENGTH(items) AND found = False     IF items[index] = target THEN         found ← True     ELSE         index ← index + 1     ENDIF ENDWHILE </code>``</p>
+<pre class="code-block"><code class="language-text">found ← False
+index ← 0
+WHILE index &lt; LENGTH(items) AND found = False
+    IF items[index] = target THEN
+        found ← True
+    ELSE
+        index ← index + 1
+    ENDIF
+ENDWHILE
+</code></pre>
 <ul>
 <li>Works on <strong>sorted or unsorted</strong> data.</li>
 <li>Simple and suitable for small lists.</li>

@@ -1,19 +1,56 @@
 import html, re
 
-def inline(s):
+FENCE_RE = re.compile(r'^ {0,3}(`{3,}|~{3,})([^\r\n]*)$')
+
+
+def fence_start(line):
+ match=FENCE_RE.match(line)
+ if match and not (match[1][0]=='`' and '`' in match[2]):return match
+ return None
+
+
+def fence_end(line, fence):
+ return bool(re.fullmatch(r' {0,3}'+re.escape(fence[0])+'{'+str(len(fence))+r',}[ \t]*',line))
+
+
+def _inline_text(s):
  s=html.escape(s)
  s=re.sub(r'!\[([^\]]*)\]\(([^)]+)\)',r'<img src="\2" alt="\1">',s)
  s=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',r'<a href="\2">\1</a>',s)
  s=re.sub(r'\*\*(.+?)\*\*',r'<strong>\1</strong>',s)
- s=re.sub(r'`([^`]+)`',r'<code>\1</code>',s)
  return s
+
+
+def inline(s):
+ # Keep Markdown-like operators, links and emphasis inside code literal.
+ out=[];end=0
+ for match in re.finditer(r'(?<!`)(`+)(?!`)(.+?)(?<!`)\1(?!`)',s):
+  out.append(_inline_text(s[end:match.start()]))
+  out.append('<code>'+html.escape(match[2])+'</code>')
+  end=match.end()
+ out.append(_inline_text(s[end:]))
+ return ''.join(out)
+
 
 def render_md(text):
  out=[]; lines=text.splitlines(); i=0
  while i<len(lines):
   line=lines[i]
   if not line.strip():i+=1;continue
-  if line.strip()=='---':
+  fence=fence_start(line)
+  if fence:
+   marker=fence[1];info=fence[2].strip();indent=len(line)-len(line.lstrip(' '));code=[];i+=1
+   while i<len(lines) and not fence_end(lines[i],marker):
+    value=lines[i]
+    # Only the fence's own indentation is removed; Python indentation remains.
+    removed=min(indent,len(value)-len(value.lstrip(' ')))
+    code.append(value[removed:]);i+=1
+   if i<len(lines):i+=1
+   language=info.split()[0] if info else ''
+   attr=' class="language-'+html.escape(language,quote=True)+'"' if re.fullmatch(r'[A-Za-z0-9_+-]+',language) else ''
+   body='\n'.join(code)+('\n' if code else '')
+   out.append('<pre class="code-block"><code'+attr+'>'+html.escape(body)+'</code></pre>')
+  elif line.strip()=='---':
    out.append('<hr>');i+=1
   elif line.startswith('**Themes:** '):
    tags=[tag.strip() for tag in line[len('**Themes:** '):].split(' · ') if tag.strip()]
@@ -43,7 +80,6 @@ def render_md(text):
    out.append('</'+tag+'>')
   else:
    para=[line];i+=1
-   while i<len(lines) and lines[i].strip() and not re.match(r'^(#|>|\||- |\d+\. )',lines[i]):para.append(lines[i]);i+=1
+   while i<len(lines) and lines[i].strip() and not fence_start(lines[i]) and not re.match(r'^(#|>|\||- |\d+\. )',lines[i]):para.append(lines[i]);i+=1
    out.append('<p>'+inline(' '.join(para))+'</p>')
  return '\n'.join(out)
-

@@ -72,3 +72,11 @@ body[class*="subject-"] .flashcard-category{background:var(--accent-soft);color:
 .topic-paper-tags{display:flex;flex-wrap:wrap;gap:5px;line-height:1.3}
 .topic-paper-label{font-size:12px;font-weight:600;color:var(--accent-dark,var(--accent));background:var(--accent-soft,#edf4f0);border:1px solid var(--accent-line,var(--line));border-radius:5px;padding:3px 7px}
 .topic-paper-label.paper-linked{font-weight:400;background:white}
+
+/* Code excerpts retain their actual lines and indentation on screen. */
+.code-block{display:block;max-width:100%;min-width:0;margin:18px 0;padding:16px 18px;overflow-x:auto;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:8px;background:#f4f6f9;color:#172638;font:15px/1.55 Consolas,"Cascadia Code",monospace;text-align:left;tab-size:4}
+.code-block code{display:block;padding:0;border:0;background:none;color:inherit;font:inherit;white-space:pre;overflow-wrap:normal;word-break:normal}
+.reading :not(pre)>code,.flashcard-front :not(pre)>code,.flashcard-answer :not(pre)>code{padding:1px 4px;border-radius:4px;background:#eef1f5;font-family:Consolas,"Cascadia Code",monospace}
+.flashcard-answer{min-width:0}.flashcard-answer .code-block{width:100%}.flashcard-front .code-block{grid-column:1/-1;width:100%}
+@media(max-width:720px){.code-block{padding:12px;font-size:14px}}
+@media print{.code-block{overflow:visible;break-inside:avoid;font-size:11pt;background:white}.code-block code{white-space:pre-wrap;overflow-wrap:anywhere}}

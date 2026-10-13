@@ -1,11 +1,34 @@
 import json
 from html import escape
-from html_utils import render_md
+from html_utils import render_md, inline, fence_start, fence_end
 
 
 def _answer_html(points):
-    markdown = '\n'.join(f'- {point}' for point in points)
-    return render_md(markdown)
+    # Accept complete fenced points and legacy decks with one entry per line.
+    lines = []
+    active_fence = None
+    for point in points:
+        if active_fence is not None:
+            lines.append(point)
+            if fence_end(point, active_fence):
+                active_fence = None
+                lines.append('')
+        elif (fence := fence_start(point.split('\n', 1)[0])):
+            lines.extend(['', point])
+            if '\n' not in point:
+                active_fence = fence[1]
+            else:
+                lines.append('')
+        else:
+            lines.append('- ' + point)
+    return render_md('\n'.join(lines))
+
+
+def _front_html(front):
+    if any(fence_start(line) for line in front.splitlines()):
+        heading, _, body = front.partition('\n')
+        return '<h2>' + inline(heading) + '</h2>' + render_md(body)
+    return '<h2>' + inline(front) + '</h2>'
 
 
 def build_flashcard_page(source, target, subject, topic, topicpage, write, link):
@@ -19,7 +42,7 @@ def build_flashcard_page(source, target, subject, topic, topicpage, write, link)
             f'role="button" aria-expanded="false" aria-label="Reveal answer: {escape(card["front"], quote=True)}">'
             f'<div class="flashcard-front"><span class="flashcard-side-label">Question</span>'
             f'<span class="flashcard-category">{escape(card["category"])}</span>'
-            f'<h2>{escape(card["front"])}</h2>'
+            f'{_front_html(card["front"])}'
             f'<p class="flashcard-prompt">Select the card or press Space to reveal the answer.</p></div>'
             f'<div class="flashcard-back"><span class="flashcard-side-label">Answer</span>'
             f'<div class="flashcard-answer">{_answer_html(card["back"])}</div></div></article>'

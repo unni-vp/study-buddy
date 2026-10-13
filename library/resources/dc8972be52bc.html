@@ -23,7 +23,8 @@
 <li><code>17 DIV 5 = 3</code>.</li>
 <li><code>17 MOD 5 = 2</code>.</li>
 <li><code>17 / 5 = 3.4</code>.</li>
-</ul></div></details></div><div class="qa-question" id="q16"><p><strong>16.</strong> Write a Python condition that is true when <code>age</code> is from 11 to 18 inclusive.</p><details class="qa-answer" id="answer-16"><summary aria-label="Answer to question 16">Answer:</summary><div class="qa-answer-body"><p>``<code>python age &gt;= 11 and age &lt;= 18 </code>``</p>
+</ul></div></details></div><div class="qa-question" id="q16"><p><strong>16.</strong> Write a Python condition that is true when <code>age</code> is from 11 to 18 inclusive.</p><details class="qa-answer" id="answer-16"><summary aria-label="Answer to question 16">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">age &gt;= 11 and age &lt;= 18
+</code></pre>
 <p>Both boundary values are included.</p></div></details></div><div class="qa-question" id="q17"><p><strong>17.</strong> Describe three advantages of using subroutines.</p><details class="qa-answer" id="answer-17"><summary aria-label="Answer to question 17">Answer:</summary><div class="qa-answer-body"><ul>
 <li>A subroutine can be reused instead of duplicating code.</li>
 <li>It can be tested separately.</li>
@@ -36,11 +37,27 @@
 <li>Parameters specify the data entering the subroutine.</li>
 <li>Local variables keep temporary data inside it.</li>
 <li>A return value provides its result to the calling routine.</li>
-</ul></div></details></div><div class="qa-question" id="q20"><p><strong>20.</strong> Write Python that inputs a name, removes no characters, and outputs <code>Hello </code> followed by the name.</p><details class="qa-answer" id="answer-20"><summary aria-label="Answer to question 20">Answer:</summary><div class="qa-answer-body"><p>``<code>python name = input(&quot;Enter your name: &quot;) message = &quot;Hello &quot; + name print(message) </code>``</p></div></details></div><div class="qa-question" id="q21"><p><strong>21.</strong> Explain the result of <code>NOT (score &gt;= 50 AND submitted)</code> when <code>score</code> is 70 and <code>submitted</code> is <code>False</code>.</p><details class="qa-answer" id="answer-21"><summary aria-label="Answer to question 21">Answer:</summary><div class="qa-answer-body"><ul>
+</ul></div></details></div><div class="qa-question" id="q20"><p><strong>20.</strong> Write Python that inputs a name, removes no characters, and outputs <code>Hello </code> followed by the name.</p><details class="qa-answer" id="answer-20"><summary aria-label="Answer to question 20">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">name = input(&quot;Enter your name: &quot;)
+message = &quot;Hello &quot; + name
+print(message)
+</code></pre></div></details></div><div class="qa-question" id="q21"><p><strong>21.</strong> Explain the result of <code>NOT (score &gt;= 50 AND submitted)</code> when <code>score</code> is 70 and <code>submitted</code> is <code>False</code>.</p><details class="qa-answer" id="answer-21"><summary aria-label="Answer to question 21">Answer:</summary><div class="qa-answer-body"><ul>
 <li><code>score &gt;= 50</code> is True, while <code>submitted</code> is False.</li>
 <li><code>True AND False</code> is False.</li>
 <li><code>NOT False</code> is <strong>True</strong>.</li>
-</ul></div></details></div></section><section class="qa-mark-group" id="marks-4"><h2>4 marks</h2><div class="qa-question" id="q22"><p><strong>22.</strong> Write Python that inputs five integers and outputs their total.</p><details class="qa-answer" id="answer-22"><summary aria-label="Answer to question 22">Answer:</summary><div class="qa-answer-body"><p>``<code>python total = 0 for count in range(5):     number = int(input(&quot;Number: &quot;))     total = total + number print(total) </code>``</p></div></details></div><div class="qa-question" id="q23"><p><strong>23.</strong> Write pseudocode that repeatedly inputs a mark until it is from 0 to 100 inclusive.</p><details class="qa-answer" id="answer-23"><summary aria-label="Answer to question 23">Answer:</summary><div class="qa-answer-body"><p>``<code>text mark ← USERINPUT WHILE mark &lt; 0 OR mark &gt; 100     OUTPUT &quot;Enter 0 to 100&quot;     mark ← USERINPUT ENDWHILE </code>``</p></div></details></div><div class="qa-question" id="q24"><p><strong>24.</strong> Write a function that accepts width and height and returns the area of a rectangle.</p><details class="qa-answer" id="answer-24"><summary aria-label="Answer to question 24">Answer:</summary><div class="qa-answer-body"><p>``<code>python def rectangle_area(width, height):     area = width * height     return area </code>``</p>
+</ul></div></details></div></section><section class="qa-mark-group" id="marks-4"><h2>4 marks</h2><div class="qa-question" id="q22"><p><strong>22.</strong> Write Python that inputs five integers and outputs their total.</p><details class="qa-answer" id="answer-22"><summary aria-label="Answer to question 22">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">total = 0
+for count in range(5):
+    number = int(input(&quot;Number: &quot;))
+    total = total + number
+print(total)
+</code></pre></div></details></div><div class="qa-question" id="q23"><p><strong>23.</strong> Write pseudocode that repeatedly inputs a mark until it is from 0 to 100 inclusive.</p><details class="qa-answer" id="answer-23"><summary aria-label="Answer to question 23">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-text">mark ← USERINPUT
+WHILE mark &lt; 0 OR mark &gt; 100
+    OUTPUT &quot;Enter 0 to 100&quot;
+    mark ← USERINPUT
+ENDWHILE
+</code></pre></div></details></div><div class="qa-question" id="q24"><p><strong>24.</strong> Write a function that accepts width and height and returns the area of a rectangle.</p><details class="qa-answer" id="answer-24"><summary aria-label="Answer to question 24">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">def rectangle_area(width, height):
+    area = width * height
+    return area
+</code></pre>
 <p>The two values enter as parameters and the calculated value is returned.</p></div></details></div><div class="qa-question" id="q25"><p><strong>25.</strong> Explain how you would test a password routine requiring at least eight characters and a non-empty username.</p><details class="qa-answer" id="answer-25"><summary aria-label="Answer to question 25">Answer:</summary><div class="qa-answer-body"><ul>
 <li>Use a normal valid username and a password longer than eight characters.</li>
 <li>Test passwords of exactly 8 and 7 characters as boundary values.</li>
@@ -51,7 +68,22 @@
 <li>The condition needs a colon.</li>
 <li>The output statement must be indented.</li>
 </ul>
-<p>``<code>python if score == 10:     print(&quot;Win&quot;) </code>``</p></div></details></div></section><section class="qa-mark-group" id="marks-6"><h2>6 marks</h2><div class="qa-question" id="q27"><p><strong>27.</strong> Design an algorithm that inputs ten temperatures, then outputs the mean and the highest temperature.</p><details class="qa-answer" id="answer-27"><summary aria-label="Answer to question 27">Answer:</summary><div class="qa-answer-body"><p>``<code>text total ← 0 highest ← USERINPUT total ← highest FOR count ← 2 TO 10     temperature ← USERINPUT     total ← total + temperature     IF temperature &gt; highest THEN         highest ← temperature     ENDIF ENDFOR mean ← total / 10 OUTPUT mean OUTPUT highest </code>``</p>
+<pre class="code-block"><code class="language-python">if score == 10:
+    print(&quot;Win&quot;)
+</code></pre></div></details></div></section><section class="qa-mark-group" id="marks-6"><h2>6 marks</h2><div class="qa-question" id="q27"><p><strong>27.</strong> Design an algorithm that inputs ten temperatures, then outputs the mean and the highest temperature.</p><details class="qa-answer" id="answer-27"><summary aria-label="Answer to question 27">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-text">total ← 0
+highest ← USERINPUT
+total ← highest
+FOR count ← 2 TO 10
+    temperature ← USERINPUT
+    total ← total + temperature
+    IF temperature &gt; highest THEN
+        highest ← temperature
+    ENDIF
+ENDFOR
+mean ← total / 10
+OUTPUT mean
+OUTPUT highest
+</code></pre>
 <p>The first input safely initialises <code>highest</code>; every value contributes to the total and is compared with the current highest.</p></div></details></div><div class="qa-question" id="q28"><p><strong>28.</strong> Explain how structured programming improves the development of a large program.</p><details class="qa-answer" id="answer-28"><summary aria-label="Answer to question 28">Answer:</summary><div class="qa-answer-body"><ul>
 <li>Decomposition separates the problem into modules with identifiable tasks.</li>
 <li>Subroutines avoid repeated code and can be reused.</li>

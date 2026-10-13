@@ -24,14 +24,25 @@
 <li><strong>Iteration:</strong> instructions repeat.</li>
 </ul>
 <h3>Selection</h3>
-<p>``<code>python if age &gt;= 18:     print(&quot;Adult&quot;) elif age &gt;= 13:     print(&quot;Teenager&quot;) else:     print(&quot;Child&quot;) </code>``</p>
+<pre class="code-block"><code class="language-python">if age &gt;= 18:
+    print(&quot;Adult&quot;)
+elif age &gt;= 13:
+    print(&quot;Teenager&quot;)
+else:
+    print(&quot;Child&quot;)
+</code></pre>
 <p>Selection can be <strong>nested</strong>: one decision sits inside another.</p>
 <h3>Count-controlled iteration</h3>
 <p>Use a <code>for</code> loop when the number of repetitions is known.</p>
-<p>``<code>text FOR count ← 1 TO 5     OUTPUT count ENDFOR </code>``</p>
+<pre class="code-block"><code class="language-text">FOR count ← 1 TO 5
+    OUTPUT count
+ENDFOR
+</code></pre>
 <h3>Condition-controlled iteration</h3>
 <p>Use <code>WHILE</code> when the condition is checked before the loop. It may run zero times.</p>
-<p>``<code>python while password != &quot;correct&quot;:     password = input(&quot;Try again: &quot;) </code>``</p>
+<pre class="code-block"><code class="language-python">while password != &quot;correct&quot;:
+    password = input(&quot;Try again: &quot;)
+</code></pre>
 <p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
 <h2>Operators and expressions</h2>
 <h3>Arithmetic</h3>

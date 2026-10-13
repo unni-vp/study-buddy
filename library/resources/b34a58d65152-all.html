@@ -24,14 +24,25 @@
 <li><strong>Iteration:</strong> instructions repeat.</li>
 </ul>
 <h3>Selection</h3>
-<p>``<code>python if age &gt;= 18:     print(&quot;Adult&quot;) elif age &gt;= 13:     print(&quot;Teenager&quot;) else:     print(&quot;Child&quot;) </code>``</p>
+<pre class="code-block"><code class="language-python">if age &gt;= 18:
+    print(&quot;Adult&quot;)
+elif age &gt;= 13:
+    print(&quot;Teenager&quot;)
+else:
+    print(&quot;Child&quot;)
+</code></pre>
 <p>Selection can be <strong>nested</strong>: one decision sits inside another.</p>
 <h3>Count-controlled iteration</h3>
 <p>Use a <code>for</code> loop when the number of repetitions is known.</p>
-<p>``<code>text FOR count ← 1 TO 5     OUTPUT count ENDFOR </code>``</p>
+<pre class="code-block"><code class="language-text">FOR count ← 1 TO 5
+    OUTPUT count
+ENDFOR
+</code></pre>
 <h3>Condition-controlled iteration</h3>
 <p>Use <code>WHILE</code> when the condition is checked before the loop. It may run zero times.</p>
-<p>``<code>python while password != &quot;correct&quot;:     password = input(&quot;Try again: &quot;) </code>``</p>
+<pre class="code-block"><code class="language-python">while password != &quot;correct&quot;:
+    password = input(&quot;Try again: &quot;)
+</code></pre>
 <p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
 <h2>Operators and expressions</h2>
 <h3>Arithmetic</h3>
@@ -61,7 +72,12 @@
 <li>An array element is accessed using an <strong>index</strong>. Check whether the given language or pseudocode starts indexing at 0 or 1.</li>
 <li>A <strong>record</strong> groups fields about one item, and its fields may have different data types.</li>
 </ul>
-<p>``<code>text RECORD Student     name : String     yearGroup : Integer     present : Boolean ENDRECORD </code>``</p>
+<pre class="code-block"><code class="language-text">RECORD Student
+    name : String
+    yearGroup : Integer
+    present : Boolean
+ENDRECORD
+</code></pre>
 <p>Use an array for 30 test scores. Use a record for one pupil&#x27;s name, date of birth and attendance status.</p>
 <h2>Input, output and strings</h2>
 <ul>
@@ -69,7 +85,9 @@
 <li>Output displays information to the user.</li>
 <li>Convert input to the required type before calculations.</li>
 </ul>
-<p>``<code>python age = int(input(&quot;Age: &quot;)) print(&quot;Next year you will be&quot;, age + 1) </code>``</p>
+<pre class="code-block"><code class="language-python">age = int(input(&quot;Age: &quot;))
+print(&quot;Next year you will be&quot;, age + 1)
+</code></pre>
 <p>String operations you must recognise:</p>
 <ul>
 <li><strong>length</strong>: number of characters</li>
@@ -82,7 +100,9 @@
 <p>In Python, examples include <code>len(text)</code>, <code>text[1:4]</code>, <code>first + last</code>, <code>ord(&#x27;A&#x27;)</code>, <code>chr(65)</code>, <code>int(&quot;42&quot;)</code> and <code>str(42)</code>.</p>
 <h2>Random numbers</h2>
 <p>Random-number generation can simulate dice, choose quiz questions or create unpredictable game events. You do not need to explain how pseudo-random numbers are generated.</p>
-<p>``<code>python import random die = random.randint(1, 6) </code>``</p>
+<pre class="code-block"><code class="language-python">import random
+die = random.randint(1, 6)
+</code></pre>
 <p>Check whether both endpoints are included in the language or function stated in the question.</p>
 <h2>Subroutines and structured programming</h2>
 <p>A <strong>subroutine</strong> is a named block of code called from elsewhere.</p>
@@ -93,7 +113,10 @@
 <li>A <strong>return value</strong> passes a result out.</li>
 <li>A <strong>local variable</strong> exists only while its subroutine runs and is accessible only there.</li>
 </ul>
-<p>``<code>python def rectangle_area(width, height):     area = width * height       # local variable     return area </code>``</p>
+<pre class="code-block"><code class="language-python">def rectangle_area(width, height):
+    area = width * height       # local variable
+    return area
+</code></pre>
 <p>Advantages include reuse, less repeated code, easier testing, easier maintenance and clearer decomposition.</p>
 <p><strong>Structured programming</strong> builds a program from small modules with clear interfaces. Parameters, local variables and return values reduce unwanted dependence between modules.</p>
 <h2>Validation and authentication</h2>
@@ -104,7 +127,10 @@
 <li>length check, such as at least 8 characters</li>
 <li>presence check, ensuring a string is not empty</li>
 </ul>
-<p>``<code>python age = int(input(&quot;Age 11 to 18: &quot;)) while age &lt; 11 or age &gt; 18:     age = int(input(&quot;Enter 11 to 18: &quot;)) </code>``</p>
+<pre class="code-block"><code class="language-python">age = int(input(&quot;Age 11 to 18: &quot;))
+while age &lt; 11 or age &gt; 18:
+    age = int(input(&quot;Enter 11 to 18: &quot;))
+</code></pre>
 <p><strong>Authentication</strong> checks identity, for example by comparing a username and password with stored values. In exam programming tasks, plain-text values may be used; real systems should store passwords securely.</p>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>

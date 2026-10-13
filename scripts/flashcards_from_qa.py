@@ -7,6 +7,7 @@ import argparse
 import json
 import re
 from pathlib import Path
+from html_utils import fence_start, fence_end
 
 
 MARK_GROUPS = {
@@ -29,25 +30,56 @@ def clean_line(line: str) -> str:
     return line
 
 
+def clean_answer(lines: list[str]) -> list[str]:
+    """Keep each code block as one point, with indentation and empty lines."""
+    points = []
+    block = None
+    marker = None
+    for line in lines:
+        if block is not None:
+            block.append(line)
+            if fence_end(line, marker):
+                points.append('\n'.join(block))
+                block, marker = None, None
+        elif (fence := fence_start(line)):
+            block, marker = [line], fence[1]
+        elif (value := clean_line(line)):
+            points.append(value)
+    if block is not None:
+        points.append('\n'.join(block))
+    return points
+
+
 def parse_cards(text: str) -> list[dict[str, object]]:
     cards: list[dict[str, object]] = []
     marks: int | None = None
     question: list[str] | None = None
     answer: list[str] = []
     reading_answer = False
+    active_fence = None
 
     def save() -> None:
         nonlocal question, answer, reading_answer
         if marks not in MARK_GROUPS or question is None:
             question, answer, reading_answer = None, [], False
             return
-        front = " ".join(part for part in map(clean_line, question) if part)
-        back = [part for part in map(clean_line, answer) if part]
+        front = ("\n".join(question).strip() if any(fence_start(line) for line in question)
+                 else " ".join(part for part in map(clean_line, question) if part))
+        back = clean_answer(answer)
         if front and back and "diagram" not in front.lower() and "figure" not in front.lower():
             cards.append({"category": MARK_GROUPS[marks], "front": front, "back": back})
         question, answer, reading_answer = None, [], False
 
     for raw in text.splitlines():
+        if active_fence is not None:
+            (answer if reading_answer else question).append(raw)
+            if fence_end(raw, active_fence):
+                active_fence = None
+            continue
+        if question is not None and (fence := fence_start(raw)):
+            (answer if reading_answer else question).append(raw)
+            active_fence = fence[1]
+            continue
         heading = HEADING_RE.match(raw)
         if heading:
             save()
