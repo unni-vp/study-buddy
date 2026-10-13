@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8462, Higher tier",
+  "source": "../00 - Specification/AQA-8462-specification.pdf",
+  "coverage": [
+    "4.7.1.1–4.7.1.4",
+    "4.7.2.1–4.7.2.4",
+    "4.7.3.1–4.7.3.4"
+  ],
+  "coverage_checklist": {
+    "4.7.1": "Oil origin/finite mixture,first four alkanes/formula,separation/feedstocks,size trends/combustion/balancing,steam/catalytic cracking",
+    "4.7.2": "First four alkenes displayed/recognition/all stated addition reagents and conditions,first four alcohols/reactions/uses/fermentation,first four acids/reactions/weak-ionisation/ethyl ethanoate",
+    "4.7.3": "Addition monomer/repeat-unit recognition and drawing,condensation two functional groups/polyester,amino-acid/polypeptide,all named natural polymers/monomers/DNA"
+  },
+  "practicals": [],
+  "mindmaps": [
+    "00-organic-overview",
+    "01-oil-and-cracking",
+    "02-alkenes-and-addition",
+    "03-alcohols-acids-and-esters",
+    "04-polymer-structures",
+    "05-natural-polymers"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Organic chemistry - Questions and Answers.md",
+    "deck": "Flash Cards/Organic chemistry - Flash Cards.json",
+    "count": 44,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

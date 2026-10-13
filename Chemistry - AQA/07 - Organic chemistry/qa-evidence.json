@@ -1,0 +1,382 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "Reviewed June 2022 and 2023 Paper 2 Higher. 2022 Q04.5–04.7 assesses hydrocarbon trends, cracking and alkene recognition; 2023 Q02.6–02.8 assesses alcohol oxidation, carboxyl structure and ester/carbonate products; 2023 Q08.1–08.9 assesses addition units, amino-acid condensation and natural polymers. These support question types, not a frequency prediction. All questions here are original practice.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What is a hydrocarbon?",
+      "answer": "A compound containing carbon and hydrogen only.",
+      "specification": "4.7.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "State the general formula of alkanes.",
+      "answer": "CₙH₂ₙ₊₂.",
+      "specification": "4.7.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the alkane C₃H₈.",
+      "answer": "Propane.",
+      "specification": "4.7.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "State the functional group of alkenes.",
+      "answer": "C=C.",
+      "specification": "4.7.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the alkene C₂H₄.",
+      "answer": "Ethene.",
+      "specification": "4.7.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What colour change identifies an alkene using bromine water?",
+      "answer": "Orange to colourless.",
+      "specification": "4.7.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "State the functional group of alcohols.",
+      "answer": "–OH.",
+      "specification": "4.7.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "State the functional group of carboxylic acids.",
+      "answer": "–COOH.",
+      "specification": "4.7.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the ester made from ethanol and ethanoic acid.",
+      "answer": "Ethyl ethanoate.",
+      "specification": "4.7.2.4",
+      "evidence": "2023 2H Q02.8",
+      "number": 9
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a monomer?",
+      "answer": "A small molecule that can join others to form a polymer.",
+      "specification": "4.7.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 1,
+      "prompt": "Which small molecule is usually produced during condensation polymerisation?",
+      "answer": "Water.",
+      "specification": "4.7.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 1,
+      "prompt": "What are DNA’s monomers?",
+      "answer": "Nucleotides.",
+      "specification": "4.7.3.4",
+      "evidence": "2023 2H Q08.8",
+      "number": 12
+    },
+    {
+      "marks": 1,
+      "prompt": "What are protein’s monomers?",
+      "answer": "Amino acids.",
+      "specification": "4.7.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is crude oil a finite resource?",
+      "answer": "- It forms over **millions of years** from buried ancient biomass.\n- We use it much faster than it is replaced, so reserves are limited on human timescales.",
+      "specification": "4.7.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is a crude-oil fraction usually not pure?",
+      "answer": "- It contains **several hydrocarbons**.\n- These have similar chain lengths and boiling ranges, rather than being one compound.",
+      "specification": "4.7.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "State how boiling point and viscosity change as hydrocarbon chain length increases.",
+      "answer": "- **Boiling point increases**.\n- **Viscosity increases**, so liquids flow less easily.",
+      "specification": "4.7.1.3",
+      "evidence": "2022 2H Q04.5",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two useful product types from cracking.",
+      "answer": "- Smaller **alkanes** used as fuels.\n- **Alkenes** used as polymer monomers or chemical feedstocks.",
+      "specification": "4.7.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Complete and balance C₁₂H₂₆ → C₈H₁₈ + _____.",
+      "answer": "- Remaining atoms: 12−8 = 4 carbons; 26−18 = 8 hydrogens.\n- **C₁₂H₂₆ → C₈H₁₈ + C₄H₈**.",
+      "specification": "4.7.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why an alkene is unsaturated.",
+      "answer": "- It contains a **carbon–carbon double bond**.\n- Atoms can add across it, giving greater hydrogen content than the starting alkene.",
+      "specification": "4.7.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe hydrogen addition to ethene.",
+      "answer": "- React with hydrogen using a **heated nickel catalyst**.\n- C=C becomes C–C, producing **ethane**.",
+      "specification": "4.7.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe water addition to ethene.",
+      "answer": "- React with **steam**, using suitable acid catalyst, elevated temperature and pressure.\n- Product is **ethanol**.",
+      "specification": "4.7.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "State the structural change when bromine adds to ethene.",
+      "answer": "- C=C becomes a **single C–C bond**.\n- One bromine attaches to each carbon: **CH₂BrCH₂Br**.",
+      "specification": "4.7.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe the reaction of ethanol with sodium.",
+      "answer": "- Sodium reacts to form the corresponding sodium compound.\n- **Hydrogen gas** is released.",
+      "specification": "4.7.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "How can ethanol be changed into ethanoic acid?",
+      "answer": "- React it with a suitable **oxidising agent**.\n- Oxidation changes the primary alcohol into the **carboxylic acid**.",
+      "specification": "4.7.2.3",
+      "evidence": "2023 2H Q02.6",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "What products form when a carboxylic acid reacts with a carbonate?",
+      "answer": "- A **salt**.\n- **Water and carbon dioxide**.",
+      "specification": "4.7.2.4",
+      "evidence": "2023 2H Q02.8",
+      "number": 25
+    },
+    {
+      "marks": 2,
+      "prompt": "Distinguish a weak acid from a dilute acid.",
+      "answer": "- Weak means **partially ionised in water**.\n- Dilute means a low amount of dissolved acid per volume; these are different properties.",
+      "specification": "4.7.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 2,
+      "prompt": "Why does addition polymerisation produce no small by-product?",
+      "answer": "- Alkene monomers join by opening their double bonds.\n- All monomer atoms remain in the repeat units rather than being eliminated.",
+      "specification": "4.7.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 2,
+      "prompt": "What two functional groups are present in an amino acid?",
+      "answer": "An amino group, –NH₂, and a carboxyl group, –COOH.",
+      "specification": "4.7.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 2,
+      "prompt": "State DNA’s main shape and why it is important.",
+      "answer": "- Most DNA has two polymer chains in a **double helix**.\n- It carries **genetic instructions** for development and functioning.",
+      "specification": "4.7.3.4",
+      "evidence": "2023 2H Q08.9",
+      "number": 29
+    },
+    {
+      "marks": 2,
+      "prompt": "Name the monomer of starch and cellulose and explain why their properties can differ.",
+      "answer": "- Both use **glucose** monomers.\n- Different arrangements/linking produce different structures and properties.",
+      "specification": "4.7.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain fractional distillation of crude oil.",
+      "answer": "- Heat oil so hydrocarbons **evaporate**.\n- Vapours rise through a column cooler at the top.\n- They **condense at different heights** according to boiling ranges, separating fractions.",
+      "specification": "4.7.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why longer hydrocarbons have higher boiling points.",
+      "answer": "- Their molecules generally have stronger **intermolecular attractions**.\n- More energy is needed to separate the molecules.\n- Boiling overcomes these attractions rather than breaking covalent bonds inside molecules.",
+      "specification": "4.7.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe catalytic cracking and explain why it is useful.",
+      "answer": "- Vaporise a large hydrocarbon.\n- Pass vapour over a **hot catalyst** to break molecules into smaller ones.\n- Products supply high-demand smaller fuels and reactive alkene feedstocks.",
+      "specification": "4.7.1.4",
+      "evidence": "2022 2H Q04.6",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "Balance complete combustion of butane, C₄H₁₀.",
+      "answer": "- Match carbon and hydrogen: C₄H₁₀ → 4CO₂ +5H₂O.\n- This needs 6½O₂; double all coefficients.\n- **2C₄H₁₀ +13O₂ → 8CO₂ +10H₂O**.",
+      "specification": "4.7.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 3,
+      "prompt": "Balance complete combustion of ethanol, C₂H₅OH.",
+      "answer": "- Two carbons give 2CO₂; six hydrogens give 3H₂O.\n- Products contain seven oxygen atoms, one already supplied by ethanol.\n- **C₂H₅OH +3O₂ → 2CO₂ +3H₂O**.",
+      "specification": "4.7.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe fermentation conditions and products.",
+      "answer": "- Use **yeast and sugar solution**.\n- Keep conditions **warm and anaerobic**, avoiding temperatures that denature enzymes.\n- Products are **ethanol and carbon dioxide**.",
+      "specification": "4.7.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why equal-concentration ethanoic acid has a higher pH than hydrochloric acid.",
+      "answer": "- Ethanoic acid is **weak**, so it only partially ionises.\n- Hydrochloric acid ionises fully.\n- Ethanoic acid therefore has fewer hydrogen ions per volume and a higher pH.",
+      "specification": "4.7.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe ester formation from ethanol and ethanoic acid.",
+      "answer": "- React the alcohol and carboxylic acid, commonly with an acid catalyst.\n- They form **ethyl ethanoate and water**.\n- This is **condensation**, with water eliminated; the process can be reversible.",
+      "specification": "4.7.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 38
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe how to obtain the monomer from a displayed addition-polymer repeat unit.",
+      "answer": "- Identify the two carbon atoms in the repeating backbone.\n- Restore a **C=C double bond** between them and remove outward polymer links/brackets.\n- Keep every side group attached to its original carbon.",
+      "specification": "4.7.3.1",
+      "evidence": "2023 2H Q08.1–08.2: adapted representation task",
+      "number": 39
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how a polyester forms from a diol and a dicarboxylic acid.",
+      "answer": "- Each monomer has **two reactive functional groups**, allowing chain growth.\n- –OH and –COOH groups form **ester links**.\n- **Water is eliminated** as the monomers join.",
+      "specification": "4.7.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 40
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how amino acids form a polypeptide.",
+      "answer": "- Amino acids each contain **amino and carboxyl groups**.\n- These join by **condensation**, eliminating water.\n- Repeated joining forms a chain; different amino acids can form a protein.",
+      "specification": "4.7.3.3",
+      "evidence": "2023 2H Q08.4",
+      "number": 41
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare fractional distillation and cracking.",
+      "answer": "- Distillation is **physical separation** based on boiling ranges.\n- It uses evaporation and condensation without breaking hydrocarbon molecules.\n- Cracking is a **chemical reaction** breaking larger molecules into smaller ones.\n- High temperature with catalyst or steam produces useful smaller alkanes and alkenes.",
+      "specification": "4.7.1.2;4.7.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 42
+    },
+    {
+      "marks": 4,
+      "prompt": "Draw the poly(ethene) repeating-unit diagram and explain the essential features.",
+      "answer": "![Ethene opens its double bond to form a poly(ethene) unit.](../Diagrams/addition-polymer.svg)\n\n- A **single C–C backbone bond** replaces C=C.\n- Each carbon retains two hydrogens.\n- Outward single bonds pass through both brackets.\n- **n** outside the brackets shows repetition; no atoms are lost.",
+      "specification": "4.7.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 43
+    },
+    {
+      "marks": 4,
+      "prompt": "A polymer has repeat unit –CH₂–CH(CH₃)–. Identify its monomer and explain your reasoning.",
+      "answer": "- It is **propene**, CH₂=CHCH₃.\n- Restore a double bond between the two backbone carbons.\n- Retain the methyl side group on the second carbon.\n- The repeat unit contains all three carbons and six hydrogens from the monomer.",
+      "specification": "4.7.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 44
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare addition and condensation polymerisation.",
+      "answer": "- Addition generally uses **alkene monomers** with double bonds.\n- All atoms remain in the polymer, with **no small by-product**.\n- Condensation uses monomers with **two functional groups**.\n- Groups join while a small molecule, usually **water**, is eliminated.",
+      "specification": "4.7.3.1;4.7.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 45
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate making ethanol by fermentation compared with hydration of ethene.",
+      "answer": "- Fermentation can use renewable crop sugars with yeast under warm anaerobic conditions.\n- It is slower/batch-based and gives dilute ethanol needing separation; crop land can compete with food supply.\n- Hydration reacts ethene with steam under high temperature/pressure and a suitable acid catalyst.\n- It can be continuous and rapid, but usually uses finite petroleum feedstock and energy-intensive equipment.\n- Compare measured energy, purity, yield, feedstock costs and land impacts, including separation energy.\n- Choose a justified method for the stated situation rather than assuming renewable automatically means impact-free.",
+      "specification": "4.7.2.2;4.7.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 46
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how carbon compounds provide fuels and materials, using separation and chemical change.",
+      "answer": "- Crude oil contains many hydrocarbons and is separated into similar-boiling fractions by fractional distillation.\n- Smaller, less-viscous, more-flammable molecules are useful fuels.\n- Complete combustion releases energy and produces carbon dioxide and water.\n- Cracking converts less-demanded large hydrocarbons into smaller fuels and alkenes.\n- Alkene addition reactions and polymerisation produce many useful materials; petrochemical feedstocks also support solvents, lubricants and detergents.\n- Benefits must be balanced against finite supply, emissions and waste, using the context rather than treating all products as identical.",
+      "specification": "4.7.1;4.7.3",
+      "evidence": "Additional specification-based practice",
+      "number": 47
+    }
+  ]
+}

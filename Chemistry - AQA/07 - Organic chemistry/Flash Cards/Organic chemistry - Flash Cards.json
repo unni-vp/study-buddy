@@ -1,0 +1,360 @@
+{
+  "title": "Organic chemistry flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is a hydrocarbon?",
+      "back": [
+        "A compound containing carbon and hydrogen only."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the general formula of alkanes.",
+      "back": [
+        "CₙH₂ₙ₊₂."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the alkane C₃H₈.",
+      "back": [
+        "Propane."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the functional group of alkenes.",
+      "back": [
+        "C=C."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the alkene C₂H₄.",
+      "back": [
+        "Ethene."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What colour change identifies an alkene using bromine water?",
+      "back": [
+        "Orange to colourless."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the functional group of alcohols.",
+      "back": [
+        "–OH."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the functional group of carboxylic acids.",
+      "back": [
+        "–COOH."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the ester made from ethanol and ethanoic acid.",
+      "back": [
+        "Ethyl ethanoate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a monomer?",
+      "back": [
+        "A small molecule that can join others to form a polymer."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which small molecule is usually produced during condensation polymerisation?",
+      "back": [
+        "Water."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What are DNA’s monomers?",
+      "back": [
+        "Nucleotides."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What are protein’s monomers?",
+      "back": [
+        "Amino acids."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is crude oil a finite resource?",
+      "back": [
+        "It forms over **millions of years** from buried ancient biomass.",
+        "We use it much faster than it is replaced, so reserves are limited on human timescales."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is a crude-oil fraction usually not pure?",
+      "back": [
+        "It contains **several hydrocarbons**.",
+        "These have similar chain lengths and boiling ranges, rather than being one compound."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State how boiling point and viscosity change as hydrocarbon chain length increases.",
+      "back": [
+        "**Boiling point increases**.",
+        "**Viscosity increases**, so liquids flow less easily."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two useful product types from cracking.",
+      "back": [
+        "Smaller **alkanes** used as fuels.",
+        "**Alkenes** used as polymer monomers or chemical feedstocks."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Complete and balance C₁₂H₂₆ → C₈H₁₈ + _____.",
+      "back": [
+        "Remaining atoms: 12−8 = 4 carbons; 26−18 = 8 hydrogens.",
+        "**C₁₂H₂₆ → C₈H₁₈ + C₄H₈**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why an alkene is unsaturated.",
+      "back": [
+        "It contains a **carbon–carbon double bond**.",
+        "Atoms can add across it, giving greater hydrogen content than the starting alkene."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe hydrogen addition to ethene.",
+      "back": [
+        "React with hydrogen using a **heated nickel catalyst**.",
+        "C=C becomes C–C, producing **ethane**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe water addition to ethene.",
+      "back": [
+        "React with **steam**, using suitable acid catalyst, elevated temperature and pressure.",
+        "Product is **ethanol**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the structural change when bromine adds to ethene.",
+      "back": [
+        "C=C becomes a **single C–C bond**.",
+        "One bromine attaches to each carbon: **CH₂BrCH₂Br**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the reaction of ethanol with sodium.",
+      "back": [
+        "Sodium reacts to form the corresponding sodium compound.",
+        "**Hydrogen gas** is released."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How can ethanol be changed into ethanoic acid?",
+      "back": [
+        "React it with a suitable **oxidising agent**.",
+        "Oxidation changes the primary alcohol into the **carboxylic acid**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What products form when a carboxylic acid reacts with a carbonate?",
+      "back": [
+        "A **salt**.",
+        "**Water and carbon dioxide**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish a weak acid from a dilute acid.",
+      "back": [
+        "Weak means **partially ionised in water**.",
+        "Dilute means a low amount of dissolved acid per volume; these are different properties."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does addition polymerisation produce no small by-product?",
+      "back": [
+        "Alkene monomers join by opening their double bonds.",
+        "All monomer atoms remain in the repeat units rather than being eliminated."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What two functional groups are present in an amino acid?",
+      "back": [
+        "An amino group, –NH₂, and a carboxyl group, –COOH."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State DNA’s main shape and why it is important.",
+      "back": [
+        "Most DNA has two polymer chains in a **double helix**.",
+        "It carries **genetic instructions** for development and functioning."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Name the monomer of starch and cellulose and explain why their properties can differ.",
+      "back": [
+        "Both use **glucose** monomers.",
+        "Different arrangements/linking produce different structures and properties."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain fractional distillation of crude oil.",
+      "back": [
+        "Heat oil so hydrocarbons **evaporate**.",
+        "Vapours rise through a column cooler at the top.",
+        "They **condense at different heights** according to boiling ranges, separating fractions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why longer hydrocarbons have higher boiling points.",
+      "back": [
+        "Their molecules generally have stronger **intermolecular attractions**.",
+        "More energy is needed to separate the molecules.",
+        "Boiling overcomes these attractions rather than breaking covalent bonds inside molecules."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe catalytic cracking and explain why it is useful.",
+      "back": [
+        "Vaporise a large hydrocarbon.",
+        "Pass vapour over a **hot catalyst** to break molecules into smaller ones.",
+        "Products supply high-demand smaller fuels and reactive alkene feedstocks."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Balance complete combustion of butane, C₄H₁₀.",
+      "back": [
+        "Match carbon and hydrogen: C₄H₁₀ → 4CO₂ +5H₂O.",
+        "This needs 6½O₂; double all coefficients.",
+        "**2C₄H₁₀ +13O₂ → 8CO₂ +10H₂O**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Balance complete combustion of ethanol, C₂H₅OH.",
+      "back": [
+        "Two carbons give 2CO₂; six hydrogens give 3H₂O.",
+        "Products contain seven oxygen atoms, one already supplied by ethanol.",
+        "**C₂H₅OH +3O₂ → 2CO₂ +3H₂O**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe fermentation conditions and products.",
+      "back": [
+        "Use **yeast and sugar solution**.",
+        "Keep conditions **warm and anaerobic**, avoiding temperatures that denature enzymes.",
+        "Products are **ethanol and carbon dioxide**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why equal-concentration ethanoic acid has a higher pH than hydrochloric acid.",
+      "back": [
+        "Ethanoic acid is **weak**, so it only partially ionises.",
+        "Hydrochloric acid ionises fully.",
+        "Ethanoic acid therefore has fewer hydrogen ions per volume and a higher pH."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe ester formation from ethanol and ethanoic acid.",
+      "back": [
+        "React the alcohol and carboxylic acid, commonly with an acid catalyst.",
+        "They form **ethyl ethanoate and water**.",
+        "This is **condensation**, with water eliminated; the process can be reversible."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe how to obtain the monomer from a displayed addition-polymer repeat unit.",
+      "back": [
+        "Identify the two carbon atoms in the repeating backbone.",
+        "Restore a **C=C double bond** between them and remove outward polymer links/brackets.",
+        "Keep every side group attached to its original carbon."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a polyester forms from a diol and a dicarboxylic acid.",
+      "back": [
+        "Each monomer has **two reactive functional groups**, allowing chain growth.",
+        "–OH and –COOH groups form **ester links**.",
+        "**Water is eliminated** as the monomers join."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how amino acids form a polypeptide.",
+      "back": [
+        "Amino acids each contain **amino and carboxyl groups**.",
+        "These join by **condensation**, eliminating water.",
+        "Repeated joining forms a chain; different amino acids can form a protein."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare fractional distillation and cracking.",
+      "back": [
+        "Distillation is **physical separation** based on boiling ranges.",
+        "It uses evaporation and condensation without breaking hydrocarbon molecules.",
+        "Cracking is a **chemical reaction** breaking larger molecules into smaller ones.",
+        "High temperature with catalyst or steam produces useful smaller alkanes and alkenes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A polymer has repeat unit –CH₂–CH(CH₃)–. Identify its monomer and explain your reasoning.",
+      "back": [
+        "It is **propene**, CH₂=CHCH₃.",
+        "Restore a double bond between the two backbone carbons.",
+        "Retain the methyl side group on the second carbon.",
+        "The repeat unit contains all three carbons and six hydrogens from the monomer."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare addition and condensation polymerisation.",
+      "back": [
+        "Addition generally uses **alkene monomers** with double bonds.",
+        "All atoms remain in the polymer, with **no small by-product**.",
+        "Condensation uses monomers with **two functional groups**.",
+        "Groups join while a small molecule, usually **water**, is eliminated."
+      ]
+    }
+  ]
+}

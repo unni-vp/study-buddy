@@ -1,0 +1,450 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        370,
+        338,
+        352
+      ],
+      "column_heights": [
+        410,
+        432,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 370,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 370,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 400,
+          "y": 18,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 400,
+          "y": 237,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-organic-overview",
+      "title": "Organic chemistry"
+    },
+    {
+      "widths": [
+        322,
+        346,
+        392
+      ],
+      "column_heights": [
+        410,
+        388,
+        366
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 322,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 322,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 352,
+          "y": 18,
+          "width": 346,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 352,
+          "y": 237,
+          "width": 346,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 710,
+          "y": 18,
+          "width": 392,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 710,
+          "y": 215,
+          "width": 392,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-oil-and-cracking",
+      "title": "Crude oil, hydrocarbons and cracking"
+    },
+    {
+      "widths": [
+        330,
+        358,
+        372
+      ],
+      "column_heights": [
+        388,
+        388,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 330,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 358,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 215,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 730,
+          "y": 18,
+          "width": 372,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 730,
+          "y": 215,
+          "width": 372,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-alkenes-and-addition",
+      "title": "Alkenes and addition reactions"
+    },
+    {
+      "widths": [
+        358,
+        374,
+        328
+      ],
+      "column_heights": [
+        388,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 358,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 374,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 215,
+          "width": 374,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 259,
+          "width": 328,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-alcohols-acids-and-esters",
+      "title": "Alcohols, carboxylic acids and esters"
+    },
+    {
+      "widths": [
+        386,
+        322,
+        352
+      ],
+      "column_heights": [
+        636,
+        454,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 386,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 386,
+          "height": 455
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 416,
+          "y": 18,
+          "width": 322,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 416,
+          "y": 237,
+          "width": 322,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 215,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-chem-polymer",
+          "purpose": "Changes ethene C=C into a single-bond repeating unit with two external chain bonds, brackets and n, preserving all atoms."
+        }
+      ],
+      "slug": "04-polymer-structures",
+      "title": "Addition and condensation polymers"
+    },
+    {
+      "widths": [
+        302,
+        434,
+        324
+      ],
+      "column_heights": [
+        388,
+        388,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 302,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 434,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 215,
+          "width": 434,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 778,
+          "y": 18,
+          "width": 324,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 778,
+          "y": 215,
+          "width": 324,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-natural-polymers",
+      "title": "Amino acids and natural polymers"
+    }
+  ]
+}
