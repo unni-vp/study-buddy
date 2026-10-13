@@ -1,0 +1,122 @@
+{
+  "source": "Homeostasis and response - Revision Notes.md",
+  "groups": [
+    {
+      "id": "nerves",
+      "title": "Nervous control",
+      "description": "Trace reflexes and identify brain regions.",
+      "icon": "biology-nerve",
+      "sections": [
+        {
+          "heading": "Keeping internal conditions suitable"
+        },
+        {
+          "heading": "Nervous signals and reflexes"
+        },
+        {
+          "heading": "The brain and investigating it"
+        },
+        {
+          "heading": "Practical: reaction time"
+        }
+      ]
+    },
+    {
+      "id": "senses",
+      "title": "Eyes and temperature",
+      "description": "Link focusing, light responses and heat regulation to their mechanisms.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Eye structures and light"
+        },
+        {
+          "heading": "Accommodation and pupil responses"
+        },
+        {
+          "heading": "Correcting eyesight"
+        },
+        {
+          "heading": "Controlling body temperature"
+        }
+      ]
+    },
+    {
+      "id": "hormones",
+      "title": "Hormones and glucose",
+      "description": "Locate glands and explain feedback and diabetes.",
+      "icon": "biology-health",
+      "sections": [
+        {
+          "heading": "Endocrine glands and hormone messages"
+        },
+        {
+          "heading": "Blood glucose: insulin and glucagon"
+        },
+        {
+          "heading": "Diabetes and interpreting data"
+        },
+        {
+          "heading": "Adrenaline, thyroxine and feedback"
+        }
+      ]
+    },
+    {
+      "id": "kidneys",
+      "title": "Water balance and kidneys",
+      "description": "Explain filtration, ADH, urea and treatment choices.",
+      "icon": "biology-transport",
+      "sections": [
+        {
+          "heading": "Water balance and urea production"
+        },
+        {
+          "heading": "Kidney filtration and selective reabsorption"
+        },
+        {
+          "heading": "ADH and urine concentration"
+        },
+        {
+          "heading": "Kidney failure: dialysis and transplant"
+        }
+      ]
+    },
+    {
+      "id": "reproduction",
+      "title": "Reproduction and fertility",
+      "description": "Connect hormones, contraception and IVF.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Puberty and the menstrual cycle"
+        },
+        {
+          "heading": "Contraception: how methods work"
+        },
+        {
+          "heading": "Fertility hormones and IVF"
+        }
+      ]
+    },
+    {
+      "id": "plants",
+      "title": "Plant responses",
+      "description": "Explain unequal growth and practical evidence.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Plant responses to light and gravity"
+        },
+        {
+          "heading": "Practical: seedling growth responses"
+        },
+        {
+          "heading": "Useful plant hormones"
+        },
+        {
+          "heading": "Avoid these mistakes"
+        }
+      ]
+    }
+  ]
+}

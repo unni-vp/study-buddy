@@ -1,0 +1,462 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "June 2022 and 2023 Biology Paper 2 Higher were reviewed. Blood-glucose regulation/feedback appears in 2022 Q03.2–03.5 and 2023 Q05.1 (2/2 papers). Kidney filtration is assessed in 2022 Q05.5; ADH and thyroxine in 2023 Q05.2–05.3. Plant response/practical interpretation appears in 2022 Q09.1–09.6, and fertility/reproductive-hormone interpretation in 2023 Q07.1–07.3. Remaining questions are additional specification-based practice. Original wording, numerical data and tutor answers are used; the sample is not a ranked prediction.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What is homeostasis?",
+      "answer": "Regulation of internal conditions to maintain optimum conditions for function.",
+      "specification": "4.5.1",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the two parts of the central nervous system.",
+      "answer": "Brain and spinal cord.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "What is an effector?",
+      "answer": "A muscle or gland that brings about a response.",
+      "specification": "4.5.1",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "Which brain region coordinates balance and movement?",
+      "answer": "The cerebellum.",
+      "specification": "4.5.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the eye structure containing light receptors.",
+      "answer": "The retina.",
+      "specification": "4.5.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "Which gland produces insulin?",
+      "answer": "The pancreas.",
+      "specification": "4.5.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the glucose-storage substance in liver and muscle cells.",
+      "answer": "Glycogen.",
+      "specification": "4.5.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "Which organ converts toxic ammonia into urea?",
+      "answer": "The liver.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "Which gland releases ADH into the blood?",
+      "answer": "The pituitary.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 1,
+      "prompt": "Which reproductive hormone triggers ovulation?",
+      "answer": "LH.",
+      "specification": "4.5.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 1,
+      "prompt": "Which hormone stimulates sperm production?",
+      "answer": "Testosterone.",
+      "specification": "4.5.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 1,
+      "prompt": "What is positive phototropism?",
+      "answer": "Growth towards light.",
+      "specification": "4.5.4.1",
+      "evidence": "2022 2H Q09.4",
+      "number": 12
+    },
+    {
+      "marks": 1,
+      "prompt": "Which plant hormone controls fruit ripening?",
+      "answer": "Ethene.",
+      "specification": "4.5.4.1",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is homeostasis important for cells?",
+      "answer": "- It maintains suitable conditions such as **temperature and water levels**.\n- This keeps **enzymes and cell functions working efficiently**.",
+      "specification": "4.5.1",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Why are reflex responses useful?",
+      "answer": "- They are **rapid and automatic**, avoiding the delay of a conscious decision.\n- They can **protect the body from harm**, for example withdrawing from a hot surface.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "What happens at a synapse when one neurone signals to the next?",
+      "answer": "- A **chemical transmitter is released** and diffuses across the gap.\n- It binds to receptors on the next cell and can **start a new impulse**.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe one function of the cerebral cortex and one of the medulla.",
+      "answer": "- **Cerebral cortex:** conscious thought, memory or language.\n- **Medulla:** automatic control, such as heart rate or breathing.",
+      "specification": "4.5.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two difficulties in investigating or treating brain damage.",
+      "answer": "- Brain tissue is **delicate**, so procedures risk damaging healthy neurones or essential functions.\n- The brain is **complex and interconnected**, making it difficult to isolate a cause or treatment target.",
+      "specification": "4.5.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain how the iris responds to dim light.",
+      "answer": "- **Radial muscles contract** and circular muscles relax.\n- The pupil becomes **larger**, allowing more light to reach the retina.",
+      "specification": "4.5.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why a concave lens helps correct short-sightedness.",
+      "answer": "- Uncorrected distant rays focus **in front of the retina**.\n- The lens **diverges** the rays before the eye, moving the focus onto the retina.",
+      "specification": "4.5.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "Compare nervous and hormonal coordination.",
+      "answer": "- Nervous signals travel along **neurones as electrical impulses**, usually giving fast responses.\n- Hormones travel in the **blood to target cells**, generally giving slower, longer-lasting effects.",
+      "specification": "4.5.2.1;4.5.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why sweat cools the body only effectively when it evaporates.",
+      "answer": "- **Evaporation requires energy**.\n- That energy is transferred from the skin, reducing its thermal energy and cooling it.",
+      "specification": "4.5.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "Distinguish Type 1 from Type 2 diabetes.",
+      "answer": "- Type 1: **insufficient insulin production**.\n- Type 2: body cells respond inadequately to insulin, called **insulin resistance**.",
+      "specification": "4.5.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "What does glucagon do when blood glucose is low?",
+      "answer": "- It stimulates conversion of **liver glycogen into glucose**.\n- Glucose is released into blood, **raising blood glucose concentration**.",
+      "specification": "4.5.3.2",
+      "evidence": "2023 2H Q05.1",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "Why does body water concentration matter to cells?",
+      "answer": "- Differences in concentration affect **water movement by osmosis**.\n- Excessive gain or loss of water stops cells functioning efficiently.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is glucose normally present in kidney filtrate but absent from urine?",
+      "answer": "- Small glucose molecules are **filtered from blood**.\n- They are normally **selectively reabsorbed into the blood** before urine is excreted.",
+      "specification": "4.5.3.3",
+      "evidence": "2022 2H Q05.5: related filtration/reabsorption reasoning",
+      "number": 26
+    },
+    {
+      "marks": 2,
+      "prompt": "State the main role of FSH and the main role of LH in the menstrual cycle.",
+      "answer": "- **FSH:** stimulates egg/follicle maturation and oestrogen production.\n- **LH:** triggers **ovulation**, release of the egg.",
+      "specification": "4.5.3.4",
+      "evidence": "2023 2H Q07.1–07.3",
+      "number": 27
+    },
+    {
+      "marks": 2,
+      "prompt": "How does progesterone help maintain conditions after ovulation?",
+      "answer": "- It **maintains the uterine lining**.\n- It **inhibits FSH and LH**, reducing further egg maturation and release in that cycle.",
+      "specification": "4.5.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain one difference between a barrier contraceptive and a hormonal contraceptive.",
+      "answer": "- A barrier such as a condom **prevents sperm reaching an egg**.\n- A hormonal method can **suppress egg maturation or ovulation** by altering hormone signals.",
+      "specification": "4.5.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 2,
+      "prompt": "Why is placing an embryo in the uterus not the same as fertilisation in IVF?",
+      "answer": "- Fertilisation is the joining of egg and sperm, performed **in the laboratory** in IVF.\n- Embryo transfer happens **after fertilisation and initial cell divisions**.",
+      "specification": "4.5.3.6",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 2,
+      "prompt": "Give one use of auxin and one use of gibberellins.",
+      "answer": "- **Auxin:** rooting powder for cuttings, selective weedkiller or growth in tissue culture.\n- **Gibberellins:** end seed dormancy, promote flowering or increase fruit size.",
+      "specification": "4.5.4.2",
+      "evidence": "Additional specification-based practice",
+      "number": 31
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two control variables for a seedling phototropism experiment comparing one-sided and all-round light.",
+      "answer": "- Same **species, age and starting size** of seedlings.\n- Same **water supply and temperature**, with matched growing conditions.",
+      "specification": "4.5.4.1",
+      "evidence": "2022 2H Q09.1",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe the sequence from a hot-surface stimulus to withdrawing a hand in a spinal reflex.",
+      "answer": "- A receptor detects the stimulus and a **sensory neurone** carries an impulse to the spinal cord.\n- A **relay neurone** passes the signal to a motor neurone through synapses.\n- The **motor neurone** activates a muscle, which contracts to withdraw the hand.",
+      "specification": "4.5.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how the eye focuses on a near object.",
+      "answer": "- **Ciliary muscles contract**.\n- **Suspensory ligaments loosen**.\n- The lens becomes **thicker/more curved**, refracting light more strongly onto the retina.",
+      "specification": "4.5.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how the eye focuses on a distant object.",
+      "answer": "- **Ciliary muscles relax**.\n- **Suspensory ligaments become tight**.\n- The lens is pulled **thinner**, refracting light less strongly onto the retina.",
+      "specification": "4.5.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 35
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how vasodilation helps cool the body.",
+      "answer": "- Vessels supplying skin capillaries **widen**.\n- More blood flows **near the skin surface**.\n- More energy transfers to the environment, reducing body temperature.",
+      "specification": "4.5.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how shivering helps restore temperature when a person is cold.",
+      "answer": "- Skeletal muscles contract rapidly.\n- Muscle activity uses energy released by **respiration**.\n- Heat released increases body temperature; energy is transferred, not created.",
+      "specification": "4.5.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 37
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how insulin lowers blood glucose after a meal.",
+      "answer": "- The pancreas releases **insulin** when glucose is high.\n- Cells take up glucose from the blood.\n- Excess glucose is converted into **glycogen in liver and muscle cells**, lowering blood glucose.",
+      "specification": "4.5.3.2",
+      "evidence": "2022 2H Q03.2;2023 2H Q05.1",
+      "number": 38
+    },
+    {
+      "marks": 3,
+      "prompt": "Blood glucose and insulin are both above reference values. Explain why these data can suggest Type 2 rather than Type 1 diabetes.",
+      "answer": "- High glucose shows inadequate control.\n- High insulin means the pancreas is producing insulin, so insufficient production alone does not explain the data.\n- Cells may be **responding inadequately to insulin**, consistent with Type 2; use the supplied reference evidence rather than treating this as a diagnosis from one value.",
+      "specification": "4.5.3.2",
+      "evidence": "2022 2H Q03.5",
+      "number": 39
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how excess amino acids are prepared for safe excretion.",
+      "answer": "- They are **deaminated in the liver**, producing ammonia.\n- Ammonia is toxic, so it is converted to **urea**.\n- Urea travels in blood to the kidneys and is excreted in **urine**.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 40
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain the effect of reduced ADH release on kidney tubules and urine.",
+      "answer": "- Tubules become **less permeable to water**.\n- Less water is **reabsorbed into blood**.\n- A **larger volume of more dilute urine** is produced.",
+      "specification": "4.5.3.3",
+      "evidence": "2023 2H Q05.3",
+      "number": 41
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why dialysis fluid contains appropriate glucose and ion concentrations but little or no urea.",
+      "answer": "- Suitable useful-substance concentrations prevent unwanted **net loss of glucose and required ions**.\n- Low urea concentration maintains a **concentration gradient** from blood to dialysis fluid.\n- Urea therefore **diffuses out** across the partially permeable membrane.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 42
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how thyroxine levels are controlled by negative feedback.",
+      "answer": "- If thyroxine is too low, pituitary stimulation of the thyroid increases.\n- The thyroid releases more thyroxine, restoring the level.\n- A sufficiently high level **reduces further stimulation**, opposing the original deviation.",
+      "specification": "4.5.3.7",
+      "evidence": "Additional specification-based practice",
+      "number": 43
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why a shoot bends towards one-sided light.",
+      "answer": "- More **auxin** accumulates on the **shaded side**.\n- It stimulates greater **cell elongation** on that side.\n- Unequal growth bends the shoot **towards the light**.",
+      "specification": "4.5.4.1",
+      "evidence": "2022 2H Q09.3–09.6",
+      "number": 44
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why a horizontal root bends downwards in response to gravity.",
+      "answer": "- More auxin accumulates on the **lower side**.\n- In roots, the higher auxin level **inhibits elongation** there.\n- The upper side grows more, bending the root **towards gravity**.",
+      "specification": "4.5.4.1",
+      "evidence": "Additional specification-based practice",
+      "number": 45
+    },
+    {
+      "marks": 3,
+      "prompt": "Mean reaction time is 0.24 s without distraction and 0.30 s with distraction. Calculate percentage increase and state what the result suggests.",
+      "answer": "- Increase = 0.30 − 0.24 = **0.06 s**.\n- Percentage increase = 0.06/0.24 ×100 = **25%**.\n- Reaction was slower with this distraction in the sample, subject to controls and uncertainty.",
+      "specification": "4.5.2.1;MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 46
+    },
+    {
+      "marks": 3,
+      "prompt": "An IVF sample has 18 live births from 60 treatment attempts. Calculate live-birth rate and give one reason not to compare it uncritically with another clinic.",
+      "answer": "- Rate = 18/60 ×100 = **30%**.\n- Compare the same outcome definition, not pregnancy rate versus live-birth rate.\n- Differences such as age or patient selection can affect the comparison.",
+      "specification": "4.5.3.6;MS1c",
+      "evidence": "Additional specification-based practice",
+      "number": 47
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe a valid ruler-drop comparison of reaction time with and without a distraction.",
+      "answer": "- Start with ruler zero at the same thumb/finger position and release at an unpredictable time.\n- Record catch distances in both conditions and convert to times using a suitable table.\n- Repeat, keep ruler, hand, release setup and posture consistent, and reduce anticipation/practice effects.\n- Compare mean times, considering variation and using a safe, defined distraction.",
+      "specification": "4.5.2.1;RPA7",
+      "evidence": "Additional specification-based practice",
+      "number": 48
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how a low body-water level produces a smaller volume of concentrated urine.",
+      "answer": "- Concentrated blood leads to **more ADH release from the pituitary**.\n- ADH increases kidney-tubule **water permeability**.\n- More water is **reabsorbed into blood**.\n- Less water remains in urine, so urine volume falls and concentration rises.",
+      "specification": "4.5.3.3",
+      "evidence": "2023 2H Q05.3: opposite-condition application",
+      "number": 49
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how FSH, oestrogen and LH interact to lead to ovulation.",
+      "answer": "- **FSH** stimulates follicle/egg maturation and oestrogen production.\n- Oestrogen rebuilds the uterine lining and inhibits further FSH release.\n- A sufficiently high oestrogen level stimulates an **LH surge** around mid-cycle.\n- LH triggers **release of the egg**, or ovulation.",
+      "specification": "4.5.3.4",
+      "evidence": "Additional specification-based practice",
+      "number": 50
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain adrenaline’s role in a fear or stress response.",
+      "answer": "- Adrenal glands release **adrenaline**.\n- It increases **heart rate**.\n- Delivery of oxygen and glucose to brain and muscles increases.\n- This supports respiration and activity for **fight or flight**.",
+      "specification": "4.5.3.7",
+      "evidence": "Additional specification-based practice",
+      "number": 51
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how to investigate phototropism using newly germinated seedlings.",
+      "answer": "- Use same-species seedlings of similar age and size, with one-sided light and a suitable all-round-light control.\n- Keep water, temperature and other growing conditions comparable; use several seedlings.\n- Record starting and later lengths plus **labelled biological drawings** of growth direction over the same interval.\n- Repeat and compare bending/elongation, using controls to distinguish directional light from other influences.",
+      "specification": "4.5.4.1;RPA8",
+      "evidence": "2022 2H Q09.1–09.3",
+      "number": 52
+    },
+    {
+      "marks": 4,
+      "prompt": "Evaluate hormonal contraception and condoms for preventing pregnancy and reducing infection transmission.",
+      "answer": "- Hormonal methods can suppress maturation/ovulation and may offer long-lasting protection, depending on the method.\n- They may have side effects or require correct scheduled use, and **do not protect against STIs**.\n- Condoms prevent sperm reaching an egg and **reduce STI transmission**, but correct use is important.\n- Compare evidence on effectiveness, duration and individual priorities; there is no single biological measurement that decides every personal choice.",
+      "specification": "4.5.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 53
+    },
+    {
+      "marks": 6,
+      "prompt": "Compare kidney dialysis with a kidney transplant as treatments for kidney failure. Give a balanced judgement using relevant circumstances.",
+      "answer": "- Dialysis removes urea through a **partially permeable membrane** into suitable fluid. It can sustain life without a donor or immediate transplant surgery.\n- It needs repeated sessions, can restrict everyday life and does not continuously reproduce every healthy-kidney function.\n- A successful transplant can restore more normal regulation and reduce reliance on dialysis.\n- It requires a suitable donor and surgery. **Rejection** is a risk, so immune-suppressing medicines are needed, increasing infection susceptibility.\n- Donor availability, the person’s health and likely outcomes affect which option is feasible. Dialysis can be a bridge to transplant or a continuing treatment.\n- A supported judgement balances these benefits and burdens for the stated patient rather than saying transplantation is always possible or always best.",
+      "specification": "4.5.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 54
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how insulin and glucagon maintain blood glucose by negative feedback after a meal and during a period without food.",
+      "answer": "- The pancreas monitors blood glucose. After a meal raises it, **insulin** is released.\n- Cells take up glucose; liver and muscle cells convert excess into **glycogen** for storage.\n- Blood glucose decreases towards its suitable level, reducing the insulin response.\n- If glucose becomes too low without food, the pancreas releases **glucagon**.\n- Glucagon stimulates conversion of **liver glycogen into glucose**, which is released into the blood.\n- Glucose rises and the corrective response reduces. Each response **opposes the original change**, which makes this negative feedback.",
+      "specification": "4.5.3.2",
+      "evidence": "2022 2H Q03.2;2023 2H Q05.1",
+      "number": 55
+    },
+    {
+      "marks": 6,
+      "prompt": "Describe IVF treatment and evaluate one important reason for limiting the number of embryos transferred.",
+      "answer": "- Hormone treatment using FSH/LH supports maturation of **several eggs**.\n- Eggs are collected and **fertilised with sperm in a laboratory**.\n- Fertilised eggs divide into embryos; an embryo is transferred to the uterus to allow implantation. Sometimes two are transferred when appropriate.\n- IVF offers a chance of pregnancy but has uncertain success and physical, emotional and financial burdens.\n- More than one transferred embryo can increase the chance of **multiple pregnancy**, with risks to parent and babies.\n- Limiting transfer can reduce these risks; the decision balances likely outcomes and safety using the relevant evidence. Fertilisation and embryo transfer are separate stages.",
+      "specification": "4.5.3.6",
+      "evidence": "Additional specification-based practice",
+      "number": 56
+    },
+    {
+      "marks": 6,
+      "prompt": "Plan an investigation of the effect of gravity on newly germinated seedlings, showing how light and other factors would be controlled.",
+      "answer": "- Select several newly germinated seedlings of the same species, similar age and starting size.\n- Place a test group **horizontally** and use suitable upright controls, or interpret an appropriate rotating-control setup if supplied.\n- Keep the plants **in darkness** to avoid a competing directional light response, with matched water, temperature, medium and duration.\n- Record initial and later root/shoot lengths and make **labelled drawings** showing direction and location of bending.\n- Repeat using more seedlings. Compare growth direction and length changes, recognising that roots normally bend towards gravity and shoots away.\n- Link bending to unequal growth from auxin distribution, with different auxin effects in roots and shoots. Controls and repeated observations help attribute the pattern to gravity rather than differences in growth conditions.",
+      "specification": "4.5.4.1;RPA8",
+      "evidence": "Additional specification-based practice",
+      "number": 57
+    }
+  ]
+}

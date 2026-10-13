@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8461, Higher tier",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "coverage": [
+    "4.5.1",
+    "4.5.2.1–4.5.2.4",
+    "4.5.3.1–4.5.3.7",
+    "4.5.4.1–4.5.4.2"
+  ],
+  "coverage_checklist": {
+    "4.5.1": "Nervous control intro: definition, conditions, receptor/centre/effector, feedback",
+    "4.5.2.1": "Signals/reflex arc/synapses and reaction-time practical",
+    "4.5.2.2": "Brain diagram/functions and benefits/risks of investigation",
+    "4.5.2.3": "Eye diagram, accommodation, pupil response, defects/corrections and technology",
+    "4.5.2.4": "Thermoregulation: monitoring, vessel diameter, evaporation and shivering",
+    "4.5.3.1–4.5.3.2": "Gland locations, endocrine comparison, insulin/glucagon and diabetes/data",
+    "4.5.3.3": "Water/osmosis, losses, deamination/urea, filtration/reabsorption, ADH and dialysis/transplant",
+    "4.5.3.4–4.5.3.6": "Puberty, cycle interactions/graphs, contraception/evaluation and fertility/IVF",
+    "4.5.3.7": "Adrenaline/thyroxine roles and feedback",
+    "4.5.4.1–4.5.4.2": "Auxin/tropisms/practical and gibberellin/ethene uses"
+  },
+  "practicals": [
+    7,
+    8
+  ],
+  "mindmaps": [
+    "00-homeostasis-overview",
+    "01-nervous-control",
+    "02-eyes-and-vision",
+    "03-temperature-control",
+    "04-hormones-and-glucose",
+    "05-kidneys-and-water",
+    "06-menstrual-cycle",
+    "07-contraception-and-ivf",
+    "08-plant-hormones"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Homeostasis and response - Questions and Answers.md",
+    "deck": "Flash Cards/Homeostasis and response - Flash Cards.json",
+    "count": 53,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

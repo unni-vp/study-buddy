@@ -1,7 +1,7 @@
 """Author complete resources for previously empty science topics."""
 from pathlib import Path
 from datetime import date
-import json,re,subprocess
+import json,re,subprocess,os
 from copy import deepcopy
 from biology_readable_mindmaps import prepare_panels,build_map
 from subject_explanatory_figures import drawing as existing_drawing,PURPOSES as existing_purposes
@@ -69,7 +69,9 @@ def write(subject,n,data):
         svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" font-family="Segoe UI, Arial, sans-serif"><title>{PURPOSES.get(kind,existing_purposes.get(kind,kind))}</title><rect width="100%" height="100%" fill="white"/>{content}</svg>'
         (topic/'Diagrams'/(name+'.svg')).write_text(svg,encoding='utf-8')
     node=Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe'
-    subprocess.run([str(node),str(ROOT/'scripts/render_mindmap_previews.cjs'),*paths],cwd=ROOT,check=True)
+    browser_temp=ROOT/'tmp/browser-temp';browser_temp.mkdir(parents=True,exist_ok=True)
+    runtime_env=dict(os.environ,TEMP=str(browser_temp),TMP=str(browser_temp))
+    subprocess.run([str(node),str(ROOT/'scripts/render_mindmap_previews.cjs'),*paths],cwd=ROOT,env=runtime_env,check=True)
     (topic/'mindmap-layout-review.json').write_text(json.dumps(dict(reviewed=date.today().isoformat(),generator='scripts/science_completion.py',style='Approved readable panels, black text, consistent headings, dividers, content-measured layout',print=dict(orientation='A4 landscape',width_mm=277,body_pt=11.21),maps=records),indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
     if data.get('cards'):
         cards=[dict(category=c,front=f,back=b if isinstance(b,list) else [b]) for c,f,b in data['cards']]

@@ -1,0 +1,443 @@
+{
+  "title": "Homeostasis and response flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is homeostasis?",
+      "back": [
+        "Regulation of internal conditions to maintain optimum conditions for function."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the two parts of the central nervous system.",
+      "back": [
+        "Brain and spinal cord."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is an effector?",
+      "back": [
+        "A muscle or gland that brings about a response."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which brain region coordinates balance and movement?",
+      "back": [
+        "The cerebellum."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the eye structure containing light receptors.",
+      "back": [
+        "The retina."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gland produces insulin?",
+      "back": [
+        "The pancreas."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the glucose-storage substance in liver and muscle cells.",
+      "back": [
+        "Glycogen."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which organ converts toxic ammonia into urea?",
+      "back": [
+        "The liver."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which gland releases ADH into the blood?",
+      "back": [
+        "The pituitary."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which reproductive hormone triggers ovulation?",
+      "back": [
+        "LH."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which hormone stimulates sperm production?",
+      "back": [
+        "Testosterone."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is positive phototropism?",
+      "back": [
+        "Growth towards light."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which plant hormone controls fruit ripening?",
+      "back": [
+        "Ethene."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is homeostasis important for cells?",
+      "back": [
+        "It maintains suitable conditions such as **temperature and water levels**.",
+        "This keeps **enzymes and cell functions working efficiently**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why are reflex responses useful?",
+      "back": [
+        "They are **rapid and automatic**, avoiding the delay of a conscious decision.",
+        "They can **protect the body from harm**, for example withdrawing from a hot surface."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What happens at a synapse when one neurone signals to the next?",
+      "back": [
+        "A **chemical transmitter is released** and diffuses across the gap.",
+        "It binds to receptors on the next cell and can **start a new impulse**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe one function of the cerebral cortex and one of the medulla.",
+      "back": [
+        "**Cerebral cortex:** conscious thought, memory or language.",
+        "**Medulla:** automatic control, such as heart rate or breathing."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two difficulties in investigating or treating brain damage.",
+      "back": [
+        "Brain tissue is **delicate**, so procedures risk damaging healthy neurones or essential functions.",
+        "The brain is **complex and interconnected**, making it difficult to isolate a cause or treatment target."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how the iris responds to dim light.",
+      "back": [
+        "**Radial muscles contract** and circular muscles relax.",
+        "The pupil becomes **larger**, allowing more light to reach the retina."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a concave lens helps correct short-sightedness.",
+      "back": [
+        "Uncorrected distant rays focus **in front of the retina**.",
+        "The lens **diverges** the rays before the eye, moving the focus onto the retina."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Compare nervous and hormonal coordination.",
+      "back": [
+        "Nervous signals travel along **neurones as electrical impulses**, usually giving fast responses.",
+        "Hormones travel in the **blood to target cells**, generally giving slower, longer-lasting effects."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why sweat cools the body only effectively when it evaporates.",
+      "back": [
+        "**Evaporation requires energy**.",
+        "That energy is transferred from the skin, reducing its thermal energy and cooling it."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish Type 1 from Type 2 diabetes.",
+      "back": [
+        "Type 1: **insufficient insulin production**.",
+        "Type 2: body cells respond inadequately to insulin, called **insulin resistance**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does glucagon do when blood glucose is low?",
+      "back": [
+        "It stimulates conversion of **liver glycogen into glucose**.",
+        "Glucose is released into blood, **raising blood glucose concentration**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does body water concentration matter to cells?",
+      "back": [
+        "Differences in concentration affect **water movement by osmosis**.",
+        "Excessive gain or loss of water stops cells functioning efficiently."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is glucose normally present in kidney filtrate but absent from urine?",
+      "back": [
+        "Small glucose molecules are **filtered from blood**.",
+        "They are normally **selectively reabsorbed into the blood** before urine is excreted."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the main role of FSH and the main role of LH in the menstrual cycle.",
+      "back": [
+        "**FSH:** stimulates egg/follicle maturation and oestrogen production.",
+        "**LH:** triggers **ovulation**, release of the egg."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does progesterone help maintain conditions after ovulation?",
+      "back": [
+        "It **maintains the uterine lining**.",
+        "It **inhibits FSH and LH**, reducing further egg maturation and release in that cycle."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one difference between a barrier contraceptive and a hormonal contraceptive.",
+      "back": [
+        "A barrier such as a condom **prevents sperm reaching an egg**.",
+        "A hormonal method can **suppress egg maturation or ovulation** by altering hormone signals."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is placing an embryo in the uterus not the same as fertilisation in IVF?",
+      "back": [
+        "Fertilisation is the joining of egg and sperm, performed **in the laboratory** in IVF.",
+        "Embryo transfer happens **after fertilisation and initial cell divisions**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one use of auxin and one use of gibberellins.",
+      "back": [
+        "**Auxin:** rooting powder for cuttings, selective weedkiller or growth in tissue culture.",
+        "**Gibberellins:** end seed dormancy, promote flowering or increase fruit size."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two control variables for a seedling phototropism experiment comparing one-sided and all-round light.",
+      "back": [
+        "Same **species, age and starting size** of seedlings.",
+        "Same **water supply and temperature**, with matched growing conditions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe the sequence from a hot-surface stimulus to withdrawing a hand in a spinal reflex.",
+      "back": [
+        "A receptor detects the stimulus and a **sensory neurone** carries an impulse to the spinal cord.",
+        "A **relay neurone** passes the signal to a motor neurone through synapses.",
+        "The **motor neurone** activates a muscle, which contracts to withdraw the hand."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how the eye focuses on a near object.",
+      "back": [
+        "**Ciliary muscles contract**.",
+        "**Suspensory ligaments loosen**.",
+        "The lens becomes **thicker/more curved**, refracting light more strongly onto the retina."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how the eye focuses on a distant object.",
+      "back": [
+        "**Ciliary muscles relax**.",
+        "**Suspensory ligaments become tight**.",
+        "The lens is pulled **thinner**, refracting light less strongly onto the retina."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how vasodilation helps cool the body.",
+      "back": [
+        "Vessels supplying skin capillaries **widen**.",
+        "More blood flows **near the skin surface**.",
+        "More energy transfers to the environment, reducing body temperature."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how shivering helps restore temperature when a person is cold.",
+      "back": [
+        "Skeletal muscles contract rapidly.",
+        "Muscle activity uses energy released by **respiration**.",
+        "Heat released increases body temperature; energy is transferred, not created."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how insulin lowers blood glucose after a meal.",
+      "back": [
+        "The pancreas releases **insulin** when glucose is high.",
+        "Cells take up glucose from the blood.",
+        "Excess glucose is converted into **glycogen in liver and muscle cells**, lowering blood glucose."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Blood glucose and insulin are both above reference values. Explain why these data can suggest Type 2 rather than Type 1 diabetes.",
+      "back": [
+        "High glucose shows inadequate control.",
+        "High insulin means the pancreas is producing insulin, so insufficient production alone does not explain the data.",
+        "Cells may be **responding inadequately to insulin**, consistent with Type 2; use the supplied reference evidence rather than treating this as a diagnosis from one value."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how excess amino acids are prepared for safe excretion.",
+      "back": [
+        "They are **deaminated in the liver**, producing ammonia.",
+        "Ammonia is toxic, so it is converted to **urea**.",
+        "Urea travels in blood to the kidneys and is excreted in **urine**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the effect of reduced ADH release on kidney tubules and urine.",
+      "back": [
+        "Tubules become **less permeable to water**.",
+        "Less water is **reabsorbed into blood**.",
+        "A **larger volume of more dilute urine** is produced."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why dialysis fluid contains appropriate glucose and ion concentrations but little or no urea.",
+      "back": [
+        "Suitable useful-substance concentrations prevent unwanted **net loss of glucose and required ions**.",
+        "Low urea concentration maintains a **concentration gradient** from blood to dialysis fluid.",
+        "Urea therefore **diffuses out** across the partially permeable membrane."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how thyroxine levels are controlled by negative feedback.",
+      "back": [
+        "If thyroxine is too low, pituitary stimulation of the thyroid increases.",
+        "The thyroid releases more thyroxine, restoring the level.",
+        "A sufficiently high level **reduces further stimulation**, opposing the original deviation."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a shoot bends towards one-sided light.",
+      "back": [
+        "More **auxin** accumulates on the **shaded side**.",
+        "It stimulates greater **cell elongation** on that side.",
+        "Unequal growth bends the shoot **towards the light**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a horizontal root bends downwards in response to gravity.",
+      "back": [
+        "More auxin accumulates on the **lower side**.",
+        "In roots, the higher auxin level **inhibits elongation** there.",
+        "The upper side grows more, bending the root **towards gravity**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Mean reaction time is 0.24 s without distraction and 0.30 s with distraction. Calculate percentage increase and state what the result suggests.",
+      "back": [
+        "Increase = 0.30 − 0.24 = **0.06 s**.",
+        "Percentage increase = 0.06/0.24 ×100 = **25%**.",
+        "Reaction was slower with this distraction in the sample, subject to controls and uncertainty."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An IVF sample has 18 live births from 60 treatment attempts. Calculate live-birth rate and give one reason not to compare it uncritically with another clinic.",
+      "back": [
+        "Rate = 18/60 ×100 = **30%**.",
+        "Compare the same outcome definition, not pregnancy rate versus live-birth rate.",
+        "Differences such as age or patient selection can affect the comparison."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe a valid ruler-drop comparison of reaction time with and without a distraction.",
+      "back": [
+        "Start with ruler zero at the same thumb/finger position and release at an unpredictable time.",
+        "Record catch distances in both conditions and convert to times using a suitable table.",
+        "Repeat, keep ruler, hand, release setup and posture consistent, and reduce anticipation/practice effects.",
+        "Compare mean times, considering variation and using a safe, defined distraction."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how a low body-water level produces a smaller volume of concentrated urine.",
+      "back": [
+        "Concentrated blood leads to **more ADH release from the pituitary**.",
+        "ADH increases kidney-tubule **water permeability**.",
+        "More water is **reabsorbed into blood**.",
+        "Less water remains in urine, so urine volume falls and concentration rises."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how FSH, oestrogen and LH interact to lead to ovulation.",
+      "back": [
+        "**FSH** stimulates follicle/egg maturation and oestrogen production.",
+        "Oestrogen rebuilds the uterine lining and inhibits further FSH release.",
+        "A sufficiently high oestrogen level stimulates an **LH surge** around mid-cycle.",
+        "LH triggers **release of the egg**, or ovulation."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain adrenaline’s role in a fear or stress response.",
+      "back": [
+        "Adrenal glands release **adrenaline**.",
+        "It increases **heart rate**.",
+        "Delivery of oxygen and glucose to brain and muscles increases.",
+        "This supports respiration and activity for **fight or flight**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe how to investigate phototropism using newly germinated seedlings.",
+      "back": [
+        "Use same-species seedlings of similar age and size, with one-sided light and a suitable all-round-light control.",
+        "Keep water, temperature and other growing conditions comparable; use several seedlings.",
+        "Record starting and later lengths plus **labelled biological drawings** of growth direction over the same interval.",
+        "Repeat and compare bending/elongation, using controls to distinguish directional light from other influences."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Evaluate hormonal contraception and condoms for preventing pregnancy and reducing infection transmission.",
+      "back": [
+        "Hormonal methods can suppress maturation/ovulation and may offer long-lasting protection, depending on the method.",
+        "They may have side effects or require correct scheduled use, and **do not protect against STIs**.",
+        "Condoms prevent sperm reaching an egg and **reduce STI transmission**, but correct use is important.",
+        "Compare evidence on effectiveness, duration and individual priorities; there is no single biological measurement that decides every personal choice."
+      ]
+    }
+  ]
+}

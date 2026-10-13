@@ -1,0 +1,684 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        306,
+        350,
+        404
+      ],
+      "column_heights": [
+        476,
+        454,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 306,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 306,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 336,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 336,
+          "y": 259,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 698,
+          "y": 18,
+          "width": 404,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 698,
+          "y": 281,
+          "width": 404,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-homeostasis-overview",
+      "title": "Homeostasis overview"
+    },
+    {
+      "widths": [
+        366,
+        342,
+        352
+      ],
+      "column_heights": [
+        655,
+        520,
+        542
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 366,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 366,
+          "height": 452
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 396,
+          "y": 18,
+          "width": 342,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 396,
+          "y": 303,
+          "width": 342,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 295
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-reflex",
+          "purpose": "Shows sensory, relay and motor routing through the spinal cord rather than a conscious decision path."
+        }
+      ],
+      "slug": "01-nervous-control",
+      "title": "Nervous control"
+    },
+    {
+      "widths": [
+        386,
+        322,
+        352
+      ],
+      "column_heights": [
+        454,
+        432,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 386,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 386,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 416,
+          "y": 18,
+          "width": 322,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 416,
+          "y": 215,
+          "width": 322,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-eyes-and-vision",
+      "title": "Eyes and vision"
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        498,
+        476,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 378,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 259,
+          "width": 330,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-temperature-control",
+      "title": "Temperature control"
+    },
+    {
+      "widths": [
+        290,
+        430,
+        340
+      ],
+      "column_heights": [
+        564,
+        598,
+        542
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 325,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 430,
+          "height": 395
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 425,
+          "width": 430,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 762,
+          "y": 18,
+          "width": 340,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 762,
+          "y": 281,
+          "width": 340,
+          "height": 295
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "remaining-insulin",
+          "purpose": "Connects high glucose, insulin release, cellular uptake/storage and reduced hormone release in negative feedback."
+        }
+      ],
+      "slug": "04-hormones-and-glucose",
+      "title": "Hormones and blood glucose"
+    },
+    {
+      "widths": [
+        290,
+        438,
+        332
+      ],
+      "column_heights": [
+        520,
+        623,
+        564
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 438,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 237,
+          "width": 438,
+          "height": 420
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 770,
+          "y": 18,
+          "width": 332,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 770,
+          "y": 325,
+          "width": 332,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "remaining-adh",
+          "purpose": "Connects concentrated blood to increased ADH, water permeability/reabsorption and the resulting urine changes."
+        }
+      ],
+      "slug": "05-kidneys-and-water",
+      "title": "Kidneys and water balance"
+    },
+    {
+      "widths": [
+        378,
+        330,
+        352
+      ],
+      "column_heights": [
+        476,
+        388,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 378,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 378,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 408,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 408,
+          "y": 237,
+          "width": 330,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "06-menstrual-cycle",
+      "title": "Menstrual-cycle hormones"
+    },
+    {
+      "widths": [
+        386,
+        346,
+        328
+      ],
+      "column_heights": [
+        498,
+        498,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 386,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 386,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 416,
+          "y": 18,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 416,
+          "y": 281,
+          "width": 346,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 259,
+          "width": 328,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "07-contraception-and-ivf",
+      "title": "Contraception and fertility"
+    },
+    {
+      "widths": [
+        422,
+        290,
+        348
+      ],
+      "column_heights": [
+        665,
+        608,
+        520
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 422,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 422,
+          "height": 440
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 452,
+          "y": 18,
+          "width": 290,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 452,
+          "y": 325,
+          "width": 290,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 754,
+          "y": 18,
+          "width": 348,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 754,
+          "y": 259,
+          "width": 348,
+          "height": 295
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-phototropism",
+          "purpose": "Shows asymmetric shoot elongation bending towards one-sided light, with shaded-side auxin explicitly identified."
+        }
+      ],
+      "slug": "08-plant-hormones",
+      "title": "Plant hormones and responses"
+    }
+  ]
+}
