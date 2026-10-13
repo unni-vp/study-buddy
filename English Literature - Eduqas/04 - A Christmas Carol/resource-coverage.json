@@ -1,0 +1,33 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C720QS Component 2; local official PDF pages 10–12",
+  "resource_scope": "Revision notes only",
+  "coverage": [
+    "Five staves: events, meaning, quotation methods, structural role",
+    "Scrooge, Marley, three spirits, Cratchits, Fred, Fezziwig, Fan and Belle",
+    "Poverty, responsibility, family, redemption, Christmas, supernatural and time",
+    "1843, Poor Law, Malthus and Dickens's experiences",
+    "Narrator, novella, ghost story, staves, imagery and contrasts",
+    "Source-based response to extract and wider text; AO1/AO2/AO3"
+  ],
+  "sources": [
+    {
+      "title": "Local official Eduqas specification",
+      "file": "../00 - Specification/Eduqas-C720QS-specification.pdf",
+      "pages": [
+        10,
+        12
+      ]
+    },
+    {
+      "title": "Dickens's original novella: quotation verification",
+      "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+      "use": "Public-domain primary text; short anchors verified in original prose"
+    },
+    {
+      "title": "BBC contextual background",
+      "url": "https://downloads.bbc.co.uk/schoolradio/pdfs/achristmascarol_notes_alt.pdf",
+      "use": "Publication and Dickens background only; original analysis in notes"
+    }
+  ]
+}
