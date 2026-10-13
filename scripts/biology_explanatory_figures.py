@@ -72,7 +72,7 @@ def enzyme(w):
             s+=arrow(x,59,x,48,ORANGE)
         s+=label(x,16,['Substrate','Bound','Products'][i],'middle')
         if i<2:s+=arrow(x+38,86,x+step-38,86)
-    s+=label(w/2,127,'Active site fits; enzyme is reused','middle')
+    s+=label(w/2,127,'Enzyme unchanged and reused','middle')
     return s,138
 
 def circulation(w):
@@ -80,11 +80,11 @@ def circulation(w):
     left=65;right=w-65;mid=w/2;bw=122
     s=box(mid-43,0,86,27,'Body',RED)+box(mid-44,209,88,27,'Lungs',BLUE)
     for x,y,value,c in [(left,67,'Right atrium',BLUE),(left,117,'Right ventricle',BLUE),(right,67,'Left ventricle',RED),(right,117,'Left atrium',RED)]:s+=box(x-bw/2,y,bw,27,value,c)
-    s+=arrow(mid-45,13,left,13,BLUE)+arrow(left,13,left,61,BLUE)+label(4,43,'Vena cava')
-    s+=arrow(left,96,left,113,BLUE)+arrow(left,149,left,223,BLUE)+arrow(left,223,mid-49,223,BLUE)
-    s+=label(4,171,'Pulmonary')+label(4,191,'artery')
-    s+=arrow(mid+49,223,right,223,RED)+arrow(right,223,right,150,RED)
-    s+=label(w-4,171,'Pulmonary','end')+label(w-4,191,'vein','end')
+    s+=f'<path d="M{mid-45} 13H115V50H{left}" stroke="{BLUE}" stroke-width="2.3" fill="none"/>'+arrow(left,50,left,61,BLUE)+label(4,43,'Vena cava')
+    s+=arrow(left,96,left,113,BLUE)+f'<path d="M{left} 149V157H115V223" stroke="{BLUE}" stroke-width="2.3" fill="none"/>'+arrow(115,223,mid-49,223,BLUE)
+    s+=label(4,171,'Pulmonary')+label(4,195,'artery')
+    s+=arrow(mid+49,223,w-115,223,RED)+f'<path d="M{w-115} 223V157H{right}" stroke="{RED}" stroke-width="2.3" fill="none"/>'+arrow(right,157,right,150,RED)
+    s+=label(w-4,171,'Pulmonary','end')+label(w-4,195,'vein','end')
     s+=arrow(right,115,right,99,RED)+arrow(right,62,right,13,RED)+arrow(right,13,mid+45,13,RED)+label(w-4,43,'Aorta','end')
     s+=f'<path d="M{left+46} 35H{right-46}" stroke="#aab9c2" stroke-width="1" stroke-dasharray="3 3"/>' if w>370 else ''
     s+=label(0,263,'Blue: lower oxygen')+label(w,263,'Red: higher oxygen','end')

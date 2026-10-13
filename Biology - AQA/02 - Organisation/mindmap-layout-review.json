@@ -77,19 +77,20 @@
           "height": 321
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": []
     },
     {
       "slug": "01-digestion-and-enzymes",
       "widths": [
-        330,
-        322,
-        408
+        302,
+        406,
+        352
       ],
       "column_heights": [
-        603,
-        590,
-        568
+        647,
+        702,
+        656
       ],
       "panels": [
         {
@@ -98,68 +99,75 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 330,
-          "height": 321
+          "width": 302,
+          "height": 365
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 351,
-          "width": 330,
+          "y": 395,
+          "width": 302,
           "height": 286
         },
         {
           "source_panels": [
             2
           ],
-          "x": 360,
+          "x": 332,
           "y": 18,
-          "width": 322,
-          "height": 308
+          "width": 406,
+          "height": 420
         },
         {
           "source_panels": [
             3
           ],
-          "x": 360,
-          "y": 338,
-          "width": 322,
+          "x": 332,
+          "y": 450,
+          "width": 406,
           "height": 286
         },
         {
           "source_panels": [
             4
           ],
-          "x": 694,
+          "x": 750,
           "y": 18,
-          "width": 408,
-          "height": 264
+          "width": 352,
+          "height": 286
         },
         {
           "source_panels": [
             5
           ],
-          "x": 694,
-          "y": 294,
-          "width": 408,
-          "height": 308
+          "x": 750,
+          "y": 316,
+          "width": 352,
+          "height": 374
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "enzyme",
+          "purpose": "The substrate fits the active site, is split and leaves as products; the enzyme remains unchanged."
+        }
+      ]
     },
     {
       "slug": "02-circulation-and-health",
       "widths": [
-        290,
-        350,
-        420
+        370,
+        298,
+        392
       ],
       "column_heights": [
-        634,
-        634,
-        647
+        702,
+        678,
+        691
       ],
       "panels": [
         {
@@ -168,68 +176,75 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 290,
-          "height": 352
+          "width": 370,
+          "height": 464
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 382,
-          "width": 290,
-          "height": 286
+          "y": 494,
+          "width": 370,
+          "height": 242
         },
         {
           "source_panels": [
             2
           ],
-          "x": 320,
+          "x": 400,
           "y": 18,
-          "width": 350,
+          "width": 298,
           "height": 330
         },
         {
           "source_panels": [
             3
           ],
-          "x": 320,
+          "x": 400,
           "y": 360,
-          "width": 350,
-          "height": 308
+          "width": 298,
+          "height": 352
         },
         {
           "source_panels": [
             4
           ],
-          "x": 682,
+          "x": 710,
           "y": 18,
-          "width": 420,
-          "height": 286
+          "width": 392,
+          "height": 308
         },
         {
           "source_panels": [
             5
           ],
-          "x": 682,
-          "y": 316,
-          "width": 420,
-          "height": 365
+          "x": 710,
+          "y": 338,
+          "width": 392,
+          "height": 387
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "circulation",
+          "purpose": "The four heart chambers, named vessels, body and lungs form two linked circuits with actual flow directions."
+        }
+      ]
     },
     {
       "slug": "03-plant-tissues-and-transport",
       "widths": [
+        450,
         290,
-        322,
-        448
+        320
       ],
       "column_heights": [
-        520,
-        520,
-        511
+        635,
+        564,
+        621
       ],
       "panels": [
         {
@@ -238,56 +253,63 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 290,
-          "height": 251
+          "width": 450,
+          "height": 432
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 281,
-          "width": 290,
-          "height": 273
+          "y": 462,
+          "width": 450,
+          "height": 207
         },
         {
           "source_panels": [
             2
           ],
-          "x": 320,
+          "x": 480,
           "y": 18,
-          "width": 322,
-          "height": 273
+          "width": 290,
+          "height": 295
         },
         {
           "source_panels": [
             3
           ],
-          "x": 320,
-          "y": 303,
-          "width": 322,
-          "height": 251
+          "x": 480,
+          "y": 325,
+          "width": 290,
+          "height": 273
         },
         {
           "source_panels": [
             4
           ],
-          "x": 654,
+          "x": 782,
           "y": 18,
-          "width": 448,
-          "height": 207
+          "width": 320,
+          "height": 251
         },
         {
           "source_panels": [
             5
           ],
-          "x": 654,
-          "y": 237,
-          "width": 448,
-          "height": 308
+          "x": 782,
+          "y": 281,
+          "width": 320,
+          "height": 374
         }
       ],
-      "body_pt": 11.22
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "leaf",
+          "purpose": "A leaf cross-section locates the tissues, air spaces, vascular bundle and guard cells around a stoma."
+        }
+      ]
     }
   ]
 }
