@@ -54,6 +54,8 @@ VISUALS={
 }
 VISUALS[('English Literature - Eduqas',3,'00-inspector-calls-overview')]={5:('lit-inspector-cycle',1)}
 
+VISUALS[('English Literature - Eduqas',4,'00-christmas-carol-overview')]={5:('lit-spirit-sequence',1)}
+
 COLUMNS={
  ('Chemistry - AQA',4,'03-titration'):[[0,3],[1,4],[2,5]],
 }

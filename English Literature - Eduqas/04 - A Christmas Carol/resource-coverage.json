@@ -1,7 +1,7 @@
 {
   "reviewed": "2026-10-14",
   "specification": "Eduqas C720QS Component 2; local official PDF pages 10–12",
-  "resource_scope": "Revision notes only",
+  "resource_scope": "Revision notes, mind maps, questions and answers, flash cards",
   "coverage": [
     "Five staves: events, meaning, quotation methods, structural role",
     "Scrooge, Marley, three spirits, Cratchits, Fred, Fezziwig, Fan and Belle",
@@ -29,5 +29,14 @@
       "url": "https://downloads.bbc.co.uk/schoolradio/pdfs/achristmascarol_notes_alt.pdf",
       "use": "Publication and Dickens background only; original analysis in notes"
     }
-  ]
+  ],
+  "questions_and_answers": {
+    "count": 31,
+    "format": "Original practice; one combined page ordered by marks",
+    "assessment_review": "Eduqas official SAMs Component 2 Question 11 and the current specification verify the 40-mark extract-and-whole-novella response, assessing AO1/AO2/AO3 without a separate AO4 allocation. The two long practice tasks name a starting moment rather than reproducing an exam extract; use the printed passage in the examination. All Dickens quotations are short anchors from the public-domain primary text. The short mark groups are retrieval and analysis practice; no frequency claim is made from one specimen."
+  },
+  "flashcards": {
+    "count": 26,
+    "source": "Short paired retrieval/application questions"
+  }
 }

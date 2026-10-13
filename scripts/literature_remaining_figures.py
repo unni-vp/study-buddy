@@ -11,3 +11,15 @@ def inspector_cycle(w):
 DRAWINGS={'lit-inspector-cycle':inspector_cycle}
 MIN_WIDTH={'lit-inspector-cycle':258}
 PURPOSES={'lit-inspector-cycle':'Shows the cyclical ending: investigation, apparent escape and renewed pressure, making the moral lesson distinct from fear of punishment.'}
+
+def spirit_sequence(w):
+    s=box(0,0,w,32,'Past: regret and reflection',BLUE)
+    s+=arrow(w/2,35,w/2,49,BLUE)
+    s+=box(0,52,w,32,'Present: empathy for others',GREEN)
+    s+=arrow(w/2,87,w/2,101,GREEN)
+    s+=box(0,104,w,32,'Future: urgency to change',ORANGE)
+    return s,146
+
+DRAWINGS['lit-spirit-sequence']=spirit_sequence
+MIN_WIDTH['lit-spirit-sequence']=252
+PURPOSES['lit-spirit-sequence']='Shows how the ordered visits build regret, empathy and urgency; avoids presenting Scrooge’s redemption as only fear of death.'
