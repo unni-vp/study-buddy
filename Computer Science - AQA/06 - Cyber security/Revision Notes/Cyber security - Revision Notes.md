@@ -129,12 +129,21 @@ Backups help recover damaged data. They do not prevent an attacker from reading 
 
 Think of access to an account as a doorway. Different checks ask different questions: do you know a secret, do you have access to an email account, or do you match a stored physical characteristic?
 
-| Measure | What it checks or does | Benefit and limitation |
-|---|---|---|
-| **Password system** | Checks a secret entered by the user | Simple to use; weak, reused or disclosed passwords undermine it |
-| **Biometrics** | Compares a fingerprint, face or other physical characteristic with stored information | Convenient on mobile devices; recognition can fail, and compromised biometric information is difficult to replace |
-| **CAPTCHA** | Uses a challenge or similar check to distinguish human use from automated activity | Reduces automated registrations or guessing; it does not establish a person's real identity and can create accessibility difficulties |
-| **Email confirmation** | Sends a link or code to an email address | Checks access to that mailbox; an attacker who controls the mailbox may also pass the check |
+### Password systems
+
+A password checks a **secret entered by the user**. It is simple to use, but weak, reused or disclosed passwords undermine the protection.
+
+### Biometrics
+
+A fingerprint or face is compared with **stored information about a physical characteristic**. This is convenient on mobile devices. Recognition can fail, and compromised biometric information is difficult to replace.
+
+### CAPTCHA
+
+A challenge or similar check helps distinguish **human use from automated activity**. It reduces automated registrations or guessing, but does not establish a person's real identity. It can also create accessibility difficulties.
+
+### Email confirmation
+
+A link or code is sent to an email address to check **access to that mailbox**. An attacker who controls the mailbox may also pass the check.
 
 **Biometrics identify a characteristic, not a permission.** The account still needs suitable access rights after authentication.
 
