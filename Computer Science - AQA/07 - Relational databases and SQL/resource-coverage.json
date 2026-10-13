@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.7, first exams 2027; local specification v1.3 16 June 2025",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "specification_pdf_pages": [
@@ -25,5 +25,31 @@
     "https://www.sqlite.org/lang_insert.html",
     "https://www.sqlite.org/lang_update.html",
     "https://www.sqlite.org/lang_delete.html"
-  ]
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 30,
+    "source": "Questions and Answers/Relational databases and SQL - Questions and Answers.md",
+    "type": "Original practice with independent 2027 scope check",
+    "paper_type_references": {
+      "June 2022": "Q18.1–18.4 relational concepts, benefit, primary and foreign keys; Q18.5 two-table ordered query; Q18.6 INSERT",
+      "June 2023": "Q14.1–14.3 benefits, foreign key and type; Q14.4 two-table ordered query; Q14.5 DELETE",
+      "bank_mapping": {
+        "10–14,19,28,30": "Relational/key/benefit types from both papers; original data and wording",
+        "23": "2022 Q18.6 INSERT type",
+        "25": "2023 Q14.5 DELETE type",
+        "29": "Two-table selection and sort type from 2022 Q18.5 and 2023 Q14.4; two-table scope independently checked",
+        "all_other_questions": "Additional current-specification practice covering SELECT, conditions, sort and UPDATE"
+      }
+    },
+    "sample": [
+      "AQA 8525/2 June 2022",
+      "AQA 8525/2 June 2023"
+    ],
+    "frequency_claim": false
+  },
+  "flashcards": {
+    "count": 28,
+    "source": "1–4 mark retrieval and application prompts from the paired bank"
+  }
 }
