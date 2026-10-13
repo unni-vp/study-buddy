@@ -1,0 +1,251 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        394,
+        314,
+        352
+      ],
+      "column_heights": [
+        597,
+        476,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 394,
+          "height": 372
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 402,
+          "width": 394,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 424,
+          "y": 18,
+          "width": 314,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 424,
+          "y": 259,
+          "width": 314,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "ph-particles",
+          "purpose": "Compares fixed, irregular and widely spaced particle arrangements."
+        }
+      ],
+      "slug": "00-particle-model-overview",
+      "title": "Particle model overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        406,
+        302,
+        352
+      ],
+      "column_heights": [
+        619,
+        576,
+        489
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 406,
+          "height": 394
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 424,
+          "width": 406,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 436,
+          "y": 18,
+          "width": 302,
+          "height": 301
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 436,
+          "y": 331,
+          "width": 302,
+          "height": 279
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 272,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 0,
+          "kind": "ph-particles",
+          "purpose": "Compares fixed, irregular and widely spaced particle arrangements."
+        }
+      ],
+      "slug": "01-states-and-density",
+      "title": "States & density",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        318,
+        390,
+        352
+      ],
+      "column_heights": [
+        520,
+        580,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 318,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 318,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 348,
+          "y": 18,
+          "width": 390,
+          "height": 399
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 348,
+          "y": 429,
+          "width": 390,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-heat",
+          "purpose": "Shows energy continuing to enter during constant-temperature changes of state."
+        }
+      ],
+      "slug": "02-heating-and-gas-pressure",
+      "title": "Heating & gas pressure",
+      "source_panels_preserved": 6
+    }
+  ]
+}
