@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.6, first exams 2027; local specification v1.3 16 June 2025",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "specification_pdf_pages": [
@@ -26,5 +26,31 @@
     "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
     "https://www.ncsc.gov.uk/guidance/phishing",
     "https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks"
-  ]
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 30,
+    "source": "Questions and Answers/Cyber security - Questions and Answers.md",
+    "type": "Original practice with independent 2027 scope check",
+    "paper_type_references": {
+      "June 2022": "Q15.1 passwords; Q15.2 additional authentication; Q15.3 automatic updates; Q16.1–16.2 authorised penetration testing",
+      "June 2023": "Q16.1 cyber security; Q16.2 malware; Q16.3 passwords, access rights and unpatched software",
+      "bank_mapping": {
+        "9": "2023 Q16.1 type",
+        "10–14,29–30": "2023 Q16.3 type, new scenarios and practice allocations",
+        "15–16,27": "2022 Q15.1–15.2 authentication types",
+        "17,24–25": "2022 Q16 types; internal/external framing independently verified in 2027 scope",
+        "all_other_questions": "Additional original practice mapped to current 3.6 content"
+      }
+    },
+    "sample": [
+      "AQA 8525/2 June 2022",
+      "AQA 8525/2 June 2023"
+    ],
+    "frequency_claim": false
+  },
+  "flashcards": {
+    "count": 28,
+    "source": "1–4 mark retrieval and application prompts from the paired bank"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "downloaded": "2026-10-14",
+  "qualification": "AQA 8525; 2022/2023 papers predate revision; independently mapped to 2027 content",
+  "documents": [
+    {
+      "file": "AQA-85252-QP-JUN22.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-85252-QP-JUN22.PDF",
+      "sha256": "f949a424842b867795ca8132cc9875b2eadb2476b9d6bbac4a88c756df81f1ea",
+      "pages": 28
+    },
+    {
+      "file": "AQA-85252-MS-JUN22.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-85252-MS-JUN22.PDF",
+      "sha256": "59dab52d0ea04346de0265d6f613a6e8b2acdb49cd0d0c9269ace10b96502609",
+      "pages": 20
+    },
+    {
+      "file": "AQA-85252-QP-JUN23.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-85252-QP-JUN23.PDF",
+      "sha256": "8433047a46c08d03325fcb0a580ba9b744386f7d7b8dbd1912fe22a4ad9f767e",
+      "pages": 28
+    },
+    {
+      "file": "AQA-85252-MS-JUN23.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-85252-MS-JUN23.PDF",
+      "sha256": "f32360582e4f42933eabd545fd13e080fbf56ee6aa7e12c3996fc8f00593c21a",
+      "pages": 22
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "title": "Cyber security flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "Which kind of malware pretends to be useful software?",
+      "back": [
+        "Trojan."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which kind of malware secretly monitors activity such as keystrokes?",
+      "back": [
+        "Spyware."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which kind of malware attaches to files or programs and copies itself when they run?",
+      "back": [
+        "Virus."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the attack in which a genuine-looking message asks somebody to reveal a password.",
+      "back": [
+        "Phishing."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the attack that redirects somebody towards a fake website even after they try to visit the correct address.",
+      "back": [
+        "Pharming."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the main purpose of a CAPTCHA?",
+      "back": [
+        "To distinguish likely human users from automated programs."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name a biometric feature that a phone could use to authenticate its user.",
+      "back": [
+        "Fingerprint."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What do access rights control?",
+      "back": [
+        "Which data and actions a user is authorised to access."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain what cyber security protects against.",
+      "back": [
+        "It protects **systems, networks and data**.",
+        "It aims to prevent unauthorised access, attacks, damage and disruption."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why keeping a router's default password creates a risk.",
+      "back": [
+        "The default password may be widely known or easy to find.",
+        "An attacker could use it to access the settings and change the network's configuration."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a weak password could expose a private account.",
+      "back": [
+        "A common or predictable password is easier to guess.",
+        "Successful guessing lets the attacker authenticate as the account holder."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An ordinary employee can delete payroll records. Explain the security problem.",
+      "back": [
+        "Their **access rights are too broad** for the job.",
+        "They could accidentally or deliberately delete sensitive records that they should not be allowed to change."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the difference between authentication and access rights.",
+      "back": [
+        "**Authentication** checks the identity a user claims.",
+        "**Access rights** determine what that authenticated user may do."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons automatic security updates can be more effective than relying on users to update manually.",
+      "back": [
+        "Updates are less likely to be forgotten.",
+        "Patches can be installed sooner, reducing the time known vulnerabilities remain available to attackers."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a copied fingerprint image is not a password reset.",
+      "back": [
+        "A biometric check compares a physical feature with a registered reference.",
+        "A password reset changes a secret credential; it does not change the person's actual fingerprint."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how checking an email confirmation link can help with account registration.",
+      "back": [
+        "Sending a unique link to the claimed address checks whether the registrant can access that mailbox.",
+        "It reduces registrations using addresses the person does not control, but does not prove their legal identity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What is penetration testing?",
+      "back": [
+        "It is an **authorised attempt to find or exploit security weaknesses**.",
+        "Findings are reported so the organisation can improve its defences."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why malware scanning alone does not stop all social engineering.",
+      "back": [
+        "A person may be persuaded to reveal genuine credentials without downloading malware.",
+        "Staff awareness and verification procedures are also needed to resist the deception."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A visitor claims to be an IT technician and asks for a staff password. Identify and explain the threat, and one appropriate response.",
+      "back": [
+        "This is **blagging**: inventing an identity or story to gain trust.",
+        "The visitor could use the password to gain access as the staff member.",
+        "Verify the request through a known official contact and do not disclose the password."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A passenger watches somebody unlock a phone and later steals it. Explain the attack and a suitable precaution.",
+      "back": [
+        "Watching the PIN is **shouldering**.",
+        "Knowing the PIN may let the thief unlock the stolen device.",
+        "Shield the keypad or use an appropriate biometric lock so the secret is not visible during entry."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an unknown USB drive could put an office computer at risk.",
+      "back": [
+        "It may contain malware.",
+        "Opening an infected file or running a disguised program can execute that malware.",
+        "The malware could steal data, damage files or spread to other computers."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a phishing message could compromise a school account.",
+      "back": [
+        "The message impersonates a trusted sender and prompts the pupil to visit a fake login page.",
+        "The pupil enters credentials that the attacker records.",
+        "The attacker then uses them to access the real account."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a pharming attack can be harder to spot than a visibly suspicious message.",
+      "back": [
+        "The user may type a genuine address.",
+        "Altered name-resolution information redirects the request to the attacker's site.",
+        "The destination may copy the real site's appearance, so the user can disclose details despite initially choosing the right address."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A company wants to test the risk from a malicious employee. Explain a suitable penetration-testing scenario.",
+      "back": [
+        "Give the authorised tester an agreed level of internal access, such as a normal staff account.",
+        "Test whether they can reach or alter resources beyond those permissions.",
+        "Report weaknesses so the company can restrict access and correct the configuration."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A company wants to test attacks by somebody with no account. Explain a suitable penetration-testing scenario.",
+      "back": [
+        "Start the authorised tester outside the organisation with no internal account.",
+        "Attempt to identify exposed weaknesses within the agreed testing scope.",
+        "Report any route to unauthorised access so it can be fixed."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare viruses and trojans.",
+      "back": [
+        "A **virus** attaches to files or programs and can make copies when the infected code runs.",
+        "A **trojan** disguises malicious software as something useful or legitimate.",
+        "A virus spreads by infecting other files; a trojan depends on being accepted or run and need not copy itself.",
+        "Both can cause harm such as damaging files or allowing information theft."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Evaluate using a fingerprint instead of only a password on a staff phone.",
+      "back": [
+        "It can be convenient because the user need not remember or type a secret.",
+        "It reduces the opportunity to watch a password being entered.",
+        "Recognition can fail, for example if the finger is damaged, so a secure fallback is needed.",
+        "A compromised biometric cannot be changed as easily as a password; suitable protection of the registered data still matters."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A school installs CAPTCHA on its sign-up page. Explain its benefit and two limitations.",
+      "back": [
+        "It can reduce **automated bulk registrations**, lowering spam and server load.",
+        "It does not establish which real person is completing the challenge.",
+        "It does not prevent a genuine user from choosing a weak password or falling for phishing.",
+        "Difficult challenges can also hinder legitimate users, so accessible alternatives are needed."
+      ]
+    }
+  ]
+}

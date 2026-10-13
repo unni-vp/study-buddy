@@ -1,0 +1,1488 @@
+=== PDF page 1 ===
+*JUN228525201*
+IB/M/Jun22/E10 8525/2
+For Examiner’s Use
+Question Mark
+1–2
+3
+4–5
+6–7
+8–11
+12–13
+14
+15–16
+17
+18
+TOTAL
+Time allowed: 1 hour 45 minutes
+Materials
+• There are no additional materials required for this paper. 
+• You must not use a calculator.
+Instructions
+• Use black ink or black ball-point pen.  Use pencil only for drawing.
+• Answer all questions.
+• You must answer the questions in the spaces provided.
+• If you need extra space for your answer(s), use the lined pages at the end of 
+this book.  Write the question number against your answer(s).
+• Do all rough work in this book.  Cross through any work you do not want 
+to be marked.
+Information
+The total number of marks available for this paper is 90.
+Advice
+For the multiple-choice questions, completely fill in the lozenge alongside the appropriate answer.
+If you want to change your answer you must cross out your original answer as shown.  
+If you wish to return to an answer previously crossed out, ring the answer you now wish to select as 
+shown.  
+Please write clearly in block capitals.
+Centre number Candidate number
+Surname
+Forename(s)
+Candidate signature
+I declare this is my own work.
+GCSE
+COMPUTER SCIENCE
+Paper 2 Computing Concepts
+WRONG METHODS
+CORRECT METHOD
+
+=== PDF page 2 ===
+2 
+ 
+*02* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box Answer all questions. 
+ 
+0 1 
+ 
+. 1 
+ 
+Convert the binary number 11010100 into decimal. 
+[1 mark] 
+   
+ 
+   
+   
+ 
+ 
+0 1 
+ 
+. 2 
+ 
+Convert the binary number 10111001 into hexadecimal.  
+ 
+You should show your working. 
+[2 marks] 
+   
+ 
+   
+   
+   
+   
+ 
+ 
+0 1 
+ 
+. 3 
+ 
+State the largest decimal number that can be represented using 6 bits. 
+[1 mark] 
+   
+ 
+   
+   
+ 
+ 
+0 2 
+ 
+. 1 
+ 
+Add together the following three binary numbers and give your answer in binary. 
+[2 marks] 
+ 
+ 0 0 1 1 0 1 1 0 
+ 1 0 0 1 0 0 1 0 
++ 0 0 1 0 0 0 0 1 
+         
+  
+ 
+  
+
+=== PDF page 3 ===
+3 
+ 
+*03* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 2 
+ 
+. 2 
+ 
+Apply a binary shift three places to the right on the bit pattern 10101000 
+ 
+Give the result using 8 bits. 
+[1 mark] 
+ 
+        
+ 
+ 
+ 
+ 
+  The arithmetic effect of applying a left binary shift of two to a binary number is to 
+multiply that number by four. 
+ 
+0 2 
+ 
+. 3 
+ 
+State the arithmetic effect of applying a left binary shift of four to a binary number. 
+[1 mark] 
+   
+ 
+   
+   
+ 
+ 
+0 2 
+ 
+. 4 
+ 
+State the arithmetic effect of applying a left binary shift of three followed by a right 
+binary shift of five to a binary number.  
+[1 mark] 
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+9 
+ 
+
+=== PDF page 4 ===
+4 
+ 
+*04* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 3 
+ 
+. 1 
+ 
+Complete the truth table for the XOR logic gate. 
+ [1 mark] 
+ 
+A B A XOR B 
+0 0  
+0 1  
+1 0  
+1 1  
+ 
+ 
+ 
+0 3 
+ 
+. 2 
+ 
+A game uses three sensors.   
+ 
+A red light (R) in the game switches on if all of the following conditions are true: 
+ 
+• sensor D is off 
+• sensor L is on 
+• sensor W is on. 
+ 
+Complete the logic circuit for this game. 
+ 
+You must use the correct symbols for the logic gates. 
+[3 marks] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+
+
+=== PDF page 5 ===
+5 
+ 
+*05* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 3 
+ 
+. 3 
+ 
+Another circuit in the game will output True if any two sensors are activated or if all 
+three sensors are activated.  This has been represented as the Boolean expression: 
+  
+(W . D) + (D . L) . (W . L) 
+ 
+The expression contains an error. 
+ 
+Shade one lozenge that shows the expression with the error corrected.  
+[1 mark] 
+ 
+A (W . D) . (D . L) . (W . L) 
+ 
+ 
+B �W . D� . (D . L) + (W . L) 
+ 
+ 
+C (W . D) + (D . L) + (W . L) 
+ 
+ 
+D �W . D� + (D + L) . (W . L) 
+ 
+ 
+ 
+ 
+ 
+ 
+0 3 
+ 
+. 4 
+ 
+A green light (G) in the game switches on if all of the following conditions are true: 
+ 
+• sensor D is off 
+• sensor L is off 
+• sensor W is on. 
+ 
+Write a Boolean expression for this logic circuit. 
+ 
+You must use Boolean expression operators in your answer. 
+[3 marks] 
+   
+   
+G = 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Turn over for the next question 
+ 
+  
+ 
+8 
+ 
+
+=== PDF page 6 ===
+6 
+ 
+*06* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 4 
+ 
+. 1 
+ 
+Describe what is meant by the terms system software and application software. 
+[2 marks] 
+  
+System software  
+   
+ 
+   
+  
+Application software  
+   
+ 
+   
+ 
+ 
+0 4 
+ 
+. 2 
+ 
+State four functions of an operating system.    
+[4 marks] 
+  
+1  
+  
+ 
+  
+2 
+ 
+  
+ 
+  
+3 
+ 
+  
+ 
+  
+4 
+ 
+   
+ 
+  
+
+=== PDF page 7 ===
+7 
+ 
+*07* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 5 
+ 
+ An autonomous vehicle is controlled by a computer system, senses its environment  
+and requires no input from a human driver. 
+ 
+Discuss the legal and ethical impacts that need to be considered when replacing 
+manual, human-driven vehicles with autonomous vehicles. 
+[6 marks] 
+   
+ 
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+  
+  
+ 
+12 
+ 
+
+=== PDF page 8 ===
+8 
+ 
+*08* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 6 
+ 
+ Programming languages can be classified as low-level or high-level. 
+ 
+Shade two lozenges to show the statements that are true about code written using a 
+low-level language instead of a high-level language. 
+[2 marks] 
+ 
+ 
+A The code more closely resembles English. 
+ 
+ 
+B The code is easier to write. 
+ 
+ 
+C The code is not translated using a compiler. 
+ 
+ 
+D  The code is quicker to write. 
+ 
+ 
+E The code can directly manipulate computer registers. 
+ 
+ 
+F The code never needs to be translated before being executed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PDF page 9 ===
+9 
+ 
+*09* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 7 
+ 
+  
+ 
+Assemblers and interpreters are two types of program translator. 
+ 
+0 7 
+ 
+. 1 
+ 
+State the purpose of an assembler. 
+[1 mark] 
+   
+ 
+   
+ 
+ 
+0 7 
+ 
+. 2 
+ 
+Explain how an interpreter works. 
+ [4 marks] 
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+7 
+ 
+
+=== PDF page 10 ===
+10 
+ 
+*10* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+0 8 
+ 
+ State two reasons why computers have more RAM than cache memory. 
+[2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+2 
+ 
+  
+ 
+ 
+ 
+0 9 
+ 
+. 1 
+ 
+Data is increasingly being stored ‘in the cloud’.  
+ 
+State two advantages of using cloud storage instead of local storage. 
+ [2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+2 
+ 
+  
+ 
+ 
+ 
+0 9 
+ 
+. 2 
+ 
+Many new computers use solid-state storage for secondary storage rather than 
+magnetic storage. 
+ 
+Explain why solid-state storage is not fitted to every new computer. 
+[2 marks] 
+   
+ 
+   
+   
+   
+ 
+  
+
+=== PDF page 11 ===
+11 
+ 
+*11* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 0 
+ 
+ How many bits are there in two kilobytes? 
+ 
+Show your working. 
+[2 marks] 
+   
+ 
+   
+   
+   
+  
+Answer  bits 
+   
+ 
+ 
+1 1 
+ 
+ The ASCII value for the character x is the decimal number 120 
+ 
+Complete Table 1 with the missing ASCII and Unicode values. 
+[2 marks] 
+ 
+Table 1 
+  
+ 
+ 
+Character ASCII value Unicode value 
+w   
+x 120  
+y   
+z   
+ 
+ 
+ 
+ 
+Turn over for the next question  
+ 
+10 
+ 
+
+=== PDF page 12 ===
+12 
+ 
+*12* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 2 
+ 
+ Figure 1 shows a 10 x 8 bitmap image that uses three colours. 
+ 
+Figure 1   
+ 
+ 
+ 
+ 
+  Calculate the minimum file size that would be required to store the bitmap image in 
+Figure 1. 
+ 
+Give your answer in bytes. 
+ 
+Show your working. 
+[3 marks] 
+   
+ 
+   
+ 
+   
+   
+   
+   
+   
+Answer 
+ 
+bytes 
+   
+ 
+  
+
+
+=== PDF page 13 ===
+13 
+ 
+*13* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 3 
+ 
+ Analogue sound must be converted to a digital form for storage and processing in a 
+computer. 
+ 
+1 3 
+ 
+. 1 
+ 
+Define the term sample resolution. 
+[1 mark] 
+   
+ 
+   
+ 
+ 
+1 3 
+ 
+. 2 
+ 
+State one disadvantage of a high sample resolution. 
+[1 mark] 
+   
+ 
+   
+ 
+ 
+1 3 
+ 
+. 3 
+ 
+A 50-second sound has been recorded at a sample rate of 40 000 Hz.   
+Two bytes have been used to store each sample of the sound.  
+ 
+Calculate the file size of the sound file in megabytes. 
+ 
+Show your working.  
+[2 marks] 
+   
+ 
+   
+   
+   
+   
+Answer 
+ 
+megabytes 
+   
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+7 
+ 
+
+=== PDF page 14 ===
+14 
+ 
+*14* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 4 
+ 
+  
+ 
+Computer networks can be installed using wired or wireless technology. 
+ 
+1 4 
+ 
+. 1 
+ 
+State one wireless method used to connect devices on a Personal Area Network 
+(PAN). 
+[1 mark] 
+   
+ 
+   
+ 
+ 
+1 4 
+ 
+. 2 
+ 
+Describe two differences between a Local Area Network (LAN) and a Wide Area 
+Network (WAN). 
+[2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+ 
+  
+2 
+ 
+   
+   
+ 
+ 
+1 4 
+ 
+. 3 
+ 
+Give three advantages of using a wireless network instead of a wired network. 
+[3 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+2 
+ 
+  
+ 
+  
+3 
+ 
+   
+ 
+  
+
+=== PDF page 15 ===
+15 
+ 
+*15* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 4 
+ 
+. 4 
+ 
+Shade one lozenge to indicate the application layer protocol used for sending emails 
+from a client device to a mail server. 
+[1 mark] 
+   
+A FTP  
+ 
+ 
+B HTTP 
+ 
+ 
+C SMTP 
+ 
+ 
+D UDP  
+ 
+ 
+ 
+ 
+ 
+1 4 
+ 
+. 5 
+ 
+Explain the purpose of the HTTPS protocol. 
+[2 marks] 
+   
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+Turn over for the next question 
+  
+ 
+9 
+ 
+
+=== PDF page 16 ===
+16 
+ 
+*16* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 5 
+ 
+. 1 
+ 
+State two issues with only using usernames and passwords in an authentication 
+system.  
+[2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+2 
+ 
+   
+ 
+ 
+1 5 
+ 
+. 2 
+ 
+Describe one security measure that could be used, in addition to a password, to 
+make sure that a user is who they are claiming to be.  
+ [2 marks] 
+   
+ 
+   
+   
+   
+ 
+ 
+1 5 
+ 
+. 3 
+ 
+State two reasons why automatic software updates provide better security than 
+manual software updates.  
+[2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+ 
+  
+2 
+ 
+   
+   
+ 
+  
+
+=== PDF page 17 ===
+17 
+ 
+*17* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 6 
+ 
+. 1 
+ 
+Explain what penetration testing is. 
+[2 marks] 
+   
+ 
+   
+   
+   
+ 
+ 
+1 6 
+ 
+. 2 
+ 
+Describe the aim of a white-box penetration test. 
+[2 marks] 
+   
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+Turn over for the next question   
+ 
+10 
+ 
+
+=== PDF page 18 ===
+18 
+ 
+*18* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 7 
+ 
+. 1 
+ 
+State two reasons why data are compressed. 
+[2 marks] 
+  
+1 
+ 
+ 
+  
+ 
+  
+2 
+ 
+   
+ 
+ 
+1 7 
+ 
+. 2 
+ 
+Figure 2 shows a string. 
+ 
+Figure 2 
+ 
+MISSISSIPPI 
+ 
+One method for compressing data is run length encoding (RLE).  
+ 
+When using RLE, the data in Figure 2 become: 
+ 
+1M 1I 2S 1I 2S 1I 2P 1I 
+ 
+Explain why RLE is not a suitable method for compressing the data in 
+Figure 2. 
+[2 marks] 
+   
+ 
+   
+   
+   
+   
+ 
+  
+
+=== PDF page 19 ===
+19 
+ 
+*19* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 7 
+ 
+. 3 
+ 
+Another method for compressing data is Huffman coding.  In Huffman coding, the 
+codes for the characters can be created based on their position in a tree. 
+ 
+Figure 3 shows a Huffman code for each different character in the string  
+in Figure 2. 
+ 
+Figure 3 
+ 
+Character Binary code 
+M 100 
+I 0 
+S 11 
+P 101 
+ 
+ 
+Complete the Huffman tree below to show the position of the characters I, S and P 
+using the codes from Figure 3. 
+[1 mark] 
+ 
+ 
+ 
+ 
+  
+ 
+5 
+ 
+
+=== PDF page 20 ===
+20 
+ 
+*20* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 8 
+ 
+ A relational database has been developed for a youth club to store information about 
+their members and the awards they are given.  
+  
+The database contains two tables: Member and Award   
+  
+Figure 4 shows some data from the tables.  
+ 
+Figure 4 
+ 
+Member 
+ 
+MemberID FirstName LastName DateJoined 
+1 Zarah Tariq 2020-01-05 
+2 Penny Hill 2020-01-05 
+3 Peter Boyes 2020-02-14 
+4 Reuben Bailey 2020-10-20 
+ 
+ 
+Award 
+ 
+AwardID MemberID DatePresented AwardName 
+1 1 2020-09-10 Teamwork 
+2 1 2020-10-13 Outdoors 
+3 3 2020-06-19 Challenge 
+4 2 2020-11-11 Leader 
+ 
+ 
+1 8 
+ 
+. 1 
+ 
+Define the term relational database. 
+[2 marks] 
+   
+ 
+   
+   
+   
+   
+ 
+  
+
+=== PDF page 21 ===
+21 
+ 
+*21* 
+Turn over ►
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 8 
+ 
+. 2 
+ 
+State one benefit of using relational databases. 
+[1 mark] 
+   
+ 
+   
+ 
+   
+ 
+ 
+1 8 
+ 
+. 3 
+ 
+State the name of the field from the Member table that is the most suitable to use as 
+the primary key. 
+[1 mark] 
+   
+ 
+   
+ 
+   
+ 
+ 
+1 8 
+ 
+. 4 
+ 
+State the name of the field from the Award table that is a foreign key. 
+[1 mark] 
+   
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+Question 18 continues on the next page 
+ 
+  
+
+=== PDF page 22 ===
+22 
+ 
+*22* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+  Figure 4 has been included again below. 
+ 
+Figure 4 
+ 
+Member 
+ 
+MemberID FirstName LastName DateJoined 
+1 Zarah Tariq 2020-01-05 
+2 Penny Hill 2020-01-05 
+3 Peter Boyes 2020-02-14 
+4 Reuben Bailey 2020-10-20 
+ 
+ 
+Award 
+ 
+AwardID MemberID DatePresented AwardName 
+1 1 2020-09-10 Teamwork 
+2 1 2020-10-13 Outdoors 
+3 3 2020-06-19 Challenge 
+4 2 2020-11-11 Leader 
+ 
+ 
+ 
+
+=== PDF page 23 ===
+23 
+ 
+*23* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+1 8 
+ 
+. 5 
+ 
+The youth club needs to produce a report listing the members who have been given 
+the Leader award.  The report must include both names of each member and the date 
+the award was presented. 
+ 
+Write an SQL query that could be used to find this information.  The results must be in 
+order of the date the awards were presented, starting with the earliest. 
+[6 marks] 
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+1 8 
+ 
+. 6 
+ 
+A new member joins the youth club.  The following SQL is run to add their details to 
+the database: 
+ 
+INSERT INTO  
+   (5, 'Alina', 'Ahmed', '2020-11-30') 
+ 
+ 
+Some of the SQL has been replaced by labels. 
+ 
+State the SQL that should have been written in place of the labels        and       .  
+[2 marks] 
+   
+ 
+    
+    
+   
+ 
+ 
+END  OF  QUESTIONS 
+  
+ 
+13 
+ 
+
+
+=== PDF page 24 ===
+24 
+ 
+*24* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+There are no questions printed on this page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DO  NOT  WRITE  ON  THIS  PAGE 
+ANSWER  IN  THE  SPACES  PROVIDED 
+  
+
+=== PDF page 25 ===
+25 
+ 
+*25* 
+ 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 26 ===
+26 
+ 
+*26* 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 27 ===
+27 
+ 
+*27* 
+ 
+IB/M/Jun22/8525/2 
+ 
+Do not write 
+outside the 
+box 
+ 
+Question 
+number 
+Additional page, if required. 
+Write the question numbers in the left-hand margin. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+
+=== PDF page 28 ===
+28
+*28*
+IB/M/Jun22/8525/2
+Do not write 
+outside the
+boxThere are no questions printed on this page
+DO  NOT  WRITE  ON  THIS  PAGE
+ANSWER  IN  THE  SPACES  PROVIDED
+Copyright information
+For confidentiality purposes, all acknowledgements of third-party copyright material are published in a separate booklet.  This booklet is published after 
+each live examination series and is available for free download from www.aqa.org.uk. 
+Permission to reproduce all copyright material has been applied for.  In some cases, efforts to contact copyright-holders may have been unsuccessful 
+and AQA will be happy to rectify any omissions of acknowledgements.  If you have any queries please contact the CopyrightTeam. 
+Copyright © 2022 AQA and its licensors.  All rights reserved. 
+*226G8525/2*

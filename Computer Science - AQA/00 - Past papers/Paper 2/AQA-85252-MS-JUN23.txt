@@ -1,0 +1,1206 @@
+=== PDF page 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+GCSE 
+ 
+COMPUTER SCIENCE 
+ 
+8525/2 
+ 
+Paper 2  Computing concepts 
+ Mark scheme 
+ 
+June 2023 
+ Version: 1.0 Final 
+ 
+ 
+*236G8525/2/MS* 
+
+
+=== PDF page 2 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+2 
+Mark schemes are prepared by the Lead Assessment Writer and considered, together with the relevant 
+questions, by a panel of subject teachers.  This mark scheme includes any amendments made at the 
+standardisation events which all associates participate in and is the scheme which was used by them in 
+this examination.  The standardisation process ensures that the mark scheme covers the students’ 
+responses to questions and that every associate understands and applies it in the same correct way.  
+As preparation for standardisation each associate analyses a number of students’ scripts.  Alternative 
+answers not already covered by the mark scheme are discussed and legislated for.  If, after the 
+standardisation process, associates encounter unusual answers which have not been raised they are 
+required to refer these to the Lead Examiner. 
+ 
+It must be stressed that a mark scheme is a working document, in many cases further developed and 
+expanded on the basis of students’ reactions to a particular paper.  Assumptions about future mark 
+schemes on the basis of one year’s document should be avoided; whilst the guiding principles of 
+assessment remain constant, details will change, depending on the content of a particular examination 
+paper. 
+ 
+ 
+Further copies of this mark scheme are available from aqa.org.uk 
+ 
+The following annotation is used in the mark scheme: 
+ 
+;       - means a single mark 
+//      -  means alternative response 
+/       -   means an alternative word or sub-phrase 
+A.     -  means acceptable creditworthy answer.  Also used to denote a valid answer that goes 
+          beyond the expectations of the GCSE syllabus. 
+R.     -  means reject answer as not creditworthy 
+NE.   -  means not enough 
+I.       -  means ignore 
+DPT.  -  in some questions a specific error made by a candidate, if repeated, could result in the 
+candidate failing to gain more than one mark.  The DPT label indicates that this mistake 
+should only result in a candidate losing one mark on the first occasion that the error is made.  
+Provided that the answer remains understandable, subsequent marks should be awarded as 
+if the error was not being repeated. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright information  
+ 
+AQA retains the copyright on all its publications.  However, registered schools/colleges for AQA are permitted to copy materi al from this booklet for their own internal 
+use, with the following important exception: AQA cannot give permission to schools/coll eges to photocopy any material that is acknowledged to a third party even for 
+internal use within the centre.  
+Copyright © 2023 AQA and its licensors.  All rights reserved.  
+
+=== PDF page 3 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+3 
+Level of response marking instructions 
+ 
+Level of response mark schemes are broken down into levels, each of which has a descriptor.  The 
+descriptor for the level shows the average performance for the level.  There are marks in each level. 
+ 
+Before you apply the mark scheme to a student’s answer read through the answer and annotate it (as 
+instructed) to show the qualities that are being looked for.  You can then apply the mark scheme. 
+ 
+Step 1 Determine a level 
+ 
+Start at the lowest level of the mark scheme and use it as a ladder to see whether the answer meets the 
+descriptor for that level.  The descriptor for the level indicates the different qualities that might be seen in 
+the student’s answer for that level.  If it meets the lowest level then go to the next one and decide if it 
+meets this level, and so on, until you have a match between the level descriptor and the answer.  With 
+practice and familiarity, you will find that for better answers you will be able to quickly skip through the 
+lower levels of the mark scheme. 
+ 
+When assigning a level, you should look at the overall quality of the answer and not look to pick holes in 
+small and specific parts of the answer where the student has not performed quite as well as the rest.  If 
+the answer covers different aspects of different levels of the mark scheme you should use a best fit 
+approach for defining the level and then use the variability of the response to help decide the mark within 
+the level, ie if the response is predominantly level 3 with a small amount of level 4 material it would be 
+placed in level 3 but be awarded a mark near the top of the level because of the level 4 content. 
+ 
+Step 2 Determine a mark 
+ 
+Once you have assigned a level you need to decide on the mark.  The descriptors on how to allocate 
+marks can help with this.  The exemplar materials used during standardisation will help.  There will be an 
+answer in the standardising materials which will correspond with each level of the mark scheme.  This 
+answer will have been awarded a mark by the Lead Examiner.  You can compare the student’s answer 
+with the example to determine if it is the same standard, better or worse than the example.  You can then 
+use this to allocate a mark for the answer based on the Lead Examiner’s mark on the example. 
+ 
+You may well need to read back through the answer as you apply the mark scheme to clarify points and 
+assure yourself that the level and the mark are appropriate. 
+ 
+Indicative content in the mark scheme is provided as a guide for examiners.  It is not intended to be 
+exhaustive and you must credit other valid points.  Students do not have to cover all of the points 
+mentioned in the Indicative content to reach the highest level of the mark scheme. 
+ 
+An answer which contains nothing of relevance to the question must be awarded no marks. 
+ 
+  
+
+=== PDF page 4 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+4 
+Qu Part Marking guidance Total 
+marks 
+ 
+01 
+ 
+1 
+ 
+Mark is for AO1 (recall) 
+ 
+D 16; 
+ 
+R. if more than one lozenge shaded 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+01 
+ 
+2 
+ 
+2 marks for AO1 (understanding) 
+ 
+B Hexadecimal is easier for people to read than binary; 
+F Hexadecimal takes less time to type than binary; 
+ 
+R. if more than two lozenges shaded 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+02 
+ 
+1 
+ 
+Mark is for AO2 (apply) 
+ 
+1010 1011; 
+ 
+I. Leading zeros 
+ 
+ 
+ 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+02 
+ 
+2 
+ 
+2 marks for AO2 (apply) 
+ 
+0010; 1101; 
+ 
+If the answer given is not fully correct then award a maximum of 1 working mark 
+as follows: 
+ 
+• 2 converted to 0010 
+• D converted to 1101  
+• D converted to decimal 13 
+• Conversion to decimal 45 
+A. missing leading zeros 
+  I. additional leading zeros 
+ 
+ 
+2 
+ 
+  
+
+=== PDF page 5 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+5 
+Qu Part Marking guidance Total 
+marks 
+ 
+03 
+ 
+ 
+ 
+2 marks for AO2 (apply) 
+ 
+10111; 100; 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+04 
+ 
+ 
+ 
+2 marks for AO2 (apply) 
+ 
+2;; 
+ 
+If the answer given is not fully correct then award a maximum of 1 working mark 
+as follows: 
+ 
+• Division by 8; 
+• Division by 1000; 
+• Division by 1 000 000; 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+05 
+ 
+ 
+ 
+Mark is for AO1 (understanding) 
+ 
+(Shift the number) two (binary) places / bits to the right; 
+ 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+06 
+ 
+1 
+ 
+Mark is for AO1 (recall)  
+ 
+One (sound) sample per second; 
+ 
+A. one cycle (of the wave) per second 
+ 
+1 
+ 
+  
+
+=== PDF page 6 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+6 
+Qu Part Marking guidance Total 
+marks 
+ 
+06 
+ 
+2 
+ 
+3 marks for AO2 (apply) 
+ 
+0.5MB;;; 
+ 
+If the answer given is not fully correct then award a maximum of 2 working marks 
+as follows, even if the resulting intermediate calculation is incorrect: 
+ 
+• Multiplying 50 or 4 by 20 000; 
+• Multiplying 50 or 20 000 by 4; 
+• Dividing result of calculation by 8 or 8000; 
+• Dividing result of calculation by 1 000 000 or 1000; 
+ 
+3 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+07 
+ 
+1 
+ 
+Mark is for AO1 (recall) 
+ 
+Single point in an image; 
+// 
+Smallest (addressable) part / bit of an image 
+// 
+A single dot / point of colour 
+ 
+A. square for point / dot as long as the context is clear 
+ 
+R. Picture Element 
+ 
+ 
+ 
+1 
+ 
+  
+
+=== PDF page 7 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+7 
+Qu Part Marking guidance Total 
+marks 
+ 
+07 
+ 
+2 
+ 
+3 marks for AO1 (understanding) 
+ 
+Maximum of 3 marks.  
+ 
+1. The pixels are stored consecutively (in memory locations); 
+2. (With 2 bits) 4 (A. 3) combinations of bits are possible // each colour could be 
+represented by a unique 2-bit pattern; 
+3. the bitmap will need the width and height / dimensions and colour depth / bits 
+per pixel to be stored / included; 
+A. metadata would need to be stored 
+ 
+ Maximum of 2 marks for mark points 4–6 
+4. black pixels could be represented as 00; 
+5. white pixels could be represented as 01; 
+6. grey  pixels could be represented as 10; 
+A. any 2-bit bit pattern for each colour as long as they are distinct from each 
+other 
+A. answer that shows Figure 1 with each colour labelled in binary 
+ 
+3 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+07 
+ 
+3 
+ 
+2 marks for AO2 (apply) 
+ 
+300;; 
+ 
+If the answer given is not fully correct then award a maximum of 1 working mark 
+as follows: 
+ 
+identifying the colour depth as 3; 
+10 x 10 x their colour depth (even if colour depth incorrect); 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+07 
+ 
+4 
+ 
+2 marks for AO2 (apply) 
+ 
+1 mark for the left-hand eight bits correct; 
+1 mark for the right-hand eight bits correct; 
+ 
+1 1 0 0 0 0 0 0  0 0 0 0 1 1 1 1 
+ 
+If neither of the mark points above have been awarded then award a maximum of 
+1 working mark as follows: 
+ 
+1 mark if the first bit is 1 and the ninth bit is 
+0; 
+1 mark if right-hand seven bits of each byte are correct; 
+ 
+2 
+ 
+
+=== PDF page 8 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+8 
+Qu Part Marking guidance Total 
+marks 
+ 
+08 
+ 
+1 
+ 
+Mark is for AO1 (recall) 
+ 
+Physical / electrical / electronic  
+Component(s) / part(s) / element (of a computer system); 
+ 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+08 
+ 
+2 
+ 
+3 marks for AO1 (recall) 
+ 
+Maximum 1 mark for each component 
+ 
+Clock 
+Regulates the timing and speed of (computer) operations // sends out a regular 
+electronic pulse / timing signal; 
+ 
+Control Unit 
+Coordinates the actions of the CPU // decodes instructions // sends control 
+signals; A. controls the flow of data through the CPU 
+ 
+Register 
+Holds data used when executing an instruction // holds the result of executing an 
+instruction // holds an instruction (CIR) // holds a memory address (MAR); 
+ 
+ 
+ 
+3 
+ 
+Qu Part Marking guidance Total 
+marks 
+08 3 
+ 
+Mark is for AO1 (understanding) 
+The processor with two cores may be able to process two instructions / tasks / 
+processes in parallel / at the same time / simultaneously; 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+08 
+ 
+4 
+ 
+Mark is for AO1 (recall) 
+ 
+Non-volatile memory retains data when power is lost / does not lose its contents 
+when power is lost; 
+ 
+ 
+ 
+1 
+ 
+  
+
+=== PDF page 9 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+9 
+Qu Part Marking guidance Total 
+marks 
+ 
+08 
+ 
+5 
+ 
+Mark is for AO1 (understanding) 
+ 
+RAM; 
+Cache; 
+Register; 
+ 
+A. examples such as DRAM, SRAM  
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+08 6 2 marks for AO1 (understanding) 
+ 
+Storing data / files;  
+When the computer is turned off // on a long-term basis // using non-volatile 
+storage; 
+ 
+A. to (temporarily) store data in virtual memory // (to implement) demand paging 
+// to buffer processes 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+09 
+ 
+1 
+ 
+Mark is for AO1 (recall) 
+program / code / instructions (executed by / controls the operation of the 
+hardware); 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+09 
+ 
+2 
+ 
+Mark is for AO1 (recall) 
+ 
+(System software) controls / manages / runs the computer 
+// 
+(System software) enables the computer to function 
+// 
+(System software) manages the computer hardware / application software 
+// 
+(System software) provides a platform for other software / provides a platform to 
+run application software; 
+ 
+R. references to pre-installed / downloaded software 
+NE. brand names unless used as an example to support a correct response 
+ 
+ 
+ 
+ 
+1 
+ 
+  
+
+=== PDF page 10 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+10 
+Qu Part Marking guidance Total 
+marks 
+ 
+09 
+ 
+3 
+ 
+Mark is for AO1 (recall) 
+ 
+(Application software) is for (end) user tasks; 
+ 
+R. references to pre-installed / downloaded software 
+NE. brand names unless used as an example to support a correct response 
+ 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+10 
+ 
+1 
+ 
+2 marks for AO1 (understanding) 
+ 
+Data required (by an instruction) may be fetched from main memory // (An 
+instruction) may load / fetch / get data from main memory; 
+ 
+Result (of instruction) may be stored in main memory // (An instruction) may store 
+a value in main memory;  
+ 
+R. references to information 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+10 
+ 
+2 
+ 
+2 marks for AO1 (understanding) 
+ 
+1 mark for each stage described. 
+ 
+Fetch stage 
+The (next) instruction is fetched from the memory (to the CPU); 
+ 
+Decode stage 
+The instruction is decoded (to work out what it is); 
+ 
+2 
+ 
+  
+
+=== PDF page 11 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+11 
+Qu Part Marking guidance Total 
+marks 
+ 
+11 
+ 
+1 
+ 
+Mark is for AO1 (recall) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mark as follows: 
+ 
+1 mark if column A XOR B is correctly completed; 
+ 
+A. F / FALSE / False / Off instead of 0  
+A. T / TRUE / True / On instead of 1   
+A B A XOR B 
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 0 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+ 
+11 
+ 
+2 
+ 
+Mark is for AO1 (understanding) 
+ 
+AND (gate); 
+ 
+I. case 
+ 
+1 
+ 
+  
+
+=== PDF page 12 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+12 
+Qu Part Marking guidance Total marks 
+ 
+11 
+ 
+3 
+ 
+2 marks for AO2 (apply) 
+ 
+A.B + C // C + A.B;; 
+ 
+Mark as follows: 
+ 
+1 mark for A.B or B.A; 
+1 mark for + C or C +; 
+ 
+Examples of responses worth 1 mark: 
+ 
+A.B.C   mark is for A.B 
+A + B + C mark is for + C 
+(A.B).C mark is for A.B 
+(A+B) + C mark is for + C 
+ 
+I. brackets that don’t change the value of the expression 
+I. Case 
+A. other commonly recognised symbols such as ¬ ∧ ∨ ~ 
+ 
+R. if words used (eg AND, OR, NOT etc) 
+ 
+Max 1 if any errors. 
+ 
+ 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+12 1 2 marks for AO1 (understanding) 
+ 
+ A, B or C 
+Assembly language B 
+High-level language A 
+Machine code C 
+ 
+Mark as follows: 
+ 
+1 mark for one correct row; 
+2 marks if all correct;; 
+ 
+R. repeated letters 
+ 
+2 
+ 
+  
+
+=== PDF page 13 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+13 
+Qu Part Marking guidance Total 
+marks 
+12 2 Mark is for AO1 (understanding) 
+ 
+Maximum 1 mark for any of the following: 
+ 
+• Programs written in assembly language run faster // use less processor time; 
+• Programs written in assembly language can interact directly with hardware 
+(when executing); 
+• Assembly language programs require less memory (when executing); 
+• Programs written in assembly language have no unnecessary code added by 
+a compiler; 
+ 
+A. assembly language requires less translation 
+A. the programmer can take advantage of knowledge about the program / 
+problem that isn’t available to the compiler 
+A. assembly language is faster to translate  
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+12 3 Mark is for AO1 (understanding) 
+ 
+A A compiler translates all the original program code before execution. 
+ 
+R. if more than one lozenge shaded 
+ 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+13 1 2 marks for AO1 (understanding) 
+ 
+Maximum of 2 marks from: 
+ 
+• PAN centred round a person / up to 10 metres, WAN is (spread) over a large 
+area; NE personal on its own 
+• PAN and WAN use different protocols (A. examples); 
+• PAN (typically) has one user, WAN has many users; 
+• PAN connects a few devices, WAN connects many devices; 
+• PAN owned by one person; WAN owned / managed by multiple large 
+organisations; 
+ 
+Both PAN and WAN must be referred to (accept implicit comparisons) for 
+each mark. 
+eg WAN connects more devices (the more acts as an implicit comparison). 
+ 
+2 
+ 
+  
+
+=== PDF page 14 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+14 
+Qu Part Marking guidance Total 
+marks 
+13 2 2 marks for AO1 (recall) 
+ 
+C. LANs are usually controlled or owned by a single organisation. 
+E. LANs cover one room, building or site. 
+ 
+R. if more than two lozenges shaded 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+13 3 2 marks for AO1 (understanding) 
+ 
+Maximum of 2 marks from: 
+ 
+• A bus network has all computers connected to a backbone / main cable, 
+computers on a star network connect to a central device / switch / hub; 
+• A ll devices / computers on a bus network see all data transmitted, on a 
+(switched) star network the data is only seen by the intended device; 
+• If the backbone / main cable on a bus network fails the whole network fails, on 
+a star network a single cable breaking is unlikely to affect the whole network; 
+• Bus backbone / main cable has a terminator at each end, network cards in 
+star act as terminators; 
+• Data collisions are less frequent on a star network; 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+13 4 2 marks for AO1 (recall) 
+ 
+(A set of) rules;  
+that allow devices / networks to communicate / transfer data; 
+ 
+R. instructions in place of rules 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+13 5 2 marks for AO1 (recall) 
+ 
+1 mark for each correct answer. 
+ 
+• Internet (layer); 
+• Link (layer) // Network interface (layer) // Network access (layer); 
+ 
+R. Network Layer on its own 
+ 
+2 
+ 
+  
+
+=== PDF page 15 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+15 
+Qu Part Marking guidance Total 
+marks 
+14 1 2 marks for AO1 (understanding) 
+ 
+B Redundant data is less likely to be stored; 
+D There are less likely to be data inconsistencies; 
+ 
+R. more than two lozenges shaded 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+14 2 Mark is for AO2 (apply) 
+ 
+Max 1 mark from: 
+ 
+CopyID; 
+StudentID; 
+ 
+I. case and spaces in field name 
+R. spelling mistakes 
+1 
+ 
+Qu Part Marking guidance Total 
+marks 
+14 3 Mark is for AO2 (apply) 
+ 
+Real // float // decimal // currency // (small)money; 
+ 
+R. integer or string data types 
+1 
+ 
+  
+
+=== PDF page 16 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+16 
+Qu Part Marking guidance Total 
+marks 
+14 4 6 marks for AO3 (program) 
+ 
+Note to examiners: if there is more than one set of SQL code you should only 
+mark the first set of code. 
+ 
+Note to examiners: To award both marks D and E there must not be more than 
+two conditions within the WHERE clause. 
+ 
+Maximum of 5 marks if any errors. 
+ 
+Mark A for the 4 correct fields in the SELECT clause and no others  
+Mark B for one correct table in FROM clause    
+Mark C for second correct table in FROM / JOIN clause and no others  
+Mark D for correct identification of join, either through WHERE statement or 
+using INNER JOIN … ON   
+Mark E for correct condition for 
+YearGroup in WHERE clause   
+Mark F for correct ORDER BY clause                                                                 
+ 
+DPT. consistent use of incorrect key words when their versions are meaningful 
+in the context of the question, eg GET instead of SELECT or use of AND 
+instead of commas in FROM clause. 
+DPT. incorrect spelling of field names. 
+DPT. consistent use of extraneous characters within the code. eg colons after 
+keywords 
+ 
+A. Table names in front of field names provided the table names are correct  
+A. quotes around 11 in where clause 
+ 
+I. missing ASC in ORDER BY clause 
+I. case and spacing 
+ 
+R. == in place of = 
+ 
+Sample answer: 
+ 
+SELECT FirstName, LastName, CopyID, DepositPaid [A] 
+FROM Student, Loan [B,C] 
+WHERE Student.StudentID = Loan.StudentID [D] 
+AND YearGroup = 11 [E] 
+ORDER BY LastName ASC [F] 
+ 
+Alternative answer: 
+ 
+SELECT FirstName, LastName, CopyID, DepositPaid [A] 
+FROM Student [B] 
+INNER JOIN Loan ON Student.StudentID = Loan.StudentID[C,D] 
+WHERE YearGroup = 11 [E] 
+ORDER BY LastName ASC [F] 
+ 
+6 
+ 
+
+=== PDF page 17 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+17 
+Qu Part Marking guidance Total 
+marks 
+ 
+14 
+ 
+5 
+ 
+2 marks for AO3 (program) 
+  
+1 mark for DELETE FROM Loan    
+ 
+1 mark for WHERE CopyID = "PB002" AND StudentID = "TUC004" 
+ 
+A. PB002 and TUC004 with single quotes in the WHERE clause. 
+ 
+I. case and spacing 
+ 
+R. == in place of = 
+ 
+ 
+2 
+  
+
+=== PDF page 18 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+18 
+Qu Part Marking guidance Total 
+marks 
+ 
+15 
+ 
+ 
+ 
+9 marks for AO2 (apply) 
+ 
+Level Description Mark Range 
+3 An answer at the top of the level contains a well-
+developed discussion of the benefits and issues 
+related to the collection of personal, health-related 
+data from wearable devices and data privacy and 
+legal issues relating to the data collection.  
+ 
+An answer at the bottom of the level contains good 
+explanations covering the benefits and issues 
+related to the collection of personal, health-related 
+data from wearable devices and data privacy and 
+legal issues relating to the data collection. 
+ 
+The discussion is logically structured and 
+considers a range of relevant points. 
+7–9 
+2 An answer at the top of the level includes an 
+explanation of at least one benefit of collecting 
+personal, health related data from wearable devices 
+and data privacy or legal issues relating to the data 
+collection. 
+ 
+An answer at the bottom of the level includes 
+detailed descriptions of both the benefits of 
+collecting personal, health related data from 
+wearable devices and data privacy or legal issues 
+relating to the data collection. 
+ 
+The answer has some structure and considers a 
+range of points though these may not always be 
+entirely focused on the topic.   
+4–6 
+1 The answer includes statements or brief 
+descriptions of some of the benefits of collecting 
+data from wearable devices, or related data privacy 
+issues, or related legal issues. 
+ 
+The response lacks structure but some relevant 
+points are made.  These may not, however, remain 
+focused on the topic.  
+1–3 
+0 No creditworthy material. 0 
+ 
+Note to Examiners: 
+Only content referring to wearable devices is creditworthy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+
+=== PDF page 19 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+19 
+Indicative Content 
+ 
+Benefits: 
+• k eeping and sharing the data allows convenient tracking of health and goal 
+setting 
+• i ndividual data collected over time can be motivational for maintaining fitness 
+• shared data i ncreases social engagement with other users promoting healthy 
+habits 
+• could lead to lots of business opportunities with apps tying into trackers 
+• sharing data could identify health issues early that can be treated before it is 
+too late 
+• d ata can be important in criminal investigations 
+• p rovides a large, otherwise inaccessible pool of data which can be used in 
+medical investigations and trials. 
+Data privacy: 
+• h uge amount of personal data collected, could be used / sold by companies to 
+insurance firms and affect life insurance quotes or be used for invasive 
+advertising 
+• o ften users are unaware of how much / type of data that is collected about 
+them and what it is going to be used for 
+• o ften users are unaware who the data is shared with 
+• u sers sharing data with friends voluntarily may not be aware if the friends’ 
+privacy settings are protecting their own data / are passing their data on 
+• n ot all companies collecting the data will have adequate protection against 
+cyber security threats 
+• criminals know the value of health- related data which can make companies 
+involved more likely to be attacked, threatening the security of the data 
+• i f companies collecting the data get hacked, it can lead to criminal activity 
+against the users compromising their safety, eg making some vulnerable users 
+more likely to be targeted for physical break-ins, assault or a variety of social 
+engineering attacks 
+• p ersonal data collected can be very private and a breach of the data security 
+embarrassing 
+• criminals getting hold of personal data could use it for blackmail  
+• r elease of data could harm the professional reputation of users such as 
+athletes or contractors or affect the value of companies where key personnel 
+have had their data released 
+• companies collecting the data may change their privacy settings and users are 
+slow to check 
+• companies other than the h ardware provider may have / want / need access to 
+the data. 
+Legal: 
+• u sers may be unaware of which country their data is being stored in and the 
+data protection laws in place for them 
+• can be unclear if  the consent given is legally binding 
+• f uture implications of consent rarely made clear and hard to predict future uses 
+of the data – who has control over the future use of the data?  How long for? 
+• does the company controlling the data comply with data protection regulations?  
+
+=== PDF page 20 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+20 
+• there is a question of who is responsible if too much data is collected or if data 
+is stolen or misused – are the terms and conditions clear?  Has the user read 
+them? 
+• tracking devices or apps could publish GPS location which could be exploited 
+by criminals and the device or app company may be legally responsible for the 
+damage caused by this 
+• insecure devices may enable increased likelihood of identity theft and the 
+company may be legally responsible for the damage caused by this 
+• reliance on manufacturing / app development company for data security; the 
+company may expose itself to legal action if there are any security breaches. 
+ 
+Qu Part Marking guidance Total 
+marks 
+16 1 2 marks for AO1 (recall) 
+ 
+(The processes / practices / technologies designed) to protect networks / 
+computers / programs / data; 
+ 
+from attack / damage / unauthorised access; 
+2 
+ 
+Qu Part Marking guidance Total 
+marks 
+16 2 Mark is for AO1 (recall) 
+ 
+(Computer) Virus;  
+Trojan; 
+Spyware; 
+ 
+Maximum of 1 mark. 
+ 
+A. other types of malware not specified in specification, such as: 
+Worms 
+Adware 
+Ransomware 
+Rootkits 
+ 
+R. specific malware names such as Stuxnet, WannaCry unless used as an 
+example to support a correct answer 
+ 
+1 
+ 
+  
+
+=== PDF page 21 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+21 
+Qu Part Marking guidance Total 
+marks 
+16 3 9 marks for AO2 (apply) 
+ 
+Level Description Mark Range 
+3 Answer tackles all of the threats listed in the 
+question and demonstrates a clear understanding of 
+both how the threats could be exploited and how 
+AQAware could protect themselves against the 
+threats.  Explanations are clear and detailed.  
+ 
+A range of relevant examples are covered and 
+these are clearly focused on how the company can 
+protect its systems.  
+7–9 
+2 Answer tackles most or all of the threats listed in 
+the question and demonstrates some understanding 
+of how the threats could be exploited and how 
+AQAware could protect itself against the threats. 
+Explanations are generally clear but sometimes 
+lack detail.  
+ 
+Some relevant examples are mentioned and these 
+are generally focused on how the company can 
+protect its systems but may sometimes stray into 
+referring to individual users. 
+4–6 
+1 Answer tackles one or more of the threats listed in 
+the question and demonstrates a limited 
+understanding of how the threats could be exploited 
+and/or how AQAware could protect itself against the 
+threats.  Explanations may not always be clear. 
+ 
+Examples may be provided but these may not 
+always be focused on how the company can protect 
+its systems and may stray into general points about 
+computer security. 
+1–3 
+0 No creditworthy material. 0 
+ 
+Indicative Content 
+ 
+How the threat could be exploited: 
+ 
+Weak and default passwords 
+• hackers could use brute force methods to crack passwords 
+• weak admin passwords would allow hackers to gain admin level access 
+• default passwords allow hackers to gain access without any effort 
+• default / stolen passwords published online so that everyone can find them. 
+ 
+Misconfigured access rights 
+• allows staff to access areas they are not supposed to 
+• network admins might not know that secure areas had been breached as no-
+one has ‘broken in’ 
+• staff could reconfigure network 
+• staff could create new user accounts to give themselves admin access. 
+9 
+
+=== PDF page 22 ===
+MARK SCHEME – GCSE COMPUTER SCIENCE – 8525/2 – JUNE 2023 
+22 
+Unpatched or outdated software 
+• could allow staff or hackers to exploit known weakness / flaw 
+• known weaknesses / flaws are published online 
+• once in a hacker could install malware. 
+ 
+How AQAware could protect themselves: 
+ 
+Weak and default passwords 
+• enforce a strong password policy, including admin accounts on all devices, 
+across the company with passwords that are regularly changed // force users 
+to change their passwords regularly to strong ones. 
+• ensure default passwords are changed on all devices 
+• implement biometric measures such as fingerprint / facial / retinal scans for 
+user authentication. 
+ 
+Misconfigured access rights 
+• careful application of suitable access rights across the network reducing the 
+level of access level of any one individual 
+• make sure users only have access to the data / software they need 
+• give read-only access instead of full access where possible 
+• ensure that only relevant accounts have access to change DNS files. 
+ 
+Unpatched or outdated software 
+• software patches and updates are applied regularly (automatically) to keep 
+the systems up to date, ensuring any recently discovered bugs or security 
+issues are patched. 
+ 
+A.  Any sensible threat and relevant protection method 
+ 
+ 
+ 
