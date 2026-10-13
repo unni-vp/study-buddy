@@ -81,3 +81,6 @@ body[class*="subject-"] .flashcard-category{background:var(--accent-soft);color:
 .flashcard-answer{min-width:0}.flashcard-answer .code-block{width:100%}.flashcard-front .code-block{grid-column:1/-1;width:100%}
 @media(max-width:720px){.code-block{padding:12px;font-size:14px}}
 @media print{.code-block{overflow:visible;break-inside:avoid;font-size:11pt;background:white}.code-block code{white-space:pre-wrap;overflow-wrap:anywhere}}
+/* Shared mascot logo; its transparent background works with every subject theme. */
+.brand-mark,.inner-page .brand-mark{display:inline-block;flex-shrink:0;width:48px;height:48px;padding:0;border-radius:0;font-size:0;line-height:0;color:transparent;background:transparent url("study-buddy-logo.png") center/contain no-repeat}
+.inner-page .brand-mark{width:32px;height:32px}
