@@ -1,0 +1,462 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        498,
+        454,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 259,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-practical-skills-overview",
+      "title": "Practical skills overview"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        520,
+        520,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 303,
+          "width": 354,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-planning-and-evidence",
+      "title": "Planning and scientific evidence"
+    },
+    {
+      "widths": [
+        314,
+        394,
+        352
+      ],
+      "column_heights": [
+        476,
+        476,
+        476
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 314,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 314,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 344,
+          "y": 18,
+          "width": 394,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 344,
+          "y": 281,
+          "width": 394,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-measurement-and-data",
+      "title": "Measurement and data"
+    },
+    {
+      "widths": [
+        290,
+        442,
+        328
+      ],
+      "column_heights": [
+        586,
+        613,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 290,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 442,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 237,
+          "width": 442,
+          "height": 410
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 774,
+          "y": 18,
+          "width": 328,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 774,
+          "y": 259,
+          "width": 328,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-spring",
+          "purpose": "Shows that elastic energy is the triangular area under a proportional force–extension graph."
+        }
+      ],
+      "slug": "03-heating-and-mechanics",
+      "title": "Heating and mechanical practicals"
+    },
+    {
+      "widths": [
+        290,
+        422,
+        348
+      ],
+      "column_heights": [
+        476,
+        591,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 290,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 422,
+          "height": 366
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 396,
+          "width": 422,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 754,
+          "y": 18,
+          "width": 348,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 754,
+          "y": 281,
+          "width": 348,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "ph-circuit",
+          "purpose": "Shows two genuine parallel branches connected across the same cell."
+        }
+      ],
+      "slug": "04-circuit-practicals",
+      "title": "Circuit practicals"
+    },
+    {
+      "widths": [
+        290,
+        434,
+        336
+      ],
+      "column_heights": [
+        498,
+        665,
+        527
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 434,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 320,
+          "y": 259,
+          "width": 434,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 320,
+          "y": 500,
+          "width": 434,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 766,
+          "y": 18,
+          "width": 336,
+          "height": 535
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "remaining-refraction",
+          "purpose": "Shows light changing speed and bending towards the normal as it enters glass obliquely."
+        }
+      ],
+      "slug": "05-wave-and-ir-practicals",
+      "title": "Wave and infrared practicals"
+    }
+  ]
+}

@@ -58,7 +58,7 @@ def write(subject,n,data):
             panel['groups']=[dict(lines=[line for g in groups[i:i+2] for line in g['lines']]) for i in range(0,len(groups),2)]
             if source.get('visual'):
                 panel['visual']={**source['visual'],'after':source['visual']['after']//2}
-        svg,record=build_map(item['title'],item['slug'],panels,drawing_provider=drawing,purpose_provider={**existing_purposes,**PURPOSES},apply_biology_visuals=False)
+        svg,record=build_map(item['title'],item['slug'],panels,columns=item.get('columns'),drawing_provider=drawing,purpose_provider={**existing_purposes,**PURPOSES},apply_biology_visuals=False)
         path=topic/'Mind Maps'/(item['slug']+'.svg');path.write_text(svg,encoding='utf-8');paths.append(str(path))
         text=['# '+item['title']]
         for panel in item['panels']:text.extend(['## '+panel['title'],*panel['lines']])

@@ -1,0 +1,52 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8463, Higher tier",
+  "source": "../00 - Specification/AQA-8463-specification.pdf",
+  "coverage": [
+    "3: WS1.1–1.6,WS2.1–2.7,WS3.1–3.8,WS4.1–4.6",
+    "8: apparatus and techniques AT1–8",
+    "8.2.1–8.2.10"
+  ],
+  "coverage_checklist": {
+    "WS1": "Planning and evidence: models, developments, ethics, applications, measured/perceived risk and peer review",
+    "WS2": "Planning, sampling, controls, apparatus, safe methods, records and improvement",
+    "WS3": "Measurements and data: tables, graphs, statistics, uncertainty, conclusions and errors",
+    "WS4": "Quantities/units, prefixes, significant figures and clear communication; maths topic provides further worked practice",
+    "8.2.1–8.2.2": "Specific heat and insulation methods",
+    "8.2.3–8.2.4": "Resistance and I–V methods",
+    "8.2.5–8.2.7": "Density, spring and acceleration methods",
+    "8.2.8–8.2.10": "Waves, reflection/refraction and IR methods"
+  },
+  "practicals": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "mindmaps": [
+    "00-practical-skills-overview",
+    "01-planning-and-evidence",
+    "02-measurement-and-data",
+    "03-heating-and-mechanics",
+    "04-circuit-practicals",
+    "05-wave-and-ir-practicals"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Working scientifically and required practicals - Questions and Answers.md",
+    "deck": "Flash Cards/Working scientifically and required practicals - Flash Cards.json",
+    "count": 35,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

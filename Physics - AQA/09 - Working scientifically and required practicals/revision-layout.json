@@ -1,0 +1,93 @@
+{
+  "source": "Working scientifically and required practicals - Revision Notes.md",
+  "groups": [
+    {
+      "id": "planning",
+      "title": "Planning and evidence",
+      "description": "Test ideas fairly, safely and with a clear explanation.",
+      "icon": "science-practical",
+      "sections": [
+        {
+          "heading": "Build a testable investigation"
+        },
+        {
+          "heading": "Safe methods and representative samples"
+        },
+        {
+          "heading": "Evaluate explanations and evidence"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Measurements and data",
+      "description": "Understand errors, uncertainty and graph choices.",
+      "icon": "physics-motion",
+      "sections": [
+        {
+          "heading": "Measurement quality and errors"
+        },
+        {
+          "heading": "Record and analyse data"
+        },
+        {
+          "heading": "Write a complete practical answer"
+        }
+      ]
+    },
+    {
+      "id": "mechanical",
+      "title": "Heating and mechanics",
+      "description": "Review heating, density, springs and acceleration methods.",
+      "icon": "physics-forces",
+      "sections": [
+        {
+          "heading": "Practical: specific heat capacity"
+        },
+        {
+          "heading": "Practical: thermal insulation"
+        },
+        {
+          "heading": "Practical: density"
+        },
+        {
+          "heading": "Practical: force and extension"
+        },
+        {
+          "heading": "Practical: force, mass and acceleration"
+        }
+      ]
+    },
+    {
+      "id": "circuits",
+      "title": "Circuit investigations",
+      "description": "Connect meters correctly and compare resistance and I–V graphs.",
+      "icon": "physics-electricity",
+      "sections": [
+        {
+          "heading": "Practical: resistance"
+        },
+        {
+          "heading": "Practical: current–voltage characteristics"
+        }
+      ]
+    },
+    {
+      "id": "waves",
+      "title": "Waves and radiation",
+      "description": "Measure waves, trace rays and compare infrared surfaces.",
+      "icon": "physics-waves",
+      "sections": [
+        {
+          "heading": "Practical: waves in water and solids"
+        },
+        {
+          "heading": "Practical: reflection and refraction"
+        },
+        {
+          "heading": "Practical: infrared absorption and emission"
+        }
+      ]
+    }
+  ]
+}
