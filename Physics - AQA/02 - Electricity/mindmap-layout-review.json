@@ -1,0 +1,330 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        334,
+        350,
+        376
+      ],
+      "column_heights": [
+        454,
+        476,
+        679
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 334,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 334,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 350,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 364,
+          "y": 281,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 726,
+          "y": 18,
+          "width": 376,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 726,
+          "y": 281,
+          "width": 376,
+          "height": 432
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 5,
+          "kind": "ph-field",
+          "purpose": "Shows a radial field and its direction around an isolated positive sphere."
+        }
+      ],
+      "slug": "00-electricity-overview",
+      "title": "Electricity overview",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        498,
+        569,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 215,
+          "width": 354,
+          "height": 388
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-circuit",
+          "purpose": "Shows two genuine parallel branches connected across the same cell."
+        }
+      ],
+      "slug": "01-circuits-and-components",
+      "title": "Circuits & components",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        290,
+        450,
+        320
+      ],
+      "column_heights": [
+        542,
+        626,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 281,
+          "width": 290,
+          "height": 295
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 320,
+          "y": 18,
+          "width": 450,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 320,
+          "y": 272,
+          "width": 450,
+          "height": 388
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 782,
+          "y": 18,
+          "width": 320,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 782,
+          "y": 259,
+          "width": 320,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "ph-circuit",
+          "purpose": "Shows two genuine parallel branches connected across the same cell."
+        }
+      ],
+      "slug": "02-circuit-investigations",
+      "title": "Circuit investigations",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        362,
+        318,
+        380
+      ],
+      "column_heights": [
+        599,
+        454,
+        613
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 362,
+          "height": 273
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 303,
+          "width": 362,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 392,
+          "y": 18,
+          "width": 318,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 392,
+          "y": 259,
+          "width": 318,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 722,
+          "y": 18,
+          "width": 380,
+          "height": 410
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 722,
+          "y": 440,
+          "width": 380,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "ph-field",
+          "purpose": "Shows a radial field and its direction around an isolated positive sphere."
+        }
+      ],
+      "slug": "03-power-mains-and-fields",
+      "title": "Power, mains & fields",
+      "source_panels_preserved": 6
+    }
+  ]
+}
