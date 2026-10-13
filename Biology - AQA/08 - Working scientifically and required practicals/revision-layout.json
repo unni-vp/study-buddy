@@ -1,0 +1,87 @@
+{
+  "source": "Working scientifically and required practicals - Revision Notes.md",
+  "groups": [
+    {
+      "id": "investigation",
+      "title": "Investigations and evidence",
+      "description": "Plan fair tests and evaluate data, uncertainty and explanations.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "From question to fair investigation"
+        },
+        {
+          "heading": "Measurements, errors and improvements"
+        },
+        {
+          "heading": "Evidence, graphs and conclusions"
+        },
+        {
+          "heading": "Applying methods to unfamiliar contexts"
+        }
+      ]
+    },
+    {
+      "id": "cells",
+      "title": "Cells, cultures and osmosis",
+      "description": "Observe cells and measure growth or water movement.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Microscopy and biological drawings"
+        },
+        {
+          "heading": "Antibiotics and antiseptics on agar"
+        },
+        {
+          "heading": "Osmosis in plant tissue"
+        }
+      ]
+    },
+    {
+      "id": "reactions",
+      "title": "Food tests, enzymes and photosynthesis",
+      "description": "Choose reagents and measure rates under controlled conditions.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Food tests"
+        },
+        {
+          "heading": "Amylase and pH"
+        },
+        {
+          "heading": "Photosynthesis and light intensity"
+        }
+      ]
+    },
+    {
+      "id": "responses",
+      "title": "Human and plant responses",
+      "description": "Control response investigations and record suitable observations.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Human reaction time"
+        },
+        {
+          "heading": "Seedling responses to light or gravity"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "Sampling and milk decay",
+      "description": "Investigate distribution and compare pH-change rates.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Ecology sampling"
+        },
+        {
+          "heading": "Milk decay and temperature"
+        }
+      ]
+    }
+  ]
+}

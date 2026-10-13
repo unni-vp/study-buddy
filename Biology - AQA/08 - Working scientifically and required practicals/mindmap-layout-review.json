@@ -1,0 +1,444 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        358,
+        354,
+        348
+      ],
+      "column_heights": [
+        432,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 259,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 754,
+          "y": 18,
+          "width": 348,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 754,
+          "y": 237,
+          "width": 348,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-practical-overview",
+      "title": "Biology investigations and practicals"
+    },
+    {
+      "widths": [
+        346,
+        366,
+        348
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 346,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 366,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 215,
+          "width": 366,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 754,
+          "y": 18,
+          "width": 348,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 754,
+          "y": 237,
+          "width": 348,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-design-and-evidence",
+      "title": "Designing investigations and evaluating evidence"
+    },
+    {
+      "widths": [
+        338,
+        370,
+        352
+      ],
+      "column_heights": [
+        432,
+        432,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 338,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 338,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 368,
+          "y": 18,
+          "width": 370,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 368,
+          "y": 259,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-cells-and-osmosis",
+      "title": "Microscopy, cultures and osmosis practicals"
+    },
+    {
+      "widths": [
+        350,
+        370,
+        340
+      ],
+      "column_heights": [
+        432,
+        432,
+        366
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 370,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 237,
+          "width": 370,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 762,
+          "y": 18,
+          "width": 340,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 762,
+          "y": 215,
+          "width": 340,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-food-enzymes-and-photosynthesis",
+      "title": "Food tests, enzymes and photosynthesis"
+    },
+    {
+      "widths": [
+        350,
+        358,
+        352
+      ],
+      "column_heights": [
+        410,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 237,
+          "width": 358,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-responses-and-sampling",
+      "title": "Responses and ecological sampling"
+    },
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        432,
+        410,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-milk-and-method-evaluation",
+      "title": "Milk decay and practical evaluation"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "title": "Working scientifically and required practicals flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is the independent variable?",
+      "back": [
+        "The factor changed or selected by the investigator."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the dependent variable?",
+      "back": [
+        "The quantity measured."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does accuracy mean?",
+      "back": [
+        "Closeness to the true value."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does repeatability mean?",
+      "back": [
+        "Similar results from repeats by the same investigator under the same conditions."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which reagent tests for starch?",
+      "back": [
+        "Iodine solution."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a positive Biuret result?",
+      "back": [
+        "Lilac or purple."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "At what temperature are school agar cultures normally incubated?",
+      "back": [
+        "About 25°C."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which buffer-controlled variable is changed in the amylase practical?",
+      "back": [
+        "pH."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the acidic products causing pH to fall in the lipase milk experiment.",
+      "back": [
+        "Fatty acids."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What type of sampling uses quadrats at regular intervals along a line?",
+      "back": [
+        "Systematic sampling."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why keep temperature constant when investigating amylase activity at different pH values?",
+      "back": [
+        "Temperature also affects **enzyme activity**.",
+        "Keeping it constant helps attribute differences to **pH**, rather than temperature."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why repeating measurements reduces random error but not a systematic zero error.",
+      "back": [
+        "Repeats and a mean reduce the effect of **unpredictable scatter**.",
+        "A consistent zero offset affects every reading, so it must be corrected or recalibrated."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish precision from accuracy.",
+      "back": [
+        "Precision means repeated measurements **cluster closely**.",
+        "Accuracy means closeness to the **true value**; clustered readings can all be biased."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why should an unusual result not automatically be discarded?",
+      "back": [
+        "It may be a genuine biological difference rather than an error.",
+        "Check the method and repeat; exclude only with a **justified cause**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two features of a good biological drawing.",
+      "back": [
+        "Clear single outlines in proportion, with no invented structures.",
+        "Accurate labels with straight non-crossing lines, plus a suitable scale or magnification."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why incubate agar plates inverted and below body temperature?",
+      "back": [
+        "Inversion reduces condensation dripping onto and spreading the culture.",
+        "About 25°C reduces the risk of growing harmful human pathogens compared with body temperature."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why include a solvent-only disc in an inhibition-zone investigation?",
+      "back": [
+        "It checks whether the solvent or disc itself affects growth.",
+        "The comparison helps identify an effect of the **active agent**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why blot plant tissue before final weighing?",
+      "back": [
+        "Surface solution would add mass unrelated to osmosis.",
+        "Consistent gentle blotting removes it without squeezing water from the tissue."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why use percentage rather than absolute mass change for potato pieces?",
+      "back": [
+        "Pieces may have different initial masses.",
+        "Percentage change relates the gain/loss to starting mass, giving a fairer comparison."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why sample onto fresh iodine wells rather than adding iodine into the amylase reaction?",
+      "back": [
+        "Fresh wells test successive samples without changing the main reaction mixture.",
+        "Adding iodine to the reaction could alter conditions and the result."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one limitation of bubble counting and a specific improvement.",
+      "back": [
+        "Bubbles differ in volume, so equal counts need not mean equal oxygen production.",
+        "Collect **oxygen volume per unit time** instead."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why allow pondweed to equilibrate after moving the lamp?",
+      "back": [
+        "Photosynthesis needs time to respond to the new conditions.",
+        "Measuring after equilibration makes rates more comparable at each setting."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why use an unpredictable ruler release in a reaction-time test?",
+      "back": [
+        "It reduces **anticipation** of the release.",
+        "The measurement then better reflects response to seeing the fall."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why investigate gravity responses in darkness?",
+      "back": [
+        "Light can produce a separate directional growth response.",
+        "Darkness reduces this competing influence, helping isolate gravity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why measure an abiotic factor at each transect position?",
+      "back": [
+        "It links abundance to the actual conditions experienced at that site.",
+        "Assuming distance alone represents light or moisture could misidentify the cause."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is a milk-decay endpoint comparison valid only with the same starting conditions and endpoint?",
+      "back": [
+        "Different starting pH or endpoints require different amounts of fatty acid.",
+        "Time differences could then reflect the amount of change required rather than enzyme activity."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe a positive reducing-sugar test and its main safety precaution.",
+      "back": [
+        "Add **Benedict’s solution** to the sample.",
+        "Warm in a **hot water bath**, looking for a green/yellow/orange/brick-red precipitate.",
+        "Use eye protection and handle hot tubes safely, pointing them away from people."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe a lipid test using ethanol.",
+      "back": [
+        "Mix the sample with ethanol so lipid can dissolve.",
+        "Add water; a **milky emulsion** indicates lipid.",
+        "Keep ethanol away from flames because it is flammable."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A plant-tissue sample increases from 2.00 g to 2.30 g. Calculate percentage change and explain it.",
+      "back": [
+        "Change = 2.30 −2.00 = **0.30 g**.",
+        "Percentage = 0.30/2.00 ×100 = **15% increase**.",
+        "Net water entered tissue by **osmosis** under these conditions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An inhibition-zone diameter is 12 mm. Calculate its circular area, including the disc.",
+      "back": [
+        "Radius = 12/2 = **6 mm**.",
+        "Area = π ×6².",
+        "Area ≈ **113 mm²**, to three significant figures."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how to determine a reaction-rate proxy from amylase endpoint times.",
+      "back": [
+        "Use the time for the **same amount of starch** to disappear.",
+        "Calculate **1/time**, with s⁻¹ if time is seconds.",
+        "A shorter endpoint time gives a larger rate proxy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a lamp-distance experiment can be confounded by heating.",
+      "back": [
+        "Moving the lamp can change water temperature as well as light intensity.",
+        "Temperature affects photosynthesis through enzyme activity.",
+        "Use a monitored bath/heat shield and keep temperature comparable."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Three endpoint times are 50, 54 and 52 s. Calculate mean time, range and reciprocal mean time.",
+      "back": [
+        "Mean = (50+54+52)/3 = **52 s**.",
+        "Range = 54 −50 = **4 s**.",
+        "Reciprocal mean = 1/52 ≈ **0.0192 s⁻¹**; keep the rate-comparison method consistent."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how peer review and replication strengthen a biological claim.",
+      "back": [
+        "Peer reviewers assess whether methods, analysis and conclusions are justified.",
+        "Independent replication tests whether the effect can be obtained again.",
+        "Together they increase confidence, while neither guarantees a claim is correct."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe preparation and observation of an onion-cell slide.",
+      "back": [
+        "Place a thin tissue layer on a slide with a suitable stain.",
+        "Lower a coverslip at an angle to limit air bubbles.",
+        "Start at low power, locate and focus, then increase magnification with careful fine focus.",
+        "Draw observed structures clearly, label them and include appropriate scale/magnification."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how to improve a ruler-drop study that always tests the distracting condition second.",
+      "back": [
+        "Practice may make later attempts faster; fatigue may make them slower.",
+        "Balance or randomise condition order across participants.",
+        "Keep ruler position, hand and instructions constant and repeat both conditions.",
+        "Compare mean times and spread using consenting participants and a safe distraction."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Plan a controlled comparison of seedling response to one-sided light.",
+      "back": [
+        "Use several seedlings of the same species, age and similar size.",
+        "Compare one-sided with appropriate all-round light over the same time.",
+        "Keep water, temperature and growing medium consistent.",
+        "Record lengths and accurate labelled drawings of root/shoot directions, then repeat and compare."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A study finds taller plants where light is brighter. Explain what can and cannot be concluded.",
+      "back": [
+        "The data show a correlation in the sampled conditions.",
+        "Light could affect photosynthesis and growth.",
+        "Soil moisture, minerals, species or plant age could also differ.",
+        "A controlled investigation and broader sampling are needed to isolate causes; the correlation alone does not prove light caused every difference."
+      ]
+    }
+  ]
+}

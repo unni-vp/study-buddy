@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-10-13",
+  "specification": "AQA 8461, Higher tier",
+  "source": "../00 - Specification/AQA-8461-specification.pdf",
+  "coverage": [
+    "Working scientifically 1–4",
+    "Apparatus and techniques AT1–AT8",
+    "8.2.1–8.2.10"
+  ],
+  "coverage_checklist": {
+    "WS1": "Evidence/model limits/theory development/ethics/risks/peer review and communication",
+    "WS2": "Hypotheses, variables, apparatus, safety/sampling/observations/improvements",
+    "WS3": "Data presentation/maths/uncertainty/trends/conclusions/errors and reporting",
+    "WS4": "Vocabulary/units/prefixes/conversion/significant figures",
+    "RPA1–RPA10": "All ten aims, sequential methods, controls, measurements, underlying mechanisms, relevant calculations, limitations and safety"
+  },
+  "practicals": [
+    "RPA1",
+    "RPA2",
+    "RPA3",
+    "RPA4",
+    "RPA5",
+    "RPA6",
+    "RPA7",
+    "RPA8",
+    "RPA9",
+    "RPA10"
+  ],
+  "mindmaps": [
+    "00-practical-overview",
+    "01-design-and-evidence",
+    "02-cells-and-osmosis",
+    "03-food-enzymes-and-photosynthesis",
+    "04-responses-and-sampling",
+    "05-milk-and-method-evaluation"
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-13",
+    "source": "Questions and Answers/Working scientifically and required practicals - Questions and Answers.md",
+    "deck": "Flash Cards/Working scientifically and required practicals - Flash Cards.json",
+    "count": 38,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Apply and calculate",
+      "Multi-step application"
+    ]
+  }
+}

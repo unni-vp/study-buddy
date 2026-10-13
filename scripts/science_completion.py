@@ -6,6 +6,8 @@ from copy import deepcopy
 from biology_readable_mindmaps import prepare_panels,build_map
 from subject_explanatory_figures import drawing as existing_drawing,PURPOSES as existing_purposes
 from science_remaining_figures import FIGURES,PURPOSES
+from biology_explanatory_figures import DRAWINGS as BIOLOGY_DRAWINGS, drawing as biology_drawing, PURPOSES as BIOLOGY_PURPOSES
+PURPOSES.update(BIOLOGY_PURPOSES)
 
 ROOT=Path(__file__).resolve().parents[1]
 def q(marks,prompt,answer,spec,evidence='Additional specification-based practice'):
@@ -16,7 +18,9 @@ def p(title,*lines,visual=None):
     return value
 def m(slug,title,*panels):return dict(slug=slug,title=title,panels=list(panels))
 def drawing(kind,width):
-    return FIGURES[kind](width) if kind in FIGURES else existing_drawing(kind,width)
+    if kind in FIGURES:return FIGURES[kind](width)
+    if kind in BIOLOGY_DRAWINGS:return biology_drawing(kind,width)
+    return existing_drawing(kind,width)
 def write(subject,n,data):
     config=json.loads((ROOT/'project-config.json').read_text(encoding='utf-8'))
     title=config['subjects'][subject]['topics'][n-1]['title']
