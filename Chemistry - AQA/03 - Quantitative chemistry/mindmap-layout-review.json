@@ -1,0 +1,312 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/readable_subject_mindmaps.py",
+  "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21,
+    "minimum_diagram_label_pt": 11.21
+  },
+  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "maps": [
+    {
+      "widths": [
+        318,
+        338,
+        404
+      ],
+      "column_heights": [
+        555,
+        546,
+        568
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 318,
+          "height": 330
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 360,
+          "width": 318,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 348,
+          "y": 18,
+          "width": 338,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 348,
+          "y": 316,
+          "width": 338,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 698,
+          "y": 18,
+          "width": 404,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 698,
+          "y": 316,
+          "width": 404,
+          "height": 286
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-quantitative-overview",
+      "title": "Quantitative chemistry",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        326,
+        350,
+        384
+      ],
+      "column_heights": [
+        489,
+        480,
+        686
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 326,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 326,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 356,
+          "y": 18,
+          "width": 350,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 356,
+          "y": 272,
+          "width": 350,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 718,
+          "y": 18,
+          "width": 384,
+          "height": 426
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 718,
+          "y": 456,
+          "width": 384,
+          "height": 264
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "chem-limiting",
+          "purpose": "Makes the limiting reactant and leftover excess visible in a particle model."
+        }
+      ],
+      "slug": "01-moles-and-reacting-masses",
+      "title": "Moles & reacting masses",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        334,
+        318,
+        408
+      ],
+      "column_heights": [
+        480,
+        467,
+        480
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 334,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 294,
+          "width": 334,
+          "height": 220
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 318,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 364,
+          "y": 281,
+          "width": 318,
+          "height": 220
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 694,
+          "y": 18,
+          "width": 408,
+          "height": 242
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 694,
+          "y": 272,
+          "width": 408,
+          "height": 242
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "02-solutions-and-gases",
+      "title": "Solutions & gases",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        302,
+        350,
+        408
+      ],
+      "column_heights": [
+        432,
+        489,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 302,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 302,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 332,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 332,
+          "y": 259,
+          "width": 350,
+          "height": 264
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 694,
+          "y": 18,
+          "width": 408,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 694,
+          "y": 281,
+          "width": 408,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "03-yield-and-atom-economy",
+      "title": "Yield & atom economy",
+      "source_panels_preserved": 6
+    }
+  ]
+}
