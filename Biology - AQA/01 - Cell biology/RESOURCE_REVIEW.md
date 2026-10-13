@@ -128,3 +128,9 @@ Applied to all seven mind maps: larger side/bottom insets, clear heading-to-body
 - Added question/answer reveal on the card itself, previous/next controls, shuffle/reset controls, keyboard operation and a printable question-and-answer layout. Other topics do not display an empty Flash cards button.
 - Removed the study-group selector, separate reveal button and retrieval-practice label after visual review. The card now uses a centred, card-sized desktop width rather than filling the content area.
 - Browser verification passed for answer conceal/reveal, navigation, desktop and 390 px mobile widths. The full site link check passed across 331 HTML pages.
+
+## 2026-10-13 — single overview and in-view navigation
+
+- The approved illustrated artwork is now the main 00-cell-biology-overview. Removed the duplicate alternative entry and its superseded pages. The existing overview URL and full text counterpart are retained.
+- Both maintained Cell Biology generators produce the approved artwork, so rebuilding cannot restore the older overview.
+- Seven gallery entries pass the layout and Previous/Next desktop/mobile checks; all 454 site pages have working local links.

@@ -1,4 +1,4 @@
-"""A separate illustrated A4 overview; existing map sources are never rewritten."""
+"""The approved illustrated A4 Cell Biology overview and shared mitosis drawing."""
 from pathlib import Path
 from html import escape
 from PIL import ImageFont
@@ -6,7 +6,7 @@ import json
 
 ROOT = Path(__file__).resolve().parents[1] if Path(__file__).parent.name == 'scripts' else Path(r'D:\Shreya\study-buddy')
 FOLDER = ROOT / 'Biology - AQA/01 - Cell biology/Mind Maps'
-SLUG = '07-cell-biology-illustrated-overview'
+SLUG = '00-cell-biology-overview'
 W, H = 1120, 768
 SUBHEADING_SIZE = 16  # Match Compare discs; about 11.2 pt on A4.
 INK = '#000000'
@@ -82,9 +82,9 @@ def panel(number,title,x,y,w,h,color,body):
     return f'<g class="map-section" style="--panel-accent:{color}" id="illustrated-{number}" transform="translate({x} {y})" data-bounds="0,0,{w},{h}"><rect width="{w}" height="{h}" rx="16" fill="white" stroke="{color}" stroke-width="1.9"/><rect x="9" y="9" width="{w-18}" height="36" rx="11" fill="{color}" opacity=".09"/><g class="section-heading"><circle cx="29" cy="27" r="12" fill="{color}"/>{heading}</g><g class="section-body">{body}</g></g>'
 
 
-def build():
+def build_svg():
     defs=''.join(f'<marker id="arrow-{c[1:]}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="{c}" stroke-width="2" stroke-linejoin="round"/></marker>' for c in [BLUE,ORANGE,PURPLE,TEAL,GREEN])
-    out=[f'<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="{2400*H/W:.3f}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="map-title map-description" font-family="Segoe UI,Arial,sans-serif"><title id="map-title">Cell biology — illustrated overview</title><desc id="map-description">Six clearly divided sections explain cell structures, specialised cells, microscopy, division and stem cells, culturing, and transport with exchange. Mitosis is the only diagram. Bold labels with colons introduce explanations. A complete text counterpart is also available.</desc><defs>{defs}</defs><style>.relationship-arrow{{fill:var(--panel-accent,#2366a0)}}.keyword{{fill:inherit}}</style><rect width="1120" height="768" fill="#fffdf8"/>']
+    out=[f'<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="{2400*H/W:.3f}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="map-title map-description" font-family="Segoe UI,Arial,sans-serif"><title id="map-title">Cell biology overview</title><desc id="map-description">Six clearly divided sections explain cell structures, specialised cells, microscopy, division and stem cells, culturing, and transport with exchange. Mitosis is the only diagram. Bold labels with colons introduce explanations. A complete text counterpart is also available.</desc><defs>{defs}</defs><style>.relationship-arrow{{fill:var(--panel-accent,#2366a0)}}.keyword{{fill:inherit}}</style><rect width="1120" height="768" fill="#fffdf8"/>']
 
     # Cell types have their own subsections, rather than picture-led columns.
     body=text(18,75,'Animal + plant cells (eukaryotic)',SUBHEADING_SIZE,BLUE,True)
@@ -215,19 +215,25 @@ def build():
     out.append(panel(6,'Culturing microorganisms',396,439,364,311,ORANGE,body))
 
     out.append('</svg>')
+    return ''.join(out)
+
+
+def build():
     FOLDER.mkdir(exist_ok=True)
-    (FOLDER/(SLUG+'.svg')).write_text(''.join(out),encoding='utf-8')
-    original=(FOLDER/'00-cell-biology-overview.md').read_text(encoding='utf-8')
-    (FOLDER/(SLUG+'.md')).write_text(original.replace('# Cell biology overview','# Cell biology illustrated overview',1),encoding='utf-8')
+    (FOLDER/(SLUG+'.svg')).write_text(build_svg(),encoding='utf-8')
+    from cell_biology_map_content import MAP_CONTENT
+    source=next(m for m in MAP_CONTENT if m['slug']==SLUG)
+    md='# '+source['title']+'\n\n'+'\n\n'.join('## '+p['title'].capitalize()+'\n\n'+'\n'.join('- '+line for line in p['lines']) for p in source['panels'])+'\n'
+    (FOLDER/(SLUG+'.md')).write_text(md,encoding='utf-8')
     review={
         'reviewed':'2026-10-13',
-        'type':'Alternative one-page text-led overview with the existing mitosis diagram and complete overview text counterpart',
+        'type':'Main one-page text-led overview with the existing mitosis diagram and complete overview text counterpart',
         'source':'scripts/cell_biology_illustrated_overview.py',
         'specification':'AQA 8461 4.1, local specification PDF pages 15–23',
         'scope':['cell structures','six specialised cells','differentiation','microscopy','mitosis and stem cells','culturing and calculations','diffusion, osmosis, active transport and exchange'],
-        'detail_preservation':'Original seven maps and their full Markdown content are unchanged. The alternative has the same complete overview text counterpart.',
+        'detail_preservation':'The approved illustrated artwork replaces the older overview. Detailed maps and the complete overview text counterpart are retained.',
         'print':{'width_mm':277,'orientation':'landscape','smallest_text_pt':round(16/1120*277/25.4*72,2)},
-        'layout_preferences':['Mitosis is the only diagram','No central heading panel','Clear subsections and fuller explanations','Bold keyword and colon labels','Black body text and keywords beneath coloured headings','Consistent 16-unit bold subsection headings; explanations on separate body lines','Compact 16-unit outer gutters with preserved inner padding','Light panel-colour dividers between natural content groups','Original maps preserved'],
+        'layout_preferences':['Mitosis is the only diagram','No central heading panel','Clear subsections and fuller explanations','Bold keyword and colon labels','Black body text and keywords beneath coloured headings','Consistent 16-unit bold subsection headings; explanations on separate body lines','Compact 16-unit outer gutters with preserved inner padding','Light panel-colour dividers between natural content groups','Single overview, followed by six detailed maps'],
         'scientific_review':['Existing chromosome identities, copies, separation and daughter sets preserved','No nucleus around separating chromatids','Plant chloroplast qualification retained','Bacterial plasmid qualification retained','Osmosis describes water, solutions and partially permeable membrane','Active transport states against-gradient direction and respiration energy','Clear-zone area and repeated-doubling calculations retained','School incubation limit and practical comparison retained'],
     }
     (FOLDER.parent/'illustrated-overview-review.json').write_text(json.dumps(review,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

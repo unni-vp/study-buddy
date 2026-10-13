@@ -42,6 +42,9 @@ def rich(x,y,rows,size):
     return ''.join(result),y
 
 def build_svg(m):
+    if m['slug']=='00-cell-biology-overview':
+        from cell_biology_illustrated_overview import build_svg as overview_svg
+        return overview_svg()
     from biology_readable_mindmaps import build_cell_map
     return build_cell_map(m)
 

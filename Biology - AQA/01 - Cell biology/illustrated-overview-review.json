@@ -1,6 +1,6 @@
 {
   "reviewed": "2026-10-13",
-  "type": "Alternative one-page text-led overview with the existing mitosis diagram and complete overview text counterpart",
+  "type": "Main one-page text-led overview with the existing mitosis diagram and complete overview text counterpart",
   "source": "scripts/cell_biology_illustrated_overview.py",
   "specification": "AQA 8461 4.1, local specification PDF pages 15–23",
   "scope": [
@@ -12,7 +12,7 @@
     "culturing and calculations",
     "diffusion, osmosis, active transport and exchange"
   ],
-  "detail_preservation": "Original seven maps and their full Markdown content are unchanged. The alternative has the same complete overview text counterpart.",
+  "detail_preservation": "The approved illustrated artwork replaces the older overview. Detailed maps and the complete overview text counterpart are retained.",
   "print": {
     "width_mm": 277,
     "orientation": "landscape",
@@ -27,7 +27,7 @@
     "Consistent 16-unit bold subsection headings; explanations on separate body lines",
     "Compact 16-unit outer gutters with preserved inner padding",
     "Light panel-colour dividers between natural content groups",
-    "Original maps preserved"
+    "Single overview, followed by six detailed maps"
   ],
   "scientific_review": [
     "Existing chromosome identities, copies, separation and daughter sets preserved",

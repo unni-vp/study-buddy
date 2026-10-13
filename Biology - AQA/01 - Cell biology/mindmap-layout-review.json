@@ -10,78 +10,6 @@
   "full_text": "Existing full Markdown counterparts retained",
   "maps": [
     {
-      "slug": "00-cell-biology-overview",
-      "widths": [
-        362,
-        382,
-        316
-      ],
-      "column_heights": [
-        731,
-        731,
-        692
-      ],
-      "panels": [
-        {
-          "source_panels": [
-            0,
-            1
-          ],
-          "x": 18,
-          "y": 18,
-          "width": 362,
-          "height": 489
-        },
-        {
-          "source_panels": [
-            3
-          ],
-          "x": 18,
-          "y": 519,
-          "width": 362,
-          "height": 230
-        },
-        {
-          "source_panels": [
-            5,
-            2
-          ],
-          "x": 392,
-          "y": 18,
-          "width": 382,
-          "height": 445
-        },
-        {
-          "source_panels": [
-            4
-          ],
-          "x": 392,
-          "y": 475,
-          "width": 382,
-          "height": 274
-        },
-        {
-          "source_panels": [
-            6
-          ],
-          "x": 786,
-          "y": 18,
-          "width": 316,
-          "height": 326
-        },
-        {
-          "source_panels": [
-            7
-          ],
-          "x": 786,
-          "y": 356,
-          "width": 316,
-          "height": 370
-        }
-      ],
-      "body_pt": 11.22
-    },
-    {
       "slug": "01-cells",
       "widths": [
         290,
@@ -585,5 +513,6 @@
       ],
       "body_pt": 11.22
     }
-  ]
+  ],
+  "overview_review": "illustrated-overview-review.json"
 }
