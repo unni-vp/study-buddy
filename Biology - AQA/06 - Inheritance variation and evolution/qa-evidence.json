@@ -1,0 +1,446 @@
+{
+  "reviewed": "2026-10-13",
+  "sample": "June 2022 and 2023 Biology Paper 2 Higher were reviewed. Recessive inheritance/family-tree or Punnett reasoning appears in 2022 Q05.1–05.2 and 2023 Q07.4–07.5 (2/2 papers). Sex inheritance and selective breeding are assessed in 2023 Q03.5–03.9; meiosis in 2023 Q08.3 and fossil/genetic evidence in 2023 Q09. Remaining questions are current-specification-based original practice. Original contexts and data are used; this sample is not a ranked prediction.",
+  "questions": [
+    {
+      "marks": 1,
+      "prompt": "What is a genome?",
+      "answer": "An organism’s entire genetic material.",
+      "specification": "4.6.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 1
+    },
+    {
+      "marks": 1,
+      "prompt": "Which division produces gametes?",
+      "answer": "Meiosis.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 2
+    },
+    {
+      "marks": 1,
+      "prompt": "How many chromosomes are usually present in a human gamete?",
+      "answer": "23.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 3
+    },
+    {
+      "marks": 1,
+      "prompt": "What is an allele?",
+      "answer": "A version of a gene.",
+      "specification": "4.6.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 4
+    },
+    {
+      "marks": 1,
+      "prompt": "What does heterozygous mean?",
+      "answer": "Having two different alleles for a gene.",
+      "specification": "4.6.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 5
+    },
+    {
+      "marks": 1,
+      "prompt": "What is the phenotype?",
+      "answer": "The expressed characteristics of an organism.",
+      "specification": "4.6.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 6
+    },
+    {
+      "marks": 1,
+      "prompt": "Which base pairs with adenine in DNA?",
+      "answer": "Thymine.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 7
+    },
+    {
+      "marks": 1,
+      "prompt": "Name the cell structure where proteins are synthesised.",
+      "answer": "Ribosome.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 8
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a mutation?",
+      "answer": "A change in DNA.",
+      "specification": "4.6.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 9
+    },
+    {
+      "marks": 1,
+      "prompt": "What is a clone?",
+      "answer": "An organism genetically identical to its source organism.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 10
+    },
+    {
+      "marks": 1,
+      "prompt": "Which two classification levels form a binomial name?",
+      "answer": "Genus and species.",
+      "specification": "4.6.4",
+      "evidence": "Additional specification-based practice",
+      "number": 11
+    },
+    {
+      "marks": 1,
+      "prompt": "Who developed the three-domain system?",
+      "answer": "Carl Woese.",
+      "specification": "4.6.4",
+      "evidence": "Additional specification-based practice",
+      "number": 12
+    },
+    {
+      "marks": 2,
+      "prompt": "Compare sexual and asexual reproduction.",
+      "answer": "- Sexual reproduction involves **fusion of gametes** and mixes genetic information.\n- Asexual reproduction uses **one parent without gamete fusion**, producing genetically identical offspring apart from mutations.",
+      "specification": "4.6.1.1",
+      "evidence": "Additional specification-based practice",
+      "number": 13
+    },
+    {
+      "marks": 2,
+      "prompt": "Why can asexual reproduction be advantageous in stable conditions?",
+      "answer": "- There is **no need to find a mate**, so reproduction can be rapid.\n- Successful genetic characteristics are preserved, allowing many offspring when conditions remain suitable.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 14
+    },
+    {
+      "marks": 2,
+      "prompt": "Give one advantage and one disadvantage of sexual reproduction.",
+      "answer": "- Genetic **variation** increases the chance some offspring survive environmental change.\n- Finding a mate and producing gametes can cost time and energy.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 15
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe how strawberries and daffodils reproduce asexually.",
+      "answer": "- Strawberries produce **runners** that grow into new plants.\n- Daffodils produce **bulbs** that develop into new plants.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 16
+    },
+    {
+      "marks": 2,
+      "prompt": "How do malaria parasites demonstrate both reproductive methods?",
+      "answer": "- They reproduce **asexually in the human host**.\n- Their **sexual stage occurs in the mosquito**.",
+      "specification": "4.6.1.3",
+      "evidence": "Additional specification-based practice",
+      "number": 17
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain how a gene differs from a chromosome.",
+      "answer": "- A gene is a **section of DNA coding for an amino-acid sequence** used in a protein.\n- A chromosome is a long DNA molecule carrying **many genes**.",
+      "specification": "4.6.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 18
+    },
+    {
+      "marks": 2,
+      "prompt": "Describe the components of a DNA nucleotide.",
+      "answer": "- A nucleotide contains a **sugar and phosphate**.\n- It also contains **one of four bases**.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 19
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why amino-acid order matters in a protein.",
+      "answer": "- The order affects how the protein **folds into a particular shape**.\n- Shape determines function, for example whether an enzyme’s **active site** fits its substrate.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 20
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two ways studying the human genome can be useful.",
+      "answer": "- Identify genes linked to **inherited disorders**, supporting understanding or treatment.\n- Compare genetic information to trace **human migration** and relationships.",
+      "specification": "4.6.1.4",
+      "evidence": "Additional specification-based practice",
+      "number": 21
+    },
+    {
+      "marks": 2,
+      "prompt": "Distinguish genotype from phenotype using a simple allele example.",
+      "answer": "- **Genotype** is the allele combination, for example Aa.\n- **Phenotype** is the expressed characteristic; Aa expresses the dominant characteristic in this simple model.",
+      "specification": "4.6.1.6",
+      "evidence": "Additional specification-based practice",
+      "number": 22
+    },
+    {
+      "marks": 2,
+      "prompt": "Why can unaffected parents have a child with a recessive disorder?",
+      "answer": "- Both parents can be **heterozygous carriers**.\n- The child can inherit the **recessive allele from each parent**, becoming homozygous recessive.",
+      "specification": "4.6.1.7",
+      "evidence": "2022 2H Q05.1;2023 2H Q07.4–07.5: related inheritance reasoning",
+      "number": 23
+    },
+    {
+      "marks": 2,
+      "prompt": "Give a genetic cause and an environmental cause of variation.",
+      "answer": "- Genetic: different **alleles inherited from parents**, or a mutation.\n- Environmental: different nutrition, training or exposure to sunlight.",
+      "specification": "4.6.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 24
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain why height is not a simple one-gene characteristic.",
+      "answer": "- Many **genes** influence height.\n- **Environmental factors**, such as childhood nutrition, also affect the phenotype.",
+      "specification": "4.6.1.6;4.6.2.1",
+      "evidence": "Additional specification-based practice",
+      "number": 25
+    },
+    {
+      "marks": 2,
+      "prompt": "Explain one risk of inbreeding during selective breeding.",
+      "answer": "- Close relatives are more likely to share harmful **recessive alleles**.\n- Offspring are more likely to inherit two copies and express the disorder.",
+      "specification": "4.6.2.3",
+      "evidence": "Additional specification-based practice",
+      "number": 26
+    },
+    {
+      "marks": 2,
+      "prompt": "Why are antibiotics ineffective against viruses?",
+      "answer": "- Antibiotics act on bacterial structures or processes.\n- Viruses reproduce inside host cells and do not have the same antibiotic targets.",
+      "specification": "4.6.3.7",
+      "evidence": "Additional specification-based practice",
+      "number": 27
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two reasons the fossil record is incomplete.",
+      "answer": "- Many early organisms were **soft-bodied**, leaving few preserved remains.\n- Geological activity destroyed or altered many remains, and many fossils have not been found.",
+      "specification": "4.6.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 28
+    },
+    {
+      "marks": 2,
+      "prompt": "Give two possible causes of extinction.",
+      "answer": "- Rapid environmental change or a new disease can prevent survival/reproduction.\n- New predators or competitors can reduce food or survival until no individuals remain.",
+      "specification": "4.6.3.6",
+      "evidence": "Additional specification-based practice",
+      "number": 29
+    },
+    {
+      "marks": 2,
+      "prompt": "In a tree, A and B share a more recent ancestor than A and C. Explain which are more closely related.",
+      "answer": "- **A and B** are more closely related.\n- They share the **more recent common ancestor**, not merely neighbouring names on the diagram.",
+      "specification": "4.6.4",
+      "evidence": "Additional specification-based practice",
+      "number": 30
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how meiosis and fertilisation maintain chromosome number across generations.",
+      "answer": "- Meiosis **halves the chromosome number**, producing gametes with 23 chromosomes in humans.\n- Fertilisation joins two gamete nuclei.\n- The fertilised egg has **46 chromosomes**, restoring the usual body-cell number.",
+      "specification": "4.6.1.2",
+      "evidence": "2023 2H Q08.3",
+      "number": 31
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe chromosome changes during meiosis without naming its phases.",
+      "answer": "- DNA is **copied once**, giving joined copies of each chromosome.\n- The cell **divides twice**, producing four gametes with half the original chromosome number.\n- The gametes are **genetically different** because information from the two parents is reshuffled.",
+      "specification": "4.6.1.2",
+      "evidence": "Additional specification-based practice",
+      "number": 32
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how a coding mutation can change enzyme activity.",
+      "answer": "- A changed base sequence can change the **amino-acid sequence**.\n- This can change folding and **active-site shape**.\n- Substrate may bind less effectively, changing the reaction rate; not every mutation has this effect.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 33
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain how a non-coding DNA variant can affect a phenotype.",
+      "answer": "- Some non-coding DNA helps control **gene expression**.\n- A variant can alter how much or when a gene is expressed.\n- A changed amount of a protein can alter a characteristic without changing its amino-acid sequence.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 34
+    },
+    {
+      "marks": 3,
+      "prompt": "Two cystic-fibrosis carriers have genotypes Cc. Determine the probability their child is affected.",
+      "answer": "- Each parent produces gametes **C or c**.\n- The combinations are **CC, Cc, Cc, cc**.\n- Only cc is affected: **1/4 = 25%** for each pregnancy.",
+      "specification": "4.6.1.7",
+      "evidence": "2022 2H Q05.2;2023 2H Q07.5: related cross method",
+      "number": 35
+    },
+    {
+      "marks": 3,
+      "prompt": "A heterozygous parent has polydactyly, Pp. The other parent is pp. Determine the chance of an affected child.",
+      "answer": "- Parent gametes are **P or p**, and **p only**.\n- Offspring combinations are **Pp, Pp, pp, pp**.\n- P is dominant, so **2/4 = 50%** are predicted to be affected.",
+      "specification": "4.6.1.7",
+      "evidence": "Additional specification-based practice",
+      "number": 36
+    },
+    {
+      "marks": 3,
+      "prompt": "Use the usual XX/XY model to explain equal probabilities of female and male offspring.",
+      "answer": "- Egg gametes carry **X**; sperm carry **X or Y**.\n- Fusion produces **XX or XY** with equal chances in the model.\n- Each outcome has probability **1/2**, not a guarantee of equal numbers in a family.",
+      "specification": "4.6.1.8",
+      "evidence": "2023 2H Q03.5–03.6",
+      "number": 37
+    },
+    {
+      "marks": 3,
+      "prompt": "In 200 children from carrier-by-carrier crosses, calculate the expected number of affected children and explain why observed numbers might differ.",
+      "answer": "- Recessive affected probability = **1/4**.\n- Expected number = 200 ×1/4 = **50**.\n- Inheritance is **random**, so observed counts can differ from the expectation.",
+      "specification": "4.6.1.7;MS2e",
+      "evidence": "Additional specification-based practice",
+      "number": 38
+    },
+    {
+      "marks": 3,
+      "prompt": "Describe three different ways fossils can form.",
+      "answer": "- Hard parts can be **replaced by minerals**.\n- Remains can persist where **decay is prevented**, such as amber or ice.\n- Traces such as footprints or burrows can be preserved.",
+      "specification": "4.6.3.5",
+      "evidence": "Additional specification-based practice",
+      "number": 39
+    },
+    {
+      "marks": 3,
+      "prompt": "Why was Darwin’s theory initially difficult for some people to accept?",
+      "answer": "- It challenged the belief that species were **created unchanged**.\n- There was **insufficient evidence** available at first.\n- The mechanism of **inheritance and variation** was not yet understood.",
+      "specification": "4.6.3.1",
+      "evidence": "Additional specification-based practice",
+      "number": 40
+    },
+    {
+      "marks": 3,
+      "prompt": "Explain why Mendel’s work was not immediately recognised.",
+      "answer": "- His pea-plant results suggested inherited **units**, before genes were known.\n- Chromosomes and their role in inheritance were not yet understood.\n- Later discoveries provided a mechanism and evidence supporting his explanation.",
+      "specification": "4.6.3.3",
+      "evidence": "Additional specification-based practice",
+      "number": 41
+    },
+    {
+      "marks": 3,
+      "prompt": "State the three domains and give the distinguishing cell-type relationship.",
+      "answer": "- **Archaea:** a distinct prokaryotic domain, including many organisms from extreme environments.\n- **Bacteria:** the bacterial prokaryotic domain.\n- **Eukaryota:** organisms with eukaryotic cells, including animals, plants, fungi and protists.",
+      "specification": "4.6.4",
+      "evidence": "Additional specification-based practice",
+      "number": 42
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe the main steps linking a DNA base sequence to a functional protein.",
+      "answer": "- A base sequence provides the **code for amino-acid order**; three bases code for an amino acid.\n- A template reaches a **ribosome**.\n- Carrier molecules bring amino acids, which join in the specified order.\n- The chain **folds into a particular shape**, enabling its function.",
+      "specification": "4.6.1.5",
+      "evidence": "Additional specification-based practice",
+      "number": 43
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how natural selection can make a camouflaged insect colour more common.",
+      "answer": "- A population contains **inherited variation** in colour.\n- Better-camouflaged insects are less likely to be eaten.\n- They are more likely to **survive and reproduce**.\n- Their offspring inherit the alleles, so these alleles become **more common over generations**.",
+      "specification": "4.6.2.2",
+      "evidence": "Additional specification-based practice",
+      "number": 44
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how isolation can lead to a new species.",
+      "answer": "- Populations become **isolated**, preventing breeding between them.\n- Different conditions and mutations produce different variation and selection pressures.\n- Over many generations different alleles accumulate.\n- Eventually the populations cannot interbreed to produce **fertile offspring**, so they are different species.",
+      "specification": "4.6.3.2",
+      "evidence": "Additional specification-based practice",
+      "number": 45
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe selective breeding to produce wheat with high yield and disease resistance.",
+      "answer": "- Choose parents showing the **desired characteristics**.\n- Breed them together.\n- Select offspring with the best combination and breed those offspring.\n- Repeat selection and breeding over **many generations**, rather than simply reusing the original parents.",
+      "specification": "4.6.2.3",
+      "evidence": "2023 2H Q03.7–03.9: adapted breeding context",
+      "number": 46
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how bacteria can be genetically engineered to produce human insulin.",
+      "answer": "- Use enzymes to **isolate the human insulin gene**.\n- Cut a **plasmid vector** and insert the gene.\n- Transfer the modified plasmid into bacterial cells.\n- Grow the bacteria so they express the gene and produce insulin, which is collected and purified.",
+      "specification": "4.6.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 47
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe adult-cell cloning and identify the source of the clone’s nuclear DNA.",
+      "answer": "- Remove the nucleus from an **unfertilised egg**.\n- Insert an **adult body-cell nucleus**.\n- Use an electric stimulus to start division, then transfer the embryo to a host uterus.\n- The clone’s **nuclear DNA comes from the adult nucleus donor**.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 48
+    },
+    {
+      "marks": 4,
+      "prompt": "Compare plant cuttings, tissue culture and embryo splitting.",
+      "answer": "- A cutting grows into a plant from a portion of a parent plant.\n- Tissue culture uses **small groups of cells**, nutrients and hormones to grow many plants.\n- Embryo splitting separates cells from an early animal embryo for transfer into host mothers.\n- Each makes genetically identical offspring from its source, but uses a different starting material.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 49
+    },
+    {
+      "marks": 4,
+      "prompt": "Explain how antibiotic-resistant bacteria become more common during treatment.",
+      "answer": "- A **random mutation** can make some bacteria resistant.\n- Antibiotic kills susceptible bacteria while resistant ones survive.\n- Survivors reproduce rapidly and pass on resistance.\n- Resistant bacteria form a **larger proportion** of the population; antibiotic does not deliberately create a useful mutation.",
+      "specification": "4.6.3.7",
+      "evidence": "Additional specification-based practice",
+      "number": 50
+    },
+    {
+      "marks": 4,
+      "prompt": "Describe how evidence helped classification develop beyond physical resemblance alone.",
+      "answer": "- Linnaeus grouped organisms by observable characteristics.\n- Improved microscopes revealed more detail about cell structures.\n- Biochemical and genetic evidence revealed deeper relationships.\n- Woese’s **three-domain system** separates Archaea, Bacteria and Eukaryota using such evidence.",
+      "specification": "4.6.4",
+      "evidence": "Additional specification-based practice",
+      "number": 51
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate using embryo screening when both parents carry a serious recessive disorder.",
+      "answer": "- A carrier cross can give a **25% affected probability** for each child, so screening may help identify embryos at risk.\n- It can reduce the chance of a serious inherited condition and inform parental decisions.\n- Testing and IVF can be costly, stressful and uncertain, and screening does not guarantee a child free from every health problem.\n- Some object to selecting or discarding embryos, while others prioritise preventing suffering.\n- Consider the condition’s severity, reliability of the test and informed choice. A justified judgement balances these issues rather than claiming screening is always right or wrong.",
+      "specification": "4.6.1.7",
+      "evidence": "Additional specification-based practice",
+      "number": 52
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate replacing a local crop with an insect-resistant genetically modified crop.",
+      "answer": "- Resistance may reduce crop losses and raise yield, improving food supply and farmer income.\n- Reduced insecticide use could lower chemical exposure and environmental damage.\n- Possible effects on non-target organisms and transfer of genes to wild relatives must be assessed.\n- Cost, seed access and the development of resistant pests affect long-term usefulness.\n- Compare evidence from suitable field trials, including yield and ecological effects, with the local alternative.\n- A reasoned judgement depends on measured benefits and risks in that setting, not on assuming all GM crops are identical.",
+      "specification": "4.6.2.4",
+      "evidence": "Additional specification-based practice",
+      "number": 53
+    },
+    {
+      "marks": 6,
+      "prompt": "Explain how fossils and genetic evidence support evolution, and why gaps do not make the evidence useless.",
+      "answer": "- Fossils show organisms lived in the past and that forms changed or became extinct over time.\n- Their age and features help reconstruct relationships and sequences of change.\n- The record is incomplete because preservation is rare and geological processes destroy remains.\n- Genetic comparisons reveal similarities consistent with **shared ancestors**.\n- Inherited variation, selection and reproductive isolation explain how populations and species can change.\n- Independent evidence supports the explanation even while individual relationships are revised as new fossils or genetic data appear.",
+      "specification": "4.6.3;4.6.4",
+      "evidence": "2023 2H Q09",
+      "number": 54
+    },
+    {
+      "marks": 6,
+      "prompt": "Evaluate cloning a small population of an endangered animal.",
+      "answer": "- Cloning can increase numbers and preserve valuable genetic material.\n- Adult-cell cloning can copy an existing individual’s nuclear genome.\n- It does not introduce much genetic variation, so disease or environmental change may threaten many clones similarly.\n- Low success, animal welfare, host availability and cost limit its use.\n- Increasing numbers will not solve habitat loss or lack of suitable food.\n- It may support a conservation programme, but habitat protection and breeding that preserves diversity remain essential.",
+      "specification": "4.6.2.5",
+      "evidence": "Additional specification-based practice",
+      "number": 55
+    }
+  ]
+}

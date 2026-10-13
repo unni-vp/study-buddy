@@ -1,0 +1,116 @@
+{
+  "source": "Inheritance variation and evolution - Revision Notes.md",
+  "groups": [
+    {
+      "id": "reproduction",
+      "title": "Reproduction and meiosis",
+      "description": "Compare reproduction and track chromosome information.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Sexual and asexual reproduction"
+        },
+        {
+          "heading": "Meiosis, fertilisation and chromosome number"
+        }
+      ]
+    },
+    {
+      "id": "dna",
+      "title": "DNA and proteins",
+      "description": "Link base sequences, protein shape and genetic variants.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "DNA, chromosomes, genes and genome"
+        },
+        {
+          "heading": "From base sequence to protein function"
+        }
+      ]
+    },
+    {
+      "id": "inheritance",
+      "title": "Inheritance and probability",
+      "description": "Use allele terms, crosses, conditions and family trees.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "The language of inheritance"
+        },
+        {
+          "heading": "Punnett squares and probabilities"
+        },
+        {
+          "heading": "Inherited conditions and family trees"
+        },
+        {
+          "heading": "Sex-chromosome inheritance"
+        }
+      ]
+    },
+    {
+      "id": "selection",
+      "title": "Variation and selection",
+      "description": "Explain population change and breeding decisions.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Genetic and environmental variation"
+        },
+        {
+          "heading": "Natural selection and evolution"
+        },
+        {
+          "heading": "How new species arise"
+        },
+        {
+          "heading": "Selective breeding"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Genetic technologies",
+      "description": "Distinguish gene transfer from cloning and evaluate uses.",
+      "icon": "biology-cells",
+      "sections": [
+        {
+          "heading": "Genetic engineering"
+        },
+        {
+          "heading": "Plant and embryo cloning"
+        },
+        {
+          "heading": "Adult-cell cloning and its evaluation"
+        }
+      ]
+    },
+    {
+      "id": "evidence",
+      "title": "Evidence and classification",
+      "description": "Connect historical explanations, fossils and modern relationships.",
+      "icon": "biology-leaf",
+      "sections": [
+        {
+          "heading": "Darwin, Wallace and changing explanations"
+        },
+        {
+          "heading": "Mendel and the gene theory"
+        },
+        {
+          "heading": "Fossils, evidence and extinction"
+        },
+        {
+          "heading": "Antibiotic resistance by natural selection"
+        },
+        {
+          "heading": "Classification and evolutionary trees"
+        },
+        {
+          "heading": "Avoid these mistakes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "title": "Inheritance variation and evolution flash cards",
+  "cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is a genome?",
+      "back": [
+        "An organism’s entire genetic material."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which division produces gametes?",
+      "back": [
+        "Meiosis."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "How many chromosomes are usually present in a human gamete?",
+      "back": [
+        "23."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is an allele?",
+      "back": [
+        "A version of a gene."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does heterozygous mean?",
+      "back": [
+        "Having two different alleles for a gene."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the phenotype?",
+      "back": [
+        "The expressed characteristics of an organism."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which base pairs with adenine in DNA?",
+      "back": [
+        "Thymine."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the cell structure where proteins are synthesised.",
+      "back": [
+        "Ribosome."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a mutation?",
+      "back": [
+        "A change in DNA."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a clone?",
+      "back": [
+        "An organism genetically identical to its source organism."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which two classification levels form a binomial name?",
+      "back": [
+        "Genus and species."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who developed the three-domain system?",
+      "back": [
+        "Carl Woese."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Compare sexual and asexual reproduction.",
+      "back": [
+        "Sexual reproduction involves **fusion of gametes** and mixes genetic information.",
+        "Asexual reproduction uses **one parent without gamete fusion**, producing genetically identical offspring apart from mutations."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can asexual reproduction be advantageous in stable conditions?",
+      "back": [
+        "There is **no need to find a mate**, so reproduction can be rapid.",
+        "Successful genetic characteristics are preserved, allowing many offspring when conditions remain suitable."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one advantage and one disadvantage of sexual reproduction.",
+      "back": [
+        "Genetic **variation** increases the chance some offspring survive environmental change.",
+        "Finding a mate and producing gametes can cost time and energy."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe how strawberries and daffodils reproduce asexually.",
+      "back": [
+        "Strawberries produce **runners** that grow into new plants.",
+        "Daffodils produce **bulbs** that develop into new plants."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How do malaria parasites demonstrate both reproductive methods?",
+      "back": [
+        "They reproduce **asexually in the human host**.",
+        "Their **sexual stage occurs in the mosquito**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a gene differs from a chromosome.",
+      "back": [
+        "A gene is a **section of DNA coding for an amino-acid sequence** used in a protein.",
+        "A chromosome is a long DNA molecule carrying **many genes**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe the components of a DNA nucleotide.",
+      "back": [
+        "A nucleotide contains a **sugar and phosphate**.",
+        "It also contains **one of four bases**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why amino-acid order matters in a protein.",
+      "back": [
+        "The order affects how the protein **folds into a particular shape**.",
+        "Shape determines function, for example whether an enzyme’s **active site** fits its substrate."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two ways studying the human genome can be useful.",
+      "back": [
+        "Identify genes linked to **inherited disorders**, supporting understanding or treatment.",
+        "Compare genetic information to trace **human migration** and relationships."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish genotype from phenotype using a simple allele example.",
+      "back": [
+        "**Genotype** is the allele combination, for example Aa.",
+        "**Phenotype** is the expressed characteristic; Aa expresses the dominant characteristic in this simple model."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why can unaffected parents have a child with a recessive disorder?",
+      "back": [
+        "Both parents can be **heterozygous carriers**.",
+        "The child can inherit the **recessive allele from each parent**, becoming homozygous recessive."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give a genetic cause and an environmental cause of variation.",
+      "back": [
+        "Genetic: different **alleles inherited from parents**, or a mutation.",
+        "Environmental: different nutrition, training or exposure to sunlight."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why height is not a simple one-gene characteristic.",
+      "back": [
+        "Many **genes** influence height.",
+        "**Environmental factors**, such as childhood nutrition, also affect the phenotype."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one risk of inbreeding during selective breeding.",
+      "back": [
+        "Close relatives are more likely to share harmful **recessive alleles**.",
+        "Offspring are more likely to inherit two copies and express the disorder."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why are antibiotics ineffective against viruses?",
+      "back": [
+        "Antibiotics act on bacterial structures or processes.",
+        "Viruses reproduce inside host cells and do not have the same antibiotic targets."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons the fossil record is incomplete.",
+      "back": [
+        "Many early organisms were **soft-bodied**, leaving few preserved remains.",
+        "Geological activity destroyed or altered many remains, and many fossils have not been found."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two possible causes of extinction.",
+      "back": [
+        "Rapid environmental change or a new disease can prevent survival/reproduction.",
+        "New predators or competitors can reduce food or survival until no individuals remain."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "In a tree, A and B share a more recent ancestor than A and C. Explain which are more closely related.",
+      "back": [
+        "**A and B** are more closely related.",
+        "They share the **more recent common ancestor**, not merely neighbouring names on the diagram."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how meiosis and fertilisation maintain chromosome number across generations.",
+      "back": [
+        "Meiosis **halves the chromosome number**, producing gametes with 23 chromosomes in humans.",
+        "Fertilisation joins two gamete nuclei.",
+        "The fertilised egg has **46 chromosomes**, restoring the usual body-cell number."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe chromosome changes during meiosis without naming its phases.",
+      "back": [
+        "DNA is **copied once**, giving joined copies of each chromosome.",
+        "The cell **divides twice**, producing four gametes with half the original chromosome number.",
+        "The gametes are **genetically different** because information from the two parents is reshuffled."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a coding mutation can change enzyme activity.",
+      "back": [
+        "A changed base sequence can change the **amino-acid sequence**.",
+        "This can change folding and **active-site shape**.",
+        "Substrate may bind less effectively, changing the reaction rate; not every mutation has this effect."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a non-coding DNA variant can affect a phenotype.",
+      "back": [
+        "Some non-coding DNA helps control **gene expression**.",
+        "A variant can alter how much or when a gene is expressed.",
+        "A changed amount of a protein can alter a characteristic without changing its amino-acid sequence."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Two cystic-fibrosis carriers have genotypes Cc. Determine the probability their child is affected.",
+      "back": [
+        "Each parent produces gametes **C or c**.",
+        "The combinations are **CC, Cc, Cc, cc**.",
+        "Only cc is affected: **1/4 = 25%** for each pregnancy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A heterozygous parent has polydactyly, Pp. The other parent is pp. Determine the chance of an affected child.",
+      "back": [
+        "Parent gametes are **P or p**, and **p only**.",
+        "Offspring combinations are **Pp, Pp, pp, pp**.",
+        "P is dominant, so **2/4 = 50%** are predicted to be affected."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Use the usual XX/XY model to explain equal probabilities of female and male offspring.",
+      "back": [
+        "Egg gametes carry **X**; sperm carry **X or Y**.",
+        "Fusion produces **XX or XY** with equal chances in the model.",
+        "Each outcome has probability **1/2**, not a guarantee of equal numbers in a family."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "In 200 children from carrier-by-carrier crosses, calculate the expected number of affected children and explain why observed numbers might differ.",
+      "back": [
+        "Recessive affected probability = **1/4**.",
+        "Expected number = 200 ×1/4 = **50**.",
+        "Inheritance is **random**, so observed counts can differ from the expectation."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Describe three different ways fossils can form.",
+      "back": [
+        "Hard parts can be **replaced by minerals**.",
+        "Remains can persist where **decay is prevented**, such as amber or ice.",
+        "Traces such as footprints or burrows can be preserved."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Why was Darwin’s theory initially difficult for some people to accept?",
+      "back": [
+        "It challenged the belief that species were **created unchanged**.",
+        "There was **insufficient evidence** available at first.",
+        "The mechanism of **inheritance and variation** was not yet understood."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why Mendel’s work was not immediately recognised.",
+      "back": [
+        "His pea-plant results suggested inherited **units**, before genes were known.",
+        "Chromosomes and their role in inheritance were not yet understood.",
+        "Later discoveries provided a mechanism and evidence supporting his explanation."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "State the three domains and give the distinguishing cell-type relationship.",
+      "back": [
+        "**Archaea:** a distinct prokaryotic domain, including many organisms from extreme environments.",
+        "**Bacteria:** the bacterial prokaryotic domain.",
+        "**Eukaryota:** organisms with eukaryotic cells, including animals, plants, fungi and protists."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe the main steps linking a DNA base sequence to a functional protein.",
+      "back": [
+        "A base sequence provides the **code for amino-acid order**; three bases code for an amino acid.",
+        "A template reaches a **ribosome**.",
+        "Carrier molecules bring amino acids, which join in the specified order.",
+        "The chain **folds into a particular shape**, enabling its function."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how natural selection can make a camouflaged insect colour more common.",
+      "back": [
+        "A population contains **inherited variation** in colour.",
+        "Better-camouflaged insects are less likely to be eaten.",
+        "They are more likely to **survive and reproduce**.",
+        "Their offspring inherit the alleles, so these alleles become **more common over generations**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how isolation can lead to a new species.",
+      "back": [
+        "Populations become **isolated**, preventing breeding between them.",
+        "Different conditions and mutations produce different variation and selection pressures.",
+        "Over many generations different alleles accumulate.",
+        "Eventually the populations cannot interbreed to produce **fertile offspring**, so they are different species."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe selective breeding to produce wheat with high yield and disease resistance.",
+      "back": [
+        "Choose parents showing the **desired characteristics**.",
+        "Breed them together.",
+        "Select offspring with the best combination and breed those offspring.",
+        "Repeat selection and breeding over **many generations**, rather than simply reusing the original parents."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe how bacteria can be genetically engineered to produce human insulin.",
+      "back": [
+        "Use enzymes to **isolate the human insulin gene**.",
+        "Cut a **plasmid vector** and insert the gene.",
+        "Transfer the modified plasmid into bacterial cells.",
+        "Grow the bacteria so they express the gene and produce insulin, which is collected and purified."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe adult-cell cloning and identify the source of the clone’s nuclear DNA.",
+      "back": [
+        "Remove the nucleus from an **unfertilised egg**.",
+        "Insert an **adult body-cell nucleus**.",
+        "Use an electric stimulus to start division, then transfer the embryo to a host uterus.",
+        "The clone’s **nuclear DNA comes from the adult nucleus donor**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare plant cuttings, tissue culture and embryo splitting.",
+      "back": [
+        "A cutting grows into a plant from a portion of a parent plant.",
+        "Tissue culture uses **small groups of cells**, nutrients and hormones to grow many plants.",
+        "Embryo splitting separates cells from an early animal embryo for transfer into host mothers.",
+        "Each makes genetically identical offspring from its source, but uses a different starting material."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how antibiotic-resistant bacteria become more common during treatment.",
+      "back": [
+        "A **random mutation** can make some bacteria resistant.",
+        "Antibiotic kills susceptible bacteria while resistant ones survive.",
+        "Survivors reproduce rapidly and pass on resistance.",
+        "Resistant bacteria form a **larger proportion** of the population; antibiotic does not deliberately create a useful mutation."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Describe how evidence helped classification develop beyond physical resemblance alone.",
+      "back": [
+        "Linnaeus grouped organisms by observable characteristics.",
+        "Improved microscopes revealed more detail about cell structures.",
+        "Biochemical and genetic evidence revealed deeper relationships.",
+        "Woese’s **three-domain system** separates Archaea, Bacteria and Eukaryota using such evidence."
+      ]
+    }
+  ]
+}

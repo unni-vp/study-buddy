@@ -110,7 +110,89 @@ def corrected_eyes(w):
     s+=label(w/2,421,'Grey dashed rays: without correction','middle')+label(w/2,447,'Blue rays: correction focuses light on the retina','middle')
     return s,459
 
-RAW={'remaining-eye':eye,'remaining-brain':brain,'remaining-endocrine':endocrine,'remaining-reflex':reflex,'remaining-insulin':insulin,'remaining-adh':adh,'remaining-phototropism':phototropism,'remaining-eye-correction':corrected_eyes}
+def meiosis(w):
+    if w<360:raise ValueError('Meiosis stages need a complete wide column')
+    red='#ad4c51';blue=BLUE;a=w*.26;b=w*.74;s=label(0,16,'DNA is copied before two divisions')
+    def cell(x,y,r):return f'<circle cx="{x}" cy="{y}" r="{r}" fill="#f8fafc" stroke="#a2b3bd"/>'
+    def rod(x,y,color,tip=None):
+        out=line(x,y-14,x,y+14,color,5)
+        if tip:out+=line(x,y+5,x,y+14,tip,5)
+        return out
+    def copied(x,y,color,tip=None):
+        out=f'<path d="M{x-10} {y-15}L{x} {y}L{x-10} {y+15}M{x+10} {y-15}L{x} {y}L{x+10} {y+15}" fill="none" stroke="{color}" stroke-width="4"/>'
+        if tip:out+=line(x+4,y+6,x+10,y+15,tip,4)
+        return out
+    s+=cell(a,66,30)+rod(a-8,66,red)+rod(a+8,66,blue)
+    s+=arrow(a+36,66,b-36,66)+cell(b,66,30)+copied(b-11,66,red)+copied(b+11,66,blue)
+    s+=label(a,113,'2 chromosomes','middle')+label(b,113,'2 chromosomes','middle')
+    s+=label(0,148,'First division')+arrow(b,126,a,176)+arrow(b,126,b,176)
+    s+=cell(a,210,28)+copied(a,210,red,blue)+cell(b,210,28)+copied(b,210,blue,red)
+    s+=label(a,255,'1 chromosome','middle')+label(b,255,'1 chromosome','middle')
+    s+=label(w/2,285,'Second division','middle')
+    positions=[w*.12,w*.34,w*.66,w*.88]
+    for parent,x,color,tip in [(a,positions[0],red,None),(a,positions[1],red,blue),(b,positions[2],blue,red),(b,positions[3],blue,None)]:
+        s+=arrow(parent,266,x,325)+cell(x,349,20)+rod(x,349,color,tip)
+    s+=label(w/2,398,'Four gametes, each with one chromosome','middle')+label(w/2,425,'Colour segments show genetic mixing','middle')+label(w/2,452,'Simplified: one chromosome pair shown','middle')
+    return s,464
+def punnett(w):
+    if w<300:raise ValueError('Genetic cross requires 300 units')
+    x=(w-168)/2;y=65;side=56;s=label(w/2,16,'Two carriers: Aa × Aa','middle')
+    for j,t in enumerate(('A','a')):
+        s+=label(x+side*(j+1.5),y-10,t,'middle')+label(x+side*.5,y+side*(j+.5)+5,t,'middle')
+    for row,values in enumerate((('AA','Aa'),('Aa','aa'))):
+        for col,value in enumerate(values):
+            xx=x+(col+1)*side;yy=y+row*side
+            s+=f'<rect x="{xx}" y="{yy}" width="{side}" height="{side}" fill="{"#f5dfd6" if value=="aa" else "#eef5fa"}" stroke="#9db0bd"/>'+label(xx+side/2,yy+side/2+5,value,'middle')
+    s+=label(w/2,213,'aa: 1 of 4, probability 25%','middle')+label(w/2,240,'Aa: 2 of 4, carriers 50%','middle')
+    return s,252
+def dna(w):
+    if w<360:raise ValueError('DNA structure needs 360 units')
+    a=w*.32;b=w*.67;s='';pairs=[('A','T'),('C','G'),('T','A')]
+    for x in (a,b):
+        s+=line(x,32,x,168,'#87979e',2)
+        for y in (50,104,158):
+            s+=f'<rect x="{x-5}" y="{y-5}" width="10" height="10" fill="{GREEN}"/><circle cx="{x}" cy="{y-23}" r="5" fill="{ORANGE}"/>'
+    for y,(left,right) in zip((50,104,158),pairs):
+        s+=line(a+7,y,b-7,y,'#7b9bb6',2)+label(a+30,y-6,left)+label(b-31,y-6,right)
+    s+=label(w/2,197,'Paired bases: A–T and C–G','middle')
+    s+=f'<rect x="5" y="215" width="10" height="10" fill="{GREEN}"/>'+label(22,225,'Sugar')+f'<circle cx="117" cy="220" r="5" fill="{ORANGE}"/>'+label(132,225,'Phosphate')
+    s+=label(w/2,255,'One nucleotide: sugar, phosphate, base','middle')
+    return s,267
+def evolutionary_tree(w):
+    if w<310:raise ValueError('Evolutionary tree needs 310 units')
+    s='';xs=[w*.12,w*.37,w*.63,w*.88]
+    for x,name in zip(xs,'ABCD'):s+=label(x,16,name,'middle')
+    for mid,children in [(w*.245,xs[:2]),(w*.755,xs[2:])]:
+        for x in children:s+=line(x,33,x,73,BLUE,2)+line(x,73,mid,112,BLUE,2)
+        s+=line(mid,112,mid,143,BLUE,2)+line(mid,143,w/2,183,BLUE,2)
+    s+=f'<circle cx="{w/2}" cy="183" r="4" fill="{PURPLE}"/>'
+    s+=label(w/2,215,'Joins represent shared ancestors','middle')+label(w/2,243,'A and B share a more recent ancestor','middle')+label(w/2,270,'than A and C','middle')
+    return s,282
+
+def gene_vector(w):
+    if w<340:raise ValueError('Gene insertion needs 340 units')
+    a=w*.25;b=w*.75;cy=76;r=29;s=label(w/2,16,'Enzymes isolate the required gene','middle')
+    s+=f'<rect x="{w/2-24}" y="26" width="48" height="8" fill="{ORANGE}"/>'
+    for x,inserted in [(a,False),(b,True)]:
+        # A gap in the vector is closed by the highlighted inserted DNA section.
+        s+=f'<path d="M{x+r*.866} {cy-r*.5}A{r} {r} 0 1 0 {x+r*.866} {cy+r*.5}" fill="none" stroke="{BLUE}" stroke-width="4"/>'
+        if inserted:s+=f'<path d="M{x+r*.866} {cy+r*.5}A{r} {r} 0 0 0 {x+r*.866} {cy-r*.5}" fill="none" stroke="{ORANGE}" stroke-width="4"/>'
+    s+=arrow(a+r+8,cy,b-r-8,cy)
+    s+=label(a,135,'Cut plasmid','middle')+label(b,135,'Gene inserted','middle')
+    s+=label(w/2,172,'Vector carries gene into target cells','middle')+label(w/2,199,'Cells can express the desired protein','middle')
+    return s,211
+def adult_clone(w):
+    if w<340:raise ValueError('Nucleus transfer needs 340 units')
+    xs=[w*.15,w*.5,w*.85];cy=70;s=''
+    for i,x in enumerate(xs):
+        s+=f'<circle cx="{x}" cy="{cy}" r="29" fill="#f7f9fb" stroke="#9fb1bc"/>'
+        if i!=1:s+=f'<circle cx="{x}" cy="{cy}" r="10" fill="{"#aab9c3" if i==0 else ORANGE}"/>'
+    s+=arrow(xs[0]+36,cy,xs[1]-36,cy)+arrow(xs[1]+36,cy,xs[2]-36,cy)
+    for x,t in zip(xs,('Egg nucleus','Removed','Adult nucleus')):s+=label(x,121,t,'middle')
+    s+=label(w/2,159,'New cell has adult donor’s nuclear DNA','middle')+label(w/2,187,'Electric stimulus starts embryo division','middle')+label(w/2,215,'Embryo transferred to a host uterus','middle')
+    return s,227
+
+RAW={'remaining-eye':eye,'remaining-brain':brain,'remaining-endocrine':endocrine,'remaining-reflex':reflex,'remaining-insulin':insulin,'remaining-adh':adh,'remaining-phototropism':phototropism,'remaining-eye-correction':corrected_eyes,'remaining-meiosis':meiosis,'remaining-punnett':punnett,'remaining-dna':dna,'remaining-tree':evolutionary_tree,'remaining-gene-vector':gene_vector,'remaining-adult-clone':adult_clone}
 PURPOSES={
  'remaining-eye':'Identifies eye structures in cross-section with leaders ending on the named tissue or opening.',
  'remaining-brain':'Identifies cortex, cerebellum and medulla in a simplified side view, supporting structure/function recall.',
@@ -119,7 +201,13 @@ PURPOSES={
  'remaining-insulin':'Connects high glucose, insulin release, cellular uptake/storage and reduced hormone release in negative feedback.',
  'remaining-adh':'Connects concentrated blood to increased ADH, water permeability/reabsorption and the resulting urine changes.',
  'remaining-phototropism':'Shows asymmetric shoot elongation bending towards one-sided light, with shaded-side auxin explicitly identified.',
- 'remaining-eye-correction':'Compares uncorrected rays with concave correction for myopia and convex correction for hyperopia, moving the focus to the retina.'}
+ 'remaining-eye-correction':'Compares uncorrected rays with concave correction for myopia and convex correction for hyperopia, moving the focus to the retina.',
+ 'remaining-meiosis':'Tracks copied chromosome arms through two divisions, showing halved chromosome number and varied gametes in a one-pair schematic.',
+ 'remaining-punnett':'Shows carrier-cross gametes, all four offspring combinations and correct denominator for disease and carrier probabilities.',
+ 'remaining-dna':'Distinguishes repeating sugar/phosphate backbone from paired bases, with the components of a nucleotide labelled.',
+ 'remaining-tree':'Locates shared ancestors at branching joins rather than judging relationships from adjacent tip positions.',
+ 'remaining-gene-vector':'Shows an actual gap in plasmid DNA being filled with a highlighted donor gene before transfer to target cells.',
+ 'remaining-adult-clone':'Shows the original egg nucleus, its removal and replacement by an adult donor nucleus before embryo development.'}
 def wrap(kind):
     def draw(width):
         svg,height=RAW[kind](width)

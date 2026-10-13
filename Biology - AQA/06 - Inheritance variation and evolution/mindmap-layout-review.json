@@ -1,0 +1,696 @@
+{
+  "reviewed": "2026-10-13",
+  "generator": "scripts/science_completion.py",
+  "style": "Approved readable panels, black text, consistent headings, dividers, content-measured layout",
+  "print": {
+    "orientation": "A4 landscape",
+    "width_mm": 277,
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        350,
+        354,
+        356
+      ],
+      "column_heights": [
+        366,
+        388,
+        388
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 350,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 380,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 380,
+          "y": 237,
+          "width": 354,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 746,
+          "y": 18,
+          "width": 356,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 746,
+          "y": 237,
+          "width": 356,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-inheritance-overview",
+      "title": "Inheritance, variation and evolution"
+    },
+    {
+      "widths": [
+        374,
+        290,
+        396
+      ],
+      "column_heights": [
+        599,
+        526,
+        602
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 374,
+          "height": 163
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 193,
+          "width": 374,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 18,
+          "y": 412,
+          "width": 374,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 404,
+          "y": 18,
+          "width": 290,
+          "height": 279
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 404,
+          "y": 309,
+          "width": 290,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 706,
+          "y": 18,
+          "width": 396,
+          "height": 610
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "remaining-meiosis",
+          "purpose": "Tracks copied chromosome arms through two divisions, showing halved chromosome number and varied gametes in a one-pair schematic."
+        }
+      ],
+      "slug": "01-reproduction-and-meiosis",
+      "title": "Reproduction and meiosis"
+    },
+    {
+      "widths": [
+        398,
+        310,
+        352
+      ],
+      "column_heights": [
+        572,
+        366,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 398,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 398,
+          "height": 391
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 428,
+          "y": 18,
+          "width": 310,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 428,
+          "y": 215,
+          "width": 310,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 1,
+          "kind": "remaining-dna",
+          "purpose": "Distinguishes repeating sugar/phosphate backbone from paired bases, with the components of a nucleotide labelled."
+        }
+      ],
+      "slug": "02-dna-and-proteins",
+      "title": "DNA, genes and proteins"
+    },
+    {
+      "widths": [
+        310,
+        398,
+        352
+      ],
+      "column_heights": [
+        454,
+        579,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 310,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 310,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 340,
+          "y": 18,
+          "width": 398,
+          "height": 376
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 340,
+          "y": 406,
+          "width": 398,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 2,
+          "kind": "remaining-punnett",
+          "purpose": "Shows carrier-cross gametes, all four offspring combinations and correct denominator for disease and carrier probabilities."
+        }
+      ],
+      "slug": "03-inheritance-and-probability",
+      "title": "Inheritance and probability"
+    },
+    {
+      "widths": [
+        330,
+        378,
+        352
+      ],
+      "column_heights": [
+        410,
+        410,
+        410
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 215,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 378,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 237,
+          "width": 378,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "04-variation-and-evolution",
+      "title": "Variation, selection and speciation"
+    },
+    {
+      "widths": [
+        330,
+        378,
+        352
+      ],
+      "column_heights": [
+        388,
+        516,
+        498
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 237,
+          "width": 330,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 378,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 215,
+          "width": 378,
+          "height": 335
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 273
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "remaining-gene-vector",
+          "purpose": "Shows an actual gap in plasmid DNA being filled with a highlighted donor gene before transfer to target cells."
+        }
+      ],
+      "slug": "05-breeding-and-engineering",
+      "title": "Selective breeding and genetic engineering"
+    },
+    {
+      "widths": [
+        330,
+        378,
+        352
+      ],
+      "column_heights": [
+        432,
+        532,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 330,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 330,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 360,
+          "y": 18,
+          "width": 378,
+          "height": 185
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 360,
+          "y": 215,
+          "width": 378,
+          "height": 351
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 281,
+          "width": 352,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 3,
+          "kind": "remaining-adult-clone",
+          "purpose": "Shows the original egg nucleus, its removal and replacement by an adult donor nucleus before embryo development."
+        }
+      ],
+      "slug": "06-cloning",
+      "title": "Cloning methods and evaluation"
+    },
+    {
+      "widths": [
+        342,
+        366,
+        352
+      ],
+      "column_heights": [
+        454,
+        454,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 372,
+          "y": 18,
+          "width": 366,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 372,
+          "y": 281,
+          "width": 366,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 237,
+          "width": 352,
+          "height": 251
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "07-evidence-for-evolution",
+      "title": "Evidence, inheritance discoveries and extinction"
+    },
+    {
+      "widths": [
+        294,
+        350,
+        416
+      ],
+      "column_heights": [
+        476,
+        432,
+        587
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 294,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 294,
+          "height": 251
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 324,
+          "y": 18,
+          "width": 350,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 324,
+          "y": 259,
+          "width": 350,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 686,
+          "y": 18,
+          "width": 416,
+          "height": 406
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 686,
+          "y": 436,
+          "width": 416,
+          "height": 185
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [
+        {
+          "source_panel": 4,
+          "kind": "remaining-tree",
+          "purpose": "Locates shared ancestors at branching joins rather than judging relationships from adjacent tip positions."
+        }
+      ],
+      "slug": "08-classification-and-trees",
+      "title": "Classification and evolutionary relationships"
+    }
+  ]
+}
