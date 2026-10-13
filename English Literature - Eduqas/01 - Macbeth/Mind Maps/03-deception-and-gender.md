@@ -2,7 +2,7 @@
 
 ## Fair and foul
 
-- Witches join opposites in 1.1, unsettling certainty. Lady Macbeth separates an “innocent flower” from a hidden “serpent” (1.5).
+- “Fair is foul” (1.1): **paradox** confuses good and evil. Lady Macbeth’s “innocent flower” and “serpent” (1.5) use contrasting **images**.
 - Duncan trusts the castle’s welcome while the audience knows the murder plan: dramatic irony.
 
 ## Private thought, public mask
@@ -14,22 +14,22 @@
 
 - Macbeth hears safety in promises with unexpected meanings. Branch-carrying soldiers make Birnam Wood seem to move.
 - Macduff’s unusual birth defeats Macbeth’s interpretation of “woman born”.
-- Partial truth encourages false certainty.
+- **Hubris:** Macbeth treats partial truth as complete protection. Equivocation encourages false certainty.
 
 ## Choice remains visible
 
-- Witches tempt, but Macbeth plans and acts. Banquo hears prophecy too and responds more cautiously.
+- Witches act as **catalysts**; Macbeth still plans and chooses. Banquo hears prophecy too, but exercises greater restraint.
 - Dagger vision can show intention and fear. The ghost may suggest guilt, supernatural punishment or both.
 - Support an interpretation with stage action and language.
 
 ## Competing ideas of manhood
 
-- Lady Macbeth links courage to murder. Macbeth initially insists on moral limits to manhood.
+- Lady Macbeth makes murder proof of manhood: a **conditional challenge**. Macbeth initially gives courage moral limits.
 - He later questions the murderers’ masculinity, repeating her tactic.
 - Macduff insists grief is human and compatible with courage.
 
 ## Avoid simple labels
 
 - Lady Macbeth’s influence changes; she does not control every later crime. Banquo is cautious, but interested in his future.
-- Historical beliefs can illuminate kingship, witchcraft and gender; audiences need not respond identically.
+- Patriarchal expectations help explain the pressure to prove manhood. Royal and witchcraft beliefs can deepen specific interpretations.
 - Distinguish Scotland in the story from Shakespeare’s stage audience.

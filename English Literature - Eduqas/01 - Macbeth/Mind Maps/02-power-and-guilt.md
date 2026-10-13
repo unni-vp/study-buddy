@@ -2,7 +2,7 @@
 
 ## Ambition with awareness
 
-- Macbeth knows duties as relative, subject and host. “Vaulting ambition” (1.7) pictures overreaching and a fall.
+- Macbeth knows duties as relative, subject and host. His **soliloquy** reveals conscience. “Vaulting ambition” (1.7) is a riding **metaphor** of excess.
 - His hesitation establishes responsibility: he understands objections before choosing the crime.
 
 ## Violence escalates
@@ -24,8 +24,9 @@
 
 ## Kingship vs tyranny
 
-- Duncan rewards others; Macbeth protects himself by attacking them. “Fruitless crown” (3.1) shows insecurity.
-- Scotland suffers beyond the palace. Malcolm’s return contrasts national recovery with Macbeth’s isolation.
+- Duncan nurtures loyalty. Macbeth commits **regicide** and **usurps** the crown. “Fruitless crown” (3.1): an infertility **metaphor** of insecurity.
+- Scotland suffers. Malcolm’s recognised claim and moral concerns offer restoration, contrasting with Macbeth’s self-protection.
+- **Divine right:** belief in God-given royal authority. Macduff’s “anointed temple” (2.3) is a sacred **metaphor** for Duncan’s body.
 
 ## A tragic ending
 

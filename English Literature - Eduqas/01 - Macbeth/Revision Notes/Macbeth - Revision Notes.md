@@ -177,7 +177,7 @@ Macbeth's central conflict is between **ambition and conscience**. He knows murd
 
 - **Brave but morally vulnerable:** his battlefield courage does not guarantee good judgement.
 - **Ambitious and self-aware:** he recognises his dangerous motive before choosing to kill Duncan.
-- **Fearful and controlling:** gaining the crown creates anxiety about losing it. He turns to further violence to secure it.
+- **Fearful and controlling:** gaining the crown creates anxiety about losing it. Later, **hubris** — overconfidence in the prophecies — makes him mistake reassurance for safety.
 - **Isolated and despairing:** power damages his marriage and peace of mind. His suffering does not excuse the suffering he causes.
 
 ### Key quotations
@@ -197,7 +197,7 @@ Macbeth's central conflict is between **ambition and conscience**. He knows murd
 
 Lady Macbeth links **power with suppressing compassion**. Her forceful language initially hides vulnerability; guilt later destroys the control she tries to maintain.
 
-- **Ambitious and manipulative:** she wants greatness for the couple and attacks Macbeth's manhood to overcome his doubts.
+- **Ambitious and manipulative:** she wants greatness for the couple and uses expectations of manhood to shame Macbeth into murder. Her influence is strongest early on; he later acts independently.
 - **Apparently practical:** she treats guilt as a problem of removing evidence, underestimating its emotional cost.
 - **Not without feeling:** Duncan's resemblance to her father prevents her from killing him herself.
 - **Overwhelmed by guilt:** sleepwalking and imagined bloodstains expose feelings she cannot permanently silence.
@@ -221,7 +221,7 @@ The witches make dangerous possibilities attractive. **They tempt Macbeth and en
 
 - **Deceptive:** a true prediction makes later promises seem trustworthy. Their language uses **equivocation**: more than one possible meaning.
 - **Unsettling:** paradoxes, thunder, rhyme and chant-like rhythms introduce disorder and uncertainty.
-- **Increasingly influential:** Macbeth first encounters them unexpectedly, then actively seeks their reassurance. They never command him to murder Duncan.
+- **Catalysts, not decision-makers:** the prophecies accelerate his desire for power. Macbeth first encounters them unexpectedly, then actively seeks their reassurance. They never command him to murder Duncan.
 
 ### Key quotations
 
@@ -274,7 +274,7 @@ Macduff resists Macbeth because he cares about Scotland and its people. **His co
 
 **Relationships:** Malcolm tests his loyalty before trusting him. Lady Macduff questions his departure, and he later blames himself for the family's deaths. His final resistance serves Scotland as well as personal revenge.
 
-**Central argument:** Macduff connects national suffering with personal grief and presents humane courage as an answer to tyranny.
+**Central argument:** Macduff connects national suffering with personal grief. As an **avenging hero**, he seeks justice for his family while helping free Scotland; his violence serves a different purpose from Macbeth's.
 
 ## Duncan: generous kingship and misplaced trust
 
@@ -296,13 +296,32 @@ Duncan is Scotland's king and Malcolm's father. **He rewards loyalty and values 
 
 **Central argument:** Duncan represents benevolent authority whose vulnerability exposes both the danger of trusting appearances and the cruelty of Macbeth's choices.
 
+## Malcolm: legitimate succession and cautious leadership
+
+Malcolm is Duncan's eldest son and chosen heir. **He offers an alternative to Macbeth's tyranny, combining a claim to the crown with concern for Scotland.** The ending promises restoration, rather than showing that every problem has already been solved.
+
+- **Cautious:** after his father's murder he flees danger, then tests Macduff before trusting him. His caution contrasts with Duncan's misplaced confidence.
+- **Concerned with moral fitness:** his test asks whether Macduff puts Scotland's welfare above loyalty to a particular ruler.
+- **Not a flawless ideal:** his challenge to Macduff's manhood allows Macduff to offer a more compassionate definition of courage.
+
+### Key quotations
+
+- **“The Prince of Cumberland” — Duncan naming Malcolm, 1.4:** **language / structure — title and obstacle:** the public appointment establishes succession; Macbeth's private reaction treats Malcolm as something to overcome.
+- **“king-becoming graces” — Malcolm, 4.3:** **language — a list of virtues:** justice, mercy and courage define good kingship. He pretends to lack these qualities to test Macduff's loyalty to Scotland.
+- **“Dispute it like a man” — Malcolm, 4.3:** **language — imperative:** he urges Macduff to confront his grief through action. Macduff's response insists that feeling also belongs to manhood.
+- **“planted newly” — Malcolm, final scene:** **imagery / structure — gardening metaphor:** the rebuilding language recalls Duncan's nurturing speech and contrasts with the destruction of Macbeth's reign.
+- **“by the grace of grace” — Malcolm, final scene:** **language — religious phrasing:** his closing promise places restoration within a language of divine favour. This expresses a claim to rightful rule, rather than proving that the audience has witnessed God's choice.
+
+**Relationships and role:** Duncan's appointment gives him a recognised claim. Macduff's integrity earns his trust, and their alliance turns resistance into a practical challenge to Macbeth. The invitation to the coronation completes a movement from stolen power towards restored authority.
+
+**Central argument:** Malcolm links legitimate succession with responsible leadership; a title alone is not enough to make a good king.
+
 ## Other characters and the rulers
 
 | Character | Main purpose | Evidence and interpretation |
 |---|---|---|
 | **Fleance** | A future Macbeth cannot control | His escape means killing Banquo has not removed the threat to Macbeth's dynasty. The play does not show Fleance becoming king. |
 | **Lady Macduff and her son** | Innocent victims | Their domestic conversation and onstage danger expose how political violence destroys ordinary family life. Lady Macduff also questions her husband's departure. |
-| **Malcolm** | A possible restoration of responsible rule | He tests Macduff's loyalty in 4.3 and contrasts a ruler's duties with Macbeth's self-interest. His final order offers a fresh start after damage. |
 
 ## Ambition / Power
 
@@ -342,6 +361,27 @@ Imagine winning a competition by cheating, then becoming more worried about bein
 Kingship asks a different question from ambition: **what makes someone worthy to rule?** Shakespeare contrasts a ruler who serves the country with a tyrant who treats it as a possession.
 
 Think of a team captain. Wearing the badge gives them authority, but good leadership depends on protecting the team, rewarding effort and earning trust. Macbeth holds the title while losing the qualities that justify it.
+
+### Regicide, usurpation and succession
+
+Taking a leader's badge by harming its owner is different from earning the right to lead. Macbeth obtains the crown, but his methods destroy the trust that should support his rule.
+
+- **Regicide:** murdering a king. Macbeth kills Duncan in Act 2.
+- **Usurpation:** taking power without a legitimate right. Macbeth's regicide clears the way for his seizure of the throne.
+- **Legitimate succession:** the recognised transfer of authority. Duncan publicly names Malcolm **Prince of Cumberland** in 1.4; Macbeth treats that appointment as an obstacle.
+- **Primogeniture:** inheritance through the firstborn, traditionally the eldest son. Malcolm is Duncan's eldest son, but base an argument on the appointment shown in the play rather than assuming all Scottish succession followed one simple rule.
+
+### Religious and political meaning
+
+The **Divine Right of Kings** was the belief that royal authority came from God. Within that belief, killing a king attacked a sacred as well as a political order. Macduff's description of Duncan's body as **“The Lord's anointed temple”** (2.3) uses a **religious metaphor**: Duncan becomes a sacred building violated by murder. His description of the act as **“sacrilegious”** gives that judgement explicit force.
+
+Shakespeare wrote during **James I's reign**, when his company had royal patronage. This helps explain the play's interest in treason and kingship. Its condemnation of regicide could appeal to royal concerns, but that is an interpretation of the play's effect, rather than proof of a single purpose. The play's Scotland and Shakespeare's stage audience are different historical settings.
+
+### The cost of taking power
+
+- **Before murder:** Macbeth's soliloquies expose conscience and anticipated consequences. The dagger vision occurs before Duncan is killed.
+- **After gaining the crown:** the **“fruitless crown”** metaphor shows that possession does not give Macbeth the dynasty or security he wants.
+- **During his rule:** the **“full of scorpions”** metaphor makes anxiety painful and poisonous. More violence attempts to protect his first crime, while Scotland suffers.
 
 ### Three rulers to compare
 
@@ -570,6 +610,23 @@ Much of the play uses **blank verse**, usually unrhymed iambic pentameter. Do no
 
 Duncan's murder happens **offstage**, focusing attention on anticipation and aftermath. The attack on Macduff's family is brought onto the stage, confronting the audience with innocent suffering. Those choices are part of **dramatic structure**, not merely plot information.
 
+## Useful vocabulary for a precise argument
+
+Use a term when it expresses the idea clearly. The explanation and evidence matter more than an impressive label.
+
+| Term | Plain meaning | Useful Macbeth connection |
+|---|---|---|
+| **Tyrant** | A cruel, oppressive ruler | Macbeth protects himself by harming the people he should serve. |
+| **Hubris** | Excessive pride or overconfidence | He treats the apparitions' ambiguous promises as guarantees of safety. |
+| **Hamartia** | A tragic error or flaw contributing to downfall | Ambition overriding conscience is one useful reading; his repeated decisions matter too. |
+| **Transgression** | Crossing a moral or accepted boundary | Killing his king, relative and guest breaks several duties. |
+| **Catalyst** | Something that starts or speeds up events | The prophecies encourage a desire that Macbeth chooses to act on. |
+| **Duplicitous** | Deceptive through concealed intentions | The couple perform loyal hospitality while planning murder. |
+| **Integrity / restraint** | Keeping principles / controlling desires | Banquo is tempted, but does not murder to achieve the promised future. |
+| **Patriarchal** | Organised mainly around male authority | Lady Macbeth uses expectations of masculine courage to pressure her husband. |
+| **Emasculation** | Undermining someone's sense of masculinity | Her conditional manhood challenge turns refusal into shame. |
+| **Sacrilege / blasphemy** | Violating something sacred / showing disrespect towards God or sacred beliefs | Macduff calls the killing sacrilegious; **regicide** names the act more precisely than treating the terms as synonyms. |
+
 ## A small quotation bank with many uses
 
 | Evidence | Speaker and location | Flexible uses |
@@ -603,6 +660,44 @@ The extract question is worth **15 marks**. Aim for about **20 minutes**. Stay c
 **Point → evidence → close analysis → effect → question.** Treat this as a thinking route, not a compulsory sentence formula.
 
 For example: Lady Macbeth's command **“Out, damned spot”** suggests that she tries to use the same forceful language that once directed her husband. Yet the stain is imagined, so the command achieves nothing. The word **“damned”** gives the mark a moral and religious weight. An audience may feel horror or pity at the gap between her earlier confidence and her present helplessness.
+
+## Connecting themes to the question
+
+The themes are like different lenses on the same event. Choose the lenses that sharpen your answer, rather than describing every lens you own.
+
+**VAGGAS** recalls six useful connections: **Violence, Ambition, Guilt, Gender, Appearance and reality, Supernatural**. The two Gs represent different themes. **Kingship** remains an important separate theme, especially for questions about leadership and Scotland.
+
+| Theme | A connection worth making | Quotation and method |
+|---|---|---|
+| **Violence** | The wish to gain power becomes a need to defend it through further killing. | **“blood will have blood”** (3.4): **repetition** suggests accumulating consequences. |
+| **Ambition** | Macbeth knows his motive is dangerous before choosing murder. | **“vaulting ambition”** (1.7): a **riding metaphor** anticipates overreaching and a fall. |
+| **Guilt** | Removing evidence does not remove responsibility. | **“Out, damned spot”** (5.1): a failed **imperative**, fragmented **prose** and stage action expose lost control. |
+| **Gender** | Pressure to prove manhood can displace moral judgement. | **“When you durst do it, then you were a man”** (1.7): a **conditional claim** makes identity depend on violence. |
+| **Appearance and reality** | Public loyalty conceals private desire. | **“Stars, hide your fires”** (1.4): **imperative** and light-dark **imagery** request concealment. |
+| **Supernatural** | Predictions offer temptation and false certainty, while choice remains possible. | **“none of woman born”** (4.1): **equivocation** postpones the revelation of its unexpected meaning. |
+| **Kingship** | Worthy rule protects people; tyranny wounds the country. | **“Bleed, bleed, poor country!”** (4.3): **personification** makes national suffering physical. |
+
+### Three linked ideas: Macbeth's inner conflict
+
+**Argument:** Macbeth understands the moral cost of murder, but repeatedly allows desire and then fear to override that understanding.
+
+1. **Ambition against conscience:** in 1.7 he identifies his duties and then **“vaulting ambition”**. The **soliloquy** lets the audience hear the choice he is hiding from Duncan.
+2. **Gender and concealed intention:** Lady Macbeth's manhood challenge pressures him to prove himself. Her **“innocent flower” / “serpent”** comparison uses contrasting **images** to turn outward loyalty into a disguise.
+3. **Guilt becoming renewed violence:** the **“full of scorpions”** metaphor (3.2) shows that gaining power has not brought peace. He responds to insecurity by organising further murders, so internal suffering creates danger for others.
+
+These are possible routes through a whole-play question, not required paragraph labels. Three well-developed ideas can work; use more or fewer when the question and evidence need them. A single paragraph may connect more than one theme.
+
+### Keep each paragraph focused
+
+- **Answer the question:** make a claim about its exact focus, such as inner conflict or leadership.
+- **Use evidence:** choose a short, accurate quotation or a precise event reference.
+- **Analyse a choice:** explain a word, image, speech form, contrast or dramatic placement.
+- **Develop the meaning:** show what the choice reveals and how it shapes an audience's understanding.
+- **Link the stages:** explain what changes or remains unresolved across the play.
+
+For a **15-mark extract**, use the printed passage throughout. For a **25-mark essay**, choose relevant moments from across the play. Context can deepen a particular reading; it should not replace close analysis.
+
+**Qualify a claim when the evidence needs it:** the witches influence Macbeth, but do not command Duncan's murder; Banquo is principled, but still tempted; courage can be admired without excusing tyranny. Explain the qualification with evidence instead of simply disagreeing with the question.
 
 ## Building a whole-play argument
 

@@ -8,18 +8,18 @@
     "body_pt": 11.21,
     "minimum_diagram_label_pt": 11.21
   },
-  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "full_text": "Editable Markdown counterparts synchronised with the same maintained map definitions.",
   "maps": [
     {
       "widths": [
         434,
-        310,
-        316
+        290,
+        336
       ],
       "column_heights": [
-        614,
-        612,
-        599
+        658,
+        656,
+        577
       ],
       "panels": [
         {
@@ -38,7 +38,7 @@
           "x": 18,
           "y": 246,
           "width": 434,
-          "height": 402
+          "height": 446
         },
         {
           "source_panels": [
@@ -46,7 +46,7 @@
           ],
           "x": 464,
           "y": 18,
-          "width": 310,
+          "width": 290,
           "height": 330
         },
         {
@@ -55,25 +55,25 @@
           ],
           "x": 464,
           "y": 360,
-          "width": 310,
-          "height": 286
+          "width": 290,
+          "height": 330
         },
         {
           "source_panels": [
             4
           ],
-          "x": 786,
+          "x": 766,
           "y": 18,
-          "width": 316,
-          "height": 273
+          "width": 336,
+          "height": 251
         },
         {
           "source_panels": [
             5
           ],
-          "x": 786,
-          "y": 303,
-          "width": 316,
+          "x": 766,
+          "y": 281,
+          "width": 336,
           "height": 330
         }
       ],
@@ -91,14 +91,14 @@
     },
     {
       "widths": [
-        294,
-        442,
-        324
+        350,
+        358,
+        352
       ],
       "column_heights": [
-        640,
-        655,
-        634
+        634,
+        721,
+        612
       ],
       "panels": [
         {
@@ -107,53 +107,53 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 294,
-          "height": 336
+          "width": 350,
+          "height": 330
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 366,
-          "width": 294,
+          "y": 360,
+          "width": 350,
           "height": 308
         },
         {
           "source_panels": [
             2
           ],
-          "x": 324,
+          "x": 380,
           "y": 18,
-          "width": 442,
-          "height": 417
+          "width": 358,
+          "height": 414
         },
         {
           "source_panels": [
             3
           ],
-          "x": 324,
-          "y": 447,
-          "width": 442,
-          "height": 242
+          "x": 380,
+          "y": 444,
+          "width": 358,
+          "height": 305
         },
         {
           "source_panels": [
             4
           ],
-          "x": 778,
+          "x": 750,
           "y": 18,
-          "width": 324,
+          "width": 352,
           "height": 330
         },
         {
           "source_panels": [
             5
           ],
-          "x": 778,
+          "x": 750,
           "y": 360,
-          "width": 324,
-          "height": 308
+          "width": 352,
+          "height": 286
         }
       ],
       "body_pt": 11.22,
@@ -170,14 +170,14 @@
     },
     {
       "widths": [
-        290,
-        430,
-        340
+        322,
+        386,
+        352
       ],
       "column_heights": [
-        583,
-        641,
-        555
+        533,
+        663,
+        678
       ],
       "panels": [
         {
@@ -186,52 +186,52 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 290,
-          "height": 301
+          "width": 322,
+          "height": 273
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 331,
-          "width": 290,
-          "height": 286
+          "y": 303,
+          "width": 322,
+          "height": 264
         },
         {
           "source_panels": [
             2
           ],
-          "x": 320,
+          "x": 352,
           "y": 18,
-          "width": 430,
+          "width": 386,
           "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 320,
+          "x": 352,
           "y": 259,
-          "width": 430,
-          "height": 416
+          "width": 386,
+          "height": 438
         },
         {
           "source_panels": [
             4
           ],
-          "x": 762,
+          "x": 750,
           "y": 18,
-          "width": 340,
-          "height": 251
+          "width": 352,
+          "height": 374
         },
         {
           "source_panels": [
             5
           ],
-          "x": 762,
-          "y": 281,
-          "width": 340,
+          "x": 750,
+          "y": 404,
+          "width": 352,
           "height": 308
         }
       ],
@@ -249,14 +249,14 @@
     },
     {
       "widths": [
-        390,
-        342,
-        328
+        354,
+        354,
+        352
       ],
       "column_heights": [
-        582,
-        590,
-        596
+        626,
+        612,
+        590
       ],
       "panels": [
         {
@@ -265,53 +265,53 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 390,
-          "height": 357
+          "width": 354,
+          "height": 401
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 387,
-          "width": 390,
+          "y": 431,
+          "width": 354,
           "height": 229
         },
         {
           "source_panels": [
             2
           ],
-          "x": 420,
+          "x": 384,
           "y": 18,
-          "width": 342,
-          "height": 264
+          "width": 354,
+          "height": 308
         },
         {
           "source_panels": [
             3
           ],
-          "x": 420,
-          "y": 294,
-          "width": 342,
-          "height": 330
+          "x": 384,
+          "y": 338,
+          "width": 354,
+          "height": 308
         },
         {
           "source_panels": [
             4
           ],
-          "x": 774,
+          "x": 750,
           "y": 18,
-          "width": 328,
-          "height": 292
+          "width": 352,
+          "height": 264
         },
         {
           "source_panels": [
             5
           ],
-          "x": 774,
-          "y": 322,
-          "width": 328,
-          "height": 308
+          "x": 750,
+          "y": 294,
+          "width": 352,
+          "height": 330
         }
       ],
       "body_pt": 11.22,
@@ -329,13 +329,13 @@
     {
       "widths": [
         418,
-        306,
-        336
+        298,
+        344
       ],
       "column_heights": [
         617,
-        612,
-        568
+        634,
+        634
       ],
       "panels": [
         {
@@ -362,35 +362,35 @@
           ],
           "x": 448,
           "y": 18,
-          "width": 306,
-          "height": 330
+          "width": 298,
+          "height": 352
         },
         {
           "source_panels": [
             3
           ],
           "x": 448,
-          "y": 360,
-          "width": 306,
+          "y": 382,
+          "width": 298,
           "height": 286
         },
         {
           "source_panels": [
             4
           ],
-          "x": 766,
+          "x": 758,
           "y": 18,
-          "width": 336,
-          "height": 286
+          "width": 344,
+          "height": 330
         },
         {
           "source_panels": [
             5
           ],
-          "x": 766,
-          "y": 316,
-          "width": 336,
-          "height": 286
+          "x": 758,
+          "y": 360,
+          "width": 344,
+          "height": 308
         }
       ],
       "body_pt": 11.22,
@@ -403,6 +403,79 @@
       ],
       "slug": "04-drama-and-exam-writing",
       "title": "Drama & exam writing",
+      "source_panels_preserved": 6
+    },
+    {
+      "widths": [
+        322,
+        350,
+        388
+      ],
+      "column_heights": [
+        618,
+        618,
+        612
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 322,
+          "height": 336
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 366,
+          "width": 322,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 352,
+          "y": 18,
+          "width": 350,
+          "height": 314
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 352,
+          "y": 344,
+          "width": 350,
+          "height": 308
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 714,
+          "y": 18,
+          "width": 388,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 714,
+          "y": 316,
+          "width": 388,
+          "height": 330
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "05-connected-themes-and-essay-planning",
+      "title": "Connected themes & essay planning",
       "source_panels_preserved": 6
     }
   ]

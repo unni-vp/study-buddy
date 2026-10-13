@@ -25,12 +25,12 @@
 
 ## 25-mark essay
 
-- About 40 minutes. 20 literary marks + 5 for writing accuracy. Plan a clear answer and three/four developing moments.
+- About 40 minutes. 20 literary marks + 5 for writing accuracy. Select relevant themes and three/four developing moments.
 - Link beginning, middle and end; show how Shakespeare presents the idea.
-- Use connected paragraphs and accurate quotation or clear event references.
+- Claim → evidence → method → meaning/effect → question. Develop connected paragraphs, rather than listing every theme.
 
 ## Flexible evidence
 
-- “Vaulting ambition”: excess and judgement. “Fruitless crown”: insecurity. “Little water” → “damned spot”: reversal and guilt.
-- “Feel it as a man”: grief and courage. “Walking shadow”: emptiness.
+- “Vaulting ambition”: riding **metaphor**. “Fruitless crown”: infertility **metaphor**. “Little water” to “damned spot”: **structural reversal**.
+- “also feel it as a man” (4.3): inclusive **adverb**. “Walking shadow”: insubstantial-life **metaphor**.
 - Explain evidence in its moment, then link it to the argument.

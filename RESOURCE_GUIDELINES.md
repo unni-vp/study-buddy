@@ -169,3 +169,11 @@ These checks apply to future resources and revisions of existing resources.
 - Poetry notes follow six sections: relevant poet context; Poem context — form and structure; Content and deeper meaning (including relevant setting); 5–6 key quotations with methods and effects; Language and imagery; Example quotation analysis. Preserve useful comparisons and major theme tags.
 - Include biographical facts only when they help explain a particular poem. Distinguish poet from constructed speaker and supported context from speculative intention. Explain form and structural development against the official poem, rather than adding a disconnected list of terms.
 - Check verse lines, stanza divisions and turns in the official anthology page layout. A printed page break or wrapped line does not establish a stanza break or an extra verse line. In Decomposition, analyse reflective free verse and the shift to self-criticism; do not rely on the inherited five-quatrain claim.
+
+## Macbeth connected revision
+
+- Treat VAGGAS as a flexible six-theme memory aid with distinct Guilt and Gender entries; keep Kingship as a separate theme. Choose links that answer the question, without prescribing a fixed number of themes or paragraphs.
+- For Eduqas Macbeth, distinguish the 15-mark printed-extract analysis from the 25-mark whole-play essay. Do not import advice that sends an extract answer away from its printed passage.
+- Distinguish regicide from usurpation, and divine-right belief from a proven divine appointment. Ground succession in Duncan naming Malcolm; do not impose a universal primogeniture rule on the play's Scotland. The dagger precedes Duncan's death.
+- Keep character interpretations qualified: Banquo is tempted; Lady Macbeth's influence changes; Macduff joins grief with public duty; Malcolm promises restoration but his reign is not shown. Use terms such as hubris, hamartia and catalyst only alongside plain meanings and specific evidence.
+- Synchronise edited Literature mind-map Markdown with the same maintained definitions used for artwork, through scripts/build_literature_maps.py. Preserve readable A4 fonts, selected explanatory diagrams and viewer navigation.

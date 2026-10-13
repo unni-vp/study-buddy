@@ -8,8 +8,8 @@
 ## Ambition → insecurity
 
 - A praised defender becomes a king who attacks his own people. He gains power but loses peace.
-- The witches tempt; Macbeth chooses. “Vaulting ambition” (1.7) shows he understands the danger.
-- New crimes try to protect the first crime; violence escalates.
+- The witches are **catalysts**; Macbeth chooses. “Vaulting ambition” (1.7) is a riding **metaphor** of overreaching.
+- Regicide: killing Duncan. Usurpation: seizing the crown. New crimes try to protect the first; violence escalates.
 
 ## The marriage changes
 
@@ -21,7 +21,7 @@
 
 - Banquo hears prophecy but warns of “instruments of darkness” (1.3). Macduff combines courage with grief.
 - Duncan’s trust exposes betrayal; Lady Macduff and her son reveal tyranny’s human cost.
-- Malcolm offers a different model of leadership.
+- Malcolm, Duncan’s named heir, offers legitimate succession and responsible leadership.
 
 ## Motifs & stagecraft
 
@@ -31,5 +31,5 @@
 ## Answer the question
 
 - Extract: follow language, behaviour and shifts across the passage; explain audience effects.
-- Essay: argue across beginning, middle and end. Use precise evidence and analyse Shakespeare’s choices.
+- Essay: select theme connections that answer the question. Trace beginning, middle and end with evidence and methods.
 - 15-mark extract; 25-mark essay includes 5 for writing accuracy.

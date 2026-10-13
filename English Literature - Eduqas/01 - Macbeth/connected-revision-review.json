@@ -1,0 +1,40 @@
+{
+  "reviewed": "2026-10-13",
+  "reference": "User-provided summary of Macbeth theme and essay-planning videos",
+  "reference_sha256": "f9a1c76c593624423643c765a2ff4fe3c4a9c835e4a7d73b07074c7d6c21a66c",
+  "scope": [
+    "Revision notes",
+    "All existing Macbeth mind maps and one connected-theme planning map",
+    "Combined Q&A"
+  ],
+  "primary_sources": [
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/4/",
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/read/1/7/",
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/read/2/3/",
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/read/4/3/",
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/read/5/8/",
+    "https://www.folger.edu/explore/shakespeares-works/macbeth/about-shakespeares-macbeth/",
+    "https://www.rsc.org.uk/macbeth/about-the-play/dates-and-sources",
+    "https://www.folger.edu/podcasts/shakespeare-unlimited/thinking-through-shakespeare-with-david-womersley/"
+  ],
+  "assessment_source": "Local Eduqas C720QS specification and retained 2019/2023/2024 Component 1 papers and mark schemes",
+  "decisions": [
+    "VAGGAS includes two distinct G themes. It is a flexible memory aid; retain Kingship as a seventh theme.",
+    "The 15-mark task is close analysis of the printed extract. Whole-play selection applies to the separate 25-mark essay.",
+    "Dagger vision precedes regicide; do not say the completed murder causes the earlier vision.",
+    "Succession argument rests on Duncan explicitly naming Malcolm; do not assert a simple universal primogeniture rule for medieval Scotland.",
+    "Divine right is a historical belief. Religious language and royal patronage support interpretations, not proof of a divine appointment or a single authorial intention.",
+    "Regicide, sacrilege and blasphemy are related concepts, not interchangeable definitions.",
+    "Banquo is tempted; Lady Macbeth is influential early but does not control all subsequent crimes; Macduff combines grief, justice and national duty.",
+    "Retain concise character notes, separate theme sections, method/effect links and full-width readable A4 typography.",
+    "New quick tasks and essays are original practice, with no invented recurrence claim."
+  ],
+  "completed_checks": {
+    "content": "All 70 paired questions rendered; retained three verse extracts; source and quotation checks passed.",
+    "readers": "Macbeth Characters, Themes, and Essay-writing readers fit desktop and 390-pixel mobile views.",
+    "answers": "All answers initially collapsed; Expand all and Collapse all operate on all 70.",
+    "maps": "All six maps passed transformed text/panel spacing and physical font checks; A4 proofs visually reviewed.",
+    "print": "Each map prints as one A4 landscape page in both reader and modal; body and smallest label 11.21 pt.",
+    "navigation": "Six-map Previous/Next, disabled end control, and Escape verified on desktop and mobile."
+  }
+}

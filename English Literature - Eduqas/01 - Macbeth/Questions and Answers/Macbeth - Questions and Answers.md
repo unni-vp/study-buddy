@@ -74,123 +74,178 @@
 
 **Answer:** The Second Apparition.
 
+**19.** What is regicide?
+
+**Answer:** The murder of a king.
+
+**20.** What is usurpation?
+
+**Answer:** Taking power without a legitimate right.
+
+**21.** What does hubris mean?
+
+**Answer:** Excessive pride or overconfidence.
+
+**22.** What is hamartia?
+
+**Answer:** A tragic error or flaw contributing to downfall.
+
+**23.** Which title does Duncan give Malcolm when naming his successor?
+
+**Answer:** Prince of Cumberland.
+
 ## 2 marks
 
-**19.** Give two duties Macbeth has towards Duncan before the murder.
+**24.** Give two duties Macbeth has towards Duncan before the murder.
 
 **Answer:** - As Duncan’s **subject**, Macbeth owes him loyalty.
 - As Duncan’s **host**, Macbeth should protect him.
 
 He is also Duncan’s relative, giving him a further reason to protect him.
 
-**20.** What does “Stars, hide your fires” suggest about Macbeth’s desires?
+**25.** What does “Stars, hide your fires” suggest about Macbeth’s desires?
 
 **Answer:** - He wants darkness to **conceal** his ambition.
 - Wanting to hide it suggests that he recognises it is **morally wrong**.
 
-**21.** Explain the image “vaulting ambition”.
+**26.** Explain the image “vaulting ambition”.
 
 **Answer:** - Ambition is compared to **leaping too far**, like a rider overshooting.
 - It suggests that excessive ambition can cause a **fall**, anticipating Macbeth’s destruction.
 
-**22.** How does Lady Macbeth use Macbeth’s ideas about manhood to influence him?
+**27.** How does Lady Macbeth use Macbeth’s ideas about manhood to influence him?
 
 **Answer:** - “When you durst do it, then you were a man” makes murder a test of **masculinity**.
 - She pressures him to prove his courage instead of following his moral objections.
 
-**23.** How do Macbeth’s “ocean” and Lady Macbeth’s “little water” present different responses to Duncan’s murder?
+**28.** How do Macbeth’s “ocean” and Lady Macbeth’s “little water” present different responses to Duncan’s murder?
 
 **Answer:** - Macbeth imagines an entire ocean cannot remove his **guilt**.
 - Lady Macbeth treats it as a small, practical problem of washing away the **evidence**.
 
-**24.** What does Macbeth mean by a “fruitless crown”?
+**29.** What does Macbeth mean by a “fruitless crown”?
 
 **Answer:** - He fears that his kingship will not produce a lasting **dynasty** for his family.
 - Banquo’s predicted descendants make the crown feel insecure and unfulfilling.
 
-**25.** Explain one effect of “full of scorpions is my mind”.
+**30.** Explain one effect of “full of scorpions is my mind”.
 
 **Answer:** - The **metaphor** fills Macbeth’s mind with painful, poisonous creatures.
 - It makes his anxiety seem like torment from which he cannot escape.
 
-**26.** How does the banquet scene expose the weakness of Macbeth’s authority?
+**31.** How does the banquet scene expose the weakness of Macbeth’s authority?
 
 **Answer:** - His response to Banquo’s ghost makes him lose control in front of his guests.
 - The public display of fear undermines the appearance of a confident, secure king.
 
-**27.** How does “Be innocent of the knowledge, dearest chuck” show a change in the Macbeths’ relationship?
+**32.** How does “Be innocent of the knowledge, dearest chuck” show a change in the Macbeths’ relationship?
 
 **Answer:** - Macbeth withholds the details of the murder plan from Lady Macbeth.
 - This contrasts with their earlier **partnership** and shows her growing exclusion.
 
-**28.** Why is the attack on Macduff’s family important to the presentation of Macbeth?
+**33.** Why is the attack on Macduff’s family important to the presentation of Macbeth?
 
 **Answer:** - It shows his violence targeting **innocent, vulnerable people**.
 - The audience sees the human cost of his **tyranny**, beyond his own fears.
 
-**29.** What alternative view of masculinity does Macduff express in “I must also feel it as a man”?
+**34.** What alternative view of masculinity does Macduff express in “I must also feel it as a man”?
 
 **Answer:** - Being a man includes feeling **grief and love**, not hiding them.
 - His response challenges the idea that courage requires emotional hardness.
 
-**30.** How is the prophecy about Birnam Wood fulfilled?
+**35.** How is the prophecy about Birnam Wood fulfilled?
 
 **Answer:** - Malcolm’s soldiers carry branches to **conceal their numbers**.
 - Their advance makes the wood appear to move towards Dunsinane.
 
-**31.** Why does the promise about “none of woman born” fail to protect Macbeth from Macduff?
+**36.** Why does the promise about “none of woman born” fail to protect Macbeth from Macduff?
 
 **Answer:** - Macduff reveals that he was cut from his mother’s womb: “Untimely ripped”.
 - This fulfils the prophecy in a way Macbeth did not expect, exposing its **misleading reassurance**.
 
-**32.** How does Lady Macbeth’s hand-rubbing connect with her earlier response to guilt?
+**37.** How does Lady Macbeth’s hand-rubbing connect with her earlier response to guilt?
 
 **Answer:** - It echoes her earlier claim that “A little water” could clear the deed.
 - Her inability to remove the imagined stain shows that **guilt cannot simply be washed away**.
 
-**33.** What does “Life’s but a walking shadow” suggest about Macbeth near the end?
+**38.** What does “Life’s but a walking shadow” suggest about Macbeth near the end?
 
 **Answer:** - A shadow has little substance and does not last.
 - The **metaphor** expresses his feeling that life and his achievements have become empty.
 
-**34.** What does Banquo mean by keeping his “allegiance clear”?
+**39.** What does Banquo mean by keeping his “allegiance clear”?
 
 **Answer:** - He wants to keep his **loyalty untainted**.
 - He will not gain honour by sacrificing his **conscience**.
 
-**35.** Why does Banquo’s question about his own “oracles” complicate his character?
+**40.** Why does Banquo’s question about his own “oracles” complicate his character?
 
 **Answer:** - He hopes the witches’ promise for his descendants will be true.
 - He is **tempted**, although he does not commit murder to make it happen.
 
-**36.** How does calling Macbeth “wicked” change his opening reputation?
+**41.** How does calling Macbeth “wicked” change his opening reputation?
 
 **Answer:** - It contrasts with the Captain’s praise of “brave Macbeth”.
 - Even a witch now identifies the former defender as a source of **evil**.
 
-**37.** Explain the contrast between “innocent flower” and “serpent”.
+**42.** Explain the contrast between “innocent flower” and “serpent”.
 
 **Answer:** - The flower suggests a harmless **appearance**.
 - The serpent represents the concealed **danger and betrayal** underneath.
 
-**38.** What does Lady Macbeth’s reference to her father reveal?
+**43.** What does Lady Macbeth’s reference to her father reveal?
 
 **Answer:** - Duncan’s resemblance to her father stops her from killing him herself.
 - It reveals an emotional limit to the **cruelty** she tries to perform.
 
-**39.** What does “king-becoming graces” suggest about good leadership?
+**44.** What does “king-becoming graces” suggest about good leadership?
 
 **Answer:** - A king needs **moral qualities**, such as justice and mercy.
 - Holding a royal title is not enough to make someone a **worthy ruler**.
 
-**40.** How does “blood will have blood” develop the violence theme?
+**45.** How does “blood will have blood” develop the violence theme?
 
 **Answer:** - The repeated word suggests that bloodshed produces further **bloodshed and consequences**.
 - Macbeth fears retaliation, but continues the violence that creates it.
 
+**46.** How do regicide and usurpation describe different parts of Macbeth’s rise?
+
+**Answer:** - **Regicide** names the killing of Duncan.
+- **Usurpation** names Macbeth’s seizure of the crown without a legitimate right.
+
+**47.** Explain the religious metaphor “The Lord’s anointed temple” in Act 2, Scene 3.
+
+**Answer:** - Macduff compares Duncan’s body to a **sacred building**.
+- Its violation presents the murder as an attack on sacred authority, as well as a political crime.
+
+**48.** Why is it useful to call the witches catalysts rather than the sole cause of Duncan’s murder?
+
+**Answer:** - Their predictions **encourage Macbeth’s ambition** and speed up events.
+- They do not command the murder: Macbeth understands the objections and **chooses** to act.
+
+**49.** What does Macbeth’s “full of scorpions” metaphor reveal after he becomes king?
+
+**Answer:** - The poisonous creatures make his thoughts seem **painful and dangerous**.
+- Gaining power has produced **insecurity**, which encourages further violence, rather than peace.
+
+**50.** How does Malcolm’s test of Macduff differ from Duncan’s earlier judgement?
+
+**Answer:** - Duncan trusts men who betray him, while Malcolm **tests loyalty** before accepting it.
+- Macduff’s distress at the prospect of another bad ruler shows that he puts **Scotland before personal allegiance**.
+
+**51.** When answering the 15-mark extract question, how should you use evidence?
+
+**Answer:** - Select words, actions or shifts from **across the printed passage**.
+- Explain their meanings and effects while keeping the answer focused on that passage.
+
+**52.** How can you connect violence to a question about Macbeth’s ambition?
+
+**Answer:** - Explain how the desire for the crown leads to **Duncan’s murder**.
+- Then show that fear of losing power drives further killing; keep the violence linked to the question’s focus.
+
 ## 15 marks
 
-**41.** Read Macbeth’s speech from Act 1, Scene 7 below. How does Shakespeare present Macbeth’s thoughts and feelings in this passage?
+**53.** Read Macbeth’s speech from Act 1, Scene 7 below. How does Shakespeare present Macbeth’s thoughts and feelings in this passage?
 
 > MACBETH:
 > He's here in double trust:
@@ -221,7 +276,7 @@ The image of the vulnerable “newborn babe” makes pity seem innocent and defe
 
 Finally, the riding image of “vaulting ambition” exposes his only motive. An uncontrolled leap suggests both reaching too far and falling. He can recognise the weakness of his own argument, which makes his attraction to murder more disturbing. The passage therefore builds tension through the gap between **what Macbeth knows is right and what he wants**.
 
-**42.** At the banquet in Act 3, Scene 4, Macbeth sees Banquo’s ghost. How does Shakespeare make the following exchange dramatic for an audience?
+**54.** At the banquet in Act 3, Scene 4, Macbeth sees Banquo’s ghost. How does Shakespeare make the following exchange dramatic for an audience?
 
 > MACBETH [to the Ghost]:
 > Thou canst not say I did it. Never shake
@@ -255,7 +310,7 @@ The stage direction drawing Macbeth aside creates a sharp **public–private con
 
 Her image of a “painting” dismisses the ghost as something made by his fear. Mentioning the dagger and Duncan also brings the earlier murder back into this scene. Their private knowledge is perilously close to public discovery. The rapid changes of speaker and tone keep the audience uncertain whether their performance of secure rule can survive.
 
-**43.** After hearing that Lady Macbeth has died, Macbeth speaks in Act 5, Scene 5. How does Shakespeare present his response in this passage?
+**55.** After hearing that Lady Macbeth has died, Macbeth speaks in Act 5, Scene 5. How does Shakespeare present his response in this passage?
 
 > MACBETH:
 > She should have died hereafter.
@@ -283,7 +338,7 @@ The speech ends by stripping noise of purpose. A story “full of sound and fury
 
 ## 25 marks
 
-**44.** How does Shakespeare present the changes in Lady Macbeth during the play?
+**56.** How does Shakespeare present the changes in Lady Macbeth during the play?
 
 **Answer:** Shakespeare presents Lady Macbeth’s movement from apparent control to isolation and guilt. Her change exposes the limits of treating conscience as a weakness that can simply be suppressed.
 
@@ -299,7 +354,7 @@ The sleepwalking scene reverses her early certainty. **“Out, damned spot”** 
 
 Her death is reported rather than shown. This limits certainty about her final experience while reinforcing her isolation. Through the contrast between confident washing and compulsive washing, Shakespeare shows that gaining status has failed to protect her mind. An audience may condemn her role in murder while pitying the collapse of the control she once valued.
 
-**45.** How far does Shakespeare make you feel sympathy for Macbeth?
+**57.** How far does Shakespeare make you feel sympathy for Macbeth?
 
 **Answer:** Shakespeare creates qualified sympathy for Macbeth: his courage, inner conflict and eventual emptiness make him recognisably human, but his repeated choices prevent pity from becoming an excuse.
 
@@ -315,7 +370,7 @@ Near the end, **“Life’s but a walking shadow”** suggests that the prize he
 
 Ultimately, the audience can pity Macbeth’s self-destruction while welcoming his defeat. Shakespeare makes sympathy and judgement coexist. Macbeth is compelling because he can understand goodness and experience guilt, yet repeatedly chooses power over the lives of others.
 
-**46.** How does Shakespeare show the dangers of ambition in Macbeth?
+**58.** How does Shakespeare show the dangers of ambition in Macbeth?
 
 **Answer:** Shakespeare presents ambition as dangerous when desire for personal advancement overrules moral judgement. Macbeth’s problem is not wanting to achieve something; it is treating other people as obstacles to the position he wants.
 
@@ -331,7 +386,7 @@ The movement from Duncan’s murder to attacks on Banquo and Macduff’s family 
 
 By Act 5, the **“walking shadow”** image presents life as empty and insubstantial. The ending contrasts this private emptiness with Scotland’s need for restoration. Shakespeare therefore measures ambition’s cost in both personal and public terms: Macbeth loses peace and meaningful relationships, while his country suffers under the power he wanted.
 
-**47.** How does Shakespeare present guilt in Macbeth?
+**59.** How does Shakespeare present guilt in Macbeth?
 
 **Answer:** Guilt in Macbeth cannot be contained by hiding evidence. Shakespeare makes it return through recurring images, disturbed sleep and moments when private experience disrupts public behaviour.
 
@@ -347,7 +402,7 @@ Lady Macbeth’s sleepwalking later reverses her earlier confidence. **“Out, d
 
 Their responses differ: Macbeth tries further violence, while Lady Macbeth becomes increasingly isolated. Neither response resolves responsibility. Through these parallels and contrasts, Shakespeare presents guilt as an enduring consequence of choosing evil, even when the characters have gained the outward rewards they sought.
 
-**48.** How does Shakespeare present the influence of the supernatural?
+**60.** How does Shakespeare present the influence of the supernatural?
 
 **Answer:** The supernatural creates temptation and uncertainty in Macbeth, but it does not remove human responsibility. Shakespeare makes its greatest power the ability to exploit what Macbeth already wants to believe.
 
@@ -363,7 +418,7 @@ The audience eventually sees soldiers carrying branches and hears about Macduff�
 
 The supernatural therefore shapes the plot and the atmosphere while revealing Macbeth’s habits of mind. He increasingly seeks certainty from deceptive sources instead of examining his actions. His downfall comes from the interaction of temptation, fearful ambition and his own decisions; blaming the witches alone would ignore the choices the play repeatedly stages.
 
-**49.** How does Shakespeare present the relationship between Macbeth and Lady Macbeth?
+**61.** How does Shakespeare present the relationship between Macbeth and Lady Macbeth?
 
 **Answer:** The Macbeths begin as close partners, but the crime intended to advance them gradually destroys their intimacy. Shakespeare traces a movement from shared planning to unequal knowledge and emotional isolation.
 
@@ -379,11 +434,13 @@ Their later isolation shows the cost of this shift. Her sleepwalking command **�
 
 Shakespeare does not simply reverse which partner is stronger. Both lose what their early intimacy promised. The relationship demonstrates that power obtained through betrayal can corrode the trust and communication of the people who pursue it together.
 
-**50.** How does Shakespeare contrast good leadership with tyranny?
+**62.** How does Shakespeare contrast good leadership with tyranny?
 
 **Answer:** Shakespeare contrasts leadership that serves a country with rule designed to protect the ruler. Macbeth’s rise shows that possessing a crown is not the same as deserving authority.
 
 Duncan rewards bravery and speaks appreciatively of service. Macbeth himself describes him as **“meek”** and virtuous before killing him. These descriptions make the murder a betrayal of a ruler whom Macbeth cannot credibly present as cruel. However, Duncan misjudges loyalty, so his goodness is accompanied by dangerous trust.
+
+The distinction also concerns **regicide and usurpation**: Macbeth kills the king and takes power without a legitimate right. Macduff's **‘The Lord's anointed temple’** (2.3) makes Duncan's body sacred through a **religious metaphor**. The murder violates something Macbeth should protect, so the route to the crown already contradicts responsible leadership. Duncan's naming of Malcolm as heir provides a recognised succession against which Macbeth's seizure can be judged.
 
 Macbeth’s rule develops in the opposite direction. The **“fruitless crown”** image shows that his attention is fixed on his own insecure future. He sees Banquo and Fleance as threats to possession rather than people with claims to protection. Shakespeare presents political power becoming an extension of private fear.
 
@@ -395,7 +452,7 @@ Malcolm’s testing of Macduff shows greater caution than Duncan’s initial tru
 
 The ending restores legitimate rule, but the dead cannot return. Shakespeare makes relief at Macbeth’s defeat coexist with awareness of its cost. Good leadership is associated with responsibility, judgement and concern for others; tyranny treats the country as a means of securing one person’s desires.
 
-**51.** How does Shakespeare use Banquo to develop the audience’s understanding of Macbeth?
+**63.** How does Shakespeare use Banquo to develop the audience’s understanding of Macbeth?
 
 **Answer:** Shakespeare uses Banquo as a **foil** whose different response to temptation makes Macbeth's choices clearer. Their shared experience means that the witches cannot fully explain Macbeth's moral decline.
 
@@ -411,7 +468,7 @@ Macbeth's description **“royalty of nature”** (3.1) acknowledges Banquo's na
 
 Banquo therefore develops both the moral and political criticism of Macbeth. He shows an alternative to betrayal, while his threatened family and ghost reveal that violence cannot reliably remove fear, guilt or uncertainty.
 
-**52.** How does Shakespeare present Macduff as a challenge to Macbeth’s rule?
+**64.** How does Shakespeare present Macduff as a challenge to Macbeth’s rule?
 
 **Answer:** Shakespeare presents Macduff as a challenge grounded in loyalty and compassion. His opposition exposes the damage Macbeth causes to Scotland and makes the political struggle deeply personal.
 
@@ -429,7 +486,7 @@ He is nevertheless not flawless. Lady Macduff criticises his departure, and he l
 
 Macduff's violence combines revenge with ending tyranny; he supports Malcolm rather than taking the crown. Shakespeare therefore contrasts two capable fighters through what their strength serves: Macbeth protects his own insecure power, while Macduff helps restore a country he has seen suffer.
 
-**53.** How does Shakespeare present the witches as a dangerous influence?
+**65.** How does Shakespeare present the witches as a dangerous influence?
 
 **Answer:** Shakespeare presents the witches as dangerous through the way they shape interpretation. They make a desired future sound certain and later make vulnerability seem like protection. Their influence is powerful, but Macbeth's decisions remain visible.
 
@@ -447,7 +504,7 @@ The Second Apparition's **“none of woman born”** (4.1) is deceptive reassura
 
 Shakespeare leaves room to debate the witches' exact power. Their central danger is clearer: they encourage Macbeth to trust what suits his ambition and fear, while his active pursuit of reassurance makes his responsibility impossible to erase.
 
-**54.** How does Shakespeare show the changing purpose of violence in Macbeth?
+**66.** How does Shakespeare show the changing purpose of violence in Macbeth?
 
 **Answer:** Shakespeare makes violence change from national defence to betrayal, assassination and terror. Its moral meaning depends on motive, victims and consequences, not simply on a person's strength.
 
@@ -465,7 +522,7 @@ Finally, **“Turn, hellhound, turn!”** (5.8) makes Macduff's resistance direc
 
 The play therefore traces how strength becomes destructive when ambition and fear replace duty. Macbeth's readiness to harm innocent people marks his transformation from defender to tyrant, while the consequences show that violence cannot guarantee the security he wants.
 
-**55.** How does Shakespeare explore ideas about gender and courage?
+**67.** How does Shakespeare explore ideas about gender and courage?
 
 **Answer:** Shakespeare presents gender through competing definitions of courage. Characters argue about whether manhood requires violence and whether compassion prevents decisive action. The play does not offer one simple rule that men are strong and women are weak.
 
@@ -483,7 +540,7 @@ This does not make Macduff entirely free from conventional assumptions: he earli
 
 Shakespeare therefore exposes the danger of making violence a test of identity. Lady Macbeth's pressure helps turn courage towards wrongdoing, while Macduff's grief demonstrates that caring for others can give brave action its purpose.
 
-**56.** How does Shakespeare explore appearance and reality in Macbeth?
+**68.** How does Shakespeare explore appearance and reality in Macbeth?
 
 **Answer:** Shakespeare repeatedly makes reassuring appearances conceal danger. The audience is encouraged to examine the gap between public behaviour, private intention and the meanings characters choose to hear.
 
@@ -500,6 +557,34 @@ Macbeth is also deceived. The Second Apparition's **“none of woman born”** (
 At the end, Macbeth condemns **“juggling fiends”** (5.8), recognising that the promises worked through a double meaning. This recognition comes too late to undo the actions encouraged by his confidence. His preferred interpretation has helped make him vulnerable.
 
 The theme therefore operates in both directions: Macbeth manipulates what others see, then mistakes an attractive surface for reality himself. Shakespeare shows how deliberately concealing motives and willingly accepting comforting meanings can both lead to destruction.
+
+**69.** How does Shakespeare present Macbeth’s inner conflict during the play?
+
+**Answer:** Shakespeare presents Macbeth's inner conflict as a struggle between **ambition and conscience**, then between the security he wants and the fear his crimes create. Understanding what is right does not prevent him choosing what he desires. His later cruelty therefore grows from decisions, rather than making him a passive victim of temptation.
+
+In Act 1, his command **“Stars, hide your fires”** (1.4) asks for concealment. The **imperative** and light-dark **imagery** reveal that his ambition already feels shameful: his public service conceals a private wish to overcome the named heir. Appearance and reality sharpen the conflict because the audience hears what Duncan cannot.
+
+His soliloquy in 1.7 makes the moral objections explicit. Duncan is his king, relative and guest; murder breaks several duties. The **riding metaphor** **“vaulting ambition”** identifies a desire that leaps too far and falls. Shakespeare gives Macbeth enough self-knowledge to recognise the danger, so his final agreement cannot be explained as ignorance. His tragic error is allowing ambition to outweigh the conscience he has voiced.
+
+Lady Macbeth intensifies this pressure through **“When you durst do it, then you were a man”** (1.7). The **conditional claim** makes murder a test of identity. Macbeth wants to be courageous, but accepting her definition places courage against moral restraint. Her influence helps explain his choice without removing his responsibility for it. Similarly, the questioning form of the dagger soliloquy in 2.1 shows uncertainty before the crime; it is not a disturbance caused by a murder that has already happened.
+
+After the coronation, the **“fruitless crown”** metaphor (3.1) reveals that power has failed to settle his fears about the future. In **“full of scorpions is my mind”** (3.2), poisonous **animal imagery** makes thought painful and dangerous. Instead of returning to his earlier objections, he seeks security through Banquo's murder and later attacks innocent people. The conflict remains psychologically understandable while its consequences become increasingly indefensible.
+
+By Act 5, **“Tomorrow and tomorrow and tomorrow”** replaces the attractive future with exhausting repetition. The structural contrast with his early desire exposes the failure of the life he pursued. Shakespeare allows the audience to understand Macbeth's suffering while judging the choices that have made others suffer too.
+
+**70.** How does Shakespeare use Malcolm to explore good leadership?
+
+**Answer:** Shakespeare uses Malcolm to connect **legitimate succession with moral responsibility**. His claim to the throne matters, but the play also asks what qualities make a ruler worth following. His caution and concern for Scotland offer an alternative to Macbeth's self-protective violence, although the ending promises a future reign rather than showing a completed national recovery.
+
+Duncan names Malcolm **“The Prince of Cumberland”** (1.4). The title establishes a public successor, while Macbeth's private response makes it an obstacle to his ambition. This **public–private structural contrast** separates a recognised transfer of authority from a desire to seize it. Macbeth's later regicide removes Duncan, but taking the crown does not give him Malcolm's recognised position in the succession.
+
+After fleeing danger, Malcolm tests Macduff in 4.3 by pretending to possess the vices of an even worse ruler. His list of **“king-becoming graces”** includes **“justice”** and **“mercy”**. The **ethical vocabulary** defines leadership through duties to other people, rather than through wealth or the ability to command violence. Macduff's despair convinces Malcolm because it shows concern for Scotland above loyalty to Duncan's son at any cost. The test makes moral fitness important alongside inheritance.
+
+Malcolm's judgement also contrasts with Duncan's trust. Duncan welcomes men who deceive him, while his son seeks evidence before relying on Macduff. This is a learned form of caution, not proof that goodness requires complete suspicion. Once convinced, he commits himself to the shared resistance.
+
+He is not presented as beyond challenge. **“Dispute it like a man”** urges Macduff towards action after the news of his family's deaths. The **imperative** allows Macduff to insist that feeling is also part of manhood. Their exchange makes humane leadership more complex than simply identifying a hero and giving him a crown.
+
+In the final scene, **“planted newly”** recalls Duncan's gardening **metaphor**. The structural echo suggests rebuilding what tyranny has damaged. The religious phrase **“by the grace of grace”** places the promise within a language of divine favour; it supports a reading of restored rightful authority without proving God's judgement as a literal event. Shakespeare ends with hope for responsible rule, while the deaths under Macbeth prevent that hope from erasing the cost.
 
 ## Past-paper sources
 
