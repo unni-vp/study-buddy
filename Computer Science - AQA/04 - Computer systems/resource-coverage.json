@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.4, exams from 2027",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "coverage": [
@@ -21,5 +21,56 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "questions_and_answers": {
+    "count": 28,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 25,
+          "marks": 6,
+          "prompt": "A CPU executes an instruction that adds two values stored in main memory and stores the result back there. Explain the fetch–decode–execute cycle for this task, linking the control unit, ALU, registers, buses and clock to their roles. You do not need to name individual registers.",
+          "specification_section": "3.4"
+        },
+        {
+          "question": 26,
+          "marks": 6,
+          "prompt": "A laptop runs a video call, a browser and a word processor at the same time. Explain how its operating system supports these applications through processor management, memory management, input/output, application management and security. Explain why it is system software.",
+          "specification_section": "3.4"
+        },
+        {
+          "question": 27,
+          "marks": 6,
+          "prompt": "Explain the appropriate translator for each situation: a developer translating assembly instructions for a particular CPU; a company distributing an executable application; and a learner repeatedly running and correcting a high-level program during development. Include how each translator works and one relevant advantage or limitation.",
+          "specification_section": "3.4"
+        },
+        {
+          "question": 28,
+          "marks": 7,
+          "prompt": "A model cooling fan switches on when the temperature is high (`A = 1`) **or** a manual request is active (`B = 1`), but only when maintenance mode is off (`C = 0`). Write its Boolean expression using AND, OR and NOT, then using AQA's dot, plus and overbar symbols. Complete the full three-input truth table, including useful intermediate columns, and explain the effect of maintenance mode.",
+          "specification_section": "3.4"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 4,
+        "6": 5,
+        "7": 1
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   }
 }
