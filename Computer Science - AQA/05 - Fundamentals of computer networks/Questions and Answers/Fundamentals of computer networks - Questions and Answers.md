@@ -174,3 +174,68 @@
 - The link layer uses the current local network hardware to transmit each packet.
 - Routers can forward IP packets across different link technologies.
 - At the destination, the layers process the data in reverse, and IMAP may later let the recipient access server-held mail.
+
+**25.** A college links two buildings, equips fixed desktop rooms and provides access for students carrying laptops. Recommend suitable connection types for these three uses. Explain your choices, including installation, mobility and performance limitations.
+
+**Answer:**
+
+**Between buildings:** fibre can provide high-capacity links over longer distances and is not affected by electrical interference in the way copper can be. Installation and suitable equipment cost more, so the choice should reflect the distance and required capacity.
+
+**Fixed desktops:** copper Ethernet is practical where desks are near the network equipment. It gives a stable connection without sharing a radio channel, but each position needs cable installation and movement is restricted.
+
+**Student laptops:** wireless access supports movement and avoids a cable at every seat. Coverage, walls, interference and the number of simultaneous users affect performance, so access-point placement and capacity must be planned.
+
+A **mixed network** matches the connection to its job. No connection guarantees the same speed in every installation.
+
+**26.** A school uses a wireless network for staff devices. Explain how authentication, encryption, a firewall and MAC address filtering protect different aspects of access. Give limitations and explain why using only one control would be inadequate.
+
+**Answer:**
+
+- **Authentication** checks a user's claimed identity before allowing access. A stolen password can still let an attacker impersonate that user.
+- **Encryption** makes intercepted traffic unreadable without the appropriate key. It does not stop an authorised user from mishandling information or make a deceptive website trustworthy.
+- A **firewall** monitors incoming and outgoing traffic and applies rules to permit or block it. Its protection depends on suitable rules; permitted traffic can still contain a threat.
+- **MAC filtering** permits or blocks devices using their network-adapter addresses. An address can be copied, so this is not reliable proof of a user's identity.
+
+Together, the controls cover **identity, transmitted information, network traffic and devices**. For example, encryption protects an intercepted message even though it cannot decide whether the user should have logged in. The different controls reduce different risks; none removes the need for the others.
+
+**27.** A student accesses a school web page and sends an email that a teacher later reads on two devices. Explain the purposes of HTTP, HTTPS, TCP, IP, SMTP and IMAP in these activities. Distinguish the two web protocols and the two email protocols.
+
+**Answer:**
+
+| Protocol | Purpose in these activities |
+|---|---|
+| HTTP | Transfers web requests and responses between browser and web server |
+| HTTPS | Provides a protected, encrypted version of web communication, suitable for login and personal information |
+| TCP | Sets up end-to-end communication and supports reliable, ordered delivery of data |
+| IP | Provides addressing and routing so packets can cross interconnected networks |
+| SMTP | Sends email from a client to a server and between mail servers |
+| IMAP | Lets the teacher access server-held email and synchronise its state across devices |
+
+**HTTPS adds protection to web communication**; HTTP alone does not encrypt it. **SMTP sends email; IMAP accesses and manages stored email**. They are not interchangeable names for the same job.
+
+## 7 marks
+
+**28.** A student's headphones connect to a phone using Bluetooth. Their laptop connects to the college network, which links a second campus in another city. Classify these three networks as PAN, LAN or WAN, with reasons. Then explain the four TCP/IP layers involved when the laptop requests an HTTPS web page.
+
+**Answer:**
+
+- **PAN:** the Bluetooth phone–headphones link serves one person's nearby devices.
+- **LAN:** the local campus network covers a relatively small area and is managed by the college.
+- **WAN:** the inter-city connection spans a wide area, normally using telecommunications infrastructure beyond a single local network.
+- **Application layer:** the browser uses HTTPS to request the page using protected web communication.
+- **Transport layer:** TCP sets up and manages communication between the hosts, supporting reliable delivery.
+- **Internet layer:** IP addresses and routes the packets towards the destination network.
+- **Link layer:** the network interface and local network hardware transmit data across the current link; drivers support this hardware access.
+
+The **network type describes its scope**; a **protocol layer describes a communication role**. PAN, LAN and WAN are not extra layers of the TCP/IP model.
+
+## Past-paper sources
+
+Original practice questions and tutor answers. Longer questions use tutor practice mark allocations, with independent checks against the current specification. They are not official marked questions or a prediction of future paper structure.
+
+- [Current specification](../../00%20-%20Specification/AQA-8525-specification-2027.pdf)
+- [AQA assessment resources](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+- [June 2022 Paper 2](../../00%20-%20Past%20papers/Paper%202/AQA-85252-QP-JUN22.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN22.PDF)
+- [June 2023 Paper 2](../../00%20-%20Past%20papers/Paper%202/AQA-85252-QP-JUN23.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN23.PDF)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.

@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.5, exams from 2027",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "coverage": [
@@ -17,5 +17,56 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "questions_and_answers": {
+    "count": 28,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 25,
+          "marks": 6,
+          "prompt": "A college links two buildings, equips fixed desktop rooms and provides access for students carrying laptops. Recommend suitable connection types for these three uses. Explain your choices, including installation, mobility and performance limitations.",
+          "specification_section": "3.5"
+        },
+        {
+          "question": 26,
+          "marks": 6,
+          "prompt": "A school uses a wireless network for staff devices. Explain how authentication, encryption, a firewall and MAC address filtering protect different aspects of access. Give limitations and explain why using only one control would be inadequate.",
+          "specification_section": "3.5"
+        },
+        {
+          "question": 27,
+          "marks": 6,
+          "prompt": "A student accesses a school web page and sends an email that a teacher later reads on two devices. Explain the purposes of HTTP, HTTPS, TCP, IP, SMTP and IMAP in these activities. Distinguish the two web protocols and the two email protocols.",
+          "specification_section": "3.5"
+        },
+        {
+          "question": 28,
+          "marks": 7,
+          "prompt": "A student's headphones connect to a phone using Bluetooth. Their laptop connects to the college network, which links a second campus in another city. Classify these three networks as PAN, LAN or WAN, with reasons. Then explain the four TCP/IP layers involved when the laptop requests an HTTPS web page.",
+          "specification_section": "3.5"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 4,
+        "6": 5,
+        "7": 1
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   }
 }
