@@ -1,0 +1,333 @@
+[
+  {
+    "slug": "00-creative-writing-overview",
+    "title": "Creative prose writing",
+    "panels": [
+      {
+        "title": "Choose the direction",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Narrative or recount:** make events and a change clear. Fulfil the exact title, opening or situation."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "A small time span and a few characters can help control, but are choices rather than rules."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Build a connected plot",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Want → obstacle → choice → consequence.** The character’s response creates the development."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "One well-developed episode can be stronger than several rushed twists."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Character through action",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Contradiction:** a tired worker can be impatient yet choose to help."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Show decisions, responses and telling speech. Do not announce every emotion or explain a moral."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Setting with a purpose",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Select details:** glasses bend a counter’s edge; height marks preserve a childhood."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Description should support viewpoint, mood or action. Avoid a list of all five senses."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shape the reading",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Viewpoint and time:** keep them clear. Summarise uneventful time and slow down an important moment."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Change paragraphs when speaker, focus, time, place or action changes."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Finish and refine",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Ending:** show the consequence or changed understanding; an echoed detail can gain new meaning."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Edit relevance, coherence, sentence boundaries, tense, punctuation and spelling."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-plot-character-and-voice",
+    "title": "Plot, character and voice",
+    "panels": [
+      {
+        "title": "A choice matters",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Café worker:** catch the bus or return the glasses. Both wishes make the choice meaningful."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The encounter exposes a mistaken judgement, creating a change without a dramatic new subplot."
+            ]
+          }
+        ],
+        "visual": {
+          "kind": "story-change",
+          "after": 1
+        }
+      },
+      {
+        "title": "Open a useful question",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Significant object:** abandoned glasses suggest someone missing and something needing attention."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Give enough information to follow the event. Confusion is not the same as suspense."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Develop the viewpoint",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**First person:** report what I notice, remember and infer. Other minds are not automatically known."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "A brief memory can explain the present concern; return clearly to the main event."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Show and summarise",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Close detail:** a repeated pocket search shows anxiety."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Summary:** an afternoon’s work can pass in a sentence, leaving space for the decisive encounter."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Let dialogue act",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Purpose:** reveal a relationship, pressure a choice or move the event."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Use small actions beside speech. Avoid long exchanges that explain what both speakers already know."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Make the ending earned",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Motif:** an object returns with changed meaning. A photograph can preserve the marks without stopping the move."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Resolve the main episode before adding another plot. Avoid an unprepared twist that cancels the story."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "02-sentences-and-editing",
+    "title": "Sentences, punctuation and editing",
+    "panels": [
+      {
+        "title": "Choose precise words",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Specific nouns and verbs:** searched a pocket twice gives more than very worried."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Use vocabulary accurately. More adjectives and longer words do not automatically improve a sentence."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vary for meaning",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Short emphasis:** isolate a deadline or discovery. **Longer sentence:** connect action, thought and consequence."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Choose the effect in context; do not force every sentence to be short or elaborate."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Secure the boundaries",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Comma splice:** two complete clauses joined only by a comma. Use a full stop, conjunction or suitable semicolon."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Colon:** after a complete clause, introduce an explanation or detail."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Control the dialogue",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**New speaker, new paragraph.** Put the question mark or comma where the spoken words require it."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Keep dialogue tags and surrounding narrative grammatically connected."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Keep the viewpoint steady",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Tense and reference:** check who is acting and when. Signal memories and return to the main timeline."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Check agreement, pronouns, apostrophes, its/it’s and common spellings."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Read twice to edit",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Meaning pass:** prompt, development, sequence, viewpoint and ending."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Accuracy pass:** sentences, punctuation and spelling. Remove repetition rather than adding decoration."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  }
+]

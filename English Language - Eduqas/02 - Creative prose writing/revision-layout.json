@@ -1,0 +1,56 @@
+{
+  "source": "Creative prose writing - Revision Notes.md",
+  "groups": [
+    {
+      "id": "story",
+      "title": "Plan and develop the story",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Choose a story you can control"
+        },
+        {
+          "heading": "Build a meaningful plot"
+        },
+        {
+          "heading": "Open with a useful focus"
+        },
+        {
+          "heading": "Give characters choices"
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "title": "Voice, description and structure",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Control time and viewpoint"
+        },
+        {
+          "heading": "Make description serve the story"
+        },
+        {
+          "heading": "Shape paragraphs and endings"
+        }
+      ]
+    },
+    {
+      "id": "editing",
+      "title": "Sentences and editing",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Control sentences and punctuation"
+        },
+        {
+          "heading": "Edit for meaning, then accuracy"
+        }
+      ]
+    }
+  ]
+}

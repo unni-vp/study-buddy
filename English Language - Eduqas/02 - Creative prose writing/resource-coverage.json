@@ -1,0 +1,30 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C700QS, current local specification v3 January 2019; preparation for 2027",
+  "coverage": [
+    "Component 1 Section B: AO5 communication, narrative development, organisation and coherence",
+    "AO6 vocabulary, sentence control, spelling and punctuation",
+    "Exact prompt fulfilment, narrative/recount, viewpoint, setting, character, dialogue and meaningful endings"
+  ],
+  "assessment": "Creative prose is one 40-mark narrative/recount chosen from four prompts, with AO5 24/AO6 16. Official sample papers suggest approximately 450–600 words. Short skill questions use original practice allocations; the two complete stories are original illustrative models, not official marked scripts.",
+  "mindmaps": [
+    "00-creative-writing-overview",
+    "01-plot-character-and-voice",
+    "02-sentences-and-editing"
+  ],
+  "questions_and_answers": {
+    "count": 23,
+    "marks": [
+      1,
+      2,
+      4,
+      8,
+      40
+    ],
+    "original_practice": true
+  },
+  "sources": [
+    "../00 - Specification/Eduqas-C700QS-specification.pdf",
+    "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
+  ]
+}
