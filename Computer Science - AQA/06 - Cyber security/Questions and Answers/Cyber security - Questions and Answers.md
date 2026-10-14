@@ -206,9 +206,71 @@
 - Use suitable malware detection and controls on removable media to reduce malicious execution.
 - Test the measures through authorised penetration testing. Different controls address different routes of attack.
 
+**30.** Three incidents occur at a college: a message links to a fake login page; a caller pretends to be a technician and asks for a password; and somebody watches a student enter a PIN. Identify each social-engineering method and explain a suitable protection matched to it.
+
+**Answer:**
+
+- **Phishing:** the fake message persuades the user to disclose credentials through a deceptive page. Verify unexpected requests through a known, independent route rather than following the message's link.
+- **Blagging/pretexting:** the caller invents a trusted role or situation to obtain confidential information. Staff should follow an identity-checking procedure and refuse to disclose passwords, even to somebody claiming authority.
+- **Shoulder surfing:** the observer captures a secret by watching it being entered. Shield the input, choose a less exposed position and avoid displaying credentials where others can read them.
+
+Each protection addresses **how the information is obtained**. Installing antivirus alone would not stop a person from voluntarily giving a caller their password.
+
+**31.** A student runs a program from an unknown USB drive. Explain how a virus, a trojan and spyware differ, then explain how software updates, malware protection and control of removable media can reduce the risk. Avoid assuming every type of malware copies itself.
+
+**Answer:**
+
+- A **virus** attaches to files/programs and can replicate when infected code runs, spreading infection to other files.
+- A **trojan** appears to be useful or legitimate software but performs a malicious action when accepted or run. It does not have to replicate itself.
+- **Spyware** secretly monitors activity or collects information, potentially exposing passwords or private data.
+- **Security updates** close known weaknesses that malicious software might exploit; they do not make every unknown program safe.
+- **Malware protection** can detect, block or quarantine recognised threats, but newly altered threats may evade it.
+- Restricting untrusted **removable media** and checking permitted files reduces the opportunities for malicious software to enter and run.
+
+The measures work together: identifying a suspicious program is useful, but reducing the chance of running it limits exposure in the first place.
+
+**32.** A service introduces a password, a fingerprint option, an email-confirmation link and CAPTCHA. Explain the different purpose of each and evaluate whether completing CAPTCHA proves the user's identity.
+
+**Answer:**
+
+A **password** checks a secret associated with an account. It can be guessed, shared or stolen, so its effectiveness depends on how it is chosen and protected.
+
+A **fingerprint** checks a biometric characteristic and can be convenient on a phone. Recognition can fail, and compromised biometric information is difficult to replace, so a protected registration process and suitable fallback matter.
+
+An **email-confirmation link** checks access to the stated mailbox at that time. It does not by itself establish the person's real-world identity; somebody controlling a stolen mailbox may also complete it.
+
+**CAPTCHA** aims to distinguish a human interaction from an automated one, reducing bulk automated registrations. A human attacker can still complete it, so **passing CAPTCHA is not proof of identity** and does not replace account authentication.
+
+**33.** Compare authorised penetration testing that simulates an external attacker with testing that simulates a malicious insider. Explain how the results should improve the system.
+
+**Answer:**
+
+- An **external test** starts without internal credentials, checking whether exposed services or other weaknesses permit entry from outside.
+- An **insider test** starts with agreed knowledge and possibly a normal account, checking whether that access can reach resources beyond its intended permissions.
+- The insider scenario may reveal **excessive access rights** that an outside-only test would not expose.
+- Both need **authorisation and an agreed scope**, so testing is controlled rather than an unrestricted attempt to access unrelated systems.
+- Findings should identify the weakness, its likely impact and a suitable correction, such as applying an update or restricting permissions.
+- The organisation should **retest after fixing the weakness**. A report alone does not remove the risk, and one successful test cannot prove permanent security.
+
+## 7 marks
+
+**34.** A library lets members use public computers. Staff see people watching other users log in, users opening unexpected email links, and visitors running files from USB drives. The manager proposes installing CAPTCHA on the login page as the only response. Evaluate this proposal and recommend a more suitable set of measures, explaining the priority and limitations of your choices.
+
+**Answer:**
+
+**CAPTCHA alone does not address the observed risks.** It targets automated interactions, whereas the incidents involve human observation, deception and potentially malicious files.
+
+To reduce **shoulder surfing**, arrange terminals and screens to limit observation, encourage users to shield credentials and make sure sessions are closed after use. This should be an immediate priority because the behaviour has already been observed.
+
+For **phishing**, explain how to verify unexpected messages and reach services through known routes. Restricting account permissions also limits the damage if a login is stolen. Training helps, but people can still be deceived, so it should not be the only control.
+
+For **removable-media risks**, restrict running untrusted files, maintain malware protection and apply security updates. Detection may miss new threats, making prevention and restricted permissions important too.
+
+The manager should combine **controls matched to each route of attack**, then use authorised testing and review to check them. CAPTCHA may be useful if automated abuse is also a problem, but it should not consume the whole response while the observed risks remain unaddressed.
+
 ## 9 marks
 
-**30.** A design company stores confidential client files. Staff use predictable passwords, all accounts can edit every project, and software updates are often postponed. Discuss how attackers could exploit these weaknesses and how the company should respond.
+**35.** A design company stores confidential client files. Staff use predictable passwords, all accounts can edit every project, and software updates are often postponed. Discuss how attackers could exploit these weaknesses and how the company should respond.
 
 **Answer:**
 
@@ -231,3 +293,5 @@ These are original practice questions and tutor answers. Question types were che
 - [June 2023 mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN23.PDF)
 
 - [Official AQA assessment resource directory](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.

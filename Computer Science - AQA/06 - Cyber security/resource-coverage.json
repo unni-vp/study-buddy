@@ -29,7 +29,7 @@
   ],
   "mindmaps": [],
   "questions_and_answers": {
-    "count": 30,
+    "count": 35,
     "source": "Questions and Answers/Cyber security - Questions and Answers.md",
     "type": "Original practice with independent 2027 scope check",
     "paper_type_references": {
@@ -47,7 +47,63 @@
       "AQA 8525/2 June 2022",
       "AQA 8525/2 June 2023"
     ],
-    "frequency_claim": false
+    "frequency_claim": false,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      9
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 30,
+          "marks": 6,
+          "prompt": "Three incidents occur at a college: a message links to a fake login page; a caller pretends to be a technician and asks for a password; and somebody watches a student enter a PIN. Identify each social-engineering method and explain a suitable protection matched to it.",
+          "specification_section": "3.6"
+        },
+        {
+          "question": 31,
+          "marks": 6,
+          "prompt": "A student runs a program from an unknown USB drive. Explain how a virus, a trojan and spyware differ, then explain how software updates, malware protection and control of removable media can reduce the risk. Avoid assuming every type of malware copies itself.",
+          "specification_section": "3.6"
+        },
+        {
+          "question": 32,
+          "marks": 6,
+          "prompt": "A service introduces a password, a fingerprint option, an email-confirmation link and CAPTCHA. Explain the different purpose of each and evaluate whether completing CAPTCHA proves the user's identity.",
+          "specification_section": "3.6"
+        },
+        {
+          "question": 33,
+          "marks": 6,
+          "prompt": "Compare authorised penetration testing that simulates an external attacker with testing that simulates a malicious insider. Explain how the results should improve the system.",
+          "specification_section": "3.6"
+        },
+        {
+          "question": 34,
+          "marks": 7,
+          "prompt": "A library lets members use public computers. Staff see people watching other users log in, users opening unexpected email links, and visitors running files from USB drives. The manager proposes installing CAPTCHA on the login page as the only response. Evaluate this proposal and recommend a more suitable set of measures, explaining the priority and limitations of your choices.",
+          "specification_section": "3.6"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 8,
+        "2": 10,
+        "3": 7,
+        "4": 3,
+        "6": 5,
+        "7": 1,
+        "9": 1
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   },
   "flashcards": {
     "count": 28,
