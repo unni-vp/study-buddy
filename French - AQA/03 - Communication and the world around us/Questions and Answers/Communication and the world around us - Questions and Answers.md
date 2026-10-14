@@ -49,56 +49,56 @@
 **Answer:**
 
 - Travelling by train.
- - The tickets are expensive.
+- The tickets are expensive.
 
 **12.** Read: L'hôtel était propre, mais notre chambre était petite. Give one positive and one negative.
 
 **Answer:**
 
 - The hotel was clean.
- - The room was small.
+- The room was small.
 
 **13.** Read: Il pleuvait hier, donc nous avons visité un musée. Give the weather and activity.
 
 **Answer:**
 
 - It was raining.
- - They visited a museum.
+- They visited a museum.
 
 **14.** Read: Je cherche des informations et j'envoie des messages. Give two uses of technology.
 
 **Answer:**
 
 - Looking for information.
- - Sending messages.
+- Sending messages.
 
 **15.** Read: Je ne partage jamais mon adresse, mais je partage parfois des photos. What does the speaker never share, and what do they sometimes share?
 
 **Answer:**
 
 - Their address.
- - Photos.
+- Photos.
 
 **16.** Read: Mon village est calme, mais il n'y a pas assez de bus. Give an advantage and a problem.
 
 **Answer:**
 
 - It is quiet.
- - There are not enough buses.
+- There are not enough buses.
 
 **17.** Read: Nous recyclons et nous économisons l'eau. Give two environmental actions.
 
 **Answer:**
 
 - Recycling.
- - Saving water.
+- Saving water.
 
 **18.** Ask in French how much the ticket costs.
 
 **Answer:**
 
 Combien coûte le billet ?
- 
+
 **Meaning:** How much does the ticket cost?
 
 **19.** Say in French that you use your phone to communicate.
@@ -106,7 +106,7 @@ Combien coûte le billet ?
 **Answer:**
 
 J'utilise mon téléphone pour communiquer.
- 
+
 Use **pour + infinitive** for the purpose.
 
 **20.** Translate: Il manque des espaces verts dans ma ville.
@@ -120,7 +120,7 @@ Use **pour + infinitive** for the purpose.
 **Answer:**
 
 L'année dernière, j'ai visité un musée avec ma famille.
- 
+
 **J'ai visité** is a finished past action.
 
 **22.** Translate into French: I live in France, but I would like to visit Canada.
@@ -128,7 +128,7 @@ L'année dernière, j'ai visité un musée avec ma famille.
 **Answer:**
 
 J'habite en France, mais je voudrais visiter le Canada.
- 
+
 Use **en France**; the country is a direct object after visiter, so **le Canada**.
 
 **23.** Translate into French: Next year, I am going to travel by train.
@@ -136,7 +136,7 @@ Use **en France**; the country is a direct object after visiter, so **le Canada*
 **Answer:**
 
 L'année prochaine, je vais voyager en train.
- 
+
 **Vais + infinitive** gives the future plan.
 
 **24.** Translate into French: I never share my personal information.
@@ -144,7 +144,7 @@ L'année prochaine, je vais voyager en train.
 **Answer:**
 
 Je ne partage jamais mes informations personnelles.
- 
+
 Keep **ne...jamais** and plural agreement.
 
 **25.** Translate into French: There is a park where I meet my friends.
@@ -152,7 +152,7 @@ Keep **ne...jamais** and plural agreement.
 **Answer:**
 
 Il y a un parc où je retrouve mes amis.
- 
+
 **Où** connects the place to the activity.
 
 **26.** Correct: Mes vacances était agréable. Je suis allé en Paris. (male speaker)
@@ -160,7 +160,7 @@ Il y a un parc où je retrouve mes amis.
 **Answer:**
 
 Mes vacances **étaient agréables**. Je suis allé **à Paris**.
- 
+
 Vacances is plural; cities use à.
 
 ## 4 marks
@@ -170,9 +170,9 @@ Vacances is plural; cities use à.
 **Answer:**
 
 Les réseaux sociaux sont utiles parce qu'on peut communiquer avec ses amis. Cependant, on peut perdre beaucoup de temps. Je préfère les utiliser seulement le soir.
- 
+
 ---
- 
+
 The reason explains the benefit, cependant introduces a drawback, and the last sentence gives a practical preference.
 
 **28.** Translate into French: To protect the environment, I walk to school. Tomorrow, I am going to recycle my rubbish.
@@ -180,9 +180,9 @@ The reason explains the benefit, cependant introduces a drawback, and the last s
 **Answer:**
 
 Pour protéger l'environnement, je vais à pied au collège. Demain, je vais recycler mes déchets.
- 
+
 ---
- 
+
 The first vais means go; **vais recycler** is a future construction. Pour introduces purpose; mes agrees with déchets.
 
 ## Past-paper sources

@@ -65,14 +65,14 @@
 **Answer:**
 
 - Ou means **or**.
- - Où means **where**; the accent changes the meaning.
+- Où means **where**; the accent changes the meaning.
 
 **16.** Translate: Je n'aime plus ce film.
 
 **Answer:**
 
 I no longer like this film.
- 
+
 Plus with ne means no longer, not more here.
 
 **17.** Translate: Il est huit heures et demie.
@@ -88,7 +88,7 @@ Plus with ne means no longer, not more here.
 **Answer:**
 
 - Today: €15.
- - Tomorrow: €13.
+- Tomorrow: €13.
 
 **20.** Give the English meaning of rapidement and identify its base adjective.
 
@@ -99,7 +99,7 @@ Plus with ne means no longer, not more here.
 **Answer:**
 
 I need time.
- 
+
 Learn **avoir besoin de** as a phrase.
 
 **22.** What is the difference between une journée and un voyage?
@@ -113,7 +113,7 @@ Learn **avoir besoin de** as a phrase.
 **Answer:**
 
 Je prends le bus parce que c'est utile.
- 
+
 Prends is an irregular form of prendre.
 
 **24.** Translate into French: Yesterday, I sent a message to my friend.
@@ -121,7 +121,7 @@ Prends is an irregular form of prendre.
 **Answer:**
 
 Hier, j'ai envoyé un message à mon ami / amie.
- 
+
 Use the perfect for yesterday's finished action.
 
 **25.** Translate: Normalement, je lis, mais aujourd'hui je préfère sortir.
@@ -129,7 +129,7 @@ Use the perfect for yesterday's finished action.
 **Answer:**
 
 Normally, I read, but today I prefer to go out.
- 
+
 Keep the contrast and the two different activities.
 
 **26.** Explain how impossible, préparation and deuxième relate to their base words.
@@ -137,8 +137,8 @@ Keep the contrast and the two different activities.
 **Answer:**
 
 - Impossible: opposite of possible.
- - Préparation: noun connected to préparer.
- - Deuxième: ordinal formed from deux.
+- Préparation: noun connected to préparer.
+- Deuxième: ordinal formed from deux.
 
 ## 4 marks
 
@@ -147,9 +147,9 @@ Keep the contrast and the two different activities.
 **Answer:**
 
 I am waiting for my friend outside/in front of the bookshop. Then we are going to the library because we need to prepare for our exams.
- 
+
 ---
- 
+
 Attends means wait, librairie means bookshop, bibliothèque means library, and il faut expresses necessity.
 
 **28.** Translate into French: My room is small, but it is quiet. Tomorrow, I am going to study there with my friends.
@@ -157,9 +157,9 @@ Attends means wait, librairie means bookshop, bibliothèque means library, and i
 **Answer:**
 
 Ma chambre est petite, mais elle est calme. Demain, je vais y étudier avec mes amis.
- 
+
 ---
- 
+
 Chambre is feminine; petite agrees; elle refers to the room; y means there and precedes étudier.
 
 ## Past-paper sources

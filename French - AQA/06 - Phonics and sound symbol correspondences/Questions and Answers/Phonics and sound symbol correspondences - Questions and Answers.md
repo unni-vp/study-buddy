@@ -57,7 +57,7 @@
 **Answer:**
 
 - U: tongue forward, lips rounded.
- - Ou: tongue further back, lips rounded.
+- Ou: tongue further back, lips rounded.
 
 **14.** Explain what a nasal vowel means for grand.
 
@@ -102,32 +102,32 @@
 **Answer:**
 
 - Beau: eau, /o/.
- - Matin: in, /ɛ̃/.
- - Campagne: gn, /ɲ/.
+- Matin: in, /ɛ̃/.
+- Campagne: gn, /ɲ/.
 
 **24.** Identify the sound groups in cœur, porte and application.
 
 **Answer:**
 
 - Cœur: open œu, /œ/.
- - Porte: open o, /ɔ/.
- - Application: -tion, /sjɔ̃/.
+- Porte: open o, /ɔ/.
+- Application: -tion, /sjɔ̃/.
 
 **25.** Explain three pronunciation checks for Les petits enfants jouent.
 
 **Answer:**
 
 - No liaison between les and petits, because petits starts with a consonant.
- - Petits enfants can link with /z/.
- - The verb ending -ent in jouent is silent.
+- Petits enfants can link with /z/.
+- The verb ending -ent in jouent is silent.
 
 **26.** Why can je parle, tu parles and ils parlent sound similar, but require different spellings?
 
 **Answer:**
 
 - Regular -e/-es/-ent endings can be silent.
- - The subject identifies the person and number.
- - Written agreement is still required even when it is not audible.
+- The subject identifies the person and number.
+- Written agreement is still required even when it is not audible.
 
 ## 4 marks
 
@@ -136,18 +136,18 @@
 **Answer:**
 
 - Many final consonants are silent, but **avec** has a final /k/.
- - Some final r sounds are heard, as in **partir**.
- - Liaison depends on the word combination: **les amis** allows it.
- - **Et amis** has no liaison after et.
+- Some final r sounds are heard, as in **partir**.
+- Liaison depends on the word combination: **les amis** allows it.
+- **Et amis** has no liaison after et.
 
 **28.** Explain four checks when writing a sentence from dictation.
 
 **Answer:**
 
 - Match letter groups to the heard vowel and consonant sounds.
- - Separate liaison sounds from the next word's spelling.
- - Use the subject to recover silent verb endings.
- - Check noun/adjective number and gender, including silent endings.
+- Separate liaison sounds from the next word's spelling.
+- Use the subject to recover silent verb endings.
+- Check noun/adjective number and gender, including silent endings.
 
 ## Past-paper sources
 

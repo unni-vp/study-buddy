@@ -49,14 +49,14 @@
 **Answer:**
 
 - Elle est **allée**.
- - Ils **mangent**.
+- Ils **mangent**.
 
 **12.** Translate: Je n'ai pas encore mangé.
 
 **Answer:**
 
 I have not eaten yet.
- 
+
 The negative is **not yet**, not never.
 
 **13.** Explain the difference between je jouais and j'ai joué.
@@ -64,14 +64,14 @@ The negative is **not yet**, not never.
 **Answer:**
 
 - Je jouais: I used to play / was playing; past habit or background.
- - J'ai joué: I played / have played; completed action.
+- J'ai joué: I played / have played; completed action.
 
 **14.** Replace les livres with a pronoun: Je regarde les livres.
 
 **Answer:**
 
 Je **les** regarde.
- 
+
 Les is a direct object pronoun and goes before regarde.
 
 **15.** Replace à mes amis with a pronoun: Je parle à mes amis.
@@ -79,7 +79,7 @@ Les is a direct object pronoun and goes before regarde.
 **Answer:**
 
 Je **leur** parle.
- 
+
 Parler à takes an indirect object; leur here means to them.
 
 **16.** Translate: Je n'ai que deux livres.
@@ -87,7 +87,7 @@ Parler à takes an indirect object; leur here means to them.
 **Answer:**
 
 I only have two books.
- 
+
 **Ne...que** means only.
 
 **17.** Why is son used in son amie when the friend is female?
@@ -99,7 +99,7 @@ I only have two books.
 **Answer:**
 
 I have lived here for three years.
- 
+
 The present with depuis describes something still continuing.
 
 **19.** Turn tu regardes into a command, then give the vous command.
@@ -107,7 +107,7 @@ The present with depuis describes something still continuing.
 **Answer:**
 
 Regarde ! Regardez !
- 
+
 The regular -er tu command drops -s; vous keeps -ez.
 
 **20.** Give the feminine and masculine plural of heureux.
@@ -115,7 +115,7 @@ The regular -er tu command drops -s; vous keeps -ez.
 **Answer:**
 
 Heureuse; heureux.
- 
+
 The masculine plural already ends in -x.
 
 ## 3 marks
@@ -125,7 +125,7 @@ The masculine plural already ends in -x.
 **Answer:**
 
 Nous allons visiter une ville qui est très belle.
- 
+
 **Allons + infinitive**; qui is the relative subject; belle agrees with ville.
 
 **22.** Translate: After eating, I watched a film.
@@ -133,7 +133,7 @@ Nous allons visiter une ville qui est très belle.
 **Answer:**
 
 Après avoir mangé, j'ai regardé un film.
- 
+
 Use **après avoir + participle**, then the perfect.
 
 **23.** Translate: Nobody comes because there are no buses.
@@ -141,7 +141,7 @@ Use **après avoir + participle**, then the perfect.
 **Answer:**
 
 Personne ne vient parce qu'il n'y a pas de bus.
- 
+
 Personne is the subject; a negative quantity uses de.
 
 **24.** Translate: This letter is written by my sister.
@@ -149,7 +149,7 @@ Personne is the subject; a negative quantity uses de.
 **Answer:**
 
 Cette lettre est écrite par ma sœur.
- 
+
 Present **passive**, with écrite agreeing with lettre.
 
 **25.** Translate: I want some, but I am not going there.
@@ -157,7 +157,7 @@ Present **passive**, with écrite agreeing with lettre.
 **Answer:**
 
 J'en veux, mais je n'y vais pas.
- 
+
 En replaces the quantity; y replaces the place.
 
 **26.** Correct: Elles est gentil. Je veux regarde le film. J'ai quinze années.
@@ -165,7 +165,7 @@ En replaces the quantity; y replaces the place.
 **Answer:**
 
 Elles **sont gentilles**. Je veux **regarder** le film. J'ai quinze **ans**.
- 
+
 Check subject/adjective agreement, the infinitive after a modal and the age expression.
 
 ## 4 marks
@@ -175,9 +175,9 @@ Check subject/adjective agreement, the infinitive after a modal and the age expr
 **Answer:**
 
 L'année prochaine, je travaillerai en France. Je voudrais aider les gens parce que c'est important.
- 
+
 ---
- 
+
 Travaillerai uses the regular future; voudrais aider expresses a wish; en fits France; the final clause supplies a reason.
 
 **28.** Explain the grammar in: Les photos que j'ai prises sont belles.
@@ -185,9 +185,9 @@ Travaillerai uses the regular future; voudrais aider expresses a wish; en fits F
 **Answer:**
 
 - Photos is feminine plural.
- - Que is the relative direct object of ai prises.
- - The direct object comes before the avoir perfect, so prises agrees with photos.
- - Sont and belles agree with the plural subject.
+- Que is the relative direct object of ai prises.
+- The direct object comes before the avoir perfect, so prises agrees with photos.
+- Sont and belles agree with the plural subject.
 
 ## Past-paper sources
 
