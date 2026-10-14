@@ -1,0 +1,29 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "3.1.3 Travel and tourism, including places of interest",
+    "3.1.3 Media and technology",
+    "3.1.3 Environment and where people live"
+  ],
+  "revision_groups": [
+    "Travel and holidays",
+    "Media and technology",
+    "Home and environment"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 28,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Original retrieval, grammar and application practice. Short mark groups are practice allocations. Official Higher writing uses a minimum-50-word translation (10 marks), a roughly 90-word response to three bullets (15 marks) and a roughly 150-word response to two bullets (25 marks)."
+  },
+  "flashcards": {
+    "count": 28,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "Communication and the world around us - Revision Notes.md",
+  "groups": [
+    {
+      "id": "travel",
+      "title": "Travel and holidays",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Travel and places"
+        },
+        {
+          "heading": "Holidays across time"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Media and technology",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Media and technology"
+        },
+        {
+          "heading": "Balanced technology opinions"
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "Home and environment",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Where you live"
+        },
+        {
+          "heading": "Environment and action"
+        }
+      ]
+    }
+  ]
+}

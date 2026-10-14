@@ -1,0 +1,220 @@
+{
+  "title": "Communication and the world around us flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un billet.",
+      "back": [
+        "A ticket."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: la gare.",
+      "back": [
+        "The station."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: les déchets.",
+      "back": [
+        "Waste / rubbish."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: économiser l'eau.",
+      "back": [
+        "To save water."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: bruyant.",
+      "back": [
+        "Noisy."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à pied.",
+      "back": [
+        "On foot."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un écran.",
+      "back": [
+        "A screen."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: les réseaux sociaux.",
+      "back": [
+        "Social media."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: J'habite ___ Paris.",
+      "back": [
+        "à."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: Je voyage ___ train.",
+      "back": [
+        "en."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je préfère le train parce qu'il est confortable, mais les billets sont chers. Give the preference and disadvantage.",
+      "back": [
+        "Travelling by train.",
+        "The tickets are expensive."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: L'hôtel était propre, mais notre chambre était petite. Give one positive and one negative.",
+      "back": [
+        "The hotel was clean.",
+        "The room was small."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Il pleuvait hier, donc nous avons visité un musée. Give the weather and activity.",
+      "back": [
+        "It was raining.",
+        "They visited a museum."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je cherche des informations et j'envoie des messages. Give two uses of technology.",
+      "back": [
+        "Looking for information.",
+        "Sending messages."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je ne partage jamais mon adresse, mais je partage parfois des photos. What does the speaker never share, and what do they sometimes share?",
+      "back": [
+        "Their address.",
+        "Photos."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Mon village est calme, mais il n'y a pas assez de bus. Give an advantage and a problem.",
+      "back": [
+        "It is quiet.",
+        "There are not enough buses."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Nous recyclons et nous économisons l'eau. Give two environmental actions.",
+      "back": [
+        "Recycling.",
+        "Saving water."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask in French how much the ticket costs.",
+      "back": [
+        "Combien coûte le billet ?",
+        "**Meaning:** How much does the ticket cost?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Say in French that you use your phone to communicate.",
+      "back": [
+        "J'utilise mon téléphone pour communiquer.",
+        "Use **pour + infinitive** for the purpose."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Il manque des espaces verts dans ma ville.",
+      "back": [
+        "There is a lack of green spaces in my town."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Last year, I visited a museum with my family.",
+      "back": [
+        "L'année dernière, j'ai visité un musée avec ma famille.",
+        "**J'ai visité** is a finished past action."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I live in France, but I would like to visit Canada.",
+      "back": [
+        "J'habite en France, mais je voudrais visiter le Canada.",
+        "Use **en France**; the country is a direct object after visiter, so **le Canada**."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Next year, I am going to travel by train.",
+      "back": [
+        "L'année prochaine, je vais voyager en train.",
+        "**Vais + infinitive** gives the future plan."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I never share my personal information.",
+      "back": [
+        "Je ne partage jamais mes informations personnelles.",
+        "Keep **ne...jamais** and plural agreement."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: There is a park where I meet my friends.",
+      "back": [
+        "Il y a un parc où je retrouve mes amis.",
+        "**Où** connects the place to the activity."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Correct: Mes vacances était agréable. Je suis allé en Paris. (male speaker)",
+      "back": [
+        "Mes vacances **étaient agréables**. Je suis allé **à Paris**.",
+        "Vacances is plural; cities use à."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Write a French opinion with a benefit, a drawback and your preference about social media.",
+      "back": [
+        "Les réseaux sociaux sont utiles parce qu'on peut communiquer avec ses amis. Cependant, on peut perdre beaucoup de temps. Je préfère les utiliser seulement le soir.",
+        "---",
+        "The reason explains the benefit, cependant introduces a drawback, and the last sentence gives a practical preference."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate into French: To protect the environment, I walk to school. Tomorrow, I am going to recycle my rubbish.",
+      "back": [
+        "Pour protéger l'environnement, je vais à pied au collège. Demain, je vais recycler mes déchets.",
+        "---",
+        "The first vais means go; **vais recycler** is a future construction. Pour introduces purpose; mes agrees with déchets."
+      ]
+    }
+  ]
+}
