@@ -1,0 +1,53 @@
+{
+  "source": "19th and 21st-century non-fiction reading - Revision Notes.md",
+  "groups": [
+    {
+      "id": "understand",
+      "title": "Understand and retrieve",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Understand the text and the task"
+        },
+        {
+          "heading": "Retrieve information and infer carefully"
+        }
+      ]
+    },
+    {
+      "id": "analyse",
+      "title": "Analyse and evaluate",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Explain how the argument works"
+        },
+        {
+          "heading": "Analyse language, tone and organisation"
+        },
+        {
+          "heading": "Evaluate a view with evidence"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "title": "Synthesis and comparison",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Synthesise information from both texts"
+        },
+        {
+          "heading": "Compare ideas and how they are conveyed"
+        },
+        {
+          "heading": "Build a complete response"
+        }
+      ]
+    }
+  ]
+}

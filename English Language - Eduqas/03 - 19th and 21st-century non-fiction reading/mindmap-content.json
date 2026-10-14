@@ -1,0 +1,224 @@
+[
+  {
+    "slug": "00-non-fiction-reading-overview",
+    "title": "Non-fiction reading",
+    "panels": [
+      {
+        "title": "Understand the task",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Identity and purpose:** use the introduction, date, audience and form. Do not invent a biography."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Command and range:** identify the focus and whether you need one text or both."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Retrieve and infer",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Retrieve:** select different relevant details. **Infer:** explain a meaning supported by those details."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Use surrounding sentences for unfamiliar words. Attribute the writer’s claims accurately."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analyse the argument",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Idea + evidence + choice + effect:** explain the precise words, tone or development."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "A command, anecdote or contrast matters because of what it does in this argument."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Evaluate with support",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Judgement:** weigh a view or its presentation using the relevant text."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Qualify where appropriate. Separate a convincing example from proof that a claim applies to everyone."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Synthesise information",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Both sources:** bring together relevant ideas under the question’s shared focus."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "For why, give reasons. For how, give actions. Keep source identities clear."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Compare meaningfully",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Ideas and methods:** connect attitudes and explain how they are conveyed in each text."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Develop similarities and differences with evidence from both. Avoid two disconnected summaries."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-synthesis-comparison-and-judgement",
+    "title": "Synthesis, comparison and judgement",
+    "panels": [
+      {
+        "title": "Find the shared focus",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Waste:** both writers value remaining usefulness, but differ in flexibility."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Choose a shared issue before collecting quotations from each source."
+            ]
+          }
+        ],
+        "visual": {
+          "kind": "compare-views",
+          "after": 1
+        }
+      },
+      {
+        "title": "Select the right evidence",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Child:** “Nothing” and “every member” create firm expectations."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Modern article:** “moral purity” is rejected, alongside limits of safety, cost and time."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Synthesise the reasons",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Information:** Child links thrift to useful objects and household needs."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The modern article links repair to replacement costs and materials that retain value."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Connect the comparison",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Both … but …:** identify the relationship, then support each side."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Child’s commands sound stricter. The modern concessions create a more accommodating argument."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Evaluate the strength",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Weigh the evidence:** useful planning can coexist with an inflexible demand."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Explain agreement or doubt through the text. Do not replace analysis with an unrelated personal story."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Check the response",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Accurate source:** each quotation belongs to the writer named. Address the exact focus."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Analyse effects in context. Longer responses need developed understanding across the required range."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C700QS, current local specification v3 January 2019; preparation for 2027",
+  "coverage": [
+    "Component 2 Section A: AO1 explicit and implicit meanings, selection and synthesis",
+    "AO2 language, structure, tone, effects and relevant vocabulary",
+    "AO3 ideas, perspectives and how they are conveyed across two texts",
+    "AO4 evidence-based evaluation",
+    "Authentic 1832 public-domain selections paired with original modern opinion writing"
+  ],
+  "assessment": "The official sample uses short retrieval tasks, 4-mark synthesis and 10-mark analysis, evaluation and comparison. The shared practice pair is shorter than a full exam pair (normally about 900–1200 words); it is a skills practice set, not a complete mock. Text A contains public-domain passages attributed to Lydia M. Child (1832), selected in original order from the official sample. Text B is newly authored modern practice. Questions and answers are original; no recurrence claim is made.",
+  "mindmaps": [
+    "00-non-fiction-reading-overview",
+    "01-synthesis-comparison-and-judgement"
+  ],
+  "questions_and_answers": {
+    "count": 24,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      10
+    ],
+    "original_practice": true
+  },
+  "sources": [
+    "../00 - Specification/Eduqas-C700QS-specification.pdf",
+    "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
+  ]
+}
