@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "4.4 Higher comprehension and dictation format",
+    "4.8.1 dictation holistic AO1/AO3 criteria",
+    "Appendix 1 sound-symbol links and grammar-controlled transcription"
+  ],
+  "revision_groups": [
+    "Understand the message",
+    "Dictation and sound practice"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 26,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Original listening-strategy and transcription questions; printed excerpts are explicitly written skills examples, not recordings or a simulated audio paper. Practice connects to official recorded vocabulary and sample listening materials. Dictation uses holistic AO1 meaning (5) and AO3 transcription/grammar (5), not a per-word tally."
+  },
+  "flashcards": {
+    "count": 26,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}

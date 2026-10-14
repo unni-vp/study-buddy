@@ -1,0 +1,39 @@
+{
+  "source": "Listening and dictation - Revision Notes.md",
+  "groups": [
+    {
+      "id": "meaning",
+      "title": "Understand the message",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Listening for the requested detail"
+        },
+        {
+          "heading": "Changes, opinions and distractors"
+        },
+        {
+          "heading": "Numbers and precise English answers"
+        }
+      ]
+    },
+    {
+      "id": "dictation",
+      "title": "Dictation and sound practice",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "How dictation works"
+        },
+        {
+          "heading": "Recovering silent letters"
+        },
+        {
+          "heading": "Practice with real audio"
+        }
+      ]
+    }
+  ]
+}
