@@ -1,0 +1,53 @@
+{
+  "source": "Grammar - Revision Notes.md",
+  "groups": [
+    {
+      "id": "building",
+      "title": "Build and describe",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Nouns and articles"
+        },
+        {
+          "heading": "Adjectives and comparisons"
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "title": "Verbs and time frames",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Present verbs and verb families"
+        },
+        {
+          "heading": "Modals and reflexives"
+        },
+        {
+          "heading": "Past and future"
+        }
+      ]
+    },
+    {
+      "id": "connecting",
+      "title": "Connect and control meaning",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Pronouns and connected clauses"
+        },
+        {
+          "heading": "Negatives, questions and instructions"
+        },
+        {
+          "heading": "Useful linking patterns"
+        }
+      ]
+    }
+  ]
+}
