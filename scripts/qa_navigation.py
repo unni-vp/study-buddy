@@ -62,13 +62,15 @@ def build_qa_pages(source, target, subject, topic, topicpage, write, link):
     full = target.with_name(target.stem+'-all.html')
     crumbs = [(subject.split(' - ')[0], source.parents[2]/'index.html'), (topic, topicpage)]
 
-    def render(page, md):
+    def render(page, md, base=None):
+        base = base or source.parent
+
         def relocate(match):
             url = match[2]
             if re.match(r'^(https?:|#|mailto:)', url):
                 return match[0]
             parts = urlsplit(url)
-            relocated = link(page, (source.parent/unquote(parts.path)).resolve())
+            relocated = link(page, (base/unquote(parts.path)).resolve())
             return match[1]+'="'+urlunsplit(('', '', relocated, parts.query, parts.fragment))+'"'
         return re.sub(r'(href|src)="([^"]+)"', relocate, render_md(md))
 
@@ -90,7 +92,11 @@ def build_qa_pages(source, target, subject, topic, topicpage, write, link):
         controls = ('<div class="reader-tools qa-answer-controls" role="group" aria-label="Answer controls">'
                     '<button type="button" data-qa-action="expand">Expand all</button>'
                     '<button type="button" data-qa-action="collapse">Collapse all</button></div>')
-        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1>'+controls+f'<nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+''.join(sections)+'</article><script defer src="'+link(page, target.parent.parent/'qa.js')+'"></script>'
+        stimulus = source.parent.parent/'qa-stimulus.md'
+        reading_material = ('<section class="qa-stimulus" aria-label="Reading material">'
+                            + render(page, stimulus.read_text(encoding='utf-8'), stimulus.parent)
+                            + '</section>') if stimulus.exists() else ''
+        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1>'+controls+f'<nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+reading_material+''.join(sections)+'</article><script defer src="'+link(page, target.parent.parent/'qa.js')+'"></script>'
 
     source_link = f'<a href="{link(target, source_page)}">Past-paper sources</a>' if sources else ''
     write(target, title, f'<div class="reader-tools qa-tools"><a href="{link(target, topicpage)}">← Back to topic</a>{source_link}<button onclick="window.print()">Print Q&amp;A</button></div>'+content(target), crumbs, subject)

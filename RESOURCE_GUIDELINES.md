@@ -177,3 +177,5 @@ These checks apply to future resources and revisions of existing resources.
 - Distinguish regicide from usurpation, and divine-right belief from a proven divine appointment. Ground succession in Duncan naming Malcolm; do not impose a universal primogeniture rule on the play's Scotland. The dagger precedes Duncan's death.
 - Keep character interpretations qualified: Banquo is tempted; Lady Macbeth's influence changes; Macduff joins grief with public duty; Malcolm promises restoration but his reign is not shown. Use terms such as hubris, hamartia and catalyst only alongside plain meanings and specific evidence.
 - Synchronise edited Literature mind-map Markdown with the same maintained definitions used for artwork, through scripts/build_literature_maps.py. Preserve readable A4 fonts, selected explanatory diagrams and viewer navigation.
+
+- Where a reading Q&A bank shares a passage, store the passage in the topic's qa-stimulus.md. Render it visibly before the mark groups, outside answer disclosures; retain paragraph labels and a single combined Q&A reader. Keep original practice texts clearly distinguished from official extracts in the source page and metadata.

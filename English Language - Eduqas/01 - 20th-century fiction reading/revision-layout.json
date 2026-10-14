@@ -1,0 +1,53 @@
+{
+  "source": "20th-century fiction reading - Revision Notes.md",
+  "groups": [
+    {
+      "id": "evidence",
+      "title": "Read and use evidence",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Read the question and its range"
+        },
+        {
+          "heading": "Retrieve facts and make inferences"
+        },
+        {
+          "heading": "Select evidence that does a job"
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "title": "Language and structure",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Analyse words and images"
+        },
+        {
+          "heading": "Analyse structure and viewpoint"
+        },
+        {
+          "heading": "Build an analytical paragraph"
+        }
+      ]
+    },
+    {
+      "id": "judgement",
+      "title": "Evaluate and organise",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Evaluate a statement"
+        },
+        {
+          "heading": "Cover the passage and manage time"
+        }
+      ]
+    }
+  ]
+}

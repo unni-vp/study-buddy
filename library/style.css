@@ -97,3 +97,8 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
 .home-panel-top .timetable-link{justify-self:end;font-size:13px;white-space:nowrap}
 @media(max-width:720px){.home-panel-top{grid-template-columns:minmax(0,1fr);gap:14px;margin-bottom:32px}.home-panel-top .timetable-link{grid-row:1;font-size:12px}.home-panel-top .intro{grid-row:2}}
 @media print{.home-panel-top .timetable-link{display:none}}
+
+/* Shared reading material remains visible while individual answers are hidden. */
+.qa-stimulus{padding:20px;margin:22px 0 30px;border:1px solid var(--line);border-radius:8px;background:#fafbfc}
+.reading .qa-stimulus h2:first-child{margin-top:0}
+@media(max-width:720px){.qa-stimulus{padding:14px}}

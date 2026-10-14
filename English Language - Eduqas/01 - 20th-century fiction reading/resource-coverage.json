@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C700QS, current local specification v3 January 2019; preparation for 2027",
+  "coverage": [
+    "Component 1 Section A: AO1 explicit/implicit information, AO2 language/structure, AO4 supported evaluation",
+    "Range, evidence selection, impressions, narrative viewpoint, imagery, pace and connected analysis"
+  ],
+  "assessment": "Official Component 1 samples use 5- and 10-mark reading tasks within 40 marks. The original Morning platform passage is a skills-practice text, not a historical twentieth-century publication or an official exam extract. Its questions use paragraph ranges so they remain stable on different screens. The first short groups are retrieval/skill practice; the longer answers illustrate supported analysis rather than official awarded scripts.",
+  "mindmaps": [
+    "00-fiction-reading-overview",
+    "01-language-structure-and-judgement"
+  ],
+  "questions_and_answers": {
+    "count": 23,
+    "marks": [
+      1,
+      2,
+      5,
+      10
+    ],
+    "original_practice": true
+  },
+  "sources": [
+    "../00 - Specification/Eduqas-C700QS-specification.pdf",
+    "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
+  ]
+}

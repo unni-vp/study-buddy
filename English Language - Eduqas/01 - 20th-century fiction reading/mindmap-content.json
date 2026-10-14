@@ -1,0 +1,224 @@
+[
+  {
+    "slug": "00-fiction-reading-overview",
+    "title": "Fiction reading",
+    "panels": [
+      {
+        "title": "Locate the task",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Focus:** identify the character, feeling, event or judgement being asked about."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Range:** choose evidence from the specified lines. Match the command, not a memorised formula."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Retrieve and infer",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Fact:** something directly stated. **Inference:** something supported by a detail."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Separate distinct facts. Qualify an inference when the evidence permits more than one reading."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Choose evidence",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Short quotation:** select words you can explain. A precise reference to an action also supports a point."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Explain the link between evidence and your interpretation. A quotation is not a finished explanation."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Explain the craft",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Language:** consider the particular verb, image, sound or dialogue."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Structure:** track focus, pace, revelation and change. Explain why the order matters here."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Make a judgement",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Evaluation:** answer the statement with a supported view. Use qualifications when the passage warrants them."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Consider relevant evidence across the range. Do not invent a counterargument simply to sound balanced."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Check the response",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Specific effect:** explain what the reader understands, expects or questions at this point."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Avoid retelling, unsupported certainty, empty device lists and evidence outside the range."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-language-structure-and-judgement",
+    "title": "Language, structure and judgement",
+    "panels": [
+      {
+        "title": "Word to meaning",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**“Swallowed” time:** personification makes another minute seem irretrievably consumed."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Name the method only when useful. Explain the particular meaning rather than saying a word is effective."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "An image develops",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**The repaired glove:** practical care becomes a “crooked bridge”."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The simile suggests an imperfect continuing connection, not that every disagreement has disappeared."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Narrative focus",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Close viewpoint:** Ada expects confrontation before the father’s purpose is known."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Follow changes in what the reader knows and how the character interprets them."
+            ]
+          }
+        ],
+        "visual": {
+          "kind": "focus-shift",
+          "after": 1
+        }
+      },
+      {
+        "title": "Control the pace",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**“She turned.”** The isolated movement delays the revelation at a decisive moment."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Longer description keeps us waiting earlier. Sentence length has no single automatic effect."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Build the paragraph",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Claim → evidence → explanation:** connect a precise choice to the question."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Impression: father seems threatening. Evidence: forceful footsteps. Explain Ada’s anxious interpretation."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Evaluate with nuance",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Determined, not simply impulsive:** months of saving qualify the secret departure."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The final letter suggests connection. Reach a judgement that accounts for both the hurt and the ambition."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  }
+]
