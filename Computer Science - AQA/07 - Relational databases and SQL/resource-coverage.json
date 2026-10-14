@@ -28,7 +28,7 @@
   ],
   "mindmaps": [],
   "questions_and_answers": {
-    "count": 30,
+    "count": 35,
     "source": "Questions and Answers/Relational databases and SQL - Questions and Answers.md",
     "type": "Original practice with independent 2027 scope check",
     "paper_type_references": {
@@ -46,7 +46,61 @@
       "AQA 8525/2 June 2022",
       "AQA 8525/2 June 2023"
     ],
-    "frequency_claim": false
+    "frequency_claim": false,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 31,
+          "marks": 6,
+          "prompt": "A library uses `Pupils(PupilID, Name, YearGroup)` and `Loans(LoanID, PupilID, BookTitle, DaysLoaned)`. Write SQL that returns Name, BookTitle and DaysLoaned for pupils in **Year 10 or Year 11** whose loans are **longer than 14 days**. Put the longest loans first and link records to the correct pupil.",
+          "specification_section": "3.7"
+        },
+        {
+          "question": 32,
+          "marks": 6,
+          "prompt": "Using `Loans(LoanID, PupilID, BookTitle, DaysLoaned)`, write three separate SQL statements to:\n\n- insert loan 505 for existing pupil 103, with title `Rivers` and DaysLoaned 1\n- change only loan 505 to DaysLoaned 2\n- delete only loan 505 after it is returned.\n\nAssume LoanID is the primary key and 505 is initially unused. The statements are executed in that order.",
+          "specification_section": "3.7"
+        },
+        {
+          "question": 33,
+          "marks": 6,
+          "prompt": "A library stores pupils and loans in separate tables. Pupils can share names; a pupil can borrow several books; and the same title may appear in several loans. A designer proposes using pupil name and book title as the two primary keys. Explain the problems, recommend suitable primary and foreign keys, and suggest data types for YearGroup, BookTitle and DaysLoaned.",
+          "specification_section": "3.7"
+        },
+        {
+          "question": 34,
+          "marks": 7,
+          "prompt": "Use these records:\n\n| PupilID | Name | YearGroup |\n|---|---|---|\n| 101 | Shreya | 10 |\n| 102 | Amir | 11 |\n| 103 | Mia | 9 |\n\n| LoanID | PupilID | BookTitle | DaysLoaned |\n|---|---|---|---|\n| 501 | 101 | Astronomy | 20 |\n| 502 | 101 | Biology | 5 |\n| 503 | 102 | Chemistry | 18 |\n| 504 | 103 | Drama | 30 |\n\nThis query should show each Year 10 pupil with their own borrowed titles:\n\n```sql\nSELECT Pupils.Name, Loans.BookTitle\nFROM Pupils, Loans\nWHERE Pupils.YearGroup = 10\nORDER BY Loans.BookTitle ASC;\n```\n\nExplain why it returns incorrect results, state the rows it actually returns, then write the corrected query and its result.",
+          "specification_section": "3.7"
+        },
+        {
+          "question": 35,
+          "marks": 7,
+          "prompt": "Using the same two tables and records, an administrator wants to reset DaysLoaned to 0 for loans belonging to pupil 101 or pupil 102, but **only when the loan is longer than 14 days**. They write:\n\n```sql\nUPDATE Loans\nSET DaysLoaned = 0\nWHERE PupilID = 101 OR PupilID = 102 AND DaysLoaned > 14;\n```\n\nExplain the error, identify which loans are changed by the incorrect statement, and write the corrected statement. State exactly which loan IDs the corrected version should change. Treat each version as starting from the original records above.",
+          "specification_section": "3.7"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 9,
+        "2": 9,
+        "3": 7,
+        "4": 3,
+        "6": 5,
+        "7": 2
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   },
   "flashcards": {
     "count": 28,

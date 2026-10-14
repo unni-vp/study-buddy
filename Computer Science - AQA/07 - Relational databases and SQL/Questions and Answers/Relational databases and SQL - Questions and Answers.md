@@ -247,6 +247,136 @@ The first condition **links the tables**. The second selects the required pupils
 - Include PupilID as a foreign key in the loan table to associate the borrowing with the pupil.
 - Updating one pupil record then changes the details used by all matching queries, while keeping individual loans separate.
 
+**31.** A library uses `Pupils(PupilID, Name, YearGroup)` and `Loans(LoanID, PupilID, BookTitle, DaysLoaned)`. Write SQL that returns Name, BookTitle and DaysLoaned for pupils in **Year 10 or Year 11** whose loans are **longer than 14 days**. Put the longest loans first and link records to the correct pupil.
+
+**Answer:**
+
+```sql
+SELECT Pupils.Name, Loans.BookTitle, Loans.DaysLoaned
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+AND (Pupils.YearGroup = 10 OR Pupils.YearGroup = 11)
+AND Loans.DaysLoaned > 14
+ORDER BY Loans.DaysLoaned DESC;
+```
+
+The **linking condition** connects each loan to its pupil. **Parentheses group the two permitted year groups**, so the loan-duration condition applies to both. `> 14` excludes exactly 14 days; `DESC` puts the largest duration first.
+
+**32.** Using `Loans(LoanID, PupilID, BookTitle, DaysLoaned)`, write three separate SQL statements to:
+
+- insert loan 505 for existing pupil 103, with title `Rivers` and DaysLoaned 1
+- change only loan 505 to DaysLoaned 2
+- delete only loan 505 after it is returned.
+
+Assume LoanID is the primary key and 505 is initially unused. The statements are executed in that order.
+
+**Answer:**
+
+```sql
+INSERT INTO Loans (LoanID, PupilID, BookTitle, DaysLoaned)
+VALUES (505, 103, 'Rivers', 1);
+```
+
+```sql
+UPDATE Loans
+SET DaysLoaned = 2
+WHERE LoanID = 505;
+```
+
+```sql
+DELETE FROM Loans
+WHERE LoanID = 505;
+```
+
+The **column list matches the order of the inserted values**. The **primary-key condition** restricts the update and deletion to one loan. Omitting either `WHERE` would affect every loan instead.
+
+**33.** A library stores pupils and loans in separate tables. Pupils can share names; a pupil can borrow several books; and the same title may appear in several loans. A designer proposes using pupil name and book title as the two primary keys. Explain the problems, recommend suitable primary and foreign keys, and suggest data types for YearGroup, BookTitle and DaysLoaned.
+
+**Answer:**
+
+- **Names are not necessarily unique**, so a pupil's name cannot reliably identify one pupil. Use a unique **PupilID** as the pupil table's primary key.
+- **Titles may repeat across loans**, so use a unique **LoanID** to identify each borrowing event.
+- Store **PupilID as a foreign key in Loans**, referencing the pupil table. Repeated values here allow one pupil to have multiple loans without duplicating the pupil's personal record.
+- **YearGroup: integer**, because it stores a whole-number year group.
+- **BookTitle: string**, because it stores text rather than a quantity used in arithmetic.
+- **DaysLoaned: integer**, because the stated design records a whole number of days.
+
+The foreign key can repeat; the primary key identifying each individual loan must remain unique.
+
+## 7 marks
+
+**34.** Use these records:
+
+| PupilID | Name | YearGroup |
+|---|---|---|
+| 101 | Shreya | 10 |
+| 102 | Amir | 11 |
+| 103 | Mia | 9 |
+
+| LoanID | PupilID | BookTitle | DaysLoaned |
+|---|---|---|---|
+| 501 | 101 | Astronomy | 20 |
+| 502 | 101 | Biology | 5 |
+| 503 | 102 | Chemistry | 18 |
+| 504 | 103 | Drama | 30 |
+
+This query should show each Year 10 pupil with their own borrowed titles:
+
+```sql
+SELECT Pupils.Name, Loans.BookTitle
+FROM Pupils, Loans
+WHERE Pupils.YearGroup = 10
+ORDER BY Loans.BookTitle ASC;
+```
+
+Explain why it returns incorrect results, state the rows it actually returns, then write the corrected query and its result.
+
+**Answer:**
+
+The query **does not link PupilID between the tables**. Selecting Shreya's Year 10 record does not restrict which Loans records are combined with it. It therefore returns these four rows:
+
+| Name | BookTitle |
+|---|---|
+| Shreya | Astronomy |
+| Shreya | Biology |
+| Shreya | Chemistry |
+| Shreya | Drama |
+
+The corrected query is:
+
+```sql
+SELECT Pupils.Name, Loans.BookTitle
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+AND Pupils.YearGroup = 10
+ORDER BY Loans.BookTitle ASC;
+```
+
+It returns only **(Shreya, Astronomy)** and **(Shreya, Biology)**, in that order. One pupil appearing in two rows is correct because that pupil has **two separate matching loans**.
+
+**35.** Using the same two tables and records, an administrator wants to reset DaysLoaned to 0 for loans belonging to pupil 101 or pupil 102, but **only when the loan is longer than 14 days**. They write:
+
+```sql
+UPDATE Loans
+SET DaysLoaned = 0
+WHERE PupilID = 101 OR PupilID = 102 AND DaysLoaned > 14;
+```
+
+Explain the error, identify which loans are changed by the incorrect statement, and write the corrected statement. State exactly which loan IDs the corrected version should change. Treat each version as starting from the original records above.
+
+**Answer:**
+
+**AND is evaluated before OR.** The original condition means pupil 101 **regardless of duration**, or pupil 102 with a loan longer than 14 days. It changes loans **501, 502 and 503**. Loan 502 is wrongly included even though its duration is only 5 days.
+
+```sql
+UPDATE Loans
+SET DaysLoaned = 0
+WHERE (PupilID = 101 OR PupilID = 102)
+AND DaysLoaned > 14;
+```
+
+**Parentheses group the pupil alternatives**, then the duration condition restricts both of them. Only loans **501 and 503** should change to 0. Loan **502 remains 5** and loan **504 remains 30**. Testing a short loan for pupil 101 exposes the original error; testing only long loans would miss it.
+
 ## Past-paper sources
 
 These are original practice questions and tutor answers. Question types were checked against AQA Paper 2 from June 2022 and June 2023 and the revised course content. The marks are practice allocations. No frequency ranking is claimed from this two-paper sample.
@@ -260,3 +390,5 @@ These are original practice questions and tutor answers. Question types were che
 - [June 2023 mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN23.PDF)
 
 - [Official AQA assessment resource directory](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.
