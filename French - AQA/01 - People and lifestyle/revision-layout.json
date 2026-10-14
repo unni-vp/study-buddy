@@ -1,0 +1,53 @@
+{
+  "source": "People and lifestyle - Revision Notes.md",
+  "groups": [
+    {
+      "id": "people",
+      "title": "Identity and relationships",
+      "description": "Describe people, explain relationships and develop opinions.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Introducing yourself and other people"
+        },
+        {
+          "heading": "Relationships and personality"
+        },
+        {
+          "heading": "Opinions and changes over time"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Healthy living",
+      "description": "Discuss habits, problems and improvements in different time frames.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Food and healthy living"
+        },
+        {
+          "heading": "Habits, problems and improvements"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education and work",
+      "description": "Explain school life, future ambitions and developed responses.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "School life and opinions"
+        },
+        {
+          "heading": "Work, ambitions and future plans"
+        },
+        {
+          "heading": "Turning ideas into a developed response"
+        }
+      ]
+    }
+  ]
+}

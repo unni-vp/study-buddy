@@ -1,0 +1,30 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "3.1.1 Identity and relationships with others",
+    "3.1.1 Healthy living and lifestyle",
+    "3.1.1 Education and work",
+    "Linked prescribed grammar: agreement, reflexives, negatives, relative qui, perfect/imperfect/near future and regular -er future"
+  ],
+  "revision_groups": [
+    "Identity and relationships",
+    "Healthy living",
+    "Education and work"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 32,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Theme 1 applies across all four papers. The extended practice uses the current writing formats: three bullet points and approximately 90 words for 15 marks, two bullet points and approximately 150 words for 25 marks. These are original tasks and models, not copied sample answers. Short translation marks are practice allocations; official full translations are assessed using the whole-response grids."
+  },
+  "flashcards": {
+    "count": 30,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}

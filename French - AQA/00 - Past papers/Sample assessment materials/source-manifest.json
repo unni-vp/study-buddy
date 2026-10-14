@@ -1,0 +1,54 @@
+{
+  "downloaded": "2026-10-14",
+  "qualification": "AQA French 8652 Higher; sample formats independently checked against local v1.2 August 2026 specification",
+  "documents": [
+    {
+      "file": "AQA-8652WH-SQP.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652WH-SQP.PDF",
+      "pages": 14,
+      "sha256": "a8676dc3ce2e9761086f025f26c08b0e5408dab2bb3a7f93b2dd82215af95a69"
+    },
+    {
+      "file": "AQA-8652WH-SMS.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652WH-SMS.PDF",
+      "pages": 26,
+      "sha256": "a49930ee9955b0cf7fa14b41fbeac8cbf7556645ac89e7a611f8d5e1a453a12a"
+    },
+    {
+      "file": "AQA-8652RH-SQP.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652RH-SQP.PDF",
+      "pages": 20,
+      "sha256": "2ae75a4b20ce5a43f84e034750f28def1c64143ff4bdfac6dcaefce650a9a006"
+    },
+    {
+      "file": "AQA-8652RH-SMS.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652RH-SMS.PDF",
+      "pages": 8,
+      "sha256": "19cefe955d5149398da0e0c90064979f504f115fb6d8c468598da730927cb937"
+    },
+    {
+      "file": "AQA-8652LH-SQP.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652LH-SQP.PDF",
+      "pages": 20,
+      "sha256": "00ee0efea10e3b78a2ea39021ecbfa59959370a50d5d5fbfbfa818d4f6e0bfe8"
+    },
+    {
+      "file": "AQA-8652LH-SMS.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652LH-SMS.PDF",
+      "pages": 12,
+      "sha256": "82ca14fc41a8c2b5883f48063bb6cddbd646348cf9932e0c111beebd5d6662b8"
+    },
+    {
+      "file": "AQA-8652SFH-STB.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652SFH-STB.PDF",
+      "pages": 122,
+      "sha256": "6469af6ac3c2193dfb9c25a2be8f20918d45fb16e6eb11689e29e31b02515683"
+    },
+    {
+      "file": "AQA-8652SFH-SCB.PDF",
+      "url": "https://filestore.aqa.org.uk/resources/french/AQA-8652SFH-SCB.PDF",
+      "pages": 38,
+      "sha256": "8a4abe01e61a9ea23f87dcb1be791db2a6dbb4d48e9f7fb521bf85aaeca974eb"
+    }
+  ]
+}
