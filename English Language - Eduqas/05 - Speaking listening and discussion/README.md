@@ -10,4 +10,4 @@ Use the full official specification in ../00 - Specification. Match every resour
 - Mind Maps: links between ideas in large or complex topics.
 - Questions and Answers: one combined document with each question, its answer and marking points together.
 
-Resources have not yet been authored. Follow the project AGENTS.md and RESOURCE_GUIDELINES.md.
+Revision notes, mind maps and combined questions & answers are available from the topic page.

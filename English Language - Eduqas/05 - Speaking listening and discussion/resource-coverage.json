@@ -1,0 +1,29 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "Eduqas C700QS, current local specification v3 January 2019; preparation for 2027",
+  "coverage": [
+    "Spoken Language AO7: formal presentation, purpose, vocabulary, organisation and audience",
+    "AO8: listening, responding to questions and feedback, developing further ideas",
+    "AO9: effective spoken Standard English, audibility and intelligibility",
+    "Separate competency-based endorsement with all criteria at a level required"
+  ],
+  "assessment": "Spoken Language is assessed holistically with Pass, Merit or Distinction (or Not Classified), not numerical marks and not as part of the written GCSE grade. Every numbered mark group here is solely a tutor-created practice allocation for a skill exercise, including the complete speech; none is an official exam tariff or endorsed grade. Notes and criteria are checked against the local specification and [official Spoken Language guidance](https://www.eduqas.co.uk/media/kn5hcgfv/guidance-on-the-assessment-of-spoken-language.pdf). The whole assessment guidance includes questions and feedback. The speech is an original illustrative proposal, not a factual account of school arrangements.",
+  "mindmaps": [
+    "00-spoken-language-overview",
+    "01-presentation-and-response"
+  ],
+  "questions_and_answers": {
+    "count": 23,
+    "marks": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "original_practice": true
+  },
+  "sources": [
+    "../00 - Specification/Eduqas-C700QS-specification.pdf",
+    "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
+  ]
+}

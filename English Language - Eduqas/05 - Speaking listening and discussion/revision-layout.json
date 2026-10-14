@@ -1,0 +1,56 @@
+{
+  "source": "Speaking listening and discussion - Revision Notes.md",
+  "groups": [
+    {
+      "id": "plan",
+      "title": "Purpose, ideas and organisation",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Know what the assessment involves"
+        },
+        {
+          "heading": "Choose a focused purpose and audience"
+        },
+        {
+          "heading": "Develop points rather than list them"
+        },
+        {
+          "heading": "Organise a talk the audience can follow"
+        }
+      ]
+    },
+    {
+      "id": "deliver",
+      "title": "Language, delivery and rehearsal",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Make language work when spoken"
+        },
+        {
+          "heading": "Deliver with control"
+        },
+        {
+          "heading": "Use notes, slides and rehearsal purposefully"
+        }
+      ]
+    },
+    {
+      "id": "respond",
+      "title": "Listening, questions and discussion",
+      "description": "Key ideas, worked examples and practical choices.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Listen and respond thoughtfully"
+        },
+        {
+          "heading": "Discuss, refine and reflect"
+        }
+      ]
+    }
+  ]
+}

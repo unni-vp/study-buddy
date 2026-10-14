@@ -1,0 +1,225 @@
+[
+  {
+    "slug": "00-spoken-language-overview",
+    "title": "Speaking, listening and discussion",
+    "panels": [
+      {
+        "title": "Focus the purpose",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Topic and audience:** agree a specific subject with your teacher. Explain why it matters to these listeners."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "A question such as Should school offer a quiet space? gives the talk a clear direction."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Develop the thinking",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Claim + reason + example + significance:** explain each point, rather than listing opinions."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Research claims carefully. Identify an illustration as an example, not a statistic about everyone."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Organise the journey",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Opening:** establish the question. **Development:** connect the reasons and a genuine objection."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Conclusion:** return to the purpose and a clear next step. Signpost changes naturally."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Make it speakable",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Language:** precise, appropriate and understandable on one listening."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Delivery:** audible voice, controlled pace, useful pauses and emphasis. Rehearse aloud."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Listen and develop",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Response:** answer the actual question, give a reason and add an example or qualification."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Acknowledge missing evidence. Explain what would need checking instead of inventing a fact."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prepare the whole task",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Rehearse:** check the route, length and clarity. Leave room for questions within the assessment."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Endorsement:** Pass, Merit or Distinction is separate from the written GCSE grade."
+            ]
+          }
+        ]
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-presentation-and-response",
+    "title": "Presentation, rehearsal and response",
+    "panels": [
+      {
+        "title": "Make one point matter",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Choice:** a quiet space offers an option, not universal silence."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Explain the reason and an example. Then connect the example back to the proposal."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Take objections seriously",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Practical limits:** rooms, staffing, fair access and possible isolation."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "A trial needs agreed arrangements and a way to learn. Concede a limit when it changes the proposal."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Use support sparingly",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Cue cards:** point, example and transition. **Slides:** add a useful image or clear result."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The audience should listen to an explanation, not race to read a second script."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rehearse and revise",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Meaning:** ask where a listener lost the argument. Add the missing link or remove repetition."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Delivery:** check audibility, pace and pauses. Practise recovering if you lose your place."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Answer the question",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Listen first:** clarify if needed. Give a direct answer with a reason."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Use an example, qualify the claim or explain what must be investigated."
+            ]
+          }
+        ],
+        "visual": {
+          "kind": "spoken-response",
+          "after": 1
+        }
+      },
+      {
+        "title": "Move the discussion on",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Acknowledge and build:** respond to another person’s point, not just your prepared script."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Use feedback to develop the idea. Thoughtful qualification can show stronger understanding than certainty."
+            ]
+          }
+        ],
+        "text_reserve": 16
+      }
+    ],
+    "columns": null
+  }
+]
