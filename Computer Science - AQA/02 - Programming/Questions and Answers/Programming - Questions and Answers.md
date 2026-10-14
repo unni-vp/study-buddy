@@ -298,7 +298,7 @@ Identify and explain two logic errors. Write a corrected function and give one t
 **Answer:**
 
 - **Starting at index 1 skips the first score.** Lists begin at index 0.
-- **`//` performs integer division**, so it can discard the fractional part of the mean. Use `/`.
+- `//` performs integer division, so it can discard the fractional part of the mean. Use `/`.
 
 ```python
 def mean_score(scores):
@@ -308,7 +308,7 @@ def mean_score(scores):
     return total / len(scores)
 ```
 
-Test with **`[2, 5]`**. The expected mean is **3.5**; the original function returns **2**. The corrected function includes both scores and retains the fractional result.
+Test with `[2, 5]`. The expected mean is **3.5**; the original function returns **2**. The corrected function includes both scores and retains the fractional result.
 
 ## 7 marks
 
@@ -340,7 +340,7 @@ print(credits)
 ```
 
 - **Nested selection** applies the book threshold only when the membership condition is false.
-- **`>=` includes the boundary:** exactly 4 years gets the higher rate; exactly 12 books can qualify for the lower rate.
+- `>=` includes the boundary: exactly 4 years gets the higher rate; exactly 12 books can qualify for the lower rate.
 - **Mutually exclusive branches** prevent both rates being added together.
 
 For 12 books and 3 years, the output is **12**. For 12 books and 4 years, it is **36**.
@@ -372,8 +372,8 @@ print(found)
 ```
 
 - The **index starts at 0** and stays below the list length before an item is accessed.
-- **`found` starts as `False`** and changes only when an item matches.
-- **`and not found`** stops another loop iteration after a match.
+- `found` starts as `False` and changes only when an item matches.
+- `and not found` stops another loop iteration after a match.
 - Output is **outside the loop**, so the program gives one final result, including when the name is absent.
 
 The last club, `tennis`, must still be checked. Entering `Tennis` outputs `False` because matching is case-sensitive.
@@ -397,9 +397,9 @@ def read_score(minimum, maximum):
 ```
 
 - **Parameters** let the same function validate different ranges.
-- The invalid condition uses **`OR`**: an input is invalid if it is below the minimum **or** above the maximum.
+- The invalid condition uses `OR`: an input is invalid if it is below the minimum **or** above the maximum.
 - **Re-entering inside the loop** lets an invalid value be replaced.
-- **`return` is after the loop**, so only a valid score is returned. `score` is local to the function.
+- `return` is after the loop, so only a valid score is returned. `score` is local to the function.
 
 For a call with limits 0 and 100, `-1` and `101` are rejected; **0 and 100 are accepted**. This range check assumes integer input; checking whether text can be converted is a separate task.
 
@@ -428,7 +428,7 @@ print(answer)
 - The loop checks **all items**, even after finding a match, because duplicates count.
 - The function **returns** its result; the calling code prints it.
 
-Searching for `red` outputs **3**; `yellow` outputs **0**. An empty list also produces 0.
+Searching for `red` outputs **3; `yellow` outputs 0**. An empty list also produces 0.
 
 **36.** Write a Python function `next_letters(text)` that replaces each uppercase English letter with the next letter of the alphabet. `Z` must wrap round to `A`. For example, `AZ` becomes `BA`.
 
@@ -449,7 +449,7 @@ def next_letters(text):
     return result
 ```
 
-- **`ord()`** converts a character to its code; **`chr()`** converts the new code back to a character.
+- `ord()` converts a character to its code; `chr()` converts the new code back to a character.
 - **Selection handles the boundary:** `Z` becomes `A`, rather than the character after `Z` in the character set.
 - The result string starts empty and **accumulates every converted character**.
 - The function returns after the loop. An empty input string returns an empty string.
@@ -488,9 +488,9 @@ else:
 ```
 
 - **The counter starts at 0** and increases once for each pair of inputs.
-- **`attempts < 3`** prevents a fourth attempt.
-- **`not authenticated`** prevents another attempt after success.
-- **`AND` joins the two credential checks**: one correct entry is insufficient.
+- `attempts < 3` prevents a fourth attempt.
+- `not authenticated` prevents another attempt after success.
+- `AND` joins the two credential checks: one correct entry is insufficient.
 - The final selection prints **one outcome**. A correct third attempt still grants access.
 
 Changing `AND` to `OR` in the credential comparison would incorrectly allow access with only a correct username or only a correct password.
@@ -527,7 +527,7 @@ print("Passes:", pass_count)
 - The **outer count-controlled loop** accepts five valid scores.
 - The **inner validation loop** handles replacements without advancing to the next accepted score.
 - The **total and pass count are updated after validation**, so rejected entries cannot affect either result.
-- **`>= 50`** includes the pass boundary.
+- `>= 50` includes the pass boundary.
 - **Real division** calculates the mean after all five scores have been accepted.
 
 For accepted scores `0, 100, 49, 50, 75`, the outputs are **Mean: 54.8** and **Passes: 3**.
@@ -565,7 +565,7 @@ print("Score:", correct_count)
 print("Percentage:", percentage)
 ```
 
-- **`randint(1, 12)` includes both endpoints.** Both calls are inside the loop, so each question gets a new pair.
+- `randint(1, 12)` includes both endpoints. Both calls are inside the loop, so each question gets a new pair.
 - The **score is initialised once**, before the loop, and increases only for a correct response.
 - **Selection** gives the appropriate feedback for every response.
 - **The percentage uses the number of questions**, not the values of the random numbers.

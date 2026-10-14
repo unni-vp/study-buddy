@@ -128,7 +128,7 @@ print(free_count)
 </code></pre>
 <p>Identify and explain two logic errors. Write a corrected function and give one test input with its expected result that shows the original function is wrong. Do not use <code>sum()</code>.</p><details class="qa-answer" id="answer-31"><summary aria-label="Answer to question 31">Answer:</summary><div class="qa-answer-body"><ul>
 <li><strong>Starting at index 1 skips the first score.</strong> Lists begin at index 0.</li>
-<li>**<code>//</code> performs integer division**, so it can discard the fractional part of the mean. Use <code>/</code>.</li>
+<li><code>//</code> performs integer division, so it can discard the fractional part of the mean. Use <code>/</code>.</li>
 </ul>
 <pre class="code-block"><code class="language-python">def mean_score(scores):
     total = 0
@@ -136,7 +136,7 @@ print(free_count)
         total = total + scores[index]
     return total / len(scores)
 </code></pre>
-<p>Test with **<code>[2, 5]</code><strong>. The expected mean is </strong>3.5<strong>; the original function returns </strong>2**. The corrected function includes both scores and retains the fractional result.</p></div></details></div></section><section class="qa-mark-group" id="marks-7"><h2>7 marks</h2><div class="qa-question" id="q32"><p><strong>32.</strong> A bookshop awards loyalty credits using the number of books a customer buys and their complete years of membership. Write a Python program that:</p>
+<p>Test with <code>[2, 5]</code>. The expected mean is <strong>3.5</strong>; the original function returns <strong>2</strong>. The corrected function includes both scores and retains the fractional result.</p></div></details></div></section><section class="qa-mark-group" id="marks-7"><h2>7 marks</h2><div class="qa-question" id="q32"><p><strong>32.</strong> A bookshop awards loyalty credits using the number of books a customer buys and their complete years of membership. Write a Python program that:</p>
 <ul>
 <li>inputs both values as integers</li>
 <li>awards <strong>3 credits per book</strong> if the customer has been a member for <strong>at least 4 years</strong></li>
@@ -159,7 +159,7 @@ print(credits)
 </code></pre>
 <ul>
 <li><strong>Nested selection</strong> applies the book threshold only when the membership condition is false.</li>
-<li>**<code>&gt;=</code> includes the boundary:** exactly 4 years gets the higher rate; exactly 12 books can qualify for the lower rate.</li>
+<li><code>&gt;=</code> includes the boundary: exactly 4 years gets the higher rate; exactly 12 books can qualify for the lower rate.</li>
 <li><strong>Mutually exclusive branches</strong> prevent both rates being added together.</li>
 </ul>
 <p>For 12 books and 3 years, the output is <strong>12</strong>. For 12 books and 4 years, it is <strong>36</strong>.</p></div></details></div><div class="qa-question" id="q33"><p><strong>33.</strong> The following list stores school club names:</p>
@@ -180,8 +180,8 @@ print(found)
 </code></pre>
 <ul>
 <li>The <strong>index starts at 0</strong> and stays below the list length before an item is accessed.</li>
-<li>**<code>found</code> starts as <code>False</code>** and changes only when an item matches.</li>
-<li>**<code>and not found</code>** stops another loop iteration after a match.</li>
+<li><code>found</code> starts as <code>False</code> and changes only when an item matches.</li>
+<li><code>and not found</code> stops another loop iteration after a match.</li>
 <li>Output is <strong>outside the loop</strong>, so the program gives one final result, including when the name is absent.</li>
 </ul>
 <p>The last club, <code>tennis</code>, must still be checked. Entering <code>Tennis</code> outputs <code>False</code> because matching is case-sensitive.</p></div></details></div><div class="qa-question" id="q34"><p><strong>34.</strong> Write a Python function called <code>read_score</code> with two parameters, <code>minimum</code> and <code>maximum</code>. It must:</p>
@@ -198,9 +198,9 @@ print(found)
 </code></pre>
 <ul>
 <li><strong>Parameters</strong> let the same function validate different ranges.</li>
-<li>The invalid condition uses **<code>OR</code><strong>: an input is invalid if it is below the minimum </strong>or** above the maximum.</li>
+<li>The invalid condition uses <code>OR</code>: an input is invalid if it is below the minimum <strong>or</strong> above the maximum.</li>
 <li><strong>Re-entering inside the loop</strong> lets an invalid value be replaced.</li>
-<li>**<code>return</code> is after the loop**, so only a valid score is returned. <code>score</code> is local to the function.</li>
+<li><code>return</code> is after the loop, so only a valid score is returned. <code>score</code> is local to the function.</li>
 </ul>
 <p>For a call with limits 0 and 100, <code>-1</code> and <code>101</code> are rejected; <strong>0 and 100 are accepted</strong>. This range check assumes integer input; checking whether text can be converted is a separate task.</p></div></details></div><div class="qa-question" id="q35"><p><strong>35.</strong> Write a Python function <code>count_matches(words, target)</code> that returns how many times <code>target</code> occurs in the list <code>words</code>. Matching is case-sensitive. Check every item yourself; do not use <code>.count()</code> or another built-in counting/searching function.</p>
 <p>Then write calling code that sets <code>words</code> to <code>[&quot;red&quot;, &quot;blue&quot;, &quot;red&quot;, &quot;green&quot;, &quot;red&quot;]</code>, inputs the target, calls the function and outputs the returned count. The function must use a local counter.</p><details class="qa-answer" id="answer-35"><summary aria-label="Answer to question 35">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">def count_matches(words, target):
@@ -221,7 +221,7 @@ print(answer)
 <li>The loop checks <strong>all items</strong>, even after finding a match, because duplicates count.</li>
 <li>The function <strong>returns</strong> its result; the calling code prints it.</li>
 </ul>
-<p>Searching for <code>red</code> outputs <strong>3</strong>; <code>yellow</code> outputs <strong>0</strong>. An empty list also produces 0.</p></div></details></div><div class="qa-question" id="q36"><p><strong>36.</strong> Write a Python function <code>next_letters(text)</code> that replaces each uppercase English letter with the next letter of the alphabet. <code>Z</code> must wrap round to <code>A</code>. For example, <code>AZ</code> becomes <code>BA</code>.</p>
+<p>Searching for <code>red</code> outputs **3; <code>yellow</code> outputs 0**. An empty list also produces 0.</p></div></details></div><div class="qa-question" id="q36"><p><strong>36.</strong> Write a Python function <code>next_letters(text)</code> that replaces each uppercase English letter with the next letter of the alphabet. <code>Z</code> must wrap round to <code>A</code>. For example, <code>AZ</code> becomes <code>BA</code>.</p>
 <p>Assume the string contains only <code>A</code>–<code>Z</code>, or is empty. Use <code>ord()</code> and <code>chr()</code>, build a new string and return it. The character code of <code>A</code> is 65 and that of <code>Z</code> is 90.</p><details class="qa-answer" id="answer-36"><summary aria-label="Answer to question 36">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">def next_letters(text):
     result = &quot;&quot;
     for letter in text:
@@ -234,7 +234,7 @@ print(answer)
     return result
 </code></pre>
 <ul>
-<li>**<code>ord()</code><strong> converts a character to its code; </strong><code>chr()</code>** converts the new code back to a character.</li>
+<li><code>ord()</code> converts a character to its code; <code>chr()</code> converts the new code back to a character.</li>
 <li><strong>Selection handles the boundary:</strong> <code>Z</code> becomes <code>A</code>, rather than the character after <code>Z</code> in the character set.</li>
 <li>The result string starts empty and <strong>accumulates every converted character</strong>.</li>
 <li>The function returns after the loop. An empty input string returns an empty string.</li>
@@ -265,9 +265,9 @@ else:
 </code></pre>
 <ul>
 <li><strong>The counter starts at 0</strong> and increases once for each pair of inputs.</li>
-<li>**<code>attempts &lt; 3</code>** prevents a fourth attempt.</li>
-<li>**<code>not authenticated</code>** prevents another attempt after success.</li>
-<li>**<code>AND</code> joins the two credential checks**: one correct entry is insufficient.</li>
+<li><code>attempts &lt; 3</code> prevents a fourth attempt.</li>
+<li><code>not authenticated</code> prevents another attempt after success.</li>
+<li><code>AND</code> joins the two credential checks: one correct entry is insufficient.</li>
 <li>The final selection prints <strong>one outcome</strong>. A correct third attempt still grants access.</li>
 </ul>
 <p>Changing <code>AND</code> to <code>OR</code> in the credential comparison would incorrectly allow access with only a correct username or only a correct password.</p></div></details></div><div class="qa-question" id="q38"><p><strong>38.</strong> Write a Python program that accepts exactly <strong>five valid test scores</strong>, each an integer from <strong>0 to 100 inclusive</strong>. It must:</p>
@@ -297,7 +297,7 @@ print(&quot;Passes:&quot;, pass_count)
 <li>The <strong>outer count-controlled loop</strong> accepts five valid scores.</li>
 <li>The <strong>inner validation loop</strong> handles replacements without advancing to the next accepted score.</li>
 <li>The <strong>total and pass count are updated after validation</strong>, so rejected entries cannot affect either result.</li>
-<li>**<code>&gt;= 50</code>** includes the pass boundary.</li>
+<li><code>&gt;= 50</code> includes the pass boundary.</li>
 <li><strong>Real division</strong> calculates the mean after all five scores have been accepted.</li>
 </ul>
 <p>For accepted scores <code>0, 100, 49, 50, 75</code>, the outputs are <strong>Mean: 54.8</strong> and <strong>Passes: 3</strong>.</p></div></details></div><div class="qa-question" id="q39"><p><strong>39.</strong> Write a Python program for a five-question addition quiz. For each question, it must:</p>
@@ -328,7 +328,7 @@ print(&quot;Score:&quot;, correct_count)
 print(&quot;Percentage:&quot;, percentage)
 </code></pre>
 <ul>
-<li>**<code>randint(1, 12)</code> includes both endpoints.** Both calls are inside the loop, so each question gets a new pair.</li>
+<li><code>randint(1, 12)</code> includes both endpoints. Both calls are inside the loop, so each question gets a new pair.</li>
 <li>The <strong>score is initialised once</strong>, before the loop, and increases only for a correct response.</li>
 <li><strong>Selection</strong> gives the appropriate feedback for every response.</li>
 <li><strong>The percentage uses the number of questions</strong>, not the values of the random numbers.</li>
