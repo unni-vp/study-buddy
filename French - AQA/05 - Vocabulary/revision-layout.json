@@ -1,0 +1,39 @@
+{
+  "source": "Vocabulary - Revision Notes.md",
+  "groups": [
+    {
+      "id": "core",
+      "title": "Useful words and phrases",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Words as useful phrases"
+        },
+        {
+          "heading": "Time, amount and opinion"
+        },
+        {
+          "heading": "Topic word banks"
+        }
+      ]
+    },
+    {
+      "id": "detail",
+      "title": "Details and word families",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Numbers, dates and practical details"
+        },
+        {
+          "heading": "Similar-looking words and word families"
+        },
+        {
+          "heading": "Complete word list and recall"
+        }
+      ]
+    }
+  ]
+}

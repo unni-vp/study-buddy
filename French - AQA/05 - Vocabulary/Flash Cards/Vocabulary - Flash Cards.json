@@ -1,0 +1,214 @@
+{
+  "title": "Vocabulary flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: attendre.",
+      "back": [
+        "To wait for."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: actuellement.",
+      "back": [
+        "Currently."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: une librairie.",
+      "back": [
+        "A bookshop."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: demain.",
+      "back": [
+        "Tomorrow."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: hier.",
+      "back": [
+        "Yesterday."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: pourtant.",
+      "back": [
+        "Yet / however."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: assez.",
+      "back": [
+        "Enough."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: rarement.",
+      "back": [
+        "Rarely."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: la vie privée.",
+      "back": [
+        "Private life."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un emploi.",
+      "back": [
+        "A job."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Write seventy in French.",
+      "back": [
+        "soixante-dix."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Write eighty-one in French.",
+      "back": [
+        "quatre-vingt-un."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give two possible meanings of le temps.",
+      "back": [
+        "Time; weather."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give two possible meanings of une histoire.",
+      "back": [
+        "A story; history."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the difference between ou and où.",
+      "back": [
+        "Ou means **or**.",
+        "Où means **where**; the accent changes the meaning."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je n'aime plus ce film.",
+      "back": [
+        "I no longer like this film.",
+        "Plus with ne means no longer, not more here."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Il est huit heures et demie.",
+      "back": [
+        "It is half past eight / 8:30."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: neuf heures moins le quart.",
+      "back": [
+        "Quarter to nine / 8:45."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Le billet coûte quinze euros, mais demain il coûtera treize euros. Give today's and tomorrow's prices.",
+      "back": [
+        "Today: €15.",
+        "Tomorrow: €13."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give the English meaning of rapidement and identify its base adjective.",
+      "back": [
+        "Quickly; rapide (quick)."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: J'ai besoin de temps.",
+      "back": [
+        "I need time.",
+        "Learn **avoir besoin de** as a phrase."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "What is the difference between une journée and un voyage?",
+      "back": [
+        "Une journée is a day as a duration; un voyage is a journey or trip."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I take the bus because it is useful.",
+      "back": [
+        "Je prends le bus parce que c'est utile.",
+        "Prends is an irregular form of prendre."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Yesterday, I sent a message to my friend.",
+      "back": [
+        "Hier, j'ai envoyé un message à mon ami / amie.",
+        "Use the perfect for yesterday's finished action."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Normalement, je lis, mais aujourd'hui je préfère sortir.",
+      "back": [
+        "Normally, I read, but today I prefer to go out.",
+        "Keep the contrast and the two different activities."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain how impossible, préparation and deuxième relate to their base words.",
+      "back": [
+        "Impossible: opposite of possible.",
+        "Préparation: noun connected to préparer.",
+        "Deuxième: ordinal formed from deux."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate: J'attends mon ami devant la librairie. Ensuite, nous allons à la bibliothèque parce qu'il faut préparer nos examens.",
+      "back": [
+        "I am waiting for my friend outside/in front of the bookshop. Then we are going to the library because we need to prepare for our exams.",
+        "---",
+        "Attends means wait, librairie means bookshop, bibliothèque means library, and il faut expresses necessity."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate into French: My room is small, but it is quiet. Tomorrow, I am going to study there with my friends.",
+      "back": [
+        "Ma chambre est petite, mais elle est calme. Demain, je vais y étudier avec mes amis.",
+        "---",
+        "Chambre is feminine; petite agrees; elle refers to the room; y means there and precedes étudier."
+      ]
+    }
+  ]
+}
