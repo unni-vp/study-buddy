@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.3, exams from 2027",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "coverage": [
@@ -24,5 +24,62 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "questions_and_answers": {
+    "count": 29,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 25,
+          "marks": 6,
+          "prompt": "Convert binary `11001010` to decimal and hexadecimal. Add binary `00010101` to it, showing the binary result. Then apply a logical right shift of two places to the sum. State the shifted result in binary and decimal, and explain any lost information.",
+          "specification_section": "3.3"
+        },
+        {
+          "question": 26,
+          "marks": 6,
+          "prompt": "A bitmap is 320 pixels wide and 200 pixels high, with an 8-bit colour depth. Calculate its size in bits and bytes. The designer keeps the same dimensions but changes to 16 bits per pixel. Calculate the new byte size and explain the effect on the image. Which version meets a limit of 100,000 bytes? Ignore headers and metadata.",
+          "specification_section": "3.3"
+        },
+        {
+          "question": 27,
+          "marks": 6,
+          "prompt": "A ten-second mono recording uses a sampling rate of 12,000 Hz and 12 bits per sample. Calculate its uncompressed size in bits and kilobytes, using 1 kB = 1,000 bytes. Compare changing only the rate to 24,000 Hz with changing only the resolution to 24 bits. Explain why the two changes improve different aspects of the representation. Ignore headers and compression.",
+          "specification_section": "3.3"
+        },
+        {
+          "question": 28,
+          "marks": 7,
+          "prompt": "A Huffman code uses `A = 0`, `B = 10`, `C = 110`, `D = 111`. Encode `AAAABBCD`. Calculate the encoded size, its size using 7-bit ASCII and the number of bits saved. Decode `010110111`. Explain why the variable-length codes can be decoded unambiguously. Ignore the storage needed for the code table.",
+          "specification_section": "3.3"
+        },
+        {
+          "question": 29,
+          "marks": 7,
+          "prompt": "A monochrome image row is `0000000011110000`. Encode it as RLE frequency/value pairs. Each frequency is stored in 4 bits and each value in 1 bit. Calculate the encoded size and the saving compared with the raw row. Then calculate the encoded size of the alternating row `0101010101010101`. Explain why RLE helps one row more than the other and whether decoding loses pixel data. Ignore other overheads.",
+          "specification_section": "3.3"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 4,
+        "6": 5,
+        "7": 2
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   }
 }

@@ -172,3 +172,77 @@ The result is **01010011**.
 - Compression can reduce storage and transmission time.
 - Lossless compression retains all represented data but may save less space.
 - The student must balance required quality, duration, storage and transfer limits.
+
+**25.** Convert binary `11001010` to decimal and hexadecimal. Add binary `00010101` to it, showing the binary result. Then apply a logical right shift of two places to the sum. State the shifted result in binary and decimal, and explain any lost information.
+
+**Answer:**
+
+- Decimal: **128 + 64 + 8 + 2 = 202**.
+- Hexadecimal: `1100 1010` gives **CA**.
+
+```text
+  11001010
++ 00010101
+= 11011111
+```
+
+The sum is **223**. Shifting right twice gives **00110111**, which is **55** in decimal. Zeros enter on the left; the two rightmost bits, **11**, are discarded. This is the integer quotient of 223 ÷ 4, so the remainder is lost rather than retained as a fractional value.
+
+**26.** A bitmap is 320 pixels wide and 200 pixels high, with an 8-bit colour depth. Calculate its size in bits and bytes. The designer keeps the same dimensions but changes to 16 bits per pixel. Calculate the new byte size and explain the effect on the image. Which version meets a limit of 100,000 bytes? Ignore headers and metadata.
+
+**Answer:**
+
+- Original size: **320 × 200 × 8 = 512,000 bits**.
+- In bytes: **512,000 ÷ 8 = 64,000 bytes**.
+- New size: **320 × 200 × 16 ÷ 8 = 128,000 bytes**.
+- Doubling the colour depth **doubles the pixel-data size**.
+- More bits per pixel permit **more colour values**. The pixel dimensions are unchanged, so the image does not gain more spatial detail.
+- Only the **8-bit version** meets the 100,000-byte limit.
+
+**27.** A ten-second mono recording uses a sampling rate of 12,000 Hz and 12 bits per sample. Calculate its uncompressed size in bits and kilobytes, using 1 kB = 1,000 bytes. Compare changing only the rate to 24,000 Hz with changing only the resolution to 24 bits. Explain why the two changes improve different aspects of the representation. Ignore headers and compression.
+
+**Answer:**
+
+- Original size: **12,000 × 12 × 10 = 1,440,000 bits**.
+- Bytes: **1,440,000 ÷ 8 = 180,000 bytes = 180 kB**.
+- Doubling just the rate gives **360 kB**; doubling just the resolution also gives **360 kB**.
+- A higher **sampling rate** takes measurements more frequently, representing changes over time more closely.
+- A higher **sample resolution** provides more possible amplitude levels, reducing rounding of each measurement.
+- Equal file sizes do **not** mean identical sound representation: one option increases the number of samples; the other increases the precision of each sample.
+
+## 7 marks
+
+**28.** A Huffman code uses `A = 0`, `B = 10`, `C = 110`, `D = 111`. Encode `AAAABBCD`. Calculate the encoded size, its size using 7-bit ASCII and the number of bits saved. Decode `010110111`. Explain why the variable-length codes can be decoded unambiguously. Ignore the storage needed for the code table.
+
+**Answer:**
+
+- Encoding: `0 0 0 0 10 10 110 111`, or **00001010110111**.
+- Encoded size: **4 × 1 + 2 × 2 + 1 × 3 + 1 × 3 = 14 bits**.
+- ASCII size: **8 × 7 = 56 bits**.
+- Saving: **56 − 14 = 42 bits**.
+- Decoding `0 10 110 111` gives **ABCD**.
+- The code is **prefix-free**: no complete character code is the beginning of another character code, so each character boundary can be recognised.
+- The frequent A has the shortest code. In an actual file, the **code table or tree also needs storage**, so its overhead must be considered when comparing complete files.
+
+**29.** A monochrome image row is `0000000011110000`. Encode it as RLE frequency/value pairs. Each frequency is stored in 4 bits and each value in 1 bit. Calculate the encoded size and the saving compared with the raw row. Then calculate the encoded size of the alternating row `0101010101010101`. Explain why RLE helps one row more than the other and whether decoding loses pixel data. Ignore other overheads.
+
+**Answer:**
+
+- The first row gives **(8, 0), (4, 1), (4, 0)**.
+- Each pair needs **4 + 1 = 5 bits**; three pairs need **15 bits**.
+- Raw data needs **16 bits**, so the saving is **1 bit**.
+- The alternating row contains **16 runs of length 1**, requiring **16 × 5 = 80 bits**.
+- Its encoded form is therefore **64 bits larger** than its 16-bit raw form.
+- RLE replaces each run with a pair, so **long runs reduce repetition** while short runs add too much counting overhead.
+- It is **lossless**: the original row is recovered exactly by repeating each value the stated number of times.
+
+## Past-paper sources
+
+Original practice questions and tutor answers. Longer questions use tutor practice mark allocations, with independent checks against the current specification. They are not official marked questions or a prediction of future paper structure.
+
+- [Current specification](../../00%20-%20Specification/AQA-8525-specification-2027.pdf)
+- [AQA assessment resources](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+- [June 2022 Paper 2](../../00%20-%20Past%20papers/Paper%202/AQA-85252-QP-JUN22.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN22.PDF)
+- [June 2023 Paper 2](../../00%20-%20Past%20papers/Paper%202/AQA-85252-QP-JUN23.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN23.PDF)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.
