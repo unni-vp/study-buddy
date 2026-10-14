@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.1, exams from 2027",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "coverage": [
@@ -20,5 +20,62 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "questions_and_answers": {
+    "count": 29,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 25,
+          "marks": 6,
+          "prompt": "Trace this algorithm for inputs `4, 0, -2, 6, -1`, in that order. Record the total and count after each value is processed, state the final outputs and explain the role of `-1`.\n\n```text\ntotal ← 0\ncount ← 0\nnumber ← USERINPUT\nWHILE number ≠ -1\n    IF number > 0 THEN\n        total ← total + number\n        count ← count + 1\n    ENDIF\n    number ← USERINPUT\nENDWHILE\nOUTPUT total\nOUTPUT count\n```",
+          "specification_section": "3.1"
+        },
+        {
+          "question": 26,
+          "marks": 6,
+          "prompt": "Apply ascending bubble sort to `[5, 1, 4, 2]`. On each pass, compare adjacent items from left to right, stopping one position earlier on the next pass because the largest remaining item has reached its final position. Stop early if a pass makes no swaps.\n\nShow the list after every complete pass. Explain the swaps in the first pass and why the algorithm stops.",
+          "specification_section": "3.1"
+        },
+        {
+          "question": 27,
+          "marks": 6,
+          "prompt": "Show how merge sort puts `[8, 3, 7, 1]` into ascending order. Show the splitting and merging stages, and explain the comparisons in the final merge.",
+          "specification_section": "3.1"
+        },
+        {
+          "question": 28,
+          "marks": 7,
+          "prompt": "Design a pseudocode algorithm that inputs integers until `0` is entered. Zero is the stopping signal and must not be counted. Negative integers are valid data.\n\nOutput the number of data values and the largest one. If the first input is 0, output `No data` instead. Do not assume the largest value is positive.",
+          "specification_section": "3.1"
+        },
+        {
+          "question": 29,
+          "marks": 7,
+          "prompt": "The list `values` is already sorted in ascending order and `target` is already stored. Write Python that performs a **binary search** and outputs `True` if the target exists, or `False` if it does not. Do not use a built-in searching function. Your solution must also work for an empty list.",
+          "specification_section": "3.1"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 4,
+        "6": 5,
+        "7": 2
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   }
 }

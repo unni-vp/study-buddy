@@ -184,3 +184,143 @@ OUTPUT largest
 - Use sequence, selection and any required iteration with meaningful identifiers.
 - Trace the algorithm using normal, boundary and invalid values.
 - Correct any logic errors and confirm every route produces the required price or error message.
+
+**25.** Trace this algorithm for inputs `4, 0, -2, 6, -1`, in that order. Record the total and count after each value is processed, state the final outputs and explain the role of `-1`.
+
+```text
+total ← 0
+count ← 0
+number ← USERINPUT
+WHILE number ≠ -1
+    IF number > 0 THEN
+        total ← total + number
+        count ← count + 1
+    ENDIF
+    number ← USERINPUT
+ENDWHILE
+OUTPUT total
+OUTPUT count
+```
+
+**Answer:**
+
+| Input | Total | Count | Action |
+|---|---|---|---|
+| 4 | 4 | 1 | Add and count the positive value |
+| 0 | 4 | 1 | Ignore |
+| -2 | 4 | 1 | Ignore |
+| 6 | 10 | 2 | Add and count the positive value |
+| -1 | 10 | 2 | Stop before the loop body |
+
+The final outputs are **10** and **2**. The value **-1 is a sentinel**: it signals the end of input and is not included in the calculations. The algorithm totals and counts **positive** inputs, rather than all values before the sentinel.
+
+**26.** Apply ascending bubble sort to `[5, 1, 4, 2]`. On each pass, compare adjacent items from left to right, stopping one position earlier on the next pass because the largest remaining item has reached its final position. Stop early if a pass makes no swaps.
+
+Show the list after every complete pass. Explain the swaps in the first pass and why the algorithm stops.
+
+**Answer:**
+
+- Compare **5 and 1**, then swap: `[1, 5, 4, 2]`.
+- Compare **5 and 4**, then swap: `[1, 4, 5, 2]`.
+- Compare **5 and 2**, then swap: `[1, 4, 2, 5]`.
+
+| Complete pass | List | Swaps |
+|---|---|---|
+| 1 | `[1, 4, 2, 5]` | 3 |
+| 2 | `[1, 2, 4, 5]` | 1 |
+| 3 | `[1, 2, 4, 5]` | 0 |
+
+Each pass moves the **largest remaining item to the end of the unsorted part**. A pass with no swaps shows that the remaining adjacent pairs are already in order, so no further pass is needed.
+
+**27.** Show how merge sort puts `[8, 3, 7, 1]` into ascending order. Show the splitting and merging stages, and explain the comparisons in the final merge.
+
+**Answer:**
+
+| Stage | Sublists |
+|---|---|
+| Split once | `[8, 3]` and `[7, 1]` |
+| Split into single items | `[8]`, `[3]`, `[7]`, `[1]` |
+| Merge neighbouring single items | `[3, 8]` and `[1, 7]` |
+| Final merge | `[1, 3, 7, 8]` |
+
+During the final merge, compare the first unused item in each sorted sublist:
+
+- **3 versus 1:** take 1.
+- **3 versus 7:** take 3.
+- **8 versus 7:** take 7.
+- The second sublist is now empty, so copy the remaining **8**.
+
+The merge works because **each input sublist is already sorted**. It does not simply join the two sublists without checking their order.
+
+## 7 marks
+
+**28.** Design a pseudocode algorithm that inputs integers until `0` is entered. Zero is the stopping signal and must not be counted. Negative integers are valid data.
+
+Output the number of data values and the largest one. If the first input is 0, output `No data` instead. Do not assume the largest value is positive.
+
+**Answer:**
+
+```text
+count ← 0
+number ← USERINPUT
+WHILE number ≠ 0
+    IF count = 0 THEN
+        largest ← number
+    ELSE
+        IF number > largest THEN
+            largest ← number
+        ENDIF
+    ENDIF
+    count ← count + 1
+    number ← USERINPUT
+ENDWHILE
+IF count = 0 THEN
+    OUTPUT "No data"
+ELSE
+    OUTPUT count
+    OUTPUT largest
+ENDIF
+```
+
+**Initialising from the first data value** handles a sequence containing only negatives. The sentinel is tested before counting or comparing. The final selection avoids using an undefined largest value when there were no data values.
+
+For inputs `-8, -3, 0`, the outputs are **2** and **-3**. For input `0`, the only output is **No data**.
+
+**29.** The list `values` is already sorted in ascending order and `target` is already stored. Write Python that performs a **binary search** and outputs `True` if the target exists, or `False` if it does not. Do not use a built-in searching function. Your solution must also work for an empty list.
+
+**Answer:**
+
+```python
+low = 0
+high = len(values) - 1
+found = False
+
+while low <= high and not found:
+    middle = (low + high) // 2
+    if values[middle] == target:
+        found = True
+    elif target < values[middle]:
+        high = middle - 1
+    else:
+        low = middle + 1
+
+print(found)
+```
+
+- **Integer division** selects a valid middle index.
+- The comparison discards the half that cannot contain the target, **excluding the middle item already checked**.
+- **`low <= high`** allows the final remaining item to be checked and stops when the search area is empty.
+- An empty list starts with `high = -1`, so the loop never accesses an item and outputs `False`.
+
+For `[4, 9, 13, 18, 25, 31, 40]` and target `31`, the comparisons are **18, then 31**. For target `26`, they are **18, 31, 25**, then the search area becomes empty.
+
+## Past-paper sources
+
+Original practice questions and tutor answers. Longer questions use tutor practice mark allocations, with independent checks against the current specification. They are not official marked questions or a prediction of future paper structure.
+
+- [Current specification](../../00%20-%20Specification/AQA-8525-specification-2027.pdf)
+- [AQA assessment resources](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+- [June 2022 Paper 1](../../00%20-%20Past%20papers/Paper%201/AQA-85251B-QP-JUN22.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%201/AQA-85251-MS-JUN22.PDF)
+- [June 2023 Paper 1](../../00%20-%20Past%20papers/Paper%201/AQA-85251B-QP-JUN23.PDF) and [mark scheme](../../00%20-%20Past%20papers/Paper%201/AQA-85251-MS-JUN23.PDF)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.
