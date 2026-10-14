@@ -85,4 +85,6 @@ body[class*="subject-"] .flashcard-category{background:var(--accent-soft);color:
 .brand-mark,.inner-page .brand-mark{display:inline-block;flex-shrink:0;width:48px;height:48px;padding:0;border-radius:0;font-size:0;line-height:0;color:transparent;background:transparent url("study-buddy-logo.png") center/contain no-repeat}
 .inner-page .brand-mark{width:32px;height:32px}
 @font-face{font-family:Orbitron;src:url("fonts/Orbitron.ttf") format("truetype");font-style:normal;font-weight:400 900;font-display:swap}
-.brand-name{font-family:Orbitron,Segoe UI,Arial,sans-serif;font-weight:700;letter-spacing:.15px}
+.brand-name{font-family:Orbitron,Segoe UI,Arial,sans-serif;font-size:22px;line-height:1.3;font-weight:700;letter-spacing:.15px}
+.inner-page .brand-name{font-size:17px}
+@media(max-width:720px){.brand-name{font-size:21px}.inner-page .brand-name{font-size:16px}}
