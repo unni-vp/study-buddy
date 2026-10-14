@@ -41,7 +41,7 @@
   ],
   "mindmaps": [],
   "questions_and_answers": {
-    "count": 31,
+    "count": 36,
     "source": "Questions and Answers/Ethical legal and environmental impacts - Questions and Answers.md",
     "type": "Original practice with independent 2027 scope check",
     "paper_type_references": {
@@ -49,8 +49,8 @@
       "June 2023": "Q15 wearable benefits, privacy and legal responsibilities",
       "bank_mapping": {
         "29": "Original autonomous-bus adaptation of June 2022 Q5 discussion type",
-        "30": "Original fitness-watch/cloud adaptation of June 2023 Q15 type",
-        "31": "Additional current-specification government-versus-privacy evaluation",
+        "35": "Original fitness-watch/cloud adaptation of June 2023 Q15 type",
+        "36": "Additional current-specification government-versus-privacy evaluation",
         "all_other_questions": "Original retrieval/application practice covering the eight 3.8 contexts and environmental/privacy principles"
       }
     },
@@ -58,7 +58,63 @@
       "AQA 8525/2 June 2022",
       "AQA 8525/2 June 2023"
     ],
-    "frequency_claim": false
+    "frequency_claim": false,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      9
+    ],
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 30,
+          "marks": 6,
+          "prompt": "A company proposes replacing every staff laptop after two years and moving all files to cloud storage. Evaluate the environmental effects of this plan, including manufacture, energy use and disposal. Recommend ways to reduce harm without assuming that cloud storage is automatically greener.",
+          "specification_section": "3.8"
+        },
+        {
+          "question": 31,
+          "marks": 6,
+          "prompt": "A school introduces a mobile app for homework and messages. It collects pupil location continuously and can only be used on a recent smartphone. Discuss benefits and concerns, then recommend changes that retain the useful features.",
+          "specification_section": "3.8"
+        },
+        {
+          "question": 32,
+          "marks": 6,
+          "prompt": "A pupil discovers that a school's system appears poorly protected. They access another pupil's files to demonstrate the weakness, claiming that helping the school makes this acceptable. Discuss the ethical and legal issues and a more responsible response.",
+          "specification_section": "3.8"
+        },
+        {
+          "question": 33,
+          "marks": 6,
+          "prompt": "A connected medical implant sends readings to a clinic. Evaluate the benefits and the ethical risks of this connection, including reliability, unauthorised access and privacy. Give a balanced conclusion.",
+          "specification_section": "3.8"
+        },
+        {
+          "question": 34,
+          "marks": 7,
+          "prompt": "An employer proposes giving staff fitness watches to support a wellbeing scheme. Participation is described as optional, but managers want to use individual activity and location records when considering promotion. Evaluate this proposal, considering benefits, privacy, fairness and responsible handling of the information. Recommend a justified approach.",
+          "specification_section": "3.8"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 8,
+        "2": 10,
+        "3": 4,
+        "4": 6,
+        "6": 5,
+        "7": 1,
+        "9": 2
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   },
   "flashcards": {
     "count": 28,

@@ -208,9 +208,73 @@ The council must consider the applicable approval, insurance and responsibility 
 
 A suitable decision depends on demonstrated safety, clear operating limits, responsible data use and arrangements for affected staff. Technical novelty alone is not a reason to introduce the buses.
 
+**30.** A company proposes replacing every staff laptop after two years and moving all files to cloud storage. Evaluate the environmental effects of this plan, including manufacture, energy use and disposal. Recommend ways to reduce harm without assuming that cloud storage is automatically greener.
+
+**Answer:**
+
+**Manufacturing new devices** uses raw materials and energy, while frequently replacing usable machines increases demand for both. Reusing or repairing suitable laptops can extend their life, provided they remain secure and fit for their work.
+
+**Cloud storage still uses physical equipment**: remote servers, cooling and networks consume electricity. Local devices and networking also need energy. The comparison depends on usage, efficiency and how the equipment is operated, rather than the word cloud alone.
+
+Discarded machines create **electronic waste** and can contain materials that need careful handling. Responsible reuse and recycling can recover materials, while secure removal of stored data protects privacy during transfer or disposal.
+
+I would replace equipment **according to condition, support and need**, and compare realistic storage requirements and energy use before migrating. Repair, appropriate power management and planned reuse can reduce harm while preserving useful services.
+
+**31.** A school introduces a mobile app for homework and messages. It collects pupil location continuously and can only be used on a recent smartphone. Discuss benefits and concerns, then recommend changes that retain the useful features.
+
+**Answer:**
+
+The app could give pupils **quick access to homework and reminders**, helping them organise tasks. Messaging can make communication more convenient outside the classroom.
+
+However, requiring a recent phone risks **excluding pupils without a suitable device**. An accessible web or school-based alternative would reduce that inequality rather than treating ownership as a pupil's responsibility.
+
+**Continuous location collection** can reveal routines and movements. The school should establish whether this information is actually needed for homework messaging; collecting it simply because the phone permits it is not a sufficient purpose.
+
+I would retain homework and messages, provide **equivalent access without a personal smartphone**, and avoid unnecessary tracking. Any necessary personal information should have a clear purpose, appropriate protection and sensible retention arrangements. Convenience should not depend on unrelated monitoring.
+
+**32.** A pupil discovers that a school's system appears poorly protected. They access another pupil's files to demonstrate the weakness, claiming that helping the school makes this acceptable. Discuss the ethical and legal issues and a more responsible response.
+
+**Answer:**
+
+**Good intentions do not themselves give permission** to access somebody else's account or files. Unauthorised access can raise legal issues even if the pupil claims that no harm was intended.
+
+The other pupil's **privacy is affected** as soon as information is accessed. Copying or sharing it as proof could increase the harm and undermine trust in the school.
+
+The weakness is still important: ignoring it could leave other pupils exposed. A responsible response is to **report the concern through an appropriate school contact**, without opening more files or circulating personal information.
+
+Any further investigation should be **authorised and appropriately scoped**. The school can then correct and retest the weakness. Helping to improve security and respecting privacy are compatible; accessing private records without permission is not necessary to establish a useful concern.
+
+**33.** A connected medical implant sends readings to a clinic. Evaluate the benefits and the ethical risks of this connection, including reliability, unauthorised access and privacy. Give a balanced conclusion.
+
+**Answer:**
+
+Remote readings may help a clinic **notice changes between appointments**, while reducing some journeys and making monitoring more convenient. This can be valuable for people who find travel difficult.
+
+However, the service depends on **reliable devices, communication and software**. Missing or incorrect data could affect how the information is interpreted, so technical reliability and arrangements for interruptions matter.
+
+**Health information is sensitive**. Unauthorised access could reveal private details; inappropriate control of a connected device could have consequences beyond ordinary information theft. Access therefore needs strong protection and a clearly defined purpose.
+
+The connection can be beneficial when **reliable operation, protected access and responsible data use** are built into the service. People should understand what is collected and who can use it. Convenience alone does not justify unnecessary sharing or weak safeguards.
+
+## 7 marks
+
+**34.** An employer proposes giving staff fitness watches to support a wellbeing scheme. Participation is described as optional, but managers want to use individual activity and location records when considering promotion. Evaluate this proposal, considering benefits, privacy, fairness and responsible handling of the information. Recommend a justified approach.
+
+**Answer:**
+
+The watches could help participating staff **track activity and set personal goals**. A carefully designed voluntary scheme may support wellbeing, but that benefit does not establish a need for managers to see every person's detailed records.
+
+**Activity and location histories reveal private routines**, potentially including information outside working hours. Promotion decisions introduce a different purpose from personal wellbeing and may disadvantage staff whose circumstances or disabilities affect their activity patterns.
+
+The claim that the scheme is optional is weakened if refusing could **harm a person's promotion prospects**. People need meaningful choices and clear information about access and use, rather than pressure hidden behind a voluntary label.
+
+The employer should establish an **appropriate lawful basis and clear, limited purposes**, collect no more information than necessary, protect access and define retention. Stating that somebody agreed does not remove these other responsibilities.
+
+I would keep the scheme genuinely voluntary, avoid using personal fitness or movement records as a promotion measure, and limit any organisational reporting to a justified level of detail. This preserves a possible wellbeing benefit while reducing **unfair assessment and unnecessary surveillance**.
+
 ## 9 marks
 
-**30.** A technology company plans to sell fitness watches that store identifiable health and location data in the cloud. Discuss benefits, privacy risks and legal responsibilities.
+**35.** A technology company plans to sell fitness watches that store identifiable health and location data in the cloud. Discuss benefits, privacy risks and legal responsibilities.
 
 **Answer:**
 
@@ -220,7 +284,7 @@ The company needs an appropriate lawful basis, clear purposes and transparent ex
 
 Useful safeguards include strong account protection, limited permissions and clear retention arrangements. The product is more defensible if people can understand and control relevant choices without being forced to accept unnecessary tracking. Convenience does not justify unrestricted collection or unrelated use.
 
-**31.** A government proposes keeping all residents' location records to improve security. Evaluate the proposal.
+**36.** A government proposes keeping all residents' location records to improve security. Evaluate the proposal.
 
 **Answer:**
 
@@ -243,3 +307,5 @@ These are original practice questions and tutor answers. Question types were che
 - [June 2023 mark scheme](../../00%20-%20Past%20papers/Paper%202/AQA-85252-MS-JUN23.PDF)
 
 - [Official AQA assessment resource directory](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+
+The added 6–7 mark tasks are original consolidation and application practice. Mark values are tutor allocations rather than evidence that every topic has that exact mark value in official papers. Extended explanations need connected reasoning and, where requested, a justified judgement; a list of isolated words is insufficient.
