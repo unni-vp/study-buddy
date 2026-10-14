@@ -73,7 +73,7 @@ def write(page,title,content,crumbs=[],subject=None):
  if subject:page_class+=' subject-'+slug(short(subject))
  exam_label = '<span class="exam">Summer 2027</span>'
  if page == ROOT/'index.html':
-  exam_label = f'<a class="exam timetable-link" href="{link(page,ROOT/"timetable.html")}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18M7 15h3m4 0h3"/></svg><span>Exam timetable · Summer 2027</span></a>'
+  exam_label = ''
  page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a>{exam_label}</header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
 
 def resource_reader(source,subject,topic,topicpage):
@@ -179,7 +179,8 @@ home=ROOT/'index.html';cards=[]
 colours=['#243b64','#8a6500','#754394','#2f64a3','#9a4b19','#a63e72','#28734f','#6650a4','#116b68']
 for i,(subject,course) in enumerate(subjects.items()):
  cards.append(f'<a class="subject-card" style="--subject-colour:{colours[i]}" href="{link(home,ROOT/subject/"index.html")}"><div class="subject-card-top">{subject_icon(short(subject))}<span class="subject-code">{esc(course["code"])}</span></div><h2>{esc(short(subject))}</h2><p>{esc(subject.split(" - ")[-1])} · {esc(course["tier"])}</p><div><span>{len(course["topics"])} topics</span><span aria-hidden="true">→</span></div></a>')
-write(home,'Subjects',f'<p class="intro">Follow each topic from clear explanations to visual mind maps and questions with answers.</p><div class="subject-grid">'+''.join(cards)+f'</div><p class="library-note">{len(subjects)} subjects · {sum(len(c["topics"]) for c in subjects.values())} topics · {total_ready} topics with resources available</p>')
+home_timetable = f'<a class="exam timetable-link" href="{link(home,ROOT/"timetable.html")}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 11h18M7 15h3m4 0h3"/></svg><span>Exam timetable · Summer 2027</span></a>'
+write(home,'Subjects',f'<div class="home-panel-top"><p class="intro">Follow each topic from clear explanations to visual mind maps and questions with answers.</p>{home_timetable}</div><div class="subject-grid">'+''.join(cards)+f'</div><p class="library-note">{len(subjects)} subjects · {sum(len(c["topics"]) for c in subjects.values())} topics · {total_ready} topics with resources available</p>')
 timetable=ROOT/'timetable.html'
 write(timetable,'Exam timetable',render_timetable(ROOT,timetable,link))
 print('Built offline subject index, 9 subject contents pages, 73 topic pages and resource readers.')
