@@ -16,9 +16,9 @@ Read RESOURCE_GUIDELINES.md, project-config.json, the relevant subject README.md
 
 This file applies to all future work in this project.
 
-- Use the site_title from project-config.json (Shreya's Study Buddy) in the site header and browser titles. Keep the home page free of the Subjects breadcrumb, YOUR REVISION STARTS HERE preamble and Choose a subject heading. Omit the Subjects breadcrumb and topic/resource availability counts on subject landing pages too; retain useful breadcrumbs on topic and resource pages.
+- Use the site_title from project-config.json (Study Buddy) in the site header and browser titles. Keep the home page free of the Subjects breadcrumb, YOUR REVISION STARTS HERE preamble and Choose a subject heading. Omit the Subjects breadcrumb and topic/resource availability counts on subject landing pages too; retain useful breadcrumbs on topic and resource pages.
 - Keep Computer Science language choices and specification-version details in the project configuration rather than displaying a Python & pseudocode / revised 2027 specification line on its subject landing page.
-- Keep the Shreya's Study Buddy header smaller on inner pages, with a smaller wordmark and logo and reduced header height/padding. Preserve the larger home-page branding and keep the name linked to the home page.
+- Keep the Study Buddy header smaller on inner pages, with a smaller wordmark and logo and reduced header height/padding. Preserve the larger home-page branding and keep the name linked to the home page.
 
 - Store one combined Q&A document per topic in Questions and Answers; place each answer directly after its question. Prioritise recurring past-paper question types with verifiable sources.
 - Present each topic’s Q&A as one combined reading page, grouped only by increasing marks (1 mark, 2 marks and so on). Do not divide it into thematic menus or separate pages. Use plain numbered prompts, without individual question titles or repeated mark labels. Keep each answer immediately after its question. Link to a separate source directory from the Q&A page; keep specification mapping and review notes outside student resource folders.

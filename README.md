@@ -1,4 +1,4 @@
-# Shreya's Study Buddy
+# Study Buddy
 
 This project holds the official curriculum sources and topic folders for creating clear, focused revision resources aimed at **Grades 7-8**.
 
