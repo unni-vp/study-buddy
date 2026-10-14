@@ -1,0 +1,39 @@
+{
+  "source": "Speaking and reading aloud - Revision Notes.md",
+  "groups": [
+    {
+      "id": "short",
+      "title": "Role-play and reading aloud",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "The speaking tasks"
+        },
+        {
+          "heading": "Role-play: communicate exactly"
+        },
+        {
+          "heading": "Reading aloud with meaning"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Photos and conversation",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Describing both photos"
+        },
+        {
+          "heading": "Developing the conversation"
+        },
+        {
+          "heading": "Listening and recovering"
+        }
+      ]
+    }
+  ]
+}

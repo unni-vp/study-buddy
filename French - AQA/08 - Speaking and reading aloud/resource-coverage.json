@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "4.5 Higher role-play, minimum-50-word reading aloud and unprepared questions, two-photo task",
+    "4.8.2 official pronunciation/communication/language criteria and supervised preparation rules"
+  ],
+  "revision_groups": [
+    "Role-play and reading aloud",
+    "Photos and conversation"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 29,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Original speaking phrase practice and one five-task, 10-mark role-play. Short 1–4 mark groups are practice allocations. The two scene prompts are written contexts, not substitutes for the official two-photo card. Current assessment is role-play 10; reading aloud 5 plus holistic four-question conversation 10; photo description 5 plus unprepared conversation communication 15/language 5. No old-course prepared general-conversation model is used."
+  },
+  "flashcards": {
+    "count": 28,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}
