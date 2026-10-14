@@ -1,0 +1,242 @@
+{
+  "title": "Popular culture flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un cadeau.",
+      "back": [
+        "A present."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un gâteau.",
+      "back": [
+        "A cake."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un anniversaire.",
+      "back": [
+        "A birthday."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: la vie privée.",
+      "back": [
+        "Private life."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: une chanteuse.",
+      "back": [
+        "A female singer."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: célèbre.",
+      "back": [
+        "Famous."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: souvent.",
+      "back": [
+        "Often."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: rarement.",
+      "back": [
+        "Rarely."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: jouer du piano.",
+      "back": [
+        "To play the piano."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: jouer au football.",
+      "back": [
+        "To play football."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: J'aime ___ des livres. (lire / lis)",
+      "back": [
+        "lire."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: le week-end dernier.",
+      "back": [
+        "Last weekend."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je joue au tennis une fois par semaine parce que c'est amusant. Give the frequency and reason.",
+      "back": [
+        "Once a week.",
+        "Because it is fun."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: D'habitude, je lis, mais hier j'ai regardé un film. Give the usual activity and yesterday's activity.",
+      "back": [
+        "Usually reads.",
+        "Watched a film yesterday."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je préfère les petits concerts car ils sont moins chers. What does the person prefer, and why?",
+      "back": [
+        "Small concerts.",
+        "They are cheaper."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Pour mon anniversaire, j'ai invité mes amis et préparé un gâteau. Give two preparations.",
+      "back": [
+        "Invited friends.",
+        "Prepared a cake."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: La fête aura lieu dimanche, et je vais y aller avec ma sœur. Give when the celebration happens and who will accompany the speaker.",
+      "back": [
+        "Sunday.",
+        "Their sister."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Elle admire cette actrice parce qu'elle a du talent et aide les autres. Give two reasons for admiration.",
+      "back": [
+        "She has talent.",
+        "She helps others."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Être célèbre permet de voyager, mais on a moins de vie privée. Give the advantage and disadvantage.",
+      "back": [
+        "You can travel.",
+        "You have less privacy."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the different prepositions in jouer au tennis and jouer du piano.",
+      "back": [
+        "Games and sports use **jouer à**; à + le becomes au.",
+        "Musical instruments use **jouer de**; de + le becomes du."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask a friend when the music celebration takes place.",
+      "back": [
+        "Quand est-ce que la Fête de la musique a lieu ?",
+        "**Meaning:** When does the music celebration take place?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give a French opinion about a singer with a reason.",
+      "back": [
+        "J'aime cette chanteuse parce qu'elle a une belle voix.",
+        "**Meaning:** I like this singer because she has a beautiful voice."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I play the piano every day, but I prefer reading.",
+      "back": [
+        "Je joue du piano tous les jours, mais je préfère lire.",
+        "**Du piano** follows jouer de.",
+        "Keep **lire** as an infinitive after préfère."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Last Saturday, I watched a film with my friends.",
+      "back": [
+        "Samedi dernier, j'ai regardé un film avec mes amis.",
+        "**J'ai regardé** gives a completed past action.",
+        "**Mes amis** is plural."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Next year, I will organise a party at home.",
+      "back": [
+        "L'année prochaine, j'organiserai une fête à la maison.",
+        "**Organiserai** is the regular -er future.",
+        "An acceptable alternative is je vais organiser."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I would like to listen to more French music.",
+      "back": [
+        "J'aimerais écouter plus de musique française.",
+        "**J'aimerais + infinitive** expresses a wish.",
+        "**Française** agrees with musique."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Famous people can help others, but they have less privacy.",
+      "back": [
+        "Les personnes célèbres peuvent aider les autres, mais elles ont moins de vie privée.",
+        "**Peuvent** matches the plural subject.",
+        "The infinitive **aider** follows the modal."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "A female speaker says: Je suis allé au cinéma, puis j'ai mangé au restaurant. Correct the agreement and explain why the two verbs use different auxiliaries.",
+      "back": [
+        "Je suis **allée** au cinéma, puis j'ai mangé au restaurant.",
+        "Aller uses **être** in the perfect, with agreement to the female speaker.",
+        "Manger uses **avoir** here, so mangé does not take a subject-agreement -e."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Develop a balanced opinion in French about becoming famous, with one advantage, one difficulty and your own preference.",
+      "back": [
+        "Être célèbre peut être intéressant parce qu'on peut voyager et gagner de l'argent. Cependant, on a moins de vie privée et beaucoup de pression. Je préfère une vie calme avec ma famille.",
+        "---",
+        "The advantage is explained, the difficulty creates a contrast, and the final sentence gives a clear personal judgement."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Correct the errors: Je joue du football. J'aime regarde des films. Demain, j'ai regardé un concert. Mes amis est gentils.",
+      "back": [
+        "**Je joue au football:** a sport uses jouer à.",
+        "**J'aime regarder des films:** use an infinitive after aime.",
+        "**Demain, je vais regarder un concert:** the verb must fit the future time.",
+        "**Mes amis sont gentils:** a plural subject needs sont."
+      ]
+    }
+  ]
+}

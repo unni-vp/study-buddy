@@ -1,0 +1,53 @@
+{
+  "source": "Popular culture - Revision Notes.md",
+  "groups": [
+    {
+      "id": "leisure",
+      "title": "Free time and experiences",
+      "description": "Describe preferences, frequency and a recent activity.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Free-time activities"
+        },
+        {
+          "heading": "Preferences, reasons and frequency"
+        },
+        {
+          "heading": "Describing a recent experience"
+        }
+      ]
+    },
+    {
+      "id": "celebrations",
+      "title": "Customs and celebrations",
+      "description": "Explain traditions and compare past and future celebrations.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Customs, festivals and celebrations"
+        },
+        {
+          "heading": "Comparing celebrations and planning"
+        }
+      ]
+    },
+    {
+      "id": "fame",
+      "title": "Celebrity culture",
+      "description": "Explain admiration, weigh fame and develop your response.",
+      "icon": "literature-pen",
+      "sections": [
+        {
+          "heading": "Describing a celebrity"
+        },
+        {
+          "heading": "Fame: advantages and difficulties"
+        },
+        {
+          "heading": "Building a developed cultural answer"
+        }
+      ]
+    }
+  ]
+}

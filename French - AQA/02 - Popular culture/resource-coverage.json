@@ -1,0 +1,32 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "3.1.2 Free-time activities",
+    "3.1.2 Customs, festivals and celebrations",
+    "3.1.2 Celebrity culture",
+    "Linked grammar: jouer à/de, infinitives, opinions, frequency, completed past, agreement after être, comparisons and regular -er future/conditional"
+  ],
+  "revision_groups": [
+    "Free time and experiences",
+    "Customs and celebrations",
+    "Celebrity culture"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 32,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Theme 2 applies across all four papers. Writing sample Q2.1 includes leisure, celebration and future plans; Q3.2 includes celebrity culture. This bank uses new wording and original models with the same 90-word/three-bullet and 150-word/two-bullet task structures. All short marks are practice allocations, not a count of isolated official marking points."
+  },
+  "flashcards": {
+    "count": 30,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources",
+    "https://www.culture.gouv.fr/evenements-nationaux/fete-de-la-musique",
+    "https://www.elysee.fr/en/french-presidency/bastille-day-14-july"
+  ]
+}
