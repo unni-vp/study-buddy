@@ -1,0 +1,201 @@
+{
+  "title": "Reading and translation into English flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: actuellement.",
+      "back": [
+        "Currently."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: une librairie.",
+      "back": [
+        "A bookshop."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ne...que.",
+      "back": [
+        "Only."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: malgré.",
+      "back": [
+        "Despite."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: sauf.",
+      "back": [
+        "Except."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: trop cher.",
+      "back": [
+        "Too expensive."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: rapidement.",
+      "back": [
+        "Quickly."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: la semaine dernière.",
+      "back": [
+        "Last week."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à l'avenir.",
+      "back": [
+        "In future."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: je voudrais.",
+      "back": [
+        "I would like."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Ma sœur adore la musique, mais mon frère préfère lire. Give each person's preference.",
+      "back": [
+        "Sister: music.",
+        "Brother: reading."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Avant, je détestais le sport. Maintenant, je joue au tennis tous les jours. Give the earlier opinion and present activity.",
+      "back": [
+        "Used to hate sport.",
+        "Now plays tennis every day."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Le village est calme, mais il manque des magasins. Give an advantage and a disadvantage.",
+      "back": [
+        "It is quiet.",
+        "There is a lack of shops."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Les billets ne sont pas chers, mais le voyage est long. Give the positive and negative.",
+      "back": [
+        "Tickets are not expensive.",
+        "The journey is long."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je viens de finir mes devoirs.",
+      "back": [
+        "I have just finished my homework."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: J'habite ici depuis deux ans.",
+      "back": [
+        "I have lived here for two years.",
+        "The action still continues."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je ne regarde plus la télévision.",
+      "back": [
+        "I no longer watch television."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain what les refers to in Les livres sont chers, mais je les achète.",
+      "back": [
+        "The books. Les is a direct object pronoun replacing les livres."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Infer the meaning of impossible in Cette solution est impossible, and identify the word-family clue.",
+      "back": [
+        "Impossible; im- gives the opposite of possible."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Infer consommateur from consommer and a shopping context.",
+      "back": [
+        "A consumer. The agent ending refers to a person who consumes/buys products."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Hier, nous avons pris le bus parce que les billets étaient moins chers.",
+      "back": [
+        "Yesterday, we took the bus because the tickets were cheaper.",
+        "Keep the past event, reason and comparison."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Je voudrais travailler dans une librairie, mais ma sœur préfère la bibliothèque.",
+      "back": [
+        "I would like to work in a bookshop, but my sister prefers the library.",
+        "Do not confuse librairie and bibliothèque."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Il n'y a pas assez de bus, donc je vais à pied au collège.",
+      "back": [
+        "There are not enough buses, so I walk to school.",
+        "Not enough does not mean no buses."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Les amis que je retrouve au parc sont très gentils.",
+      "back": [
+        "The friends whom/that I meet in the park are very kind.",
+        "Que introduces the people met; très modifies kind."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate: L'année dernière, j'ai passé une semaine en France. La ville était belle, mais il pleuvait souvent. À l'avenir, je vais voyager en train.",
+      "back": [
+        "Last year, I spent a week in France. The town/city was beautiful, but it often rained / was often raining. In future, I am going to travel by train.",
+        "---",
+        "Preserve the completed visit, background weather, frequency and future plan."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Explain four checks to make after translating a passage into English.",
+      "back": [
+        "Every phrase is included.",
+        "Subjects and pronoun references are correct.",
+        "Time frames and negatives are preserved.",
+        "Numbers, comparisons and qualifiers retain their precise meanings."
+      ]
+    }
+  ]
+}

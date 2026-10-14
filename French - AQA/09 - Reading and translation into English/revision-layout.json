@@ -1,0 +1,39 @@
+{
+  "source": "Reading and translation into English - Revision Notes.md",
+  "groups": [
+    {
+      "id": "understanding",
+      "title": "Understand and infer",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Reading for the question"
+        },
+        {
+          "heading": "Opinions, changes and reference"
+        },
+        {
+          "heading": "Unfamiliar words and inference"
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "title": "Translate and check",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Translating meaning into English"
+        },
+        {
+          "heading": "Worked translation"
+        },
+        {
+          "heading": "Checking an answer"
+        }
+      ]
+    }
+  ]
+}
