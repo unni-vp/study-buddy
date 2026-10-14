@@ -1,0 +1,30 @@
+{
+  "downloaded": "2026-10-14",
+  "qualification": "AQA 8525; historic Paper 1 documents independently checked against 2027 programming content",
+  "documents": [
+    {
+      "file": "AQA-85251B-QP-JUN22.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-85251B-QP-JUN22.PDF",
+      "sha256": "b8c53317b668a6cfa7cf51b520246a81b6939dbf7d7f458938d5d21b4841eaf8",
+      "pages": 40
+    },
+    {
+      "file": "AQA-85251-MS-JUN22.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-85251-MS-JUN22.PDF",
+      "sha256": "bf7e27ebf6a71d97a1a8b72042e256c69e69eb3061c7518f229de53e8571256d",
+      "pages": 37
+    },
+    {
+      "file": "AQA-85251B-QP-JUN23.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-85251B-QP-JUN23.PDF",
+      "sha256": "6767013c28067e540ea3942d231b2b048539a8886581357d78808c54ac16fe45",
+      "pages": 36
+    },
+    {
+      "file": "AQA-85251-MS-JUN23.PDF",
+      "url": "https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2023/june/AQA-85251-MS-JUN23.PDF",
+      "sha256": "04ef1087412b9376884cf60ab11bea1c23a7adecb9fb5701079d72e02507bdcd",
+      "pages": 29
+    }
+  ]
+}

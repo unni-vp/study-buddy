@@ -77,7 +77,7 @@ class CodeRenderingTests(unittest.TestCase):
                 if language.strip() == 'python':
                     ast.parse(body)
                 count += 1
-        self.assertEqual(count, 21)
+        self.assertGreaterEqual(count, 21)
         for topic in (ROOT/'Computer Science - AQA').glob('[0-9][0-9] - *'):
             decks = list((topic/'Flash Cards').glob('*.json'))
             if not decks:

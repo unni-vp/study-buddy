@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-14",
   "specification": "AQA 8525 section 3.2, exams from 2027",
   "source": "../00 - Specification/AQA-8525-specification-2027.pdf",
   "coverage": [
@@ -27,5 +27,341 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "questions_and_answers": {
+    "count": 39,
+    "marks": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      9
+    ],
+    "extended_programming": [
+      {
+        "question": 32,
+        "marks": 7,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.2.1",
+          "3.2.2",
+          "3.2.3",
+          "3.2.4",
+          "3.2.7"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Meaningful identifiers",
+            "marks": 1
+          },
+          {
+            "criterion": "Selection structure",
+            "marks": 1
+          },
+          {
+            "criterion": "Nested selection or multiple conditions",
+            "marks": 1
+          },
+          {
+            "criterion": "Two converted and stored inputs",
+            "marks": 1
+          },
+          {
+            "criterion": "Membership boundary",
+            "marks": 1
+          },
+          {
+            "criterion": "Book quantity boundary",
+            "marks": 1
+          },
+          {
+            "criterion": "Correct rate and single final result",
+            "marks": 1
+          }
+        ],
+        "source_basis": "2022 Paper 1 Q8 conditional calculation"
+      },
+      {
+        "question": 33,
+        "marks": 7,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.1.3",
+          "3.2.2",
+          "3.2.6",
+          "3.2.7"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Input stored",
+            "marks": 1
+          },
+          {
+            "criterion": "Iteration",
+            "marks": 1
+          },
+          {
+            "criterion": "Indexed item access",
+            "marks": 1
+          },
+          {
+            "criterion": "Correct traversal bounds",
+            "marks": 1
+          },
+          {
+            "criterion": "Correct comparison",
+            "marks": 1
+          },
+          {
+            "criterion": "Initialisation and match flag",
+            "marks": 1
+          },
+          {
+            "criterion": "One correct final output",
+            "marks": 1
+          }
+        ],
+        "source_basis": "2023 Paper 1 Q12.2 indexed linear search"
+      },
+      {
+        "question": 34,
+        "marks": 7,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.2.2",
+          "3.2.10",
+          "3.2.11"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Named function",
+            "marks": 1
+          },
+          {
+            "criterion": "Two range parameters",
+            "marks": 1
+          },
+          {
+            "criterion": "Condition-controlled iteration",
+            "marks": 1
+          },
+          {
+            "criterion": "Converted local input",
+            "marks": 1
+          },
+          {
+            "criterion": "Correct invalid range condition",
+            "marks": 1
+          },
+          {
+            "criterion": "Replacement input in loop",
+            "marks": 1
+          },
+          {
+            "criterion": "Return valid result after validation",
+            "marks": 1
+          }
+        ],
+        "source_basis": "Current specification; related 2023 Paper 1 programming task structures"
+      },
+      {
+        "question": 37,
+        "marks": 9,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.2.2",
+          "3.2.5",
+          "3.2.7",
+          "3.2.11"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Stored credentials and meaningful names",
+            "marks": 1
+          },
+          {
+            "criterion": "Initialised Boolean state",
+            "marks": 1
+          },
+          {
+            "criterion": "Condition-controlled loop",
+            "marks": 1
+          },
+          {
+            "criterion": "Input pair stored",
+            "marks": 1
+          },
+          {
+            "criterion": "Attempt counter initialised and incremented once per pair",
+            "marks": 1
+          },
+          {
+            "criterion": "Maximum three attempts with early exit",
+            "marks": 1
+          },
+          {
+            "criterion": "Both credentials required",
+            "marks": 1
+          },
+          {
+            "criterion": "Success outcome",
+            "marks": 1
+          },
+          {
+            "criterion": "Failure after exhausted attempts",
+            "marks": 1
+          }
+        ],
+        "source_basis": "Current specification; related 2023 Paper 1 programming task structures"
+      },
+      {
+        "question": 38,
+        "marks": 9,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.2.2",
+          "3.2.3",
+          "3.2.11"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Total and counter initialisation",
+            "marks": 1
+          },
+          {
+            "criterion": "Five accepted scores",
+            "marks": 1
+          },
+          {
+            "criterion": "Integer input stored",
+            "marks": 1
+          },
+          {
+            "criterion": "Repeated range validation",
+            "marks": 1
+          },
+          {
+            "criterion": "Both endpoints handled",
+            "marks": 1
+          },
+          {
+            "criterion": "Rejected values excluded",
+            "marks": 1
+          },
+          {
+            "criterion": "Total accumulation",
+            "marks": 1
+          },
+          {
+            "criterion": "Inclusive pass count",
+            "marks": 1
+          },
+          {
+            "criterion": "Mean and final outputs",
+            "marks": 1
+          }
+        ],
+        "source_basis": "Current specification; related 2023 Paper 1 programming task structures"
+      },
+      {
+        "question": 39,
+        "marks": 9,
+        "status": "Original practice",
+        "specification_sections": [
+          "3.2.2",
+          "3.2.3",
+          "3.2.9"
+        ],
+        "practice_criteria": [
+          {
+            "criterion": "Random import and generator use",
+            "marks": 1
+          },
+          {
+            "criterion": "Five-question loop",
+            "marks": 1
+          },
+          {
+            "criterion": "Fresh pair each iteration",
+            "marks": 1
+          },
+          {
+            "criterion": "Both random endpoints correct",
+            "marks": 1
+          },
+          {
+            "criterion": "Question display and converted answer",
+            "marks": 1
+          },
+          {
+            "criterion": "Answer comparison",
+            "marks": 1
+          },
+          {
+            "criterion": "Correct score accumulation",
+            "marks": 1
+          },
+          {
+            "criterion": "Both feedback outcomes",
+            "marks": 1
+          },
+          {
+            "criterion": "Final score and percentage",
+            "marks": 1
+          }
+        ],
+        "source_basis": "Current specification; related 2023 Paper 1 programming task structures"
+      }
+    ],
+    "source_review": "Two historical Paper 1 Python papers (June 2022 and June 2023); no recurrence claims and no claim that nine-mark items occurred in that sample. New seven- and nine-mark tasks are original practice; allocations below are tutor criteria, not official mark schemes. All new code answers executed against normal, boundary and failure cases.",
+    "extended_practice_review": {
+      "reviewed": "2026-10-14",
+      "added": [
+        {
+          "question": 29,
+          "marks": 6,
+          "prompt": "Write a Python function `make_code(surname, year)` that returns the first three characters of `surname` followed by the last two digits of `year`. Return `Invalid` if the surname has fewer than three characters. Assume `year` is an integer from 2000 to 2099. Preserve the surname's capitalisation and return the result rather than printing it.",
+          "specification_section": "3.2"
+        },
+        {
+          "question": 30,
+          "marks": 6,
+          "prompt": "In this seating plan, `0` means free and `1` means booked:\n\n```python\nseats = [[0, 1, 0, 1],\n         [0, 0, 1, 1],\n         [1, 0, 0, 0]]\n```\n\nWrite a complete Python program that counts and outputs the free seats. Use **nested iteration**, rather than a built-in counting function, and make it work for other rectangular seating plans stored in `seats`.",
+          "specification_section": "3.2"
+        },
+        {
+          "question": 31,
+          "marks": 6,
+          "prompt": "This function should return the mean of a non-empty list of integer scores:\n\n```python\ndef mean_score(scores):\n    total = 0\n    for index in range(1, len(scores)):\n        total = total + scores[index]\n    return total // len(scores)\n```\n\nIdentify and explain two logic errors. Write a corrected function and give one test input with its expected result that shows the original function is wrong. Do not use `sum()`.",
+          "specification_section": "3.2"
+        },
+        {
+          "question": 35,
+          "marks": 7,
+          "prompt": "Write a Python function `count_matches(words, target)` that returns how many times `target` occurs in the list `words`. Matching is case-sensitive. Check every item yourself; do not use `.count()` or another built-in counting/searching function.\n\nThen write calling code that sets `words` to `[\"red\", \"blue\", \"red\", \"green\", \"red\"]`, inputs the target, calls the function and outputs the returned count. The function must use a local counter.",
+          "specification_section": "3.2"
+        },
+        {
+          "question": 36,
+          "marks": 7,
+          "prompt": "Write a Python function `next_letters(text)` that replaces each uppercase English letter with the next letter of the alphabet. `Z` must wrap round to `A`. For example, `AZ` becomes `BA`.\n\nAssume the string contains only `A`–`Z`, or is empty. Use `ord()` and `chr()`, build a new string and return it. The character code of `A` is 65 and that of `Z` is 90.",
+          "specification_section": "3.2"
+        }
+      ],
+      "mark_group_counts": {
+        "1": 6,
+        "2": 8,
+        "3": 7,
+        "4": 5,
+        "6": 5,
+        "7": 5,
+        "9": 3
+      },
+      "practice_allocations": true,
+      "specification_review": "Checked against current local AQA 8525 specification for first exams 2027; no additional mandatory content introduced",
+      "assessment_basis": "Historic Paper 1 coding tasks and Paper 2 application/discussion/calculation/SQL tasks; exact practice mark totals are not official predictions"
+    }
   }
 }
