@@ -1,0 +1,36 @@
+{
+  "source": "Phonics and sound symbol correspondences - Revision Notes.md",
+  "groups": [
+    {
+      "id": "vowels",
+      "title": "Vowels and nasal sounds",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "From letters to sounds"
+        },
+        {
+          "heading": "Clear vowel contrasts"
+        },
+        {
+          "heading": "Nasal vowels"
+        }
+      ]
+    },
+    {
+      "id": "connected",
+      "title": "Consonants and connected speech",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Consonant groups"
+        },
+        {
+          "heading": "Silent endings and liaison"
+        }
+      ]
+    }
+  ]
+}

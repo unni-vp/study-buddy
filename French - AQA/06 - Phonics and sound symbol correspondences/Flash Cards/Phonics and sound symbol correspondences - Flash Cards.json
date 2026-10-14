@@ -1,0 +1,216 @@
+{
+  "title": "Phonics and sound symbol correspondences flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Which letter group gives /u/ in sous?",
+      "back": [
+        "ou."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Which vowel is different from ou in dur?",
+      "back": [
+        "u."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What sound does qu usually make?",
+      "back": [
+        "/k/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What sound does French th make?",
+      "back": [
+        "/t/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What sound does ç make?",
+      "back": [
+        "/s/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Which final verb letters are silent in ils parlent?",
+      "back": [
+        "-ent."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Does the h in homme make an English h sound?",
+      "back": [
+        "No."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What linking sound can final s make in les amis?",
+      "back": [
+        "/z/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What linking sound can final x make in deux amis?",
+      "back": [
+        "/z/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What linking sound is heard in petit ami?",
+      "back": [
+        "/t/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "What consonant links in un ami?",
+      "back": [
+        "/n/."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Which sound group appears at the end of travail?",
+      "back": [
+        "-ail, /aj/."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain how your mouth position differs for u and ou.",
+      "back": [
+        "U: tongue forward, lips rounded.",
+        "Ou: tongue further back, lips rounded."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain what a nasal vowel means for grand.",
+      "back": [
+        "Some air passes through the nose. Do not add a separate strong n after its /ɑ̃/ vowel."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give two spellings that can represent the /o/ sound in beau.",
+      "back": [
+        "Au and eau. Closed o/ô can also represent it."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the pronunciation of infinitive parler and vous parlez endings.",
+      "back": [
+        "Both endings normally give /e/. Their different written endings still show different grammatical forms."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Why is ville an important exception when learning -ille?",
+      "back": [
+        "Ville has an /l/ sound, while words such as famille commonly have /j/. Not every -ille word follows one rule."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain why a single s differs in maison and chanson.",
+      "back": [
+        "In maison it lies between vowel sounds and is usually /z/. In chanson it is followed by a consonant and is /s/."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the difference between bon and bonne.",
+      "back": [
+        "Bon has a nasal vowel; bonne has a pronounced n and a non-nasal vowel. The doubled consonant changes the sound pattern."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain why et amis should not be read with a linking t.",
+      "back": [
+        "There is no liaison after **et**, even though the next word starts with a vowel."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "What changes between les hommes and les héros?",
+      "back": [
+        "Les hommes allows /z/ liaison. Héros has an h aspiré, which blocks liaison; neither h is pronounced like English h."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Compare French ch and j.",
+      "back": [
+        "Ch is /ʃ/ as in chose; j is voiced /ʒ/ as in jeunesse."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Identify the sound groups in beau, matin and campagne.",
+      "back": [
+        "Beau: eau, /o/.",
+        "Matin: in, /ɛ̃/.",
+        "Campagne: gn, /ɲ/."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Identify the sound groups in cœur, porte and application.",
+      "back": [
+        "Cœur: open œu, /œ/.",
+        "Porte: open o, /ɔ/.",
+        "Application: -tion, /sjɔ̃/."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain three pronunciation checks for Les petits enfants jouent.",
+      "back": [
+        "No liaison between les and petits, because petits starts with a consonant.",
+        "Petits enfants can link with /z/.",
+        "The verb ending -ent in jouent is silent."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Why can je parle, tu parles and ils parlent sound similar, but require different spellings?",
+      "back": [
+        "Regular -e/-es/-ent endings can be silent.",
+        "The subject identifies the person and number.",
+        "Written agreement is still required even when it is not audible."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "A learner says every final consonant is silent and every vowel-starting next word causes liaison. Correct both claims with examples.",
+      "back": [
+        "Many final consonants are silent, but **avec** has a final /k/.",
+        "Some final r sounds are heard, as in **partir**.",
+        "Liaison depends on the word combination: **les amis** allows it.",
+        "**Et amis** has no liaison after et."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Explain four checks when writing a sentence from dictation.",
+      "back": [
+        "Match letter groups to the heard vowel and consonant sounds.",
+        "Separate liaison sounds from the next word's spelling.",
+        "Use the subject to recover silent verb endings.",
+        "Check noun/adjective number and gender, including silent endings."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "Appendix 1: all 35 listed sound-symbol entries, including four separate liaison entries",
+    "Reading aloud, pronunciation and spelling links; key exceptions and connected rhythm"
+  ],
+  "revision_groups": [
+    "Vowels and nasal sounds",
+    "Consonants and connected speech"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 28,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Original sound recognition, pronunciation and spelling practice. The 35 entries correspond to Appendix 1; these short marks are not official pronunciation marks. Higher reading aloud is assessed holistically for pronunciation (5 marks), with a separate 10-mark conversation. Dictation is 10 marks; use the sample scheme for its complete-sentence marking rules."
+  },
+  "flashcards": {
+    "count": 28,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}
