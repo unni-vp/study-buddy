@@ -309,7 +309,7 @@ print(found)
 
 - **Integer division** selects a valid middle index.
 - The comparison discards the half that cannot contain the target, **excluding the middle item already checked**.
-- **`low <= high`** allows the final remaining item to be checked and stops when the search area is empty.
+- `low <= high` allows the final remaining item to be checked and stops when the search area is empty.
 - An empty list starts with `high = -1`, so the loop never accesses an item and outputs `False`.
 
 For `[4, 9, 13, 18, 25, 31, 40]` and target `31`, the comparisons are **18, then 31**. For target `26`, they are **18, 31, 25**, then the search area becomes empty.
