@@ -1,0 +1,201 @@
+{
+  "title": "Writing and translation into French flash cards",
+  "cards": [
+    {
+      "category": "Vocabulary",
+      "front": "How many compulsory bullets are in the 90-word task?",
+      "back": [
+        "Three."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "How many compulsory bullets are in the 150-word task?",
+      "back": [
+        "Two."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: parce que.",
+      "back": [
+        "Because."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: cependant.",
+      "back": [
+        "However."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: J'aime ___ (lire / lis).",
+      "back": [
+        "lire."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: Je vais ___ (jouer / joué).",
+      "back": [
+        "jouer."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: J'ai ___ (jouer / joué).",
+      "back": [
+        "joué."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à mon avis.",
+      "back": [
+        "In my opinion."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: beaucoup ___ livres.",
+      "back": [
+        "de."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: pour protéger.",
+      "back": [
+        "To protect / in order to protect."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Write I would like to help in French.",
+      "back": [
+        "Je voudrais aider."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Write I prefer reading because it is relaxing in French.",
+      "back": [
+        "Je préfère lire parce que c'est relaxant."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Write Yesterday, I visited a town in French.",
+      "back": [
+        "Hier, j'ai visité une ville."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Write Tomorrow, I am going to work in French.",
+      "back": [
+        "Demain, je vais travailler."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct: Mes amis est gentil.",
+      "back": [
+        "Mes amis **sont gentils**.",
+        "The subject, verb and adjective must agree."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct: Elle est allé en France.",
+      "back": [
+        "Elle est **allée** en France.",
+        "The past participle agrees with the feminine subject after être."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate into French: I have no brothers.",
+      "back": [
+        "Je n'ai pas de frères.",
+        "Use de after this negative."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "What should a writing plan record for each compulsory bullet?",
+      "back": [
+        "A direct answer and relevant development, such as a reason, example or detail. Identify any requested time frame too."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Why is a relative clause useful in un parc où je retrouve mes amis?",
+      "back": [
+        "It adds a relevant detail about the park and connects the place to what happens there."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give the mark split for the 90-word task.",
+      "back": [
+        "Communication: 10. Grammar: 5."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I have lived here for three years, and I like my town.",
+      "back": [
+        "J'habite ici depuis trois ans et j'aime ma ville.",
+        "Present + depuis describes the continuing situation."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Last weekend, I went to Paris with my sister.",
+      "back": [
+        "Le week-end dernier, je suis allé / allée à Paris avec ma sœur.",
+        "Use être and the speaker's agreement; Paris takes à."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Develop J'aime le sport with a reason and a particular activity.",
+      "back": [
+        "J'aime le sport parce que cela me détend. Je joue au tennis avec mes amis le samedi.",
+        "---",
+        "The reason explains the preference; the activity, company and time provide specific detail."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain the difference between je travaillerai, je vais travailler and je travaillerais.",
+      "back": [
+        "Je travaillerai: I will work, simple future.",
+        "Je vais travailler: I am going to work, near future.",
+        "Je travaillerais: I would work, conditional."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Correct: Hier, je vais au parc. J'aime joue. Ma sœur est allé. Il y a beaucoup des magasins.",
+      "back": [
+        "Hier, **je suis allé / allée** au parc.",
+        "J'aime **jouer**.",
+        "Ma sœur est **allée**.",
+        "Il y a beaucoup **de** magasins."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Develop a view of your town in French with a reason, drawback and proposed improvement.",
+      "back": [
+        "J'aime ma ville parce qu'elle est calme. Cependant, il n'y a pas assez de bus. Je voudrais améliorer les transports en commun pour aider les habitants.",
+        "---",
+        "The improvement directly addresses the stated problem. Pour + infinitive explains its purpose."
+      ]
+    }
+  ]
+}

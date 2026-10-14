@@ -1,0 +1,50 @@
+{
+  "source": "Writing and translation into French - Revision Notes.md",
+  "groups": [
+    {
+      "id": "compose",
+      "title": "Plan and develop",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "What each writing task needs"
+        },
+        {
+          "heading": "Planning and developing ideas"
+        },
+        {
+          "heading": "Choosing accurate language"
+        }
+      ]
+    },
+    {
+      "id": "models",
+      "title": "Worked writing models",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "A 90-word response"
+        },
+        {
+          "heading": "A 150-word response"
+        }
+      ]
+    },
+    {
+      "id": "accuracy",
+      "title": "Translate and check",
+      "description": "Key language, examples and common mistakes.",
+      "icon": "literature-book",
+      "sections": [
+        {
+          "heading": "Translating into French"
+        },
+        {
+          "heading": "Checking and using time"
+        }
+      ]
+    }
+  ]
+}

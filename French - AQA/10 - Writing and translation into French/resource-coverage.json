@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-10-14",
+  "specification": "AQA 8652 Higher, local v1.2 August 2026; first assessment 2026, target 2027",
+  "specification_sections": [
+    "4.7.2 Higher translation and 90-/150-word response formats",
+    "4.8 current holistic AO2/AO3 writing criteria; 90-word three-time-frame top band; 150-word two-bullet development"
+  ],
+  "revision_groups": [
+    "Plan and develop",
+    "Worked writing models",
+    "Translate and check"
+  ],
+  "mindmaps": [],
+  "questions_and_answers": {
+    "count": 29,
+    "format": "Original paired practice ordered by marks",
+    "assessment_review": "Original short writing/grammar practice plus original 10-mark minimum-50-word translation, 15-mark roughly-90-word three-bullet response and 25-mark roughly-150-word two-bullet response. These models are not official marked scripts. 90 words: AO2 10/AO3 5. 150 words: AO2 15/AO3 range 5 plus accuracy 5. Translation: holistic meaning 5 and vocabulary/grammar 5."
+  },
+  "flashcards": {
+    "count": 26,
+    "type": "Short bilingual retrieval and application; no category selector"
+  },
+  "sources": [
+    "../00 - Specification/AQA-8652-specification.pdf",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+    "https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources"
+  ]
+}
