@@ -57,5 +57,33 @@
     "additional_questions": 5,
     "total_questions": 29,
     "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+  },
+  "organisation_review": {
+    "reviewed": "2026-10-15",
+    "reason": "Integrate related additions within existing case-study headings instead of appending parallel mini-sections.",
+    "merged": [
+      {
+        "from_heading": "Compare the scales of response",
+        "into": "Long-term management"
+      },
+      {
+        "from_heading": "Compare demand and supply decisions",
+        "into": "Energy choices"
+      },
+      {
+        "from_heading": "Hinkley Point C: proposed benefits and present disruption",
+        "into": "Hinkley Point C: place, purpose and evaluation"
+      },
+      {
+        "from_heading": "Further case-study reading",
+        "into": "Case-study sources"
+      }
+    ],
+    "checks": {
+      "tables_unchanged": true,
+      "images_unchanged": true,
+      "numerical_facts_preserved": true
+    },
+    "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
   }
 }

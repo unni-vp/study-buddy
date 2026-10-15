@@ -57,14 +57,6 @@ Emergency services and volunteers used boats, supported evacuation and delivered
 
 These actions protected life but could not quickly empty such a large, low-lying area while surrounding water levels remained high.
 
-### Compare the scales of response
-
-| Scale | Named action | What it achieves and what limits it |
-|---|---|---|
-| **Local** | Evacuation, supplies and access support for places such as Muchelney. | Protects life and keeps isolated communities supplied; it does not remove the floodwater source. |
-| **Catchment and regional** | Dredging the Parrett and Tone, pumping and upstream water storage. | Improves conveyance and storage, but needs maintenance and can shift water or risk elsewhere. |
-| **National with local delivery** | Funding and coordination through the 20-Year Flood Action Plan. | Supports major works and long-term resilience; success depends on sustained funding and cooperation. |
-
 ### Long-term management
 
 - Sections of the **Parrett and Tone were dredged**. Dredging programmes in 2014, 2016 and 2018 removed about **270,500 m³ of silt**.
@@ -72,6 +64,12 @@ These actions protected life but could not quickly empty such a large, low-lying
 - **21 permanent pumping stations** help manage water levels.
 - The Somerset Rivers Authority coordinates maintenance, drainage, road resilience and natural flood management.
 - Upstream measures such as soil management, tree planting and temporary storage slow water before it reaches the Levels.
+
+| Scale | Named action | What it achieves and what limits it |
+|---|---|---|
+| **Local** | Evacuation, supplies and access support for places such as Muchelney. | Protects life and keeps isolated communities supplied; it does not remove the floodwater source. |
+| **Catchment and regional** | Dredging the Parrett and Tone, pumping and upstream water storage. | Improves conveyance and storage, but needs maintenance and can shift water or risk elsewhere. |
+| **National with local delivery** | Funding and coordination through the 20-Year Flood Action Plan. | Supports major works and long-term resilience; success depends on sustained funding and cooperation. |
 
 ### Evaluation
 
@@ -114,8 +112,6 @@ Use evidence in a chain: **saturated low-lying land + prolonged rain + restricte
 | **Tidal and wave** | Yes. | Tides are predictable; waves offer energy around exposed coasts. | High engineering costs, marine maintenance and effects on habitats or navigation. |
 | **Biomass and biogas** | Renewable if feedstock is replenished sustainably. | Organic material can provide controllable heat and electricity, including from waste. | Land, transport, combustion emissions and methane leakage affect sustainability. |
 
-### Compare demand and supply decisions
-
 **Renewable** describes whether a resource is replenished. **Low carbon** describes its emissions. They are different tests: nuclear is low carbon during operation but its uranium fuel is non-renewable. Biomass regrowth can replace feedstock, but production and transport can still cause emissions.
 
 Insulating a home reduces the energy it needs; building a power station increases supply. Comparing both avoids assuming that every future shortage must be solved by producing more energy.
@@ -134,8 +130,6 @@ Changes are influenced by:
 - public acceptance.
 
 Demand also changes with population, industry, transport, household technology and energy efficiency.
-
-### Read a dated electricity mix
 
 ![Zero-based bar chart of UK electricity generation in 2024: renewables 50.4%, fossil fuels 31.8%, nuclear 14.2% and other fuels 3.6%](diagrams/uk-electricity-2024.svg)
 
@@ -156,9 +150,9 @@ The long-term pattern is a move away from coal and towards renewable electricity
 
 #### Place, purpose and scale
 
-Hinkley Point C is being built on the Somerset coast beside earlier nuclear stations. It will use **two reactors** and is designed to supply electricity for about **six million homes** for around **60 years**, equal to roughly **7% of UK electricity demand**.
+Hinkley Point C is **under construction** on the Somerset coast beside earlier nuclear stations. It will use **two reactors** and is designed to supply electricity for about **six million homes** for around **60 years**, equal to roughly **7% of UK electricity demand**.
 
-The project received its Development Consent Order in **March 2013**. Its national purpose is to provide dependable, low-operational-carbon electricity and improve energy security.
+The project received its Development Consent Order in **March 2013**. Its national purpose is to provide dependable, low-operational-carbon electricity and improve energy security. Planned generation begins only once the station is operating; construction impacts occur before that benefit is available.
 
 #### Economic and social benefits
 
@@ -175,13 +169,7 @@ Nuclear generation produces low carbon emissions during operation, but construct
 
 #### Evaluation
 
-Hinkley Point C offers very large, dependable low-carbon output and substantial employment. Its drawbacks are high cost, long construction, local disruption and responsibility for nuclear waste. It is strongest as one part of a diverse low-carbon system rather than the only solution.
-
-### Hinkley Point C: proposed benefits and present disruption
-
-Hinkley Point C is **under construction**, so its planned generation is a future benefit, not electricity already being supplied. EDF describes output sufficient for around **six million homes** once operating. The local costs of construction occur before that output begins.
-
-The geographical issue is a difference in **scale and time**. National consumers may gain long-term energy security, while nearby communities face current traffic, accommodation demand and landscape change. Construction jobs and supply contracts benefit some people, but do not remove the need to manage those local impacts.
+Hinkley Point C offers very large, dependable low-carbon output and substantial employment. Its drawbacks are high cost, long construction, local disruption and responsibility for nuclear waste. The balance depends on **scale and time**: national consumers may gain long-term energy security, while nearby communities face construction traffic, accommodation demand and landscape change. Jobs and supply contracts benefit some people, but local impacts still need management. The station is strongest as one part of a diverse low-carbon system.
 
 ### Dryholme Farm, Silloth, Cumbria
 
@@ -232,6 +220,10 @@ Dryholme is most sustainable when it uses nearby wastes and residues, prevents m
 - [Cumberland Council planning record: Dryholme anaerobic digestion](https://cumberland.moderngov.co.uk/Data/ABC%20Development%20Panel/201002091215/Agenda/Development%20Panel%20-%202%202009%200864.pdf)
 - [Environment Agency public register: Dryholme Farm](https://environment.data.gov.uk/public-register/waste-operations/registration/EB3800HM?__pageState=result-waste-operations)
 
+- [DESNZ: DUKES 2025, electricity statistics for 2024](https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025)
+- [EDF: Hinkley Point C project](https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c)
+- [Somerset Council: the 2014 floods and long-term response](https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/)
+
 ## Evaluating a strategy
 
 Use four tests:
@@ -248,9 +240,3 @@ Use four tests:
 - Compare supply schemes with demand reduction.
 - Know how the UK energy mix has changed and why.
 - Use Hinkley Point C and Dryholme Farm to evaluate contrasting energy strategies.
-
-### Further case-study reading
-
-- [DESNZ: DUKES 2025, electricity statistics for 2024](https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025)
-- [EDF: Hinkley Point C project](https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c)
-- [Somerset Council: the 2014 floods and long-term response](https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/)
