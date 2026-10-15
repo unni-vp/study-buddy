@@ -1,0 +1,53 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "River Wye": [
+      {
+        "booklet_claims": "700 m descent; upland Wales; Hereford; Bristol Channel",
+        "decision": "Added approximate descent; retain named source Plynlimon, settlements and precise Severn Estuary outlet."
+      },
+      {
+        "booklet_claims": "Upper habitats, rapids, farming, salmon, woodland and tourism",
+        "decision": "Retained downstream process table; added Hay festival, irrigation, historic charcoal and shipbuilding. Do not assert an unnamed removed waterfall or a universal limestone upper course."
+      },
+      {
+        "booklet_claims": "200,000 residents and 9,000 properties at risk",
+        "decision": "Added textbook estimate of 9,000 at-risk properties. Textbook population concerns the Wye AND Usk valleys, so do not assign it to Wye alone."
+      },
+      {
+        "booklet_claims": "Livox and Tintern quarrying",
+        "decision": "Retain Livox and restoration explanation. Do not call Tintern an unrestricted activity centre without access confirmation."
+      },
+      {
+        "booklet_claims": "Letton Lakes; 20% afforestation reduction; Elan releases 110 days",
+        "decision": "Retain zoning, interception, slope stability and named NFM pilot with dates/140 landowners. Exact percentages and release schedule lack a securely identified event/baseline; do not claim reservoirs simply stop Wye water."
+      }
+    ],
+    "North Norfolk": [
+      {
+        "booklet_claims": "Chalk, flint, glacial clay; Holkham; Blakeney; Stiffkey",
+        "decision": "Added named contrasts and sediment/dune links; retain cliff processes."
+      },
+      {
+        "booklet_claims": "January 2013 surge at Blakeney and Wells",
+        "decision": "Correct to 5–6 December 2013; retain named locations and distinguish flooding from erosion."
+      },
+      {
+        "booklet_claims": "Shipden and Keswick lost in last century",
+        "decision": "Do not repeat inaccurate universal date: these are historical losses over different periods. Use documented Happisburgh retreat."
+      },
+      {
+        "booklet_claims": "Sheringham rock armour; Cromer sea wall; Holkham boardwalks; Sea Palling",
+        "decision": "Retain/strengthen named examples. Sea Palling beach retention is linked to offshore breakwaters, not sea wall alone. Hunstanton gabions/Wells groynes require site/date-specific confirmation; avoid mislabelling current defences."
+      },
+      {
+        "booklet_claims": "Fishing, flint buildings, farmland and beach huts",
+        "decision": "Retain tourism, fishing, farmland and homes as assets; core physical/management explanation takes precedence over an unsupported harbour claim."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}

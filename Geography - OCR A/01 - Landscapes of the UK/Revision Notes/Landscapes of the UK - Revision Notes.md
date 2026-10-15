@@ -106,18 +106,15 @@ Upstream, a river usually has a steep gradient, a narrow channel and more vertic
 
 ### Place and context
 
-The **River Wye** is about **251 km long**. It rises on **Plynlimon** in the Cambrian Mountains of mid-Wales, flows through places including Hay-on-Wye, Hereford and Monmouth, and joins the Severn Estuary near Chepstow.
+The **River Wye** is about **251 km long** and descends roughly **700 m** from upland Wales towards sea level. It rises on **Plynlimon** in the Cambrian Mountains of mid-Wales, flows through places including Hay-on-Wye, Hereford and Monmouth, and joins the Severn Estuary near Chepstow.
 
 This is a useful whole-river case study because its landscape changes from wet uplands to broad lowlands and then to a deeply cut lower valley.
 
 ### Geology and relief
 
-**Main point:** geology controls resistance, valley shape and drainage.
+**Rock resistance:** Much of the catchment is underlain by **Old Red Sandstone**. In the lower Wye, more resistant **Carboniferous Limestone** helps produce steep wooded gorges around places such as **Symonds Yat**. Softer alluvium on the floodplains is more easily eroded and deposited.
 
-- Much of the catchment is underlain by **Old Red Sandstone**.
-- The lower Wye cuts through more resistant **Carboniferous Limestone**, helping form steep wooded gorges around places such as **Symonds Yat**.
-- Softer alluvium on lower floodplains is easier to erode and deposit.
-- Steep upland slopes encourage rapid runoff. Gentler downstream relief allows wider floodplains and meanders to develop.
+**Slope and drainage:** Steep upland slopes encourage rapid runoff and vertical erosion. Gentler downstream relief allows broader floodplains and meanders to develop. Geology can interrupt this general pattern, explaining why a steep gorge occurs in the lower course.
 
 ### River processes and landforms
 
@@ -139,7 +136,9 @@ The Wye shows that a textbook downstream pattern is useful, but local geology ca
 
 About **58% of the Wye Valley National Landscape is farmland** and about **27% is woodland**. Farming shapes field patterns and can compact soil or add sediment and nutrients to water. Settlements, roads, tourism, canoeing and walking bring income but add pressure to habitats and river access.
 
-Built surfaces speed runoff. Removing vegetation or compacting soils reduces interception and infiltration, so water reaches channels faster.
+**Water use and pollution:** Farmers abstract river water for irrigation. Fertilisers, manure and sediment can enter the river, so farm management must protect water quality as well as maintain food production. Built surfaces speed runoff, while removing vegetation or compacting soil reduces interception and infiltration. Water then reaches channels faster.
+
+**Tourism and heritage:** Canoeing, fishing and walking depend on the river and its scenery. The annual **Hay-on-Wye literature festival** brings visitors and spending. Historically, woodland supplied charcoal and timber for shipbuilding, changing vegetation and land use.
 
 **Livox Quarry, south of Tintern**, is a named example of limestone extraction in the lower Wye. Quarrying removes rock and vegetation, changes slopes and creates access and transport demands. It also provides useful stone and employment. Restoration can create exposed geological features and wildlife habitats, so the long-term effect depends on how the site is managed.
 
@@ -147,13 +146,13 @@ The physical change can be explained as a chain: **rock extraction → altered r
 
 ### Flood risk and management
 
-Communities such as Hereford and Monmouth can flood after prolonged rainfall. Warnings and local defences reduce immediate risk, but hard defences may be costly and can move water downstream.
+Communities such as Hereford and Monmouth can flood after prolonged rainfall. The published textbook case study estimates around **9,000 properties** at particular flood risk in the area; this is an estimate of exposure, not a count of properties flooded in one event. Warnings and local defences reduce immediate risk, but hard defences may be costly and can move water downstream.
 
 The **Herefordshire Natural Flood Management pilot (2018–2021)** worked with more than **140 landowners**. Measures included restoring ponds, planting trees or hedges and using barriers that slow runoff. These store water in the landscape before it reaches the river.
 
 ### Evaluation
 
-Natural flood management can reduce peak flow, improve habitats and trap sediment. It needs many landowners and a large area, and it cannot prevent every flood during exceptional rainfall. The strongest strategy combines upstream slowing and storage with warnings and targeted protection for settlements.
+Natural flood management can reduce peak flow, improve habitats and trap sediment. It needs many landowners and a large area, and it cannot prevent every flood during exceptional rainfall. The strongest strategy combines upstream slowing and storage with warnings and targeted protection for settlements. **Floodplain zoning** also keeps new development away from high-risk land. Tree roots stabilise slopes and reduce erosion, while planting increases interception; neither measure guarantees that flooding will stop.
 
 ### Exam pointer
 
@@ -193,28 +192,25 @@ The North Norfolk coast faces the North Sea. Named places include **Cromer**, **
 
 ### Why the coast is vulnerable
 
-**Main point:** weak geology and powerful marine conditions produce rapid change.
+**Weak cliffs:** Many cliffs contain **sands, silts, clays and gravels** deposited during the last two million years. Waves use hydraulic action and abrasion at the cliff foot, while rainwater saturates the material and encourages slumping. At **Happisburgh**, this combination causes soft cliffs to retreat. Chalk and flint also occur along the coast, including harder outcrops near **Cromer**, so resistance varies between places.
 
-- Many cliffs contain weak **sands, silts, clays and gravels** deposited during the last two million years.
-- Rainwater saturates the cliffs, increasing slumping and landslides.
-- Destructive waves use hydraulic action and abrasion at the cliff foot.
-- North Sea storms and high tides can sharply increase erosion and flood risk.
+**Low land and storm surges:** North Sea storms and high tides increase erosion and flood risk. On **5–6 December 2013**, a major storm surge affected the east coast, including places such as **Blakeney and Wells-next-to-Sea**. Low pressure and strong winds raised sea level, allowing water to overtop low coastal land when combined with high tide. **Flooding** covers land with water, whereas **erosion** removes land; the same storm can cause both.
 
-At **Happisburgh**, soft cliffs retreat as waves remove the base and saturated material collapses. At **Cromer**, the seafront and valuable infrastructure justify stronger protection.
-
-On **5–6 December 2013**, a North Sea storm surge affected the east coast. Low pressure and strong winds raised sea level; when this coincides with high tide, water can overtop low coastal land. This is **flooding**, while cliff retreat is **erosion**. One event can cause both, but they are different processes.
+**Assets at risk:** Homes, roads, tourism businesses, fishing and farmland depend on this changing coastline. Cromer's seafront and valuable infrastructure help justify stronger protection. At less densely developed locations, the cost of continuous defence is harder to justify, creating conflict with residents at risk of losing property.
 
 ### Sediment movement and depositional landforms
 
 Eroded cliff material enters the coastal sediment system. **Longshore drift** moves it westwards along parts of the coast. Where wave energy falls, sediment builds beaches and depositional features.
 
-**Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast.
+**Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast. At **Holkham**, a wide beach and shallow seabed expose sand at low tide. Wind blows dry sand inland, where marram grass traps it and helps dunes develop. Salt marshes, including **Stiffkey**, also trap sediment and provide a natural buffer.
 
 ### Management at Cromer
 
 Cromer uses a **sea wall, groynes and beach management**. The wall protects the promenade, town and infrastructure; groynes retain beach sediment so the wider beach absorbs wave energy.
 
 These defences protect a high-value settlement and tourism economy. They are expensive to maintain, can look intrusive and may reduce sediment moving along the coast.
+
+**Other named defences:** At **Sheringham**, rock armour absorbs wave energy. **Sea Palling** combines a sea wall with offshore rock breakwaters that encourage sediment to collect behind them. These are different structures: the wider beach is linked to the breakwaters and beach management, rather than a sea wall stopping longshore drift by itself.
 
 ### Adaptation at Happisburgh
 
@@ -255,3 +251,7 @@ Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to ret
 - Use **because**, **therefore** and **this leads to** to build explanations.
 - For each case study, link **place + process + landscape feature + human influence**.
 - When evaluating management, consider effectiveness, cost, people, environment and effects elsewhere.
+
+- [Publisher textbook sample: River Wye land use and flood exposure](https://www.hoddereducation.com/media/Documents/Geography/9781510477520_Sample.pdf)
+
+- [North Norfolk: coastal defence survey, including Sea Palling](https://jobs.north-norfolk.gov.uk/media/3130/c2ws_appendix_a_coastal_defence_condition_survey_update.pdf)
