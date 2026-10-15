@@ -67,6 +67,18 @@ A **Geographical Information System** stores, layers and analyses location-based
 | Direction and frequency | Rose chart |
 | Values at places on a map | Proportional symbols |
 
+### Read the labels before explaining a graph
+
+Start with **what is measured, where, when and in which units**. A chart of UK electricity generation cannot describe all energy consumption. A historical disaster map cannot automatically describe the present day. A population pyramid shows age and sex, but its shape alone does not establish why people migrated or births changed.
+
+| Presentation | What to check | What you can reasonably conclude |
+|---|---|---|
+| **Measured chart** | Year, source, units, scale and category definitions. | Describe the pattern with values and keep the conclusion within that dataset. |
+| **Model diagram** | Which relationships are simplified and what is left out. | Explain the model’s proposed pattern, without treating it as measured data for a particular country. |
+| **Disaster map** | Time span, event definition, reporting and whether values are totals or rates. | Compare the recorded pattern, then consider exposure and vulnerability as well as the hazard. |
+
+**Percentage points and percentage change are different.** If one generation share is 50.4% and another is 31.8%, the difference is **18.6 percentage points**. Percentage change instead divides the change by a starting value and multiplies by 100.
+
 ### Scatter graphs
 
 - Put the possible cause on the x-axis and the possible effect on the y-axis.
@@ -163,3 +175,7 @@ A strong conclusion:
 - Quote evidence when describing a pattern.
 - Separate description (**what**) from explanation (**why**).
 - Evaluate the method, data and conclusion rather than saying only “get more data”.
+
+### Further case-study reading
+
+- [DESNZ: DUKES 2025, definitions and electricity statistics](https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025)
