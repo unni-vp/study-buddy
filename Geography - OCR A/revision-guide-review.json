@@ -1,0 +1,223 @@
+{
+  "reviewed": "2026-10-15",
+  "guide_title": "GCSE Geography Revision Guide — full revision booklet.docx",
+  "guide_url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "guide_snapshot_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+  "source_handling": "Read the public published guide. Rephrase factual content, recreate selected diagrams from editable SVG code, verify time-sensitive case-study evidence against primary sources, and preserve original source PDFs. The complete third-party guide and downloaded review images are not redistributed.",
+  "tables": {
+    "1": "Upland, lowland and glaciated landscapes",
+    "2": "Weathering, mass movement, erosion, transport and deposition",
+    "3": "River Wye course, processes and uses",
+    "4": "Urban trends: causes and consequences",
+    "5": "Energy resources: classification, uses, benefits and limitations",
+    "6": "Ecosystems: distribution, climate, producers and animals",
+    "7": "Development indicators: meanings, strengths and limitations",
+    "8": "Neutral Pacific, El Niño and La Niña"
+  },
+  "topic_reviews": [
+    {
+      "topic": "01 - Landscapes of the UK",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        1,
+        2,
+        3
+      ],
+      "diagrams_recreated": [
+        "waterfall-retreat",
+        "oxbow-lake",
+        "longshore-drift"
+      ],
+      "corrections_and_exclusions": [
+        "Guide dates the east-coast surge January 2013; use 5–6 December 2013.",
+        "Do not repeat unverified Wye afforestation 20% or Letton Lakes engineered-storage claims.",
+        "Glaciation is not mutually exclusive with upland/lowland; limestone and chalk resistance varies by setting."
+      ],
+      "primary_sources": [
+        "https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/",
+        "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge",
+        "https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf"
+      ],
+      "additional_questions": 4,
+      "total_questions": 28,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "02 - People of the UK",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        4
+      ],
+      "diagrams_recreated": [
+        "demographic-transition",
+        "population-pyramid"
+      ],
+      "corrections_and_exclusions": [
+        "MediaCity opened in 2011; do not copy the guide’s 2007 relocation claim.",
+        "Guide UK trade, income, migration and population figures are historical, not current; retain dated census evidence and avoid obsolete EU-membership assumptions.",
+        "Population-pyramid artwork is an explicitly illustrative model, not copied 2016 UK figures."
+      ],
+      "primary_sources": [
+        "https://leedscarnival.co.uk/press-room/",
+        "https://www.salford.gov.uk/planning-building-and-regeneration/regeneration/mediacity-and-salford-quays/"
+      ],
+      "additional_questions": 4,
+      "total_questions": 28,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "03 - UK environmental challenges",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        5
+      ],
+      "diagrams_recreated": [
+        "uk-electricity-2024",
+        "anaerobic-digestion"
+      ],
+      "corrections_and_exclusions": [
+        "Guide incorrectly calls nuclear renewable; uranium is non-renewable.",
+        "Guide energy pie chart is undated/historic; replace with dated DUKES 2025 electricity shares for 2024, separate from total energy.",
+        "Do not carry forward obsolete 2050 carbon target, subsidy assertions or construction cost forecasts as current facts.",
+        "Dryholme retains verified 1 MW and planning estimate about 1,200 homes, not guide 4,000.",
+        "Hinkley C is under construction; separate proposed generation from current impacts."
+      ],
+      "primary_sources": [
+        "https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025",
+        "https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c",
+        "https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/"
+      ],
+      "additional_questions": 5,
+      "total_questions": 29,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "04 - Ecosystems of the planet",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        6
+      ],
+      "diagrams_recreated": [
+        "rainforest-nutrient-cycle",
+        "coral-symbiosis"
+      ],
+      "corrections_and_exclusions": [
+        "Correct the guide’s coral-is-plant and reef-feeding simplifications: coral is an animal; algae photosynthesise; polyps also feed.",
+        "Do not copy fixed 2040 reef-death prediction or conflate Exuma Cays with Andros.",
+        "Differentiate Arctic from Antarctic fauna; camel humps store fat.",
+        "Do not import unsupported guide 95% illegal logging, 10 million hectare corridor or project savings figures.",
+        "Name Camisea accurately and distinguish potential risks from verified universal impacts."
+      ],
+      "primary_sources": [
+        "https://visitaareasnaturales.sernanp.gob.pe/anps/parque-nacional-del-manu/",
+        "https://publications.iadb.org/en/economic-and-ecological-impact-natural-resource-extraction-case-camisea-gas-project-peru",
+        "https://bnt.bs/explore/andros/west-side-national-park/",
+        "https://www.bahamas.com/vendor/crab-replenishment-reserve"
+      ],
+      "additional_questions": 5,
+      "total_questions": 28,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "05 - People of the planet",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        7
+      ],
+      "diagrams_recreated": [
+        "rostow-model"
+      ],
+      "corrections_and_exclusions": [
+        "Do not repeat guide claim that Pope Francis came from Rosario.",
+        "Use Rosario municipal population with its year and boundary, not an undated metropolitan 1.3 million.",
+        "IDB approval for Rosario Hábitat was 2001; do not claim all programme stages began in 2000.",
+        "Do not turn guide historical Ethiopian indicators or political descriptions into current facts.",
+        "Retain sourced urban-agriculture figures with dates; do not mix 800 gardens / 40,000 people from unspecified programme phases."
+      ],
+      "primary_sources": [
+        "https://www.oxfamamerica.org/explore/stories/a-traditional-form-of-help-allows-families-to-rebuild-herds-in-ethiopia/",
+        "https://www.iadb.org/en/project/AR0262",
+        "https://www.rosario.gob.ar/inicio/index.php/node/514"
+      ],
+      "additional_questions": 5,
+      "total_questions": 28,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "06 - Environmental threats to our planet",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [
+        8
+      ],
+      "diagrams_recreated": [
+        "atmospheric-circulation",
+        "enso-patterns"
+      ],
+      "corrections_and_exclusions": [
+        "The 2002–2009 drought was not one continuous El Niño; retain multiple physical influences and demand.",
+        "Correct wind and warm-water directions; no fixed 8°C or half-metre difference applies to every ENSO event.",
+        "Do not reproduce the guide’s historical 1974–2003 drought/famine-disaster map as current drought frequency.",
+        "Use tropical cyclone for Australian storms; avoid guide’s willy-willy terminology.",
+        "Do not assert a universal increase in storm numbers or one inevitable disaster for each ENSO phase."
+      ],
+      "primary_sources": [
+        "https://www.noaa.gov/jetstream/tropical/enso/enso-patterns",
+        "https://www.bom.gov.au/climate/history/enso/",
+        "https://www.bom.gov.au/climate/current/annual/aus/2002/",
+        "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/"
+      ],
+      "additional_questions": 4,
+      "total_questions": 27,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    },
+    {
+      "topic": "07 - Geographical skills",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+      "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+      "tables_adapted": [],
+      "diagrams_recreated": [],
+      "corrections_and_exclusions": [
+        "Use models as models and dated measurements as measurements.",
+        "Do not infer present hazard frequency directly from the guide’s historical disaster-count map."
+      ],
+      "primary_sources": [
+        "https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025"
+      ],
+      "additional_questions": 3,
+      "total_questions": 27,
+      "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+    }
+  ],
+  "diagram_learning_purposes": {
+    "waterfall-retreat": "Show differential erosion, visible undercutting, collapse, a plunge pool and upstream retreat.",
+    "oxbow-lake": "Distinguish a neck cut-through from later isolation by deposited sediment.",
+    "longshore-drift": "Show oblique swash and perpendicular backwash as a connected sediment route.",
+    "demographic-transition": "Show death rates falling before birth rates within a schematic model.",
+    "population-pyramid": "Practise age/sex reading with separate percentage scales and explicitly illustrative data.",
+    "uk-electricity-2024": "Compare dated electricity-generation shares on a zero-based scale, without confusing electricity with total energy.",
+    "anaerobic-digestion": "Separate the biogas energy route from the digestate nutrient route.",
+    "rainforest-nutrient-cycle": "Show the three main stores and correctly directed nutrient transfers.",
+    "coral-symbiosis": "Explain the reciprocal food/shelter partnership and the effect of heat stress.",
+    "rostow-model": "Show the proposed stage sequence without presenting it as a measured or inevitable path.",
+    "atmospheric-circulation": "Connect rising/sinking air with latitude and pressure belts.",
+    "enso-patterns": "Compare westward trade winds, warm-water distribution and shifted rain risk."
+  },
+  "additional_questions": 30,
+  "new_mind_maps": 8,
+  "readability": "Shared AGENTS.md and RESOURCE_GUIDELINES.md now require clear, complete sentences, coherent paragraphs and retained key facts for all subjects. Geography additions explain causal links and distinguish examples, measurements, models, planned outcomes and evaluations.",
+  "fieldwork": "Preserve school-supplied Liverpool and River Alyn methods and qualitative findings. No invented values or site-specific results. Remove authoring-status messages from student notes.",
+  "verification": [
+    "All eight note readers checked at desktop, 390px and 320px; diagrams loaded and tables fit or scroll.",
+    "New Q&A banks preserve native collapsed answers and bulk controls.",
+    "Eight new mind maps checked for section/text collisions and physical font size.",
+    "Reader and modal proofs match on one A4 landscape sheet with 11.21 pt body text.",
+    "Every new diagram and A4 mind-map proof inspected visually.",
+    "Original source specification coverage and local website links checked."
+  ]
+}

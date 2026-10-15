@@ -21,4 +21,8 @@ The PDF is the source of truth. The matching .txt file is a searchable convenien
 
 ## School-specific details
 
-The ten school case studies are recorded in [CASE_STUDIES.md](CASE_STUDIES.md). Human fieldwork: Liverpool city. Physical fieldwork: River Alyn. Liverpool methods are recorded in CASE_STUDIES.md. Liverpool enquiry and qualitative findings are recorded in the fieldwork topic. Both Liverpool and River Alyn enquiries and qualitative findings are recorded. Numerical data, precise procedures and evaluation remain to be supplied. Energy examples and the Ethiopia aid project are also recorded in CASE_STUDIES.md.
+The confirmed school case studies are recorded in [CASE_STUDIES.md](CASE_STUDIES.md). Human fieldwork: Liverpool city. Physical fieldwork: River Alyn. Liverpool methods are recorded in CASE_STUDIES.md. Liverpool enquiry and qualitative findings are recorded in the fieldwork topic. Both Liverpool and River Alyn enquiries and qualitative findings are recorded. Numerical data, precise procedures and evaluation remain to be supplied. Energy examples and the Ethiopia aid project are also recorded in CASE_STUDIES.md.
+
+## Revision-guide review
+
+The [school revision guide](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub) informed the expanded comparisons, case-study explanations and visual resources. Corrections, table mappings, source decisions and verification are recorded in revision-guide-review.json.
