@@ -129,8 +129,6 @@ This is a useful whole-river case study because its landscape changes from wet u
 
 The Wye shows that a textbook downstream pattern is useful, but local geology can create steep scenery even in the lower course.
 
-### Compare the Wye along its course
-
 | Part of the river | Landscape and process | Human connection |
 |---|---|---|
 | **Upper Wye: Plynlimon** | Wet uplands, steep gradients and comparatively narrow valleys encourage rapid runoff and vertical erosion. | Grazing and changes in vegetation affect how quickly rainfall reaches the channel. |
@@ -142,8 +140,6 @@ The Wye shows that a textbook downstream pattern is useful, but local geology ca
 About **58% of the Wye Valley National Landscape is farmland** and about **27% is woodland**. Farming shapes field patterns and can compact soil or add sediment and nutrients to water. Settlements, roads, tourism, canoeing and walking bring income but add pressure to habitats and river access.
 
 Built surfaces speed runoff. Removing vegetation or compacting soils reduces interception and infiltration, so water reaches channels faster.
-
-### Quarrying and a changing landscape
 
 **Livox Quarry, south of Tintern**, is a named example of limestone extraction in the lower Wye. Quarrying removes rock and vegetation, changes slopes and creates access and transport demands. It also provides useful stone and employment. Restoration can create exposed geological features and wildlife habitats, so the long-term effect depends on how the site is managed.
 
@@ -206,15 +202,13 @@ The North Norfolk coast faces the North Sea. Named places include **Cromer**, **
 
 At **Happisburgh**, soft cliffs retreat as waves remove the base and saturated material collapses. At **Cromer**, the seafront and valuable infrastructure justify stronger protection.
 
+On **5–6 December 2013**, a North Sea storm surge affected the east coast. Low pressure and strong winds raised sea level; when this coincides with high tide, water can overtop low coastal land. This is **flooding**, while cliff retreat is **erosion**. One event can cause both, but they are different processes.
+
 ### Sediment movement and depositional landforms
 
 Eroded cliff material enters the coastal sediment system. **Longshore drift** moves it westwards along parts of the coast. Where wave energy falls, sediment builds beaches and depositional features.
 
 **Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast.
-
-### Storm surges and coastal flooding
-
-On **5–6 December 2013**, a North Sea storm surge affected the east coast. Low pressure and strong winds raised sea level; when this coincides with high tide, water can overtop low coastal land. This is **flooding**, while cliff retreat is **erosion**. One event can cause both, but they are different processes.
 
 ### Management at Cromer
 
@@ -228,17 +222,15 @@ Continuous hard defence is harder to justify where the coast is long, weak and l
 
 This creates conflict: national policy considers cost and sustainability, while residents experience direct loss. Compensation, planning controls, warning and help with relocation can reduce harm but do not stop erosion.
 
-### Holkham: protect the dunes while allowing access
-
-**Holkham’s beach and dunes** show how deposition and vegetation create a natural buffer. Wind moves dry sand inland; plants such as marram trap sand, and their roots help bind it. The dunes absorb some storm energy and support specialist habitats.
-
-Visitors bring spending but trampling can damage vegetation, exposing loose sand to erosion. **Boardwalks and steps** concentrate access onto durable routes. This is a softer management approach than a sea wall: it supports natural processes, but needs visitor cooperation and cannot guarantee protection from every storm.
-
 ### Shoreline planning and evaluation
 
 Shoreline Management Plans look ahead for roughly **100 years** and select approaches such as **hold the line**, **managed realignment** or **no active intervention**.
 
 Hard engineering is most defensible where many people, services and economic assets are concentrated. Allowing change elsewhere preserves sediment movement and avoids ever-rising defence costs, but the social cost to smaller communities can be severe. Management should therefore be judged by effectiveness, cost, environmental effects and fairness.
+
+**Holkham’s beach and dunes** show how deposition and vegetation create a natural buffer. Wind moves dry sand inland; plants such as marram trap sand, and their roots help bind it. The dunes absorb some storm energy and support specialist habitats.
+
+Visitors bring spending but trampling can damage vegetation, exposing loose sand to erosion. **Boardwalks and steps** concentrate access onto durable routes. This is a softer management approach than a sea wall: it supports natural processes, but needs visitor cooperation and cannot guarantee protection from every storm.
 
 ### Exam pointer
 
@@ -252,6 +244,10 @@ Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to ret
 - [North Norfolk District Council: the changing coast](https://www.north-norfolk.gov.uk/tasks/coastal-management/find-out-more-about-the-north-norfolk-coast/)
 - [North Norfolk District Council: Shoreline Management Plans](https://www.north-norfolk.gov.uk/tasks/coastal-management/view-shoreline-management-plans/)
 
+- [Holkham: dunes and visitor access](https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/)
+- [Met Office: storm surges](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge)
+- [Wye Valley: quarry restoration and management](https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf)
+
 ## High-yield checklist
 
 - Define each process precisely.
@@ -259,9 +255,3 @@ Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to ret
 - Use **because**, **therefore** and **this leads to** to build explanations.
 - For each case study, link **place + process + landscape feature + human influence**.
 - When evaluating management, consider effectiveness, cost, people, environment and effects elsewhere.
-
-### Further case-study reading
-
-- [Holkham: dunes and visitor access](https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/)
-- [Met Office: storm surges](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge)
-- [Wye Valley: quarry restoration and management](https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf)

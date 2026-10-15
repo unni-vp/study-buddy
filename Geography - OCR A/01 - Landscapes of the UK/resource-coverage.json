@@ -64,5 +64,37 @@
     "additional_questions": 4,
     "total_questions": 28,
     "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+  },
+  "organisation_review": {
+    "reviewed": "2026-10-15",
+    "reason": "Integrate related additions within existing case-study headings instead of appending parallel mini-sections.",
+    "merged": [
+      {
+        "from_heading": "Compare the Wye along its course",
+        "into": "River processes and landforms"
+      },
+      {
+        "from_heading": "Quarrying and a changing landscape",
+        "into": "Human use and pressure"
+      },
+      {
+        "from_heading": "Storm surges and coastal flooding",
+        "into": "Why the coast is vulnerable"
+      },
+      {
+        "from_heading": "Holkham: protect the dunes while allowing access",
+        "into": "Shoreline planning and evaluation"
+      },
+      {
+        "from_heading": "Further case-study reading",
+        "into": "Case-study sources"
+      }
+    ],
+    "checks": {
+      "tables_unchanged": true,
+      "images_unchanged": true,
+      "numerical_facts_preserved": true
+    },
+    "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
   }
 }
