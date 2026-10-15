@@ -58,5 +58,37 @@
     "additional_questions": 5,
     "total_questions": 28,
     "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+  },
+  "organisation_review": {
+    "reviewed": "2026-10-15",
+    "reason": "Integrate related additions within existing case-study headings instead of appending parallel mini-sections.",
+    "merged": [
+      {
+        "from_heading": "How one disturbance spreads through the ecosystem",
+        "into": "Threats and consequences"
+      },
+      {
+        "from_heading": "A named development pressure: Camisea",
+        "into": "Threats and consequences"
+      },
+      {
+        "from_heading": "Protected forests and community management",
+        "into": "Sustainable management"
+      },
+      {
+        "from_heading": "Why damage can affect livelihoods",
+        "into": "Interdependence and value; Threats"
+      },
+      {
+        "from_heading": "Andros: protect connected habitats",
+        "into": "Protection and sustainable use"
+      }
+    ],
+    "checks": {
+      "tables_unchanged": true,
+      "images_unchanged": true,
+      "numerical_facts_preserved": true
+    },
+    "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
   }
 }

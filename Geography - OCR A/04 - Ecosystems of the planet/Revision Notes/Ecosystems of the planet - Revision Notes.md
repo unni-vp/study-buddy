@@ -63,12 +63,6 @@ The Peruvian Amazon lies east of the Andes and forms part of the much larger Ama
 - Decomposers rapidly recycle dead matter, and shallow roots absorb nutrients.
 - Transpiration returns water to the atmosphere and helps maintain rainfall.
 
-### How one disturbance spreads through the ecosystem
-
-Clearing trees removes habitats and the main nutrient store. Less leaf litter reaches the ground, while fewer roots absorb and retain nutrients. Exposed soil receives heavier raindrop impact, increasing erosion and leaching. Lower interception and transpiration also alter water movement, with more rapid runoff and less moisture returned to the atmosphere.
-
-This is **interdependence**: a change in vegetation affects soil, water, animals and people together. A forest’s value is therefore more than the price of its timber.
-
 ### Threats and consequences
 
 - **Commercial and small-scale farming** clear land for crops and cattle.
@@ -79,7 +73,9 @@ This is **interdependence**: a change in vegetation affects soil, water, animals
 
 From **2005 to 2015**, Peru lost more than **134,000 hectares of forest per year on average**. The World Bank reported that land-use change produced **more than half of Peru's greenhouse-gas emissions**. Deforestation destroys habitats, releases stored carbon, increases erosion and disrupts water recycling.
 
-### A named development pressure: Camisea
+Clearing trees removes habitats and the main nutrient store. Less leaf litter reaches the ground, while fewer roots absorb and retain nutrients. Exposed soil receives heavier raindrop impact, increasing erosion and leaching. Lower interception and transpiration also alter water movement, with more rapid runoff and less moisture returned to the atmosphere.
+
+This is **interdependence**: a change in vegetation affects soil, water, animals and people together. A forest’s value is therefore more than the price of its timber.
 
 The **Camisea natural gas project**, operating since **2004**, develops gas resources in the Peruvian Amazon. Gas production can supply energy, employment and revenue. However, extraction sites and pipelines introduce infrastructure into a sensitive forest landscape and raise concerns about habitats and Indigenous communities.
 
@@ -94,13 +90,11 @@ The trade-off is not simply jobs against trees. Decisions about access routes, s
 
 Between **2015 and 2021**, a World Bank-supported programme helped recognise **253 native communities** and title **58 communities covering about 230,000 hectares**. Peru's **FOLUR** project, running from **2023 to 2029**, supports deforestation-free coffee and cocoa across **17 provinces**.
 
-**Evaluation:** Protection works best when local people receive both secure rights and reliable incomes. Rules alone may fail where enforcement is weak or illegal activity is profitable.
-
-### Protected forests and community management
-
 **Manu National Park** is a named protected forest in Peru. The wider **Purús–Manu conservation corridor** connects protected and community-managed areas. Connected habitats allow movement between areas and can reduce the isolation caused by fragmentation.
 
 Protected status still needs enforcement and community support. Secure land rights and income from sustainable activities give people a practical reason and greater ability to conserve forest. A boundary on a map alone cannot prevent illegal extraction.
+
+**Evaluation:** Protection works best when local people receive both secure rights and reliable incomes. Rules alone may fail where enforcement is weak or illegal activity is profitable.
 
 ## Coral reef processes
 
@@ -131,6 +125,8 @@ Andros is the largest island in The Bahamas. Its barrier reef stretches for abou
 - The reef absorbs wave energy, reducing coastal erosion and storm damage.
 - Diving, fishing and nature tourism create jobs and income.
 
+At **Andros**, reef fish gain food and shelter from connected reef, seagrass and mangrove habitats. Young fish using nursery areas may later move into other habitats. Removing nursery vegetation can therefore affect fisheries beyond the cleared location.
+
 ### Threats
 
 - Marine heat causes **bleaching** and can kill coral.
@@ -138,10 +134,6 @@ Andros is the largest island in The Bahamas. Its barrier reef stretches for abou
 - Pollution and sediment reduce water quality and light.
 - Dredging and coastal development damage habitats.
 - Overfishing removes important species, while invasive lionfish disrupt food webs.
-
-### Why damage can affect livelihoods
-
-At **Andros**, reef fish gain food and shelter from connected reef, seagrass and mangrove habitats. Young fish using nursery areas may later move into other habitats. Removing nursery vegetation can therefore affect fisheries beyond the cleared location.
 
 Overfishing can disturb food webs, while sediment and polluted water reduce the conditions needed for healthy coral and algae. Tourism depends on attractive, living habitats, so anchor damage or careless contact can undermine the income that visitors bring. Warming seas add a threat that local tourism rules cannot solve on their own.
 
@@ -153,13 +145,11 @@ Overfishing can disturb food webs, while sediment and polluted water reduce the 
 - Eco-tourism provides income while giving businesses a reason to conserve the reef.
 - Monitoring identifies bleaching, disease and changes in coral or fish populations.
 
-**Evaluation:** Marine parks help only when boundaries are understood, rules are enforced and nearby pollution or overfishing is also controlled. Climate-driven heat stress cannot be solved by local management alone.
-
-### Andros: protect connected habitats
-
 The **West Side National Park** protects tidal flats and mangrove creeks on western Andros, providing nursery habitat for species such as bonefish and tarpon. This complements reef protection elsewhere around the island; it is not the same location as the eastern barrier reef. The **Crab Replenishment Reserve** conserves land-crab habitat and breeding stocks.
 
 These examples show that sustainable management must protect the **whole habitat network**, as well as regulate fishing and visitor behaviour. Local habitat protection improves resilience, but wider greenhouse-gas reductions are needed to limit marine heat stress.
+
+**Evaluation:** Marine parks help only when boundaries are understood, rules are enforced and nearby pollution or overfishing is also controlled. Climate-driven heat stress cannot be solved by local management alone.
 
 ## Exam links to remember
 
@@ -175,8 +165,6 @@ These examples show that sustainable management must protect the **whole habitat
 - [Government of The Bahamas: About Andros](https://www.bahamas.com/the-islands/andros/about-andros)
 - [Bahamas Protected Areas Register](https://bahamasprotected.com/protected-areas/register/)
 - [The Nature Conservancy: Bahamas coral reef report card](https://www.nature.org/media/bahamas/bahamas-coral-reef-report-card.pdf)
-
-### Further case-study reading
 
 - [SERNANP: Manu National Park](https://visitaareasnaturales.sernanp.gob.pe/anps/parque-nacional-del-manu/)
 - [IDB: Camisea economic and ecological study](https://publications.iadb.org/en/economic-and-ecological-impact-natural-resource-extraction-case-camisea-gas-project-peru)
