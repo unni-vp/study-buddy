@@ -48,7 +48,7 @@ Do not say high pedestrian flow definitely **caused** higher environmental quali
 
 ### Evaluation ideas
 
-The school account does not contain numerical results, site details or the investigation's recorded limitations. Suitable improvements to discuss as proposals include:
+Evaluate how the sampling and measurement choices affect confidence in the results. Possible improvements include:
 
 - Use the same scoring rules and trained observers to reduce personal judgement in the environmental-quality survey.
 - Repeat pedestrian counts at comparable times or on different days to reduce the effect of a temporary event.
@@ -93,7 +93,7 @@ The account describes **systematic sampling** at a series of upstream-to-downstr
 
 **Bedload:** Stones became smaller and rounder downstream. During **attrition**, transported stones collide and chip one another. Continued transport also increases the time available for these changes.
 
-The broad pattern matched river theory, although local conditions could make individual sites different. No specific anomaly or numerical result has been supplied.
+The broad pattern matched river theory. Local conditions, such as an obstacle or a change in channel shape, could still cause individual sites to differ.
 
 ### Evaluation ideas
 
@@ -108,7 +108,7 @@ Use improvements that match a real weakness:
 
 ### River Alyn exam pointer
 
-Use a separate result-and-explanation chain for **width/depth**, **velocity** and **bedload**. Say “generally” or “tended to” because the supplied account allows for local variation. Do not add a numerical result, named anomaly, site spacing or exact velocity method unless it is provided in the question.
+Use a separate result-and-explanation chain for **width/depth**, **velocity** and **bedload**. Use “generally” or “tended to” when describing the overall pattern, and support it with the evidence available. Keep a general explanation separate from a measured result or an observed exception.
 
 ## Comparing the enquiries
 

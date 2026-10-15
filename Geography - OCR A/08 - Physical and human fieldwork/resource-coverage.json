@@ -31,5 +31,10 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "readability_review": {
+    "reviewed": "2026-10-15",
+    "changes": "Replace authoring-status messages with student-focused evaluation explanations. Preserve confirmed enquiries, methods and qualitative findings.",
+    "data_limits": "No new measured values, exact velocity method, named anomaly, site details or sampling intervals inferred. Guide does not contain the school fieldwork accounts."
   }
 }
