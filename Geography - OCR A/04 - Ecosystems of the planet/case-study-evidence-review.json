@@ -1,0 +1,69 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "Peruvian Amazon": [
+      {
+        "booklet_claims": "60%; 28°C; 2,600mm",
+        "decision": "Added approximate extent and lowland climate figures from school booklet. IGN corroborates~60% region; no defined station or climate normal supplied for exact28/2600, so do not label them precise countrywide measurements."
+      },
+      {
+        "booklet_claims": "Nearly3,000 animals;16% endemic",
+        "decision": "Add 2011 account:2,937 amphibian/bird/mammal/reptile species NATIONWIDE,16% endemic. Not all fauna or rainforest-only census."
+      },
+      {
+        "booklet_claims": "95% logging illegal",
+        "decision": "Add historical2005 estimate of MAHOGANY cited2009 assessment; not95% of every type of logging today."
+      },
+      {
+        "booklet_claims": "Plants, pollinators, epiphytes, carbon/water; timber/medicines/minerals",
+        "decision": "Integrated named functions/value/interdependence. Epiphytes can have roots; correct guide rootless assertion."
+      },
+      {
+        "booklet_claims": "Camisea,$4bn savings,15 dams",
+        "decision": "Retain Camisea2004 benefits/risks. Do not use undefined forecast savings or15 undated dam proposals as realised outcomes."
+      },
+      {
+        "booklet_claims": "Gold/mercury; cattle/soy; fires; Trans-oceanic Highway",
+        "decision": "Add mercury pathway and named Interoceanic Highway; retain farming,logging,cattle,coca and fire. No assumption that Peru soybean clearance equals Brazil’s scale."
+      },
+      {
+        "booklet_claims": "Purus-Manu10m hectares/about60 communities",
+        "decision": "Now verified and ADDED:WWF2015 specifies10mha,5 protected areas,63 native communities; includeAltoPurus/Manu and wildlife. Earlier exclusion has been superseded by this source."
+      },
+      {
+        "booklet_claims": "Plans,reserves,enforcement",
+        "decision": "Retain indigenous rights,forestry control,monitoring,FOLUR2023–29/17provinces and2015–21land titles."
+      }
+    ],
+    "Andros Barrier Reef": [
+      {
+        "booklet_claims": "Bahamas;over200km;parallel coast;164species",
+        "decision": "Add parallel eastern shoreline and1997–98survey164FISHspecies, not combinedfish/coral total. Retain Bahamas government306km extent; survey tract has narrower definition."
+      },
+      {
+        "booklet_claims": "18°C minimum;23–25°C ideal;shallowclearwater",
+        "decision": "Added reef requirements with scope and widerNOAA23–29°C optimalrange.23–25°C supportedFloridaMuseum, not universal upperlimit."
+      },
+      {
+        "booklet_claims": "Foodweb,nitrogen,mangroves,fish,turtles",
+        "decision": "Retaincoral/algaepartnership,connectednurseries,fishgrazing and nutrientcycling; notallreefenergycomesfromphytoplanktonalone."
+      },
+      {
+        "booklet_claims": "$150m tourism;lobster/snapper;coastprotection;research/medicine",
+        "decision": "Addnamedfisheryproducts/research/visitoractivities; retaincoastalprotection. $150m is repeated in publisher material but primary reports use differing fisheries/tourism boundaries; not assert currentAndros-onlyrevenue. No unverified disease-cure claim."
+      },
+      {
+        "booklet_claims": "Overfishing,sponges,touching,agricultural/sewage/boatpollution,anchors,2040",
+        "decision": "Addspecificpollutionsources,visitor/anchorharm; retainfoodweb/climateeffects. Do not claim inevitabledeathin2040."
+      },
+      {
+        "booklet_claims": "WestSidePark,crabreserve,Exumacoralnursery",
+        "decision": "RetainWestSide/marineparkareas/crabreserve/rules/monitoring. Exuma is a different island group; do not label it anAndrospark."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}

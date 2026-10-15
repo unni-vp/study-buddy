@@ -187,3 +187,5 @@ These checks apply to future resources and revisions of existing resources.
 - Do not show resource-availability badges (such as Resources available or Not yet prepared) on subject topic cards. Keep the topic number, assessment-paper label, title and Revised checkbox.
 
 - Within a case-study explanation, keep a consistent level of development. Integrate brief facts into short paragraphs with bold lead-ins rather than placing an expanded explanation after a duplicate terse bullet list. Retain useful comparison tables, genuine process or method steps, named evidence and qualifications. Keep related material under its existing logical heading.
+
+- When using a supplied revision booklet, audit every named case study for useful omitted numerical evidence, dates, locations and named strategies. Keep an internal claim-by-claim decision record. Preserve accurate historical figures with their date, scope and units; distinguish forecasts from outcomes and national figures from local ones. Correct conflicting claims with sources rather than silently dropping the evidence or importing it uncritically.

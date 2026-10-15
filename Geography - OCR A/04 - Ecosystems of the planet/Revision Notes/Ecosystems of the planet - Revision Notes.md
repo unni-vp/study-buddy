@@ -54,19 +54,27 @@ The forest also recycles water. Trees take up water and release vapour through *
 
 ### Place and importance
 
-The Peruvian Amazon lies east of the Andes and forms part of the much larger Amazon Basin. It contains immense biodiversity, stores carbon, regulates water and supports Indigenous communities. Forest products, tourism, farming and mining also create income.
+**Location and climate:** The Peruvian Amazon lies east of the Andes and forms part of the wider Amazon Basin. It covers roughly **60% of Peru**. The lowland rainforest is hot and wet throughout the year, at around **28 °C** with roughly **2,600 mm of annual rainfall**. Conditions vary across this large region and with elevation.
+
+**Value to people:** Hardwoods such as **mahogany** supply timber, while gold, oil and natural gas create opportunities for extraction. Forest plants provide food and medicines, and tourism supports employment. Indigenous communities depend on forest resources, so development can affect their land, livelihoods and culture.
+
+**Value to the planet:** A **2011** account recorded **2,937 known amphibian, bird, mammal and reptile species across Peru**, with about **16% endemic**: found naturally nowhere else. These are national figures for those animal groups, rather than a total of every rainforest animal, including insects. They show why habitat loss can threaten irreplaceable biodiversity. The forest also stores carbon and regulates water. Trees absorb carbon dioxide through photosynthesis and return moisture to the air through transpiration. Clearing and burning trees reduces carbon storage as well as releasing carbon into the atmosphere.
 
 ### Interdependence
 
 **Climate and vegetation:** Heavy rainfall and year-round warmth support rapid plant growth. Dense vegetation provides food and habitats, while roots help protect the soil.
 
+**Pollination:** Bees and butterflies gain food from flowers while transferring pollen between plants. Plants depend on these animals for reproduction, and the animals depend on the plants for food. Epiphytes grow on branches to reach light and obtain water from rain and moisture around them.
+
 **Nutrients and water:** Decomposers rapidly break down dead material, and shallow roots absorb the released nutrients. Trees return water to the atmosphere through **transpiration**, helping maintain rainfall. Plants therefore depend on the climate while also influencing it.
 
 ### Threats and consequences
 
-**Forest clearance:** Commercial and small-scale farming clear land for crops and cattle. Logging removes valuable trees and fragments habitats. Road building opens remote forest to settlement and further extraction, while coca cultivation and fires add pressure.
+**Forest clearance and roads:** Commercial and small-scale farming clear land for crops and cattle. Logging removes valuable hardwoods, including mahogany, and fragments habitats. The **Interoceanic Highway** improves access between Peru and Brazil but also opens remote forest to settlement, logging and mining. Coca cultivation and fires used to clear land add pressure; fires can spread beyond the intended area.
 
-**Mining and river pollution:** Mining, including illegal gold mining, removes forest and may pollute rivers. The effects extend beyond the cleared land because people and wildlife downstream depend on river water.
+**Illegal hardwood extraction:** A **2005 estimate**, cited in a **2009** trade assessment, suggested **95% of Peruvian mahogany** was logged illegally. This historical estimate concerns mahogany, rather than all logging today. High timber values encourage extraction, while the forest's size makes monitoring and enforcement difficult.
+
+**Mining and river pollution:** Gold mining removes forest and disturbs riverbanks. Mercury used to separate gold can contaminate water and food webs, putting wildlife and people's health at risk. These effects extend beyond the mine because communities downstream also depend on river water.
 
 **Scale and carbon loss:** From **2005 to 2015**, Peru lost more than **134,000 hectares of forest per year on average**. The World Bank reported that land-use change produced **more than half of Peru's greenhouse-gas emissions**. Clearing forest releases stored carbon as well as destroying habitats.
 
@@ -80,11 +88,13 @@ The Peruvian Amazon lies east of the Andes and forms part of the much larger Ama
 
 **Sustainable farming:** Peru's **FOLUR** project, running from **2023 to 2029**, supports **deforestation-free coffee and cocoa** across **17 provinces**. Improving production on existing farmland can provide income without further forest clearance.
 
-**Protected forests and connected habitats:** **Manu National Park** protects a named forest area. The wider **Purús–Manu conservation corridor** connects protected and community-managed areas, allowing wildlife to move between habitats. Restoring damaged land and maintaining corridors can reduce the isolation caused by fragmentation.
+**Protected forests and connected habitats:** The **Purús–Manu conservation corridor** links areas including **Alto Purús and Manu National Parks** with Indigenous territories. WWF's **2015** account describes about **10 million hectares**, **five protected areas** and **63 native communities**. It includes habitats for monkeys, river dolphins and valuable trees such as mahogany. Restoring damaged land and connecting habitats help wildlife move between areas and reduce the isolation caused by fragmentation.
 
 **Enforcement and evaluation:** Satellite monitoring can identify clearance, but controls on illegal mining and logging still need enforcement. Secure land rights, community support and reliable sustainable incomes make conservation more practical. Rules alone may fail where enforcement is weak or illegal extraction remains profitable.
 
 ## Coral reef processes
+
+**Conditions for reef growth:** Most tropical reef-building corals need water that stays above roughly **18 °C**. **23–25 °C** supports strong growth, although many species grow well across the wider **23–29 °C** range. Shallow, clear, salty water allows sunlight to reach the algae inside coral. Excess sediment blocks light, and freshwater can lower salinity. This helps explain why warm-water reefs are concentrated in tropical and subtropical seas.
 
 Coral polyps build hard limestone skeletons. Tiny algae living inside the coral provide food through photosynthesis, while coral gives the algae shelter. This **mutual relationship** explains why reefs need clear, sunlit water.
 
@@ -103,19 +113,19 @@ Reefs have a tight nutrient cycle. Nutrients released by waste and decomposition
 
 ### Place and importance
 
-Andros is the largest island in The Bahamas. Its barrier reef stretches for about **190 miles (306 km)** and is commonly described by the Bahamian government as the world's third-largest barrier reef. It supports fisheries, tourism, biodiversity and coastal protection.
+Andros is the largest island in The Bahamas. Its barrier reef stretches for about **190 miles (306 km)** and is commonly described by the Bahamian government as the world's third-largest barrier reef. It runs broadly parallel to the eastern shoreline, with deeper water separating parts of the reef from the land. It supports fisheries, tourism, biodiversity and coastal protection. Surveys in **1997–1998** recorded **164 reef-fish species**, showing the variety of life supported by the reef.
 
 ### Interdependence and value
 
 **Connected habitats:** Coral provides shelter and feeding grounds for fish and invertebrates. Reef fish graze algae that could otherwise smother coral. Nearby seagrass beds, mangroves and creeks provide further feeding and nursery areas, and young fish may move between them as they grow. Clearing nursery vegetation can therefore affect fisheries beyond the damaged site.
 
-**Coastal protection and livelihoods:** The reef absorbs wave energy, reducing coastal erosion and storm damage. Healthy habitats also support fishing, diving and nature tourism, creating jobs and income. Protecting the ecosystem helps protect both the coast and the local economy.
+**Coastal protection and livelihoods:** The reef absorbs wave energy, reducing coastal erosion and storm damage. Fishing for species such as **snapper, grouper and lobster** supplies food and income, while snorkelling, diving and guided fishing support tourism. Protecting the ecosystem helps protect both the coast and the local economy. Research and monitoring also depend on healthy habitats.
 
 ### Threats
 
 **Heat and storms:** Marine heat can cause **coral bleaching** and, if stress continues, coral death. Strong storms can break reef structures. Local visitor rules cannot remove the wider threat from warming seas.
 
-**Water quality and habitat damage:** Pollution and sediment reduce water quality and the light available to coral's algae. Dredging and coastal development can damage connected habitats, while anchors and careless visitor contact can harm the reef itself. This also threatens tourism income because visitors depend on attractive, living habitats.
+**Water quality and habitat damage:** Agricultural chemicals, sewage and oil or chemicals from boats can pollute the sea. Pollution and sediment reduce water quality and the light available to coral's algae. Dredging and coastal development can damage connected habitats, while anchors and careless visitor contact can harm the reef itself. This also threatens tourism income because visitors depend on attractive, living habitats.
 
 **Disrupted food webs:** Overfishing removes important species, while invasive lionfish disturb food webs. These changes can weaken the relationships that help keep the reef healthy.
 
@@ -146,3 +156,21 @@ Andros is the largest island in The Bahamas. Its barrier reef stretches for abou
 - [IDB: Camisea economic and ecological study](https://publications.iadb.org/en/economic-and-ecological-impact-natural-resource-extraction-case-camisea-gas-project-peru)
 - [Bahamas National Trust: West Side National Park](https://bnt.bs/explore/andros/west-side-national-park/)
 - [The Bahamas: Crab Replenishment Reserve](https://www.bahamas.com/vendor/crab-replenishment-reserve)
+
+- [School revision booklet: named case-study facts](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub)
+
+- [Peru National Geographic Institute: Amazon region and climate](https://app4.ign.gob.pe/capitulos/cuatro/regiones.php)
+
+- [WWF: Purús–Manu corridor, 2015](https://www.wwf.org.pe/en/?251971%2Fpurus-manu-latidos-de-la-selva=)
+
+- [WWF: Interoceanic Highway, farming and mercury pollution](https://www.wwf.org.pe/en/our_work/in_peru/amazon/sustainable_product_alternatives/the_road_to_sustainability/the_gates_of_hell/)
+
+- [Andros reef-fish survey: 1997–1998 observations](https://repository.si.edu/bitstreams/ae467a6c-a1c5-4ea8-b579-c6b6cb4804c2/download)
+
+- [COHA: 2011 account of Peru biodiversity and logging](https://coha.org/perus-less-than-benign-environmental-policy/)
+
+- [EU–Andean trade assessment, 2009: historical mahogany estimate](https://www.redge.org.pe/sites/default/files/tradoc_146014_0.pdf)
+
+- [Florida Museum: coral habitat and 23–25 °C growth conditions](https://www.floridamuseum.ufl.edu/southflorida/habitats/corals/habitat/)
+
+- [NOAA: coral temperature, light and salinity requirements](https://oceanservice.noaa.gov/facts/coralwaters.html)
