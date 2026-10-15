@@ -62,6 +62,12 @@ Key projects included:
 
 MediaCity now hosts major broadcasters and more than **250 creative and technology businesses**, helping replace the old dock economy with a more varied service economy.
 
+### How regeneration generates further activity
+
+**MediaCity’s broadcasters and education sites** act as anchor organisations. They attract specialist suppliers, skilled workers and students. Those people spend in shops, cafés, transport and housing, supporting further activity: a **multiplier effect**. Metrolink improves access between the Quays and the wider city region.
+
+However, an office occupied by a firm moving from elsewhere in Greater Manchester is not necessarily a completely new regional job. Judge **additional employment and access for existing residents**, not just the number of new buildings.
+
 ### Economic effects
 
 New firms, visitors and residents created jobs, spending and investment. Offices, television production, digital businesses and education widened the employment base. Better transport connected the Quays to the wider city region.
@@ -92,6 +98,10 @@ A **population pyramid** shows age and sex structure. A broad base suggests many
 
 Since 1900, death rates have fallen and people generally live longer. Birth rates later fell, so older age groups now make up a larger share of the UK population.
 
+![Schematic five-stage birth-rate and death-rate model](diagrams/demographic-transition.svg)
+
+**Natural change:** population grows when births exceed deaths. The model does not include migration.
+
 ### Demographic Transition Model
 
 | Stage | Birth rate | Death rate | Population change |
@@ -103,6 +113,10 @@ Since 1900, death rates have fallen and people generally live longer. Birth rate
 | 5 | Very low | Low | Possible natural decrease |
 
 The model is useful for showing a broad pattern, but countries do not all change at the same speed.
+
+![Illustrative population pyramid with labelled age groups, sex and relative bar length](diagrams/population-pyramid.svg)
+
+**Read the shape:** identify the age group and side, then use bar length. This model illustrates the skill; it is not a UK census dataset.
 
 ### Ageing population
 
@@ -136,6 +150,14 @@ Avoid one-sided claims. A strong answer considers **social and economic benefits
 
 These movements affect housing demand, traffic, land values, services and the character of communities.
 
+### Compare the three urban trends
+
+| Trend | Why it happens | Possible consequences |
+|---|---|---|
+| **Suburbanisation** | Households seek space; land at the edge may be cheaper, and transport allows commuting. | Urban sprawl, greenfield development, longer journeys and greater demand for roads and services. |
+| **Counter-urbanisation** | Some households leave cities for smaller settlements, seeking environment, space or remote-working opportunities. | Commuting villages, higher house prices and changed local services; access differs by income. |
+| **Re-urbanisation** | Regeneration, new homes, jobs and amenities attract people back to inner areas. | Brownfield reuse and city-centre spending, but possible higher rents and displacement. |
+
 ## Leeds city case study
 
 ### Place, population and importance
@@ -149,6 +171,12 @@ The city's population was about **812,000 in 2021**, an increase of **8.1%** sin
 Universities attract students from the UK and abroad. National and international migrants add workers, skills, languages, food, religion and businesses. The 2021 population included about **9.7% Asian**, **5.6% Black** and **3.4% mixed ethnic groups**.
 
 Population growth supports services and the economy, but benefits and pressures vary by neighbourhood. New arrivals and natural increase add demand for housing, schools, healthcare and transport.
+
+### Culture, students and consumption
+
+**Leeds West Indian Carnival** shows how migration can shape leisure, music, food and the use of public space. Universities attract people from across the UK and overseas, supporting rental housing, cafés and entertainment. These are cultural and economic changes together, rather than simply a change in population size.
+
+Demand can raise rents in popular neighbourhoods and create seasonal pressure on services. Effects differ between places, so one lively student area cannot represent the living conditions of every Leeds resident.
 
 ### Housing challenge
 
@@ -198,3 +226,8 @@ Organise a developed answer as **challenge → named response → number showing
 - Give balanced migration impacts.
 - Use Salford Quays for economic change and Leeds for the major-city case study.
 - Evaluate whether improvements are sustainable and fairly shared.
+
+### Further case-study reading
+
+- [Leeds West Indian Carnival: its history](https://leedscarnival.co.uk/press-room/)
+- [Salford Council: MediaCity and the Quays](https://www.salford.gov.uk/planning-building-and-regeneration/regeneration/mediacity-and-salford-quays/)

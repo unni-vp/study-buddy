@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "00-people-and-urban-change",
+    "title": "People of the UK: population and urban change",
+    "panels": [
+      {
+        "title": "Explain uneven development",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Location, industry and infrastructure:** influence investment and jobs. Government policy can alter opportunities."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Compare income, health, education, employment and access. One average can hide inequality."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Read population change",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Natural change:** births minus deaths. **Net migration:** arrivals minus departures."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Pyramid:** age and sex structure. **DTM:** birth and death rates, not a fixed national timetable."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Ageing and migration",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Ageing:** lower birth rates and longer lives increase demand for pensions and care, but older people also contribute."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Migration can bring skills and culture. Services and housing must keep pace with local growth."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Salford Quays: change",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**1982 dock closure → regeneration → Lowry 2000 and MediaCity 2011.**"
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Public infrastructure and anchor firms attract activity. Higher values do not guarantee benefits for every resident."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Leeds: character and challenges",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**2021 population:** about 812,000. Universities and migration shape work, culture and housing demand."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Housing, transport and waste need joined-up responses. Carnival is a named cultural example."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Evaluate sustainable responses",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Connecting Leeds:** alternatives to car journeys. **PIPES:** useful heat from waste recovery."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Assess who benefits, affordability and access. More investment can coexist with inequality."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]

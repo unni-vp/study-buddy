@@ -1,0 +1,84 @@
+{
+  "reviewed": "2026-10-15",
+  "generator": "scripts/build_geography_maps.py",
+  "style": "Content-sized panels, fixed readable fonts, black explanations, consistent coloured headings, inset dividers and no decorative hub",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        346,
+        342,
+        372
+      ],
+      "column_heights": [
+        432,
+        432,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 346,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 346,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 376,
+          "y": 18,
+          "width": 342,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 376,
+          "y": 259,
+          "width": 342,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 730,
+          "y": 18,
+          "width": 372,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 730,
+          "y": 259,
+          "width": 372,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-people-and-urban-change",
+      "title": "People of the UK: population and urban change"
+    }
+  ]
+}

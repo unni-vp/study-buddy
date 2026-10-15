@@ -70,9 +70,15 @@
 - Increased demand for affordable housing.
 - More congestion and pressure on transport.
 
+**13.** What is the difference between natural increase and net migration?
+
+**Answer:**
+
+**Natural increase** is births minus deaths. **Net migration** is immigration minus emigration.
+
 ## 3 marks
 
-**13.** Explain one reason why development varies across the UK.
+**14.** Explain one reason why development varies across the UK.
 
 **Answer:**
 
@@ -80,7 +86,7 @@
 - Firms may invest elsewhere because costs or travel times are lower.
 - This reduces job opportunities and income in the less connected area.
 
-**14.** Explain one challenge caused by an ageing population.
+**15.** Explain one challenge caused by an ageing population.
 
 **Answer:**
 
@@ -88,7 +94,7 @@
 - These services require more workers and public spending.
 - With fewer workers per dependent person, funding them can become harder.
 
-**15.** Explain how migration can change the character of a city.
+**16.** Explain how migration can change the character of a city.
 
 **Answer:**
 
@@ -96,7 +102,7 @@
 - They may establish businesses and community services.
 - These changes make neighbourhoods and the city's workforce more diverse.
 
-**16.** Explain how the decline of the docks affected Salford Quays.
+**17.** Explain how the decline of the docks affected Salford Quays.
 
 **Answer:**
 
@@ -106,7 +112,7 @@
 
 ## 4 marks
 
-**17.** Explain how government policy and infrastructure can reduce uneven development.
+**18.** Explain how government policy and infrastructure can reduce uneven development.
 
 **Answer:**
 
@@ -115,14 +121,14 @@
 - Better roads, rail and broadband connect people and firms to markets.
 - Improved accessibility can attract investment and raise incomes.
 
-**18.** Explain two possible impacts of re-urbanisation.
+**19.** Explain two possible impacts of re-urbanisation.
 
 **Answer:**
 
 - Reusing brownfield land can bring homes, jobs and improved public spaces back to an inner city.
 - Rising demand may increase rents and house prices, so some lower-income residents may be displaced or excluded.
 
-**19.** Explain how regeneration changed Salford Quays.
+**20.** Explain how regeneration changed Salford Quays.
 
 **Answer:**
 
@@ -131,7 +137,7 @@
 - MediaCity now contains major broadcasters and more than 250 creative and technology businesses.
 - However, expensive housing and skilled jobs mean benefits are not shared equally with nearby communities.
 
-**20.** Explain why Leeds is important at more than one scale.
+**21.** Explain why Leeds is important at more than one scale.
 
 **Answer:**
 
@@ -140,15 +146,27 @@
 - Rail and motorway links connect firms and workers to other UK cities.
 - Universities and internationally connected businesses also attract overseas students, skills and investment.
 
+**22.** Explain why the Demographic Transition Model does not fully predict the UK’s population change.
+
+**Answer:**
+
+The model shows changing birth and death rates, so it explains natural increase or decrease. It does not include migration, which can change the population’s size and age structure. Countries also differ in policies, health and social change, so a stage is a broad description rather than a fixed timetable.
+
+**23.** Explain a multiplier effect associated with Salford Quays regeneration.
+
+**Answer:**
+
+Broadcasters and other firms at MediaCity employ workers and purchase services. Workers then spend income in local shops, cafés and housing. Suppliers may gain contracts and recruit staff, supporting further activity. The effect is greater when spending and new jobs remain local rather than leaking outside the area.
+
 ## 6 marks
 
-**21.** Assess the view that immigration has mainly positive effects on the UK.
+**24.** Assess the view that immigration has mainly positive effects on the UK.
 
 **Answer:**
 
 Immigration can fill labour and skills shortages, increase tax revenue and support businesses and public services. Migrants may start firms and add cultural diversity. A younger working population can also reduce some pressure from population ageing. However, rapid growth can increase demand for housing, schools, healthcare and transport, especially where investment does not keep pace. Some workers may face greater competition, although impacts vary by occupation and place. Overall, immigration can bring strong social and economic benefits, but the result depends on planning, service capacity and how fairly opportunities are shared.
 
-**22.** Evaluate the success of regeneration at Salford Quays.
+**25.** Evaluate the success of regeneration at Salford Quays.
 
 **Answer:**
 
@@ -159,13 +177,13 @@ Immigration can fill labour and skills shortages, increase tax revenue and suppo
 - Some jobs need specialist skills and new housing can be expensive, so surrounding deprivation may continue.
 - Regeneration is highly successful at changing the place and attracting investment, but its social success depends on affordable housing, training and accessible jobs.
 
-**23.** Examine the challenges created by an ageing UK population and possible responses.
+**26.** Examine the challenges created by an ageing UK population and possible responses.
 
 **Answer:**
 
 Longer lives and lower birth rates increase the proportion of older people. This raises demand for pensions, healthcare, accessible housing and social care. A smaller working-age share may have to fund these services. Older people also contribute experience, spending, childcare and volunteering, so ageing is not only a cost. Responses include later retirement, workplace pensions, preventative healthcare, adapted homes and technology that supports independent living. Working-age migration may also help. The best response combines funding and care reforms with measures that allow older people to remain healthy and involved.
 
-**24.** Assess how successfully Leeds is becoming more sustainable.
+**27.** Assess how successfully Leeds is becoming more sustainable.
 
 **Answer:**
 
@@ -176,3 +194,18 @@ Longer lives and lower birth rates increase the proportion of older people. This
 - Yet about 175,000 residents were estimated to experience relative poverty, so city-centre growth and green technology do not remove inequality.
 - Leeds has strong connected projects, but success remains partial until affordable housing, transport and opportunity are shared more evenly.
 
+**28.** Examine how migration influences a named UK city’s ways of life.
+
+**Answer:**
+
+In Leeds, national and international migration adds workers, students, languages, businesses and traditions. The West Indian Carnival is a named example of migration shaping leisure and cultural identity. Universities attract students who support rented housing, cafés and entertainment, changing neighbourhood land use and consumption. Growth can also increase pressure on housing and services if provision lags behind. Migration therefore shapes culture and the economy, but effects vary across neighbourhoods and depend on how the city accommodates new demand.
+
+## Past-paper sources
+
+These are original practice questions and answers, checked against the current OCR A J383 specification. Additional questions practise the guide’s case-study links; no past-paper frequency claim is made.
+
+- [School revision guide](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub)
+- [Official OCR A specification](../../00%20-%20Specification/OCR-J383-specification.pdf)
+- [OCR assessment materials](https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/assessment/)
+- [Leeds West Indian Carnival: its history](https://leedscarnival.co.uk/press-room/)
+- [Salford Council: MediaCity and the Quays](https://www.salford.gov.uk/planning-building-and-regeneration/regeneration/mediacity-and-salford-quays/)
