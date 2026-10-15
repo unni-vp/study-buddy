@@ -92,9 +92,7 @@ Between **2015 and 2021**, a World Bank-supported programme helped recognise **2
 
 **Manu National Park** is a named protected forest in Peru. The wider **Purús–Manu conservation corridor** connects protected and community-managed areas. Connected habitats allow movement between areas and can reduce the isolation caused by fragmentation.
 
-Protected status still needs enforcement and community support. Secure land rights and income from sustainable activities give people a practical reason and greater ability to conserve forest. A boundary on a map alone cannot prevent illegal extraction.
-
-**Evaluation:** Protection works best when local people receive both secure rights and reliable incomes. Rules alone may fail where enforcement is weak or illegal activity is profitable.
+**Evaluation:** Protected status needs enforcement and community support. Secure land rights and reliable income from sustainable activities give people a practical reason and greater ability to conserve forest. Rules alone may fail where enforcement is weak or illegal extraction is profitable.
 
 ## Coral reef processes
 
@@ -147,9 +145,7 @@ Overfishing can disturb food webs, while sediment and polluted water reduce the 
 
 The **West Side National Park** protects tidal flats and mangrove creeks on western Andros, providing nursery habitat for species such as bonefish and tarpon. This complements reef protection elsewhere around the island; it is not the same location as the eastern barrier reef. The **Crab Replenishment Reserve** conserves land-crab habitat and breeding stocks.
 
-These examples show that sustainable management must protect the **whole habitat network**, as well as regulate fishing and visitor behaviour. Local habitat protection improves resilience, but wider greenhouse-gas reductions are needed to limit marine heat stress.
-
-**Evaluation:** Marine parks help only when boundaries are understood, rules are enforced and nearby pollution or overfishing is also controlled. Climate-driven heat stress cannot be solved by local management alone.
+**Evaluation:** Management must protect the **whole habitat network**, as well as regulate fishing and visitor behaviour. Parks help when boundaries are understood, rules are enforced and nearby pollution or overfishing is controlled. Local protection improves resilience, but wider greenhouse-gas reductions are needed to limit marine heat stress.
 
 ## Exam links to remember
 
