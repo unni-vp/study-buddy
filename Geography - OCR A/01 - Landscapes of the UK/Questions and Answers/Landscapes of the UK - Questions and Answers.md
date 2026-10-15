@@ -70,9 +70,15 @@
 - They trap sediment and build a wider beach locally.
 - Less sediment may reach places further along the coast, increasing erosion there.
 
+**13.** Explain how weathering differs from erosion.
+
+**Answer:**
+
+**Weathering** breaks rock down in place. **Erosion** removes and wears material through an agent such as flowing water or waves.
+
 ## 3 marks
 
-**13.** Explain the formation of a V-shaped valley.
+**14.** Explain the formation of a V-shaped valley.
 
 **Answer:**
 
@@ -80,7 +86,7 @@
 - Weathering and mass movement weaken and lower the valley sides.
 - The river removes fallen material, leaving steep sides shaped like a V.
 
-**14.** Explain how a waterfall retreats to form a gorge.
+**15.** Explain how a waterfall retreats to form a gorge.
 
 **Answer:**
 
@@ -88,7 +94,7 @@
 - The resistant overhang collapses because it is unsupported.
 - Repetition moves the waterfall upstream, leaving a narrow, steep-sided gorge.
 
-**15.** Explain how an oxbow lake forms.
+**16.** Explain how an oxbow lake forms.
 
 **Answer:**
 
@@ -96,7 +102,7 @@
 - During high flow, the river cuts through the neck and takes a straighter route.
 - Deposition seals the ends of the old bend, leaving an oxbow lake.
 
-**16.** Explain how a spit forms.
+**17.** Explain how a spit forms.
 
 **Answer:**
 
@@ -106,7 +112,7 @@
 
 ## 4 marks
 
-**17.** Explain how climate and geology can influence a UK river landscape.
+**18.** Explain how climate and geology can influence a UK river landscape.
 
 **Answer:**
 
@@ -115,7 +121,7 @@
 - Resistant rock erodes slowly and can produce steeper features.
 - Softer or less resistant rock erodes more quickly, helping valleys widen.
 
-**18.** Explain how erosion and deposition are connected along a coast.
+**19.** Explain how erosion and deposition are connected along a coast.
 
 **Answer:**
 
@@ -124,7 +130,7 @@
 - Where wave energy falls, the sediment is deposited.
 - This can build beaches or spits, so erosion in one place supplies landforms elsewhere.
 
-**19.** Explain how natural processes and people combine to shape the River Wye landscape.
+**20.** Explain how natural processes and people combine to shape the River Wye landscape.
 
 **Answer:**
 
@@ -133,7 +139,7 @@
 - Carboniferous Limestone creates a steep lower gorge around Symonds Yat, showing that geology modifies the usual downstream pattern.
 - Farming and building alter runoff, while natural flood-management work with more than 140 landowners slows and stores water upstream.
 
-**20.** Explain why managing one part of the North Norfolk coast can affect another part.
+**21.** Explain why managing one part of the North Norfolk coast can affect another part.
 
 **Answer:**
 
@@ -142,9 +148,21 @@
 - Groynes at a defended settlement such as Cromer retain beach material locally.
 - This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion.
 
+**22.** Explain why an oxbow lake does not form as soon as a river crosses a meander neck.
+
+**Answer:**
+
+A flood can cut a shorter channel through the neck, but the old bend can initially remain connected. Water increasingly uses the shorter route. Slower flow at the entrances to the old bend encourages deposition, which seals them. The isolated bend becomes the oxbow lake.
+
+**23.** Explain how Holkham manages visitor pressure on its dune landscape.
+
+**Answer:**
+
+Visitors can trample plants, leaving sand less stable. Boardwalks and steps guide people across the dunes while reducing damage to vegetation. Plants continue trapping and binding sand, helping conserve habitat and a natural coastal buffer. The approach relies on visitors keeping to managed routes.
+
 ## 6 marks
 
-**21.** Assess the importance of geology in shaping the North Norfolk coast.
+**24.** Assess the importance of geology in shaping the North Norfolk coast.
 
 **Answer:**
 
@@ -155,19 +173,19 @@
 - However, storms, high tides, wave energy and management alter the rate and location of change.
 - Geology is the underlying control, while marine conditions and human decisions determine the short-term pattern.
 
-**22.** Evaluate the use of hard engineering to manage a coastal landscape.
+**25.** Evaluate the use of hard engineering to manage a coastal landscape.
 
 **Answer:**
 
 Hard engineering such as sea walls and groynes can protect homes, roads and businesses in high-value places. A sea wall resists wave attack, while groynes build a beach that absorbs wave energy. These defences can therefore reduce risk quickly. However, they are expensive, need maintenance and can look intrusive. Groynes may interrupt longshore drift and increase erosion elsewhere. A strong judgement is that hard engineering is most suitable where the benefits justify the cost and impacts on neighbouring coastlines have been considered; lower-value or environmentally sensitive areas may suit managed realignment better.
 
-**23.** Examine how river processes create contrasting landforms from upstream to downstream.
+**26.** Examine how river processes create contrasting landforms from upstream to downstream.
 
 **Answer:**
 
 In the steep upper course, turbulent water and vertical erosion cut V-shaped valleys. Where resistant rock overlies softer rock, differential erosion can produce waterfalls and gorges. Further downstream, greater discharge and lateral erosion help meanders grow. Erosion occurs on outer bends while deposition occurs on inner bends; a cut-off can form an oxbow lake. Across the lower valley, repeated flooding deposits alluvium to build a floodplain and coarser material beside the channel to form levees. Changing gradient, discharge and energy therefore produce contrasting landforms along the river.
 
-**24.** Assess how natural processes and people have shaped the River Wye landscape.
+**27.** Assess how natural processes and people have shaped the River Wye landscape.
 
 **Answer:**
 
@@ -178,3 +196,19 @@ In the steep upper course, turbulent water and vertical erosion cut V-shaped val
 - Herefordshire's 2018–2021 natural flood-management pilot worked with more than 140 landowners to slow runoff using landscape measures.
 - Natural processes created the main valley, while land use and flood management increasingly alter runoff, risk and local change.
 
+**28.** Assess how human activities can change a named river landscape.
+
+**Answer:**
+
+In the Wye valley, farming changes vegetation and soil condition, affecting interception, infiltration and runoff. Settlement around Hereford places homes and roads on or near flood-prone land, while impermeable surfaces speed drainage. Livox Quarry south of Tintern changes relief and removes rock and vegetation, although restoration can create habitats. Natural flood-management measures slow and store runoff upstream. These activities alter local form and river response, but geology, rainfall and the river’s own erosion still establish the main valley landscape.
+
+## Past-paper sources
+
+These are original practice questions and answers, checked against the current OCR A J383 specification. Additional questions practise the guide’s case-study links; no past-paper frequency claim is made.
+
+- [School revision guide](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub)
+- [Official OCR A specification](../../00%20-%20Specification/OCR-J383-specification.pdf)
+- [OCR assessment materials](https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/assessment/)
+- [Holkham: dunes and visitor access](https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/)
+- [Met Office: storm surges](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge)
+- [Wye Valley: quarry restoration and management](https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf)

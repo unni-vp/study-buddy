@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-15",
   "specification": "OCR J383 1.1",
   "source": "../00 - Specification/OCR-J383-specification.pdf",
   "coverage": {
@@ -22,7 +22,10 @@
     "River Wye",
     "North Norfolk coast"
   ],
-  "mindmaps": [],
+  "mindmaps": [
+    "00-river-landscapes",
+    "01-north-norfolk-coast"
+  ],
   "flashcards": {
     "reviewed": "2026-10-12",
     "source": "Questions and Answers/Landscapes of the UK - Questions and Answers.md",
@@ -34,5 +37,32 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "revision_guide_review": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+    "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+    "tables_adapted": [
+      1,
+      2,
+      3
+    ],
+    "diagrams_recreated": [
+      "waterfall-retreat",
+      "oxbow-lake",
+      "longshore-drift"
+    ],
+    "corrections_and_exclusions": [
+      "Guide dates the east-coast surge January 2013; use 5–6 December 2013.",
+      "Do not repeat unverified Wye afforestation 20% or Letton Lakes engineered-storage claims.",
+      "Glaciation is not mutually exclusive with upland/lowland; limestone and chalk resistance varies by setting."
+    ],
+    "primary_sources": [
+      "https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/",
+      "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge",
+      "https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf"
+    ],
+    "additional_questions": 4,
+    "total_questions": 28,
+    "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
   }
 }

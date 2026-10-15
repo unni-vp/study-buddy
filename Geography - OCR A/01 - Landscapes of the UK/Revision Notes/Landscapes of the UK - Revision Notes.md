@@ -15,6 +15,16 @@ Think of Britain as a tilted table. The **north and west** are generally higher,
 
 **Must know:** A landscape is produced by an interaction between **geology, climate, geomorphic processes and people**.
 
+### Compare the landscape types
+
+| Type and example | Relief and geology | Climate and use |
+|---|---|---|
+| **Upland: Dartmoor** | High relief and exposed, resistant granite; steep local slopes. | Cooler, wetter conditions favour grazing, moorland and recreation. |
+| **Lowland: the Fens** | Very low relief; drainage, peat and sedimentary deposits shape the landscape. | Generally drier eastern conditions; drained, fertile land supports arable farming. |
+| **Glaciated: Cairngorms** | Ice has modified an upland landscape, leaving corries and steep-sided glacial valleys. | Cold upland conditions; conservation and tourism, including walking and winter sports. |
+
+**Glaciated** describes a landscape’s history, not a third height category: an upland area can also be glaciated.
+
 ## Processes that shape landscapes
 
 ### Weathering and mass movement
@@ -28,6 +38,16 @@ Think of Britain as a tilted table. The **north and west** are generally higher,
 | **Biological weathering** | Living things break rock, for example roots widening cracks. |
 | **Sliding** | Material moves downhill along a flat surface. |
 | **Slumping** | Saturated material rotates downhill along a curved surface. |
+
+### Keep the process groups separate
+
+| Process group | What happens | Key examples |
+|---|---|---|
+| **Weathering** | Rock breaks down in place. | Freeze–thaw, chemical solution and root action. |
+| **Mass movement** | Gravity moves material downslope. | Sliding on a flat failure surface; rotational slumping on a curved one. |
+| **Erosion** | Moving water removes and wears material. | Hydraulic action, abrasion, attrition and solution. |
+| **Transport** | Material is carried to another place. | Traction rolls, saltation bounces, suspension carries fine particles, solution carries dissolved material. |
+| **Deposition** | Carried sediment is laid down. | A river or wave loses the energy needed to transport its load. |
 
 ### Erosion, transport and deposition
 
@@ -45,6 +65,10 @@ Think of Britain as a tilted table. The **north and west** are generally higher,
 ### From source to mouth
 
 Upstream, a river usually has a steep gradient, a narrow channel and more vertical erosion. Downstream, tributaries add water, the channel becomes wider and deeper, and transport and deposition become more important.
+
+![Side view of waterfall undercutting, overhang collapse and upstream retreat](diagrams/waterfall-retreat.svg)
+
+**Read the sequence:** differential erosion creates the step; undercutting and collapse move it upstream.
 
 ### V-shaped valleys
 
@@ -67,6 +91,10 @@ Upstream, a river usually has a steep gradient, a narrow channel and more vertic
 - Slower water on the inside bend causes **deposition** and forms a slip-off slope.
 - The neck becomes narrower. During high flow, the river may cut through it.
 - Deposition seals the old bend, producing an **oxbow lake**.
+
+![Three plan views of a narrowing meander neck, flood cut-through and isolated oxbow lake](diagrams/oxbow-lake.svg)
+
+**Formation:** erosion narrows the neck, high flow cuts across it, then deposition seals the old bend.
 
 ### Floodplains and levees
 
@@ -101,11 +129,25 @@ This is a useful whole-river case study because its landscape changes from wet u
 
 The Wye shows that a textbook downstream pattern is useful, but local geology can create steep scenery even in the lower course.
 
+### Compare the Wye along its course
+
+| Part of the river | Landscape and process | Human connection |
+|---|---|---|
+| **Upper Wye: Plynlimon** | Wet uplands, steep gradients and comparatively narrow valleys encourage rapid runoff and vertical erosion. | Grazing and changes in vegetation affect how quickly rainfall reaches the channel. |
+| **Middle Wye: Hereford area** | A larger discharge and broader valley support meandering, lateral erosion and floodplain deposition. | Farming uses fertile alluvium; settlement and roads create assets exposed to flooding. |
+| **Lower Wye: Symonds Yat–Tintern** | Incision through limestone produces a steep gorge, so downstream does not always mean a wide, open valley. | Woodland, tourism, former quarries and riverside settlements shape land use. |
+
 ### Human use and pressure
 
 About **58% of the Wye Valley National Landscape is farmland** and about **27% is woodland**. Farming shapes field patterns and can compact soil or add sediment and nutrients to water. Settlements, roads, tourism, canoeing and walking bring income but add pressure to habitats and river access.
 
 Built surfaces speed runoff. Removing vegetation or compacting soils reduces interception and infiltration, so water reaches channels faster.
+
+### Quarrying and a changing landscape
+
+**Livox Quarry, south of Tintern**, is a named example of limestone extraction in the lower Wye. Quarrying removes rock and vegetation, changes slopes and creates access and transport demands. It also provides useful stone and employment. Restoration can create exposed geological features and wildlife habitats, so the long-term effect depends on how the site is managed.
+
+This connects the guide’s human-use example to a physical change: **rock extraction → altered relief and vegetation → different habitats, runoff and land use**.
 
 ### Flood risk and management
 
@@ -128,6 +170,10 @@ Build the chain **upland rainfall and steep slopes → rapid runoff and energeti
 - **Destructive waves** have a strong backwash and remove beach material.
 - **Constructive waves** have a strong swash and build beaches.
 - In **longshore drift**, swash carries sediment up the beach at the angle of the prevailing wind. Backwash returns straight downhill. The repeated zigzag moves material along the coast.
+
+![Plan view of diagonal swash and perpendicular backwash moving sediment along a beach](diagrams/longshore-drift.svg)
+
+**Two directions:** swash follows the approaching wave; gravity brings backwash straight down the beach.
 
 ### Headlands, bays, caves, arches and stacks
 
@@ -166,6 +212,10 @@ Eroded cliff material enters the coastal sediment system. **Longshore drift** mo
 
 **Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast.
 
+### Storm surges and coastal flooding
+
+On **5–6 December 2013**, a North Sea storm surge affected the east coast. Low pressure and strong winds raised sea level; when this coincides with high tide, water can overtop low coastal land. This is **flooding**, while cliff retreat is **erosion**. One event can cause both, but they are different processes.
+
 ### Management at Cromer
 
 Cromer uses a **sea wall, groynes and beach management**. The wall protects the promenade, town and infrastructure; groynes retain beach sediment so the wider beach absorbs wave energy.
@@ -177,6 +227,12 @@ These defences protect a high-value settlement and tourism economy. They are exp
 Continuous hard defence is harder to justify where the coast is long, weak and less densely developed. Happisburgh has experienced defence removal and adaptation to continuing retreat. Property, roads and community identity remain at risk.
 
 This creates conflict: national policy considers cost and sustainability, while residents experience direct loss. Compensation, planning controls, warning and help with relocation can reduce harm but do not stop erosion.
+
+### Holkham: protect the dunes while allowing access
+
+**Holkham’s beach and dunes** show how deposition and vegetation create a natural buffer. Wind moves dry sand inland; plants such as marram trap sand, and their roots help bind it. The dunes absorb some storm energy and support specialist habitats.
+
+Visitors bring spending but trampling can damage vegetation, exposing loose sand to erosion. **Boardwalks and steps** concentrate access onto durable routes. This is a softer management approach than a sea wall: it supports natural processes, but needs visitor cooperation and cannot guarantee protection from every storm.
 
 ### Shoreline planning and evaluation
 
@@ -203,3 +259,9 @@ Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to ret
 - Use **because**, **therefore** and **this leads to** to build explanations.
 - For each case study, link **place + process + landscape feature + human influence**.
 - When evaluating management, consider effectiveness, cost, people, environment and effects elsewhere.
+
+### Further case-study reading
+
+- [Holkham: dunes and visitor access](https://www.holkham.co.uk/visit/holkham-beach-nature-reserve/dunes/)
+- [Met Office: storm surges](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/storms/storm-surge)
+- [Wye Valley: quarry restoration and management](https://www.wyevalley-nl.org.uk/wp-content/uploads/Public-consultation-DRAFT-Wye-Valley-AONB-Management-Plan-2020-25-changes-v2015-20.pdf)

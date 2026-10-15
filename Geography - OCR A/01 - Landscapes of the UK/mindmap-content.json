@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "00-river-landscapes",
+    "title": "River landscapes and the Wye",
+    "panels": [
+      {
+        "title": "Separate the processes",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Weathering:** breakdown in place. **Mass movement:** gravity moves material downslope."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Erosion, transport and deposition:** removal, movement and laying down."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Upper-course landforms",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Vertical erosion:** deepens the channel. Weathering and mass movement help form V-shaped valleys."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Waterfall:** softer rock is undercut, the overhang collapses and retreat leaves a gorge."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Bends and floodplains",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Meander:** outer-bank erosion and inner-bank deposition. Cut-through plus sealed entrances makes an oxbow."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Floods:** alluvium builds floodplains. Coarser deposits beside the channel build levees."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "The Wye: place matters",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Plynlimon → Hereford → Chepstow:** a 251 km river from Welsh uplands to the Severn Estuary."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Symonds Yat:** the limestone gorge interrupts a simple widening-valley model."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "People shape the valley",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Farming and settlements:** alter soils, vegetation and runoff. Floodplains are useful but exposed."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Livox Quarry:** rock extraction alters relief. Restoration can create habitats."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Judge the management",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Natural flood management:** trees, ponds and barriers slow and store runoff."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Combine catchment measures with warnings and targeted protection. Exceptional floods can still exceed capacity."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-north-norfolk-coast",
+    "title": "Coastal landscapes and North Norfolk",
+    "panels": [
+      {
+        "title": "Erosion and weak cliffs",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Hydraulic action and abrasion:** attack the cliff foot. Saturation can trigger slumping."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Happisburgh:** weak deposits and continued retreat threaten homes and roads."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Move and deposit sediment",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Longshore drift:** diagonal swash and straight backwash move sediment along the shore."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Blakeney Point:** shingle deposition builds a spit, sheltering mudflats and salt marsh."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Other coastal landforms",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Headlands and bays:** contrasting rock resistance gives contrasting retreat."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Cave → arch → stack:** erosion enlarges weaknesses and roof collapse isolates rock."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Protect Cromer",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Sea wall:** resists waves. **Groynes:** retain sediment so a beach absorbs wave energy."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Defence protects settlement and tourism, but costs money and may affect sediment supply elsewhere."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Conserve Holkham dunes",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Marram and roots:** trap and bind sand. Dunes provide habitat and a natural buffer."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Boardwalks:** reduce trampling while allowing visitors. They cannot prevent every storm impact."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Compare the choices",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Cromer:** protect. **Happisburgh:** adapt to retreat. **Holkham:** support natural processes."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Judge effectiveness, cost, fairness and effects elsewhere. A storm surge floods land; erosion removes it."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]
