@@ -57,6 +57,14 @@ Emergency services and volunteers used boats, supported evacuation and delivered
 
 These actions protected life but could not quickly empty such a large, low-lying area while surrounding water levels remained high.
 
+### Compare the scales of response
+
+| Scale | Named action | What it achieves and what limits it |
+|---|---|---|
+| **Local** | Evacuation, supplies and access support for places such as Muchelney. | Protects life and keeps isolated communities supplied; it does not remove the floodwater source. |
+| **Catchment and regional** | Dredging the Parrett and Tone, pumping and upstream water storage. | Improves conveyance and storage, but needs maintenance and can shift water or risk elsewhere. |
+| **National with local delivery** | Funding and coordination through the 20-Year Flood Action Plan. | Supports major works and long-term resilience; success depends on sustained funding and cooperation. |
+
 ### Long-term management
 
 - Sections of the **Parrett and Tone were dredged**. Dredging programmes in 2014, 2016 and 2018 removed about **270,500 m³ of silt**.
@@ -94,12 +102,23 @@ Use evidence in a chain: **saturated low-lying land + prolonged rain + restricte
 
 **Renewable sources** are naturally replenished, such as wind, solar, hydroelectric, tidal and biomass. **Non-renewable sources** are finite, such as coal, oil, natural gas and uranium.
 
-| Choice | Main strengths | Main limitations |
-|---|---|---|
-| Wind and solar | Renewable; low operational carbon emissions | Intermittent; location and storage matter |
-| Biomass/biogas | Can use organic material and produce controllable energy | Land, feedstock, transport and emissions must be managed |
-| Fossil fuels | Reliable and energy dense | Finite; greenhouse gases and pollution |
-| Nuclear | Large, reliable output with low operational carbon emissions | High cost; long construction; radioactive waste |
+| Resource | Renewable? | How it is used / strengths | Limitations |
+|---|---|---|---|
+| **Coal** | No; finite fossil fuel. | Energy-dense fuel; historically important in UK power and industry. | High carbon emissions and air pollution. UK coal-fired power ended in September 2024. |
+| **Natural gas** | No; finite fossil fuel. | Heating and flexible electricity generation; power stations can respond to demand. | Carbon dioxide on combustion, methane leakage and exposure to import prices. |
+| **Oil** | No; finite fossil fuel. | Especially important for transport fuels and chemical feedstocks. | Emissions, spill risk and insecure or costly supplies. |
+| **Nuclear: uranium** | No; uranium is finite. | Large, dependable electricity output with low operational carbon emissions. | Long construction, high capital cost, radioactive waste and decommissioning. |
+| **Wind** | Yes. | Onshore and offshore turbines generate low-operational-carbon electricity. | Output varies with wind; grid links, storage and suitable locations matter. |
+| **Solar** | Yes. | Panels use sunlight; rooftops can generate near consumers. | No solar output at night and lower winter output; large farms use land. |
+| **Hydroelectricity** | Yes, through the water cycle. | Stored water can provide controllable power. | Dams flood land and alter river habitats; suitable sites are limited. |
+| **Tidal and wave** | Yes. | Tides are predictable; waves offer energy around exposed coasts. | High engineering costs, marine maintenance and effects on habitats or navigation. |
+| **Biomass and biogas** | Renewable if feedstock is replenished sustainably. | Organic material can provide controllable heat and electricity, including from waste. | Land, transport, combustion emissions and methane leakage affect sustainability. |
+
+### Compare demand and supply decisions
+
+**Renewable** describes whether a resource is replenished. **Low carbon** describes its emissions. They are different tests: nuclear is low carbon during operation but its uranium fuel is non-renewable. Biomass regrowth can replace feedstock, but production and transport can still cause emissions.
+
+Insulating a home reduces the energy it needs; building a power station increases supply. Comparing both avoids assuming that every future shortage must be solved by producing more energy.
 
 ## Changing UK energy supply
 
@@ -115,6 +134,21 @@ Changes are influenced by:
 - public acceptance.
 
 Demand also changes with population, industry, transport, household technology and energy efficiency.
+
+### Read a dated electricity mix
+
+![Zero-based bar chart of UK electricity generation in 2024: renewables 50.4%, fossil fuels 31.8%, nuclear 14.2% and other fuels 3.6%](diagrams/uk-electricity-2024.svg)
+
+**DUKES 2025 figures for 2024:** renewables generated 50.4% of UK electricity, compared with 31.8% from fossil fuels. This is a snapshot of **electricity generation**, not all the energy used for heating, transport and industry.
+
+| Generation group | 2024 share |
+|---|---|
+| Renewables | 50.4% |
+| Fossil fuels | 31.8% |
+| Nuclear | 14.2% |
+| Other fuels: remainder of rounded shares | 3.6% |
+
+The long-term pattern is a move away from coal and towards renewable electricity. Gas still matters because it can provide flexible generation when weather-dependent output is low.
 
 ## Energy case studies
 
@@ -143,6 +177,12 @@ Nuclear generation produces low carbon emissions during operation, but construct
 
 Hinkley Point C offers very large, dependable low-carbon output and substantial employment. Its drawbacks are high cost, long construction, local disruption and responsibility for nuclear waste. It is strongest as one part of a diverse low-carbon system rather than the only solution.
 
+### Hinkley Point C: proposed benefits and present disruption
+
+Hinkley Point C is **under construction**, so its planned generation is a future benefit, not electricity already being supplied. EDF describes output sufficient for around **six million homes** once operating. The local costs of construction occur before that output begins.
+
+The geographical issue is a difference in **scale and time**. National consumers may gain long-term energy security, while nearby communities face current traffic, accommodation demand and landscape change. Construction jobs and supply contracts benefit some people, but do not remove the need to manage those local impacts.
+
 ### Dryholme Farm, Silloth, Cumbria
 
 #### Place and scheme
@@ -160,6 +200,10 @@ Feedstock included maize and grass silage, triticale, vegetables and wheat. At l
 5. **Digestate** returns nutrients to farmland as fertiliser.
 
 The plant has a capacity of about **1 MW**, enough in planning estimates for roughly **1,200 homes**, and became operational in **2011**.
+
+![Flow diagram showing oxygen-free digestion, biogas production, an engine generating heat and electricity, and digestate returned to fields](diagrams/anaerobic-digestion.svg)
+
+**Two useful outputs:** biogas supplies energy; digestate returns nutrients to farmland. They follow different routes.
 
 #### Benefits
 
@@ -204,3 +248,9 @@ Use four tests:
 - Compare supply schemes with demand reduction.
 - Know how the UK energy mix has changed and why.
 - Use Hinkley Point C and Dryholme Farm to evaluate contrasting energy strategies.
+
+### Further case-study reading
+
+- [DESNZ: DUKES 2025, electricity statistics for 2024](https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025)
+- [EDF: Hinkley Point C project](https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c)
+- [Somerset Council: the 2014 floods and long-term response](https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/)

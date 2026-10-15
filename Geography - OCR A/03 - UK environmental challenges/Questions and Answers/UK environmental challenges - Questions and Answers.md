@@ -70,9 +70,21 @@
 - Biogas.
 - Digestate.
 
+**13.** Why can nuclear energy be low carbon but non-renewable?
+
+**Answer:**
+
+Its operation generates electricity with low carbon emissions, but the uranium fuel is a finite resource that is not naturally replenished on a human timescale.
+
+**14.** Using the 2024 electricity shares in the notes, calculate the difference between renewables and fossil fuels.
+
+**Answer:**
+
+50.4 − 31.8 = **18.6 percentage points**.
+
 ## 3 marks
 
-**13.** Explain how prolonged rainfall can cause river flooding.
+**15.** Explain how prolonged rainfall can cause river flooding.
 
 **Answer:**
 
@@ -80,7 +92,7 @@
 - More water then flows over the surface or rapidly through the soil into rivers.
 - Discharge rises above channel capacity and water spills onto the floodplain.
 
-**14.** Explain why the Somerset Levels are vulnerable to flooding.
+**16.** Explain why the Somerset Levels are vulnerable to flooding.
 
 **Answer:**
 
@@ -88,7 +100,7 @@
 - Water drains slowly through rivers and artificial channels, especially when the ground is saturated.
 - High tides can restrict river outflow, so water spreads widely across the Levels.
 
-**15.** Explain one environmental problem caused by intensive food production.
+**17.** Explain one environmental problem caused by intensive food production.
 
 **Answer:**
 
@@ -96,7 +108,7 @@
 - Nutrients encourage excessive algal growth.
 - Decomposition then reduces oxygen, harming aquatic life.
 
-**16.** Explain how anaerobic digestion produces useful energy.
+**18.** Explain how anaerobic digestion produces useful energy.
 
 **Answer:**
 
@@ -106,7 +118,7 @@
 
 ## 4 marks
 
-**17.** Explain how air masses and continentality create contrasting UK weather.
+**19.** Explain how air masses and continentality create contrasting UK weather.
 
 **Answer:**
 
@@ -115,14 +127,14 @@
 - Coastal places are moderated by the sea because water heats and cools slowly.
 - Inland areas have a greater temperature range because land changes temperature faster.
 
-**18.** Explain how two long-term strategies reduce flood risk on the Somerset Levels.
+**20.** Explain how two long-term strategies reduce flood risk on the Somerset Levels.
 
 **Answer:**
 
 - Dredging selected sections of the Parrett and Tone increases channel capacity; programmes in 2014, 2016 and 2018 removed about 270,500 m³ of silt.
 - Raising the Muchelney–Drayton road maintains community access during floods, reducing isolation even when surrounding land stores water.
 
-**19.** Explain why the UK's energy mix has changed since 1950.
+**21.** Explain why the UK's energy mix has changed since 1950.
 
 **Answer:**
 
@@ -131,16 +143,28 @@
 - Nuclear provided dependable low-operational-carbon electricity.
 - Falling costs, technology and climate policy encouraged growth in renewables.
 
-**20.** Explain two disadvantages of Hinkley Point C.
+**22.** Explain two disadvantages of Hinkley Point C.
 
 **Answer:**
 
 - A very large, lengthy construction project creates traffic, accommodation pressure, cost and local habitat or landscape disturbance.
 - Radioactive waste from electricity generation must be securely managed for far longer than the station's planned 60-year operating life.
 
+**23.** Explain why electricity-generation shares cannot be used as shares of all UK energy consumption.
+
+**Answer:**
+
+Electricity is only one way energy is supplied. Vehicles may use petroleum fuels directly, and buildings or industry may burn gas for heat. Those uses are not all included in an electricity-generation chart. The same fuel can therefore have a different share of electricity generation and total energy use.
+
+**24.** Explain two outputs of anaerobic digestion at Dryholme Farm.
+
+**Answer:**
+
+Microorganisms break down feedstock without oxygen, producing methane-rich biogas. Burning this in an engine provides electricity and usable heat. The remaining digestate contains nutrients that can be returned to fields as fertiliser. Safe storage and spreading are important to prevent pollution.
+
 ## 6 marks
 
-**21.** Assess the success of flood management on the Somerset Levels.
+**25.** Assess the success of flood management on the Somerset Levels.
 
 **Answer:**
 
@@ -151,7 +175,7 @@
 - Faster drainage can transfer risk, and no system can stop exceptional rainfall flooding land below high-tide level.
 - Management is more resilient because it combines channels, pumps, access, warnings and natural storage, although it reduces rather than removes risk.
 
-**22.** Evaluate Hinkley Point C as a sustainable response to UK energy needs.
+**26.** Evaluate Hinkley Point C as a sustainable response to UK energy needs.
 
 **Answer:**
 
@@ -162,7 +186,7 @@
 - Radioactive waste and decommissioning create responsibilities far into the future.
 - Its reliable low-carbon scale is valuable, but it is sustainable only as part of a diverse system that also reduces demand and manages local and long-term costs.
 
-**23.** Assess anaerobic digestion at Dryholme Farm as a local energy strategy.
+**27.** Assess anaerobic digestion at Dryholme Farm as a local energy strategy.
 
 **Answer:**
 
@@ -173,8 +197,25 @@
 - Purpose-grown energy crops still use farmland, while deliveries, odour, pollution or methane leakage can reduce the environmental benefit.
 - The scheme is most sustainable when it prioritises nearby wastes, controls leakage and uses digestate safely; its small scale means it complements rather than replaces national supply.
 
-**24.** Evaluate whether reducing demand is better than increasing resource supply.
+**28.** Evaluate whether reducing demand is better than increasing resource supply.
 
 **Answer:**
 
 Reducing leakage, waste and energy use can cut bills and environmental damage without flooding land for reservoirs or building new power stations. Efficiency measures can act across many homes and businesses. However, they require investment and behaviour change, and demand cannot be reduced to zero. Population, industry and extreme weather may still require secure additional supplies. New reservoirs or power generation can improve reliability but create cost and environmental impacts. The most resilient approach combines demand reduction first with carefully chosen, diverse supplies for the remaining need.
+
+**29.** Compare the contribution and limitations of Hinkley Point C and Dryholme Farm as energy strategies.
+
+**Answer:**
+
+Hinkley Point C is a national-scale nuclear project designed to provide a large, dependable supply of low-operational-carbon electricity. Its disadvantages include long construction, high capital cost and radioactive waste. Dryholme is a local anaerobic digestion scheme of about 1 MW, using organic material to produce controllable power and digestate. Its output is much smaller, and purpose-grown crops, deliveries or methane leakage can reduce sustainability. Both can complement variable wind and solar, but neither removes the need to reduce demand and manage environmental costs.
+
+## Past-paper sources
+
+These are original practice questions and answers, checked against the current OCR A J383 specification. Additional questions practise the guide’s case-study links; no past-paper frequency claim is made.
+
+- [School revision guide](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub)
+- [Official OCR A specification](../../00%20-%20Specification/OCR-J383-specification.pdf)
+- [OCR assessment materials](https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/assessment/)
+- [DESNZ: DUKES 2025, electricity statistics for 2024](https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025)
+- [EDF: Hinkley Point C project](https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c)
+- [Somerset Council: the 2014 floods and long-term response](https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/)

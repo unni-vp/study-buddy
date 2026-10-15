@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "00-uk-environment-and-energy",
+    "title": "UK environmental challenges and energy",
+    "panels": [
+      {
+        "title": "Climate creates hazards",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Air masses, Atlantic influence and continentality:** explain contrasting UK weather."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Relief lifts moist air. A succession of storms can saturate a catchment."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Somerset: causes and effects",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**2013–14:** prolonged rain, saturated land, slow lowland drainage and high tides combined."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Flooding damaged homes, isolated Muchelney and disrupted farms, roads and businesses."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Manage at several scales",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Immediate:** rescue, supplies, warnings and pumping. **Longer term:** dredging, raised roads and storage."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "The Flood Action Plan combines organisations. Maintenance and exceptional rainfall limit every scheme."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Compare the resources",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Finite:** coal, oil, gas and uranium. **Renewable:** wind, solar, water and sustainably replenished biomass."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Low carbon is different from renewable. Reliability, costs and impacts must also be compared."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Hinkley Point C",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Under construction:** intended large, dependable low-carbon electricity output."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Jobs and energy security come with high cost, delay, disruption and long-term waste responsibilities."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Dryholme and future choices",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**About 1 MW:** organic feedstock produces biogas, heat, electricity and useful digestate."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Prevent leakage and pollution. Use demand reduction and a diverse supply mix at local and national scales."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-15",
   "specification": "OCR J383 1.3",
   "source": "../00 - Specification/OCR-J383-specification.pdf",
   "coverage": {
@@ -17,7 +17,9 @@
     "Hinkley Point C",
     "Dryholme Farm anaerobic digestion"
   ],
-  "mindmaps": [],
+  "mindmaps": [
+    "00-uk-environment-and-energy"
+  ],
   "flashcards": {
     "reviewed": "2026-10-12",
     "source": "Questions and Answers/UK environmental challenges - Questions and Answers.md",
@@ -29,5 +31,31 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "revision_guide_review": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+    "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+    "tables_adapted": [
+      5
+    ],
+    "diagrams_recreated": [
+      "uk-electricity-2024",
+      "anaerobic-digestion"
+    ],
+    "corrections_and_exclusions": [
+      "Guide incorrectly calls nuclear renewable; uranium is non-renewable.",
+      "Guide energy pie chart is undated/historic; replace with dated DUKES 2025 electricity shares for 2024, separate from total energy.",
+      "Do not carry forward obsolete 2050 carbon target, subsidy assertions or construction cost forecasts as current facts.",
+      "Dryholme retains verified 1 MW and planning estimate about 1,200 homes, not guide 4,000.",
+      "Hinkley C is under construction; separate proposed generation from current impacts."
+    ],
+    "primary_sources": [
+      "https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025",
+      "https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c",
+      "https://www.somerset.gov.uk/news/flood-anniversary-flood-resilience-and-adaptation-a-key-part-of-somersets-future/"
+    ],
+    "additional_questions": 5,
+    "total_questions": 29,
+    "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
   }
 }
