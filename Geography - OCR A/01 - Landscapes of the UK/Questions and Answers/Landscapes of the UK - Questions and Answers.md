@@ -134,8 +134,8 @@
 
 **Answer:**
 
-- The Wye rises on Plynlimon, where high rainfall and steep slopes produce rapid runoff and energetic erosion.
-- Downstream, tributaries raise discharge and gentler relief allows meanders, floodplains and deposition.
+- Near Plynlimon, high rainfall and steep slopes produce rapid runoff. Hydraulic action and abrasion erode the Wye bed, while weathering and mass movement supply material from valley sides.
+- Around Hereford, lateral erosion cuts the outside of meanders while deposition builds inner slip-off slopes. Floodwater slows beyond the channel and deposits alluvium across the floodplain.
 - Carboniferous Limestone creates a steep lower gorge around Symonds Yat, showing that geology modifies the usual downstream pattern.
 - Farming and building alter runoff, while natural flood-management work with more than 140 landowners slows and stores water upstream.
 
@@ -143,10 +143,10 @@
 
 **Answer:**
 
-- Soft cliffs at places such as Happisburgh supply sediment to the coastal system.
-- Longshore drift moves this material towards beaches and depositional features such as Blakeney Point.
+- Cliffs and beaches supply sediment, and longshore drift moves it along a local stretch of coast.
 - Groynes at a defended settlement such as Cromer retain beach material locally.
-- This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion.
+- Less sediment may reach a neighbouring stretch, leaving a narrower beach that absorbs less wave energy.
+- The direction depends on the frontage: Blakeney receives westward transport, while material at Happisburgh generally moves south. Do not assume a direct Happisburgh-to-Blakeney route.
 
 **22.** Explain why an oxbow lake does not form as soon as a river crosses a meander neck.
 
@@ -167,8 +167,8 @@ Visitors can trample plants, leaving sand less stable. Boardwalks and steps guid
 **Answer:**
 
 - Much of the coast consists of weak sands, silts, clays and gravels, so waves can erode the cliff foot rapidly.
-- Rainwater saturates this material and encourages slumping, especially at Happisburgh.
-- Eroded sediment is transported by longshore drift and helps build beaches, Blakeney Point, mudflats and salt marsh.
+- At Happisburgh, wave undercutting removes support from the cliff foot. Rainwater saturation encourages slumping, and waves remove fallen debris so erosion can continue.
+- Transport and deposition build contrasting features elsewhere: westward drift extends Blakeney Point, and fine sediment settles in its sheltered water to form mudflats and salt marsh.
 - Geology therefore creates the basic vulnerability and supplies depositional landforms.
 - However, storms, high tides, wave energy and management alter the rate and location of change.
 - Geology is the underlying control, while marine conditions and human decisions determine the short-term pattern.
@@ -189,8 +189,8 @@ In the steep upper course, turbulent water and vertical erosion cut V-shaped val
 
 **Answer:**
 
-- The 251 km Wye descends from wet uplands at Plynlimon, where steep slopes encourage runoff and vertical erosion.
-- Tributaries increase discharge downstream, supporting lateral erosion, meanders and floodplain deposition.
+- The 251 km Wye descends from wet uplands at Plynlimon, where hydraulic action and abrasion cut into the bed. Weathering and mass movement supply material from the valley sides.
+- Around Hereford, lateral erosion on outer bends and deposition on inner bends form meanders. Floods deposit alluvium on the broad valley floor.
 - Carboniferous Limestone helps form the lower gorge around Symonds Yat, so geology interrupts a simple source-to-mouth pattern.
 - Farming, settlements, roads and recreation change vegetation, drainage and how the valley is used.
 - Herefordshire's 2018–2021 natural flood-management pilot worked with more than 140 landowners to slow runoff using landscape measures.

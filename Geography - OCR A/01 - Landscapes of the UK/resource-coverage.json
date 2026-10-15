@@ -96,5 +96,22 @@
       "numerical_facts_preserved": true
     },
     "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
+  },
+  "landscape_process_review": {
+    "reviewed": "2026-10-16",
+    "standard": "Link named place, process, mechanism, landform and management effect.",
+    "Wye": [
+      "Plynlimon: hydraulic action, abrasion, vertical erosion, weathering and mass movement",
+      "Hereford: lateral erosion, slip-off slopes and floodplain alluvium",
+      "Symonds Yat–Tintern: limestone incision and incised bends",
+      "Land use: interception, runoff, abstraction, slope stability and sediment supply"
+    ],
+    "North_Norfolk": [
+      "Happisburgh: undercutting, saturation, slumping and debris removal",
+      "Blakeney: westward transport, spit growth and sheltered deposition",
+      "Holkham: wind transport, marram trapping and dune stability",
+      "Cromer/Sea Palling: defence effects on energy and sediment",
+      "Different frontages have different sediment directions; no assumed Happisburgh-to-Blakeney route."
+    ]
   }
 }

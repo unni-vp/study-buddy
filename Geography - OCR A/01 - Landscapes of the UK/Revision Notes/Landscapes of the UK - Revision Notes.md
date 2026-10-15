@@ -118,13 +118,15 @@ This is a useful whole-river case study because its landscape changes from wet u
 
 ### River processes and landforms
 
-**Upper course:** high rainfall, steep gradients and coarse load give the river energy for vertical erosion. Weathering and mass movement steepen valley sides.
+**Upper Wye near Plynlimon: erosion and valley development:** Heavy rainfall and steep slopes produce rapid runoff and energetic flow. **Hydraulic action** loosens material through the force of water, while **abrasion** occurs when transported stones scrape the bed. Vertical erosion cuts the channel down. Weathering loosens rock on the valley sides, and mass movement carries it downhill. The river removes this material, helping form a **V-shaped valley**.
 
-**Middle course:** tributaries increase discharge. Lateral erosion and deposition create meanders, river cliffs and slip-off slopes.
+**Middle Wye around Hereford: meanders:** Tributaries add water and increase discharge. Faster flow on the outside of a bend causes **lateral erosion**, producing a river cliff. Slower flow on the inside loses energy and deposits sediment, building a **slip-off slope**. Repeated erosion and deposition move the bends across the valley floor.
 
-**Lower course:** a larger channel carries more water. Repeated floods deposit alluvium across floodplains, while the river has also cut a dramatic gorge through resistant limestone.
+**Floodplain deposition:** When the Wye floods, water spreads beyond the channel and slows down. It deposits **alluvium**, gradually building the broad, fertile floodplain around places such as Hereford. This explains both the value of the land for farming and its exposure to flooding.
 
-The Wye shows that a textbook downstream pattern is useful, but local geology can create steep scenery even in the lower course.
+**Lower Wye around Symonds Yat and Tintern: river incision:** Over time, the Wye has cut down into the resistant **Carboniferous Limestone**, leaving steep gorge sides and deeply cut bends. This downward cutting is **incision**. Rock resistance helps the sides remain steep, so a lower-course landscape does not always become an open, gentle valley. Slightly acidic water can also dissolve limestone through **solution**.
+
+**Transport links the landscape:** Large stones can move by **traction** along the bed or **saltation** in short hops. Fine sediment travels in **suspension**, while dissolved minerals move in solution. Where flow loses the ability to carry its load, deposition supplies features such as slip-off slopes and floodplains.
 
 | Part of the river | Landscape and process | Human connection |
 |---|---|---|
@@ -138,7 +140,7 @@ About **58% of the Wye Valley National Landscape is farmland** and about **27% i
 
 **Water use and pollution:** Farmers abstract river water for irrigation. Fertilisers, manure and sediment can enter the river, so farm management must protect water quality as well as maintain food production. Built surfaces speed runoff, while removing vegetation or compacting soil reduces interception and infiltration. Water then reaches channels faster.
 
-**Tourism and heritage:** Canoeing, fishing and walking depend on the river and its scenery. The annual **Hay-on-Wye literature festival** brings visitors and spending. Historically, woodland supplied charcoal and timber for shipbuilding, changing vegetation and land use.
+**Tourism and heritage:** Canoeing, fishing and walking depend on the river and its scenery. The annual **Hay-on-Wye literature festival** brings visitors and spending. Historically, woodland supplied charcoal and timber for shipbuilding, changing vegetation and land use. Removing trees reduces interception and root binding, which can increase runoff, soil erosion and sediment entering the channel. Water abstraction for irrigation can reduce discharge, changing the river's capacity to transport sediment, especially during low flows.
 
 **Livox Quarry, south of Tintern**, is a named example of limestone extraction in the lower Wye. Quarrying removes rock and vegetation, changes slopes and creates access and transport demands. It also provides useful stone and employment. Restoration can create exposed geological features and wildlife habitats, so the long-term effect depends on how the site is managed.
 
@@ -148,7 +150,7 @@ The physical change can be explained as a chain: **rock extraction → altered r
 
 Communities such as Hereford and Monmouth can flood after prolonged rainfall. The published textbook case study estimates around **9,000 properties** at particular flood risk in the area; this is an estimate of exposure, not a count of properties flooded in one event. Warnings and local defences reduce immediate risk, but hard defences may be costly and can move water downstream.
 
-The **Herefordshire Natural Flood Management pilot (2018–2021)** worked with more than **140 landowners**. Measures included restoring ponds, planting trees or hedges and using barriers that slow runoff. These store water in the landscape before it reaches the river.
+The **Herefordshire Natural Flood Management pilot (2018–2021)** worked with more than **140 landowners**. Measures included restoring ponds, planting trees or hedges and using barriers that slow runoff. These store water in the landscape before it reaches the river. Slower runoff can reduce peak discharge, while roots and vegetation trap sediment and help stabilise slopes. Management changes the movement of water and sediment as well as the risk to buildings.
 
 ### Evaluation
 
@@ -192,17 +194,23 @@ The North Norfolk coast faces the North Sea. Named places include **Cromer**, **
 
 ### Why the coast is vulnerable
 
-**Weak cliffs:** Many cliffs contain **sands, silts, clays and gravels** deposited during the last two million years. Waves use hydraulic action and abrasion at the cliff foot, while rainwater saturates the material and encourages slumping. At **Happisburgh**, this combination causes soft cliffs to retreat. Chalk and flint also occur along the coast, including harder outcrops near **Cromer**, so resistance varies between places.
+**Wave erosion at Happisburgh:** The cliffs contain weak glacial deposits of sand, silt, clay and gravel. **Hydraulic action** uses the force of waves to loosen material, while **abrasion** occurs as waves throw sand and shingle against the cliff foot. Undercutting removes support from the material above, helping the cliff retreat.
 
-**Low land and storm surges:** North Sea storms and high tides increase erosion and flood risk. On **5–6 December 2013**, a major storm surge affected the east coast, including places such as **Blakeney and Wells-next-to-Sea**. Low pressure and strong winds raised sea level, allowing water to overtop low coastal land when combined with high tide. **Flooding** covers land with water, whereas **erosion** removes land; the same storm can cause both.
+**Weathering and mass movement:** Rainwater enters the cliff and saturates material, making it heavier and less stable. Slumping and sliding move it down the slope; waves then remove fallen debris and expose the cliff again. Marine erosion and **mass movement** therefore work together. Chalk, flint and glacial deposits differ in resistance, helping explain variation along the wider coast.
 
-**Assets at risk:** Homes, roads, tourism businesses, fishing and farmland depend on this changing coastline. Cromer's seafront and valuable infrastructure help justify stronger protection. At less densely developed locations, the cost of continuous defence is harder to justify, creating conflict with residents at risk of losing property.
+**Storm surges and flooding:** On **5–6 December 2013**, a major North Sea surge affected the east coast, including **Blakeney and Wells-next-to-Sea**. Low pressure and strong winds raised sea level, and high tides increased the risk of water overtopping low land. **Flooding** covers land with water, whereas **erosion** removes material. One storm can cause both, but the processes are different.
+
+**Why the impacts matter:** Homes, roads, fishing, tourism and farmland are exposed to change. Cromer's concentrated seafront assets help justify protection, while continuous defence is harder to justify on long, less developed stretches. The physical process creates the risk, but land use determines what can be damaged.
 
 ### Sediment movement and depositional landforms
 
-Eroded cliff material enters the coastal sediment system. **Longshore drift** moves it westwards along parts of the coast. Where wave energy falls, sediment builds beaches and depositional features.
+**Longshore drift:** Waves approaching at an angle carry sediment diagonally up the beach in the **swash**. Gravity returns it more directly downhill in the **backwash**. Repeated movement transports sediment along a stretch of coast. The direction varies around Norfolk: it is westwards along the Blakeney frontage, while material at **Happisburgh** is generally moved further south. These are not one simple route from Happisburgh to Blakeney.
 
-**Blakeney Point** is a long shingle spit. Its sheltered side contains mudflats and salt marsh. The spit depends on a continuing sediment supply, so management that traps material in one place may change another place further along the coast. At **Holkham**, a wide beach and shallow seabed expose sand at low tide. Wind blows dry sand inland, where marram grass traps it and helps dunes develop. Salt marshes, including **Stiffkey**, also trap sediment and provide a natural buffer.
+**Blakeney Point: spit growth:** A shingle ridge extending from the **Weybourne–Cley** frontage has grown westwards to form **Blakeney Point**. Sediment is deposited where waves lose the capacity to carry it, extending the spit. Sheltered water behind the ridge has lower energy, allowing finer sediment to settle as mudflats. Salt-tolerant plants trap more sediment, helping **salt marsh** develop.
+
+**Holkham: wind and dune formation:** A wide beach and shallow seabed expose sand at low tide. Wind transports dry sand inland. Marram grass traps it, and roots help bind it, allowing **sand dunes** to build. Trampling damages vegetation and exposes sand to renewed erosion, so visitor management affects the landform itself.
+
+**Sediment supply and protection:** Beaches, dunes and salt marshes absorb some wave energy, but depend on sediment and vegetation. Eroding cliffs supply material; groynes and breakwaters can retain it locally and change what moves along the coast. Sediment supply, storm conditions and management therefore determine where erosion or deposition dominates. **Stiffkey's salt marsh** is another example of vegetation and sediment building a natural coastal buffer.
 
 ### Management at Cromer
 
@@ -214,7 +222,7 @@ These defences protect a high-value settlement and tourism economy. They are exp
 
 ### Adaptation at Happisburgh
 
-Continuous hard defence is harder to justify where the coast is long, weak and less densely developed. Happisburgh has experienced defence removal and adaptation to continuing retreat. Property, roads and community identity remain at risk.
+Continuous hard defence is harder to justify where the coast is long, weak and less densely developed. At **Happisburgh**, parts of the coast continue to retreat despite local rock armour reducing wave energy. The rock sill has been repositioned as the cliff recedes. Adaptation includes moving access and facilities away from danger. Property, roads and community identity remain at risk.
 
 This creates conflict: national policy considers cost and sustainability, while residents experience direct loss. Compensation, planning controls, warning and help with relocation can reduce harm but do not stop erosion.
 
@@ -255,3 +263,9 @@ Use named contrasts: **Cromer—hold and protect**; **Happisburgh—adapt to ret
 - [Publisher textbook sample: River Wye land use and flood exposure](https://www.hoddereducation.com/media/Documents/Geography/9781510477520_Sample.pdf)
 
 - [North Norfolk: coastal defence survey, including Sea Palling](https://jobs.north-norfolk.gov.uk/media/3130/c2ws_appendix_a_coastal_defence_condition_survey_update.pdf)
+
+- [North Norfolk: Happisburgh erosion mechanisms and sediment direction](https://www.north-norfolk.gov.uk/media/11674/happisburgh-assessment-of-rock-bund-and-beach-access-p03.pdf)
+
+- [National Trust: Blakeney spit and shingle ridge](https://www.nationaltrust.org.uk/visit/norfolk/blakeney-national-nature-reserve/blakeney-point-coastal-walk)
+
+- [North Norfolk: Happisburgh rock armour and adaptation](https://www.north-norfolk.gov.uk/news/2024/november/the-coastwise-team-is-working-with-the-community-in-happisburgh/)
