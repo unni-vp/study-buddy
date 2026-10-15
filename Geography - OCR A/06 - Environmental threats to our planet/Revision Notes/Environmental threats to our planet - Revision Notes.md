@@ -116,39 +116,33 @@ Compare frequency using the **same definition, location and time period**. Count
 
 ### Development and causes
 
-The case study covers severe phases of the longer **Millennium Drought**, which affected southern Australia from the late 1990s to 2009–10.
+**Timing and rainfall:** The **2002–2009** case study covers severe phases of the longer **Millennium Drought**, which affected southern Australia from the late 1990s to **2009–10**. During the **2002–03 El Niño**, reduced rainfall in the western Pacific helped produce drought in Australia. Rainfall deficiency from March **2002** to January **2003** rivalled the country's most severe recorded droughts. In **2002**, national rainfall averaged **339 mm**, compared with a long-term average of **472 mm**; it was then the fourth-driest year since **1900**.
 
-- The **2002–03 El Niño** shifted rainfall away from the western Pacific. From March 2002 to January 2003, rainfall deficiency rivalled Australia's most severe recorded droughts.
-- In 2002, national rainfall averaged **339 mm**, compared with a long-term average of **472 mm**. It was Australia's fourth-driest year since 1900 at that time.
-- A further El Niño in **2006–07** brought very low rainfall across southern and coastal areas. Long-term cool-season rainfall decline meant wet months did not fully restore soil, rivers or reservoirs.
-- High temperatures increased evaporation and dried vegetation, farms and water stores.
+**Repeated dry periods and heat:** A further **El Niño in 2006–07** brought very low rainfall across southern and coastal areas. Declining cool-season rainfall meant occasional wet months did not fully restore soil moisture, rivers and reservoirs. High temperatures increased evaporation and dried vegetation and water stores. The whole drought was **not one continuous El Niño**: several climate influences combined with repeated dry seasons.
 
-This was not one continuous El Niño. Several climate influences acted across the period, while repeated dry seasons created a cumulative water shortage.
-
-The **Murray–Darling Basin** supports irrigated farming, towns and ecosystems. Abstraction during low flows increases competition between them, so the severity of water stress reflects demand and management as well as rainfall. Describing the whole 2002–2009 period as one El Niño would hide that combination.
+**Water demand:** The **Murray–Darling Basin** supplies irrigated farms, towns and ecosystems. Around the drought period it supported more than **2 million people** and about **40% of Australia's agricultural production by value**. These figures describe the whole basin, rather than only settlements directly on the Murray River. Taking water during low flows increases competition between users, so demand and management make the rainfall shortage more severe.
 
 ### Effects on people and the economy
 
-- Crop and livestock production fell, reducing farm income and increasing stress in rural communities.
-- Irrigators in the Murray–Darling Basin received less water, creating conflict between farms, towns and the environment.
-- Cities introduced water restrictions. Melbourne's water storage fell from **97.5% in October 1996 to 33.0% in June 2010**.
-- Hydroelectric output and some industries faced reduced water supply.
-- Dry heat increased bushfire danger. The 2006–07 Great Divide fires were the longest-running bushfires in Victoria's recorded history.
+**Farms and rural communities:** Lower crop yields and livestock production reduced farm income. Some farmers sold animals they could no longer feed, affecting associated businesses and employment. Reduced irrigation allocations in the **Murray–Darling Basin** intensified competition between farms, towns and environmental needs. Financial pressure and uncertainty increased stress in rural communities.
+
+**Cities and industry:** Water restrictions affected households and businesses. Melbourne's water storage fell from **97.5% in October 1996 to 33.0% in June 2010**, showing the cumulative effects of the wider drought. Hydroelectric generation and other water-dependent industries faced reduced supply. Lower agricultural production could also raise food costs and disrupt tourism dependent on rivers and lakes.
+
+**Fire risk:** Dry vegetation and heat increased bushfire danger. The **2006–07 Great Divide fires** were the longest-running bushfires in Victoria's recorded history, adding danger and disruption to already stressed communities.
 
 ### Environmental effects
 
-- River flows and wetland flooding declined.
-- Vegetation dried and habitats deteriorated.
-- Low water levels and poor water quality harmed fish and other wildlife.
-- Bare, dry soil became more vulnerable to erosion and salinity problems.
+**Rivers and wetlands:** Reduced river flows meant fewer wetland floods and shrinking aquatic habitats. Low water levels could worsen water quality, including conditions favouring harmful algal blooms. Fish and other wildlife lost suitable habitat, and stressed river red gums showed how plants also depend on regular flows.
+
+**Vegetation and soil:** Heat and lack of water dried vegetation and reduced habitat quality. Bare, dry soil was more vulnerable to wind erosion, while reduced flushing and low flows could worsen salinity problems. These changes weakened the whole ecosystem, rather than affecting water supplies alone.
 
 ### Responses and adaptation
 
-- **Water restrictions** reduced garden watering and other non-essential use.
-- Cities invested in **desalination**, recycled water and connections between water-supply systems.
-- Irrigation was made more efficient through lining channels, better scheduling and water trading.
-- Farmers changed crops, reduced herds, stored fodder and used seasonal forecasts.
-- Governments bought back some water rights to increase environmental flows in the Murray–Darling system.
+**Saving water:** Restrictions reduced garden watering, car washing and other non-essential use. Rainwater tanks and reuse of suitable household water helped reduce demand on public supplies. Irrigation improvements, including lined channels and better scheduling, aimed to produce more crops from each unit of water.
+
+**Diversifying supplies:** Cities invested in recycled water, linked supply systems and **desalination**. **Sydney's Kurnell desalination plant** was built in response to the drought and began supplying water in **2010**. It can provide up to **15% of Sydney's drinking water**, adding a source that does not depend on local rainfall. This was a longer-term response, rather than a plant supplying water throughout **2002–2009**.
+
+**Supporting farms and sharing water:** Farmers changed crops, reduced herds, stored fodder and used seasonal forecasts. Drought relief helped households cope financially. Water allocation rules and trading redistributed scarce supplies, while government purchases of some water rights supported environmental flows in the **Murray–Darling system**. These approaches involve choices between competing users.
 
 | Response | How it helps | Main trade-off |
 |---|---|---|
@@ -183,3 +177,7 @@ However, desalination is expensive and energy-intensive, water trading may disad
 - [Australian Bureau of Meteorology: ENSO history](https://www.bom.gov.au/climate/history/enso/)
 - [Bureau of Meteorology: the 2002 annual climate statement](https://www.bom.gov.au/climate/current/annual/aus/2002/)
 - [IPCC AR6: weather and climate extremes](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/)
+
+- [Murray–Darling Basin Authority annual report 2011–12: population and agriculture](https://www.parliament.nsw.gov.au/tp/files/1382/MDBA-annual-report-2011-12-web.pdf)
+
+- [Sydney Desalination Plant: purpose, completion and supply](https://sydneydesal.com.au/education/our-role-in-supplying-sydneys-water/)

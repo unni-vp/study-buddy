@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "Australia drought": [
+      {
+        "booklet_claims": "2002–09singleElNino;23moverpopulated;2mMurray;40%agriculture/70%irrigation",
+        "decision": "RetainmultipleElNinophases/rain339vs472mm. AddwholeMurrayDarlingBasin~2mpeople/~40%agriculturalvaluewith2011–12source,notMurrayRiveralone. Rejectunqualifiedoverpopulationandundated70%denominator."
+      },
+      {
+        "booklet_claims": "$1.7m/dayrelief,$400–600fortnight;20%bills2008;dairyhalved;10000cottonjobs",
+        "decision": "Retainreliefandfood/farm/industry/stresseffects; bookletdoesnotestablishdates,regionsorunitsforfigures,sotheyarenotnationalfacts. KeepdatedMelbournestorage97.5→33.0%."
+      },
+      {
+        "booklet_claims": "Restrictions,tanks,greywater,irrigation,trading,Sydneydesal",
+        "decision": "AddnamedKurnell/2010/up-to15%Sydneywater,savingsandsharingmechanisms. Preservecomparisontable; distinguishlong-termresponsefromsupplyduring2002–09."
+      },
+      {
+        "booklet_claims": "Algaloutbreaks,HEP,erosion,habitatloss,grasslandtoscrub",
+        "decision": "Addalgalrisk,redgumstress/winderosion/salinity; retainHEP. Avoidclaimthatallgrasslandbecamescruborallenergyshortfallwasreplacedbyfossilfuels."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}
