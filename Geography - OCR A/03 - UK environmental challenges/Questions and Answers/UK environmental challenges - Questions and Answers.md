@@ -168,7 +168,7 @@ Microorganisms break down feedstock without oxygen, producing methane-rich bioga
 
 **Answer:**
 
-- In early 2014 about 100 million m³ of water covered roughly 65 km², flooding around 172 properties and cutting off communities such as Muchelney.
+- In early 2014 about 100 million m³ of water was reported across roughly 65 km². Around 600 homes were affected across the wider event, while an economic assessment counted at least 165 internally flooded homes. Communities such as Muchelney were cut off.
 - Dredging the Parrett and Tone improves channel capacity, while 21 permanent pumping stations move water when river and tidal levels permit.
 - Raised roads and Beer Wall improvements protect access; upstream storage and land management slow runoff.
 - These measures reduce disruption and may shorten some floods, but pumping and maintenance are costly.

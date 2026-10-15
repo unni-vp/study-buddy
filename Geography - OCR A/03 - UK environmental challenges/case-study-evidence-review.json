@@ -1,0 +1,63 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "Somerset Levels": [
+      {
+        "booklet_claims": "January 2014; 65m m³ over 65 km²",
+        "decision": "Retain dated 65 km² early snapshot and previously sourced 100m m³ estimate; do not confuse cubic volume with flooded area. Wider-event extent differs by source/date."
+      },
+      {
+        "booklet_claims": "Drainage history, storms and jet stream; 12 storms",
+        "decision": "Added powerful jet stream and at least 12 major UK storms with mid-Dec 2013 to mid-Feb 2014 scope."
+      },
+      {
+        "booklet_claims": "Parrett undredged 20 years; £4m each five years; development",
+        "decision": "Explain reduced capacity and exposed development; avoid unsupported one-cause or total-blockage claim."
+      },
+      {
+        "booklet_claims": "600 homes affected; Muchelney; £82m–£147m; 7,000ha flooded",
+        "decision": "Add council 600 homes affected (not internally flooded), 81 roads closed, 7,000 businesses indirectly affected and up to £147m economic estimate. Retain agricultural and environmental mechanisms. Hectare/area snapshots not added together."
+      },
+      {
+        "booklet_claims": "62 pumps; 1.5m tonnes; Netherlands; Marines; police",
+        "decision": "Add Netherlands pumps/military/police. Pump rates changed during event and booklet lacks time unit for volume; no fixed rate implied."
+      },
+      {
+        "booklet_claims": "20-year plan; dredging; raised road; pumps; water storage; tidal barrier",
+        "decision": "Preserve comparison table; integrate dredging dates/270,500m³, 21 stations, Beer Wall, raised road and catchment storage. Do not say proposed barrier was delivered in 2014."
+      }
+    ],
+    "Dryholme Farm": [
+      {
+        "booklet_claims": "2011; £4m; 4,000 homes; slurry/silage; grid/fertiliser; odour/noise",
+        "decision": "Added £4m installation cost from Jersey 2015 report; retain 2011 and mechanism. Keep planning 1MW/about1,200 homes with planning scope rather than unsupported 4,000. Later reports use different installed-output estimates, not averaged together. Funding mix not independently established."
+      }
+    ],
+    "Hinkley Point C": [
+      {
+        "booklet_claims": "EDF; Chinese finance; £18bn; 25,000 jobs; five million homes",
+        "decision": "Retain planned 25,000 opportunities and six million homes; add EDF/CGN and £18bn as 2016 historical estimate. Do not present old cost or B closure forecast as current."
+      },
+      {
+        "booklet_claims": "Consumer cost",
+        "decision": "Retain high cost/long construction/waste evaluation. Consumer support and investor construction costs are distinct; avoid claiming construction expenditure directly becomes immediate bills."
+      }
+    ],
+    "Hacheston solar example": [
+      {
+        "booklet_claims": "2014 rejection; 100,000 panels; 75 pitches; 25,000 homes",
+        "decision": "Add verified May 2014 dismissed appeal, 25MW and about50ha with landscape/heritage/agricultural trade-off. Do not equate 25MW with25,000 homes."
+      }
+    ],
+    "Kirkby Moor wind example": [
+      {
+        "booklet_claims": "2015; twelve42m turbines replaced by six115m turbines",
+        "decision": "Add 2015 proposal/objection,12 turbines,6 up to115m and landscape/SSSI context. Describe historical planning proposal, not current status."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}
