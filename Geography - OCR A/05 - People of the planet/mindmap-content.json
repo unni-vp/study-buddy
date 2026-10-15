@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "00-development-ethiopia-and-rosario",
+    "title": "Development: Ethiopia and Rosario",
+    "panels": [
+      {
+        "title": "Measure more than wealth",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Development:** economic, social and environmental improvement. **GNI:** income average."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**HDI:** health, education and income. **Internet use:** digital access. Each hides some inequalities."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Explain Ethiopia’s connections",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Landlocked location:** trade depends on transport and neighbouring countries. Drought affects farming and export income."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Investment can create jobs and infrastructure. Conflict, unequal access and dependence limit gains."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Technology and Rostow",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Phones and payments:** need affordable access, power, skills and markets."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Rostow:** five proposed stages. Ethiopia has mixed features; sectors and regions do not follow one timetable."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Aid: the goat-sharing project",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Kanbi:** seven goats to initial households; milk, sales and passing offspring spread benefits."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Water, pasture and animal health matter. Local aid complements wider development and emergency support."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Rosario: character and needs",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Paraná port:** links an agricultural region to world trade. Migration shapes communities and urban culture."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Housing, transport and waste pressures vary between neighbourhoods."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Two sustainable approaches",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Hábitat:** infrastructure, housing, tenure and social support. **Gardens:** food, skills, income and green space."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Evaluate who benefits, secure land and long-term funding. Neither strategy solves every citywide problem."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]

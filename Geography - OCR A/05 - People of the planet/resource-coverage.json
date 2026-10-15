@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-15",
   "specification": "OCR J383 2.2",
   "source": "../00 - Specification/OCR-J383-specification.pdf",
   "coverage": {
@@ -15,7 +15,9 @@
     "Oxfam goat aid in Kanbi",
     "Rosario, Argentina"
   ],
-  "mindmaps": [],
+  "mindmaps": [
+    "00-development-ethiopia-and-rosario"
+  ],
   "flashcards": {
     "reviewed": "2026-10-12",
     "source": "Questions and Answers/People of the planet - Questions and Answers.md",
@@ -27,5 +29,30 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "revision_guide_review": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+    "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+    "tables_adapted": [
+      7
+    ],
+    "diagrams_recreated": [
+      "rostow-model"
+    ],
+    "corrections_and_exclusions": [
+      "Do not repeat guide claim that Pope Francis came from Rosario.",
+      "Use Rosario municipal population with its year and boundary, not an undated metropolitan 1.3 million.",
+      "IDB approval for Rosario Hábitat was 2001; do not claim all programme stages began in 2000.",
+      "Do not turn guide historical Ethiopian indicators or political descriptions into current facts.",
+      "Retain sourced urban-agriculture figures with dates; do not mix 800 gardens / 40,000 people from unspecified programme phases."
+    ],
+    "primary_sources": [
+      "https://www.oxfamamerica.org/explore/stories/a-traditional-form-of-help-allows-families-to-rebuild-herds-in-ethiopia/",
+      "https://www.iadb.org/en/project/AR0262",
+      "https://www.rosario.gob.ar/inicio/index.php/node/514"
+    ],
+    "additional_questions": 5,
+    "total_questions": 28,
+    "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
   }
 }

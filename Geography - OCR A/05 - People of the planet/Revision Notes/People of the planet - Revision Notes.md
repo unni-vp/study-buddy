@@ -12,11 +12,11 @@ Countries are often described as **ACs** (advanced countries), **EDCs** (emergin
 
 ### Measuring development
 
-| Indicator | What it shows | Strength | Limitation |
+| Indicator | What it measures | Why it is useful | What it misses |
 |---|---|---|---|
-| **GNI per person** | Average income linked to a country's people and businesses | Easy to compare economic wealth | Hides inequality and does not measure health or education |
-| **HDI** | Life expectancy, education and income combined | Gives a broader picture of quality of life | Still uses national averages and misses some inequalities |
-| **Internet users** | Access to communication and digital services | Suggests infrastructure and technological connection | Access may be slow, expensive or unequal |
+| **GNI per person** | National income, including net income from abroad, divided by population. | Allows comparison of average economic resources; consistent price measures improve comparisons. | Hides inequality and differences in living costs unless adjusted; does not directly measure health or education. |
+| **HDI** | Combines life expectancy, education and income. | A broader view than income alone; comparisons can show progress through time. | National averages hide regional or social inequalities and do not fully measure environmental sustainability. |
+| **Internet users** | The share of people using the internet. | Indicates access to information, communication and digital opportunities. | Use does not show speed, affordability, skills or whether access is equally shared. |
 
 Uneven development affects migration, health, education, employment and political influence. Poorer places may lose skilled workers; richer places may attract investment and gain more power in trade decisions.
 
@@ -40,6 +40,12 @@ Resources and opportunities include fertile highland areas, coffee, livestock, m
 
 Ethiopia was not colonised for a long period, although Italy occupied it from 1936 to 1941. Later conflict, authoritarian rule and regional tensions disrupted development. Investment in roads, energy and public services supported growth, but conflict, debt, inflation and restrictions on private business created new pressures.
 
+### How geography and trade interact
+
+Being **landlocked** means Ethiopian exports must reach an overseas port through another country. Longer transport routes, border procedures and disruption can raise costs. Roads, rail and cooperation with neighbours therefore influence how successfully coffee, flowers and manufactured goods reach customers.
+
+The environmental setting also affects trade. Drought can reduce farm output at the same time as households need more food, reducing export earnings while increasing pressure to buy imports. Diversifying production and improving transport can reduce some risks, but require investment and reliable services.
+
 ### Trade and foreign investment
 
 - Major goods exports include **coffee**, cut flowers, sesame, pulses and livestock products.
@@ -60,11 +66,21 @@ UNDP reported that Ethiopia's HDI rose from **0.283 in 2000 to 0.470 in 2018**, 
 
 Mobile phones, digital payments, improved seeds, irrigation and better transport can connect farmers to prices, finance and markets. However, electricity, internet coverage, cost and skills are uneven, particularly in rural areas.
 
+### Why technology does not benefit everyone equally
+
+A phone connection can help a farmer compare prices or receive payment. It is much less useful without affordable service, reliable electricity, literacy and a route to the market. Technology therefore works best alongside **education, infrastructure and functioning markets**.
+
+This explains why investment may improve national indicators while remote communities see less change. Development must be assessed through access and quality, not just the arrival of a new company or network.
+
 ### Rostow's model
 
 Rostow's model suggests countries pass through five stages: **traditional society**, **preconditions for take-off**, **take-off**, **drive to maturity**, then **high mass consumption**. Ethiopia shows features of the preconditions and take-off stages: large-scale infrastructure and industry are growing, but agriculture still employs many people.
 
 **Evaluation:** The model is easy to apply, but assumes every country follows the path taken by Western economies. It underplays colonial relationships, conflict, inequality and environmental limits.
+
+![Five steps showing the sequence proposed in Rostow’s development model](diagrams/rostow-model.svg)
+
+**Apply and question the model:** identify evidence of change in Ethiopia, then explain why regions and sectors do not all move through the same stage together.
 
 ### Aid project: Oxfam goat aid
 
@@ -78,6 +94,12 @@ In **Kanbi, southern Ethiopia**, Oxfam America's local partner DUBAF used the tr
 - The system uses local knowledge and strengthens community responsibility.
 
 **Limitations:** goats still need water, grazing and veterinary care. Severe drought or disease could kill the animals, and a small herd cannot solve wider problems such as weak roads, schools or healthcare.
+
+### Oxfam goat aid: how a small asset can spread benefits
+
+The goat-sharing system supports a **chain of development**. Milk contributes to food supply; offspring can be sold for income or passed to another household. Keeping and caring for the animals uses local knowledge. A household can gain a productive asset instead of receiving only a short-lived supply of food.
+
+However, the project’s success depends on grazing, water and animal health. During severe drought, adding animals may increase pressure on scarce pasture. Community support and suitable local conditions help the scheme work; it cannot replace roads, education, healthcare or emergency relief when those are needed.
 
 ## A changing urban world
 
@@ -114,11 +136,23 @@ People have moved to Rosario from rural areas and neighbouring provinces for wor
 
 Living conditions vary sharply. Central and riverside districts have formal housing, services and cultural attractions, while lower-income households may have insecure work and poorer access to services. More than **80 migrant community associations** reflect the city's diversity.
 
+### Cultural identity and the use of urban space
+
+Rosario’s **National Flag Memorial** connects the riverfront to the city’s role in Argentina’s national history. Migrant communities add associations, food traditions and cultural activities. These features help explain how a trading city develops a distinctive identity, rather than treating culture as a list of famous residents.
+
+Culture also uses space and services: festivals, public waterfront areas and leisure venues attract visitors and spending, while residents still need affordable housing and transport. An attractive city centre therefore does not by itself prove that living conditions are good everywhere.
+
 ### Housing
 
 A historic city survey identified **91 informal settlements**, about **10% of the urban area**, housing roughly **115,000 people**. The **Rosario Hábitat** programme targeted **11 settlements and about 5,200 families** through legal land ownership, infrastructure, community participation, employment support and some relocation.
 
 This integrated approach tackles several causes of poor housing at once. However, citywide housing need is larger than one programme and land, funding and population change can slow progress.
+
+### Rosario Hábitat: improve neighbourhoods together
+
+The IDB-backed **Rosario Hábitat** operation was approved in **2001**. It combined neighbourhood infrastructure and housing with **land-tenure regularisation** and social support. Secure tenure gives households greater confidence that improvements to their home will not be lost through eviction. Drainage, sanitation, streets and services address problems that a new house alone cannot solve.
+
+Resident participation and employment support can strengthen the social benefit. However, relocation may disrupt support networks, and improving selected settlements does not remove all citywide housing need. Judge both the improvements and the number of people still beyond the programme’s reach.
 
 ### Transport
 
@@ -135,6 +169,12 @@ Rosario began its **Urban Agriculture Programme in 2002**, turning unused land i
 By 2021 the wider programme involved about **25 hectares**, **155 growers**, **nine productive garden spaces** and **seven garden parks**. It creates income, supplies local food, reuses urban land, shortens supply chains and adds green space.
 
 **Evaluation:** The scheme joins social, economic and environmental aims, making it a strong example of sustainable urban living. Its scale is still small beside the needs of a million-person city, and long-term success depends on secure land, training, water, markets and funding.
+
+### Urban agriculture: explain the linked benefits
+
+Rosario’s gardens turn suitable unused land into food production and green space. Growers can consume or sell produce, developing skills and income. Growing close to consumers shortens some journeys, while vegetation can provide shade and help water soak into soil. These are **social, economic and environmental benefits working together**.
+
+The limitations also connect: growers need secure land, safe soil, suitable water and reliable markets. Productive green space can be compatible with allowing some land to flood, but crops can still be damaged. Urban farming is one contribution to resilience, not a substitute for drainage, safe housing or the wider food system.
 
 ## Exam links to remember
 
@@ -153,3 +193,9 @@ By 2021 the wider programme involved about **25 hectares**, **155 growers**, **n
 - [IOM: Migration Profile of Rosario](https://repository.iom.int/handle/20.500.11788/2393)
 - [Inter-American Development Bank: Rosario Hábitat](https://www.iadb.org/en/project/AR0262)
 - [FAO: Rosario urban agriculture and Green Belt](https://www.fao.org/platforms/green-cities/green-cities-initiatives/rosario/en)
+
+### Further case-study reading
+
+- [Oxfam: the Kanbi goat-sharing project](https://www.oxfamamerica.org/explore/stories/a-traditional-form-of-help-allows-families-to-rebuild-herds-in-ethiopia/)
+- [IDB: Rosario neighbourhood improvement, approved 2001](https://www.iadb.org/en/project/AR0262)
+- [Rosario municipality: National Flag Memorial](https://www.rosario.gob.ar/inicio/index.php/node/514)
