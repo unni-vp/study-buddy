@@ -66,10 +66,6 @@ Think of Britain as a tilted table. The **north and west** are generally higher,
 
 Upstream, a river usually has a steep gradient, a narrow channel and more vertical erosion. Downstream, tributaries add water, the channel becomes wider and deeper, and transport and deposition become more important.
 
-![Side view of waterfall undercutting, overhang collapse and upstream retreat](diagrams/waterfall-retreat.svg)
-
-**Read the sequence:** differential erosion creates the step; undercutting and collapse move it upstream.
-
 ### V-shaped valleys
 
 1. The river cuts down by **vertical erosion**.
@@ -84,6 +80,10 @@ Upstream, a river usually has a steep gradient, a narrow channel and more vertic
 3. Hydraulic action and abrasion deepen a **plunge pool**.
 4. An overhang forms and collapses.
 5. Repeated collapse moves the waterfall upstream and leaves a **gorge**.
+
+![Side view of waterfall undercutting, overhang collapse and upstream retreat](diagrams/waterfall-retreat.svg)
+
+**Read the sequence:** differential erosion creates the step; undercutting and collapse move it upstream.
 
 ### Meanders and oxbow lakes
 
@@ -147,7 +147,7 @@ Built surfaces speed runoff. Removing vegetation or compacting soils reduces int
 
 **Livox Quarry, south of Tintern**, is a named example of limestone extraction in the lower Wye. Quarrying removes rock and vegetation, changes slopes and creates access and transport demands. It also provides useful stone and employment. Restoration can create exposed geological features and wildlife habitats, so the long-term effect depends on how the site is managed.
 
-This connects the guide’s human-use example to a physical change: **rock extraction → altered relief and vegetation → different habitats, runoff and land use**.
+The physical change can be explained as a chain: **rock extraction → altered relief and vegetation → different habitats, runoff and land use**.
 
 ### Flood risk and management
 
