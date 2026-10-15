@@ -34,7 +34,7 @@ Uneven development affects migration, health, education, employment and politica
 
 Ethiopia is a landlocked country in the **Horn of Africa**. Its varied relief includes highlands and the low-lying Rift Valley. Rain-fed farming supports many rural households, so drought and unreliable rainfall can damage crops, livestock, food supply and income.
 
-Resources and opportunities include fertile highland areas, coffee, livestock, minerals, rivers with hydroelectric potential and a large working-age population. Difficult terrain, drought, soil erosion and lack of direct sea access raise transport and production costs.
+Resources and opportunities include fertile highland areas, coffee, livestock, **gold, platinum and copper**, rivers with hydroelectric potential and a large working-age population. Highlands rise above **4,500 m**, while lowland areas include semi-arid landscapes and the **Danakil Depression**, including **Dallol**. This variety helps explain why farming opportunities and drought exposure differ within the country. Difficult terrain, drought, soil erosion and lack of direct sea access raise transport and production costs.
 
 ### Political and historical influences
 
@@ -42,15 +42,13 @@ Ethiopia was not colonised for a long period, although Italy occupied it from 19
 
 ### Trade and foreign investment
 
-- Major goods exports include **coffee**, cut flowers, sesame, pulses and livestock products.
-- Ethiopia imports machinery, vehicles, fuel, medicines and manufactured goods.
-- Depending on a few agricultural exports makes earnings vulnerable to drought and changing world prices.
-- Foreign direct investment in factories and industrial parks can create jobs, skills, tax income and export growth.
-- Possible costs include low wages, profits leaving the country, pollution and dependence on foreign firms.
+**Exports and imports:** Major goods exports include **coffee**, cut flowers, sesame, pulses and livestock products. Ethiopia imports machinery, vehicles, fuel, medicines and manufactured goods. Depending on a small range of agricultural exports leaves earnings vulnerable to drought and changing world prices.
 
-Being **landlocked** means Ethiopian exports must reach an overseas port through another country. Longer transport routes, border procedures and disruption can raise costs. Roads, rail and cooperation with neighbours therefore influence how successfully coffee, flowers and manufactured goods reach customers.
+**Landlocked location:** Exports must reach an overseas port through another country. Long routes, border procedures and disruption can raise costs. Roads, rail and cooperation with neighbours therefore affect how successfully coffee, flowers and manufactured goods reach customers.
 
-The environmental setting also affects trade. Drought can reduce farm output at the same time as households need more food, reducing export earnings while increasing pressure to buy imports. Diversifying production and improving transport can reduce some risks, but require investment and reliable services.
+**Investment and jobs:** Foreign investment in factories and industrial parks can bring jobs, skills, tax income and export growth. **Afriflora/Sher Ethiopia** provides a named flower-growing example: roses are grown near **Lake Ziway**, packed and flown through **Addis Ababa** to European markets. The company reports around **12,500 employees** across its farms. This links local employment with transport, overseas demand and foreign currency earnings.
+
+**Limits and vulnerability:** Low pay, poor conditions, pollution and profits leaving the country can reduce the benefits of foreign investment. Drought can lower farm output just as households need more food, cutting exports while adding pressure to buy imports. Diversifying production and improving transport can reduce these risks, but both need reliable services and investment.
 
 ### Population, employment and services
 
@@ -80,18 +78,13 @@ Rostow's model suggests countries pass through five stages: **traditional societ
 
 ### Aid project: Oxfam goat aid
 
-In **Kanbi, southern Ethiopia**, Oxfam America's local partner DUBAF used the traditional **hirbaa-dabaree** sharing system to rebuild herds after drought. The programme initially targeted **220 households**. Each first-round household received **seven goats**, then passed offspring to another family.
+**Place and approach:** In **Kanbi, southern Ethiopia**, Oxfam America's partner **DUBAF** used the traditional **hirbaa-dabaree** sharing system to rebuild herds after drought. The programme initially targeted **220 households**. Each first-round household received **seven goats**, then passed offspring to another family.
 
-**How it supports development:**
+**Food and income:** Goat milk improves nutrition, while offspring can be sold to generate income. Manure can fertilise crops. A goat is a **productive asset**: it can continue providing benefits, rather than being used up like a single food parcel.
 
-- Goat milk improves nutrition.
-- Families can sell offspring for income and build an asset they own.
-- Passing on kids spreads the benefit without buying a completely new herd for every household.
-- The system uses local knowledge and strengthens community responsibility.
+**Community and sustainability:** Passing on young goats spreads benefits without buying a completely new herd for each household. Locally suitable animals, existing knowledge and community responsibility help the project fit established ways of life. Success still depends on families having enough resources to care for the animals.
 
-The scheme gives households a **productive asset**, rather than only a short-lived supply of food. Benefits can spread as animals reproduce and offspring pass to other families.
-
-**Limitations:** goats need water, grazing and veterinary care. Severe drought or disease can kill them, and extra animals may increase pressure on scarce pasture. Local knowledge and suitable conditions help the project work, but it cannot replace roads, education, healthcare or emergency relief.
+**Limitations:** Goats need water, grazing and veterinary care. Severe drought or disease can kill them, and extra animals can increase pressure on scarce pasture. The scheme can strengthen livelihoods but cannot replace roads, education, healthcare or emergency relief.
 
 ## A changing urban world
 
@@ -128,7 +121,7 @@ People have moved to Rosario from rural areas and neighbouring provinces for wor
 
 Living conditions vary sharply. Central and riverside districts have formal housing, services and cultural attractions, while lower-income households may have insecure work and poorer access to services. More than **80 migrant community associations** reflect the city's diversity.
 
-Rosario’s **National Flag Memorial** connects the riverfront to the city’s role in Argentina’s national history. Migrant communities add associations, food traditions and cultural activities. These features help explain how a trading city develops a distinctive identity, rather than treating culture as a list of famous residents.
+Rosario’s **National Flag Memorial** connects the riverfront to the city’s role in Argentina’s national history. Italian and Spanish migration influenced food, architecture and community life. **Rosario Central** and **Newell's Old Boys** give football a strong place in local identity; **Lionel Messi** was born in the city. Migrant communities add associations, food traditions and cultural activities. These features help explain how a trading city develops a distinctive identity, rather than treating culture as a list of famous residents.
 
 Culture also uses space and services: festivals, public waterfront areas and leisure venues attract visitors and spending, while residents still need affordable housing and transport. An attractive city centre therefore does not by itself prove that living conditions are good everywhere.
 
@@ -136,7 +129,7 @@ Culture also uses space and services: festivals, public waterfront areas and lei
 
 A historic city survey identified **91 informal settlements**, about **10% of the urban area**, housing roughly **115,000 people**. Poor housing is linked to insecure tenure and limited access to infrastructure and services.
 
-The IDB-backed **Rosario Hábitat** operation was approved in **2001**. The programme targeted **11 settlements and about 5,200 families**. It combined housing and infrastructure with legal land ownership, community participation, social support, employment support and some relocation.
+The IDB-backed **Rosario Hábitat** operation was approved in **2001**. The programme targeted **11 settlements and about 5,200 families**. It combined housing and infrastructure with legal land ownership, community participation, social support, employment support and some relocation. Improvements included drainage, sanitation and streets, alongside education and employment training for young people. This tackles several causes of inequality rather than treating poor housing as only a building problem.
 
 **Secure tenure** gives households greater confidence that improvements will not be lost through eviction. Drainage, sanitation, streets and services tackle problems that a new house alone cannot solve. Resident involvement can make the changes more suitable for the community.
 
@@ -156,7 +149,7 @@ Rosario began its **Urban Agriculture Programme in 2002**, turning unused land i
 
 By 2021 the wider programme involved about **25 hectares**, **155 growers**, **nine productive garden spaces** and **seven garden parks**. It creates income, supplies local food, reuses urban land, shortens supply chains and adds green space.
 
-Vegetation can also provide shade and help water soak into soil. Productive green space may be compatible with allowing some land to flood, but crops can still be damaged. Growers need safe soil as well as suitable water and markets.
+Vegetation can also provide shade and help water soak into soil. Productive green space may be compatible with allowing some land to flood, but crops can still be damaged. Growers need safe soil as well as suitable water and markets. Access to land, seeds and training helps lower-income households take part. Women can gain skills and an independent income, while sales to local markets and businesses connect the gardens to the wider city economy.
 
 **Evaluation:** The scheme joins social, economic and environmental aims, making it a strong example of sustainable urban living. Its scale is still small beside the needs of a million-person city, and long-term success depends on secure land, training, water, markets and funding. Urban farming complements drainage, safe housing and the wider food system; it cannot replace them.
 
@@ -181,3 +174,7 @@ Vegetation can also provide shade and help water soak into soil. Productive gree
 - [Oxfam: the Kanbi goat-sharing project](https://www.oxfamamerica.org/explore/stories/a-traditional-form-of-help-allows-families-to-rebuild-herds-in-ethiopia/)
 - [IDB: Rosario neighbourhood improvement, approved 2001](https://www.iadb.org/en/project/AR0262)
 - [Rosario municipality: National Flag Memorial](https://www.rosario.gob.ar/inicio/index.php/node/514)
+
+- [Sher Ethiopia: farms, employment and export routes](https://sherethiopia.com/about-us-sher/our-company/)
+
+- [Afriflora: its Ethiopian rose-growing operations](https://afriflora.nl/over-ons/)

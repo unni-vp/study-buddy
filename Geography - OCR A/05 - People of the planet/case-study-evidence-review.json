@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "Ethiopia": [
+      {
+        "booklet_claims": "GNI$505vs$10858;11%growth;94m/2.6%;HDI0.435;life63;80%farmjobs",
+        "decision": "Undated indicator snapshot not used as current2027facts. Retain datedpoverty39→24%(2004–16),HDI0.283→0.470(2000–18),60madditionalwateraccess withsource scope."
+      },
+      {
+        "booklet_claims": "4500mhighlands;Dallol;gold/platinum/copper;19%miningexports2012",
+        "decision": "Addrelief,desertlocationandnamedminerals. Lastpercentage not reproduced withoutdenominator/tradeseries. Do not putgorillasintheEthiopianfauna list."
+      },
+      {
+        "booklet_claims": "Occupation,famine,militaryrule,1991democracy",
+        "decision": "Retain1936–41occupationandqualifiedpolitical/development history. Avoidsimplisticfaminecauseandunqualified1991democracyclaim."
+      },
+      {
+        "booklet_claims": "$3bnexports,$11bnimports;80%exports/46%GDPfarm;partners",
+        "decision": "Retainexport/importproducts,landlockedcosts,dependenceandprice/climatevulnerability. Undatedvalues/percentagebasesnotpresentedascurrent."
+      },
+      {
+        "booklet_claims": "H&M,Hilton,Afriflora",
+        "decision": "AddAfriflora/SherEthiopia,Ziway,Addisairport,Europe,company-reported~12,500employees. Do notimplyH&MownsEthiopianfactoriesorallfirmsoperateunchanged."
+      },
+      {
+        "booklet_claims": "Education96%,literacy36%,health23%/halved/20%/89%;internet4%/mobile12%",
+        "decision": "Do notpresentundatedstatisticsascurrent. Retaineducation/healthprogresswithdatedsourcesandbarriers; technologyaccess,skills,paymentsandinfrastructure. Banking/telecommonopolystatementshavechanged."
+      },
+      {
+        "booklet_claims": "Rostowstage2",
+        "decision": "Retainstagesandevidenceofpreconditions/take-offwithlimitations,notonepermanentnationalstage."
+      }
+    ],
+    "Oxfam goat aid": [
+      {
+        "booklet_claims": "Milk,manure,offspring,localsourcing,food/waterpressure",
+        "decision": "Addmanure/skills/communitymechanism; retainKanbi,DUBAF,hirbaa-dabaree,220households,7goats,pass-onkids andveterinary/droughtlimitations. No universalgoat-survivalclaim."
+      }
+    ],
+    "Rosario": [
+      {
+        "booklet_claims": "1.3m/thirdlargest;300km;airport/river;2%growth",
+        "decision": "Retain300km/namedParanáportand2022municipal1,030,069populationwithboundary. Undatedmetropolitantotal/growthnotmixedwithmunicipality."
+      },
+      {
+        "booklet_claims": "Italianmigration,Che,Pope,flag,Messi,football,beef",
+        "decision": "AddItalian/Spanishculturalinfluence,Central/Newells,Messi; retainflagmemorial. CorrectPopeFrancisorigin(BuenosAires),avoidgeneralisingcriminalitytonationalityorfootballcommunities."
+      },
+      {
+        "booklet_claims": "Industrialclosures2000,crime,drugs,police",
+        "decision": "Retainjobs/housing/services/inequalityfocus. No unsupporteduniversalcriminalallegationsorundatedeconomicrecoveryclaims."
+      },
+      {
+        "booklet_claims": "Habitat2000,5000people;100000informalresidents;training16–25",
+        "decision": "RetainIDB2001approval/11settlements/5200FAMILIESandhistorical91settlements/115000people/10%area. Addyoungpeopleeducation/employmenttrainingwithoutassumingexactunverifiedageband."
+      },
+      {
+        "booklet_claims": "800gardens/40000participants;floodzones;women;seeds/land;localbuyers",
+        "decision": "Addparticipation/land/seeds/skills,womenincome,localsales; retaindated2002programme/2016GreenBelt/2021scale(25ha,155growers,9spaces,7parks). Undatedearlycrisisfiguresnotcombinedwithlaterprogrammephase."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}
