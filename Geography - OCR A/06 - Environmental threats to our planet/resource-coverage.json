@@ -57,5 +57,25 @@
     "additional_questions": 4,
     "total_questions": 27,
     "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+  },
+  "organisation_review": {
+    "reviewed": "2026-10-15",
+    "reason": "Integrate related additions within existing case-study headings instead of appending parallel mini-sections.",
+    "merged": [
+      {
+        "from_heading": "Physical shortage and human demand",
+        "into": "Development and causes"
+      },
+      {
+        "from_heading": "Match responses to the problem",
+        "into": "Responses and adaptation"
+      }
+    ],
+    "checks": {
+      "tables_unchanged": true,
+      "images_unchanged": true,
+      "numerical_facts_preserved": true
+    },
+    "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
   }
 }

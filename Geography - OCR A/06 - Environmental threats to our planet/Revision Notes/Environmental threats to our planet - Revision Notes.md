@@ -125,10 +125,6 @@ The case study covers severe phases of the longer **Millennium Drought**, which 
 
 This was not one continuous El Niño. Several climate influences acted across the period, while repeated dry seasons created a cumulative water shortage.
 
-### Physical shortage and human demand
-
-El Niño helps explain individual dry phases, including **2002–03 and 2006–07**. Repeated rainfall deficits left catchments with little opportunity to refill stores. Hot conditions increased evaporation and the water needed by plants.
-
 The **Murray–Darling Basin** supports irrigated farming, towns and ecosystems. Abstraction during low flows increases competition between them, so the severity of water stress reflects demand and management as well as rainfall. Describing the whole 2002–2009 period as one El Niño would hide that combination.
 
 ### Effects on people and the economy
@@ -153,8 +149,6 @@ The **Murray–Darling Basin** supports irrigated farming, towns and ecosystems.
 - Irrigation was made more efficient through lining channels, better scheduling and water trading.
 - Farmers changed crops, reduced herds, stored fodder and used seasonal forecasts.
 - Governments bought back some water rights to increase environmental flows in the Murray–Darling system.
-
-### Match responses to the problem
 
 | Response | How it helps | Main trade-off |
 |---|---|---|
@@ -184,8 +178,6 @@ However, desalination is expensive and energy-intensive, water trading may disad
 - [Bureau of Meteorology: Annual climate statement 2002](https://www.bom.gov.au/climate/current/annual/aus/2002/)
 - [Bureau of Meteorology: southern rainfall decline and the Millennium Drought](https://www.bom.gov.au/climate/updates/articles/a010-southern-rainfall-decline.html)
 - [CSIRO: water-resource impacts of the 1997–2009 drought](https://www.csiro.au/-/media/About/Files/Impact-case-studies/Full-Reports/ACIL-Allen_CSIROs-Impact-and-Value_Integrated-Water-Resource-Asessments_2014.pdf)
-
-### Further case-study reading
 
 - [NOAA: ENSO patterns across the Pacific](https://www.noaa.gov/jetstream/tropical/enso/enso-patterns)
 - [Australian Bureau of Meteorology: ENSO history](https://www.bom.gov.au/climate/history/enso/)
