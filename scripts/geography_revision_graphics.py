@@ -48,18 +48,22 @@ def dtm():
  death='M80 185C160 195 220 175 290 190S400 300 500 322S650 333 710 332S860 333 920 332S1060 325 1130 325'
  b+=f'<path d="{birth}" fill="none" stroke="{ORANGE}" stroke-width="5"/><path d="{death}" fill="none" stroke="{BLUE}" stroke-width="5"/>'
  b+=txt(85,65,'Birth / death rates: schematic, not measured country data',20)+txt(80,435,'Earlier development',20)+txt(1130,435,'Later development',20,anchor='end')+line(360,475,415,475,ORANGE)+txt(425,482,'Birth rate',21)+line(620,475,675,475,BLUE)+txt(685,482,'Death rate',21)
- b+=txt(300,155,'Deaths fall first',19,color=BLUE)+txt(530,265,'Births fall later',19,color=ORANGE)
+ b+=txt(300,155,'Deaths fall first',19,color=BLUE)+txt(620,170,'Births fall later',19,color=ORANGE)
  return document('Demographic Transition Model','Five stages show death rates falling before birth rates. The birth-death gap indicates natural population change. Migration is not included. Curves are a schematic model, not a dataset.',b,530)
 def pyramid():
  vals=[(9,8),(10,10),(11,12),(13,14),(15,16),(14,16),(12,14),(8,11)]
  b=txt(315,92,'Male',23,True,'middle')+txt(840,92,'Female',23,True,'middle')
  for i,(m,f) in enumerate(reversed(vals)):
   y=120+i*36;age=['70+','60–69','50–59','40–49','30–39','20–29','10–19','0–9'][i]
-  b+=box(520-m*19,y,m*19,28,'#7eafe0',stroke='white',r=0)+box(675,y,f*19,28,'#d1a0d9',stroke='white',r=0)+txt(598,y+22,age,20,anchor='middle')
- b+=txt(598,90,'Age',21,True,'middle')+txt(320,445,'Younger ages at the bottom',21,anchor='middle')+txt(840,445,'Older ages at the top',21,anchor='middle')
- b+=txt(600,492,'Bar length: share within each sex (illustrative values, not UK data)',21,anchor='middle')
- b+=paragraph(35,545,'Read age, sex and bar length together. A bulge is a large cohort; a broad upper section suggests a larger older population. The shape alone does not prove its causes.',105)
- return document('Reading a population pyramid','An illustrative pyramid uses horizontal bars by age, males left and females right. The example is not a real UK population dataset.',b,650)
+  mw=m/sum(v[0] for v in vals)*100*19;fw=f/sum(v[1] for v in vals)*100*19
+  b+=box(520-mw,y,mw,28,'#7eafe0',stroke='white',r=0)+box(675,y,fw,28,'#d1a0d9',stroke='white',r=0)+txt(598,y+22,age,20,anchor='middle')
+ b+=txt(598,90,'Age',21,True,'middle')+line(140,423,520,423)+line(675,423,1055,423)
+ for value in range(0,21,5):
+  for x in [520-value*19,675+value*19]:b+=line(x,423,x,430)+txt(x,452,str(value)+'%',18,anchor='middle')
+ b+=txt(320,497,'Younger ages at the bottom',21,anchor='middle')+txt(840,497,'Older ages at the top',21,anchor='middle')
+ b+=txt(600,542,'Bar length: share within each sex (illustrative values, not UK data)',21,anchor='middle')
+ b+=paragraph(35,595,'Read age, sex and bar length together. A bulge is a large cohort; a broad upper section suggests a larger older population. The shape alone does not prove its causes.',105)
+ return document('Reading a population pyramid','An illustrative pyramid uses percentage bars by age, males left and females right. Each side totals 100 percent within its sex. The example is not a real UK population dataset.',b,700)
 def electricity():
  values=[('Renewables',50.4,GREEN),('Fossil fuels',31.8,ORANGE),('Nuclear',14.2,'#8155a4'),('Other fuels',3.6,'#73818a')]
  b=txt(35,80,'Share of UK electricity generated, 2024 (%) — DUKES 2025 publication',21)
