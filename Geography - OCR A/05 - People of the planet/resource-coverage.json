@@ -54,5 +54,41 @@
     "additional_questions": 5,
     "total_questions": 28,
     "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
+  },
+  "organisation_review": {
+    "reviewed": "2026-10-15",
+    "reason": "Integrate related additions within existing case-study headings instead of appending parallel mini-sections.",
+    "merged": [
+      {
+        "from_heading": "How geography and trade interact",
+        "into": "Trade and foreign investment"
+      },
+      {
+        "from_heading": "Why technology does not benefit everyone equally",
+        "into": "Technology"
+      },
+      {
+        "from_heading": "Oxfam goat aid: how a small asset can spread benefits",
+        "into": "Aid project: Oxfam goat aid"
+      },
+      {
+        "from_heading": "Cultural identity and the use of urban space",
+        "into": "Migration and ways of life"
+      },
+      {
+        "from_heading": "Rosario Hábitat: improve neighbourhoods together",
+        "into": "Housing"
+      },
+      {
+        "from_heading": "Urban agriculture: explain the linked benefits",
+        "into": "Sustainable strategy: urban agriculture and the Green Belt"
+      }
+    ],
+    "checks": {
+      "tables_unchanged": true,
+      "images_unchanged": true,
+      "numerical_facts_preserved": true
+    },
+    "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
   }
 }
