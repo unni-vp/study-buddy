@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-15",
   "specification": "OCR J383 2.3",
   "source": "../00 - Specification/OCR-J383-specification.pdf",
   "coverage": {
@@ -16,7 +16,9 @@
   "case_studies": [
     "Australia drought, 2002–2009"
   ],
-  "mindmaps": [],
+  "mindmaps": [
+    "00-climate-hazards-and-australia"
+  ],
   "flashcards": {
     "reviewed": "2026-10-12",
     "source": "Questions and Answers/Environmental threats to our planet - Questions and Answers.md",
@@ -28,5 +30,32 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "revision_guide_review": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+    "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+    "tables_adapted": [
+      8
+    ],
+    "diagrams_recreated": [
+      "atmospheric-circulation",
+      "enso-patterns"
+    ],
+    "corrections_and_exclusions": [
+      "The 2002–2009 drought was not one continuous El Niño; retain multiple physical influences and demand.",
+      "Correct wind and warm-water directions; no fixed 8°C or half-metre difference applies to every ENSO event.",
+      "Do not reproduce the guide’s historical 1974–2003 drought/famine-disaster map as current drought frequency.",
+      "Use tropical cyclone for Australian storms; avoid guide’s willy-willy terminology.",
+      "Do not assert a universal increase in storm numbers or one inevitable disaster for each ENSO phase."
+    ],
+    "primary_sources": [
+      "https://www.noaa.gov/jetstream/tropical/enso/enso-patterns",
+      "https://www.bom.gov.au/climate/history/enso/",
+      "https://www.bom.gov.au/climate/current/annual/aus/2002/",
+      "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/"
+    ],
+    "additional_questions": 4,
+    "total_questions": 27,
+    "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
   }
 }

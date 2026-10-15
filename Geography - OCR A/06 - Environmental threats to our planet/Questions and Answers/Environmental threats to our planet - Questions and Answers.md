@@ -70,9 +70,15 @@
 - Water restrictions or recycling.
 - Desalination, efficient irrigation, water trading or changing farm practice.
 
+**13.** Why can an unusually dry period be a drought even in a normally wet country?
+
+**Answer:**
+
+Drought is a shortage compared with the usual rainfall, water availability and needs of that place. Even a wet climate can experience a prolonged deficit.
+
 ## 3 marks
 
-**13.** Explain how volcanic eruptions can cause short-term cooling.
+**14.** Explain how volcanic eruptions can cause short-term cooling.
 
 **Answer:**
 
@@ -80,7 +86,7 @@
 - These reflect part of the Sun's energy back to space.
 - Less solar energy reaches the surface, causing temporary cooling.
 
-**14.** Explain the enhanced greenhouse effect.
+**15.** Explain the enhanced greenhouse effect.
 
 **Answer:**
 
@@ -88,7 +94,7 @@
 - Extra greenhouse gases absorb and re-radiate more of this heat.
 - Less energy escapes to space, so average temperature rises.
 
-**15.** Explain why many hot deserts occur around 30° north and south.
+**16.** Explain why many hot deserts occur around 30° north and south.
 
 **Answer:**
 
@@ -96,7 +102,7 @@
 - It sinks around 30°, creating high pressure.
 - Sinking air prevents clouds and rainfall, producing dry conditions.
 
-**16.** Explain how El Niño can contribute to Australian drought.
+**17.** Explain how El Niño can contribute to Australian drought.
 
 **Answer:**
 
@@ -106,37 +112,49 @@
 
 ## 4 marks
 
-**17.** Explain one strength and one limitation of tree rings as climate evidence.
+**18.** Explain one strength and one limitation of tree rings as climate evidence.
 
 **Answer:**
 
 - Strength: annual rings can be accurately dated and their width records favourable or difficult growing seasons.
 - Limitation: growth is affected by rainfall, disease and local conditions as well as temperature.
 
-**18.** Explain two conditions needed for a tropical storm to develop.
+**19.** Explain two conditions needed for a tropical storm to develop.
 
 **Answer:**
 
 - Sea temperature above about 27°C supplies rapid evaporation and latent heat when water condenses.
 - Low wind shear allows a tall rotating storm structure to build instead of being torn apart.
 
-**19.** Explain two environmental effects of prolonged drought.
+**20.** Explain two environmental effects of prolonged drought.
 
 **Answer:**
 
 - Low river flow and shrinking wetlands destroy aquatic habitats and reduce water quality.
 - Dry vegetation and exposed soil increase wildfire risk and erosion.
 
-**20.** Explain why Australia's Millennium Drought became severe even though not every year was an El Niño year.
+**21.** Explain why Australia's Millennium Drought became severe even though not every year was an El Niño year.
 
 **Answer:**
 
 - Repeated failures of cool-season rainfall produced a cumulative shortage in soil, rivers and reservoirs.
 - High temperatures and evaporation increased water loss, so occasional rain did not fully restore long-term stores.
 
+**22.** Explain how El Niño can increase drought risk in parts of Australia.
+
+**Answer:**
+
+Trade winds weaken across the equatorial Pacific. Warm surface water spreads eastwards, shifting the main area of rising moist air and tropical rain. Parts of Australia can receive less rain, so soils, rivers and reservoirs may lose water. This changes the probability of drought; it does not guarantee the same outcome everywhere.
+
+**23.** Explain why a map of recorded drought disasters may not show only differences in drought frequency.
+
+**Answer:**
+
+Disasters occur when hazards affect exposed, vulnerable people and assets. Population, farming dependence and ability to manage shortages differ between places. Records also vary in quality and period covered. Reported disaster counts therefore combine hazard occurrence with exposure, vulnerability and reporting.
+
 ## 6 marks
 
-**21.** Assess the usefulness of different evidence for reconstructing past climate.
+**24.** Assess the usefulness of different evidence for reconstructing past climate.
 
 **Answer:**
 
@@ -146,7 +164,7 @@
 - Paintings and diaries add human detail but may be subjective and local.
 - The strongest reconstruction combines several independent sources that show the same trend.
 
-**22.** Assess the causes of modern climate change.
+**25.** Assess the causes of modern climate change.
 
 **Answer:**
 
@@ -156,7 +174,7 @@
 - These gases strengthen the greenhouse effect by retaining more outgoing heat.
 - Natural factors still influence individual years, but human emissions are the main cause of current long-term warming.
 
-**23.** Assess how successfully Australia adapted to the 2002–2009 drought.
+**26.** Assess how successfully Australia adapted to the 2002–2009 drought.
 
 **Answer:**
 
@@ -166,3 +184,21 @@
 - Water trading moved water towards higher-value uses, but smaller farmers could lose and ecosystems still needed flows.
 - Desalination was costly and energy-intensive, and no response could fully replace the missing rain.
 - Adaptation reduced vulnerability, but heavy La Niña rain in 2010–11, rather than management alone, ended the worst drought conditions.
+
+**27.** Assess whether water-supply engineering was enough to manage Australia’s 2002–2009 drought.
+
+**Answer:**
+
+Desalination and connected supply systems reduced some cities’ dependence on local rainfall, while recycling reused part of the available water. However, construction and operation were costly, and energy use and brine disposal created environmental trade-offs. Restrictions, conservation and farm adaptation were also needed because engineering could not replace all the missing rainfall. Irrigators, towns and ecosystems still competed for limited water. A combination improved resilience, while later heavy rain ended the worst shortages; supply engineering alone was insufficient.
+
+## Past-paper sources
+
+These are original practice questions and answers, checked against the current OCR A J383 specification. Additional questions practise the guide’s case-study links; no past-paper frequency claim is made.
+
+- [School revision guide](https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub)
+- [Official OCR A specification](../../00%20-%20Specification/OCR-J383-specification.pdf)
+- [OCR assessment materials](https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/assessment/)
+- [NOAA: ENSO patterns across the Pacific](https://www.noaa.gov/jetstream/tropical/enso/enso-patterns)
+- [Australian Bureau of Meteorology: ENSO history](https://www.bom.gov.au/climate/history/enso/)
+- [Bureau of Meteorology: the 2002 annual climate statement](https://www.bom.gov.au/climate/current/annual/aus/2002/)
+- [IPCC AR6: weather and climate extremes](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/)

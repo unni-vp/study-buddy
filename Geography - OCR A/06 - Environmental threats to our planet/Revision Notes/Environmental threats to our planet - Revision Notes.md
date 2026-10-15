@@ -65,6 +65,10 @@ The Equator receives concentrated solar energy while the poles receive less. Thi
 
 These circulation cells and pressure belts help create climatic regions and steer weather systems.
 
+![Cross-section of Hadley, Ferrel and Polar cells with rising low-pressure and sinking high-pressure belts](diagrams/atmospheric-circulation.svg)
+
+**Read from Equator to pole:** air generally rises at 0° and 60°, and sinks at 30° and 90°. These broad belts help explain wet and dry climates.
+
 ### Tropical storms
 
 Tropical storms usually form between about 5° and 30° north and south where:
@@ -87,6 +91,27 @@ A **drought** is an extended period when water supply is below normal need.
 
 Drought can develop because pressure systems block rain, sea-temperature patterns shift rainfall, temperatures increase evaporation, or demand exceeds supply. It often develops slowly, so effects build over months or years.
 
+### Pacific conditions: neutral, El Niño and La Niña
+
+| Feature | Neutral conditions | El Niño | La Niña |
+|---|---|---|---|
+| **Trade winds** | Usually blow westwards across the equatorial Pacific. | Weaken; the warm surface-water pool spreads eastwards. | Usually strengthen, pushing warm water farther west. |
+| **Eastern Pacific** | Cooler water rises near South America through upwelling. | Surface water becomes warmer than usual and upwelling is reduced. | Surface water is cooler than usual and upwelling strengthens. |
+| **Rainfall pattern** | Rising warm, moist air supports rainfall in the western Pacific. | Tropical rainfall tends to shift east; parts of Australia are more likely to be dry. | More rising moist air and rainfall often occur in the western Pacific, raising flood risk in some Australian regions. |
+| **What it means** | A reference condition, not a guarantee of normal weather everywhere. | Raises the probability of some drought conditions; does not cause every drought. | Raises the probability of some wet conditions; does not cause every flood. |
+
+![Comparison of neutral Pacific trade winds and warm pool with El Niño’s weaker winds and eastward spread of warm water](diagrams/enso-patterns.svg)
+
+**Link ocean to atmosphere:** the location of warm water affects where moist air rises and rainfall develops. Patterns change risks rather than determine every event.
+
+### Distribution and changing frequency of hazards
+
+**Tropical storms** occur mainly over warm oceans away from the Equator, including the North Atlantic, Pacific and Indian Ocean basins. They are called hurricanes in the Atlantic and north-east Pacific, typhoons in the north-west Pacific and tropical cyclones in the Indian Ocean and South Pacific. The sea supplies energy, while Earth’s rotation helps provide spin.
+
+**Drought** can occur in many climates when rainfall is unusually low for that place and demand exceeds available water. Dry regions and places with strongly seasonal rain can be especially vulnerable. A dry climate alone does not identify a drought: the comparison is with expected conditions and needs.
+
+Compare frequency using the **same definition, location and time period**. Counts of reported disasters also reflect population, exposure and reporting, so they are not simply counts of weather events. Warming can increase the intensity of heavy rain and strong tropical cyclones, but it does not mean storm numbers rise everywhere. Drought trends differ by region and by whether rainfall, soil moisture or river flow is being measured.
+
 ## Drought case study: Australia, 2002–2009
 
 ### Development and causes
@@ -99,6 +124,12 @@ The case study covers severe phases of the longer **Millennium Drought**, which 
 - High temperatures increased evaporation and dried vegetation, farms and water stores.
 
 This was not one continuous El Niño. Several climate influences acted across the period, while repeated dry seasons created a cumulative water shortage.
+
+### Physical shortage and human demand
+
+El Niño helps explain individual dry phases, including **2002–03 and 2006–07**. Repeated rainfall deficits left catchments with little opportunity to refill stores. Hot conditions increased evaporation and the water needed by plants.
+
+The **Murray–Darling Basin** supports irrigated farming, towns and ecosystems. Abstraction during low flows increases competition between them, so the severity of water stress reflects demand and management as well as rainfall. Describing the whole 2002–2009 period as one El Niño would hide that combination.
 
 ### Effects on people and the economy
 
@@ -123,6 +154,16 @@ This was not one continuous El Niño. Several climate influences acted across th
 - Farmers changed crops, reduced herds, stored fodder and used seasonal forecasts.
 - Governments bought back some water rights to increase environmental flows in the Murray–Darling system.
 
+### Match responses to the problem
+
+| Response | How it helps | Main trade-off |
+|---|---|---|
+| **Restrictions and conservation** | Cut non-essential use quickly and encourage habits that save water. | Affects households, gardens and some businesses; cannot restore missing rainfall. |
+| **More efficient irrigation** | More crop output may be obtained from each unit supplied. | New equipment costs money, and efficiency does not guarantee more water stays in the river. |
+| **Recycling and rainwater storage** | Use water again or capture rainfall near the user. | Treatment, safe use and storage cost money; rainfall tanks still depend on rain. |
+| **Desalination** | Adds a source less dependent on local rainfall. | Energy-intensive and expensive; coastal disposal of concentrated brine needs management. |
+| **Water allocation and trading** | Distributes scarce water between uses under agreed rules. | Smaller farms and ecosystems may lose unless access and environmental flows are protected. |
+
 ### How successful were the responses?
 
 Demand controls can work quickly and conservation habits may last. Diverse supplies make cities less dependent on rainfall. Efficient irrigation produces more value per litre.
@@ -143,3 +184,10 @@ However, desalination is expensive and energy-intensive, water trading may disad
 - [Bureau of Meteorology: Annual climate statement 2002](https://www.bom.gov.au/climate/current/annual/aus/2002/)
 - [Bureau of Meteorology: southern rainfall decline and the Millennium Drought](https://www.bom.gov.au/climate/updates/articles/a010-southern-rainfall-decline.html)
 - [CSIRO: water-resource impacts of the 1997–2009 drought](https://www.csiro.au/-/media/About/Files/Impact-case-studies/Full-Reports/ACIL-Allen_CSIROs-Impact-and-Value_Integrated-Water-Resource-Asessments_2014.pdf)
+
+### Further case-study reading
+
+- [NOAA: ENSO patterns across the Pacific](https://www.noaa.gov/jetstream/tropical/enso/enso-patterns)
+- [Australian Bureau of Meteorology: ENSO history](https://www.bom.gov.au/climate/history/enso/)
+- [Bureau of Meteorology: the 2002 annual climate statement](https://www.bom.gov.au/climate/current/annual/aus/2002/)
+- [IPCC AR6: weather and climate extremes](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/)

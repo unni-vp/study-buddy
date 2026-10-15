@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "00-climate-hazards-and-australia",
+    "title": "Climate, circulation and Australian drought",
+    "panels": [
+      {
+        "title": "Climate changes through time",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Quaternary:** glacial and interglacial periods. More recent evidence includes records, ice cores and tree rings."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Natural factors explain past changes, while human greenhouse gases dominate rapid modern warming."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Circulation creates patterns",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Equator and 60°:** air generally rises, giving low pressure. **30° and poles:** air sinks, giving high pressure."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Unequal heating and Earth’s rotation shape climate belts and prevailing winds."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Hazards and evidence",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Tropical storms:** warm sea, moist air, rotation and low wind shear. **Drought:** prolonged water deficit."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Compare like-for-like records. A reported disaster count also reflects exposure and vulnerability."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "ENSO is a risk factor",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**El Niño:** weaker Pacific trade winds, warmer water farther east and shifted rainfall."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Parts of Australia can be drier. La Niña often shifts conditions towards a wetter western Pacific."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Australia: 2002–2009",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Repeated dry phases:** rainfall deficits and heat depleted stores. This was not one continuous El Niño."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Farms, towns and ecosystems competed for water, particularly in the Murray–Darling Basin."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Evaluate adaptation",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Restrictions, irrigation changes, recycling and desalination:** reduce demand or diversify supply."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Compare cost, energy, fairness and environmental flows. Adaptation improves resilience but does not create rainfall."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]
