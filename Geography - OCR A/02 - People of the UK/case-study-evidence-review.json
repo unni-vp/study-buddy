@@ -1,0 +1,57 @@
+{
+  "reviewed": "2026-10-16",
+  "source_booklet": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+  "purpose": "Check every named booklet case/example for omitted useful evidence and correct scope/date errors while preserving readable grouped explanations.",
+  "case_studies": {
+    "Salford Quays": [
+      {
+        "booklet_claims": "Cotton, manufacturing, ship canal; 3,000 jobs lost in 1960s; closure 1982",
+        "decision": "Add cotton and 1894 canal opening; retain 1982 closure. Do not conflate undated job losses with a particular decade."
+      },
+      {
+        "booklet_claims": "Lowry 2000; £64m",
+        "decision": "Added £64m National Lottery grant, not total regeneration cost; date retained."
+      },
+      {
+        "booklet_claims": "BBC five departments, Sport, 2007, £550m",
+        "decision": "Added five departments/Sport; relocation begins 2011. £550m phase-cost claim has no clear scope in booklet; do not treat it as BBC relocation expenditure."
+      },
+      {
+        "booklet_claims": "10,000 jobs and £1bn added",
+        "decision": "Include as early five-year PROJECTED benefits, not measured net additional outcomes."
+      },
+      {
+        "booklet_claims": "Homes, services, parks, cleaned waterways, tram",
+        "decision": "Integrated under regeneration/effects; merge duplicate multiplier/transport explanation."
+      }
+    ],
+    "Leeds": [
+      {
+        "booklet_claims": "800,000 population; 10% growth; 17% BME; 1,700 net migrants 2013",
+        "decision": "Retain dated 2021 census 812,000/8.1% and ethnic breakdown; undated percentages not presented as current."
+      },
+      {
+        "booklet_claims": "Caribbean, Indian, Pakistani, Irish, Polish and Lithuanian migration; 30,000 students",
+        "decision": "Retain international/national migration and student mechanisms; strengthen Carnival with 1967. Do not infer all migrant groups share low pay or one neighbourhood. Student/Irish totals need date and definition."
+      },
+      {
+        "booklet_claims": "1.4m workforce; £50bn economy; 7,000 hospital jobs",
+        "decision": "Do not label city-region figures as Leeds city; retain city employment evidence. Hospital/site total needs dated boundary."
+      },
+      {
+        "booklet_claims": "ASDA; creative industry; Tour de France; sports",
+        "decision": "Retain service/creative economy and add Holbeck named setting. Sports/culture are useful examples but do not substitute for challenge/response evidence."
+      },
+      {
+        "booklet_claims": "24,000 waiting list; 18% commute; waste 150,000t/44%; JSA 15% vs 0.2%",
+        "decision": "Booklet lacks dates/definitions: retain sourced dated housing, poverty and PIPES figures instead of asserting these as current."
+      },
+      {
+        "booklet_claims": "HS2 81-minute journey; South Bank; Holbeck; walking/cycling; education",
+        "decision": "Add South Bank/Holbeck regeneration links. Do not present the old HS2 Leeds proposal as a delivered or current committed scheme."
+      }
+    ]
+  },
+  "source_links": "Primary and supporting verification links are listed in the canonical notes; school-booklet climate approximations retain their approximate status.",
+  "presentation": "Short explanatory paragraphs with bold lead-ins; no duplicated summary bullets before expanded prose. Preserve comparison tables, useful diagrams and genuine method/process lists."
+}

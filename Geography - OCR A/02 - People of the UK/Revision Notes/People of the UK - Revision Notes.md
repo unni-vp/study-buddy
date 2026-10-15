@@ -36,41 +36,29 @@ One indicator never tells the whole story. Use several:
 
 ### Place and industrial background
 
-Salford Quays lies beside the Manchester Ship Canal, west of central Manchester. The former Manchester Docks handled imported and exported goods and supported warehouses, engineering and transport employment.
+Salford Quays lies beside the Manchester Ship Canal, west of central Manchester. The former Manchester Docks handled imported and exported goods, including cotton for the textile economy, and supported warehouses, engineering and transport employment. The **Manchester Ship Canal opened in 1894**, allowing ocean-going ships to reach inland Manchester and Salford.
 
 ### Why the docks declined
 
-**Main point:** technology and changing trade geography made the old docks less competitive.
+**Changing ships and trade:** Larger container ships needed handling facilities and access that the inland docks could not easily provide. Coastal ports became more competitive, while manufacturing decline reduced linked trade and employment.
 
-- Container ships became larger and needed different handling facilities.
-- Coastal ports offered easier access than an inland canal port.
-- Manufacturing decline reduced linked trade and employment.
-- The docks closed in **1982**, leaving unemployment, polluted water, derelict land and an unattractive image.
-
-Decline became a negative cycle: fewer jobs reduced spending, dereliction discouraged investment, and the local tax base weakened.
+**Closure and its consequences:** The docks closed in **1982**, leaving unemployment, polluted water, derelict land and a damaged image. Decline became a negative cycle: fewer jobs reduced local spending, dereliction discouraged investment and the tax base weakened. This shows the wider effects of **deindustrialisation**: losing industry affects the surrounding community as well as the workers directly employed.
 
 ### Regeneration strategy
 
-Salford Council bought much of the dockland and published a development plan in **1985**. Public investment cleaned water, reclaimed land, improved roads and public space, and prepared sites for private development.
+**Preparing the land:** Salford Council bought much of the dockland and published a development plan in **1985**. Public investment cleaned water, reclaimed land, improved roads and public spaces, and prepared sites for private development. Housing, offices, leisure facilities and services replaced derelict dockland.
 
-Key projects included:
+**Culture as a starting point:** **The Lowry** opened in **2000**, supported by **£64 million of National Lottery funding**. The arts venue attracted visitors and helped change the area's image, encouraging spending and further investment. The funding figure should be understood as a grant, rather than the total cost of every part of the regeneration.
 
-- new housing, offices and leisure facilities;
-- Metrolink connections and improved accessibility;
-- **The Lowry**, opened in **2000**, as a cultural anchor;
-- **MediaCity**, opened in **2011**, attracting the BBC, ITV, education and creative businesses.
-
-MediaCity now hosts major broadcasters and more than **250 creative and technology businesses**, helping replace the old dock economy with a more varied service economy.
+**Media and transport:** **MediaCity** opened in **2011**, attracting the BBC, ITV, education and creative businesses. It now hosts more than **250 creative and technology businesses** alongside major broadcasters. Metrolink connections improved access from the wider city region, helping employees and visitors reach the new district.
 
 ### Economic effects
 
-New firms, visitors and residents created jobs, spending and investment. Offices, television production, digital businesses and education widened the employment base. Better transport connected the Quays to the wider city region.
+**Jobs and the multiplier effect:** Offices, television production, digital firms and education widened the employment base. MediaCity's broadcasters and education sites act as **anchor organisations**: they attract suppliers, workers and students, whose spending supports shops, cafés, transport and housing. This extra activity is a **multiplier effect**.
 
-Some work is highly skilled or insecure, so nearby residents do not automatically gain. Training and affordable access are needed if regeneration is to reduce local deprivation.
+**Ambition versus measured change:** Early MediaCity publicity projected up to **10,000 jobs** and an extra **£1 billion** for the regional economy over five years. These were forecasts, not proof that every job had already been created. The BBC relocation involved **five departments**, including **BBC Sport**, with staff beginning to move in **2011**.
 
-**MediaCity’s broadcasters and education sites** act as anchor organisations. They attract specialist suppliers, skilled workers and students. Those people spend in shops, cafés, transport and housing, supporting further activity: a **multiplier effect**. Metrolink improves access between the Quays and the wider city region.
-
-However, an office occupied by a firm moving from elsewhere in Greater Manchester is not necessarily a completely new regional job. Judge **additional employment and access for existing residents**, not just the number of new buildings.
+**Who benefits:** Some jobs require specialist skills, while others may be insecure. Training, affordable transport and access to vacancies help existing residents benefit. A firm moving from elsewhere in Greater Manchester does not necessarily create a completely new regional job, so new buildings alone are not enough to measure success.
 
 ### Social effects
 
@@ -168,7 +156,7 @@ Universities attract students from the UK and abroad. National and international
 
 Population growth supports services and the economy, but benefits and pressures vary by neighbourhood. New arrivals and natural increase add demand for housing, schools, healthcare and transport.
 
-**Leeds West Indian Carnival** shows how migration can shape leisure, music, food and the use of public space. Universities attract people from across the UK and overseas, supporting rental housing, cafés and entertainment. These are cultural and economic changes together, rather than simply a change in population size.
+**Leeds West Indian Carnival**, first held in **1967**, shows how migration can shape leisure, music, food and the use of public space. Universities attract people from across the UK and overseas, supporting rental housing, cafés and entertainment. These are cultural and economic changes together, rather than simply a change in population size.
 
 Demand can raise rents in popular neighbourhoods and create seasonal pressure on services. Effects differ between places, so one lively student area cannot represent the living conditions of every Leeds resident.
 
@@ -189,6 +177,8 @@ Successful regeneration must connect disadvantaged communities to skills, jobs a
 Large commuter flows cause congestion, air pollution and unreliable journeys. People without good public transport may struggle to reach jobs or education.
 
 Leeds promotes buses, park-and-ride, walking and cycling through the **Connecting Leeds** programme. These can reduce car dependence, but routes, price, reliability and safe connections determine whether people actually change travel behaviour.
+
+**South Bank and Holbeck:** Regeneration reuses former industrial land for homes, jobs, education, leisure and public spaces. **Holbeck Urban Village** supports creative and digital businesses in a historic industrial setting. Pedestrian and cycle links connect neighbourhoods with the centre, offering alternatives to car use. These changes can improve sustainability, but housing affordability and access for existing communities remain important.
 
 ### Waste and low-carbon living
 
@@ -223,3 +213,11 @@ Organise a developed answer as **challenge → named response → number showing
 - Give balanced migration impacts.
 - Use Salford Quays for economic change and Leeds for the major-city case study.
 - Evaluate whether improvements are sustainable and fairly shared.
+
+- [Parliament: £64 million National Lottery funding for The Lowry](https://publications.parliament.uk/pa/cm199697/cmhansrd/vo970115/debtext/70115-15.htm)
+
+- [Leeds Council: South Bank and Holbeck regeneration](https://news.leeds.gov.uk/news/council-chiefs-to-debate-south-bank-regeneration-work)
+
+- [MediaCity: original jobs and economic projections](https://www.placenorthwest.co.uk/mediacityuk-braces-for-bbc-expansion/)
+
+- [MediaCity supplier: five BBC departments and projected growth](https://www.cableflow.com/mediacityuk-manchester/)
