@@ -95,3 +95,5 @@ This file applies to all future work in this project.
 - When extending revision notes, integrate related detail into the existing logical sections. For case studies, group material under place/context, causes or processes, effects, management and evaluation as appropriate. Do not append a parallel heading for another explanation of the same point. Keep paragraph breaks, useful bold lead-ins, comparison tables and important evidence; remove repetition without compressing the language. This organisation standard applies across all subjects.
 
 - Do not show resource-availability badges (such as Resources available or Not yet prepared) on subject topic cards. Keep the topic number, assessment-paper label, title and Revised checkbox.
+
+- Within a case-study explanation, keep a consistent level of development. Integrate brief facts into short paragraphs with bold lead-ins rather than placing an expanded explanation after a duplicate terse bullet list. Retain useful comparison tables, genuine process or method steps, named evidence and qualifications. Keep related material under its existing logical heading.

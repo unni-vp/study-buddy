@@ -58,41 +58,31 @@ The Peruvian Amazon lies east of the Andes and forms part of the much larger Ama
 
 ### Interdependence
 
-- Heavy rainfall and year-round warmth support rapid plant growth.
-- Dense vegetation supplies food and habitats while roots protect the soil.
-- Decomposers rapidly recycle dead matter, and shallow roots absorb nutrients.
-- Transpiration returns water to the atmosphere and helps maintain rainfall.
+**Climate and vegetation:** Heavy rainfall and year-round warmth support rapid plant growth. Dense vegetation provides food and habitats, while roots help protect the soil.
+
+**Nutrients and water:** Decomposers rapidly break down dead material, and shallow roots absorb the released nutrients. Trees return water to the atmosphere through **transpiration**, helping maintain rainfall. Plants therefore depend on the climate while also influencing it.
 
 ### Threats and consequences
 
-- **Commercial and small-scale farming** clear land for crops and cattle.
-- **Road building** opens remote forest to settlement and extraction.
-- **Mining**, including illegal gold mining, removes forest and may pollute rivers.
-- **Logging** removes valuable trees and fragments habitats.
-- Coca cultivation and fires can add further pressure.
+**Forest clearance:** Commercial and small-scale farming clear land for crops and cattle. Logging removes valuable trees and fragments habitats. Road building opens remote forest to settlement and further extraction, while coca cultivation and fires add pressure.
 
-From **2005 to 2015**, Peru lost more than **134,000 hectares of forest per year on average**. The World Bank reported that land-use change produced **more than half of Peru's greenhouse-gas emissions**. Deforestation destroys habitats, releases stored carbon, increases erosion and disrupts water recycling.
+**Mining and river pollution:** Mining, including illegal gold mining, removes forest and may pollute rivers. The effects extend beyond the cleared land because people and wildlife downstream depend on river water.
 
-Clearing trees removes habitats and the main nutrient store. Less leaf litter reaches the ground, while fewer roots absorb and retain nutrients. Exposed soil receives heavier raindrop impact, increasing erosion and leaching. Lower interception and transpiration also alter water movement, with more rapid runoff and less moisture returned to the atmosphere.
+**Scale and carbon loss:** From **2005 to 2015**, Peru lost more than **134,000 hectares of forest per year on average**. The World Bank reported that land-use change produced **more than half of Peru's greenhouse-gas emissions**. Clearing forest releases stored carbon as well as destroying habitats.
 
-This is **interdependence**: a change in vegetation affects soil, water, animals and people together. A forest’s value is therefore more than the price of its timber.
+**Soil and water changes:** Removing trees takes away the main nutrient store and reduces the supply of leaf litter. Fewer roots absorb and retain nutrients, while exposed soil suffers greater raindrop impact, erosion and leaching. Reduced interception increases rapid runoff, and lower transpiration returns less moisture to the atmosphere. These linked effects show **interdependence**: changing vegetation also changes soil, water and wildlife.
 
-The **Camisea natural gas project**, operating since **2004**, develops gas resources in the Peruvian Amazon. Gas production can supply energy, employment and revenue. However, extraction sites and pipelines introduce infrastructure into a sensitive forest landscape and raise concerns about habitats and Indigenous communities.
-
-The trade-off is not simply jobs against trees. Decisions about access routes, safeguards, consultation and monitoring influence whether economic gains are accompanied by avoidable environmental or social harm. Do not assume every type of forest use has the same impact.
+**Camisea: benefits and risks:** The **Camisea natural gas project**, operating since **2004**, supplies energy and can create employment and revenue. However, extraction sites and pipelines introduce infrastructure into sensitive forest and raise concerns about habitats and Indigenous communities. Its impact depends on access routes, safeguards, consultation and monitoring, so different types of forest use should not be treated as equally damaging.
 
 ### Sustainable management
 
-- Give Indigenous communities legal recognition and secure land title. This strengthens their ability to protect forest from illegal use.
-- Support **deforestation-free coffee and cocoa**, so income depends on standing forest and improved farming rather than further clearance.
-- Restore damaged land and create wildlife corridors.
-- Monitor forest by satellite and enforce controls on illegal mining and logging.
+**Indigenous land rights:** Legal recognition and secure land title strengthen communities' ability to protect forest from illegal use. Between **2015 and 2021**, a World Bank-supported programme helped recognise **253 native communities** and title **58 communities covering about 230,000 hectares**.
 
-Between **2015 and 2021**, a World Bank-supported programme helped recognise **253 native communities** and title **58 communities covering about 230,000 hectares**. Peru's **FOLUR** project, running from **2023 to 2029**, supports deforestation-free coffee and cocoa across **17 provinces**.
+**Sustainable farming:** Peru's **FOLUR** project, running from **2023 to 2029**, supports **deforestation-free coffee and cocoa** across **17 provinces**. Improving production on existing farmland can provide income without further forest clearance.
 
-**Manu National Park** is a named protected forest in Peru. The wider **Purús–Manu conservation corridor** connects protected and community-managed areas. Connected habitats allow movement between areas and can reduce the isolation caused by fragmentation.
+**Protected forests and connected habitats:** **Manu National Park** protects a named forest area. The wider **Purús–Manu conservation corridor** connects protected and community-managed areas, allowing wildlife to move between habitats. Restoring damaged land and maintaining corridors can reduce the isolation caused by fragmentation.
 
-**Evaluation:** Protected status needs enforcement and community support. Secure land rights and reliable income from sustainable activities give people a practical reason and greater ability to conserve forest. Rules alone may fail where enforcement is weak or illegal extraction is profitable.
+**Enforcement and evaluation:** Satellite monitoring can identify clearance, but controls on illegal mining and logging still need enforcement. Secure land rights, community support and reliable sustainable incomes make conservation more practical. Rules alone may fail where enforcement is weak or illegal extraction remains profitable.
 
 ## Coral reef processes
 
@@ -117,35 +107,25 @@ Andros is the largest island in The Bahamas. Its barrier reef stretches for abou
 
 ### Interdependence and value
 
-- Coral provides shelter and feeding grounds for fish and invertebrates.
-- Fish graze algae that might otherwise smother coral.
-- Nearby mangroves and creeks act as nurseries for young fish.
-- The reef absorbs wave energy, reducing coastal erosion and storm damage.
-- Diving, fishing and nature tourism create jobs and income.
+**Connected habitats:** Coral provides shelter and feeding grounds for fish and invertebrates. Reef fish graze algae that could otherwise smother coral. Nearby seagrass beds, mangroves and creeks provide further feeding and nursery areas, and young fish may move between them as they grow. Clearing nursery vegetation can therefore affect fisheries beyond the damaged site.
 
-At **Andros**, reef fish gain food and shelter from connected reef, seagrass and mangrove habitats. Young fish using nursery areas may later move into other habitats. Removing nursery vegetation can therefore affect fisheries beyond the cleared location.
+**Coastal protection and livelihoods:** The reef absorbs wave energy, reducing coastal erosion and storm damage. Healthy habitats also support fishing, diving and nature tourism, creating jobs and income. Protecting the ecosystem helps protect both the coast and the local economy.
 
 ### Threats
 
-- Marine heat causes **bleaching** and can kill coral.
-- Stronger storms can break reef structures.
-- Pollution and sediment reduce water quality and light.
-- Dredging and coastal development damage habitats.
-- Overfishing removes important species, while invasive lionfish disrupt food webs.
+**Heat and storms:** Marine heat can cause **coral bleaching** and, if stress continues, coral death. Strong storms can break reef structures. Local visitor rules cannot remove the wider threat from warming seas.
 
-Overfishing can disturb food webs, while sediment and polluted water reduce the conditions needed for healthy coral and algae. Tourism depends on attractive, living habitats, so anchor damage or careless contact can undermine the income that visitors bring. Warming seas add a threat that local tourism rules cannot solve on their own.
+**Water quality and habitat damage:** Pollution and sediment reduce water quality and the light available to coral's algae. Dredging and coastal development can damage connected habitats, while anchors and careless visitor contact can harm the reef itself. This also threatens tourism income because visitors depend on attractive, living habitats.
+
+**Disrupted food webs:** Overfishing removes important species, while invasive lionfish disturb food webs. These changes can weaken the relationships that help keep the reef healthy.
 
 ### Protection and sustainable use
 
-- **North Marine Park** protects about **5,000 acres** and **South Marine Park** about **3,500 acres**.
-- Protected areas can limit damaging activity and allow fish stocks and habitats to recover.
-- Sustainable fishing rules protect breeding populations.
-- Eco-tourism provides income while giving businesses a reason to conserve the reef.
-- Monitoring identifies bleaching, disease and changes in coral or fish populations.
+**Marine parks:** **North Marine Park** protects about **5,000 acres**, and **South Marine Park** about **3,500 acres**. Protected areas can limit damaging activities and allow fish stocks and habitats to recover. Sustainable fishing rules help protect breeding populations, while monitoring tracks bleaching, disease and changes in coral or fish numbers.
 
-The **West Side National Park** protects tidal flats and mangrove creeks on western Andros, providing nursery habitat for species such as bonefish and tarpon. This complements reef protection elsewhere around the island; it is not the same location as the eastern barrier reef. The **Crab Replenishment Reserve** conserves land-crab habitat and breeding stocks.
+**Protecting the habitat network:** **West Side National Park** protects tidal flats and mangrove creeks on western Andros, including nursery habitat for bonefish and tarpon. It complements protection of the eastern barrier reef but is a different location. The **Crab Replenishment Reserve** protects land-crab habitat and breeding stocks.
 
-**Evaluation:** Management must protect the **whole habitat network**, as well as regulate fishing and visitor behaviour. Parks help when boundaries are understood, rules are enforced and nearby pollution or overfishing is controlled. Local protection improves resilience, but wider greenhouse-gas reductions are needed to limit marine heat stress.
+**Tourism and evaluation:** Eco-tourism creates income and gives businesses a reason to conserve the reef. Success still depends on understood boundaries, enforcement, responsible visitors and control of nearby pollution and overfishing. Local protection improves resilience, but wider greenhouse-gas reductions are needed to limit marine heat stress.
 
 ## Exam links to remember
 
