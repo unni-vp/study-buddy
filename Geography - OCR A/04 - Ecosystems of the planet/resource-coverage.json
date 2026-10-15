@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-12",
+  "reviewed": "2026-10-15",
   "specification": "OCR J383 2.1",
   "source": "../00 - Specification/OCR-J383-specification.pdf",
   "coverage": {
@@ -16,7 +16,10 @@
     "Peruvian Amazon rainforest",
     "Andros Barrier Reef, The Bahamas"
   ],
-  "mindmaps": [],
+  "mindmaps": [
+    "00-rainforest-and-peru",
+    "01-coral-reefs-and-andros"
+  ],
   "flashcards": {
     "reviewed": "2026-10-12",
     "source": "Questions and Answers/Ecosystems of the planet - Questions and Answers.md",
@@ -28,5 +31,32 @@
       "Apply and calculate",
       "Multi-step application"
     ]
+  },
+  "revision_guide_review": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRsGbl-FpTe0isSpB6ghLirFyqLGFwyYcQhiSKIvxJYEbPtdVmnBpkbxuicrXtJ4pxilqQzoqA6ZaCJ/pub",
+    "guide_sha256": "15be092b140b3f0854196ec957d1abb103ad010ac8cb8b5cba5022186a1a4f2f",
+    "tables_adapted": [
+      6
+    ],
+    "diagrams_recreated": [
+      "rainforest-nutrient-cycle",
+      "coral-symbiosis"
+    ],
+    "corrections_and_exclusions": [
+      "Correct the guide’s coral-is-plant and reef-feeding simplifications: coral is an animal; algae photosynthesise; polyps also feed.",
+      "Do not copy fixed 2040 reef-death prediction or conflate Exuma Cays with Andros.",
+      "Differentiate Arctic from Antarctic fauna; camel humps store fat.",
+      "Do not import unsupported guide 95% illegal logging, 10 million hectare corridor or project savings figures.",
+      "Name Camisea accurately and distinguish potential risks from verified universal impacts."
+    ],
+    "primary_sources": [
+      "https://visitaareasnaturales.sernanp.gob.pe/anps/parque-nacional-del-manu/",
+      "https://publications.iadb.org/en/economic-and-ecological-impact-natural-resource-extraction-case-camisea-gas-project-peru",
+      "https://bnt.bs/explore/andros/west-side-national-park/",
+      "https://www.bahamas.com/vendor/crab-replenishment-reserve"
+    ],
+    "additional_questions": 5,
+    "total_questions": 28,
+    "scope": "Refine existing case studies and explanations; preserve all original notes and Q&A except explicitly updated comparisons."
   }
 }

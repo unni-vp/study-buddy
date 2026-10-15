@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "00-rainforest-and-peru",
+    "title": "Rainforest processes and the Peruvian Amazon",
+    "panels": [
+      {
+        "title": "Interdependent components",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Biotic:** organisms. **Abiotic:** climate, light, water and soil. A change in one affects the others."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Heat and rain support growth, while vegetation changes habitats, water movement and soil protection."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Cycles and adaptations",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Nutrients:** biomass → litter → soil → root uptake. Warm, moist conditions speed decay."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Water:** interception and transpiration help recycle moisture. Drip tips shed rain and buttress roots support trees."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Why Peru’s forest matters",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**East of the Andes:** biodiversity, carbon storage, water regulation and Indigenous livelihoods."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Timber, food, tourism and mineral or energy resources also have economic value."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Threats and their chains",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Clearance:** habitat and biomass loss expose soil to leaching and erosion, while reducing water recycling."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Farming, logging, mining and access routes can reinforce one another’s impacts."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Named choices",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Camisea:** energy and revenue alongside environmental and community concerns. Operating since 2004."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Manu and Purús–Manu:** protected and connected habitats complement community management."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Judge sustainability",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Secure land rights, enforcement and sustainable income:** make conservation practical."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Evaluate who gains and whether forest functions remain. Protection on paper alone is insufficient."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  },
+  {
+    "slug": "01-coral-reefs-and-andros",
+    "title": "Coral reefs and Andros",
+    "panels": [
+      {
+        "title": "Conditions and distribution",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Warm-water reefs:** generally clear, sunlit tropical seas. Light supports photosynthetic partners."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Major examples include Andros, Florida, Mesoamerica, Red Sea, New Caledonia and Great Barrier reefs."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "The living partnership",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Coral animals:** shelter algae and supply nutrients. **Algae:** photosynthesise and pass food to coral."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Nutrients circulate through organisms, waste and decomposition. Corals also capture food."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Andros: linked habitats",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**The Bahamas:** the barrier reef, seagrass and mangroves provide feeding and nursery habitats."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Fish populations, coastal protection, fishing and tourism connect ecology to livelihoods."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Threats reinforce one another",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Heat stress:** bleaching may recover, but prolonged stress can kill coral."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Pollution, sediment, anchors, fishing pressure and habitat loss weaken the ecosystem."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Named protected areas",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**North and South Marine Parks:** reef-related protection. **West Side:** mangrove creeks and tidal flats."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "**Crab Replenishment Reserve:** land-crab habitat and stocks. These protect different parts of Andros."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      },
+      {
+        "title": "Evaluate the management",
+        "groups": [
+          {
+            "heading": null,
+            "lines": [
+              "**Rules and monitoring:** need enforcement, cooperation and protection beyond boundaries."
+            ]
+          },
+          {
+            "heading": null,
+            "lines": [
+              "Local action improves resilience. It cannot stop global warming on its own."
+            ]
+          }
+        ],
+        "text_reserve": 10
+      }
+    ],
+    "columns": null
+  }
+]

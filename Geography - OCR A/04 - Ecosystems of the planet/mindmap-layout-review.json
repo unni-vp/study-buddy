@@ -1,0 +1,156 @@
+{
+  "reviewed": "2026-10-15",
+  "generator": "scripts/build_geography_maps.py",
+  "style": "Content-sized panels, fixed readable fonts, black explanations, consistent coloured headings, inset dividers and no decorative hub",
+  "print": {
+    "width_mm": 277,
+    "orientation": "A4 landscape",
+    "body_pt": 11.21
+  },
+  "maps": [
+    {
+      "widths": [
+        354,
+        354,
+        352
+      ],
+      "column_heights": [
+        454,
+        410,
+        454
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 354,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 384,
+          "y": 18,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 384,
+          "y": 237,
+          "width": 354,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 750,
+          "y": 18,
+          "width": 352,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 750,
+          "y": 259,
+          "width": 352,
+          "height": 229
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "00-rainforest-and-peru",
+      "title": "Rainforest processes and the Peruvian Amazon"
+    },
+    {
+      "widths": [
+        358,
+        358,
+        344
+      ],
+      "column_heights": [
+        432,
+        410,
+        432
+      ],
+      "panels": [
+        {
+          "source_panels": [
+            0
+          ],
+          "x": 18,
+          "y": 18,
+          "width": 358,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 18,
+          "y": 259,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            2
+          ],
+          "x": 388,
+          "y": 18,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            3
+          ],
+          "x": 388,
+          "y": 237,
+          "width": 358,
+          "height": 207
+        },
+        {
+          "source_panels": [
+            4
+          ],
+          "x": 758,
+          "y": 18,
+          "width": 344,
+          "height": 229
+        },
+        {
+          "source_panels": [
+            5
+          ],
+          "x": 758,
+          "y": 259,
+          "width": 344,
+          "height": 207
+        }
+      ],
+      "body_pt": 11.22,
+      "diagrams": [],
+      "slug": "01-coral-reefs-and-andros",
+      "title": "Coral reefs and Andros"
+    }
+  ]
+}
