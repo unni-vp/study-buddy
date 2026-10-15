@@ -98,9 +98,9 @@ A **population pyramid** shows age and sex structure. A broad base suggests many
 
 Since 1900, death rates have fallen and people generally live longer. Birth rates later fell, so older age groups now make up a larger share of the UK population.
 
-![Schematic five-stage birth-rate and death-rate model](diagrams/demographic-transition.svg)
+![Illustrative population pyramid with labelled age groups, sex and relative bar length](diagrams/population-pyramid.svg)
 
-**Natural change:** population grows when births exceed deaths. The model does not include migration.
+**Read the shape:** identify the age group and side, then use bar length. This model illustrates the skill; it is not a UK census dataset.
 
 ### Demographic Transition Model
 
@@ -114,9 +114,9 @@ Since 1900, death rates have fallen and people generally live longer. Birth rate
 
 The model is useful for showing a broad pattern, but countries do not all change at the same speed.
 
-![Illustrative population pyramid with labelled age groups, sex and relative bar length](diagrams/population-pyramid.svg)
+![Schematic five-stage birth-rate and death-rate model](diagrams/demographic-transition.svg)
 
-**Read the shape:** identify the age group and side, then use bar length. This model illustrates the skill; it is not a UK census dataset.
+**Natural change:** population grows when births exceed deaths. The model does not include migration.
 
 ### Ageing population
 
