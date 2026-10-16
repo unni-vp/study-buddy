@@ -108,9 +108,9 @@ Use evidence in a chain: **saturated low-lying land + prolonged rain + restricte
 | **Solar** | Yes. | About 1.1% | Panels use sunlight; rooftops can generate near consumers. | No solar output at night and lower winter output; large farms use land. |
 | **Hydroelectricity** | Yes, through the water cycle. | About 0.3% | Stored water can provide controllable power. | Dams flood land and alter river habitats; suitable sites are limited. |
 | **Tidal and wave** | Yes. | Less than 0.1% | Tides are predictable; waves offer energy around exposed coasts. | High engineering costs, marine maintenance and effects on habitats or navigation. |
-| **Biomass and biogas** | Renewable if feedstock is replenished sustainably. | Within bioenergy and waste: about 12.6% | Organic material can provide controllable heat and electricity, including from waste. | Land, transport, combustion emissions and methane leakage affect sustainability. |
+| **Bioenergy and waste** | Mixed: biomass and biogas can be renewable when replaced sustainably; fossil-based waste is not. | About 12.6% | Includes wood, biogas and waste fuels for heat and electricity, plus biofuels for transport. | Land, transport, combustion emissions and methane leakage affect sustainability. |
 
-The shares refer to **UK primary energy consumption in 2025**, covering transport, heating and energy used to generate electricity. Net electricity imports account for about **1.6%**. The **bioenergy and waste** figure covers a broader group than biomass and biogas alone, including other waste fuels.
+The shares refer to **UK primary energy consumption in 2025**, covering transport, heating and energy used to generate electricity. Net electricity imports account for about **1.6%**.
 
 **Renewable** describes whether a resource is replenished. **Low carbon** describes its emissions. They are different tests: nuclear is low carbon during operation but its uranium fuel is non-renewable. Biomass regrowth can replace feedstock, but production and transport can still cause emissions.
 
