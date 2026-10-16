@@ -197,3 +197,5 @@ These checks apply to future resources and revisions of existing resources.
 - Do not display High-yield checklist sections in student reading pages or print views. Keep any retained checklist content hidden for internal tracking, without a visible heading or reveal control. Preserve the actual teaching explanations and important facts in the notes.
 
 - Hide Exam pointer sections, including named case-study exam pointers, in reading and print views. Do not leave a visible heading or reveal control. Keep substantive process explanations, case evidence and model answers visible.
+
+- Do not display the generic Evaluating a strategy section in student reading or print views. Keep specific case-study evaluations and supported judgements visible.

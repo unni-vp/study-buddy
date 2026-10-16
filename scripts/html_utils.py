@@ -38,7 +38,7 @@ def is_reference_heading(title):
 
 
 def is_revision_checklist_heading(title):
- return bool(re.fullmatch(r'(?:High[-– ]yield checklist|(?:.+ )?Exam pointers?)', title.strip(), re.I))
+ return bool(re.fullmatch(r'(?:High[-– ]yield checklist|(?:.+ )?Exam pointers?|Evaluating a strategy)', title.strip(), re.I))
 
 
 def render_md(text, *, hide_reference_sections=True):
