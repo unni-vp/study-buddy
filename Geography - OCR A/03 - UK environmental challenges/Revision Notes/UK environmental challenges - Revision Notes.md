@@ -98,17 +98,19 @@ Use evidence in a chain: **saturated low-lying land + prolonged rain + restricte
 
 **Renewable sources** are naturally replenished, such as wind, solar, hydroelectric, tidal and biomass. **Non-renewable sources** are finite, such as coal, oil, natural gas and uranium.
 
-| Resource | Renewable? | How it is used / strengths | Limitations |
-|---|---|---|---|
-| **Coal** | No; finite fossil fuel. | Energy-dense fuel; historically important in UK power and industry. | High carbon emissions and air pollution. UK coal-fired power ended in September 2024. |
-| **Natural gas** | No; finite fossil fuel. | Heating and flexible electricity generation; power stations can respond to demand. | Carbon dioxide on combustion, methane leakage and exposure to import prices. |
-| **Oil** | No; finite fossil fuel. | Especially important for transport fuels and chemical feedstocks. | Emissions, spill risk and insecure or costly supplies. |
-| **Nuclear: uranium** | No; uranium is finite. | Large, dependable electricity output with low operational carbon emissions. | Long construction, high capital cost, radioactive waste and decommissioning. |
-| **Wind** | Yes. | Onshore and offshore turbines generate low-operational-carbon electricity. | Output varies with wind; grid links, storage and suitable locations matter. |
-| **Solar** | Yes. | Panels use sunlight; rooftops can generate near consumers. | No solar output at night and lower winter output; large farms use land. |
-| **Hydroelectricity** | Yes, through the water cycle. | Stored water can provide controllable power. | Dams flood land and alter river habitats; suitable sites are limited. |
-| **Tidal and wave** | Yes. | Tides are predictable; waves offer energy around exposed coasts. | High engineering costs, marine maintenance and effects on habitats or navigation. |
-| **Biomass and biogas** | Renewable if feedstock is replenished sustainably. | Organic material can provide controllable heat and electricity, including from waste. | Land, transport, combustion emissions and methane leakage affect sustainability. |
+| Resource | Renewable? | Approx. UK usage share (2025) | How it is used / strengths | Limitations |
+|---|---|---|---|---|
+| **Coal** | No; finite fossil fuel. | About 0.8%, including other solid fuels | Energy-dense fuel; historically important in UK power and industry. | High carbon emissions and air pollution. UK coal-fired power ended in September 2024. |
+| **Natural gas** | No; finite fossil fuel. | About 35.5% | Heating and flexible electricity generation; power stations can respond to demand. | Carbon dioxide on combustion, methane leakage and exposure to import prices. |
+| **Oil** | No; finite fossil fuel. | About 38.8% | Especially important for transport fuels and chemical feedstocks. | Emissions, spill risk and insecure or costly supplies. |
+| **Nuclear: uranium** | No; uranium is finite. | About 4.8% | Large, dependable electricity output with low operational carbon emissions. | Long construction, high capital cost, radioactive waste and decommissioning. |
+| **Wind** | Yes. | About 4.6% | Onshore and offshore turbines generate low-operational-carbon electricity. | Output varies with wind; grid links, storage and suitable locations matter. |
+| **Solar** | Yes. | About 1.1% | Panels use sunlight; rooftops can generate near consumers. | No solar output at night and lower winter output; large farms use land. |
+| **Hydroelectricity** | Yes, through the water cycle. | About 0.3% | Stored water can provide controllable power. | Dams flood land and alter river habitats; suitable sites are limited. |
+| **Tidal and wave** | Yes. | Less than 0.1% | Tides are predictable; waves offer energy around exposed coasts. | High engineering costs, marine maintenance and effects on habitats or navigation. |
+| **Biomass and biogas** | Renewable if feedstock is replenished sustainably. | Within bioenergy and waste: about 12.6% | Organic material can provide controllable heat and electricity, including from waste. | Land, transport, combustion emissions and methane leakage affect sustainability. |
+
+The shares refer to **UK primary energy consumption in 2025**, covering transport, heating and energy used to generate electricity. Net electricity imports account for about **1.6%**. The **bioenergy and waste** figure covers a broader group than biomass and biogas alone, including other waste fuels.
 
 **Renewable** describes whether a resource is replenished. **Low carbon** describes its emissions. They are different tests: nuclear is low carbon during operation but its uranium fuel is non-renewable. Biomass regrowth can replace feedstock, but production and transport can still cause emissions.
 
@@ -252,3 +254,5 @@ Use four tests:
 - [Government: Hacheston solar appeal, May 2014](https://www.gov.uk/government/publications/recovered-appeal-horse-close-church-farm-hacheston-suffolk-ref-2193911-22-may-2014)
 
 - [Council minutes: Kirkby Moor proposal and objection, 2015](https://cumberland.moderngov.co.uk/Data/CuCC%20Development%20Control%20and%20Regulation%20Committee/201506251000/Agenda/Minutes.pdf)
+
+- [DESNZ: UK energy consumption by fuel, DUKES 2026 table 1.1.1](https://www.gov.uk/government/statistics/energy-chapter-1-digest-of-united-kingdom-energy-statistics-dukes)

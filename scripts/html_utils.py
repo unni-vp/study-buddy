@@ -96,10 +96,13 @@ def render_md(text, *, hide_reference_sections=True):
     cells=[s.strip() for s in lines[i].strip('|').split('|')]
     if not all(re.fullmatch(r'[- :]+',s) for s in cells): rows.append(cells)
     i+=1
-   out.append('<table>')
+   energy_comparison=bool(rows and rows[0][:2]==['Resource','Renewable?'] and any('UK usage share' in cell for cell in rows[0]))
+   if energy_comparison:out.append('<div class="table-scroll" role="region" aria-label="Energy choices comparison" tabindex="0">')
+   out.append('<table class="energy-choices">' if energy_comparison else '<table>')
    for j,row in enumerate(rows):
     tag='th' if j==0 else 'td';out.append('<tr>'+''.join(f'<{tag}>{inline(s)}</{tag}>' for s in row)+'</tr>')
    out.append('</table>')
+   if energy_comparison:out.append('</div>')
   elif line.startswith('- ') or re.match(r'^\d+\. ',line):
    numbered=bool(re.match(r'^\d+\. ',line)); tag='ol' if numbered else 'ul';out.append('<'+tag+'>')
    while i<len(lines) and (bool(re.match(r'^\d+\. ',lines[i])) if numbered else lines[i].startswith('- ')):

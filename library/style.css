@@ -105,3 +105,10 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
 
 /* Bibliographies remain in the page source and are omitted from reading and print. */
 .reference-sources[hidden],.revision-checklist[hidden]{display:none!important}
+
+/* Preserve readable columns when energy comparisons include usage shares. */
+.table-scroll{max-width:100%;overflow-x:auto;margin:20px 0;overscroll-behavior-x:contain}
+.table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.reading .table-scroll .energy-choices{display:table;min-width:860px;width:100%;margin:0;table-layout:auto}
+.reading .energy-choices th,.reading .energy-choices td{word-break:normal;overflow-wrap:normal}
+@media print{.table-scroll{overflow:visible}.reading .table-scroll .energy-choices{min-width:0;width:100%;font-size:10pt}}

@@ -85,5 +85,28 @@
       "numerical_facts_preserved": true
     },
     "readability": "Keep short paragraphs and useful bold lead-ins. Remove only repeated explanations while retaining named places, causes, impacts, management and evaluation."
+  },
+  "energy_usage_share_review": {
+    "reviewed": "2026-10-16",
+    "basis": "UK inland consumption of primary fuels and equivalents for energy use; DUKES 1.1.1.C, energy-supplied percentage shares, calendar year 2025.",
+    "source": "https://assets.publishing.service.gov.uk/media/6a69ee494dda8076771a433a/DUKES_1.1.1.xlsx",
+    "source_sha256": "952e616b89fd269f32d1e6bf01ddd0fb161092c183d6deffa144d3409b648b76",
+    "official_shares_percent": {
+      "Coal [note 1]": 0.75,
+      "Petroleum [note 2]": 38.79,
+      "Natural gas [note 3]": 35.53,
+      "Nuclear electricity [note 4]": 4.84,
+      "Wind, solar and hydro electricity [note 4] [note 5]": 5.93,
+      "Net electricity imports": 1.57,
+      "Bioenergy and waste": 12.58
+    },
+    "individual_renewable_estimates": {
+      "wind": 4.6,
+      "solar_PV": 1.1,
+      "natural_flow_hydro": 0.3
+    },
+    "calculation": "Individual renewable electricity outputs from DUKES2026 chapter5 converted from TWh to Mtoe at11.63TWh/Mtoe, divided by162.46Mtoe primary consumption; rounded to one decimal. Wave/tidal below0.1%.",
+    "category_scope": "Coal includes other solid fuels.12.6% applies to the broad bioenergy and waste group, not biomass/biogas alone. Net electricity imports1.6% are explained separately.",
+    "display": "2025 usage column is distinct from the explicitly dated2024 electricity-generation chart."
   }
 }
