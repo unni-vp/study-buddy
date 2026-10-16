@@ -191,3 +191,9 @@ These checks apply to future resources and revisions of existing resources.
 - When using a supplied revision booklet, audit every named case study for useful omitted numerical evidence, dates, locations and named strategies. Keep an internal claim-by-claim decision record. Preserve accurate historical figures with their date, scope and units; distinguish forecasts from outcomes and national figures from local ones. Correct conflicting claims with sources rather than silently dropping the evidence or importing it uncritically.
 
 - Landscape case studies must explain geomorphic processes at named places: identify the process, explain how it works, link it to the landform, and show how geology, climate and human management affect it. Verify sediment directions and local connections; do not assume every coastline belongs to one continuous transport route or every gorge formed by waterfall retreat.
+
+- Keep reference/source sections in editable documents and embedded HTML, but hide them entirely in normal reading and print. Do not show a source heading, disclosure, toggle or source-directory link in the reading flow. Hide bibliography sections only; retain teaching content such as grid references, sources and bias, energy resources and historical-source analysis.
+
+- Do not display High-yield checklist sections in student reading pages or print views. Keep any retained checklist content hidden for internal tracking, without a visible heading or reveal control. Preserve the actual teaching explanations and important facts in the notes.
+
+- Hide Exam pointer sections, including named case-study exam pointers, in reading and print views. Do not leave a visible heading or reveal control. Keep substantive process explanations, case evidence and model answers visible.

@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from html import escape
 import json
 import re
-from html_utils import render_md
+from html_utils import render_md, is_reference_heading
 from mindmap_navigation import icon
 
 @dataclass
@@ -92,7 +92,7 @@ def build_revision_pages(source, layout_path, target, subject, topic, topicpage,
         return re.sub(r'(href|src)="([^"]+)"',relocate,content)
 
     cards=''.join(grouped_card(link(target,targets[g['id']]),g) for g in groups)
-    utilities=''.join(f'<a href="{link(target,targets[p["id"]])}">{escape(p["title"])}</a>' for p in layout.get('extras',[]))
+    utilities=''.join(f'<a href="{link(target,targets[p["id"]])}">{escape(p["title"])}</a>' for p in layout.get('extras',[]) if not is_reference_heading(p['title']))
     write(target,topic+' '+label.lower(),f'<div class="reader-tools"><a href="{link(target,topicpage)}">← Back to topic</a><a href="{link(target,full)}">{print_label}</a></div><h1>{escape(topic)}</h1><div class="revision-grid">{cards}</div><nav class="revision-utilities" aria-label="Resource tools">{utilities}</nav>',crumbs[:-1],subject)
     for i,g in enumerate(groups):
         page=targets[g['id']]

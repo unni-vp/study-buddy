@@ -32,7 +32,16 @@ def inline(s):
  return ''.join(out)
 
 
-def render_md(text):
+def is_reference_heading(title):
+ # Match bibliography labels only, never teaching headings such as Sources and bias.
+ return bool(re.fullmatch(r'(?:sources(?: for .+)?|case-study sources|reference sources|references|past-paper sources|further reading)', title.strip(), re.I))
+
+
+def is_revision_checklist_heading(title):
+ return bool(re.fullmatch(r'(?:High[-– ]yield checklist|(?:.+ )?Exam pointers?)', title.strip(), re.I))
+
+
+def render_md(text, *, hide_reference_sections=True):
  out=[]; lines=text.splitlines(); i=0
  while i<len(lines):
   line=lines[i]
@@ -56,7 +65,26 @@ def render_md(text):
    tags=[tag.strip() for tag in line[len('**Themes:** '):].split(' · ') if tag.strip()]
    out.append('<div class="poem-theme-tags" role="group" aria-label="Poem themes"><span class="poem-theme-label">Themes:</span>'+''.join('<span class="poem-theme-tag">'+html.escape(tag)+'</span>' for tag in tags)+'</div>');i+=1
   elif line.startswith('#'):
-   n=len(line)-len(line.lstrip('#')); out.append(f'<h{n}>{inline(line[n:].strip())}</h{n}>');i+=1
+   n=len(line)-len(line.lstrip('#')); title=line[n:].strip()
+   if hide_reference_sections and n >= 2 and (is_reference_heading(title) or is_revision_checklist_heading(title)):
+    # Keep tracking sections in HTML without a visible heading or toggle.
+    end=i+1;active_fence=None
+    while end<len(lines):
+     value=lines[end]
+     if active_fence:
+      if fence_end(value,active_fence):active_fence=None
+     else:
+      opening=fence_start(value)
+      if opening:active_fence=opening[1]
+      else:
+       heading=re.match(r'^(#{1,6}) ',value)
+       if heading and len(heading[1])<=n:break
+     end+=1
+    body=render_md('\n'.join(lines[i:end]),hide_reference_sections=False)
+    kind="reference-sources" if is_reference_heading(title) else "revision-checklist"
+    out.append('<section class="'+kind+'" hidden>'+body+'</section>');i=end
+   else:
+    out.append(f'<h{n}>{inline(title)}</h{n}>');i+=1
   elif line.startswith('>'):
    quote=[]
    while i<len(lines) and lines[i].startswith('>'):

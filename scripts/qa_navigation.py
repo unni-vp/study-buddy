@@ -96,9 +96,11 @@ def build_qa_pages(source, target, subject, topic, topicpage, write, link):
         reading_material = ('<section class="qa-stimulus" aria-label="Reading material">'
                             + render(page, stimulus.read_text(encoding='utf-8'), stimulus.parent)
                             + '</section>') if stimulus.exists() else ''
-        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1>'+controls+f'<nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+reading_material+''.join(sections)+'</article><script defer src="'+link(page, target.parent.parent/'qa.js')+'"></script>'
+        references = ('<section class="reference-sources" hidden><h2>Past-paper sources</h2>'
+                      + render(page, sources) + '</section>') if sources else ''
+        return f'<article class="reading qa-reading"><h1>{escape(title)}</h1>'+controls+f'<nav class="qa-mark-links" aria-label="Jump to mark group">{jumps}</nav>'+reading_material+''.join(sections)+references+'</article><script defer src="'+link(page, target.parent.parent/'qa.js')+'"></script>'
 
-    source_link = f'<a href="{link(target, source_page)}">Past-paper sources</a>' if sources else ''
+    source_link = ''  # Sources remain embedded, hidden, in the question page.
     write(target, title, f'<div class="reader-tools qa-tools"><a href="{link(target, topicpage)}">← Back to topic</a>{source_link}<button onclick="window.print()">Print Q&amp;A</button></div>'+content(target), crumbs, subject)
     # Retain the complete-view URL for existing bookmarks; it contains the same bank.
     write(full, title, f'<div class="reader-tools"><a href="{link(full, target)}">← Questions &amp; answers</a><button onclick="window.print()">Print all Q&amp;A</button></div>'+content(full), crumbs, subject)

@@ -102,3 +102,6 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
 .qa-stimulus{padding:20px;margin:22px 0 30px;border:1px solid var(--line);border-radius:8px;background:#fafbfc}
 .reading .qa-stimulus h2:first-child{margin-top:0}
 @media(max-width:720px){.qa-stimulus{padding:14px}}
+
+/* Bibliographies remain in the page source and are omitted from reading and print. */
+.reference-sources[hidden],.revision-checklist[hidden]{display:none!important}
