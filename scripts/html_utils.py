@@ -96,7 +96,7 @@ def render_md(text, *, hide_reference_sections=True):
     cells=[s.strip() for s in lines[i].strip('|').split('|')]
     if not all(re.fullmatch(r'[- :]+',s) for s in cells): rows.append(cells)
     i+=1
-   energy_comparison=bool(rows and rows[0][:2]==['Resource','Renewable?'] and any('UK usage share' in cell for cell in rows[0]))
+   energy_comparison=bool(rows and rows[0][:2]==['Resource','Renewable?'] and len(rows[0])==5 and 'UK' in rows[0][2])
    if energy_comparison:out.append('<div class="table-scroll" role="region" aria-label="Energy choices comparison" tabindex="0">')
    out.append('<table class="energy-choices">' if energy_comparison else '<table>')
    for j,row in enumerate(rows):

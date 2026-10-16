@@ -98,7 +98,7 @@ Use evidence in a chain: **saturated low-lying land + prolonged rain + restricte
 
 **Renewable sources** are naturally replenished, such as wind, solar, hydroelectric, tidal and biomass. **Non-renewable sources** are finite, such as coal, oil, natural gas and uranium.
 
-| Resource | Renewable? | Approx. UK usage share (2025) | How it is used / strengths | Limitations |
+| Resource | Renewable? | Share of UK primary energy use (2025) | How it is used / strengths | Limitations |
 |---|---|---|---|---|
 | **Coal** | No; finite fossil fuel. | About 0.8%, including other solid fuels | Energy-dense fuel; historically important in UK power and industry. | High carbon emissions and air pollution. UK coal-fired power ended in September 2024. |
 | **Natural gas** | No; finite fossil fuel. | About 35.5% | Heating and flexible electricity generation; power stations can respond to demand. | Carbon dioxide on combustion, methane leakage and exposure to import prices. |

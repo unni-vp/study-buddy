@@ -107,6 +107,7 @@
     },
     "calculation": "Individual renewable electricity outputs from DUKES2026 chapter5 converted from TWh to Mtoe at11.63TWh/Mtoe, divided by162.46Mtoe primary consumption; rounded to one decimal. Wave/tidal below0.1%.",
     "category_scope": "Coal includes other solid fuels. The row is labelled Bioenergy and waste to match the official12.6% group. Its renewable classification is mixed because fossil-based waste is not renewable. Net electricity imports1.6% are explained separately.",
-    "display": "2025 usage column is distinct from the explicitly dated2024 electricity-generation chart."
+    "display": "2025 usage column is distinct from the explicitly dated2024 electricity-generation chart.",
+    "column": "Share of UK primary energy use (2025)"
   }
 }
