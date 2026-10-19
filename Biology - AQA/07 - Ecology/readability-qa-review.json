@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Broke the quadrat scaling example into explicit mean, area and estimate steps.",
+    "Separated aerobic composting from anaerobic biogas production.",
+    "Expanded intensive-farming trade-offs and retained biodiversity mechanisms, biomass losses, cycles, practicals and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 48,
+  "mark_groups": {
+    "1": 11,
+    "2": 17,
+    "3": 10,
+    "4": 5,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark bank covers ecological mechanisms, quantitative sampling/biomass, practical planning and conservation evaluation.",
+    "Added multiple choice and five-mark population estimate linked to the direction of sampling bias and a specific improvement."
+  ],
+  "additional_practice": [
+    {
+      "number": 11,
+      "marks": 1,
+      "prompt": "Which statement about an ecosystem is correct? Choose one: A energy is recycled into sunlight; B materials cycle while energy transfers through the system and to the surroundings; C decomposers create carbon atoms; D food-chain arrows point from predator to prey.",
+      "answer": "B: materials cycle while energy transfers through the system and to the surroundings."
+    },
+    {
+      "number": 44,
+      "marks": 5,
+      "prompt": "Five 0.25 m² quadrats contain 2, 3, 5, 4 and 6 plants. The meadow is 100 m². Calculate the mean count and estimated population. The quadrats were all placed beside a heavily trampled path, where plant density is known to be lower than elsewhere. Explain the likely bias and improve the sampling method.",
+      "answer": "- Mean count = (2 + 3 + 5 + 4 + 6) ÷ 5 = **4 plants per quadrat**.\n- The meadow contains 100 ÷ 0.25 = **400 quadrat-sized areas**.\n- Estimated population = 4 × 400 = **1600 plants**.\n- Sampling only beside the path is unrepresentative and likely **underestimates** the meadow population because density is lower there.\n- Use **random coordinates across the whole meadow**, with more well-spread quadrats and the same counting rule. This reduces site-selection bias and better represents the habitat."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.7",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

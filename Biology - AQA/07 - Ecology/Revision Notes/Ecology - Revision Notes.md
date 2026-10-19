@@ -72,7 +72,13 @@ A **quadrat** samples a known area. Random positions help avoid choosing only pl
 
 **Estimated population = mean per quadrat × habitat area ÷ quadrat area.**
 
-Example: counts 3, 7, 5, 4, 6 give mean **5**. A 0.25 m² quadrat in a 100 m² habitat gives **5 ×100/0.25 = 2000 plants**. This is an estimate, not an exact census. A larger number of well-spread samples improves representativeness. Quadrats suit plants and slow-moving organisms, not animals that constantly move in and out.
+**Worked estimate:** five counts are 3, 7, 5, 4 and 6. The quadrat area is 0.25 m² and the habitat area is 100 m².
+
+1. Mean per quadrat = (3 + 7 + 5 + 4 + 6) ÷ 5 = **5 plants**.
+2. Number of quadrat-sized areas in the habitat = 100 ÷ 0.25 = **400**.
+3. Estimated population = 5 × 400 = **2000 plants**.
+
+This assumes that the sampled areas represent the habitat. More well-spread samples improve representativeness, but the result remains an estimate rather than an exact census. Quadrats suit plants and slow-moving organisms. They are unsuitable for animals constantly moving in and out of the sample area.
 
 ## Transects: investigating distribution
 
@@ -118,7 +124,11 @@ Decay depends on microorganisms and their enzymes:
 - **Water:** supports growth and reactions. Very dry conditions slow decay.
 - **Oxygen:** supports aerobic respiration. Turning compost increases oxygen supply. Waterlogging can reduce oxygen availability.
 
-Compost returns nutrients to soil as a natural fertiliser. **Anaerobic decomposition** can produce **methane**, collected in a biogas generator and burned as fuel. It needs suitable moisture and temperature, but oxygen exclusion for methane production. Do not confuse aerating a compost heap with operating an anaerobic digester.
+**Composting:** suitable moisture, warmth and oxygen support rapid aerobic decay. The compost returns nutrients to the soil and can be used as a natural fertiliser.
+
+**Biogas production:** anaerobic decomposition occurs **without oxygen** and can produce **methane**. A biogas generator collects this gas for fuel. It needs suitable moisture and temperature, but oxygen must be excluded for methane production.
+
+Turning a compost heap adds oxygen. This is a different aim from operating an anaerobic digester.
 
 ## Milk-decay practical
 
@@ -186,7 +196,9 @@ Example: 80 kg transferred from 1000 kg gives **8%**. More biomass is needed at 
 
 **Food security** means having enough food to feed a population. Threats include population growth, changing diets and global transport demands, pests/pathogens, failed rainfall, agricultural input costs and conflict affecting food/water access.
 
-Intensive farming can reduce energy transfers by **limiting animal movement** and keeping surroundings at a suitable temperature. High-protein feed can support growth. More of the consumed material can become useful biomass, but confinement can create **welfare concerns**, disease risk and waste problems. Compare measured yields, costs and animal health, not yield alone.
+**Increasing useful biomass:** intensive farming can limit animal movement and maintain a suitable temperature. Animals then use less energy for movement or keeping warm, leaving more of the consumed material available for growth. High-protein feed can also support growth.
+
+**Trade-offs:** confinement can cause welfare concerns, increase disease risk and create waste problems. Heating and feed also cost money and resources. Evaluate measured yield alongside animal health, costs and environmental effects.
 
 ## Sustainable fishing and biotechnology
 
