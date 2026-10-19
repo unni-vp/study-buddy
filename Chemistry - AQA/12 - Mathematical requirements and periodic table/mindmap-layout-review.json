@@ -15,7 +15,7 @@
         352
       ],
       "column_heights": [
-        410,
+        432,
         410,
         432
       ],
@@ -27,14 +27,14 @@
           "x": 18,
           "y": 18,
           "width": 354,
-          "height": 229
+          "height": 251
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 259,
+          "y": 281,
           "width": 354,
           "height": 185
         },
@@ -82,14 +82,14 @@
     },
     {
       "widths": [
-        342,
         350,
-        368
+        350,
+        360
       ],
       "column_heights": [
+        432,
         410,
-        410,
-        410
+        432
       ],
       "panels": [
         {
@@ -98,7 +98,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 342,
+          "width": 350,
           "height": 185
         },
         {
@@ -107,14 +107,14 @@
           ],
           "x": 18,
           "y": 215,
-          "width": 342,
-          "height": 229
+          "width": 350,
+          "height": 251
         },
         {
           "source_panels": [
             2
           ],
-          "x": 372,
+          "x": 380,
           "y": 18,
           "width": 350,
           "height": 207
@@ -123,7 +123,7 @@
           "source_panels": [
             3
           ],
-          "x": 372,
+          "x": 380,
           "y": 237,
           "width": 350,
           "height": 207
@@ -132,19 +132,19 @@
           "source_panels": [
             4
           ],
-          "x": 734,
+          "x": 742,
           "y": 18,
-          "width": 368,
+          "width": 360,
           "height": 207
         },
         {
           "source_panels": [
             5
           ],
-          "x": 734,
+          "x": 742,
           "y": 237,
-          "width": 368,
-          "height": 207
+          "width": 360,
+          "height": 229
         }
       ],
       "body_pt": 11.22,
@@ -304,14 +304,14 @@
     },
     {
       "widths": [
-        358,
-        350,
-        352
+        398,
+        334,
+        328
       ],
       "column_heights": [
         432,
-        410,
-        416
+        432,
+        438
       ],
       "panels": [
         {
@@ -320,52 +320,52 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 358,
-          "height": 229
+          "width": 398,
+          "height": 251
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 259,
-          "width": 358,
-          "height": 207
+          "y": 281,
+          "width": 398,
+          "height": 185
         },
         {
           "source_panels": [
             2
           ],
-          "x": 388,
+          "x": 428,
           "y": 18,
-          "width": 350,
+          "width": 334,
           "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 388,
+          "x": 428,
           "y": 259,
-          "width": 350,
-          "height": 185
+          "width": 334,
+          "height": 207
         },
         {
           "source_panels": [
             4
           ],
-          "x": 750,
+          "x": 774,
           "y": 18,
-          "width": 352,
-          "height": 185
+          "width": 328,
+          "height": 207
         },
         {
           "source_panels": [
             5
           ],
-          "x": 750,
-          "y": 215,
-          "width": 352,
+          "x": 774,
+          "y": 237,
+          "width": 328,
           "height": 235
         }
       ],
@@ -376,13 +376,13 @@
     },
     {
       "widths": [
-        354,
-        354,
+        342,
+        366,
         352
       ],
       "column_heights": [
         454,
-        432,
+        454,
         454
       ],
       "panels": [
@@ -392,7 +392,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 354,
+          "width": 342,
           "height": 229
         },
         {
@@ -401,26 +401,26 @@
           ],
           "x": 18,
           "y": 259,
-          "width": 354,
+          "width": 342,
           "height": 229
         },
         {
           "source_panels": [
             2
           ],
-          "x": 384,
+          "x": 372,
           "y": 18,
-          "width": 354,
-          "height": 207
+          "width": 366,
+          "height": 251
         },
         {
           "source_panels": [
             3
           ],
-          "x": 384,
-          "y": 237,
-          "width": 354,
-          "height": 229
+          "x": 372,
+          "y": 281,
+          "width": 366,
+          "height": 207
         },
         {
           "source_panels": [
@@ -446,5 +446,18 @@
       "slug": "05-graphs-and-geometry",
       "title": "Data, algebra, graphs and geometry"
     }
-  ]
+  ],
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "00-chemistry-maths-overview.svg",
+      "01-numerical-skills.svg",
+      "04-solutions-gases-and-yields.svg",
+      "05-graphs-and-geometry.svg"
+    ]
+  }
 }

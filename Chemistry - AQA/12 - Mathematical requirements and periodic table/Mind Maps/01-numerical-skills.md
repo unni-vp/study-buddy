@@ -18,7 +18,9 @@ Prefixes kilo, milli, micro, nano and larger powers.
 
 Area: square factor. Volume: cube factor.
 
-1 cm² =100 mm², 1 cm³ =1000 mm³.
+1 cm² =100 mm²
+
+1 cm³ =1000 mm³.
 
 ## Standard form
 

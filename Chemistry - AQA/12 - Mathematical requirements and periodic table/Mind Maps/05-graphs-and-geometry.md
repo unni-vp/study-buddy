@@ -22,7 +22,11 @@ Best fit, not forced point-to-point joining.
 
 ## Gradient and rate
 
-y=mx+c. m=Δy/Δx. c at x=0.
+y=mx+c.
+
+m=Δy/Δx.
+
+c at x=0.
 
 Large triangle on best fit.
 
@@ -52,7 +56,9 @@ Eight 1 cm cubes: 48 cm², same 8 cm³.
 
 ## Represent and check
 
-Real molecules are 3D; drawings/model keys simplify.
+Real molecules are 3D
+
+drawings/model keys simplify.
 
 Keep atoms, valency and connectivity.
 

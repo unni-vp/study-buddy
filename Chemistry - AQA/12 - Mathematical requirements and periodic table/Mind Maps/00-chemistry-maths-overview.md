@@ -4,7 +4,9 @@
 
 Convert before substituting.
 
-1000 cm³ =1 dm³, 1000 mg =1 g.
+1000 cm³ =1 dm³
+
+1000 mg =1 g.
 
 Standard form and order-of-magnitude checks.
 
@@ -22,7 +24,9 @@ Ion charge balances compound formulas.
 
 ## Moles and equations
 
-n =m/Mr. Particle count =n×Avogadro constant.
+n =m/Mr.
+
+Particle count =n×Avogadro constant.
 
 Balanced coefficients give mole ratios.
 
@@ -48,7 +52,9 @@ Atom economy includes balanced mass contributions.
 
 Bond energy =broken−formed.
 
-Rate =change/time. Rf =spot/front distance.
+Rate =change/time.
+
+Rf =spot/front distance.
 
 ## Graphs and geometry
 

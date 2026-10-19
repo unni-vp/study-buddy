@@ -4,7 +4,11 @@
 
 Mass/volume: g dm⁻³.
 
-c=n/V, n=cV. Convert cm³ first.
+c=n/V
+
+n=cV.
+
+Convert cm³ first.
 
 Mass concentration=c×Mr.
 

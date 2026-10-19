@@ -20,7 +20,9 @@ Main groups link to outer electrons.
 
 Period links to occupied shells in simple model.
 
-Mg 2,8,2 forms Mg²⁺; Cl 2,8,7 forms Cl⁻.
+Mg 2,8,2 forms Mg²⁺
+
+Cl 2,8,7 forms Cl⁻.
 
 Co cobalt differs from CO carbon monoxide.
 

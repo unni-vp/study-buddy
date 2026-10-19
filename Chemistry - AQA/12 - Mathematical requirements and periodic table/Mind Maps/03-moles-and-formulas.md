@@ -6,7 +6,9 @@ One mole: 6.02×10²³ particles.
 
 n=m/Mr with grams and molar mass.
 
-Mass=n×Mr. Particles=n×constant.
+Mass=n×Mr.
+
+Particles=n×constant.
 
 Identify molecules, atoms or ions explicitly.
 
