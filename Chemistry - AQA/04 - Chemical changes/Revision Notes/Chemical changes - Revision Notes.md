@@ -73,9 +73,11 @@ Neutralisation is like matching pairs: hydrogen ions and hydroxide ions combine.
 | **Concentrated** | Large amount of dissolved acid per unit volume of solution |
 | **Dilute** | Small amount per unit volume |
 
-A strong acid can be dilute; a weak acid can be concentrated. Strength describes the **proportion ionised**, not how much acid was added.
+**Strength asks what fraction of the acid ionises.** A strong acid ionises completely in water. A weak acid only partly ionises.
 
-For comparable solutions at the same concentration, the stronger acid produces more H⁺ and has a **lower pH**. Every decrease of one pH unit means **10 times greater H⁺ concentration**: pH 2 has **100 times** the H⁺ concentration of pH 4. A lower pH number means greater acidity.
+**Concentration asks how much acid is dissolved in each unit volume.** A strong acid can therefore be dilute, and a weak acid can be concentrated. The two words describe different things.
+
+For comparable solutions at the same concentration, a stronger acid produces more H⁺ ions and has a **lower pH**. Each decrease of one pH unit means **10 times greater H⁺ concentration**. Going from pH 4 to pH 2 is a decrease of two units, so the H⁺ concentration is 10 × 10 = **100 times greater**.
 
 ## Acid reactions and salt names
 
@@ -203,10 +205,16 @@ A brown copper coating at a cathode indicates **Cu²⁺ reduction**, not a gas. 
 
 ## Extracting aluminium
 
-Aluminium is above carbon in the reactivity series, so carbon cannot remove oxygen from aluminium oxide effectively.
+Aluminium is above carbon in the reactivity series. Carbon therefore cannot remove oxygen from aluminium oxide effectively, so aluminium is extracted using **electrolysis**.
 
-- Aluminium oxide is dissolved in **molten cryolite**, lowering the operating temperature compared with pure aluminium oxide and reducing heating costs.
-- Cathode: **Al³⁺ + 3e⁻ → Al**. Aluminium ions are **reduced**.
-- Anode: **2O²⁻ → O₂ + 4e⁻**. Oxide ions are **oxidised**.
-- Oxygen reacts with the **carbon anodes**, forming carbon dioxide. The anodes wear away and must be replaced.
-- Electricity is still needed to drive electrolysis; cryolite reduces the heating requirement, not the need for current.
+**Lowering the operating temperature:** aluminium oxide is dissolved in **molten cryolite**. The mixture can be used at a lower temperature than pure aluminium oxide, reducing the energy needed for heating. Electricity is still needed to drive the electrolysis.
+
+**At the cathode:** positive aluminium ions gain electrons and form aluminium. This is **reduction**.
+
+**Al³⁺ + 3e⁻ → Al**
+
+**At the anode:** oxide ions lose electrons and form oxygen. This is **oxidation**.
+
+**2O²⁻ → O₂ + 4e⁻**
+
+**Why the anodes need replacing:** the oxygen reacts with the hot **carbon anodes**, forming carbon dioxide. Carbon is used up, so the anodes wear away.
