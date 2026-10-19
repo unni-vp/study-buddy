@@ -79,7 +79,11 @@ Find how quickly amylase removes starch at different pH values.
 5. Keep temperature, enzyme/starch concentrations and volumes the same. Change only pH.
 6. Repeat each condition; calculate means and identify any anomalous results for checking.
 
-For the same starting amount of starch, **relative rate = 1 ÷ time**. A reaction taking 60 s has a relative rate of 1/60 = **0.0167 s⁻¹**. A shorter time means a faster reaction.
+For the same starting amount of starch, **relative rate = 1 ÷ time**.
+
+A reaction taking 60 s has a relative rate of 1/60 = **0.0167 s⁻¹**.
+
+A shorter time means a faster reaction.
 
 Plot pH against rate. The highest rate identifies the optimum in this experiment. State whether you averaged the times before calculating rates or averaged individual rates; use the same method throughout.
 
@@ -102,9 +106,20 @@ Blood travels through two linked circuits: one to collect oxygen, one to deliver
 
 ### Calculating blood flow
 
-**Cardiac output = heart rate × stroke volume.** Stroke volume is blood pumped per beat.
+**Cardiac output = heart rate × stroke volume.**
 
-70 beats/min × 75 cm³/beat = **5,250 cm³/min**, or **5.25 dm³/min**. Check that the time and volume units match the question.
+Stroke volume is blood pumped per beat.
+
+**Example: cardiac output**
+
+- Heart rate = **70 beats/min**.
+- Stroke volume = **75 cm³/beat**.
+
+Cardiac output = 70 × 75 = **5,250 cm³/min**.
+
+Convert to dm³/min: 5,250 ÷ 1,000 = **5.25 dm³/min**.
+
+Check that the time and volume units match the question.
 
 ## Blood, vessels and lungs
 
@@ -125,7 +140,18 @@ An artery is an outgoing pressure pipe; a capillary is an exchange surface; a ve
 | Platelet | Small cell fragment involved in clotting, reducing blood loss and pathogen entry |
 | Plasma | Liquid carrying cells and dissolved glucose, amino acids, hormones, carbon dioxide and urea; distributes thermal energy |
 
-Air travels through **trachea → bronchi → smaller airways → alveoli**. Many alveoli provide a large area; moist, thin alveolar and capillary walls give a short diffusion path. Ventilation replenishes air and blood flow removes absorbed oxygen, maintaining steep gradients. **Oxygen diffuses into blood; carbon dioxide diffuses into alveoli.**
+Air travels through **trachea → bronchi → smaller airways → alveoli**.
+
+**Adaptations for gas exchange**
+
+- Many alveoli provide a **large surface area**.
+- Moist, thin alveolar and capillary walls give a **short diffusion path**.
+- Ventilation replenishes air and blood flow removes absorbed oxygen, maintaining **steep concentration gradients**.
+
+**Direction of diffusion**
+
+- **Oxygen diffuses into the blood**.
+- **Carbon dioxide diffuses into the alveoli**.
 
 When recognising a blood micrograph, use visible evidence: red cells are numerous and lack nuclei; white cells have a visible nucleus; platelets are much smaller fragments.
 
@@ -203,7 +229,14 @@ A **potometer measures water uptake**, an estimate of transpiration; some water 
 3. Measure bubble distance in a fixed time; reset and repeat.
 4. Change one factor, controlling other conditions and using the same shoot or comparable leaf area.
 
-**Bubble movement rate = distance ÷ time.** To find water volume, use **volume = πr² × distance**, where r is the capillary radius; then divide by time for volume uptake rate.
+**Bubble movement rate = distance ÷ time**
+
+To calculate water uptake by volume:
+
+1. Find the volume moved: **volume = πr² × distance**.
+2. Divide that volume by time to find the **volume uptake rate**.
+
+Here **r** is the capillary radius.
 
 Leaks give misleading results. Repeat measurements and compare means. Stomatal density can be estimated by counting stomata in several randomly selected, measured microscope areas, then calculating a mean per unit area.
 
