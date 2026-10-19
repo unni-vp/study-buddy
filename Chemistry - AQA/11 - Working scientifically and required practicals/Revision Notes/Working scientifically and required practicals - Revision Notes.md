@@ -121,7 +121,11 @@ Do not compare different total liquid masses as if equal ΔT always means equal 
 
 Use equal masses/surface areas of a suitable solid, such as carbonate chips, with a range of known acid concentrations at **fixed total solution volume and temperature**. Mix and promptly seal to a connected gas syringe, then record gas volumes at fixed intervals. Repeat and compare mean curves/initial gradients or a common-interval mean rate.
 
-Higher concentration gives more particles per unit volume, increasing successful collision frequency. **Rate = gas volume/time** for an interval; a **tangent gradient** gives rate at an instant. Final gas amount depends on the limiting reagent and is different from rate.
+Higher concentration gives more particles per unit volume, increasing successful collision frequency.
+
+**Rate = gas volume/time** for an interval; a **tangent gradient** gives rate at an instant.
+
+Final gas amount depends on the limiting reagent and is different from rate.
 
 ![A stoppered flask connects to a gas syringe with freely moving plunger.](../Diagrams/gas-volume-apparatus.svg)
 
@@ -144,7 +148,13 @@ Keep the solution depth constant: a deeper column can hide the cross with a diff
 
 Draw a **pencil baseline**, apply small dried spots and place the paper in solvent **below the baseline**. Use a covered vessel, let solvent rise, then remove before it reaches the top and immediately mark the solvent front.
 
-**Rf = baseline-to-spot-centre distance/baseline-to-solvent-front distance.** It has no unit. Compare reference samples in the **same solvent/paper/conditions**. Different partition between stationary and mobile phases causes separation.
+**Rf = baseline-to-spot-centre distance/baseline-to-solvent-front distance.**
+
+It has no unit.
+
+Compare reference samples in the **same solvent/paper/conditions**.
+
+Different partition between stationary and mobile phases causes separation.
 
 Large spreading spots, ink baselines, submerged samples and an unmarked front undermine results. One spot may hide overlapping compounds; a different solvent can improve separation. Handle solvents safely, especially flammable ones, with suitable ventilation and no nearby flame.
 
