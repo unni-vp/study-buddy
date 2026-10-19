@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -12,13 +12,13 @@
   "maps": [
     {
       "widths": [
-        346,
-        362,
+        354,
+        354,
         352
       ],
       "column_heights": [
-        564,
-        701,
+        586,
+        723,
         498
       ],
       "panels": [
@@ -28,7 +28,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 346,
+          "width": 354,
           "height": 295
         },
         {
@@ -37,26 +37,26 @@
           ],
           "x": 18,
           "y": 325,
-          "width": 346,
-          "height": 273
+          "width": 354,
+          "height": 295
         },
         {
           "source_panels": [
             2
           ],
-          "x": 376,
+          "x": 384,
           "y": 18,
-          "width": 362,
-          "height": 251
+          "width": 354,
+          "height": 247
         },
         {
           "source_panels": [
             3
           ],
-          "x": 376,
-          "y": 281,
-          "width": 362,
-          "height": 454
+          "x": 384,
+          "y": 277,
+          "width": 354,
+          "height": 472
         },
         {
           "source_panels": [
@@ -96,7 +96,7 @@
         444
       ],
       "column_heights": [
-        592,
+        614,
         476,
         657
       ],
@@ -117,7 +117,7 @@
           "x": 18,
           "y": 353,
           "width": 290,
-          "height": 273
+          "height": 295
         },
         {
           "source_panels": [
@@ -176,7 +176,7 @@
       ],
       "column_heights": [
         576,
-        454,
+        498,
         476
       ],
       "panels": [
@@ -205,16 +205,16 @@
           "x": 444,
           "y": 18,
           "width": 294,
-          "height": 229
+          "height": 251
         },
         {
           "source_panels": [
             3
           ],
           "x": 444,
-          "y": 259,
+          "y": 281,
           "width": 294,
-          "height": 229
+          "height": 251
         },
         {
           "source_panels": [
@@ -407,14 +407,14 @@
     },
     {
       "widths": [
-        450,
-        290,
-        320
+        406,
+        302,
+        352
       ],
       "column_heights": [
+        498,
         476,
-        476,
-        482
+        454
       ],
       "panels": [
         {
@@ -423,7 +423,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 450,
+          "width": 406,
           "height": 251
         },
         {
@@ -432,43 +432,43 @@
           ],
           "x": 18,
           "y": 281,
-          "width": 450,
-          "height": 229
+          "width": 406,
+          "height": 251
         },
         {
           "source_panels": [
             2
           ],
-          "x": 480,
+          "x": 436,
           "y": 18,
-          "width": 290,
+          "width": 302,
           "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 480,
+          "x": 436,
           "y": 259,
-          "width": 290,
+          "width": 302,
           "height": 251
         },
         {
           "source_panels": [
             4
           ],
-          "x": 782,
+          "x": 750,
           "y": 18,
-          "width": 320,
-          "height": 257
+          "width": 352,
+          "height": 229
         },
         {
           "source_panels": [
             5
           ],
-          "x": 782,
-          "y": 287,
-          "width": 320,
+          "x": 750,
+          "y": 259,
+          "width": 352,
           "height": 229
         }
       ],
@@ -478,5 +478,11 @@
       "title": "Stopping & momentum",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
+  }
 }
