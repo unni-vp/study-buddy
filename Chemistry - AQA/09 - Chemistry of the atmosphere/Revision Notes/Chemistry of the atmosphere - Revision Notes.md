@@ -2,7 +2,15 @@
 
 ## Today’s atmosphere
 
-The atmosphere is a mixture of gases. For dry air, useful approximate proportions are **78% nitrogen, 21% oxygen** and roughly **1% other gases**, mainly argon with smaller amounts of carbon dioxide and other gases. A simple estimate is **four-fifths nitrogen and one-fifth oxygen**. Water vapour varies with conditions; do not treat its proportion as one fixed value everywhere.
+The atmosphere is a mixture of gases. For **dry air**, useful approximate proportions are:
+
+- **Nitrogen: 78%**.
+- **Oxygen: 21%**.
+- **Other gases: roughly 1%**, mainly argon with smaller amounts of carbon dioxide and other gases.
+
+A simple estimate is **four-fifths nitrogen and one-fifth oxygen**.
+
+Water vapour varies with conditions. Do not treat its proportion as one fixed value everywhere.
 
 The broad proportions have remained fairly similar over about **200 million years**, while small gas components can still change significantly. “Carbon dioxide is a small percentage” does not mean it has no important effect.
 
