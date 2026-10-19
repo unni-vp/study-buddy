@@ -110,7 +110,12 @@ For a cross **Aa × Aa**:
 - Recessive phenotype probability = **1/4 = 25%**.
 - Heterozygous probability = **2/4 = 50%**.
 
-**Probability and ratio are different:** a probability of **1 in 4** means one of four equally likely outcomes is affected. The affected-to-unaffected ratio is **1 : 3**. A ratio of 1 : 4 would mean one affected out of five outcomes.
+**Probability and ratio are different**
+
+- A probability of **1 in 4** means one of four equally likely outcomes is affected.
+- The affected-to-unaffected ratio is **1 : 3**.
+
+A ratio of **1 : 4** would mean one affected out of five outcomes.
 
 **Expected numbers:** multiply the probability by the number of offspring. For example, a 25% probability across 100 offspring gives an expected 25 affected offspring. Small families do not have to match this ratio exactly.
 
