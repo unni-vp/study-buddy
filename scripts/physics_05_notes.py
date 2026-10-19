@@ -14,7 +14,15 @@ Forces are interactions between objects, measured in **newtons (N)**. An arrow s
 
 ## Weight, resultants and components
 
-**Weight is gravitational force: W = mg.** W is in N, m in kg and g in N/kg. Use the supplied g. Mass does not change just because an object moves to another planet; weight can.
+**Weight is gravitational force.**
+
+**W = mg**
+
+- **W:** weight, in newtons (N).
+- **m:** mass, in kilograms (kg).
+- **g:** gravitational field strength, in N/kg. Use the supplied value.
+
+Mass does not change just because an object moves to another planet. Weight can change.
 
 A 60 kg person with g = 9.8 N/kg weighs **588 N**. A calibrated newtonmeter measures weight. Weight can be treated as acting at the **centre of mass**.
 
@@ -33,7 +41,15 @@ Balanced forces have **zero resultant**. This means zero acceleration, not neces
 
 ## Work and elastic deformation
 
-A force does **work** when it produces displacement along its line of action. **W = Fs**, where work W is in J, force F in N and distance s in m. **1 J = 1 Nm** for work.
+A force does **work** when it produces displacement along its line of action.
+
+**W = Fs**
+
+- **W:** work done, in joules (J).
+- **F:** force, in newtons (N).
+- **s:** displacement along the force's line of action, in metres (m).
+
+**1 J = 1 Nm** for work.
 
 A 40 N force moving a box 3.0 m transfers **120 J**. Work against friction transfers energy into thermal stores, warming surfaces.
 
@@ -41,11 +57,15 @@ To stretch, compress or bend a **stationary object**, more than one force acts: 
 
 **Hooke's law: F = ke**, up to the **limit of proportionality**.
 
-- k: spring constant, N/m; a larger k means a stiffer spring.
-- e: extension or compression in m, not total length.
-- A 6.0 N force extends a spring by 0.030 m: k = 6.0/0.030 = **200 N/m**.
-- A force–extension graph is straight through the origin while proportional. With F vertical and e horizontal, its gradient is **k**.
-- Beyond the proportional limit, F and e are no longer directly proportional. This is not automatically the same point as permanent deformation.
+**Spring constant, k:** this measures stiffness, in N/m. A larger value means a greater force is needed for the same extension.
+
+**Extension, e:** this is the change in length, measured in metres. It is not the total length.
+
+For a force of 6.0 N and extension of 0.030 m, k = F/e = 6.0 ÷ 0.030 = **200 N/m**.
+
+**Reading the graph:** while force and extension are proportional, the force–extension graph is a straight line through the origin. With F on the vertical axis and e on the horizontal axis, its gradient is **k**.
+
+Beyond the **limit of proportionality**, the graph curves because F and e are no longer directly proportional. This does not automatically mean the spring is permanently deformed. Check whether it returns to its original length when unloaded.
 
 Energy stored within the proportional region is **Eₑ = ½ke²**. It equals the triangular area under an F-against-e graph. A spring stores energy while stretching, so use average force, not final force × extension for a Hooke's-law spring.
 
@@ -61,11 +81,21 @@ Keep the spring and ruler arrangement fixed. Secure the stand and use a tray bel
 
 ## Moments, levers and gears
 
-A **moment** is the turning effect of a force: **M = Fd**, in **Nm**. d is the **perpendicular distance from the pivot to the force's line of action**.
+A **moment** is the turning effect of a force.
+
+**M = Fd**
+
+- **M:** moment, in newton metres (Nm).
+- **F:** force, in newtons (N).
+- **d:** the **perpendicular distance from the pivot to the force's line of action**, in metres (m).
 
 A 20 N force applied at right angles 0.30 m from a pivot gives **6.0 Nm**. A longer spanner allows the same moment with less force.
 
-For rotational balance, **total clockwise moment = total anticlockwise moment**. If 30 N acts 0.20 m on one side, a force 0.40 m on the other must be (30 × 0.20)/0.40 = **15 N**. A fully stationary object also needs balanced forces.
+For rotational balance, **total clockwise moment = total anticlockwise moment**.
+
+If 30 N acts 0.20 m on one side, a force 0.40 m on the other must be (30 × 0.20)/0.40 = **15 N**.
+
+A fully stationary object also needs balanced forces.
 
 Levers transmit turning effects about a pivot. Meshing gears transmit rotation through forces between teeth; adjacent gears rotate in **opposite directions**. A larger driven gear rotates more slowly and gives a greater turning effect for an ideal system. Mechanical advantage does not create energy.
 
@@ -73,11 +103,34 @@ Levers transmit turning effects about a pivot. Meshing gears transmit rotation t
 
 A **fluid** is a liquid or gas. Fluid pressure produces forces **normal to a surface**.
 
-**p = F/A**: p in Pa, F perpendicular to the surface in N, A in m². **1 Pa = 1 N/m²**. Smaller area gives larger pressure for the same force. Convert area carefully: **1 cm² = 10⁻⁴ m²**.
+**p = F/A**
 
-Pressure due to a liquid column is **p = hρg**: depth h in m, density ρ in kg/m³. More depth or greater density means more weight of liquid above each unit area.
+- **p:** pressure, in pascals (Pa).
+- **F:** force perpendicular to the surface, in newtons (N).
+- **A:** area, in square metres (m²).
 
-At 2.0 m depth in water, with ρ = 1,000 kg/m³ and g = 9.8 N/kg, liquid pressure = **19,600 Pa**. If total pressure is requested, add the pressure at the surface. Pressure difference between depths is **Δp = Δhρg**.
+**1 Pa = 1 N/m²**
+
+Smaller area gives larger pressure for the same force.
+
+Convert area carefully: **1 cm² = 10⁻⁴ m²**.
+
+Pressure due to a liquid column is:
+
+**p = hρg**
+
+- **p:** pressure due to the liquid, in Pa.
+- **h:** depth, in m.
+- **ρ:** density, in kg/m³.
+- **g:** gravitational field strength, in N/kg.
+
+More depth or greater density means more weight of liquid above each unit area.
+
+At 2.0 m depth in water, with ρ = 1,000 kg/m³ and g = 9.8 N/kg, liquid pressure = **19,600 Pa**.
+
+If total pressure is requested, add the pressure at the surface.
+
+Pressure difference between depths is **Δp = Δhρg**.
 
 - Pressure is greater on an immersed object's bottom than its top, giving an upward resultant called **upthrust**.
 - A floating object at rest has **upthrust = weight**.
@@ -88,15 +141,46 @@ Atmospheric pressure comes from air-particle collisions and the weight of the at
 
 ## Describing motion
 
-**Average speed = total distance / total time.** At constant speed, **s = vt**. Speed is in m/s. Average velocity uses **displacement / time** and includes direction.
+**Average speed = total distance ÷ total time**
+
+At constant speed:
+
+**s = vt**
+
+- **s:** distance, in m.
+- **v:** speed, in m/s.
+- **t:** time, in s.
+
+**Average velocity = displacement ÷ time**
+
+Velocity includes direction.
 
 A runner travels 200 m in 40 s: average speed = **5.0 m/s**. If the runner returns to the starting point, average velocity for the full journey is zero even though average speed is not.
 
 Useful approximate speeds: **walking 1.5 m/s, running 3 m/s, cycling 6 m/s, sound in air 330 m/s**. A car might travel around 13 m/s in a town and 30 m/s on a fast road; a train around 50 m/s and an airliner around 250 m/s. These are estimates, not fixed properties. Terrain, fitness, traffic and conditions matter.
 
-**Acceleration a = (v − u)/t**, in m/s². A car increasing from 5 to 17 m/s in 4 s has acceleration **3 m/s²**. Slowing gives acceleration opposite to the motion.
+**a = (v − u)/t**
 
-For **constant acceleration**, **v² − u² = 2as**. From rest at 2.0 m/s² over 25 m, v = √(2 × 2.0 × 25) = **10 m/s**. This equation is not for changing acceleration.
+- **a:** acceleration, in m/s².
+- **u:** initial velocity, in m/s.
+- **v:** final velocity, in m/s.
+- **t:** time, in s.
+
+**Example:** a car increases its velocity from 5 to 17 m/s in 4 s.
+
+a = (17 − 5) ÷ 4 = **3 m/s²**
+
+Slowing gives acceleration opposite to the motion.
+
+For **constant acceleration**:
+
+**v² − u² = 2as**
+
+**Example:** an object starts from rest and accelerates at 2.0 m/s² over 25 m.
+
+v = √(2 × 2.0 × 25) = **10 m/s**
+
+This equation is not for changing acceleration.
 
 Moving in a circle at constant speed still changes **velocity**, because direction changes. A resultant force towards the centre is needed.
 
@@ -114,15 +198,35 @@ Moving in a circle at constant speed still changes **velocity**, because directi
 
 ![A velocity–time graph: acceleration from 0 to 8 m/s in 4 s, then constant velocity until 7 s. Areas give 40 m displacement.](../Diagrams/velocity-time.svg)
 
-Here acceleration = 8/4 = **2 m/s²** for the first 4 s. Displacement = ½ × 4 × 8 + 3 × 8 = **40 m**. All velocities are positive, so distance is also 40 m.
+**For the motion shown above:**
+
+1. Acceleration during the first 4 s = 8 ÷ 4 = **2 m/s²**.
+2. Displacement = triangular area + rectangular area.
+3. Displacement = ½ × 4 × 8 + 3 × 8 = **40 m**.
+
+All velocities are positive, so distance is also 40 m.
 
 ## Newton's laws and terminal velocity
 
-**First law:** zero resultant force means rest or **constant velocity**. **Inertia** is the tendency to keep that state. Motion does not require a continuing forward resultant force.
+**First law:** if the resultant force is zero, a stationary object stays at rest and a moving object keeps a **constant velocity**. A car travelling steadily has a driving force that balances resistance. It does not need a forward resultant force to keep moving. **Inertia** is the tendency to stay at rest or keep the same velocity.
 
-**Second law: F = ma**, using the **resultant force**, mass in kg and acceleration in m/s². Greater F gives greater a for fixed mass; greater mass gives smaller a for fixed F. **Inertial mass = F/a**, measuring resistance to changing velocity.
+**Newton's second law**
 
-**Third law:** interacting objects exert **equal and opposite forces of the same type on each other**. They act on **different objects**, so do not cancel on one free-body diagram. A book's weight and the table's upward force both act on the book; they are not a third-law pair. The partner to Earth's pull on the book is the book's pull on Earth.
+**F = ma**
+
+- **F:** the **resultant force**, in N.
+- **m:** mass, in kg.
+- **a:** acceleration, in m/s².
+
+For the same mass, a greater resultant force produces greater acceleration. For the same force, a greater mass produces less acceleration.
+
+**Inertial mass = F/a**
+
+This measures how difficult it is to change velocity.
+
+**Third law:** when two objects interact, they exert **equal and opposite forces of the same type on each other**. The forces act on **different objects**, so they do not cancel on one free-body diagram.
+
+For example, a book's weight and the table's upward force both act on the book. They are therefore not a third-law pair. The partner to Earth's gravitational pull on the book is the book's gravitational pull on Earth.
 
 **Falling through air**
 
@@ -155,14 +259,24 @@ Use **Δv/Δt** for acceleration when measured velocities and their time interva
 
 **Stopping distance = thinking distance + braking distance.**
 
-- **Thinking distance = speed × reaction time**. Tiredness, alcohol/drugs and distraction can increase reaction time.
-- Typical reaction times are about **0.2–0.9 s**. A ruler-drop test measures distance fallen before catching; use a conversion table or suitable equation to obtain time. Repeat with the same setup and compare means, while recognising practice and anticipation effects.
-- Wet/icy roads, worn tyres and poor brakes can increase **braking distance** by reducing the available braking force.
-- Friction does work, reducing kinetic energy and heating brakes. Large braking forces give large decelerations, with risks of overheating and losing control.
+**Thinking distance** is the distance travelled before the driver starts braking. Calculate it using **speed × reaction time**. Tiredness, alcohol, drugs and distraction can increase reaction time, making this distance longer at the same speed.
+
+**Measuring reaction time:** typical values are about **0.2–0.9 s**. In a ruler-drop test, measure how far the ruler falls before it is caught. Convert distance to time using a suitable table or equation. Repeat with the same setup and compare means. Practice and anticipating the drop can affect the results.
+
+**Braking distance** is the distance travelled after braking starts. Wet or icy roads, worn tyres and poor brakes can reduce the braking force and increase this distance.
+
+Braking friction does work, reducing the car's kinetic energy and heating the brakes. A large braking force produces a large deceleration. Brakes may overheat, and the vehicle may lose control.
 
 For constant mass and braking force, kinetic energy is proportional to **speed squared**, so **doubling speed quadruples braking distance**. Thinking distance only doubles if reaction time stays fixed. Total stopping distance therefore does not usually simply double or quadruple.
 
-**Example:** a car at 20 m/s with reaction time 0.70 s travels **14 m** before braking. A 1,000 kg car has Eₖ = ½ × 1,000 × 20² = **200,000 J**. With a constant 5,000 N braking force, braking distance = E/F = **40 m**, so stopping distance = **54 m**.
+**Example: stopping distance**
+
+A 1,000 kg car travels at 20 m/s. The driver's reaction time is 0.70 s and the braking force is a constant 5,000 N.
+
+1. Thinking distance = speed × reaction time = 20 × 0.70 = **14 m**.
+2. Kinetic energy = ½ × 1,000 × 20² = **200,000 J**.
+3. Braking distance = E/F = 200,000 ÷ 5,000 = **40 m**.
+4. Stopping distance = 14 + 40 = **54 m**.
 
 ## Momentum and collision safety
 
@@ -170,15 +284,36 @@ For constant mass and braking force, kinetic energy is proportional to **speed s
 
 In a closed system with no resultant external force, **total momentum before = total momentum after**. Total kinetic energy need not be conserved in a collision; some can become thermal energy or deformation.
 
-**Joining trolleys:** a 2 kg trolley moving right at 3 m/s hits a stationary 1 kg trolley and they stick. Initial momentum = 2 × 3 = 6 kg m/s. Combined mass = 3 kg, so final v = 6/3 = **2 m/s right**.
+**Example: joining trolleys**
+
+A 2 kg trolley moving right at 3 m/s hits a stationary 1 kg trolley. They stick together.
+
+1. Initial momentum = 2 × 3 = **6 kg m/s**.
+2. Combined mass = 2 + 1 = **3 kg**.
+3. Final velocity = 6 ÷ 3 = **2 m/s right**.
 
 **Recoil:** two objects initially at rest have zero total momentum. If they push apart, their momenta are equal in size and opposite in direction. The lighter object has the greater speed.
 
-**Force = rate of change of momentum: F = Δp/Δt = m(v − u)/Δt.** This gives an average force for the stated time interval.
+**Force = rate of change of momentum**
+
+**F = Δp/Δt**
+
+For a constant mass:
+
+**F = m(v − u)/Δt**
+
+This gives an average force for the stated time interval.
 
 Airbags, seat belts, helmets, crash mats and cushioned playground surfaces increase **stopping time** for the same momentum change, reducing average force. They do not remove the need for momentum to change.
 
-A 60 kg passenger slows from 10 m/s to rest: momentum change has magnitude **600 kg m/s**. Over 0.20 s, average force magnitude = 600/0.20 = **3,000 N**; over 0.50 s, it is **1,200 N**.
+**Example: increasing stopping time**
+
+A 60 kg passenger slows from 10 m/s to rest.
+
+Momentum change has magnitude **600 kg m/s**.
+
+- Over **0.20 s**, average force magnitude = 600 ÷ 0.20 = **3,000 N**.
+- Over **0.50 s**, average force magnitude = 600 ÷ 0.50 = **1,200 N**.
 ''',[
 ('interactions','Forces and deformation','Use vectors, work and spring relationships.','physics-forces',['Scalars, vectors and interactions','Weight, resultants and components','Work and elastic deformation','Practical: force and extension']),
 ('turning','Turning and pressure','Explain moments, gears, fluids and floating.','physics-forces',['Moments, levers and gears','Pressure, upthrust and the atmosphere']),
