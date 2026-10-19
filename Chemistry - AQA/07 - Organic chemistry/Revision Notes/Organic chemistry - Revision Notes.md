@@ -101,7 +101,16 @@ For the alkene test, shake with **bromine water**: **orange becomes colourless**
 
 ## Alcohols: structures, reactions and uses
 
-Alcohols contain **–OH** attached to carbon. First four examples are methanol **CH₃OH**, ethanol **C₂H₅OH**, propanol **C₃H₇OH** and butanol **C₄H₉OH**. Straight-chain examples end in –CH₂OH; keep the oxygen–hydrogen bond visible when displaying them.
+Alcohols contain **–OH** attached to carbon.
+
+| Alcohol | Formula |
+|---|---|
+| Methanol | CH₃OH |
+| Ethanol | C₂H₅OH |
+| Propanol | C₃H₇OH |
+| Butanol | C₄H₉OH |
+
+Straight-chain examples end in –CH₂OH. Keep the oxygen–hydrogen bond visible when displaying them.
 
 - With **sodium**, alcohols produce **hydrogen** and the corresponding sodium compound.
 - They **burn** as fuels, with complete combustion producing carbon dioxide and water.
@@ -144,7 +153,11 @@ Esters often have characteristic fruity smells and are useful in perfumes/flavou
 
 ## Addition polymers and repeat units
 
-A **monomer** is a small molecule that joins many others; a **polymer** is a very large molecule built from repeating units. In **addition polymerisation**, alkene double bonds open and form a long carbon backbone.
+A **monomer** is a small molecule that joins many others.
+
+A **polymer** is a very large molecule built from repeating units.
+
+In **addition polymerisation**, alkene double bonds open and form a long carbon backbone.
 
 ![Ethene becomes a poly(ethene) repeat unit with a single carbon–carbon bond, outward bonds through brackets and n.](../Diagrams/addition-polymer.svg)
 
@@ -161,7 +174,12 @@ To draw a repeat unit:
 
 **Condensation polymerisation** uses monomers with **two functional groups**, enabling chains to extend at both ends. They join while losing small molecules, usually **water**.
 
-A **diol** has two –OH groups; a **dicarboxylic acid** has two –COOH groups. Reaction between them makes a **polyester** containing repeated **ester links, –C(=O)–O–**. In the named example, ethanediol and hexanedioic acid can join to make a polyester. Focus on functional groups and linking, rather than memorising additional organic names.
+- A **diol** has two –OH groups.
+- A **dicarboxylic acid** has two –COOH groups.
+
+Reaction between them makes a **polyester** containing repeated **ester links, –C(=O)–O–**.
+
+In the named example, ethanediol and hexanedioic acid can join to make a polyester. Focus on functional groups and linking, rather than memorising additional organic names.
 
 Compare the methods:
 
