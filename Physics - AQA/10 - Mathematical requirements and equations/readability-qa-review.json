@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Turned equation rearrangements into separate worked steps, retaining the original examples.",
+    "Explained energy-stage selection and unit conversions using complete sentences.",
+    "Added graph construction with a readable vector model answer; preserved all equation tables and existing diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 41,
+  "mark_groups": {
+    "1": 9,
+    "2": 12,
+    "3": 13,
+    "4": 5,
+    "5": 1,
+    "6": 1
+  },
+  "assessment_review": [
+    "Retained numerical conversion, equations, estimates, statistics, geometry, gradients, tangents and areas across1–4 and6marks.",
+    "Added multiple choice and explicit five-mark graph construction with axes, best-fit line, gradient and reciprocal resistance.",
+    "Checked against the official June2027 equation sheet; no unsupported memorisation requirement added."
+  ],
+  "additional_practice": [
+    {
+      "number": 9,
+      "marks": 1,
+      "prompt": "Which conversion is correct? Choose one: A 1 cm² = 0.01 m²; B 1 cm² = 0.0001 m²; C 1 cm² = 100 m²; D 1 cm² = 0.000001 m².",
+      "answer": "B: 1 cm² = 0.0001 m²."
+    },
+    {
+      "number": 40,
+      "marks": 5,
+      "prompt": "Plot current against potential difference using the readings below. Draw a suitable best-fit line, calculate its gradient and use it to determine the resistance.\n\n| Potential difference (V) | Current (A) |\n|---|---|\n| 0 | 0.00 |\n| 1.0 | 0.20 |\n| 2.0 | 0.40 |\n| 3.0 | 0.60 |\n| 4.0 | 0.80 |",
+      "answer": "- Put **potential difference (V) on the horizontal axis** and **current (A) on the vertical axis**. Choose even scales that use most of the plotting area.\n- Plot all five points and draw a **straight best-fit line through the origin**.\n- Gradient = ΔI/ΔV = (0.80 − 0) ÷ (4.0 − 0) = **0.20 A/V**.\n- For these axes, gradient = **1/R**, so R = 1 ÷ 0.20 = **5.0 Ω**.\n\n![Model current–voltage graph with labelled axes, five points and a straight line through the origin.](../Diagrams/current-voltage-model.svg)"
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf sections7 and9",
+    "Physics - AQA/00 - Specification/AQA-8463-equations-JUN27.pdf",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF Q04.2,Q06.3"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

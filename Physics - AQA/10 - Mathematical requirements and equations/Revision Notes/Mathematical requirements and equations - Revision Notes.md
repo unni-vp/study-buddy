@@ -53,20 +53,23 @@ Units also describe relationships: 1 W = 1 J/s; 1 Pa = 1 N/m²; 1 V = 1 J/C. A r
 
 ## Rearrange and recognise proportionality
 
-Keep both sides of an equation balanced, like a balance scale: perform the same operation on each side.
+Keep both sides of an equation balanced, like a balance scale. Perform the same operation on both sides.
 
-- V = IR gives **R = V/I** and **I = V/R**.
-- Eₖ = ½mv² gives v² = 2Eₖ/m, then **v = √(2Eₖ/m)** for speed.
-- pV = constant gives **p₁V₁ = p₂V₂** for a fixed mass of gas at constant temperature.
-- v² − u² = 2as gives **a = (v² − u²)/(2s)**, only for constant acceleration.
+**Finding resistance:** start with V = IR. Divide both sides by I to obtain **R = V/I**. To find current instead, divide V by R to obtain **I = V/R**.
 
-**Example:** a 2.0 kg object has kinetic energy 25 J. v = √(2 × 25/2.0) = √25 = **5.0 m/s**. Forgetting the square root would give a quantity with the wrong meaning.
+**Finding speed from kinetic energy:** start with Eₖ = ½mv². Multiply by 2 and divide by m to get v² = 2Eₖ/m. Then take the square root: **v = √(2Eₖ/m)**. For a 2.0 kg object with 25 J of kinetic energy, v = √(2 × 25 ÷ 2.0) = **5.0 m/s**.
 
-**Direct proportion:** y = kx. Doubling x doubles y, with other factors fixed. The graph is a straight line through the origin.
+**Finding a changed gas pressure:** for a fixed mass at constant temperature, pV is constant. Write **p₁V₁ = p₂V₂**, then divide by V₂ to obtain p₂ = p₁V₁/V₂.
 
-**Inverse proportion:** y = k/x. Doubling x halves y, such as acceleration and mass at fixed resultant force.
+**Finding acceleration:** for constant acceleration, start with v² − u² = 2as. Divide by 2s to obtain **a = (v² − u²)/(2s)**.
 
-**Squared relationship:** y = kx². Doubling x quadruples y. Kinetic energy is proportional to speed squared for a fixed mass; elastic energy is proportional to extension squared for a fixed spring constant within the appropriate region.
+| Relationship | What happens when x doubles? | Graph |
+|---|---|---|
+| **Direct proportion: y = kx** | y doubles, with other factors fixed. | Straight line through the origin. |
+| **Inverse proportion: y = k/x** | y halves. At fixed force, doubling mass halves acceleration. | A decreasing curve; plotting y against 1/x gives a straight line through the origin. |
+| **Squared relationship: y = kx²** | y becomes four times as large. At fixed mass, doubling speed quadruples kinetic energy. | Plotting y against x² gives a straight line through the origin. |
+
+Elastic energy also follows a squared relationship with extension when spring constant is fixed and the spring remains within its proportional region.
 
 ## Equations: energy and heating
 

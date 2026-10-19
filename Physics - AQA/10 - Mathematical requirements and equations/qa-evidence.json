@@ -72,7 +72,7 @@
       "answer": "1 cm² = 10⁻⁴ m², so **8.0 cm² = 8.0 × 10⁻⁴ m²**.",
       "specification": "MS1a;WS4.5",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -80,7 +80,7 @@
       "answer": "1 cm³ = 10⁻⁶ m³, so **25 cm³ = 2.5 × 10⁻⁵ m³**.",
       "specification": "MS1b;WS4.5",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -88,7 +88,7 @@
       "answer": "**R = V/I = 9.0/0.30 = 30 Ω**.",
       "specification": "MS3b–3c",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -96,7 +96,7 @@
       "answer": "72/3.6 = **20 m/s**.",
       "specification": "MS1a;WS4.5",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -104,7 +104,7 @@
       "answer": "- Gradient = I/V = **1/R**.\n- Reversing the axes to V against I would give **R**.",
       "specification": "MS4d",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -112,7 +112,7 @@
       "answer": "- Direct proportion has **y = kx**.\n- It requires a line **through the origin**; a non-zero intercept adds a constant term.",
       "specification": "MS3a;MS4b",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 2,
@@ -120,7 +120,7 @@
       "answer": "Percentage increase = (100 − 80)/80 × 100 = **25%**.",
       "specification": "MS1c",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 2,
@@ -128,7 +128,7 @@
       "answer": "- **Eₖ ∝ v²**.\n- Tripling speed multiplies kinetic energy by **3² = 9**.",
       "specification": "MS1c;MS3a",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 2,
@@ -136,7 +136,7 @@
       "answer": "**Distance = vt/2 = 1,500 × 0.10/2 = 75 m**.",
       "specification": "MS3c;4.6.1.5",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 2,
@@ -144,7 +144,7 @@
       "answer": "0.001/0.050 × 100 = **2%**.",
       "specification": "MS1c;WS3.4",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 2,
@@ -152,7 +152,7 @@
       "answer": "Frequency density = frequency/interval width = 20/5 = **4 readings per unit**.",
       "specification": "MS2c",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 2,
@@ -160,7 +160,7 @@
       "answer": "**0.00487**. Leading zeros are not significant; retain 4, 8 and rounded 7.",
       "specification": "MS2a",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 3,
@@ -168,7 +168,7 @@
       "answer": "- Eₖ = ½mv² gives **v = √(2Eₖ/m)**.\n- v = √(2 × 36/2.0) = √36.\n- **v = 6.0 m/s**.",
       "specification": "MS3b–3d",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 3,
@@ -176,7 +176,7 @@
       "answer": "- **p₁V₁ = p₂V₂**.\n- p₂ = 100 × 60/40.\n- **p₂ = 150 kPa**. Matching volume units are used on both sides.",
       "specification": "MS3b–3c",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 3,
@@ -184,7 +184,7 @@
       "answer": "- Gradient = (10 − 4)/(0.050 − 0.020).\n- **200 N/m**.\n- It is the **spring constant k** in the proportional region.",
       "specification": "MS4d;4.5.3",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 3,
@@ -192,7 +192,7 @@
       "answer": "- Gradient = 18/3.0 = **6.0 m/s**.\n- A tangent gives the rate of change **at the chosen point**.\n- It estimates **instantaneous speed**, unlike a chord’s interval-average rate.",
       "specification": "MS4e",
       "evidence": "Additional specification-based practice",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 3,
@@ -200,7 +200,7 @@
       "answer": "- Mean = 110/5 = **22**.\n- Median = middle sorted value = **21**.\n- Mode = most frequent value = **21**.",
       "specification": "MS2b;MS2f",
       "evidence": "Additional specification-based practice",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 3,
@@ -208,7 +208,7 @@
       "answer": "- Weighted sum = 2 × 3 + 3 × 4 + 5 × 1 = **23**.\n- Total frequency = 3 + 4 + 1 = **8**.\n- Mean = 23/8 = **2.875**, about 2.9 at two significant figures.",
       "specification": "MS2b–2c",
       "evidence": "Additional specification-based practice",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 3,
@@ -216,7 +216,7 @@
       "answer": "- Volume = 3.0³ = **27 cm³**.\n- Volume = 27 × 10⁻⁶ = **2.7 × 10⁻⁵ m³**.\n- Surface area = 6 × 3.0² = **54 cm²**.",
       "specification": "MS5b–5c;WS4.5",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 3,
@@ -224,7 +224,7 @@
       "answer": "- Area = 20 × 10⁻⁴ = **0.0020 m²**.\n- p = F/A = 400/0.0020.\n- **p = 2.0 × 10⁵ Pa**.",
       "specification": "MS3c;MS5c",
       "evidence": "Additional specification-based practice",
-      "number": 28
+      "number": 29
     },
     {
       "marks": 3,
@@ -232,7 +232,7 @@
       "answer": "- λ = **0.060 m**.\n- f = c/λ = (3.0 × 10⁸)/0.060.\n- **f = 5.0 × 10⁹ Hz**.",
       "specification": "MS1b;MS3b–3c",
       "evidence": "2023 2H Q06.2: adapted conversion and substitution",
-      "number": 29
+      "number": 30
     },
     {
       "marks": 3,
@@ -240,7 +240,7 @@
       "answer": "- t = **300 s**, so Q = It = 2.0 × 300 = **600 C**.\n- E = QV = 600 × 6.0.\n- **E = 3,600 J**.",
       "specification": "MS3c;Appendix A",
       "evidence": "Additional specification-based practice",
-      "number": 30
+      "number": 31
     },
     {
       "marks": 3,
@@ -248,7 +248,7 @@
       "answer": "- l = **0.080 m**.\n- F = BIl = 0.20 × 1.5 × 0.080.\n- **F = 0.024 N**.",
       "specification": "MS3c;Appendix A",
       "evidence": "2022 2H Q07.5: related conversion",
-      "number": 31
+      "number": 32
     },
     {
       "marks": 3,
@@ -256,7 +256,7 @@
       "answer": "- Signed displacement = 30 − 10 = **20 m** in the chosen positive direction.\n- Total distance = 30 + 10 = **40 m**.\n- Opposite-direction travel reduces displacement but still adds to distance.",
       "specification": "MS4f",
       "evidence": "Additional specification-based practice",
-      "number": 32
+      "number": 33
     },
     {
       "marks": 3,
@@ -264,7 +264,7 @@
       "answer": "- M = Fd = 600 × 0.050 = **30 Nm**.\n- d is the **perpendicular distance to the force’s line of action**.\n- It need not equal the full length of the lever.",
       "specification": "MS3c;MS5a",
       "evidence": "Additional specification-based practice",
-      "number": 33
+      "number": 34
     },
     {
       "marks": 4,
@@ -272,7 +272,7 @@
       "answer": "- Rearrange: **a = (v² − u²)/(2s)**.\n- v² − u² = 7.0² − 3.0² = **40 m²/s²**.\n- a = 40/(2 × 10).\n- **a = 2.0 m/s²**, using constant acceleration.",
       "specification": "MS3b–3d",
       "evidence": "Additional specification-based practice",
-      "number": 34
+      "number": 35
     },
     {
       "marks": 4,
@@ -280,7 +280,7 @@
       "answer": "- Useful energy = mgh = 50 × 10 × 2.0 = **1,000 J**.\n- Useful power = 1,000/5.0 = **200 W**.\n- Input power = useful power/efficiency = 200/0.80.\n- **250 W**.",
       "specification": "MS3b–3d;Appendix A",
       "evidence": "Additional specification-based practice",
-      "number": 35
+      "number": 36
     },
     {
       "marks": 4,
@@ -288,7 +288,7 @@
       "answer": "- Accelerating section: triangle area = ½ × 4.0 × 6.0 = **12 m**.\n- Steady section: rectangle area = 5.0 × 6.0 = **30 m**.\n- Total = 12 + 30 = **42 m**.\n- All velocities are positive, so distance also equals 42 m.",
       "specification": "MS4f",
       "evidence": "Additional specification-based practice",
-      "number": 36
+      "number": 37
     },
     {
       "marks": 4,
@@ -296,7 +296,7 @@
       "answer": "- Vₛ = 240 × 60/1,200 = **12 V**.\n- Secondary power = 12 × 2.0 = **24 W**.\n- Ideal primary power also equals 24 W.\n- Iₚ = 24/240 = **0.10 A**.",
       "specification": "MS3b–3d;Appendix A",
       "evidence": "2022 2H Q07.2;2023 2H Q08.2: related linked calculations",
-      "number": 37
+      "number": 38
     },
     {
       "marks": 4,
@@ -304,7 +304,7 @@
       "answer": "- Estimate expected walking speed as **order 1 m/s**, so the result is implausible.\n- Check distance and time conversions, especially **cm to m and minutes to seconds**.\n- Check that distance was divided by time rather than multiplied.\n- Recalculate with labelled quantities and units, keeping sensible significant figures.",
       "specification": "MS1d;MS2h;MS3c",
       "evidence": "Additional specification-based practice",
-      "number": 38
+      "number": 39
     },
     {
       "marks": 6,
@@ -312,7 +312,8 @@
       "answer": "- First stage is warming: ΔE₁ = mcΔθ = 0.50 × 2,100 × 10 = **10,500 J**.\n- Second stage is melting at constant temperature: E₂ = mL = 0.50 × 334,000 = **167,000 J**.\n- Total energy reaching the ice = **177,500 J**.\n- Efficiency = useful/input, so required input = 177,500/0.80 = **221,875 J**.\n- Time = E_input/P = 221,875/500 = **443.75 s**, about **440 s** to two significant figures.\n- The calculation separates warming from the state change and assumes constant power and the stated efficiency throughout.",
       "specification": "MS3b–3d;Appendix A",
       "evidence": "Additional specification-based practice",
-      "number": 39
+      "number": 41
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }
