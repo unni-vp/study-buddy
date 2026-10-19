@@ -7,7 +7,7 @@
     "orientation": "A4 landscape",
     "minimum_body_pt": 11.22
   },
-  "full_text": "Existing full Markdown counterparts retained",
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
   "maps": [
     {
       "slug": "00-bioenergetics-overview",
@@ -305,5 +305,12 @@
       "body_pt": 11.22,
       "diagrams": []
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": []
+  }
 }
