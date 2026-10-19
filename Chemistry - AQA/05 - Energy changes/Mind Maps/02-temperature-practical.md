@@ -8,14 +8,18 @@
 
 ## Prepare & control
 
-- Polystyrene cup supported in beaker; lid and thermometer. Use fresh measured solutions at the same starting temperature.
-- Control apparatus, initial temperature and stirring/recording method. Goggles; handle chemicals as instructed.
+- Polystyrene cup supported in beaker
+- lid and thermometer. Use fresh measured solutions at the same starting temperature.
+- Control apparatus, initial temperature and stirring/recording method. Goggles
+- handle chemicals as instructed.
 
 ## Mix & record
 
-- Record starting temperature. Mix, replace lid, stir consistently; record at regular intervals.
+- Record starting temperature. Mix, replace lid, stir consistently
+- record at regular intervals.
 - Exothermic: find maximum. Endothermic: find minimum.
-- Change = extreme − initial. 20.5 → 28.0 °C gives **+7.5 °C**.
+- Change = extreme − initial.
+- 20.5 → 28.0 °C gives **+7.5 °C**.
 
 ## Repeat & plot
 
@@ -31,6 +35,9 @@
 
 ## Apply the method
 
-- Other reactions: displacement; acid + metal; acid + carbonate. Decide appropriate variable and controls.
-- Allow gases to escape safely; keep flames away from hydrogen.
+- Other reactions: displacement
+- acid + metal
+- acid + carbonate. Decide appropriate variable and controls.
+- Allow gases to escape safely
+- keep flames away from hydrogen.
 - Compare applications using measured temperature change, duration, cost and safe operating temperature.
