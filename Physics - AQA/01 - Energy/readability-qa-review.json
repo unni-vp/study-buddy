@@ -1,0 +1,51 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated store-transfer examples into short explanatory paragraphs.",
+    "Explained the distinction between dissipation, conservation and efficiency; retained every calculation and diagram.",
+    "Added worked cooling-data interpretation with a fair-test qualification."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 27,
+  "mark_groups": {
+    "1": 5,
+    "2": 7,
+    "3": 7,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Existing bank includes definitions, explanations, calculations, practical planning and evaluation at 1–4 and 6 marks.",
+    "Added explicit multiple choice, numerical cooling-data interpretation and a five-mark multi-step heating calculation.",
+    "AQA June2023 8463/1H Q04.2 and Q06.3 demonstrate five-mark equation questions; values/contexts here are original."
+  ],
+  "additional_practice": [
+    {
+      "number": 5,
+      "marks": 1,
+      "prompt": "Which quantity describes how quickly energy is transferred? Choose one: A energy; B power; C efficiency; D temperature.",
+      "answer": "B: power."
+    },
+    {
+      "number": 23,
+      "marks": 4,
+      "prompt": "Two identical containers each start at 80°C. After five minutes, insulated container A is at 68°C and insulated container B is at 59°C. Calculate both temperature drops and the mean cooling rate of A in °C/min. Explain which insulation worked better under these conditions.",
+      "answer": "- A cools by 80 − 68 = **12°C**. B cools by 80 − 59 = **21°C**.\n- A's mean cooling rate is 12 ÷ 5 = **2.4°C/min**.\n- **A is the better insulator** because its smaller temperature drop shows slower energy loss over the same time, provided the water masses and other conditions were the same."
+    },
+    {
+      "number": 24,
+      "marks": 5,
+      "prompt": "A 1.5 kW heater warms 2.0 kg of water from 20°C to 65°C. The specific heat capacity of water is 4200 J/kg°C. The heater transfers 80% of its input energy to the water. Calculate the heating time in seconds.",
+      "answer": "- Temperature rise = 65 − 20 = **45°C**.\n- Energy gained by the water: **ΔE = mcΔθ** = 2.0 × 4200 × 45 = **378 000 J**.\n- The efficiency is **0.80**, so total input energy = 378 000 ÷ 0.80 = **472 500 J**.\n- Convert power: 1.5 kW = **1500 W**.\n- **t = E/P** = 472 500 ÷ 1500 = **315 s**."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf sections4.1,3,7",
+    "Physics - AQA/00 - Specification/AQA-8463-equations-JUN27.pdf",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF Q04.2,Q06.3",
+    "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

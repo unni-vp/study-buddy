@@ -18,167 +18,151 @@
 
 **Answer:** A resource that is replenished as it is used.
 
+**5.** Which quantity describes how quickly energy is transferred? Choose one: A energy; B power; C efficiency; D temperature.
+
+**Answer:** B: power.
+
 ## 2 marks
 
-**5.** Describe the main energy changes when a ball rises after being thrown, including air resistance.
+**6.** Describe the main energy changes when a ball rises after being thrown, including air resistance.
 
-**Answer:**
-
-- Its **kinetic store decreases** while its **gravitational potential store increases**.
+**Answer:** - Its **kinetic store decreases** while its **gravitational potential store increases**.
 - Air resistance transfers some energy to **thermal stores of the ball and surroundings**.
 
-**6.** A 500 W motor runs for 20 s. Calculate the energy transferred.
+**7.** A 500 W motor runs for 20 s. Calculate the energy transferred.
 
 **Answer:** **E = Pt** = 500 × 20 = **10,000 J**.
 
-**7.** A device receives 800 J and transfers 600 J usefully. Calculate its percentage efficiency.
+**8.** A device receives 800 J and transfers 600 J usefully. Calculate its percentage efficiency.
 
 **Answer:** Efficiency = 600/800 = 0.75. Percentage efficiency = **75%**.
 
-**8.** Why is energy described as dissipated rather than destroyed when a moving car brakes?
+**9.** Why is energy described as dissipated rather than destroyed when a moving car brakes?
 
-**Answer:**
-
-- Energy transfers from the car’s kinetic store to **thermal stores**.
+**Answer:** - Energy transfers from the car’s kinetic store to **thermal stores**.
 - It spreads into the surroundings and becomes less useful, but **total energy is conserved**.
 
-**9.** State two control variables when comparing different insulating materials around identical containers of hot water.
+**10.** State two control variables when comparing different insulating materials around identical containers of hot water.
 
-**Answer:**
-
-- Same **thickness of insulation**.
+**Answer:** - Same **thickness of insulation**.
 - Same **mass of water and starting temperature**.
 
-**10.** Explain why a thicker wall of the same material usually reduces cooling, for the same area and temperature difference.
+**11.** Explain why a thicker wall of the same material usually reduces cooling, for the same area and temperature difference.
 
-**Answer:**
-
-- It increases the distance over which energy must transfer by **conduction**.
+**Answer:** - It increases the distance over which energy must transfer by **conduction**.
 - The **rate of energy transfer decreases**, so the building cools more slowly.
 
-**11.** Give one reliability advantage of tides over wind and one limitation of tidal generation.
+**12.** Give one reliability advantage of tides over wind and one limitation of tidal generation.
 
-**Answer:**
-
-- Tidal timing is **predictable**, whereas wind varies unpredictably.
+**Answer:** - Tidal timing is **predictable**, whereas wind varies unpredictably.
 - Tidal output is **not continuous**, so other supply or storage may still be needed.
 
 ## 3 marks
 
-**12.** Calculate the kinetic energy of a 1,200 kg car travelling at 15 m/s.
+**13.** Calculate the kinetic energy of a 1,200 kg car travelling at 15 m/s.
 
-**Answer:**
-
-- **Eₖ = ½mv²**.
+**Answer:** - **Eₖ = ½mv²**.
 - Eₖ = 0.5 × 1,200 × 15².
 - **Eₖ = 135,000 J**.
 
-**13.** A 3.0 kg load is lifted through 2.0 m. Use g = 9.8 N/kg to calculate its increase in gravitational potential energy.
+**14.** A 3.0 kg load is lifted through 2.0 m. Use g = 9.8 N/kg to calculate its increase in gravitational potential energy.
 
-**Answer:**
-
-- **Eₚ = mgΔh**.
+**Answer:** - **Eₚ = mgΔh**.
 - Eₚ = 3.0 × 9.8 × 2.0.
 - **58.8 J** (about 59 J).
 
-**14.** A spring of constant 160 N/m is stretched by 5.0 cm within its proportional limit. Calculate the energy stored.
+**15.** A spring of constant 160 N/m is stretched by 5.0 cm within its proportional limit. Calculate the energy stored.
 
-**Answer:**
-
-- Convert e = **0.050 m**.
+**Answer:** - Convert e = **0.050 m**.
 - **Eₑ = ½ke²** = 0.5 × 160 × 0.050².
 - **0.20 J**.
 
-**15.** A 0.80 kg sample warms from 18°C to 43°C. Its specific heat capacity is 900 J/kg°C. Calculate the thermal energy increase.
+**16.** A 0.80 kg sample warms from 18°C to 43°C. Its specific heat capacity is 900 J/kg°C. Calculate the thermal energy increase.
 
-**Answer:**
-
-- Δθ = 43 − 18 = **25°C**.
+**Answer:** - Δθ = 43 − 18 = **25°C**.
 - **ΔE = mcΔθ** = 0.80 × 900 × 25.
 - **18,000 J**.
 
-**16.** Explain why lubricating moving machine parts can increase efficiency.
+**17.** Explain why lubricating moving machine parts can increase efficiency.
 
-**Answer:**
-
-- Lubrication **reduces friction**.
+**Answer:** - Lubrication **reduces friction**.
 - Less input energy transfers to unwanted **thermal stores**.
 - A greater fraction of input becomes the **useful output**.
 
-**17.** A heater transfers 9,000 J to a 0.50 kg block. Its temperature rises by 20°C. Calculate the specific heat capacity, assuming all energy heats the block.
+**18.** A heater transfers 9,000 J to a 0.50 kg block. Its temperature rises by 20°C. Calculate the specific heat capacity, assuming all energy heats the block.
 
-**Answer:**
-
-- **c = E/(mΔθ)**.
+**Answer:** - **c = E/(mΔθ)**.
 - c = 9,000/(0.50 × 20).
 - **900 J/kg°C**.
 
-**18.** A metal-block heating experiment loses energy to the room. Explain the effect on the calculated specific heat capacity if all electrical input is treated as energy gained by the block.
+**19.** A metal-block heating experiment loses energy to the room. Explain the effect on the calculated specific heat capacity if all electrical input is treated as energy gained by the block.
 
-**Answer:**
-
-- The measured temperature rise is **smaller** than if all input heated the block.
+**Answer:** - The measured temperature rise is **smaller** than if all input heated the block.
 - The calculation uses **c = E/(mΔθ)** with an input E that includes losses.
 - The calculated c is therefore **too high**. Insulation reduces this error.
 
 ## 4 marks
 
-**19.** A motor of efficiency 0.70 lifts a 20 kg load through 3.0 m in 5.0 s. Use g = 10 N/kg. Calculate the useful power and the total electrical input power.
+**20.** A motor of efficiency 0.70 lifts a 20 kg load through 3.0 m in 5.0 s. Use g = 10 N/kg. Calculate the useful power and the total electrical input power.
 
-**Answer:**
-
-- Useful energy = mgΔh = 20 × 10 × 3.0 = **600 J**.
+**Answer:** - Useful energy = mgΔh = 20 × 10 × 3.0 = **600 J**.
 - Useful power = E/t = 600/5.0 = **120 W**.
 - Efficiency = useful power / input power.
 - Input power = 120/0.70 = **171 W** (about 170 W).
 
-**20.** Two equal-mass samples receive equal energy from identical heaters. A warms by 12°C and B by 30°C. Which has the larger specific heat capacity, and by what factor?
+**21.** Two equal-mass samples receive equal energy from identical heaters. A warms by 12°C and B by 30°C. Which has the larger specific heat capacity, and by what factor?
 
-**Answer:**
-
-- **c = E/(mΔθ)**.
+**Answer:** - **c = E/(mΔθ)**.
 - With equal E and m, c is **inversely proportional to temperature rise**.
 - A has the larger c because it warms less.
 - cA/cB = 30/12 = **2.5**.
 
-**21.** A 2.0 kg object falls 5.0 m from rest. Air resistance transfers 18 J to thermal stores. Use g = 9.8 N/kg. Calculate its final speed.
+**22.** A 2.0 kg object falls 5.0 m from rest. Air resistance transfers 18 J to thermal stores. Use g = 9.8 N/kg. Calculate its final speed.
 
-**Answer:**
-
-- Gravitational energy lost = 2.0 × 9.8 × 5.0 = **98 J**.
+**Answer:** - Gravitational energy lost = 2.0 × 9.8 × 5.0 = **98 J**.
 - Kinetic energy gained = 98 − 18 = **80 J**.
 - v = **√(2Eₖ/m)** = √(160/2).
 - **v = 8.94 m/s**.
 
+**23.** Two identical containers each start at 80°C. After five minutes, insulated container A is at 68°C and insulated container B is at 59°C. Calculate both temperature drops and the mean cooling rate of A in °C/min. Explain which insulation worked better under these conditions.
+
+**Answer:** - A cools by 80 − 68 = **12°C**. B cools by 80 − 59 = **21°C**.
+- A's mean cooling rate is 12 ÷ 5 = **2.4°C/min**.
+- **A is the better insulator** because its smaller temperature drop shows slower energy loss over the same time, provided the water masses and other conditions were the same.
+
+## 5 marks
+
+**24.** A 1.5 kW heater warms 2.0 kg of water from 20°C to 65°C. The specific heat capacity of water is 4200 J/kg°C. The heater transfers 80% of its input energy to the water. Calculate the heating time in seconds.
+
+**Answer:** - Temperature rise = 65 − 20 = **45°C**.
+- Energy gained by the water: **ΔE = mcΔθ** = 2.0 × 4200 × 45 = **378 000 J**.
+- The efficiency is **0.80**, so total input energy = 378 000 ÷ 0.80 = **472 500 J**.
+- Convert power: 1.5 kW = **1500 W**.
+- **t = E/P** = 472 500 ÷ 1500 = **315 s**.
+
 ## 6 marks
 
-**22.** Describe how to measure the specific heat capacity of a metal block using an electrical heater. Include measurements, a calculation and ways to improve the result.
+**25.** Describe how to measure the specific heat capacity of a metal block using an electrical heater. Include measurements, a calculation and ways to improve the result.
 
-**Answer:**
-
-- Measure the block’s **mass** with a balance. Fit a heater and temperature probe, using suitable oil to improve contact.
+**Answer:** - Measure the block’s **mass** with a balance. Fit a heater and temperature probe, using suitable oil to improve contact.
 - Wrap the block in **insulation** and record the initial temperature. Use a low-voltage supply.
 - Measure the energy delivered using a joulemeter, or record V, I and heating time and calculate **E = VIt**.
 - Record temperatures regularly and find **Δθ** for the measured input energy.
 - Calculate **c = E/(mΔθ)** and repeat to assess consistency.
 - Insulation reduces losses to the room; good contact reduces lag. Some energy also heats equipment, so using all input can overestimate c. Avoid hot surfaces and keep electrical connections dry.
 
-**23.** Plan an investigation comparing three materials as thermal insulators around containers of hot water.
+**26.** Plan an investigation comparing three materials as thermal insulators around containers of hot water.
 
-**Answer:**
-
-- Use identical containers with **equal thicknesses** of the three materials and one uninsulated control.
+**Answer:** - Use identical containers with **equal thicknesses** of the three materials and one uninsulated control.
 - Add equal masses of water at the **same starting temperature** and fit matching lids.
 - Keep room conditions and exposed area the same; use the same thermometer arrangement.
 - Measure temperature at fixed intervals for a fixed total time. Handle hot water safely on a stable surface.
 - Repeat and calculate mean temperature drops; plot cooling curves.
 - The smallest mean drop over the same interval indicates the best insulator in this setup. If repeat ranges overlap strongly, collect more data before claiming a clear difference.
 
-**24.** A town wants a reliable electricity supply with lower carbon emissions. Evaluate replacing all gas generation with wind turbines.
+**27.** A town wants a reliable electricity supply with lower carbon emissions. Evaluate replacing all gas generation with wind turbines.
 
-**Answer:**
-
-- Wind is **renewable** and does not burn fuel during operation, reducing operational CO₂ compared with gas.
+**Answer:** - Wind is **renewable** and does not burn fuel during operation, reducing operational CO₂ compared with gas.
 - However, wind speed varies and turbines may stop in very weak or very strong winds, so installed maximum power is not guaranteed output.
 - Storage, connections to other regions or controllable backup would help match demand; these have costs and limitations.
 - Turbines can affect views, noise and wildlife; construction and maintenance also have environmental costs. Gas is controllable but releases CO₂ and uses finite fuel.

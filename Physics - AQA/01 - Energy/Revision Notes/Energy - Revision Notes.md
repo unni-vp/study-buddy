@@ -19,11 +19,15 @@ A **system** is the object or group of objects you are considering. Describe **w
 
 Energy transfers **mechanically** when forces do work, **electrically** when charge flows, **by heating**, or **by radiation** such as light. Light and sound transfer energy; do not describe them as stores.
 
-- A ball thrown upwards: **kinetic → gravitational potential**. Air resistance also increases the thermal stores of the ball and surroundings.
-- A moving car brakes: its **kinetic store decreases**; brakes, tyres and surroundings warm through mechanical work against friction.
-- A collision: kinetic energy may become elastic energy during deformation, then thermal energy and sound. Total energy is conserved even when kinetic energy is not.
-- A motor accelerates a trolley: energy transfers electrically from the supply, then mechanically to increase the trolley's kinetic store.
-- A kettle: electrical work increases the water's thermal store, with some energy transferred to the kettle and surroundings. Once boiling, continued heating can change state without raising temperature.
+**A ball rising:** its kinetic store decreases as its gravitational potential store increases. Air resistance also increases the thermal stores of the ball and surroundings.
+
+**A car braking:** its kinetic store decreases. Mechanical work against friction warms the brakes, tyres and surroundings.
+
+**A collision:** deformation can increase elastic energy temporarily. Energy also transfers to thermal stores and travels away as sound. Total energy is conserved even when kinetic energy is not.
+
+**A motor accelerating a trolley:** energy transfers electrically from the supply. The motor then does mechanical work, increasing the trolley's kinetic store.
+
+**A kettle heating water:** electrical work increases the water's thermal store. Some energy also heats the kettle and surroundings. Once the water boils, continued heating can change its state without raising its temperature.
 
 ## Calculating changes in stores
 
@@ -47,19 +51,22 @@ To find speed from energy, rearrange first: **v = √(2Eₖ/m)**. If 36 J become
 
 ## Conservation, dissipation and efficiency
 
-**Energy cannot be created or destroyed.** In a closed system, total energy stays constant. Choose a boundary that includes the surroundings receiving the transferred energy.
+**Energy cannot be created or destroyed.** In a closed system, the total energy stays constant. If an object loses energy, another part of the system gains it. Include the surroundings in your system when they receive energy.
 
-**Dissipation** means energy spreads into the surroundings, usually into thermal stores. It becomes less useful because it is harder to use for the intended purpose. “Wasted” does not mean destroyed.
+**Dissipation** means energy spreads into the surroundings, usually into thermal stores. Imagine warm water cooling in a room. The energy is still there, but it is spread out and harder to use for the intended purpose. “Wasted” energy has not been destroyed.
 
 ![An energy budget: 100 J supplied becomes 60 J useful lifting energy and 40 J transferred to thermal stores.](../Diagrams/energy-budget.svg)
 
-- **Efficiency = useful energy output ÷ total energy input.**
-- Alternatively, **efficiency = useful power output ÷ total power input**.
-- Multiply a decimal efficiency by 100 for a percentage. Efficiency has **no unit** and cannot exceed 1 or 100%.
-- A motor transfers 500 J and raises a load by 350 J: efficiency = 350/500 = **0.70 = 70%**. The remaining **150 J** is transferred in unwanted ways.
-- If efficiency is 0.80 and useful output is 240 J, input = 240/0.80 = **300 J**.
+**Efficiency** tells you what fraction of the input produces the useful output.
 
-**Lubrication reduces friction**, so less energy is transferred to unwanted thermal stores. Insulation reduces unwanted heating of surroundings. A more efficient device needs less input for the **same useful output**.
+- **Efficiency = useful energy output ÷ total energy input.**
+- You can also use **efficiency = useful power output ÷ total power input**.
+- Multiply a decimal efficiency by 100 to express it as a percentage.
+- Efficiency has **no unit**. It cannot exceed 1, or 100%.
+
+**Worked example:** a motor receives 500 J and transfers 350 J to a lifted load. Its efficiency is 350 ÷ 500 = **0.70 = 70%**. The remaining **150 J** is transferred in unwanted ways. If another motor has an efficiency of 0.80 and a useful output of 240 J, its input is 240 ÷ 0.80 = **300 J**.
+
+**Improving efficiency:** lubrication reduces friction, so less energy transfers to unwanted thermal stores. Insulation reduces unwanted heating of the surroundings. A more efficient device needs less input energy for the **same useful output**.
 
 ## Power and work
 
