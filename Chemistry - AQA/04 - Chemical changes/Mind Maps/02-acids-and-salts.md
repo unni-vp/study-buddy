@@ -2,8 +2,13 @@
 
 ## pH & neutralisation
 
-- Acid: H⁺ in water; alkali: OH⁻. Below pH 7 acidic; 7 neutral; above 7 alkaline.
-- **H⁺ + OH⁻ → H₂O.** Universal indicator estimates pH; a calibrated probe gives a numerical reading.
+- Acid: H⁺ in water
+- alkali: OH⁻. Below pH 7 acidic
+- 7 neutral
+- above 7 alkaline.
+- **H⁺ + OH⁻ → H₂O.**
+- Universal indicator estimates pH
+- a calibrated probe gives a numerical reading.
 - Equal volumes need not contain equal reacting amounts.
 
 ## Strength vs concentration
@@ -14,20 +19,30 @@
 
 ## Acid reaction patterns
 
-- Metal + acid → salt + H₂. Metal oxide/hydroxide + acid → salt + water.
-- Carbonate + acid → salt + water + CO₂. H₂ gives squeaky pop; CO₂ turns limewater cloudy.
+- Metal + acid → salt + H₂.
+- Metal oxide/hydroxide + acid → salt + water.
+- Carbonate + acid → salt + water + CO₂.
+- H₂ gives squeaky pop
+- CO₂ turns limewater cloudy.
 
 ## Name & formulate salts
 
-- HCl → chloride; H₂SO₄ → sulfate; HNO₃ → nitrate. Metal supplies positive ion/name.
-- Balance charges: Mg²⁺ + 2NO₃⁻ → Mg(NO₃)₂. 2Na⁺ + SO₄²⁻ → Na₂SO₄.
+- HCl → chloride
+- H₂SO₄ → sulfate
+- HNO₃ → nitrate.
+- Metal supplies positive ion/name.
+- Balance charges: Mg²⁺ + 2NO₃⁻ → Mg(NO₃)₂.
+- 2Na⁺ + SO₄²⁻ → Na₂SO₄.
 - CuO + H₂SO₄ → CuSO₄ + H₂O.
 
 ## Salt practical: react & filter
 
-- Warm dilute acid gently; remove burner. Add insoluble oxide/carbonate in small portions, stirring, until excess remains.
-- Excess solid ensures all acid reacts. Filter off solid; salt solution is **filtrate**.
-- Goggles; avoid boiling/splashing acid.
+- Warm dilute acid gently
+- remove burner. Add insoluble oxide/carbonate in small portions, stirring, until excess remains.
+- Excess solid ensures all acid reacts. Filter off solid
+- salt solution is **filtrate**.
+- Goggles
+- avoid boiling/splashing acid.
 
 ## Concentrate & crystallise
 

@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -8,7 +8,7 @@
     "body_pt": 11.21,
     "minimum_diagram_label_pt": 11.21
   },
-  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
   "maps": [
     {
       "widths": [
@@ -170,7 +170,7 @@
       ],
       "column_heights": [
         590,
-        467,
+        489,
         590
       ],
       "panels": [
@@ -208,7 +208,7 @@
           "x": 384,
           "y": 237,
           "width": 354,
-          "height": 264
+          "height": 286
         },
         {
           "source_panels": [
@@ -237,12 +237,12 @@
     },
     {
       "widths": [
-        314,
-        394,
+        310,
+        398,
         352
       ],
       "column_heights": [
-        612,
+        590,
         717,
         596
       ],
@@ -253,39 +253,39 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 314,
+          "width": 310,
           "height": 308
-        },
-        {
-          "source_panels": [
-            3
-          ],
-          "x": 18,
-          "y": 338,
-          "width": 314,
-          "height": 308
-        },
-        {
-          "source_panels": [
-            1
-          ],
-          "x": 344,
-          "y": 18,
-          "width": 394,
-          "height": 478
         },
         {
           "source_panels": [
             4
           ],
-          "x": 344,
-          "y": 508,
-          "width": 394,
-          "height": 241
+          "x": 18,
+          "y": 338,
+          "width": 310,
+          "height": 286
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 340,
+          "y": 18,
+          "width": 398,
+          "height": 478
         },
         {
           "source_panels": [
             2
+          ],
+          "x": 340,
+          "y": 508,
+          "width": 398,
+          "height": 241
+        },
+        {
+          "source_panels": [
+            3
           ],
           "x": 750,
           "y": 18,
@@ -310,6 +310,7 @@
           "purpose": "Shows the apparatus, meniscus and placement of reagents."
         }
       ],
+      "reflow": "Rebalanced panel columns for separated equation lines; typography unchanged.",
       "slug": "03-titration",
       "title": "Titration",
       "source_panels_preserved": 6
@@ -321,8 +322,8 @@
         352
       ],
       "column_heights": [
-        659,
-        480,
+        681,
+        524,
         656
       ],
       "panels": [
@@ -333,14 +334,14 @@
           "x": 18,
           "y": 18,
           "width": 354,
-          "height": 399
+          "height": 421
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 429,
+          "y": 451,
           "width": 354,
           "height": 264
         },
@@ -360,7 +361,7 @@
           "x": 384,
           "y": 316,
           "width": 354,
-          "height": 198
+          "height": 242
         },
         {
           "source_panels": [
@@ -393,5 +394,16 @@
       "title": "Electrolysis",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "02-acids-and-salts.svg",
+      "03-titration.svg",
+      "04-electrolysis.svg"
+    ]
+  }
 }
