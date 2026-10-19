@@ -77,7 +77,9 @@ Neutralisation is like matching pairs: hydrogen ions and hydroxide ions combine.
 
 **Concentration asks how much acid is dissolved in each unit volume.** A strong acid can therefore be dilute, and a weak acid can be concentrated. The two words describe different things.
 
-For comparable solutions at the same concentration, a stronger acid produces more H⁺ ions and has a **lower pH**. Each decrease of one pH unit means **10 times greater H⁺ concentration**. Going from pH 4 to pH 2 is a decrease of two units, so the H⁺ concentration is 10 × 10 = **100 times greater**.
+For comparable solutions at the same concentration, a stronger acid produces more H⁺ ions and has a **lower pH**. Each decrease of one pH unit means **10 times greater H⁺ concentration**.
+
+Going from pH 4 to pH 2 is a decrease of two units, so the H⁺ concentration is 10 × 10 = **100 times greater**.
 
 ## Acid reactions and salt names
 
