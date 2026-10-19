@@ -22,7 +22,9 @@ Reverse current to reverse poles.
 
 Current in a field gives force perpendicular to both.
 
-**F = BIl** for a perpendicular wire. Units: N, T, A, m.
+**F = BIl** for a perpendicular wire.
+
+Units: N, T, A, m.
 
 Left hand: field, current, force.
 

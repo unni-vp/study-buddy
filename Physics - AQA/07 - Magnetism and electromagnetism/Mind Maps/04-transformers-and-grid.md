@@ -8,7 +8,9 @@ This induces AC pd in the separate secondary coil.
 
 ## Turn ratio
 
-**Vₚ/Vₛ = nₚ/nₛ.** Keep matching subscripts together.
+**Vₚ/Vₛ = nₚ/nₛ.**
+
+Keep matching subscripts together.
 
 More secondary turns: step-up. Fewer: step-down.
 
@@ -20,7 +22,11 @@ Steady DC does not sustain transformer action.
 
 Ideal: **VₚIₚ = VₛIₛ**.
 
-12 V at 4 A gives 48 W. At 240 V input, Iₚ = **0.20 A**.
+12 V at 4 A gives 48 W.
+
+At 240 V input
+
+Iₚ = **0.20 A**.
 
 Higher output voltage gives lower output current at equal power.
 
@@ -38,9 +44,13 @@ Do not assume ideal power balance if losses are given.
 
 ## Transmission reasoning
 
-Step-up raises voltage. For the same **P = VI**, current decreases.
+Step-up raises voltage.
 
-**Cable heating = I²R.** Lower current gives lower heating loss.
+For the same **P = VI**, current decreases.
+
+**Cable heating = I²R.**
+
+Lower current gives lower heating loss.
 
 Half the current gives one quarter of loss for fixed R.
 

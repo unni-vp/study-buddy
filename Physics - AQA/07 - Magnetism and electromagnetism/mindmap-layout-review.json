@@ -316,13 +316,13 @@
     },
     {
       "widths": [
-        398,
-        310,
+        394,
+        314,
         352
       ],
       "column_heights": [
-        600,
-        476,
+        622,
+        498,
         564
       ],
       "panels": [
@@ -332,7 +332,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 398,
+          "width": 394,
           "height": 397
         },
         {
@@ -341,25 +341,25 @@
           ],
           "x": 18,
           "y": 427,
-          "width": 398,
-          "height": 207
+          "width": 394,
+          "height": 229
         },
         {
           "source_panels": [
             2
           ],
-          "x": 428,
+          "x": 424,
           "y": 18,
-          "width": 310,
-          "height": 229
+          "width": 314,
+          "height": 251
         },
         {
           "source_panels": [
             3
           ],
-          "x": 428,
-          "y": 259,
-          "width": 310,
+          "x": 424,
+          "y": 281,
+          "width": 314,
           "height": 251
         },
         {
@@ -392,5 +392,15 @@
       "slug": "04-transformers-and-grid",
       "title": "Transformers and the Grid"
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "04-transformers-and-grid.svg"
+    ]
+  },
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines."
 }
