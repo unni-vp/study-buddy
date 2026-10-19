@@ -2,13 +2,15 @@
 
 ## Skin & nose
 
-- **Skin:** physical barrier; antimicrobial substances and clotting at cuts help protect.
+- **Skin:** physical barrier
+- antimicrobial substances and clotting at cuts help protect.
 - **Nose:** hairs and mucus trap pathogens and particles.
 - These barriers are **non-specific**: they act against many pathogens.
 
 ## Airways & stomach
 
-- Trachea/bronchi: **mucus traps pathogens**; **cilia move mucus to the throat** for swallowing.
+- Trachea/bronchi: **mucus traps pathogens**
+- **cilia move mucus to the throat** for swallowing.
 - Stomach **hydrochloric acid** kills many swallowed pathogens.
 
 ## White blood cells
@@ -20,7 +22,8 @@
 ## Specificity
 
 - An antibody’s binding site has a shape **complementary to its antigen**.
-- Antibodies target antigens; antitoxins neutralise toxins. They are not interchangeable terms.
+- Antibodies target antigens
+- antitoxins neutralise toxins. They are not interchangeable terms.
 
 ## Vaccination sequence
 
