@@ -140,7 +140,20 @@ Investigate temperature using fresh milk, suitable indicator and **lipase**. Lip
 4. Record time for the indicator endpoint, or use a calibrated pH probe to follow change.
 5. Repeat at several temperatures, maintaining volumes, concentrations and starting pH. Repeat each temperature and compare mean results.
 
-For the same endpoint, **relative rate = 1/time**, in s⁻¹ if time is seconds. Times 100 s and 50 s give rates 0.010 and 0.020 s⁻¹: the second is **twice as fast**. Do not say the 50 s reaction is slower because the number is smaller. For a probe, define a comparable pH interval rather than changing the endpoint between tests.
+For the same endpoint:
+
+**Relative rate = 1/time**
+
+Use s⁻¹ if time is in seconds.
+
+| Endpoint time | Relative rate |
+|---|---|
+| 100 s | 0.010 s⁻¹ |
+| 50 s | 0.020 s⁻¹ |
+
+The second reaction is **twice as fast**. Do not say the 50 s reaction is slower because the time is smaller.
+
+For a probe, define a comparable pH interval rather than changing the endpoint between tests.
 
 Wear eye protection for alkaline solutions, handle hot water safely and do not taste milk or enzyme solutions. A no-enzyme control helps show the pH change is due to enzyme activity.
 
