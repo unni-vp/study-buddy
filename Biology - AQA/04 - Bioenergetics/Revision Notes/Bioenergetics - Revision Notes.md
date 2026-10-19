@@ -8,11 +8,11 @@ Photosynthesis lets a plant use light to make glucose from simple substances. Th
 
 **6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂**
 
-- **Chlorophyll** in chloroplasts absorbs light.
-- Photosynthesis is **endothermic**: energy is transferred from the environment to the chloroplasts by light.
-- Carbon dioxide enters leaves through **stomata**. Water arrives from the roots through **xylem**.
-- Light supplies energy; it is not a material reactant. Glucose stores chemical energy, and oxygen is released.
-- Plants **respire all the time**, including in daylight. They photosynthesise only when sufficient light is available.
+**Light energy:** chlorophyll in chloroplasts absorbs light. Photosynthesis is **endothermic** because energy transfers from the environment into the chloroplasts. Light supplies energy; it is not a material reactant.
+
+**Raw materials:** carbon dioxide enters through **stomata**, while water travels from the roots through **xylem**. Photosynthesis makes glucose, which stores chemical energy, and releases oxygen.
+
+**Two processes can happen together:** plants **respire all the time**, including during daylight. They photosynthesise only when there is enough light.
 
 ### Where the glucose goes
 
@@ -56,9 +56,11 @@ For a suitable point-like lamp, with other conditions unchanged:
 
 **Intensity₂ ÷ intensity₁ = (distance₁ ÷ distance₂)²**
 
-- Double the distance → **one-quarter** of the light intensity.
-- Halve the distance → **four times** the light intensity.
-- Move a lamp from 20 cm to 30 cm: new intensity = old intensity × (20/30)² = **4/9 of the old intensity**.
+| Distance change | Calculation | New light intensity |
+|---|---|---|
+| Double the distance | (1/2)² | **One quarter** of the original. |
+| Halve the distance | (2/1)² | **Four times** the original. |
+| Move from 20 cm to 30 cm | (20/30)² | **4/9** of the original. |
 
 Keep distance units consistent. Photosynthesis rate will not necessarily change in the same proportion, because light may no longer be the limiting factor.
 
@@ -152,10 +154,11 @@ Muscles need more energy during exercise because they contract more frequently o
 
 ### After exercise
 
-- The extra oxygen needed after exercise to deal with accumulated lactic acid is the **oxygen debt**.
-- Breathing and heart rate remain raised for a while, supplying this extra oxygen and transporting substances.
-- Blood carries lactic acid from the muscles to the **liver**, where it is **converted back into glucose**.
-- Do not say the lungs convert lactic acid into glucose, or that respiration stops when exercise stops.
+**Oxygen debt** is the extra oxygen needed after exercise to deal with accumulated lactic acid.
+
+Breathing and heart rate remain raised for a while. This supplies extra oxygen and keeps substances moving between tissues.
+
+Blood carries lactic acid from the muscles to the **liver**, where it is **converted back into glucose**. The lungs supply oxygen; they do not perform this conversion. Respiration continues after exercise has stopped.
 
 ### Investigating exercise
 

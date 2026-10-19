@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Explained photosynthesis inputs, light energy and continuous respiration in separate short paragraphs.",
+    "Reorganised inverse-square examples into a comparison table.",
+    "Developed oxygen-debt recovery as a causal sequence; preserved all equations, graphs, practical detail and metabolism examples."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 34,
+  "mark_groups": {
+    "1": 8,
+    "2": 9,
+    "3": 8,
+    "4": 5,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Retained1–4 and6-mark photosynthesis graph analysis, practical planning, respiration comparisons, exercise and metabolism explanations.",
+    "Added multiple choice and five-mark inverse-square/data application distinguishing intensity from the biological response."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "Which statement about plants is correct? Choose one: A they respire only at night; B they respire only when photosynthesis stops; C they respire continuously and photosynthesise when enough light is available; D photosynthesis uses oxygen to release energy from glucose.",
+      "answer": "C: they respire continuously and photosynthesise when enough light is available."
+    },
+    {
+      "number": 31,
+      "marks": 5,
+      "prompt": "Moving a lamp from 20 cm to 10 cm increases a pondweed's oxygen-production rate from 2.0 to 3.0 cm³/min. Assume the inverse-square relationship applies to the lamp. Calculate the factor change in light intensity and in measured rate. Adding carbon dioxide at 10 cm then raises the rate to 5.0 cm³/min. Explain these results and why temperature should be controlled.",
+      "answer": "- Light-intensity factor = (20/10)² = **4**. The light intensity quadruples.\n- Rate factor = 3.0 ÷ 2.0 = **1.5**, so the measured rate rises by less than the light intensity.\n- Photosynthesis is **not necessarily proportional to light intensity** once another factor becomes limiting.\n- Increasing CO₂ at the same lamp distance increases the rate, showing that **CO₂ was limiting the previous rate under those conditions**.\n- Keep temperature constant because the lamp can warm the water. Temperature changes enzyme activity, so an uncontrolled change would make it harder to attribute the result to light or CO₂."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.4",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf Q04.2",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
