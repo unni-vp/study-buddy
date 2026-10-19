@@ -54,7 +54,13 @@ Both happen during a reaction. Compare the total energy taken in with the total 
 
 ### Worked example
 
-**H₂ + Cl₂ → 2HCl**. Supplied bond energies: H–H = 436, Cl–Cl = 243, H–Cl = 431 kJ/mol of bonds.
+**H₂ + Cl₂ → 2HCl**
+
+Supplied bond energies, in **kJ/mol of bonds**:
+
+- H–H: **436**.
+- Cl–Cl: **243**.
+- H–Cl: **431**.
 
 1. Break **one H–H and one Cl–Cl**: 436 + 243 = **679 kJ** for the molar quantities in the equation.
 2. Form **two H–Cl bonds**: 2 × 431 = **862 kJ** released.

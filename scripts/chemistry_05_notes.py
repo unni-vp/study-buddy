@@ -39,7 +39,11 @@ Do not label the full height from the graph baseline as activation energy. Do no
 
 ## Bond energies
 
-**Breaking bonds requires energy. Making bonds releases energy.** Both happen during a reaction; compare their totals to decide the net change.
+**Breaking bonds requires energy.** Energy must be supplied to overcome the attraction holding atoms together.
+
+**Making bonds releases energy.** When atoms form new bonds in the products, energy transfers out.
+
+Both happen during a reaction. Compare the total energy taken in with the total released to decide whether the overall reaction is exothermic or endothermic.
 
 **Overall energy change = energy to break reactant bonds − energy released forming product bonds.**
 
@@ -50,7 +54,13 @@ Do not label the full height from the graph baseline as activation energy. Do no
 
 ### Worked example
 
-**H₂ + Cl₂ → 2HCl**. Supplied bond energies: H–H = 436, Cl–Cl = 243, H–Cl = 431 kJ/mol of bonds.
+**H₂ + Cl₂ → 2HCl**
+
+Supplied bond energies, in **kJ/mol of bonds**:
+
+- H–H: **436**.
+- Cl–Cl: **243**.
+- H–Cl: **431**.
 
 1. Break **one H–H and one Cl–Cl**: 436 + 243 = **679 kJ** for the molar quantities in the equation.
 2. Form **two H–Cl bonds**: 2 × 431 = **862 kJ** released.
@@ -63,7 +73,11 @@ Use the values supplied in the question, even if they differ from another data t
 
 For the same reaction, suppose overall change is −183 kJ and H–Cl bond energy is x:
 
-**679 − 2x = −183**, so 2x = 862 and **x = 431 kJ/mol**.
+1. The reactant bonds require **679 kJ** to break.
+2. Two H–Cl bonds form, releasing **2x**.
+3. Use energy taken in minus energy released: **679 − 2x = −183**.
+4. Rearrange to give 2x = 679 + 183 = **862**.
+5. Divide by two: **x = 431 kJ/mol**.
 
 The chemical bonds themselves do not release energy when broken. The release happens when the **new bonds form**.
 
@@ -95,10 +109,11 @@ The same principles apply to displacement reactions, acid–metal reactions and 
 
 A chemical cell converts energy from a chemical reaction into **electrical energy**. A simple cell uses **two different metals in contact with an electrolyte**, connected through an external circuit.
 
-- Reactions at the electrodes drive electrons through the wires.
-- The electrolyte contains **mobile ions** and completes the internal path for charge.
-- Cell voltage depends on the **electrode materials and electrolyte**.
-- A **battery** consists of two or more cells in series. Their voltages add when connected in the same direction: three 1.5 V cells give **4.5 V**.
+**Two routes for charge:** electrode reactions drive **electrons through the external wires**. Inside the cell, **mobile ions in the electrolyte** carry charge and complete the circuit. Electrons do not travel through the electrolyte as they do through the wires.
+
+**Cell voltage** depends on both the electrode materials and the electrolyte. Changing either can change the measured potential difference.
+
+**A battery** consists of two or more cells connected in series. Their voltages add when they face the same way. Three 1.5 V cells therefore provide **4.5 V**.
 
 ### Comparing cells
 
