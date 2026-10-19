@@ -33,7 +33,14 @@ Ordinary human body cells usually contain **46 chromosomes in 23 pairs**. Gamete
 
 ![A one-pair schematic shows DNA copied into joined chromosome copies, then two divisions producing four varied gametes, each with one chromosome.](../Diagrams/meiosis-chromosomes.svg)
 
-Compare the outcomes: **mitosis makes two genetically identical cells with the original chromosome number**; **meiosis makes four genetically varied gametes with half the number**. Copying doubles DNA amount, not the counted number of joined chromosomes. Fertilisation fuses gametes; mitosis increases cell number afterwards.
+| Process | Cells produced | Genetic information | Chromosome number |
+|---|---|---|---|
+| **Mitosis** | Two cells | Genetically identical | Same as the original cell |
+| **Meiosis** | Four gametes | Genetically varied | Half the original number |
+
+Copying doubles DNA amount, not the counted number of joined chromosomes.
+
+**Fertilisation** fuses gametes. **Mitosis** increases cell number afterwards.
 
 ## DNA, chromosomes, genes and genome
 
@@ -111,7 +118,18 @@ For a cross **Aa × Aa**:
 
 ## Inherited conditions and family trees
 
-**Polydactyly** means extra fingers or toes. In the simple inheritance model it is caused by a **dominant allele**. With P as that allele, PP and Pp express the condition; pp does not. Pp × pp gives **50% Pp** and **50% pp**.
+**Polydactyly** means extra fingers or toes. In the simple inheritance model it is caused by a **dominant allele**.
+
+With **P** as the dominant allele:
+
+- **PP:** expresses the condition.
+- **Pp:** expresses the condition.
+- **pp:** does not express the condition.
+
+For a **Pp × pp** cross:
+
+- **50% Pp**.
+- **50% pp**.
 
 **Cystic fibrosis** is a disorder affecting cell membranes caused by a **recessive allele**. Using C for the usual allele and c for the disease allele:
 
@@ -137,7 +155,12 @@ Humans usually have 22 pairs of non-sex chromosomes and one pair of sex chromoso
 | X egg | XX | XY |
 | X egg | XX | XY |
 
-Eggs contribute X; sperm contributes X or Y. This gives approximately **50% XX and 50% XY**, or a **1:1 ratio**. It predicts probabilities rather than requiring every family to contain equal numbers of each. The egg does not provide a Y chromosome in this model.
+- Eggs contribute **X**.
+- Sperm contribute **X or Y**.
+
+This gives approximately **50% XX and 50% XY**, or a **1:1 ratio**.
+
+It predicts probabilities rather than requiring every family to contain equal numbers of each. The egg does not provide a Y chromosome in this model.
 
 ## Genetic and environmental variation
 
