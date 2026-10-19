@@ -34,7 +34,9 @@ Anomalies: investigate, repeat and justify exclusion.
 
 Headings give quantity and unit. Keep sensible precision.
 
-Mean = sum/count. Range = maximum − minimum.
+Mean = sum/count.
+
+Range = maximum − minimum.
 
 Half-range can estimate repeat uncertainty.
 
@@ -54,7 +56,9 @@ Independent variable usually goes on x.
 
 Use a best-fit line or curve, not automatic dot-to-dot.
 
-Gradient = Δy/Δx. Use a large triangle.
+Gradient = Δy/Δx.
+
+Use a large triangle.
 
 Direct proportion needs a straight line through origin.
 

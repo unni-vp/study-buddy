@@ -52,7 +52,9 @@ Lamp heating is part of its changing behaviour.
 
 ## Diode and evaluation
 
-**Diode:** significant current one way, little in reverse.
+**Diode:** significant current one way
+
+little in reverse.
 
 Use a suitable range and current limit.
 

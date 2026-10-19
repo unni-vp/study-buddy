@@ -40,7 +40,11 @@ Acceleration: vary force or mass while controlling the other.
 
 ## Electricity
 
-Ammeter in series. Voltmeter across component. **R = V/I**.
+Ammeter in series.
+
+Voltmeter across component.
+
+**R = V/I**.
 
 Resistance: wire length and series/parallel combinations.
 

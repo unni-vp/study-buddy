@@ -6,7 +6,9 @@ Measure mass, energy input and temperature rise.
 
 Insulate and improve heater/probe contact.
 
-**c = E/(mΔθ)**. Room losses tend to overestimate c.
+**c = E/(mΔθ)**.
+
+Room losses tend to overestimate c.
 
 Avoid hot heater and block.
 
@@ -22,7 +24,9 @@ Smaller drop means less cooling under matched conditions.
 
 ## Density
 
-**ρ = m/V.** Balance gives mass.
+**ρ = m/V.**
+
+Balance gives mass.
 
 Regular solid: dimensions give volume. Irregular solid: displacement.
 
@@ -32,15 +36,21 @@ Match units, remove bubbles, read meniscus at eye level.
 
 ## Force and extension
 
-Measure unloaded and loaded lengths. **e = loaded − unloaded**.
+Measure unloaded and loaded lengths.
+
+**e = loaded − unloaded**.
 
 Known loads give F = mg, including hanger.
 
-Plot F against e. Gradient in proportional region = k.
+Plot F against e.
+
+Gradient in proportional region = k.
 
 ## Vary force
 
-Trolley pulled by hanging mass; measure a electronically.
+Trolley pulled by hanging mass
+
+measure a electronically.
 
 Transfer masses trolley to hanger to keep total moving mass fixed.
 

@@ -232,7 +232,7 @@
       ],
       "column_heights": [
         586,
-        613,
+        635,
         498
       ],
       "panels": [
@@ -261,14 +261,14 @@
           "x": 320,
           "y": 18,
           "width": 442,
-          "height": 207
+          "height": 229
         },
         {
           "source_panels": [
             3
           ],
           "x": 320,
-          "y": 237,
+          "y": 259,
           "width": 442,
           "height": 410
         },
@@ -458,5 +458,16 @@
       "slug": "05-wave-and-ir-practicals",
       "title": "Wave and infrared practicals"
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "03-heating-and-mechanics.svg",
+      "04-circuit-practicals.svg"
+    ]
+  },
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines."
 }
