@@ -78,7 +78,11 @@ Other useful course symbols include **Fe iron, Cu copper, Zn zinc, Ag silver, Au
 
 For the main groups in the GCSE layout, the **group** links to outer-shell electrons: Group 1 has one, Group 2 two, Group 7 seven. **Group 0/noble gases** have full outer shells; helium’s first shell holds two. The **period** links to occupied electron shells for the simple first-20 model.
 
-Example: magnesium has atomic number 12, electronic arrangement **2,8,2**, is in Period 3/Group 2 and commonly forms **Mg²⁺** by losing two electrons. Chlorine **2,8,7** gains one to form **Cl⁻**. Group 1 tends to form +1 ions, Group 2 +2, Group 7 −1. Transition metals may have multiple charges, so use supplied names/charge information.
+**Magnesium example:** its atomic number is 12 and its electron arrangement is **2,8,2**. Three occupied shells place it in **Period 3**. Two outer electrons place it in **Group 2**, and losing those two electrons forms **Mg²⁺**.
+
+**Chlorine example:** its electron arrangement is **2,8,7**. It gains one electron to form **Cl⁻**.
+
+Group 1 elements tend to form +1 ions, Group 2 elements +2 ions and Group 7 elements −1 ions. Transition metals can have different ion charges, so use the name or charge information supplied.
 
 Write a neutral ionic formula by balancing charge: Mg²⁺ and Cl⁻ give **MgCl₂**; Al³⁺ and O²⁻ give **Al₂O₃**. A polyatomic group stays together: Ca²⁺ and NO₃⁻ give **Ca(NO₃)₂**. Do not change the internal nitrate formula while balancing.
 
@@ -115,23 +119,47 @@ For 4.8 g Mg, n = 4.8/24 =0.20 mol. It forms 0.20 mol MgO, Mr40, giving **8.0 g 
 
 ## Limiting reactants and empirical formulas
 
-The **limiting reactant** runs out first according to the equation ratio. Compare **moles divided by each coefficient**, not whichever mass is numerically smaller.
+The **limiting reactant** runs out first according to the balanced equation. Comparing reactant masses alone does not show which one limits the product.
 
-For 2Mg+O₂ →2MgO with 0.30 mol Mg and 0.10 mol O₂: Mg/2 =0.15, O₂/1 =0.10. Oxygen limits. It reacts with **0.20 mol Mg**, leaving **0.10 mol Mg**.
+**Worked example:** for **2Mg + O₂ → 2MgO**, mix 0.30 mol of Mg with 0.10 mol of O₂.
 
-For an **empirical formula**, divide each element mass by its Ar, then divide all mole quantities by the smallest and obtain a simple whole-number ratio. A compound with 2.4 g Mg and 1.6 g O gives **0.10:0.10 =1:1**, so MgO. If ratio is 1:1.5, multiply both by two to get 2:3; do not round 1.5 to 2 independently.
+1. Divide magnesium moles by its coefficient: 0.30 ÷ 2 = **0.15**.
+2. Divide oxygen moles by its coefficient: 0.10 ÷ 1 = **0.10**.
+3. Oxygen has the smaller value, so **oxygen is limiting**.
+4. Its 0.10 mol reacts with **0.20 mol Mg**, leaving **0.10 mol Mg**.
 
-A **molecular formula** is a whole-number multiple of the empirical formula. CH₂ has empirical mass 14; a molecular Mr of 42 gives multiplier3, hence **C₃H₆**.
+An **empirical formula** gives the simplest whole-number ratio of atoms. To find it from composition data:
+
+1. Divide each element's mass by its Aᵣ.
+2. Divide all the resulting mole amounts by the smallest.
+3. If needed, multiply every value to obtain whole numbers.
+
+For 2.4 g of Mg and 1.6 g of O, the mole amounts are 2.4/24 = **0.10 mol** and 1.6/16 = **0.10 mol**. Their ratio is **1 : 1**, giving **MgO**.
+
+If the ratio is 1 : 1.5, multiply both numbers by two to obtain **2 : 3**. Do not independently round 1.5 to 2.
+
+A **molecular formula** is a whole-number multiple of the empirical formula. For CH₂, the empirical formula mass is 14. A molecular Mᵣ of 42 gives a multiplier of 42 ÷ 14 = **3**, so the molecular formula is **C₃H₆**.
 
 ## Solutions and titration calculations
 
-**Mass concentration = mass of solute/solution volume**, in **g dm⁻³** when using grams and dm³.
+**Mass concentration** tells you the mass of solute in a given volume of solution. Use **concentration = mass ÷ volume**, with grams and dm³ to obtain g/dm³.
 
-**Molar concentration c = n/V**, with **n =cV**. Convert cm³ to dm³ before using mol dm⁻³. Example: 2.0 g NaOH in 250 cm³ gives mass concentration **8.0 g dm⁻³**; n=2/40=0.050 mol, giving **0.200 mol dm⁻³**.
+**Molar concentration** tells you the number of moles in a given volume. Use **c = n/V**, or rearrange it to **n = cV**. Convert cm³ to dm³ before using mol/dm³.
 
-**Mass concentration = molar concentration ×Mr**, numerically using g mol⁻¹.
+**Worked example:** dissolve 2.0 g of NaOH to make 250 cm³ of solution. Its molar mass is 40 g/mol.
 
-For a titration, calculate known reactant moles, apply the **balanced-equation ratio**, then divide unknown moles by its own volume. **H₂SO₄ +2NaOH →Na₂SO₄ +2H₂O** requires two moles NaOH per mole acid. A 1:1 shortcut would give the wrong concentration. Titre is final−initial burette reading, not final reading alone.
+1. Convert volume: 250 ÷ 1000 = **0.250 dm³**.
+2. Mass concentration = 2.0 ÷ 0.250 = **8.0 g/dm³**.
+3. Moles of NaOH = 2.0 ÷ 40 = **0.050 mol**.
+4. Molar concentration = 0.050 ÷ 0.250 = **0.200 mol/dm³**.
+
+To convert from mol/dm³ to g/dm³, **multiply by the molar mass**. To go the other way, divide by it.
+
+**Titration route:** calculate the known reactant's moles, use the balanced-equation ratio to find the unknown reactant's moles, then divide by the unknown solution's own volume in dm³.
+
+For **H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O**, each mole of sulfuric acid reacts with **two moles of NaOH**. Assuming a 1 : 1 ratio would give the wrong concentration.
+
+A **titre** is the volume delivered from the burette: **final reading − initial reading**. It is not simply the final reading.
 
 ## Gases at room temperature and pressure
 

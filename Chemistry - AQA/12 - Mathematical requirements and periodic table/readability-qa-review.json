@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Reworked dense concentration and empirical-formula examples into worked steps.",
+    "Clarified groups, periods, ionic formulas and symbol meanings without removing the reference tables.",
+    "Added graph construction and higher-demand quantitative application; retained all existing diagrams and examples."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 51,
+  "mark_groups": {
+    "1": 11,
+    "2": 16,
+    "3": 14,
+    "4": 8,
+    "5": 1,
+    "6": 1
+  },
+  "assessment_review": [
+    "Existing maths bank stopped at four marks despite the chemistry course assessing extended calculations.",
+    "Added five-mark graph construction/gradient/inference and six-mark limiting-reactant, gas-volume and percentage-yield calculation.",
+    "Explicit multiple-choice formula interpretation added; retain recall, conversions, algebra, data, geometry and uncertainty-related calculations."
+  ],
+  "additional_practice": [
+    {
+      "number": 11,
+      "marks": 1,
+      "prompt": "What does the small 2 in MgCl₂ indicate? Choose one: A two magnesium ions; B two chloride ions for every magnesium ion; C a charge of 2− on every chloride ion; D two moles in every sample.",
+      "answer": "B: two chloride ions for every magnesium ion."
+    },
+    {
+      "number": 50,
+      "marks": 5,
+      "prompt": "A reaction produces 0, 12, 24 and 36 cm³ of gas at times 0, 10, 20 and 30 s. Plot gas volume against time for this interval, draw a suitable line and calculate its gradient with units. Can these results alone establish the final gas yield? Explain.",
+      "answer": "- Put **time (s) on the horizontal axis** and **gas volume (cm³) on the vertical axis**. Choose regular scales covering the supplied range.\n- Plot **(0,0), (10,12), (20,24) and (30,36)**. They lie on a straight line through the origin.\n- Gradient = (36 − 0) ÷ (30 − 0) = **1.2 cm³/s**, the constant measured rate over this interval.\n- These results do **not** establish the final yield because no plateau has been observed. Continue measuring until no more gas is produced."
+    },
+    {
+      "number": 51,
+      "marks": 6,
+      "prompt": "Zinc reacts with hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂. A student uses 6.50 g Zn and 80.0 cm³ of 2.00 mol/dm³ HCl. Aᵣ(Zn) = 65 and one mole of gas occupies 24.0 dm³ at RTP. Identify the limiting reactant and calculate the hydrogen volume collected if the percentage yield is 90.0%.",
+      "answer": "- Zinc amount = 6.50 ÷ 65 = **0.100 mol**.\n- Acid volume = **0.0800 dm³**, so HCl amount = 2.00 × 0.0800 = **0.160 mol**.\n- The equation needs two moles HCl per mole Zn. This acid can react with only 0.160 ÷ 2 = **0.0800 mol Zn**, so **HCl is limiting**.\n- Theoretical H₂ amount = **0.0800 mol**.\n- Theoretical gas volume = 0.0800 × 24.0 = **1.92 dm³**.\n- Collected volume = 1.92 × 0.900 = **1.728 dm³**, or **1.73 dm³** to three significant figures."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf sections7 and4.3",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf five-mark titration and six-mark reacting-gas calculation",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
