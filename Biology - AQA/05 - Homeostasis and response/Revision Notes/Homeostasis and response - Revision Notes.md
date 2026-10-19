@@ -90,7 +90,11 @@ The eye detects **light intensity and colour**. Light is refracted to form an im
 
 Think of tightening the strings that hold something flexible: tight ligaments pull the lens thinner. Muscle contraction reduces the tension on those ligaments; it does not pull the lens thin.
 
-**Bright light:** circular iris muscles contract and radial muscles relax, making the pupil **smaller** and protecting the retina. **Dim light:** radial muscles contract and circular muscles relax, making the pupil **larger** so more light enters. Pupil size controls light quantity; lens shape controls focusing.
+**Bright light:** circular iris muscles contract and radial muscles relax. The pupil becomes **smaller**, reducing the light entering and protecting the retina.
+
+**Dim light:** radial muscles contract and circular muscles relax. The pupil becomes **larger**, allowing more light in.
+
+Pupil size controls the **amount of light**. Lens shape controls **focusing**. They are different responses.
 
 ## Correcting eyesight
 
@@ -215,7 +219,7 @@ If data show glucose in the filtered fluid but normally none in urine, the diffe
 
 ![Concentrated blood leads to more ADH, greater water reabsorption and a smaller, more concentrated urine volume.](../Diagrams/adh-feedback.svg)
 
-**Excess body water / dilute blood:** less ADH, less-permeable tubules, less reabsorption, and a **larger volume of more dilute urine**.
+**When there is excess body water**, the blood becomes more dilute. Less ADH is released, so the kidney tubules become less permeable to water. Less filtered water returns to the blood. The result is a **larger volume of more dilute urine**.
 
 ADH does not add water to the body. It changes how much existing filtered water is returned to the blood. Keep **urine volume** and **urine concentration** distinct.
 
@@ -276,7 +280,11 @@ Evaluate using **effectiveness, side effects, duration, reversibility, use requi
 
 Improved microscopy and laboratory techniques help scientists handle and monitor these cells. IVF transfers an **embryo**, not an unfertilised egg, into the uterus.
 
-**Benefits:** offers a chance of a child when other routes have failed. **Limitations:** success is not guaranteed; procedures can be physically and emotionally stressful and costly. Transferring more than one embryo can increase **multiple-pregnancy risks** to parent and babies. Ethical questions include embryo storage and use; explain different viewpoints fairly rather than treating one as a scientific measurement.
+**Benefit:** IVF offers a chance of a child when other routes have failed.
+
+**Limits and risks:** success is not guaranteed. Treatment can be physically and emotionally stressful, as well as costly. Transferring more than one embryo can increase **multiple-pregnancy risks** for the parent and babies.
+
+**Ethical questions:** decisions about embryo storage and use involve different viewpoints. Explain these fairly; they cannot be settled by a biological measurement alone.
 
 For success data, calculate **successful outcomes/attempts ×100**. Distinguish a pregnancy rate from a live-birth rate and compare similar groups, including age and treatment conditions.
 
@@ -296,11 +304,26 @@ Think of one side of a flexible strip becoming longer: the strip bends towards t
 
 ## Practical: seedling growth responses
 
-**Light investigation:** use newly germinated seedlings of the same species and similar starting size. Put one group in **one-sided light** and a control in comparable all-round light. Record initial and later shoot lengths plus **careful labelled biological drawings** showing direction of growth. Keep water, temperature, age, growing medium and observation period comparable. Use several seedlings, repeat and compare.
+Use newly germinated seedlings of the **same species and similar starting size**. Record both their growth and the direction in which they bend.
 
-**Gravity investigation:** place comparable seedlings horizontally in darkness so light does not produce a competing directional effect. Compare with suitable upright controls, or use an appropriate rotating arrangement if supplied. Record root and shoot lengths and their changing directions with labelled drawings. Keep other growth conditions matched.
+### Investigating light
 
-Growth generally occurs near the tip, so measure and describe which region elongates. If all seedlings fail to grow, check conditions rather than treating no curve as evidence that hormones do not work. Interpret the controls the question actually uses.
+1. Put one group in **one-sided light** and a control group in comparable **all-round light**.
+2. Record initial shoot lengths. Make careful, labelled biological drawings showing the starting direction.
+3. After the same observation period, measure the lengths again and draw the new shoot directions.
+4. Keep water, temperature, seedling age and growing medium comparable.
+5. Use several seedlings, repeat the comparison and look for a consistent response.
+
+### Investigating gravity
+
+1. Place comparable seedlings **horizontally in darkness**. Darkness prevents directional light from competing with the gravity response.
+2. Compare them with suitable upright controls, or interpret an appropriate rotating arrangement if the question supplies one.
+3. Record root and shoot lengths and their changing directions using labelled biological drawings.
+4. Keep other growth conditions matched and compare several seedlings.
+
+Growth mainly occurs near the tip. Describe which region elongates rather than saying that the whole seedling moves.
+
+If no seedlings grow, check the conditions. Failure to grow does not show that hormones have no effect. Explain the purpose of the **actual control arrangement** used in the question.
 
 ## Useful plant hormones
 

@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Turned dense seedling practicals into numbered methods with clearly grouped controls and observations.",
+    "Separated bright/dim pupil responses, reduced-ADH effects and IVF evaluation.",
+    "Retained all nervous, hormonal, eye, kidney and reproductive content and explanatory diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 59,
+  "mark_groups": {
+    "1": 14,
+    "2": 19,
+    "3": 15,
+    "4": 6,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark practice covers mechanisms, practical planning, hormone interactions, comparisons, calculations and treatment evaluation.",
+    "Added multiple choice and five-mark kidney-data processing linked to ADH and selective water reabsorption.",
+    "Kept this as hypothetical mechanism practice, not diagnosis from one urine measurement."
+  ],
+  "additional_practice": [
+    {
+      "number": 14,
+      "marks": 1,
+      "prompt": "Which change helps the eye focus on a nearby object? Choose one: A ciliary muscles relax and the lens thins; B ciliary muscles contract and the lens thickens; C the pupil becomes a lens; D suspensory ligaments tighten and the lens thickens.",
+      "answer": "B: ciliary muscles contract and the lens thickens."
+    },
+    {
+      "number": 55,
+      "marks": 5,
+      "prompt": "Two people produce the urine shown below over the same day. Assume healthy kidneys and comparable rates of urea production. Calculate the mass of urea excreted by each. Suggest which person had the greater ADH effect and explain how it produced these results. Explain why the higher urea concentration does not mean a greater total urea loss.\n\n| Person | Urine volume (dm³) | Urea concentration (g/dm³) |\n|---|---|---|\n| A | 0.50 | 30 |\n| B | 2.0 | 7.5 |",
+      "answer": "- Urea mass = concentration × volume. A excretes 30 × 0.50 = **15 g**.\n- B excretes 7.5 × 2.0 = **15 g**.\n- **A has the pattern expected from a greater ADH effect**: a smaller volume of more concentrated urine.\n- ADH increases kidney-tubule water permeability, so **more water is reabsorbed into the blood**.\n- Both excrete the same total urea mass. A's higher concentration comes from that mass being dissolved in **less water**, not from losing more urea."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.5",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
