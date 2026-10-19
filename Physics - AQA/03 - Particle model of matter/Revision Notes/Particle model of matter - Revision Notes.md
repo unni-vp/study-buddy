@@ -153,11 +153,13 @@ A sealed, rigid tyre can therefore have higher pressure after warming. It is the
 
 ## Compressing and expanding gases
 
-For a **fixed mass of gas at constant temperature**,
+For a **fixed mass of gas at constant temperature**:
 
-**pV = constant**,
+**pV = constant**
 
-so **p₁V₁ = p₂V₂**.
+For two states of the same gas:
+
+**p₁V₁ = p₂V₂**
 
 **When volume decreases:** the particles have less space to move in. At constant temperature their average speed stays the same, but collisions with the walls become more frequent per unit area. Pressure rises. Halving the volume doubles the pressure.
 
