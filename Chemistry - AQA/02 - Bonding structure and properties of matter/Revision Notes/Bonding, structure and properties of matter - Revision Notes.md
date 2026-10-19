@@ -19,7 +19,10 @@ Imagine a three-dimensional crowd of alternating positive and negative charges, 
 - Group 1 metals lose one electron → **+1** ions. Group 2 metals lose two → **+2** ions.
 - Group 7 non-metals gain one → **−1** ions. Group 6 non-metals gain two → **−2** ions.
 - These ions have a **noble-gas electron arrangement**. Protons do not move between the atoms.
-- Sodium transfers one electron to chlorine: **Na → Na⁺ + e⁻**; **Cl + e⁻ → Cl⁻**.
+Sodium transfers one electron to chlorine:
+
+- Sodium loses an electron: **Na → Na⁺ + e⁻**.
+- Chlorine gains the electron: **Cl + e⁻ → Cl⁻**.
 - Magnesium transfers two electrons to oxygen, forming **Mg²⁺ and O²⁻**.
 
 ![Sodium and chloride ions, showing the chloride outer-shell electrons and the transferred electron.](../Diagrams/ionic-bond.svg)
@@ -140,7 +143,11 @@ For material choices, compare the properties needed for the job with **cost, den
 
 For a cube of side length **l**:
 
-**Surface area = 6l²; volume = l³; SA:V = 6/l**.
+For a cube of side length l:
+
+- **Surface area = 6l²**
+- **Volume = l³**
+- **SA:V = 6/l**
 
 A 10 nm cube has area **600 nm²** and volume **1,000 nm³**: ratio **0.6 nm⁻¹**. A 1 nm cube has area **6 nm²** and volume **1 nm³**: ratio **6 nm⁻¹**. Reducing the side by ten makes SA:V **ten times greater**, even though each cube's total area is smaller.
 
