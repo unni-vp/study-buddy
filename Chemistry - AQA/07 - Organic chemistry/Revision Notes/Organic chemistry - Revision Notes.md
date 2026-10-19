@@ -2,9 +2,13 @@
 
 ## Carbon compounds and chemical families
 
-Carbon atoms join into chains and rings. A **homologous series** is a family with the same **functional group**, similar chemical reactions and a **general formula**, with neighbouring members differing by **CH₂**. Think of a set of tools with the same working end but different handle lengths: the functional group largely determines the reactions.
+Carbon atoms can join into chains and rings. A **homologous series** is a family of compounds with a general formula and similar chemical reactions. Neighbouring members differ by **CH₂**.
 
-A **hydrocarbon contains carbon and hydrogen only**. Alcohols and carboxylic acids also contain oxygen, so they are organic compounds but **not hydrocarbons**. A molecular formula counts atoms; a **displayed structural formula shows every atom and bond**. Carbon forms four bonds in total, oxygen two and hydrogen one.
+A **functional group** is the part of a molecule that largely determines its reactions. Think of tools with the same working end but different handle lengths. Alcohols share the –OH functional group, while alkenes share C=C.
+
+A **hydrocarbon contains carbon and hydrogen only**. Alcohols and carboxylic acids also contain oxygen. They are organic compounds, but they are not hydrocarbons.
+
+A **molecular formula** counts atoms. A **displayed structural formula** shows every atom and bond. Check each atom's bonds: carbon forms four, oxygen two and hydrogen one.
 
 ## Crude oil and alkanes
 
@@ -83,7 +87,13 @@ The diagram uses but-1-ene and pent-1-ene as the examples; the double bond can o
 | Water/steam | Elevated temperature and pressure, suitable acid catalyst | Alcohol |
 | Chlorine, bromine or iodine | Suitable halogen contact, usually without a catalyst for a simple addition | Halogenoalkane with a halogen on each former double-bond carbon |
 
-Ethene + hydrogen gives ethane. Ethene + steam gives ethanol. Ethene + bromine gives **CH₂BrCH₂Br**. Chlorine/iodine give corresponding attached atoms in a structural model. When drawing a larger-chain product, retain the rest of the chain and add across the **actual** double bond. More than one position product can arise with unsymmetrical molecules; follow any structure or conditions in the question rather than assuming an unspecified unique product.
+**Adding hydrogen to ethene** forms ethane. The C=C becomes C–C, and one hydrogen attaches to each carbon.
+
+**Adding steam to ethene** forms ethanol. The double bond opens, with H added to one carbon and –OH to the other.
+
+**Adding bromine to ethene** forms **CH₂BrCH₂Br**. One bromine attaches to each former double-bond carbon. Chlorine and iodine give corresponding additions in a structural model.
+
+For a larger molecule, preserve the rest of the chain and add across the **actual double bond**. An unsymmetrical molecule can give more than one position product. Follow the supplied structure and conditions rather than assuming that an unspecified product must be unique.
 
 ![Displayed ethene changes into ethane, ethanol or dibromoethane by addition across its double bond.](../Diagrams/ethene-additions.svg)
 
@@ -166,7 +176,11 @@ Monomers need two joining sites for an extended chain; a single alcohol reacting
 
 ## Amino acids, proteins and natural polymers
 
-**Amino acids** contain **–NH₂ and –COOH**. For example **glycine, H₂NCH₂COOH**. They join by **condensation** to produce **polypeptides**, losing water and forming links between amino and carboxyl groups. Different amino acids in the same chain form proteins; amino-acid sequence affects folding and function.
+**Amino acids** contain both **–NH₂ and –COOH** functional groups. Glycine, **H₂NCH₂COOH**, is one example.
+
+Amino acids join by **condensation**. An amino group reacts with a carboxyl group, forming a link and releasing water. Repeating this process produces a **polypeptide**.
+
+Proteins contain chains of amino acids. The order of the amino acids affects how a chain folds, which helps determine the protein's function.
 
 | Natural polymer | Monomer type |
 |---|---|

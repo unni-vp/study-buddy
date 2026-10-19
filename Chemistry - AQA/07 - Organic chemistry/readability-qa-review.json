@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated chemical-family, functional-group and structural-formula explanations.",
+    "Reflowed addition reactions into separate products rather than a dense one-line list.",
+    "Developed the amino-acid-to-protein mechanism and DNA distinction while retaining all named families, formulas and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 49,
+  "mark_groups": {
+    "1": 14,
+    "2": 17,
+    "3": 11,
+    "4": 4,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark practice covers names/formulas, balanced combustion, structural drawing, reaction conditions, polymer interpretation and process evaluation.",
+    "Added multiple-choice family recognition and five-mark linked structural explanation comparing hydrogen addition and polymerisation.",
+    "Retained separate Chemistry polymer and natural-macromolecule content."
+  ],
+  "additional_practice": [
+    {
+      "number": 14,
+      "marks": 1,
+      "prompt": "Which formula represents a hydrocarbon? Choose one: A C₂H₅OH; B CH₃COOH; C C₃H₈; D H₂O.",
+      "answer": "C: C₃H₈."
+    },
+    {
+      "number": 47,
+      "marks": 5,
+      "prompt": "Ethene can be used to make ethane or poly(ethene). Explain the structural changes in each reaction. State suitable conditions for making ethane and show the poly(ethene) repeat unit, including the brackets and n.",
+      "answer": "- To make **ethane**, add **hydrogen with a heated nickel catalyst**. The C=C opens to a C–C bond, and each carbon gains a hydrogen: **CH₂=CH₂ + H₂ → CH₃–CH₃**.\n- To make **poly(ethene)**, many ethene molecules undergo **addition polymerisation**. Their double bonds open and join the molecules into a long carbon backbone.\n- The repeat unit is **[–CH₂–CH₂–]ₙ**, with one chain bond extending through each end of the brackets. Each carbon keeps its two attached hydrogens.\n- No small by-product is released. The atoms in each repeat unit are the same as those in an ethene monomer.\n\n![Ethene forms a single-bonded poly(ethene) repeat unit with bonds through brackets and n.](../Diagrams/addition-polymer.svg)"
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.7",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
