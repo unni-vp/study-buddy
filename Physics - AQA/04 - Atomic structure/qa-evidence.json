@@ -41,7 +41,7 @@
       "answer": "Atoms with the **same number of protons** but **different numbers of neutrons**.",
       "specification": "4.4.1.2",
       "evidence": "2023 1H Q05.1",
-      "number": 5
+      "number": 6
     },
     {
       "marks": 2,
@@ -49,7 +49,7 @@
       "answer": "- Neutrons = 23 − 11 = **12**.\n- The ion has lost one electron: 11 − 1 = **10 electrons**.",
       "specification": "4.4.1.2",
       "evidence": "Additional specification-based practice",
-      "number": 6
+      "number": 7
     },
     {
       "marks": 2,
@@ -57,7 +57,7 @@
       "answer": "- It moves to a **higher energy level** after absorption.\n- It **emits electromagnetic radiation** when returning to a lower level.",
       "specification": "4.4.1.1",
       "evidence": "Additional specification-based practice",
-      "number": 7
+      "number": 8
     },
     {
       "marks": 2,
@@ -65,7 +65,7 @@
       "answer": "- Mass number **does not change**.\n- Atomic number **increases by 1** because a neutron becomes a proton.",
       "specification": "4.4.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 8
+      "number": 9
     },
     {
       "marks": 2,
@@ -73,7 +73,7 @@
       "answer": "- **Irradiation** is exposure to radiation from a source.\n- **Contamination** is radioactive material being present where it is unwanted.",
       "specification": "4.4.2.4",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -81,7 +81,7 @@
       "answer": "- Natural: **rocks/radon gas**.\n- Human-made: **fallout from nuclear weapons tests**.",
       "specification": "4.4.3.1",
       "evidence": "2023 1H Q05: background-radiation context",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -89,7 +89,7 @@
       "answer": "- The decay time of an **individual nucleus cannot be predicted**.\n- Large numbers follow a predictable overall halving pattern.",
       "specification": "4.4.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 3,
@@ -97,7 +97,7 @@
       "answer": "- 12/4 = **3 half-lives**.\n- 960 → 480 → 240 → 120.\n- Activity = **120 Bq**.",
       "specification": "4.4.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 3,
@@ -105,7 +105,7 @@
       "answer": "- Remaining = (½)⁴ = **1/16**.\n- Decayed = 1 − 1/16 = **15/16**.\n- Decline : initial = **15 : 16**.",
       "specification": "4.4.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 3,
@@ -113,7 +113,7 @@
       "answer": "- Initial source count rate = 110 − 10 = **100 counts/s**.\n- After two half-lives, source rate = 100/4 = **25 counts/s**.\n- Add unchanged background: **35 counts/s**.",
       "specification": "4.4.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 3,
@@ -121,7 +121,7 @@
       "answer": "- Daughter mass number = 226 − 4 = **222**.\n- Daughter atomic number = 88 − 2 = **86**.\n- An alpha particle removes **two protons and two neutrons**.",
       "specification": "4.4.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 3,
@@ -129,7 +129,7 @@
       "answer": "- Most of the atom is **empty space**.\n- Positive alpha particles near the **positive nucleus** are repelled.\n- Very large deflections are rare because the dense nucleus occupies a **tiny fraction of the atom**.",
       "specification": "4.4.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 3,
@@ -137,7 +137,7 @@
       "answer": "- Gamma can **leave the body** and reach an external detector.\n- The source lasts long enough to complete the investigation.\n- A suitably short half-life reduces continuing activity and exposure afterwards.",
       "specification": "4.4.3.3",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 4,
@@ -145,7 +145,7 @@
       "answer": "- Alpha has **low penetrating power** and is largely stopped by outer skin.\n- Inside the body it is close to living cells without that protection.\n- It is **highly ionising**, depositing energy over a short distance.\n- This can damage cells and DNA, increasing the risk of mutations and cancer.",
       "specification": "4.4.2.4",
       "evidence": "2022 1H Q07.3",
-      "number": 18
+      "number": 20
     },
     {
       "marks": 4,
@@ -153,7 +153,7 @@
       "answer": "- Fission **splits a large unstable nucleus**, usually after neutron absorption.\n- It releases smaller nuclei, neutrons, gamma radiation and energy; neutrons can continue a chain reaction.\n- Fusion **joins light nuclei** into a heavier one.\n- Fusion also releases energy as some mass is converted; it needs conditions allowing positive nuclei to overcome repulsion.",
       "specification": "4.4.4.1–4.4.4.2",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 21
     },
     {
       "marks": 4,
@@ -161,7 +161,7 @@
       "answer": "- Background rate = 300/60 = **5 counts/s**.\n- Corrected rate = 3,600/60 − 5 = **55 counts/s**.\n- Count for longer or repeat to reduce relative random variation.\n- Keep distance and shielding fixed so geometry does not change the detection rate.",
       "specification": "4.4.2.1–4.4.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 22
     },
     {
       "marks": 6,
@@ -169,7 +169,7 @@
       "answer": "- A large unstable nucleus **absorbs a neutron**.\n- It splits into two smaller nuclei, releasing energy, gamma and **two or three neutrons**.\n- The products carry kinetic energy, which can transfer to thermal stores through collisions.\n- Released neutrons can be absorbed by other unstable nuclei, causing more fissions.\n- In a reactor, neutron absorption by control rods helps keep the chain and energy release at a controlled rate.\n- An uncontrolled multiplying chain allows very rapid energy release. It is the nuclei that split, not ordinary chemical bonds.",
       "specification": "4.4.4.1",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 24
     },
     {
       "marks": 6,
@@ -177,7 +177,8 @@
       "answer": "- Gamma is useful because it can leave the body and be detected externally.\n- The 10-minute isotope undergoes **three half-lives**, leaving only **1/8** of its initial activity after 30 minutes.\n- It may be suitable if enough signal remains; otherwise useful images could be lost or a larger initial activity might be needed.\n- The 10-day isotope changes little during the test but may expose the patient for longer unless removed quickly from the body.\n- Compare starting activity, biological removal, detector sensitivity and total dose, as well as half-life.\n- Choose a source that provides an adequate signal with the smallest justified dose, balancing the medical benefit and exposure rather than choosing on half-life alone.",
       "specification": "4.4.3.2–4.4.3.3",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 25
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }

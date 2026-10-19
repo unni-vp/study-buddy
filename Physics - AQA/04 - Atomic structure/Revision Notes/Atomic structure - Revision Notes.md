@@ -12,12 +12,15 @@ Imagine a large stadium with a tiny heavy object at the centre: the important po
 | Neutron | 0 | 1 | Nucleus |
 | Electron | −1 | Very small | Energy levels around nucleus |
 
-- Typical atom radius: **1 × 10⁻¹⁰ m**. Nuclear radius is **less than one ten-thousandth** of atomic radius.
-- **Atomic number Z = number of protons**. It identifies the element.
-- **Mass number A = protons + neutrons**; neutrons = A − Z.
-- A neutral atom has **equal protons and electrons**.
-- **Isotopes:** same element and proton number, but different neutron numbers.
-- Losing electrons forms a **positive ion**; proton number and element identity do not change.
+**Size:** a typical atom has a radius of about **1 × 10⁻¹⁰ m**. Its nucleus has a radius **less than one ten-thousandth** as large.
+
+**Atomic number, Z:** this is the number of protons. It identifies the element.
+
+**Mass number, A:** this is the total number of protons and neutrons. Calculate the neutron number using **A − Z**.
+
+**Neutral atoms and ions:** a neutral atom has equal numbers of protons and electrons. Losing electrons forms a **positive ion**. The proton number stays the same, so the element does not change.
+
+**Isotopes:** these are atoms of the same element with different numbers of neutrons. They have the same atomic number but different mass numbers.
 
 Carbon-14 has Z = 6 and A = 14: **6 protons, 8 neutrons and 6 electrons** when neutral. Carbon-12 has the same protons but only 6 neutrons.
 
@@ -64,9 +67,11 @@ Beta electrons come from a nuclear change, **not the electron shells**. Alpha em
 
 Both **mass numbers and atomic numbers balance** across a nuclear equation. The nucleus may become a different element when its proton number changes.
 
-- **Alpha:** A decreases by 4; Z decreases by 2.
-- **Beta-minus:** A stays the same; Z increases by 1 because a neutron becomes a proton. The emitted electron has mass number 0 and charge number −1.
-- **Gamma:** no change to A or Z; the nucleus loses energy.
+**Alpha decay:** the nucleus loses two protons and two neutrons in an alpha particle. Its mass number A decreases by **4**, and its atomic number Z decreases by **2**.
+
+**Beta-minus decay:** a neutron changes into a proton and an electron is emitted. The number of nucleons stays the same, so **A is unchanged**. There is one more proton, so **Z increases by 1**. The emitted electron has mass number 0 and charge number −1.
+
+**Gamma emission:** the nucleus releases energy as electromagnetic radiation. Its proton and neutron numbers do not change, so **A and Z are unchanged**.
 
 **Examples**
 
@@ -85,10 +90,11 @@ Think of repeated halving of the amount still undecayed. Each step takes the sam
 
 **After n half-lives: remaining fraction = (½)ⁿ.**
 
-- After 3 half-lives, **1/8 remains** and **7/8 has decayed**.
-- Remaining : initial = **1 : 8**. Decline : initial = **7 : 8**.
-- 640 Bq with a 2-hour half-life becomes 80 Bq after **6 hours**.
-- On a graph, find the time from an activity to half that activity. Repeat at a different starting point to check the interval.
+**Remaining and decayed amounts:** after three half-lives, ½ × ½ × ½ = **1/8 remains**. The other **7/8 has decayed**. The ratio of remaining activity to initial activity is **1 : 8**. The ratio of the decline to initial activity is **7 : 8**.
+
+**Worked example:** an activity of 640 Bq with a two-hour half-life becomes 320 Bq after two hours, 160 Bq after four hours and **80 Bq after six hours**.
+
+**Using a graph:** choose an activity, find half that value and read the time interval between them. Start at another point and repeat the check. Equal halving intervals support the half-life you found.
 
 **Subtract background first.** If total count rate is 84 counts/s and background is 4 counts/s, the source rate is 80 counts/s. After one half-life, source rate is 40, so the measured total would be **44 counts/s**, not 42.
 

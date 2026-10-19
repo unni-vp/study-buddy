@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Expanded atomic notation, isotopes and ion formation into distinct explanations.",
+    "Unpacked alpha, beta and gamma number changes without losing examples.",
+    "Made half-life ratios readable and retained the graph, background correction, safety and tracer qualifications."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 25,
+  "mark_groups": {
+    "1": 5,
+    "2": 7,
+    "3": 7,
+    "4": 3,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Retained recall, atomic-number reasoning, model evidence, radiation uses, calculation, practical evaluation and six-mark extended comparison.",
+    "Added multiple choice, a completed nuclear equation and five-mark decay-data interpretation combining background, half-life and remaining/decayed fractions.",
+    "Five-mark item is original integrated practice, not an assertion about frequency for this topic."
+  ],
+  "additional_practice": [
+    {
+      "number": 5,
+      "marks": 1,
+      "prompt": "Which emission changes neither the mass number nor the atomic number of a nucleus? Choose one: A alpha; B beta-minus; C gamma; D neutron.",
+      "answer": "C: gamma."
+    },
+    {
+      "number": 19,
+      "marks": 3,
+      "prompt": "Complete the alpha-decay equation by giving the mass number A and atomic number Z of thorium. Explain how both numbers balance.\n\n²³⁸₉₂U → ᴬ_ZTh + ⁴₂He",
+      "answer": "**A = 234** and **Z = 90**, giving **²³⁸₉₂U → ²³⁴₉₀Th + ⁴₂He**. Mass numbers balance because 234 + 4 = 238. Atomic numbers balance because 90 + 2 = 92."
+    },
+    {
+      "number": 23,
+      "marks": 5,
+      "prompt": "A detector has a constant background count rate of 4 counts/s. The readings below include the background. Determine the source's initial corrected count rate and half-life. Calculate the fraction of the initial source activity that has decayed after 15 minutes and predict the total detector reading at 20 minutes.\n\n| Time (minutes) | Total count rate (counts/s) |\n|---|---|\n| 0 | 84 |\n| 5 | 44 |\n| 10 | 24 |\n| 15 | 14 |",
+      "answer": "- Subtract background. Corrected source rates are **80, 40, 20 and 10 counts/s**.\n- The corrected rate halves every **5 minutes**, so this is the half-life.\n- Fifteen minutes is three half-lives. The fraction remaining is **1/8**, so the fraction decayed is **7/8**.\n- At 20 minutes, four half-lives have passed. Source rate = 80 ÷ 16 = **5 counts/s**.\n- Add background back: total expected reading = 5 + 4 = **9 counts/s**. Actual counts fluctuate randomly around the expected value."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf section4.4",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-MS-JUN23.PDF"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
