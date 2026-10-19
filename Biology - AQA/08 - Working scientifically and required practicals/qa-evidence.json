@@ -88,7 +88,7 @@
       "answer": "- Temperature also affects **enzyme activity**.\n- Keeping it constant helps attribute differences to **pH**, rather than temperature.",
       "specification": "RPA5;WS2.2",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -96,7 +96,7 @@
       "answer": "- Repeats and a mean reduce the effect of **unpredictable scatter**.\n- A consistent zero offset affects every reading, so it must be corrected or recalibrated.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -104,7 +104,7 @@
       "answer": "- Precision means repeated measurements **cluster closely**.\n- Accuracy means closeness to the **true value**; clustered readings can all be biased.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -112,7 +112,7 @@
       "answer": "- It may be a genuine biological difference rather than an error.\n- Check the method and repeat; exclude only with a **justified cause**.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 2,
@@ -120,7 +120,7 @@
       "answer": "- Clear single outlines in proportion, with no invented structures.\n- Accurate labels with straight non-crossing lines, plus a suitable scale or magnification.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 2,
@@ -128,7 +128,7 @@
       "answer": "- Inversion reduces condensation dripping onto and spreading the culture.\n- About 25°C reduces the risk of growing harmful human pathogens compared with body temperature.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 2,
@@ -136,7 +136,7 @@
       "answer": "- It checks whether the solvent or disc itself affects growth.\n- The comparison helps identify an effect of the **active agent**.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 2,
@@ -144,7 +144,7 @@
       "answer": "- Surface solution would add mass unrelated to osmosis.\n- Consistent gentle blotting removes it without squeezing water from the tissue.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 2,
@@ -152,7 +152,7 @@
       "answer": "- Pieces may have different initial masses.\n- Percentage change relates the gain/loss to starting mass, giving a fairer comparison.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 2,
@@ -160,7 +160,7 @@
       "answer": "- Fresh wells test successive samples without changing the main reaction mixture.\n- Adding iodine to the reaction could alter conditions and the result.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 2,
@@ -168,7 +168,7 @@
       "answer": "- Bubbles differ in volume, so equal counts need not mean equal oxygen production.\n- Collect **oxygen volume per unit time** instead.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 2,
@@ -176,7 +176,7 @@
       "answer": "- Photosynthesis needs time to respond to the new conditions.\n- Measuring after equilibration makes rates more comparable at each setting.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 2,
@@ -184,7 +184,7 @@
       "answer": "- It reduces **anticipation** of the release.\n- The measurement then better reflects response to seeing the fall.",
       "specification": "RPA7",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 2,
@@ -192,7 +192,7 @@
       "answer": "- Light can produce a separate directional growth response.\n- Darkness reduces this competing influence, helping isolate gravity.",
       "specification": "RPA8",
       "evidence": "2022 2H Q09.1–09.3: related control reasoning",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 2,
@@ -200,7 +200,7 @@
       "answer": "- It links abundance to the actual conditions experienced at that site.\n- Assuming distance alone represents light or moisture could misidentify the cause.",
       "specification": "RPA9",
       "evidence": "Additional specification-based practice",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 2,
@@ -208,7 +208,7 @@
       "answer": "- Different starting pH or endpoints require different amounts of fatty acid.\n- Time differences could then reflect the amount of change required rather than enzyme activity.",
       "specification": "RPA10",
       "evidence": "Additional specification-based practice",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 3,
@@ -216,7 +216,7 @@
       "answer": "- Add **Benedict’s solution** to the sample.\n- Warm in a **hot water bath**, looking for a green/yellow/orange/brick-red precipitate.\n- Use eye protection and handle hot tubes safely, pointing them away from people.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 3,
@@ -224,7 +224,7 @@
       "answer": "- Mix the sample with ethanol so lipid can dissolve.\n- Add water; a **milky emulsion** indicates lipid.\n- Keep ethanol away from flames because it is flammable.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 28
+      "number": 29
     },
     {
       "marks": 3,
@@ -232,7 +232,7 @@
       "answer": "- Change = 2.30 −2.00 = **0.30 g**.\n- Percentage = 0.30/2.00 ×100 = **15% increase**.\n- Net water entered tissue by **osmosis** under these conditions.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 29
+      "number": 30
     },
     {
       "marks": 3,
@@ -240,7 +240,7 @@
       "answer": "- Radius = 12/2 = **6 mm**.\n- Area = π ×6².\n- Area ≈ **113 mm²**, to three significant figures.",
       "specification": "RPA2;MS5c",
       "evidence": "Additional specification-based practice",
-      "number": 30
+      "number": 31
     },
     {
       "marks": 3,
@@ -248,7 +248,7 @@
       "answer": "- Use the time for the **same amount of starch** to disappear.\n- Calculate **1/time**, with s⁻¹ if time is seconds.\n- A shorter endpoint time gives a larger rate proxy.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 31
+      "number": 32
     },
     {
       "marks": 3,
@@ -256,7 +256,7 @@
       "answer": "- Moving the lamp can change water temperature as well as light intensity.\n- Temperature affects photosynthesis through enzyme activity.\n- Use a monitored bath/heat shield and keep temperature comparable.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 32
+      "number": 33
     },
     {
       "marks": 3,
@@ -264,7 +264,7 @@
       "answer": "- Mean = (50+54+52)/3 = **52 s**.\n- Range = 54 −50 = **4 s**.\n- Reciprocal mean = 1/52 ≈ **0.0192 s⁻¹**; keep the rate-comparison method consistent.",
       "specification": "WS3.3;RPA10",
       "evidence": "Additional specification-based practice",
-      "number": 33
+      "number": 34
     },
     {
       "marks": 3,
@@ -272,7 +272,7 @@
       "answer": "- Peer reviewers assess whether methods, analysis and conclusions are justified.\n- Independent replication tests whether the effect can be obtained again.\n- Together they increase confidence, while neither guarantees a claim is correct.",
       "specification": "WS1.6",
       "evidence": "Additional specification-based practice",
-      "number": 34
+      "number": 35
     },
     {
       "marks": 4,
@@ -280,7 +280,7 @@
       "answer": "- Place a thin tissue layer on a slide with a suitable stain.\n- Lower a coverslip at an angle to limit air bubbles.\n- Start at low power, locate and focus, then increase magnification with careful fine focus.\n- Draw observed structures clearly, label them and include appropriate scale/magnification.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 35
+      "number": 36
     },
     {
       "marks": 4,
@@ -288,7 +288,7 @@
       "answer": "- Practice may make later attempts faster; fatigue may make them slower.\n- Balance or randomise condition order across participants.\n- Keep ruler position, hand and instructions constant and repeat both conditions.\n- Compare mean times and spread using consenting participants and a safe distraction.",
       "specification": "RPA7",
       "evidence": "Additional specification-based practice",
-      "number": 36
+      "number": 37
     },
     {
       "marks": 4,
@@ -296,7 +296,7 @@
       "answer": "- Use several seedlings of the same species, age and similar size.\n- Compare one-sided with appropriate all-round light over the same time.\n- Keep water, temperature and growing medium consistent.\n- Record lengths and accurate labelled drawings of root/shoot directions, then repeat and compare.",
       "specification": "RPA8",
       "evidence": "2022 2H Q09.1–09.3",
-      "number": 37
+      "number": 38
     },
     {
       "marks": 4,
@@ -304,7 +304,7 @@
       "answer": "- The data show a correlation in the sampled conditions.\n- Light could affect photosynthesis and growth.\n- Soil moisture, minerals, species or plant age could also differ.\n- A controlled investigation and broader sampling are needed to isolate causes; the correlation alone does not prove light caused every difference.",
       "specification": "WS3.5;WS3.6",
       "evidence": "Additional specification-based practice",
-      "number": 38
+      "number": 39
     },
     {
       "marks": 6,
@@ -312,7 +312,7 @@
       "answer": "- Inoculate sterile agar consistently using aseptic technique and a suitable harmless culture.\n- Apply equal volumes/concentrations to equal-sized spaced discs, adding a solvent-only control.\n- Keep agar depth, bacterial starting amount, temperature and incubation time the same.\n- Tape lids at a few points, incubate inverted at about 25°C and keep cultures closed afterwards.\n- Repeat plates and measure comparable inhibition-zone diameters/areas.\n- Compare results and variation, recognising diffusion can affect zone size; arrange approved disposal.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 39
+      "number": 41
     },
     {
       "marks": 6,
@@ -320,7 +320,7 @@
       "answer": "- Prepare equal-dimension pieces from comparable tissue and measure initial masses.\n- Use a suitable range of known concentrations, equal solution volumes and a water comparison.\n- Keep time and temperature constant, using several pieces at each concentration.\n- Blot consistently and record final masses.\n- Calculate percentage changes and means; plot against concentration.\n- Estimate the zero-change concentration and evaluate scatter, cutting differences and surface-water errors, using sharp tools safely.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 40
+      "number": 42
     },
     {
       "marks": 6,
@@ -328,7 +328,7 @@
       "answer": "- Prepare a pH range using buffers with equal starch/enzyme volumes and concentrations.\n- Equilibrate solutions in a controlled water bath.\n- Mix and start timing, sampling onto fresh iodine drops every 30 seconds.\n- Record the first sample with no blue-black colour, keeping endpoint rules consistent.\n- Repeat and compare mean times or reciprocal-time rates, with a no-enzyme control.\n- Evaluate timing/sampling precision and use appropriate reagent and hot-water precautions.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 41
+      "number": 43
     },
     {
       "marks": 6,
@@ -336,7 +336,8 @@
       "answer": "- Place comparable pondweed in a solution supplying consistent carbon dioxide.\n- Use several measured lamp distances or measured intensities.\n- Equilibrate and collect oxygen volume for a fixed interval at each setting.\n- Monitor/control temperature and keep plant length, solution and timing consistent.\n- Repeat and compare mean oxygen production rates, using the inverse-square relationship only where suitable.\n- Evaluate gas leaks, lamp heating and plateau-causing factors; keep electrics dry and avoid overheating.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 42
+      "number": 44
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }

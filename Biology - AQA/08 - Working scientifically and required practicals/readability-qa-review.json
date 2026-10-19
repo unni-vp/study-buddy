@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated osmosis interpretation, comparison and weighing technique.",
+    "Converted the dense milk-decay method into explicit measured steps.",
+    "Clarified error handling without losing uncertainty, safety or any of the ten required practicals."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 44,
+  "mark_groups": {
+    "1": 11,
+    "2": 16,
+    "3": 8,
+    "4": 4,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark bank covers all ten practicals, calculations, methods, controls, explanations and evaluation.",
+    "Added multiple choice and five-mark inhibition-area calculation linked to controlled comparison and limits of the evidence."
+  ],
+  "additional_practice": [
+    {
+      "number": 11,
+      "marks": 1,
+      "prompt": "Which is a control variable when testing the effect of pH on amylase activity? Choose one: A the pH chosen; B the time for starch to disappear; C the temperature; D the calculated reciprocal time.",
+      "answer": "C: the temperature."
+    },
+    {
+      "number": 40,
+      "marks": 5,
+      "prompt": "A bacterial inhibition zone has an overall diameter of 16 mm, including a paper disc of diameter 6 mm. Calculate the clear agar area excluding the disc, using π = 3.14. Give two variables to control when comparing two antiseptics and explain why a larger zone alone does not establish the better treatment for a patient.",
+      "answer": "- Zone radius = 16 ÷ 2 = **8 mm**. Disc radius = 6 ÷ 2 = **3 mm**.\n- Clear agar area = **π × 8² − π × 3²** = 3.14 × (64 − 9) = **172.7 mm²**, or **173 mm²** to three significant figures.\n- Keep, for example, **disc size and the volume of antiseptic per disc** the same. Also keep bacterial strain, agar and incubation conditions comparable.\n- A larger clear zone supports greater growth inhibition **under those plate conditions**.\n- Different diffusion through agar affects zone size. A patient treatment also depends on safety, effective dose and the infection, so this result alone cannot establish the best clinical treatment."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf sections3,8 and4.1.1.6",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
