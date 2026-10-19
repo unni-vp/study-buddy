@@ -22,7 +22,15 @@ Imagine a large stadium with a tiny heavy object at the centre: the important po
 
 **Isotopes:** these are atoms of the same element with different numbers of neutrons. They have the same atomic number but different mass numbers.
 
-Carbon-14 has Z = 6 and A = 14: **6 protons, 8 neutrons and 6 electrons** when neutral. Carbon-12 has the same protons but only 6 neutrons.
+**Example: carbon isotopes**
+
+For a neutral carbon-14 atom:
+
+- Atomic number Z = **6**, so it has **6 protons**.
+- Mass number A = **14**, so it has 14 − 6 = **8 neutrons**.
+- It has **6 electrons** because it is neutral.
+
+Carbon-12 has the same 6 protons but only 6 neutrons.
 
 ## Electron energy levels and changing models
 
@@ -90,7 +98,14 @@ Think of repeated halving of the amount still undecayed. Each step takes the sam
 
 **After n half-lives: remaining fraction = (½)ⁿ.**
 
-**Remaining and decayed amounts:** after three half-lives, ½ × ½ × ½ = **1/8 remains**. The other **7/8 has decayed**. The ratio of remaining activity to initial activity is **1 : 8**. The ratio of the decline to initial activity is **7 : 8**.
+**After three half-lives**
+
+Remaining fraction = ½ × ½ × ½ = **1/8**.
+
+- **1/8 remains**.
+- **7/8 has decayed**.
+- Remaining activity : initial activity = **1 : 8**.
+- Decline in activity : initial activity = **7 : 8**.
 
 **Worked example:** an activity of 640 Bq with a two-hour half-life becomes 320 Bq after two hours, 160 Bq after four hours and **80 Bq after six hours**.
 
@@ -113,7 +128,11 @@ Reduce exposure time, increase distance and use suitable shielding. Use tongs, s
 
 Background radiation is always present. Natural sources include **rocks, radon gas, cosmic rays and substances in food/living things**. Human-made sources include fallout from weapons tests and nuclear accidents. Medical procedures can add to a person's dose.
 
-Location and occupation affect dose: rock type, altitude and work around radiation can matter. Radiation dose measures biological effect; **1 Sv = 1,000 mSv**. Compare data in the same units.
+Location and occupation affect dose: rock type, altitude and work around radiation can matter. Radiation dose measures biological effect;
+
+**1 Sv = 1,000 mSv**.
+
+Compare data in the same units.
 
 | Use | Suitable choice and reason |
 |---|---|

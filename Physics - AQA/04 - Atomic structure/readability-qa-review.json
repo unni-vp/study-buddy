@@ -46,5 +46,11 @@
     "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF",
     "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-MS-JUN23.PDF"
   ],
-  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam.",
+  "layout_followup": {
+    "reviewed": "2026-10-19",
+    "changed_blocks": 3,
+    "scope": "Revision-note presentation only. Separate equations, symbols and units, conversions, worked stages and distinct explanations. Preserve factual content, all mapped headings and images. Q&A unchanged.",
+    "verification": "Built website; checked all topic note groups at desktop, 390px and 320px. Detailed equation views also inspected visually."
+  }
 }
