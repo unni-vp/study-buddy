@@ -61,11 +61,11 @@ An orbiting object keeps moving while gravity continually changes the direction 
 
 ![In a circular orbit, gravitational force points towards Earth, while the satellite's velocity is tangent to its path.](../Diagrams/orbital-force.svg)
 
-- The force points **towards the centre**, not forward along the orbit.
-- The velocity points **along a tangent**, at right angles to the radius.
-- In a stable circular orbit, **speed can be constant while velocity changes**. Velocity includes direction.
-- Changing velocity means **acceleration**, even if speed stays constant.
-- Gravity is not “cancelled out” in orbit. An orbiting satellite is continually falling towards the central body while moving sideways.
+**Force and velocity point in different directions:** gravity acts **towards the centre**. The satellite's instantaneous velocity is **along a tangent**, at right angles to the radius.
+
+**Constant speed can still mean acceleration:** velocity includes direction. As the satellite follows a circle, its direction keeps changing. It therefore accelerates even when its speed stays constant.
+
+Gravity is not cancelled out. The satellite continually falls towards the central body while moving sideways, producing its curved path. A forward force balancing gravity is not needed for a stable circular orbit.
 
 Think of whirling a ball on a string: the string pulls inwards while the ball moves around the circle. Gravity supplies the inward force in an orbit; there is no physical string.
 
@@ -96,10 +96,11 @@ Light from many distant galaxies shows the same familiar pattern of spectral lin
 
 ![Matching spectral lines in a distant galaxy's light occur at longer wavelengths than the laboratory pattern.](../Diagrams/red-shift.svg)
 
-- **Greater red-shift** indicates a greater recession speed for the GCSE comparison.
-- Most distant galaxies show red-shift, so they are **moving away from us**.
-- More distant galaxies generally show **greater red-shift and faster recession**.
-- Red-shift does not mean a galaxy simply looks red or emits only red light. Scientists compare **corresponding spectral lines**.
+**What the shift tells us:** most distant galaxies show red-shift, indicating that they are **moving away from us**. A greater red-shift indicates a greater recession speed in these comparisons.
+
+**The distance pattern:** more distant galaxies generally have **greater red-shifts and faster recession speeds**. This observed relationship is evidence for an expanding universe.
+
+A galaxy simply looking red is not enough. Scientists identify **corresponding spectral lines** and compare their wavelengths with a laboratory spectrum. The whole pattern shifts; the galaxy does not emit only red light.
 
 Imagine spots on a balloon as its surface expands. Most pairs of spots move apart, and more widely separated spots move apart faster. This is a way to picture expansion; it does not put Earth at the centre of the universe or turn the real universe into a balloon surface.
 
@@ -122,9 +123,11 @@ Observations **support** models. Scientists test a model's predictions against f
 
 Observations of distant **supernovae**, including evidence reported from 1998 onwards, indicate that the expansion is **accelerating**. This means the expansion rate changes over time; it is distinct from the observation that further galaxies currently recede faster.
 
-- **Dark matter:** inferred from gravitational effects; it does not emit the electromagnetic radiation expected from ordinary visible matter.
-- **Dark energy:** a name associated with the unknown cause of accelerating expansion.
-- Their nature is still not fully understood. Names are not complete explanations.
+**Dark matter** is inferred from gravitational effects, although it does not emit the electromagnetic radiation expected from ordinary visible matter.
+
+**Dark energy** is the name associated with the unknown cause of accelerating expansion.
+
+The nature of both is still not fully understood. Giving an unknown effect a name does not completely explain its cause.
 
 Science develops by using indirect observations to infer what cannot be seen directly. Claims should distinguish **measured observations**, **interpretations** and **remaining uncertainty**.
 

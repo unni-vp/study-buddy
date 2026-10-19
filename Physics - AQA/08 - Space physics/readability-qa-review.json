@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Explained orbital force, velocity and acceleration as a connected argument.",
+    "Made red-shift evidence and limitations readable without compressing facts into fragments.",
+    "Retained both stellar routes, historical qualifications, orbital worked examples and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 31,
+  "mark_groups": {
+    "1": 9,
+    "2": 11,
+    "3": 6,
+    "4": 2,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing practice includes1–4-mark recall, orbital calculations, explanations and6-mark stellar/cosmological comparison.",
+    "Added multiple choice and five-mark spectral-data application with a linked evidence-to-model explanation.",
+    "No unsupported extra orbital-law or red-shift-speed equation added."
+  ],
+  "additional_practice": [
+    {
+      "number": 9,
+      "marks": 1,
+      "prompt": "Which force-direction statement is correct for a satellite in a stable circular orbit? Choose one: A gravity acts along its velocity; B gravity acts towards the central body; C gravity is zero; D gravity points away from the central body.",
+      "answer": "B: gravity acts towards the central body."
+    },
+    {
+      "number": 29,
+      "marks": 5,
+      "prompt": "The same laboratory spectral line has a wavelength of 500 nm. In three galaxies it is observed at the wavelengths below. Calculate the increase in wavelength for each galaxy. Explain what the pattern suggests about the galaxies' motion and how it supports the Big Bang model.\n\n| Galaxy | Distance (arbitrary units) | Observed wavelength (nm) |\n|---|---|---|\n| A | 1 | 505 |\n| B | 2 | 510 |\n| C | 3 | 515 |",
+      "answer": "- Wavelength increases are **5 nm, 10 nm and 15 nm** for A, B and C.\n- Each observed wavelength is longer than the laboratory value, so each galaxy shows **red-shift** and is **receding**.\n- The more distant galaxies have greater red-shifts, indicating **greater recession speeds**.\n- This distance–speed pattern supports an **expanding universe**.\n- Working backwards suggests an earlier **hotter, denser and much more compact state**, supporting the Big Bang model. This table alone does not show that expansion is accelerating over time."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf section4.8",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-QP-JUN23.PDF",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-MS-JUN23.PDF"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
