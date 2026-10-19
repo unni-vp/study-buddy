@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -17,9 +17,9 @@
         376
       ],
       "column_heights": [
-        454,
-        476,
-        679
+        498,
+        520,
+        657
       ],
       "panels": [
         {
@@ -29,50 +29,50 @@
           "x": 18,
           "y": 18,
           "width": 334,
-          "height": 251
-        },
-        {
-          "source_panels": [
-            1
-          ],
-          "x": 18,
-          "y": 281,
-          "width": 334,
-          "height": 207
-        },
-        {
-          "source_panels": [
-            2
-          ],
-          "x": 364,
-          "y": 18,
-          "width": 350,
-          "height": 251
+          "height": 273
         },
         {
           "source_panels": [
             3
           ],
-          "x": 364,
-          "y": 281,
-          "width": 350,
+          "x": 18,
+          "y": 303,
+          "width": 334,
           "height": 229
+        },
+        {
+          "source_panels": [
+            1
+          ],
+          "x": 364,
+          "y": 18,
+          "width": 350,
+          "height": 207
         },
         {
           "source_panels": [
             4
           ],
+          "x": 364,
+          "y": 237,
+          "width": 350,
+          "height": 317
+        },
+        {
+          "source_panels": [
+            2
+          ],
           "x": 726,
           "y": 18,
           "width": 376,
-          "height": 251
+          "height": 229
         },
         {
           "source_panels": [
             5
           ],
           "x": 726,
-          "y": 281,
+          "y": 259,
           "width": 376,
           "height": 432
         }
@@ -85,6 +85,7 @@
           "purpose": "Shows a radial field and its direction around an isolated positive sphere."
         }
       ],
+      "reflow": "Rebalanced panel columns for separated equation lines; typography unchanged.",
       "slug": "00-electricity-overview",
       "title": "Electricity overview",
       "source_panels_preserved": 6
@@ -96,7 +97,7 @@
         352
       ],
       "column_heights": [
-        498,
+        520,
         569,
         498
       ],
@@ -108,14 +109,14 @@
           "x": 18,
           "y": 18,
           "width": 354,
-          "height": 273
+          "height": 295
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 303,
+          "y": 325,
           "width": 354,
           "height": 229
         },
@@ -249,8 +250,8 @@
     },
     {
       "widths": [
-        362,
-        318,
+        374,
+        306,
         380
       ],
       "column_heights": [
@@ -265,7 +266,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 362,
+          "width": 374,
           "height": 273
         },
         {
@@ -274,25 +275,25 @@
           ],
           "x": 18,
           "y": 303,
-          "width": 362,
+          "width": 374,
           "height": 330
         },
         {
           "source_panels": [
             2
           ],
-          "x": 392,
+          "x": 404,
           "y": 18,
-          "width": 318,
+          "width": 306,
           "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 392,
+          "x": 404,
           "y": 259,
-          "width": 318,
+          "width": 306,
           "height": 229
         },
         {
@@ -326,5 +327,11 @@
       "title": "Power, mains & fields",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
+  }
 }
