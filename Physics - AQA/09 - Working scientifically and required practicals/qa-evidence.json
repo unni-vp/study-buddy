@@ -64,7 +64,7 @@
       "answer": "- **Repeatability:** the same investigator and conditions give similar repeated results.\n- **Reproducibility:** different investigators or equipment give similar results.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 8
+      "number": 9
     },
     {
       "marks": 2,
@@ -72,7 +72,7 @@
       "answer": "- Random fluctuations can partly cancel, reducing their effect on the **mean**.\n- A zero offset shifts all readings systematically, so the mean **retains the offset** unless corrected.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -80,7 +80,7 @@
       "answer": "- It may be real, or indicate a cause that needs investigation.\n- **Repeat and check the method**; exclude it only for a justified measurement failure, recording the reason.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -88,7 +88,7 @@
       "answer": "- **Cross-sectional area also changes resistance**.\n- The result cannot isolate length; keep material, area and temperature constant.",
       "specification": "WS2.2;8.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -96,7 +96,7 @@
       "answer": "- It is not **fully submerged**, so it displaces less than its full volume.\n- Submerge it using a suitable adapted method and account for any extra object used.",
       "specification": "8.2.5",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -104,7 +104,7 @@
       "answer": "- Current **heats the wire**.\n- Temperature changes resistance, so cooling helps keep a **control variable constant** and reduces burn risk.",
       "specification": "8.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -112,7 +112,7 @@
       "answer": "- Same **water mass and starting temperature**.\n- Same **container, lid and room conditions**, with matched measurement intervals.",
       "specification": "8.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 2,
@@ -120,7 +120,7 @@
       "answer": "- **R = V/I**.\n- Current also depends on applied voltage, so comparing I alone at different V would not isolate resistance.",
       "specification": "8.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 2,
@@ -128,7 +128,7 @@
       "answer": "- The same absolute ruler uncertainty is a **smaller fraction of a longer measured distance**.\n- Divide that distance by the number of **complete wavelengths** to find λ.",
       "specification": "8.2.8",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 2,
@@ -136,7 +136,7 @@
       "answer": "- Gradient = **I/V**.\n- It is **1/R**, not R, for a constant-temperature ohmic resistor.",
       "specification": "8.2.4",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 2,
@@ -144,7 +144,7 @@
       "answer": "- Read the pointer and ruler **at eye level**.\n- This reduces apparent displacement from viewing at an angle.",
       "specification": "8.2.6",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 2,
@@ -152,7 +152,7 @@
       "answer": "- Human reaction time is much larger than the short delay.\n- Electronic timing can **resolve the delay** with much smaller timing error.",
       "specification": "WS2.3;8.2.8",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 2,
@@ -160,7 +160,7 @@
       "answer": "- A **hazard** is a potential source of harm.\n- **Risk** considers the likelihood and seriousness of harm in the actual situation.",
       "specification": "WS1.5;WS2.4",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 2,
@@ -168,7 +168,7 @@
       "answer": "- Another uncontrolled variable or biased sample could produce the relationship.\n- Further **controlled evidence and a plausible mechanism** are needed before attributing a cause.",
       "specification": "WS1.1;WS3.5–3.7",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 3,
@@ -176,7 +176,7 @@
       "answer": "- Mean = (1.8 + 2.0 + 1.9)/3 = **1.9 s**.\n- Range = 2.0 − 1.8 = **0.2 s**.\n- Half-range estimate = **±0.1 s**, with other sources of uncertainty considered separately.",
       "specification": "WS3.3–3.4",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 3,
@@ -184,7 +184,7 @@
       "answer": "- Liquid mass = 120 − 80 = **40 g**.\n- ρ = m/V = 40/50 = **0.80 g/cm³**.\n- This equals **800 kg/m³**.",
       "specification": "8.2.5",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 3,
@@ -192,7 +192,7 @@
       "answer": "- Extension = 15.0 − 12.0 = **3.0 cm = 0.030 m**.\n- k = F/e = 6.0/0.030.\n- **k = 200 N/m**.",
       "specification": "8.2.6",
       "evidence": "Additional specification-based practice",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 3,
@@ -200,7 +200,7 @@
       "answer": "- **c = E/(mΔθ)**.\n- c = 8,000/(0.40 × 20).\n- **1,000 J/kg°C**, assuming the input energy heats the block.",
       "specification": "8.2.1",
       "evidence": "Additional specification-based practice",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 3,
@@ -208,7 +208,7 @@
       "answer": "- Not all supplied energy increases the **block’s thermal store**.\n- The measured temperature rise is smaller than the ideal rise.\n- In **c = E/(mΔθ)**, using all input E with that smaller Δθ overestimates c. Insulation reduces the error.",
       "specification": "8.2.1",
       "evidence": "Additional specification-based practice",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 3,
@@ -216,7 +216,7 @@
       "answer": "- Transfer masses **from trolley to hanger** rather than adding new mass to the system.\n- Total moving mass stays the same, while hanging weight increases.\n- Measure acceleration for each driving force, keeping track and friction conditions comparable.",
       "specification": "8.2.7",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 3,
@@ -224,7 +224,7 @@
       "answer": "- Detector reading depends on **distance**, not just surface finish.\n- The change makes the finish comparison invalid.\n- Use the **same distance and angle**, matched surface temperature, and repeat readings.",
       "specification": "8.2.10",
       "evidence": "2023 2H Q01: related controls",
-      "number": 28
+      "number": 29
     },
     {
       "marks": 3,
@@ -232,7 +232,7 @@
       "answer": "- Measure incidence and reflection angles **from the normal**.\n- Repeat reflection readings and calculate the mean at each incidence angle.\n- Compare **mean r with i**, considering measurement uncertainty and protractor resolution.",
       "specification": "8.2.9",
       "evidence": "2023 2H Q07.2–07.5",
-      "number": 29
+      "number": 30
     },
     {
       "marks": 3,
@@ -240,7 +240,7 @@
       "answer": "- Increasing current heats the filament.\n- Higher temperature increases **resistance**.\n- Current then rises less rapidly with voltage, so the I–V gradient decreases.",
       "specification": "8.2.4",
       "evidence": "Additional specification-based practice",
-      "number": 30
+      "number": 31
     },
     {
       "marks": 3,
@@ -248,7 +248,7 @@
       "answer": "- Specialists check **methods, evidence and reasoning** during peer review.\n- Independent investigations test whether results are **reproducible**.\n- These steps can expose weaknesses, although neither guarantees a claim is permanently correct.",
       "specification": "WS1.6;WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 31
+      "number": 32
     },
     {
       "marks": 4,
@@ -256,7 +256,7 @@
       "answer": "- Measure mass with a balance, checking its zero.\n- Record an initial water volume in a measuring cylinder or use a displacement can.\n- Fully submerge the solid, removing trapped bubbles, and measure **displaced volume**.\n- Calculate **ρ = m/V** in matching units; read the meniscus at eye level and repeat suitably.",
       "specification": "8.2.5",
       "evidence": "Additional specification-based practice",
-      "number": 32
+      "number": 33
     },
     {
       "marks": 4,
@@ -264,7 +264,7 @@
       "answer": "- Connect ammeter in **series**, voltmeter **across the resistor** and an adjustable low-voltage supply.\n- Change voltage through a suitable range, recording paired V and I readings.\n- Obtain negative readings by reversing polarity where appropriate and repeat. Limit heating to keep temperature approximately constant.\n- Plot **I against V** and assess the best-fit line; a constant-temperature ohmic resistor gives a straight line through the origin.",
       "specification": "8.2.4",
       "evidence": "Additional specification-based practice",
-      "number": 33
+      "number": 34
     },
     {
       "marks": 4,
@@ -272,7 +272,7 @@
       "answer": "- Use a vibration generator and signal generator with fixed string type and tension.\n- Adjust frequency until a clear stationary pattern forms; record **f**.\n- Measure several loop lengths. Each loop is **λ/2**, so find λ from the total distance.\n- Calculate **v = fλ**, repeat and keep hanging loads secure.",
       "specification": "8.2.8",
       "evidence": "Additional specification-based practice",
-      "number": 34
+      "number": 35
     },
     {
       "marks": 4,
@@ -280,7 +280,7 @@
       "answer": "- Closely clustered readings show **precision and repeatability** under the same conditions.\n- They could all contain the same **systematic error**, such as a zero offset.\n- Check zero and calibration against a reference, or use an independent appropriate instrument.\n- Compare with the expected or reference value and its uncertainty before concluding accuracy.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 35
+      "number": 36
     },
     {
       "marks": 6,
@@ -288,7 +288,7 @@
       "answer": "- Use identical containers with different thicknesses of the **same insulation material**. Match the exposed area and use comparable lids.\n- Put the same mass of water in each, at the **same starting temperature**, and keep room conditions and draught exposure comparable.\n- Record temperature at fixed equal intervals for the same total time, using suitable thermometers in consistent positions.\n- Repeat each thickness and calculate means. Compare temperature drops over the same time or plot comparable cooling curves.\n- The thickness with the smaller drop reduces cooling more under those conditions. Use actual data to judge the trend and allow for uncertainty.\n- Handle hot water safely on heatproof surfaces. A valid comparison controls material and initial conditions rather than changing them alongside thickness.",
       "specification": "8.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 36
+      "number": 38
     },
     {
       "marks": 6,
@@ -296,7 +296,7 @@
       "answer": "- Connect a low-voltage supply and ammeter in series with a test wire. Connect a voltmeter across the selected length.\n- Use a ruler and movable contact to test several measured lengths, including repeated readings.\n- Keep **wire material, cross-sectional area and temperature** constant. Limit current and switch off between measurements to reduce heating.\n- At each length, measure **V and I**, then calculate **R = V/I**. Do not compare current alone if voltage varies.\n- Plot mean R against length with quantities and units on the axes. Assess whether the best-fit line supports a proportional relationship, considering uncertainty and contact resistance.\n- Check connections before switching on and avoid short circuits or hot wire. Give the observed trend with data rather than assuming every result must lie exactly on a line.",
       "specification": "8.2.3",
       "evidence": "Additional specification-based practice",
-      "number": 37
+      "number": 39
     },
     {
       "marks": 6,
@@ -304,7 +304,8 @@
       "answer": "- Use a low-friction track, trolley, pulley, string and a fixed hanging mass. Secure the pulley and arrange a safe trolley stop.\n- Add mass to the trolley while keeping the **hanging mass fixed**. Record the total moving mass, including the hanger.\n- Use light gates or a motion sensor to measure velocities and time, then find **a = Δv/Δt** before the hanger reaches the floor.\n- Repeat each mass and calculate mean acceleration. Keep track, string and friction conditions comparable, measuring or allowing for friction where possible.\n- Plot acceleration against **1/total moving mass**. An approximately straight line supports inverse proportionality at fixed driving force.\n- Explain the approximation: driving weight acts on the whole moving system; string tension on the trolley alone is not equal to hanging weight during acceleration.",
       "specification": "8.2.7",
       "evidence": "Additional specification-based practice",
-      "number": 38
+      "number": 40
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }

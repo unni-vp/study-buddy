@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Unpacked evaluation vocabulary into connected explanation and evidence paragraphs.",
+    "Clarified random versus systematic errors and how to handle anomalies.",
+    "Preserved the complete ten-practical coverage, equipment choices, calculations, safety and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 40,
+  "mark_groups": {
+    "1": 8,
+    "2": 14,
+    "3": 10,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Existing bank spans1–4 and6marks and includes practical planning, controls, data processing, apparatus evaluation and evidence reasoning.",
+    "Added multiple-choice discrimination between repeatability/reproducibility and five-mark corrected-data/uncertainty evaluation.",
+    "The half-range convention is stated, not presented as a universal uncertainty rule."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "Which action best tests reproducibility? Choose one: A repeat with the same person and apparatus; B round every reading to a whole number; C ask another investigator to repeat the method using different suitable equipment; D remove all results that do not fit.",
+      "answer": "C: another investigator repeats the method using different suitable equipment."
+    },
+    {
+      "number": 37,
+      "marks": 5,
+      "prompt": "A timer gives repeated readings of 20 s, 22 s and 24 s for the same event. It is found to add 2 s to every measured interval. Calculate the corrected mean time and use half the range to estimate the uncertainty and percentage uncertainty. Explain why taking more repeats alone would not remove the original error.",
+      "answer": "- The measured mean is (20 + 22 + 24) ÷ 3 = **22 s**. Subtracting the known offset gives a corrected mean of **20 s**.\n- The range is 24 − 20 = **4 s**. Subtracting the same offset does not change this range.\n- Half-range uncertainty = 4 ÷ 2 = **±2 s**.\n- Percentage uncertainty = 2 ÷ 20 × 100 = **10%**, using this stated estimate.\n- The offset is a **systematic error** affecting every reading. More repeats may reduce random variation but cannot remove that unchanged offset."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf sections3,7,8",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF Q06.1",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-QP-JUN23.PDF"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
