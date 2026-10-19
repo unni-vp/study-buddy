@@ -4,15 +4,43 @@
 
 A circuit needs a **complete conducting loop** and a source of **potential difference**. Think of a closed delivery route: charges circulate, carrying energy from the supply to components. The charges are not used up; energy is transferred.
 
-**Current** measures how much charge passes a point each second. Use **I = Q/t**, or **Q = It**, with charge Q in coulombs (C), current I in amperes (A) and time t in seconds (s).
+**Current** measures how much charge passes a point each second.
 
-**Potential difference** tells you how much energy is transferred for each coulomb passing through a component. Use **V = E/Q**. One volt means one joule per coulomb.
+**I = Q/t**
 
-**Resistance** describes how strongly a component opposes current. Use **V = IR**, with resistance R in ohms (Ω). At the same potential difference, a greater resistance produces a smaller current.
+Rearranged to find charge:
+
+**Q = It**
+
+- **Q:** charge, in coulombs (C).
+- **I:** current, in amperes (A).
+- **t:** time, in seconds (s).
+
+**Potential difference** tells you how much energy is transferred for each coulomb passing through a component.
+
+Use **V = E/Q**.
+
+One volt means one joule per coulomb.
+
+**Resistance** describes how strongly a component opposes current.
+
+Use **V = IR**, with resistance R in ohms (Ω).
+
+At the same potential difference, a greater resistance produces a smaller current.
 
 In metal wires, electrons are the moving charges. **Conventional current** goes from positive to negative outside the supply. Electrons move in the opposite direction.
 
-A current of 0.40 A for 50 s transfers Q = 0.40 × 50 = **20 C**. A 6.0 V component carrying 0.20 A has R = 6.0/0.20 = **30 Ω**.
+**Example: charge transferred**
+
+A current of 0.40 A flows for 50 s.
+
+Q = It = 0.40 × 50 = **20 C**
+
+**Example: resistance**
+
+A component has 6.0 V across it and carries 0.20 A.
+
+R = V/I = 6.0 ÷ 0.20 = **30 Ω**
 
 ## Circuit symbols and measuring resistance
 
@@ -37,9 +65,21 @@ Draw wires as straight lines and use **standard symbols**, not pictures of equip
 | Adding a resistor | More opposition in the route; current falls for fixed supply pd | Extra route for charge; total current rises for fixed supply pd |
 | Broken component | Breaks the whole loop | Other complete branches can still work |
 
-**Series example:** 4 Ω and 8 Ω across 12 V give total R = 12 Ω and I = 12/12 = **1 A**. Their potential differences are **4 V and 8 V**, adding to 12 V.
+**Series example**
 
-**Parallel example:** two branches across 6 V have currents 0.30 A and 0.20 A. Total current is **0.50 A**. Both branches have **6 V** across them. Charge is conserved at a junction; it does not collect there.
+Two resistors, 4 Ω and 8 Ω, are connected in series across 12 V.
+
+1. Add the resistances: R = 4 + 8 = **12 Ω**.
+2. Find the current: I = V/R = 12 ÷ 12 = **1 A**.
+3. The potential differences are **4 V and 8 V**, adding to the 12 V supply.
+
+**Parallel example:** two branches across 6 V have currents 0.30 A and 0.20 A.
+
+Total current is **0.50 A**.
+
+Both branches have **6 V** across them.
+
+Charge is conserved at a junction; it does not collect there.
 
 A household circuit uses parallel branches so appliances receive the same supply voltage and can be switched independently. You do not need a reciprocal-resistance formula to explain why adding a parallel path reduces the total resistance.
 
@@ -89,9 +129,30 @@ For combinations, measure each resistor, then measure the pair in series and par
 | **E = Pt** | Energy from power and time |
 | **E = QV** | Energy transferred by a quantity of charge |
 
-Use W, V, A, Ω, J, s and C. A 12 V motor carrying 2.0 A receives **24 W**. In 30 s it receives **720 J**; not all of this becomes useful movement.
+**Symbols and units**
 
-A 10 Ω resistor carrying 0.50 A transfers P = 0.50² × 10 = **2.5 W**. Doubling current at fixed R gives **four times the heating power**.
+| Symbol | Quantity | Unit |
+|---|---|---|
+| P | Power | watts (W) |
+| V | Potential difference | volts (V) |
+| I | Current | amperes (A) |
+| R | Resistance | ohms (Ω) |
+| E | Energy transferred | joules (J) |
+| t | Time | seconds (s) |
+| Q | Charge | coulombs (C) |
+
+**Example: energy supplied to a motor**
+
+A 12 V motor carries 2.0 A for 30 s.
+
+1. Calculate power: P = VI = 12 × 2.0 = **24 W**.
+2. Calculate energy: E = Pt = 24 × 30 = **720 J**.
+
+Not all of this energy becomes useful movement.
+
+A 10 Ω resistor carrying 0.50 A transfers P = 0.50² × 10 = **2.5 W**.
+
+Doubling current at fixed R gives **four times the heating power**.
 
 An electric heater increases thermal stores; a motor transfers energy into movement as well as unwanted heating. For equal running time, greater power means more energy transferred. A high power rating does not alone tell you efficiency.
 
