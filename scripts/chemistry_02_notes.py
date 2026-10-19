@@ -154,7 +154,14 @@ For a cube of side length l:
 - **Volume = l³**
 - **SA:V = 6/l**
 
-A 10 nm cube has area **600 nm²** and volume **1,000 nm³**: ratio **0.6 nm⁻¹**. A 1 nm cube has area **6 nm²** and volume **1 nm³**: ratio **6 nm⁻¹**. Reducing the side by ten makes SA:V **ten times greater**, even though each cube's total area is smaller.
+**Comparing two cubes**
+
+| Side length | Surface area | Volume | SA:V |
+|---|---|---|---|
+| 10 nm | 600 nm² | 1,000 nm³ | 0.6 nm⁻¹ |
+| 1 nm | 6 nm² | 1 nm³ | 6 nm⁻¹ |
+
+Reducing the side by ten makes SA:V **ten times greater**, even though each cube's total area is smaller.
 
 ### Uses and risks
 
