@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated DNA, chromosome, gene and genome definitions.",
+    "Expanded probability-versus-ratio and independent-birth explanations.",
+    "Reflowed embryo-screening and breeding evaluations while retaining all inheritance models, historical evidence, mechanisms and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 57,
+  "mark_groups": {
+    "1": 13,
+    "2": 18,
+    "3": 12,
+    "4": 9,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark bank covers inheritance calculations, protein/selection mechanisms, evidence, cloning and ethical evaluation.",
+    "Added multiple choice and five-mark pedigree-to-genotype reasoning with construction of a Punnett square and probability interpretation.",
+    "No detailed mRNA/tRNA structures or named meiosis phases added."
+  ],
+  "additional_practice": [
+    {
+      "number": 13,
+      "marks": 1,
+      "prompt": "Which statement about a dominant allele is correct? Choose one: A it must be the most common allele; B it must improve survival; C it is expressed in a heterozygote in the simple single-gene model; D it can only be passed on by one sex.",
+      "answer": "C: it is expressed in a heterozygote in the simple single-gene model."
+    },
+    {
+      "number": 53,
+      "marks": 5,
+      "prompt": "A recessive disorder is caused by allele a. Two unaffected parents have an affected child. Deduce both parents' genotypes, using A for the usual allele. Draw a Punnett square and determine the probability that their next child is affected. Explain whether the first child's condition changes this probability.",
+      "answer": "Both parents must be **Aa**. The affected child is **aa**, so each parent supplied a. Because the parents are unaffected, each must also have A.\n\nEach parent produces gametes carrying **A or a**.\n\n| Egg / sperm | A | a |\n|---|---|---|\n| A | AA | Aa |\n| a | Aa | aa |\n\nOne of the four equally likely combinations is **aa**, giving an affected-child probability of **1/4 = 25%**. The previous child does not change this probability: each conception is an independent event in this model."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.6",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 2 Higher/AQA-84612H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

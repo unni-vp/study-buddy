@@ -37,7 +37,11 @@ Compare the outcomes: **mitosis makes two genetically identical cells with the o
 
 ## DNA, chromosomes, genes and genome
 
-**DNA** is the chemical carrying genetic information. In the nucleus it is packaged into **chromosomes**. A **gene** is a section of DNA coding for an amino-acid sequence used to make a protein. The **genome** is an organism's **entire genetic material**, including DNA beyond its protein-coding genes.
+**DNA** is the chemical carrying genetic information. Long DNA molecules are packaged into **chromosomes** in the nucleus.
+
+A **gene** is a section of DNA that codes for an amino-acid sequence used to make a protein.
+
+The **genome** is the organism's **entire genetic material**. It includes both protein-coding genes and other DNA.
 
 Imagine DNA as text, a gene as a particular set of instructions and the genome as the whole instruction library. Chromosomes are the packages holding long DNA molecules, not individual letters.
 
@@ -99,7 +103,11 @@ For a cross **Aa × Aa**:
 - Recessive phenotype probability = **1/4 = 25%**.
 - Heterozygous probability = **2/4 = 50%**.
 
-**1 in 4** is a probability; **1:3 affected:unaffected** is a ratio. Writing 1:4 affected:unaffected would mean one affected out of five, not one out of four. Expected numbers are probabilities multiplied by the number of offspring, but small families need not match the expected ratio exactly. Each conception is a new event; previous children do not use up outcomes.
+**Probability and ratio are different:** a probability of **1 in 4** means one of four equally likely outcomes is affected. The affected-to-unaffected ratio is **1 : 3**. A ratio of 1 : 4 would mean one affected out of five outcomes.
+
+**Expected numbers:** multiply the probability by the number of offspring. For example, a 25% probability across 100 offspring gives an expected 25 affected offspring. Small families do not have to match this ratio exactly.
+
+**Each conception is a new event.** A previous affected or unaffected child does not use up an outcome or change the next child's probability in this model.
 
 ## Inherited conditions and family trees
 
@@ -114,7 +122,11 @@ For a cross **Aa × Aa**:
 
 For a pedigree, read its key and generation links. In a simple recessive model, **two unaffected parents can have an affected child** if both are carriers. “The condition skipped a generation” alone is not enough: identify the actual parent–child evidence. Work out possible genotypes before assuming every unaffected person is homozygous.
 
-**Embryo screening** can identify particular alleles and help select an embryo without an inherited disorder. Potential benefits include reducing suffering and treatment burden. Economic, social and ethical issues include cost and access, decisions about embryos, accuracy/limitations and concerns about which traits are selected. Evaluate the information given without claiming a test checks every possible future illness.
+**Embryo screening** can identify particular alleles and help select an embryo without a specific inherited disorder.
+
+**Potential benefits** include reduced suffering and a lower treatment burden.
+
+**Issues to evaluate** include cost, access, decisions about embryos, test accuracy and which traits are selected. Use the information supplied. A test for one disorder does not check every possible future illness.
 
 ## Sex-chromosome inheritance
 
@@ -176,7 +188,11 @@ Separation alone does not instantly produce a new species. Link it to accumulate
 
 Examples include disease-resistant crops, higher meat/milk production, gentle dogs and large flowers. If selecting two traits, such as egg number and growth, assess both rather than selecting just one. Repeatedly mating the original parents alone is not a multi-generation selection programme.
 
-**Benefits:** useful yield, appearance or disease resistance. **Risks:** **inbreeding**, a reduced gene pool and increased chance of inherited defects or shared disease susceptibility. Consider welfare and environmental effects. Natural selection is driven by environmental pressures; artificial selection uses human choices.
+**Benefits of selective breeding** include improved yield, desired appearance or disease resistance.
+
+**Risks include inbreeding and a reduced gene pool.** Closely related parents are more likely to share harmful recessive alleles. A genetically similar population can also share susceptibility to the same disease. Consider animal welfare and environmental effects.
+
+Natural selection is driven by environmental pressures. Artificial selection is driven by human choices of parents.
 
 ## Genetic engineering
 
