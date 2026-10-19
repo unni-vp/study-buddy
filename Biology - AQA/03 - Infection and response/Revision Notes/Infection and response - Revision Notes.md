@@ -118,7 +118,16 @@ The three key checks are **toxicity** (harmful effects), **efficacy** (whether i
 
 **Fair comparison:** random allocation helps distribute other patient differences between groups. A large sample and comparable groups also strengthen the evidence. Compare **recovery rates and side effects**, rather than raw numbers alone when group sizes differ.
 
-Example: 60 of 100 patients improve with a drug and 35 of 100 with a placebo. Improvement is **60% versus 35%**, a difference of **25 percentage points**. Consider sample size, side effects and whether the groups were comparable before judging the drug.
+**Example: comparing a drug with a placebo**
+
+| Group | Patients who improve | Percentage |
+|---|---|---|
+| Drug | 60 out of 100 | 60% |
+| Placebo | 35 out of 100 | 35% |
+
+Difference = 60 − 35 = **25 percentage points**.
+
+Consider sample size, side effects and whether the groups were comparable before judging the drug.
 
 ## Monoclonal antibodies
 
