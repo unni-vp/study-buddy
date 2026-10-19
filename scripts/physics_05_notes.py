@@ -157,7 +157,20 @@ Velocity includes direction.
 
 A runner travels 200 m in 40 s: average speed = **5.0 m/s**. If the runner returns to the starting point, average velocity for the full journey is zero even though average speed is not.
 
-Useful approximate speeds: **walking 1.5 m/s, running 3 m/s, cycling 6 m/s, sound in air 330 m/s**. A car might travel around 13 m/s in a town and 30 m/s on a fast road; a train around 50 m/s and an airliner around 250 m/s. These are estimates, not fixed properties. Terrain, fitness, traffic and conditions matter.
+**Useful approximate speeds**
+
+| Example | Approximate speed |
+|---|---|
+| Walking | 1.5 m/s |
+| Running | 3 m/s |
+| Cycling | 6 m/s |
+| Sound in air | 330 m/s |
+| Car in a town | 13 m/s |
+| Car on a fast road | 30 m/s |
+| Train | 50 m/s |
+| Airliner | 250 m/s |
+
+These are estimates, not fixed properties. Terrain, fitness, traffic and conditions matter.
 
 **a = (v − u)/t**
 
