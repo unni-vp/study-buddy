@@ -231,7 +231,7 @@
         352
       ],
       "column_heights": [
-        432,
+        454,
         454,
         432
       ],
@@ -243,14 +243,14 @@
           "x": 18,
           "y": 18,
           "width": 354,
-          "height": 185
+          "height": 207
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 215,
+          "y": 237,
           "width": 354,
           "height": 251
         },
@@ -440,5 +440,15 @@
       "slug": "05-analysis-and-water",
       "title": "Chromatography, ion tests and water"
     }
-  ]
+  ],
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "03-electrolysis-and-temperature.svg"
+    ]
+  }
 }

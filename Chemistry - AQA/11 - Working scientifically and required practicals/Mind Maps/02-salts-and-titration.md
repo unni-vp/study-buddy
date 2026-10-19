@@ -42,7 +42,9 @@ Rough run then concordant careful repeats.
 
 ## Concentration steps
 
-Convert cm³ to dm³. Moles =cV.
+Convert cm³ to dm³.
+
+Moles =cV.
 
 Use balanced equation ratio.
 

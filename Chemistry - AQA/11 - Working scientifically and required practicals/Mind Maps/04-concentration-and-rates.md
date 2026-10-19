@@ -48,7 +48,9 @@ More frequent successful collisions.
 
 Consumed reactants reduce frequency over time.
 
-Temperature changes energy too; keep it controlled.
+Temperature changes energy too
+
+keep it controlled.
 
 ## Safe and repeatable
 

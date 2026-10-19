@@ -8,13 +8,19 @@ Low-voltage DC supply.
 
 Cathode negative, anode positive.
 
-Ions in liquid, electrons in wires.
+Ions in liquid
+
+electrons in wires.
 
 ## Predict products
 
-Less-reactive-than-H metal deposited at cathode; otherwise H₂.
+Less-reactive-than-H metal deposited at cathode
 
-Halide may form halogen at anode; otherwise O₂.
+otherwise H₂.
+
+Halide may form halogen at anode
+
+otherwise O₂.
 
 Use supplied concentration/context.
 
@@ -22,7 +28,9 @@ CuSO₄/inert: cathode Cu, anode O₂.
 
 ## Identify and control
 
-H₂ burning splint pop; O₂ glowing splint relights.
+H₂ burning splint pop
+
+O₂ glowing splint relights.
 
 Cl₂ damp litmus bleaches white.
 
