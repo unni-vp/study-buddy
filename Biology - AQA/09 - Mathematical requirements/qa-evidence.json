@@ -72,7 +72,7 @@
       "answer": "- 0.035 ×1000 = **35 µm**.\n- 35 ×1000 = **35 000 nm**.",
       "specification": "WS4.5",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -80,7 +80,7 @@
       "answer": "- Each linear dimension is multiplied by 10, so area is multiplied by **100**.\n- 3.2 ×100 = **320 mm²**.",
       "specification": "MS5c",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -88,7 +88,7 @@
       "answer": "- Divide coefficients: 6/2 = 3. Subtract powers: 5−2 = 3.\n- Answer = **3 ×10³**.",
       "specification": "MS1b",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -96,7 +96,7 @@
       "answer": "- Count from the first non-zero digit, 3.\n- Rounded result = **0.035**.",
       "specification": "MS2a",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -104,7 +104,7 @@
       "answer": "- Ratio = **3:5**.\n- Fraction = 3/(3+5) = **3/8**.",
       "specification": "MS1c",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -112,7 +112,7 @@
       "answer": "- Percentage = 27/90 ×100.\n- Result = **30%**.",
       "specification": "MS1c",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 2,
@@ -120,7 +120,7 @@
       "answer": "- Multiply eyepiece by objective: 10 ×40.\n- Total = **×400**.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 2,
@@ -128,7 +128,7 @@
       "answer": "- Actual = 30/500 = **0.060 mm**.\n- Convert: 0.060 ×1000 = **60 µm**.",
       "specification": "4.1.1.5",
       "evidence": "2022 1H Q03.3: adapted numerical context",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 2,
@@ -136,7 +136,7 @@
       "answer": "- Rate = volume/time = 18/6.\n- Rate = **3 cm³ min⁻¹**.",
       "specification": "MS1c",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 2,
@@ -144,7 +144,7 @@
       "answer": "- Rate proxy = 1/40.\n- **0.025 s⁻¹**, for a comparable endpoint.",
       "specification": "RPA5;RPA10",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 2,
@@ -152,7 +152,7 @@
       "answer": "- Intensity ∝ 1/d².\n- New intensity = **1/4** of the original.",
       "specification": "4.4.1.2",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 2,
@@ -160,7 +160,7 @@
       "answer": "- Values tend to rise together in the data.\n- Another variable may affect both, so a controlled comparison is needed to isolate a cause.",
       "specification": "MS2g;WS3.6",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 2,
@@ -168,7 +168,7 @@
       "answer": "- Interpolation estimates **within** the measured range.\n- Extrapolation extends **outside** it, where the relationship may change.",
       "specification": "MS4a",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 2,
@@ -176,7 +176,7 @@
       "answer": "- 20/2 = **10 times**.\n- The cell is about **one order of magnitude** larger in length.",
       "specification": "MS2h",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 3,
@@ -184,7 +184,7 @@
       "answer": "- Change = 2.10−2.50 = **−0.40 g**.\n- Percentage = −0.40/2.50 ×100.\n- **−16%**, a 16% decrease.",
       "specification": "MS1c;RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 3,
@@ -192,7 +192,7 @@
       "answer": "- Difference = **10 percentage points**.\n- Relative increase = (30−20)/20 ×100.\n- Relative increase = **50%**.",
       "specification": "MS1c",
       "evidence": "Additional specification-based practice",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 3,
@@ -200,7 +200,7 @@
       "answer": "- Cell/bar image-length ratio = 30/8 = 3.75.\n- Actual cell size = 3.75 ×4.\n- **15 µm**.",
       "specification": "4.1.1.5",
       "evidence": "Additional specification-based practice",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 3,
@@ -208,7 +208,7 @@
       "answer": "- Efficiency = next/previous ×100.\n- 45/600 ×100.\n- **7.5%**, using matching mass units/basis.",
       "specification": "4.7.4.3",
       "evidence": "Additional specification-based practice",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 3,
@@ -216,7 +216,7 @@
       "answer": "- Mean = 12/4 = **3**.\n- Median = (2+2)/2 = **2**.\n- Mode = **2**.",
       "specification": "MS2b;MS2f",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 3,
@@ -224,7 +224,7 @@
       "answer": "- Total count = 0×3 +1×4 +2×3 = **10**.\n- Total frequency = 3+4+3 = **10**.\n- Mean = 10/10 = **1**.",
       "specification": "MS2c",
       "evidence": "Additional specification-based practice",
-      "number": 28
+      "number": 29
     },
     {
       "marks": 3,
@@ -232,7 +232,7 @@
       "answer": "- Expected count = 120 ×1/4.\n- **30** affected births expected.\n- Random variation means an actual sample need not have exactly 30.",
       "specification": "MS2e",
       "evidence": "Additional specification-based practice",
-      "number": 29
+      "number": 30
     },
     {
       "marks": 3,
@@ -240,7 +240,7 @@
       "answer": "- Gradient = (18−6)/(8−2) = **2**.\n- Use y = 2x+c: 6 = 4+c, so **c = 2**.\n- Equation: **y = 2x+2**.",
       "specification": "MS4b;MS4d",
       "evidence": "Additional specification-based practice",
-      "number": 30
+      "number": 31
     },
     {
       "marks": 3,
@@ -248,7 +248,7 @@
       "answer": "- Slope = (5−7)/(5−1).\n- **−0.5 per day**.\n- At the tangent point, pH decreases at magnitude **0.5 per day**.",
       "specification": "MS4d;WS3.3",
       "evidence": "2023 2H Q04.4: adapted tangent calculation",
-      "number": 31
+      "number": 32
     },
     {
       "marks": 3,
@@ -256,7 +256,7 @@
       "answer": "- Radius = **6 mm**.\n- Area = π ×6² = 113.097…\n- **113 mm²**.",
       "specification": "MS5c;RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 32
+      "number": 33
     },
     {
       "marks": 4,
@@ -264,7 +264,7 @@
       "answer": "- Surface area = 6 ×2² = **24 cm²**.\n- Volume = 2³ = **8 cm³**.\n- SA:V = 24:8 = **3:1**.\n- It has less surface per unit volume than a 1 cm cube, making diffusion less effective for meeting internal demand.",
       "specification": "MS5c;4.1.3.1",
       "evidence": "Additional specification-based practice",
-      "number": 33
+      "number": 34
     },
     {
       "marks": 4,
@@ -272,7 +272,7 @@
       "answer": "- Mean = 30/10 = **3 per quadrat**.\n- Density = 3/0.25 = **12 plants m⁻²**.\n- Estimated population = 12 ×150 = **1800**.\n- Patchy distribution or biased/limited sampling may make the estimate unrepresentative.",
       "specification": "MS2d;RPA9",
       "evidence": "Additional specification-based practice",
-      "number": 34
+      "number": 35
     },
     {
       "marks": 4,
@@ -280,7 +280,7 @@
       "answer": "- Draw a **tangent at the specified point**.\n- Use two well-separated points on that tangent to form a large triangle.\n- Calculate change in y divided by change in x using actual axis scales.\n- State units/sign meaning; a chord across the curve gives an average rather than instantaneous rate.",
       "specification": "MS4d;WS3.3",
       "evidence": "Additional specification-based practice",
-      "number": 35
+      "number": 36
     },
     {
       "marks": 4,
@@ -288,7 +288,7 @@
       "answer": "- Zone radius = 5 mm; total area = **25π mm²**.\n- Disc radius = 2 mm; disc area = **4π mm²**.\n- Clear area = (25−4)π = **21π mm²**.\n- ≈ **66.0 mm²**, to three significant figures.",
       "specification": "MS5c;RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 36
+      "number": 37
     },
     {
       "marks": 4,
@@ -296,7 +296,7 @@
       "answer": "- Both affected = 1/4 ×1/4 = **1/16**.\n- First affected, second unaffected = 1/4 ×3/4 = **3/16**.\n- First unaffected, second affected also **3/16**.\n- Exactly one = 3/16+3/16 = **6/16 = 3/8**.",
       "specification": "MS2e",
       "evidence": "Additional specification-based practice",
-      "number": 37
+      "number": 38
     },
     {
       "marks": 4,
@@ -304,7 +304,8 @@
       "answer": "- Total change is the **area under the rate–time graph**.\n- Region is a triangle: ½ ×base ×height.\n- ½ ×4 ×6 = **12**.\n- Units min ×cm³ min⁻¹ give **12 cm³**.",
       "specification": "WS3.3;MS5c",
       "evidence": "Additional specification-based practice",
-      "number": 38
+      "number": 39
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }

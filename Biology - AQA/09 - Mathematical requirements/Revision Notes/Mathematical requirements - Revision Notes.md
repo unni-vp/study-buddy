@@ -48,7 +48,15 @@ For a negative tissue mass change, keep the sign: 2.5 g to 2.0 g gives (2.0−2.
 
 Convert units first. A 36 mm image at ×600 gives **36/600 = 0.060 mm = 60 µm**. Magnification has **no unit**, because length/length cancels.
 
-A scale bar remains useful when the entire image is resized: if a **5 µm bar measures 10 mm** and the cell measures 36 mm on the same image, cell size = **36/10 ×5 = 18 µm**. The printed bar length is not the organism’s actual length. Total microscope power is eyepiece × objective; a separately resized photograph/drawing needs its own image magnification.
+**A scale bar resizes with the image**, so it remains useful when both are enlarged or reduced together.
+
+For a scale bar representing **5 µm**, its printed length is 10 mm. A cell on the same image measures 36 mm.
+
+1. Compare image lengths: 36 ÷ 10 = **3.6 scale-bar lengths**.
+2. Multiply by the real bar length: 3.6 × 5 = **18 µm**.
+3. This is the cell's actual length. The printed bar length is not its actual biological size.
+
+**Microscope magnification** is eyepiece magnification × objective magnification. A photograph or drawing resized afterwards needs its own image magnification.
 
 ## Rates, efficiency and inverse relationships
 
@@ -64,7 +72,9 @@ For a common enzyme endpoint, **relative rate = 1/time**. A time of 25 s gives *
 
 Probability ranges from **0 to 1**. For a simple Aa × Aa cross, the four equally likely combinations are AA, Aa, Aa and aa. Probability of aa = **1/4 = 0.25 = 25%**. Probability of a carrier = **2/4 = 50%**.
 
-**Expected number = probability × number of trials.** In 80 births under the model, expected aa count = **20**. It is an average expectation, not a promise for an actual group. Each pregnancy is a new event. For independent events, multiply probabilities: two affected children in a specified pair of births have probability **1/4 ×1/4 = 1/16**.
+**Expected number = probability × number of trials.** With an affected probability of 1/4 across 80 births, the expected affected count is 80 × 1/4 = **20**. This is an average expectation, not a guaranteed result.
+
+**Each pregnancy is a new event.** For independent events, multiply probabilities. The probability that both children in a specified pair of births are affected is **1/4 × 1/4 = 1/16**.
 
 Distinguish “both”, “at least one” and “exactly one” when interpreting a prompt. Do not turn a ratio of affected to unaffected into a probability without including both groups in the total.
 
@@ -83,7 +93,14 @@ In a frequency table, use **sum(value × frequency)/sum(frequency)** for a mean 
 
 Random sampling limits selection bias, but enough representative samples are still needed. A transect with regular quadrats tests change across a gradient; it is systematic.
 
-**Population estimate = mean per quadrat × total habitat area/quadrat area.** A mean 6 in a 0.5 m² quadrat across a 200 m² habitat gives **6 ×200/0.5 = 2400**. Convert area units before scaling. Explain that patchiness, identification error and limited sample size affect confidence.
+**Population estimate = mean per quadrat × total habitat area ÷ quadrat area.**
+
+For a mean of six plants per 0.5 m² quadrat in a 200 m² habitat:
+
+1. The habitat contains 200 ÷ 0.5 = **400 quadrat-sized areas**.
+2. Estimated population = 6 × 400 = **2400 plants**.
+
+Convert area units before scaling. Confidence depends on representative sampling. Patchy distribution, mistaken species identification and a small sample can all affect the estimate.
 
 ## Choosing and reading graphs
 
