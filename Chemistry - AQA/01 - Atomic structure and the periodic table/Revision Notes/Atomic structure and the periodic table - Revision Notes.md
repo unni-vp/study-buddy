@@ -146,7 +146,12 @@ Lithium, sodium and potassium have **one outer electron** and form **+1 ions**. 
 
 - With water: **metal + water → metal hydroxide + hydrogen**. The hydroxide solution is alkaline.
 - Example: **2Na + 2H₂O → 2NaOH + H₂**.
-- Lithium fizzes and moves slowly; sodium reacts faster and can melt into a ball; potassium reacts more vigorously and may burn with a lilac flame. These are teacher demonstrations, not home experiments.
+- **Lithium:** fizzes and moves slowly.
+- **Sodium:** reacts faster and can melt into a ball.
+- **Potassium:** reacts more vigorously and may burn with a lilac flame.
+
+These are teacher demonstrations, not home experiments.
+
 - With oxygen they form oxides. For a specified simple oxide: **4Li + O₂ → 2Li₂O**.
 - With chlorine they form white **metal chlorides**. For example: **2Na + Cl₂ → 2NaCl**.
 **Why Group 1 reactivity increases down the group:** atoms have more occupied shells. The outer electron is farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction to that outer electron is weaker. It is **lost more easily**, so reactions become more vigorous.
