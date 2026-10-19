@@ -24,7 +24,14 @@ A wave is a travelling disturbance that **transfers energy without transferring 
 
 ![Wavelength spans successive crests. Amplitude is measured from the resting line to a crest.](../Diagrams/wave-measurements.svg)
 
-**v = fλ** and **T = 1/f**. Rearrange before substituting if it helps: λ = v/f and f = v/λ.
+**Wave speed: v = fλ**
+
+**Period: T = 1/f**
+
+Rearrange before substituting if it helps:
+
+- To find wavelength: **λ = v/f**.
+- To find frequency: **f = v/λ**.
 
 **Example:** water ripples have f = 8.0 Hz and λ = 2.5 cm.
 
@@ -34,7 +41,14 @@ A wave is a travelling disturbance that **transfers energy without transferring 
 
 A graph against **distance** gives wavelength. A graph against **time** gives period. Amplitude is not crest-to-trough height: that height is **twice the amplitude**.
 
-When a wave enters a new medium, its **frequency stays the same** because the source still produces the same number of vibrations each second. A change in speed therefore changes wavelength. Sound at 500 Hz has λ = 340/500 = **0.68 m** in air and λ = 1,500/500 = **3.0 m** in water, using these supplied speeds.
+When a wave enters a new medium, its **frequency stays the same** because the source still produces the same number of vibrations each second. A change in speed therefore changes wavelength.
+
+**Example: sound at 500 Hz**
+
+Using the supplied speeds:
+
+- In air: λ = 340 ÷ 500 = **0.68 m**.
+- In water: λ = 1,500 ÷ 500 = **3.0 m**.
 
 ## Practical: measuring waves
 
@@ -53,17 +67,23 @@ When a wave enters a new medium, its **frequency stays the same** because the so
 - Use v = fλ. The stationary pattern comes from travelling waves interfering; the crests of this pattern do not travel along the string.
 - Do not let a hanging load fall. Keep water away from electrical equipment and avoid rapidly flashing lights around people with photosensitive conditions.
 
-**Speed of sound in air:** place two microphones a measured distance apart, connected to a data logger or oscilloscope. Make a sharp sound in line with them. Measure the delay between the same pulse reaching each microphone and use **v = separation/time delay**. Use a large enough separation and repeat. A 1.02 m separation with a 0.0030 s delay gives **340 m/s**. Hand-timing such a tiny delay is unsuitable.
+**Speed of sound in air:** place two microphones a measured distance apart, connected to a data logger or oscilloscope. Make a sharp sound in line with them. Measure the delay between the same pulse reaching each microphone and use **v = separation/time delay**. Use a large enough separation and repeat.
+
+A 1.02 m separation with a 0.0030 s delay gives **340 m/s**.
+
+Hand-timing such a tiny delay is unsuitable.
 
 ## Reflection, absorption and transmission
 
-At a boundary, wave energy can be **reflected**, **absorbed** or **transmitted**. Different materials and wavelengths give different proportions.
+When a wave reaches a boundary, some energy may be **reflected**, **absorbed** or **transmitted**. The proportions depend on the materials and the wavelength.
 
-- **Reflection:** wave returns into the original medium. Draw the **normal** at 90° to the surface. **Angle of incidence = angle of reflection**, both measured from the normal.
-- **Absorption:** energy transfers to the material, often increasing its thermal store. A soft surface can absorb sound and reduce echoes.
-- **Transmission:** wave passes through the material. Glass transmits much visible light, but not every wavelength equally.
-- **Specular reflection:** a smooth surface reflects parallel rays in one direction, producing a clear image.
-- **Diffuse reflection:** a rough surface has differently angled patches, scattering rays in different directions. Each patch still follows the reflection law.
+**Reflection:** the wave returns into its original medium. Draw a **normal** at 90° to the surface. The **angle of incidence equals the angle of reflection**, with both angles measured from this normal.
+
+**Absorption:** energy transfers to the material, often increasing its thermal store. Soft wall coverings can absorb sound, reducing echoes.
+
+**Transmission:** the wave passes through the material. For example, glass transmits much visible light, although it does not transmit every wavelength equally.
+
+**Smooth and rough surfaces:** a smooth surface gives **specular reflection**. Parallel rays reflect in one direction, allowing a clear image. A rough surface gives **diffuse reflection** because its small patches face different directions. Each patch still obeys the reflection law, but the reflected rays scatter in different directions.
 
 ## Refraction and the wavefront explanation
 
@@ -92,13 +112,21 @@ Use narrow rays and fine marks to reduce uncertainty. Keep your eye position con
 
 A vibrating loudspeaker creates pressure changes in air. These cause the **eardrum and other parts of the ear to vibrate**. Mechanical parts respond over a limited frequency range, so normal human hearing is approximately **20 Hz to 20 kHz**.
 
-- **Pitch:** depends on frequency. Higher f means higher pitch.
-- **Loudness:** generally increases with amplitude for the same kind of sound. It is not the same as pitch.
-- **Ultrasound:** sound above 20 kHz. It is partially reflected at boundaries between different tissues or materials.
-- **Imaging:** a transducer sends pulses and detects echoes. Their delays and strengths reveal boundaries inside a body or flaws in a material. Ultrasound is non-ionising.
-- **Echo sounding:** pulses detect underwater objects and measure water depth.
+**Pitch and loudness:** frequency determines pitch, so a higher frequency produces a higher-pitched sound. For the same kind of sound, a greater amplitude generally means a louder sound. Increasing loudness does not necessarily change pitch.
 
-**Distance to a reflecting boundary = vt/2**. The measured echo time includes the journey **there and back**. With v = 1,500 m/s and t = 0.080 s, depth = 1,500 × 0.080/2 = **60 m**.
+**Ultrasound** is sound with a frequency above **20 kHz**. Some of it reflects when it reaches a boundary between different tissues or materials.
+
+**Imaging:** a transducer sends ultrasound pulses and detects their returning echoes. The time delay tells us how far away a boundary is. Differences in echo strength also help reveal structures inside the body or flaws in a material. Ultrasound is **non-ionising**.
+
+**Echo sounding** uses the same principle to locate underwater objects and measure water depth.
+
+**Distance to a reflecting boundary = vt/2**
+
+The measured echo time includes the journey **there and back**.
+
+**Example:** v = 1,500 m/s and t = 0.080 s.
+
+Depth = 1,500 × 0.080 ÷ 2 = **60 m**.
 
 Earthquakes produce **seismic waves**:
 
@@ -119,7 +147,11 @@ From **longest wavelength / lowest frequency** to **shortest wavelength / highes
 
 Because v = fλ and vacuum speed is fixed, **higher frequency means shorter wavelength**. Our eyes detect only the visible part.
 
-**Example:** a microwave has λ = 0.15 m. f = 3.0 × 10⁸/0.15 = **2.0 × 10⁹ Hz**. Keep powers of ten and units visible in your working.
+**Example:** a microwave has λ = 0.15 m.
+
+f = 3.0 × 10⁸/0.15 = **2.0 × 10⁹ Hz**.
+
+Keep powers of ten and units visible in your working.
 
 ## Choosing electromagnetic waves
 
@@ -151,10 +183,13 @@ Medical use needs a reasoned balance: useful diagnosis or treatment against the 
 
 A lens bends light by **refraction**. Imagine guiding streams of people so they meet at one place or spread apart.
 
-- **Convex (converging):** thicker in the middle. Parallel rays meet at the **principal focus F**. **Focal length** is the lens-to-focus distance.
-- **Concave (diverging):** thinner in the middle. Parallel rays spread out as though they came from the focus on the incident side.
-- **Real image:** rays actually meet. It can be formed on a screen.
-- **Virtual image:** rays only appear to come from a point when traced backwards. It cannot be caught on a screen.
+**Convex, or converging, lens:** this is thicker in the middle. Rays parallel to its principal axis meet at the **principal focus, F**. The **focal length** is the distance from the lens to that focus.
+
+**Concave, or diverging, lens:** this is thinner in the middle. Parallel rays spread out after passing through it. They appear to come from the focus on the side where the light entered.
+
+**Real image:** light rays actually meet at the image. It can be formed on a screen.
+
+**Virtual image:** the rays do not actually meet. Their backward extensions meet at a point from which the light appears to come. This image cannot be formed on a screen.
 
 **Convex lens: drawing the image**
 
@@ -175,7 +210,13 @@ A lens bends light by **refraction**. Imagine guiding streams of people so they 
 
 **Concave lens:** draw the parallel ray diverging as if from the near focus, then a straight centre ray. Their backward extensions meet on the object's side. For a real object, the image is **virtual, upright and smaller**.
 
-**Magnification = image height / object height.** It has **no unit**. Use matching height units. A 24 mm image of an 8 mm object has magnification **3**. Magnification less than 1 means reduced size. Ray diagrams show inversion separately.
+**Magnification = image height / object height.**
+
+It has **no unit**. Use matching height units.
+
+A 24 mm image of an 8 mm object has magnification **3**.
+
+Magnification less than 1 means reduced size. Ray diagrams show inversion separately.
 
 ## Colour and filters
 

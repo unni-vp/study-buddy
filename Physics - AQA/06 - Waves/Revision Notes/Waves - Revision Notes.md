@@ -23,7 +23,14 @@ A wave is a travelling disturbance that **transfers energy without transferring 
 
 ![Wavelength spans successive crests. Amplitude is measured from the resting line to a crest.](../Diagrams/wave-measurements.svg)
 
-**v = fλ** and **T = 1/f**. Rearrange before substituting if it helps: λ = v/f and f = v/λ.
+**Wave speed: v = fλ**
+
+**Period: T = 1/f**
+
+Rearrange before substituting if it helps:
+
+- To find wavelength: **λ = v/f**.
+- To find frequency: **f = v/λ**.
 
 **Example:** water ripples have f = 8.0 Hz and λ = 2.5 cm.
 
@@ -33,7 +40,14 @@ A wave is a travelling disturbance that **transfers energy without transferring 
 
 A graph against **distance** gives wavelength. A graph against **time** gives period. Amplitude is not crest-to-trough height: that height is **twice the amplitude**.
 
-When a wave enters a new medium, its **frequency stays the same** because the source still produces the same number of vibrations each second. A change in speed therefore changes wavelength. Sound at 500 Hz has λ = 340/500 = **0.68 m** in air and λ = 1,500/500 = **3.0 m** in water, using these supplied speeds.
+When a wave enters a new medium, its **frequency stays the same** because the source still produces the same number of vibrations each second. A change in speed therefore changes wavelength.
+
+**Example: sound at 500 Hz**
+
+Using the supplied speeds:
+
+- In air: λ = 340 ÷ 500 = **0.68 m**.
+- In water: λ = 1,500 ÷ 500 = **3.0 m**.
 
 ## Practical: measuring waves
 
@@ -52,7 +66,11 @@ When a wave enters a new medium, its **frequency stays the same** because the so
 - Use v = fλ. The stationary pattern comes from travelling waves interfering; the crests of this pattern do not travel along the string.
 - Do not let a hanging load fall. Keep water away from electrical equipment and avoid rapidly flashing lights around people with photosensitive conditions.
 
-**Speed of sound in air:** place two microphones a measured distance apart, connected to a data logger or oscilloscope. Make a sharp sound in line with them. Measure the delay between the same pulse reaching each microphone and use **v = separation/time delay**. Use a large enough separation and repeat. A 1.02 m separation with a 0.0030 s delay gives **340 m/s**. Hand-timing such a tiny delay is unsuitable.
+**Speed of sound in air:** place two microphones a measured distance apart, connected to a data logger or oscilloscope. Make a sharp sound in line with them. Measure the delay between the same pulse reaching each microphone and use **v = separation/time delay**. Use a large enough separation and repeat.
+
+A 1.02 m separation with a 0.0030 s delay gives **340 m/s**.
+
+Hand-timing such a tiny delay is unsuitable.
 
 ## Reflection, absorption and transmission
 
@@ -101,7 +119,13 @@ A vibrating loudspeaker creates pressure changes in air. These cause the **eardr
 
 **Echo sounding** uses the same principle to locate underwater objects and measure water depth.
 
-**Distance to a reflecting boundary = vt/2**. The measured echo time includes the journey **there and back**. With v = 1,500 m/s and t = 0.080 s, depth = 1,500 × 0.080/2 = **60 m**.
+**Distance to a reflecting boundary = vt/2**
+
+The measured echo time includes the journey **there and back**.
+
+**Example:** v = 1,500 m/s and t = 0.080 s.
+
+Depth = 1,500 × 0.080 ÷ 2 = **60 m**.
 
 Earthquakes produce **seismic waves**:
 
@@ -122,7 +146,11 @@ From **longest wavelength / lowest frequency** to **shortest wavelength / highes
 
 Because v = fλ and vacuum speed is fixed, **higher frequency means shorter wavelength**. Our eyes detect only the visible part.
 
-**Example:** a microwave has λ = 0.15 m. f = 3.0 × 10⁸/0.15 = **2.0 × 10⁹ Hz**. Keep powers of ten and units visible in your working.
+**Example:** a microwave has λ = 0.15 m.
+
+f = 3.0 × 10⁸/0.15 = **2.0 × 10⁹ Hz**.
+
+Keep powers of ten and units visible in your working.
 
 ## Choosing electromagnetic waves
 
@@ -181,7 +209,13 @@ A lens bends light by **refraction**. Imagine guiding streams of people so they 
 
 **Concave lens:** draw the parallel ray diverging as if from the near focus, then a straight centre ray. Their backward extensions meet on the object's side. For a real object, the image is **virtual, upright and smaller**.
 
-**Magnification = image height / object height.** It has **no unit**. Use matching height units. A 24 mm image of an 8 mm object has magnification **3**. Magnification less than 1 means reduced size. Ray diagrams show inversion separately.
+**Magnification = image height / object height.**
+
+It has **no unit**. Use matching height units.
+
+A 24 mm image of an 8 mm object has magnification **3**.
+
+Magnification less than 1 means reduced size. Ray diagrams show inversion separately.
 
 ## Colour and filters
 
