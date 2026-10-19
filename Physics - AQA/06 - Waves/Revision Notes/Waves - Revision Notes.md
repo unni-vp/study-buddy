@@ -56,13 +56,15 @@ When a wave enters a new medium, its **frequency stays the same** because the so
 
 ## Reflection, absorption and transmission
 
-At a boundary, wave energy can be **reflected**, **absorbed** or **transmitted**. Different materials and wavelengths give different proportions.
+When a wave reaches a boundary, some energy may be **reflected**, **absorbed** or **transmitted**. The proportions depend on the materials and the wavelength.
 
-- **Reflection:** wave returns into the original medium. Draw the **normal** at 90° to the surface. **Angle of incidence = angle of reflection**, both measured from the normal.
-- **Absorption:** energy transfers to the material, often increasing its thermal store. A soft surface can absorb sound and reduce echoes.
-- **Transmission:** wave passes through the material. Glass transmits much visible light, but not every wavelength equally.
-- **Specular reflection:** a smooth surface reflects parallel rays in one direction, producing a clear image.
-- **Diffuse reflection:** a rough surface has differently angled patches, scattering rays in different directions. Each patch still follows the reflection law.
+**Reflection:** the wave returns into its original medium. Draw a **normal** at 90° to the surface. The **angle of incidence equals the angle of reflection**, with both angles measured from this normal.
+
+**Absorption:** energy transfers to the material, often increasing its thermal store. Soft wall coverings can absorb sound, reducing echoes.
+
+**Transmission:** the wave passes through the material. For example, glass transmits much visible light, although it does not transmit every wavelength equally.
+
+**Smooth and rough surfaces:** a smooth surface gives **specular reflection**. Parallel rays reflect in one direction, allowing a clear image. A rough surface gives **diffuse reflection** because its small patches face different directions. Each patch still obeys the reflection law, but the reflected rays scatter in different directions.
 
 ## Refraction and the wavefront explanation
 
@@ -91,11 +93,13 @@ Use narrow rays and fine marks to reduce uncertainty. Keep your eye position con
 
 A vibrating loudspeaker creates pressure changes in air. These cause the **eardrum and other parts of the ear to vibrate**. Mechanical parts respond over a limited frequency range, so normal human hearing is approximately **20 Hz to 20 kHz**.
 
-- **Pitch:** depends on frequency. Higher f means higher pitch.
-- **Loudness:** generally increases with amplitude for the same kind of sound. It is not the same as pitch.
-- **Ultrasound:** sound above 20 kHz. It is partially reflected at boundaries between different tissues or materials.
-- **Imaging:** a transducer sends pulses and detects echoes. Their delays and strengths reveal boundaries inside a body or flaws in a material. Ultrasound is non-ionising.
-- **Echo sounding:** pulses detect underwater objects and measure water depth.
+**Pitch and loudness:** frequency determines pitch, so a higher frequency produces a higher-pitched sound. For the same kind of sound, a greater amplitude generally means a louder sound. Increasing loudness does not necessarily change pitch.
+
+**Ultrasound** is sound with a frequency above **20 kHz**. Some of it reflects when it reaches a boundary between different tissues or materials.
+
+**Imaging:** a transducer sends ultrasound pulses and detects their returning echoes. The time delay tells us how far away a boundary is. Differences in echo strength also help reveal structures inside the body or flaws in a material. Ultrasound is **non-ionising**.
+
+**Echo sounding** uses the same principle to locate underwater objects and measure water depth.
 
 **Distance to a reflecting boundary = vt/2**. The measured echo time includes the journey **there and back**. With v = 1,500 m/s and t = 0.080 s, depth = 1,500 × 0.080/2 = **60 m**.
 
@@ -150,10 +154,13 @@ Medical use needs a reasoned balance: useful diagnosis or treatment against the 
 
 A lens bends light by **refraction**. Imagine guiding streams of people so they meet at one place or spread apart.
 
-- **Convex (converging):** thicker in the middle. Parallel rays meet at the **principal focus F**. **Focal length** is the lens-to-focus distance.
-- **Concave (diverging):** thinner in the middle. Parallel rays spread out as though they came from the focus on the incident side.
-- **Real image:** rays actually meet. It can be formed on a screen.
-- **Virtual image:** rays only appear to come from a point when traced backwards. It cannot be caught on a screen.
+**Convex, or converging, lens:** this is thicker in the middle. Rays parallel to its principal axis meet at the **principal focus, F**. The **focal length** is the distance from the lens to that focus.
+
+**Concave, or diverging, lens:** this is thinner in the middle. Parallel rays spread out after passing through it. They appear to come from the focus on the side where the light entered.
+
+**Real image:** light rays actually meet at the image. It can be formed on a screen.
+
+**Virtual image:** the rays do not actually meet. Their backward extensions meet at a point from which the light appears to come. This image cannot be formed on a screen.
 
 **Convex lens: drawing the image**
 

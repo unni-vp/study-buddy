@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Developed reflection/refraction terms and ultrasound into short connected explanations.",
+    "Separated lens type from image type so the vocabulary is easier to compare.",
+    "Kept all wave calculations, spectrum uses, practical methods, tables and explanatory diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 45,
+  "mark_groups": {
+    "1": 10,
+    "2": 16,
+    "3": 10,
+    "4": 5,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Existing 42 items include recall, calculations, practical investigations, evaluations, ray-diagram reasoning and six-mark linked explanations.",
+    "Added multiple choice, explicit ray construction and five-mark measurement/conversion/proportional-reasoning practice.",
+    "Kept higher-tier ultrasound, seismic and wavefront content; no Snell-law requirement added."
+  ],
+  "additional_practice": [
+    {
+      "number": 10,
+      "marks": 1,
+      "prompt": "Which pair of changes occurs when light enters glass from air and slows down? Choose one: A frequency falls and wavelength stays constant; B frequency stays constant and wavelength falls; C both increase; D both stay constant.",
+      "answer": "B: frequency stays constant and wavelength falls."
+    },
+    {
+      "number": 41,
+      "marks": 4,
+      "prompt": "Draw a ray diagram for an object at twice the focal length of a convex lens. Use it to state the image's position, orientation and size.",
+      "answer": "Draw the lens, principal axis and **F and 2F on both sides**. Place the object at 2F. From its tip, draw a ray parallel to the axis that refracts through the far focus, and a ray through the optical centre that continues straight. They meet at **2F on the other side**, forming a **real, inverted image of equal size**.\n\n![Convex-lens rays meet at an inverted equal-size image when the object is at twice the focal length.](../Diagrams/convex-image.svg)"
+    },
+    {
+      "number": 42,
+      "marks": 5,
+      "prompt": "A ripple-tank experiment produces 30 complete waves in 5.0 s. Six consecutive crests span 20 cm. Calculate the frequency, wavelength and wave speed. The source frequency is then doubled without changing the water depth. Predict the new wavelength, assuming wave speed stays constant.",
+      "answer": "- Frequency = number ÷ time = 30 ÷ 5.0 = **6.0 Hz**.\n- Six consecutive crests enclose **five wavelengths**, so wavelength = 20 ÷ 5 = **4.0 cm = 0.040 m**.\n- Wave speed: **v = fλ** = 6.0 × 0.040 = **0.24 m/s**.\n- The new frequency is **12 Hz**. At constant speed, **λ = v/f** = 0.24 ÷ 12 = **0.020 m**, or **2.0 cm**.\n- Doubling frequency therefore **halves wavelength** in these conditions."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf section4.6",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-QP-JUN23.PDF",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-MS-JUN23.PDF"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
