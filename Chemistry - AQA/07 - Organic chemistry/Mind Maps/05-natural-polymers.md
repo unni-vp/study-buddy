@@ -36,7 +36,9 @@ Both use glucose monomers.
 
 Different arrangements give different structures.
 
-Starch stores energy; cellulose supports plant walls.
+Starch stores energy
+
+cellulose supports plant walls.
 
 Do not infer identical properties from shared monomer.
 

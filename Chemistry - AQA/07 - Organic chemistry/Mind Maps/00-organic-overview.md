@@ -26,13 +26,17 @@ C=C, unsaturated, CₙH₂ₙ.
 
 Ethene, propene, butene, pentene.
 
-Hydrogen, steam or halogen adds across C=C.
+Hydrogen
+
+steam or halogen adds across C=C.
 
 Bromine water: orange to colourless.
 
 ## Alcohols and acids
 
-Alcohol –OH; fermentation makes ethanol.
+Alcohol –OH
+
+fermentation makes ethanol.
 
 Carboxylic acid –COOH, partial ionisation.
 

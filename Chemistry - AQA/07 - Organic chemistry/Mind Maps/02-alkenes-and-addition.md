@@ -16,7 +16,9 @@ Show every atom and bond.
 
 C=C counts as two bonds.
 
-Ethene CH₂=CH₂, propene CH₂=CHCH₃.
+Ethene CH₂=CH₂
+
+propene CH₂=CHCH₃.
 
 Retain the rest of any longer chain.
 

@@ -6,7 +6,9 @@
 
 Methanol, ethanol, propanol, butanol.
 
-Uses: fuels/solvents; ethanol in drinks.
+Uses: fuels/solvents
+
+ethanol in drinks.
 
 Methanol is toxic, not drinkable.
 
