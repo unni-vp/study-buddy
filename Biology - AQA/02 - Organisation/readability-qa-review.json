@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Expanded enzyme action, temperature and pH effects into linked explanations.",
+    "Separated health interactions, lifestyle risk and cancer into short readable paragraphs.",
+    "Kept all digestive, circulatory and plant tables, practicals, numerical examples and diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 38,
+  "mark_groups": {
+    "1": 8,
+    "2": 9,
+    "3": 8,
+    "4": 6,
+    "5": 1,
+    "6": 6
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark bank covers biological explanations, comparisons, food tests, enzyme and potometer practicals, disease evidence and calculations.",
+    "Added multiple choice and five-mark practical-data rate/percentage/mechanism application."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "Which blood vessel carries blood away from the heart to the lungs? Choose one: A pulmonary vein; B vena cava; C pulmonary artery; D coronary vein.",
+      "answer": "C: pulmonary artery."
+    },
+    {
+      "number": 32,
+      "marks": 5,
+      "prompt": "A potometer is used with the same leafy shoot at two wind speeds. In still air its bubble moves 12 mm in 3.0 minutes. With a fan it moves 30 mm in 3.0 minutes. Calculate both movement rates and the percentage increase. Explain how moving air can increase transpiration when other conditions are kept the same.",
+      "answer": "- Still-air movement rate = 12 ÷ 3.0 = **4.0 mm/min**.\n- Fan movement rate = 30 ÷ 3.0 = **10 mm/min**.\n- Percentage increase = (10 − 4.0) ÷ 4.0 × 100 = **150%**.\n- Moving air removes water vapour from around the leaf, maintaining a **steeper water-vapour concentration gradient**.\n- Water vapour therefore diffuses out through stomata faster, increasing transpiration and usually water uptake. Bubble movement measures **water uptake**, which is a proxy for water loss rather than an exact direct measurement."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.2",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf Q02.8 andQ04.2",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

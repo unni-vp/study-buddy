@@ -26,11 +26,13 @@ A body is like a team: small units work together on larger jobs.
 
 An enzyme is like a reusable tool shaped for one job. Its **active site** fits a particular substrate.
 
-- Enzymes are **protein biological catalysts**. They speed up reactions without being used up.
-- The substrate binds to the active site, products form and leave, and the enzyme can be reused. This is the simplified **lock-and-key model**.
-- At low temperature, molecules have less kinetic energy: fewer successful collisions. Warming increases rate up to an optimum.
-- Excess heat changes the active-site shape: the enzyme is **denatured**, so the substrate no longer fits. Cold usually slows enzymes rather than denaturing them.
-- Each enzyme has an optimum pH. A pH too far from this can alter the active site and reduce activity.
+**Enzymes are proteins that act as biological catalysts.** They speed up reactions without being used up.
+
+**How the active site works:** a suitable substrate binds to the active site. Products form and leave, allowing the enzyme to be reused. This is the simplified **lock-and-key model**.
+
+**Temperature:** at low temperature, molecules have less kinetic energy and successful collisions happen less often. Warming increases the rate up to an **optimum**. Excessive heat changes the active site's shape, so the substrate no longer fits. The enzyme is **denatured**. Cold usually slows an enzyme rather than denaturing it.
+
+**pH:** each enzyme has an optimum pH. A pH too far from this can change the active site and reduce activity.
 
 ![A substrate fits a complementary enzyme active site; after the reaction the products leave and the enzyme is unchanged](../Diagrams/enzyme-action.svg)
 
@@ -145,11 +147,15 @@ A leaking valve permits backflow; a valve that fails to open fully restricts flo
 
 **Health** means physical and mental well-being. Diet, stress and life circumstances affect it, as can communicable and non-communicable disease.
 
-- Diseases interact: immune-system defects increase infection risk; some viruses trigger cancers; infection can trigger immune reactions such as allergies; severe physical illness can contribute to depression.
-- A **risk factor** increases the chance of disease; it does not guarantee disease. Smoking, poor diet and inactivity increase cardiovascular risk. Obesity increases Type 2 diabetes risk.
-- Smoking damages lungs and raises lung-cancer risk. Alcohol can damage the liver and brain. Smoking and alcohol during pregnancy can harm fetal development.
-- Ionising radiation and other **carcinogens** can cause mutations. Inherited genetic factors can also affect cancer risk.
-- **Cancer** involves changes in cells leading to uncontrolled growth and division. **Benign** tumours stay local; **malignant** tumours invade tissues, and cells can spread in blood to form secondary tumours.
+**Diseases can interact.** Immune-system defects increase the risk of infection. Some viruses can trigger cancers, and infections can trigger immune reactions such as allergies. Severe physical illness can also contribute to depression.
+
+**Risk factors increase probability, not certainty.** Smoking, poor diet and inactivity raise cardiovascular risk. Obesity raises the risk of Type 2 diabetes.
+
+**Smoking and alcohol:** smoking damages the lungs and increases lung-cancer risk. Alcohol can damage the liver and brain. Both can harm fetal development when used during pregnancy.
+
+**Cancer risk:** ionising radiation and other **carcinogens** can cause mutations. Inherited genetic factors can also increase risk.
+
+**Cancer** results from changes in cells that lead to uncontrolled growth and division. **Benign tumours** remain in one area. **Malignant tumours** invade neighbouring tissues, and cells can spread in the blood to form **secondary tumours**.
 
 ### Evaluating disease data
 
