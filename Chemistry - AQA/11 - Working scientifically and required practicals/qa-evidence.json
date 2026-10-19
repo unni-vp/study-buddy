@@ -72,7 +72,7 @@
       "answer": "- A control variable is a factor kept consistent across trials.\n- A control experiment is a comparison used to check the cause of an effect.",
       "specification": "WS2.2",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -80,7 +80,7 @@
       "answer": "- Repeats reveal scatter and possible anomalies.\n- A mean reduces the influence of **random variation**, but does not fix a consistent bias.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -88,7 +88,7 @@
       "answer": "- Accuracy is closeness to the true value.\n- Precision means repeated results cluster closely; they may still all be biased.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -96,7 +96,7 @@
       "answer": "- Check for a procedural or measurement problem and repeat if possible.\n- Exclude only with a **justified reason**, since a real difference can also be unusual.",
       "specification": "WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -104,7 +104,7 @@
       "answer": "- It ensures the acid is used up.\n- Unreacted insoluble oxide can be removed by **filtration**.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -112,7 +112,7 @@
       "answer": "- Cooling reduces solubility and allows crystals to form.\n- Strong heating to dryness can cause decomposition or unwanted damage/impurities.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 2,
@@ -120,7 +120,7 @@
       "answer": "- Titre = final−initial = 21.45−1.20.\n- **20.25 cm³**.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 2,
@@ -128,7 +128,7 @@
       "answer": "- It reduces the chance of overshooting the colour-change endpoint.\n- The reacting volume can be measured more accurately.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 2,
@@ -136,7 +136,7 @@
       "answer": "- It changes alkali concentration but not the **moles initially pipetted**.\n- The same stoichiometric acid amount is therefore still required.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 2,
@@ -144,7 +144,7 @@
       "answer": "- Residual water could dilute that solution.\n- This would create a systematic concentration error in the titration.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 2,
@@ -152,7 +152,7 @@
       "answer": "- Cathode: **copper**.\n- Anode: **oxygen**.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 2,
@@ -160,7 +160,7 @@
       "answer": "- **Ions** move through the liquid electrolyte.\n- **Electrons** move through the external wires.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 2,
@@ -168,7 +168,7 @@
       "answer": "- They reduce energy exchange with the surrounding room.\n- Measured ΔT then better reflects the reaction’s energy transfer.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 2,
@@ -176,7 +176,7 @@
       "answer": "- Starting temperatures may differ.\n- Subtracting each initial value gives the actual rise/fall for that trial.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 2,
@@ -184,7 +184,7 @@
       "answer": "- Some formed gas escapes instead of entering the collector.\n- Recorded volume/rate is therefore underestimated.",
       "specification": "RPA5",
       "evidence": "2023 2H Q01.1: related loss mechanism",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 2,
@@ -192,7 +192,7 @@
       "answer": "- It keeps solution depth comparable in the same flask.\n- Different depths could hide the cross at different amounts of sulfur, changing endpoint time.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 2,
@@ -200,7 +200,7 @@
       "answer": "- Both numerator and denominator must describe travel from the same starting position.\n- Measuring one from the paper edge would give a false Rf ratio.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 2,
@@ -208,7 +208,7 @@
       "answer": "- Earlier reagents could introduce interfering ions or products.\n- Separate portions reduce contamination and false identification.",
       "specification": "RPA7",
       "evidence": "Additional specification-based practice",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 2,
@@ -216,7 +216,7 @@
       "answer": "- Acid removes interfering carbonate.\n- Nitric acid avoids introducing chloride, which HCl would add.",
       "specification": "RPA7",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 2,
@@ -224,7 +224,7 @@
       "answer": "- Hot apparatus can give unstable/inaccurate balance readings and damage equipment.\n- Comparable cooled readings give a more reliable residue mass.",
       "specification": "RPA8",
       "evidence": "Additional specification-based practice",
-      "number": 28
+      "number": 29
     },
     {
       "marks": 2,
@@ -232,7 +232,7 @@
       "answer": "- Vapour must be able to pass and condense without sealing the whole system.\n- A sealed receiver can create unsafe pressure buildup.",
       "specification": "RPA8",
       "evidence": "Additional specification-based practice",
-      "number": 29
+      "number": 30
     },
     {
       "marks": 3,
@@ -240,7 +240,7 @@
       "answer": "- Filter/separate the crystals from remaining solution.\n- Wash with a little **cold distilled water** to remove surface solution while limiting dissolution.\n- Dry between filter papers or by a suitable gentle method.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 30
+      "number": 31
     },
     {
       "marks": 3,
@@ -248,7 +248,7 @@
       "answer": "- HCl moles = 0.100 ×0.0200 = **0.00200 mol**.\n- HCl:NaOH ratio is 1:1, so alkali moles = 0.00200.\n- Concentration = 0.00200/0.0250 = **0.0800 mol dm⁻³**.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 31
+      "number": 32
     },
     {
       "marks": 3,
@@ -256,7 +256,7 @@
       "answer": "- Mr = 23+16+1 = **40**.\n- Mass concentration = molar concentration ×Mr.\n- 0.0800 ×40 = **3.20 g dm⁻³**.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 32
+      "number": 33
     },
     {
       "marks": 3,
@@ -264,7 +264,7 @@
       "answer": "- Less reactant may become limiting, so less reaction occurs.\n- Less energy is transferred to the solution.\n- For the same total mass and heat capacity, the temperature rise is smaller.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 33
+      "number": 34
     },
     {
       "marks": 3,
@@ -272,7 +272,7 @@
       "answer": "- Volume rise = **24 cm³**.\n- Time interval = **40 s**.\n- Rate = 24/40 = **0.60 cm³ s⁻¹**.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 34
+      "number": 35
     },
     {
       "marks": 3,
@@ -280,7 +280,7 @@
       "answer": "- 1/60 ≈ **0.0167 s⁻¹**.\n- 1/30 ≈ **0.0333 s⁻¹**.\n- The second rate proxy is **twice** the first for the same endpoint.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 35
+      "number": 36
     },
     {
       "marks": 3,
@@ -288,7 +288,7 @@
       "answer": "- Rf = 24/40 = **0.60**.\n- It has **no unit**.\n- Compare references using the **same solvent and stationary phase/conditions**.",
       "specification": "RPA6",
       "evidence": "Additional specification-based practice",
-      "number": 36
+      "number": 37
     },
     {
       "marks": 3,
@@ -296,7 +296,7 @@
       "answer": "- Volume = **0.100 dm³**.\n- Concentration = 0.20/0.100 = **2.0 g dm⁻³**.\n- The result alone does not identify harmful chemicals or microbes, so it cannot prove potable quality.",
       "specification": "RPA8",
       "evidence": "Additional specification-based practice",
-      "number": 37
+      "number": 38
     },
     {
       "marks": 3,
@@ -304,7 +304,7 @@
       "answer": "- Reviewers check methods, analysis and whether conclusions follow evidence.\n- Independent investigators test whether similar results occur.\n- Agreement increases confidence, while errors or limitations can still remain.",
       "specification": "WS1.6;WS3.7",
       "evidence": "Additional specification-based practice",
-      "number": 38
+      "number": 39
     },
     {
       "marks": 4,
@@ -312,7 +312,7 @@
       "answer": "- Use measured equal solution volumes/concentrations at comparable starting temperatures in insulated cups.\n- Add a range of known metal masses with controlled piece size and mixing.\n- Record temperatures consistently to find each maximum/change, and repeat.\n- Compare ΔT, considering limiting reagent, heat loss and total solution mass; handle chemicals safely.",
       "specification": "RPA4",
       "evidence": "Additional specification-based practice",
-      "number": 39
+      "number": 40
     },
     {
       "marks": 4,
@@ -320,7 +320,7 @@
       "answer": "- Temperature, solid surface area or volume may also change between trials.\n- Each can affect collisions or the measured endpoint.\n- Keep these consistent while changing only concentration and repeat.\n- Then rate differences are better attributed to concentration, with uncertainty still considered.",
       "specification": "WS2.2;WS3.6;RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 40
+      "number": 41
     },
     {
       "marks": 4,
@@ -328,7 +328,7 @@
       "answer": "- Place the solution in a suitable vessel and separate inert electrodes.\n- Connect to low-voltage DC with named cathode− and anode+.\n- Observe/collect small product samples and use suitable gas/metal tests.\n- Keep conditions controlled, avoid short circuits and use ventilation/eye protection without inhaling gases.",
       "specification": "RPA3",
       "evidence": "Additional specification-based practice",
-      "number": 41
+      "number": 42
     },
     {
       "marks": 6,
@@ -336,7 +336,7 @@
       "answer": "- Warm dilute sulfuric acid and add copper oxide in small portions with stirring.\n- Continue until some insoluble oxide remains, showing acid exhaustion.\n- Filter excess oxide, retaining copper-sulfate filtrate.\n- Evaporate some water gently to concentrate, then cool for crystals.\n- Separate crystals, wash with a little cold distilled water and dry appropriately.\n- Use eye protection and safe heating/acid handling, avoiding evaporation to complete dryness.",
       "specification": "RPA1",
       "evidence": "Additional specification-based practice",
-      "number": 42
+      "number": 44
     },
     {
       "marks": 6,
@@ -344,7 +344,7 @@
       "answer": "- Use a rinsed pipette/filler to transfer a known alkali volume into a flask, adding suitable indicator.\n- Fill/rinse the burette with acid, fill the tip, remove funnel and read the initial meniscus at eye level.\n- Add acid while swirling, then dropwise near the endpoint over a white tile.\n- Record titre from final−initial; repeat beyond a rough run to obtain concordant readings.\n- Use known alkali concentration/volume, equation mole ratio and acid volume in dm³ to calculate concentration.\n- Average appropriate concordant readings, evaluate overshoot/dilution errors and handle corrosive solutions safely.",
       "specification": "RPA2",
       "evidence": "Additional specification-based practice",
-      "number": 43
+      "number": 45
     },
     {
       "marks": 6,
@@ -352,7 +352,7 @@
       "answer": "- For gas collection, use known acid concentrations with the same solid mass/surface area, total volume and temperature.\n- Seal promptly and record gas volume over time, checking leaks and free syringe movement.\n- For turbidity, dilute thiosulfate at fixed total volume, add the same acid and time a common disappearing-cross endpoint.\n- Keep depth, viewing conditions and temperature consistent; calculate 1/time for comparable endpoints.\n- Repeat each condition, compare means/curves and relate trends to successful collision frequency.\n- Use appropriate acid/gas precautions, ventilation and specific limitations for each method.",
       "specification": "RPA5",
       "evidence": "Additional specification-based practice",
-      "number": 44
+      "number": 46
     },
     {
       "marks": 6,
@@ -360,7 +360,8 @@
       "answer": "- Collect labelled representative samples and measure pH consistently with indicator/calibrated probe.\n- Evaporate known equal volumes in weighed basins, cool and weigh residue to consistent mass.\n- Subtract empty-basin mass and compare concentrations in matching units.\n- Distil another portion through a cooled condenser into an open receiver.\n- Compare original/distilled samples, considering balance resolution, contamination and substances not identified by these measurements.\n- Use safe heating/eye protection, avoid distilling dry and never infer safe drinking or taste samples solely from appearance/pH.",
       "specification": "RPA8",
       "evidence": "Additional specification-based practice",
-      "number": 45
+      "number": 47
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }

@@ -27,7 +27,11 @@ Choose equipment appropriate to the quantity and required resolution: balance fo
 | Random error | Unpredictable scatter | Repeat and calculate a mean |
 | Systematic error | Consistent bias or offset | Find the cause and recalibrate/correct it |
 
-Repeating a balance that always reads 0.2 g too high does not remove its bias. Check an **anomalous result** and repeat the measurement; only exclude it with a justified reason, not because it spoils a preferred pattern. Report variation, for example the range. Instrument resolution and the spread of repeats both matter to **uncertainty**.
+**Systematic bias:** if a balance always reads 0.2 g too high, taking more readings does not remove that offset. Check and correct its zero or calibration.
+
+**Anomalies:** investigate an unexpected result and repeat the measurement. Exclude it only with a justified reason, such as a recorded measurement failure.
+
+**Uncertainty:** report how much the readings vary, for example using their range. Consider the instrument's resolution as well as the spread of repeated readings.
 
 
 
@@ -35,7 +39,9 @@ Repeating a balance that always reads 0.2 g too high does not remove its bias. C
 
 Use bars for categories and scatter/line graphs for numerical variables. Label axes with quantities and units, use sensible scales and draw a suitable best-fit line/curve rather than forcing it through every point. A histogram represents numerical intervals using touching bars; interpret the frequency and class widths supplied.
 
-Describe a pattern using values, then explain the biology. **Correlation does not prove causation**: another factor may influence both variables. Relate the conclusion to the hypothesis and uncertainty. Overlapping ranges can weaken an apparent difference, but do not automatically prove no effect.
+**Describe the evidence first:** quote relevant measurements and units, then explain the chemical process that could produce the pattern.
+
+**Correlation does not prove causation.** Another factor may affect both variables. Relate the conclusion to the hypothesis and consider uncertainty. Overlapping ranges can weaken an apparent difference, but do not automatically prove that there is no effect.
 
 Models simplify reality: particle diagrams and reaction profiles omit some molecular detail. New evidence can change theories. **Peer review** checks methods, reasoning and evidence before publication; independent replication strengthens confidence. It reduces errors without guaranteeing perfection. News reports may simplify or omit uncertainty.
 
@@ -68,7 +74,15 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 
 Rinse the conical flask with distilled water if needed; extra water there does **not** change the initial moles of alkali, whereas water left in a burette can dilute its acid. A burette scale increases downwards. Never pipette by mouth; use eye protection for acid/alkali.
 
-**Calculation:** 25.0 cm³ NaOH requires 20.0 cm³ of 0.100 mol dm⁻³ HCl. Volume acid = 0.0200 dm³; **moles HCl = 0.100 ×0.0200 = 0.00200 mol**. The equation HCl+NaOH →NaCl+H₂O gives 1:1, so NaOH moles are 0.00200. **NaOH concentration = 0.00200/0.0250 = 0.0800 mol dm⁻³**. With Mr(NaOH)=40, mass concentration = **3.20 g dm⁻³**. Use equation coefficients if the ratio is different.
+**Worked calculation:** 25.0 cm³ of NaOH requires 20.0 cm³ of 0.100 mol/dm³ HCl.
+
+1. Convert acid volume: 20.0 ÷ 1000 = **0.0200 dm³**.
+2. Find acid moles: n = cV = 0.100 × 0.0200 = **0.00200 mol**.
+3. **HCl + NaOH → NaCl + H₂O** gives a 1 : 1 ratio, so NaOH moles = **0.00200 mol**.
+4. Divide by alkali volume: c = 0.00200 ÷ 0.0250 = **0.0800 mol/dm³**.
+5. With a molar mass of 40 g/mol, mass concentration = 0.0800 × 40 = **3.20 g/dm³**.
+
+Check the balanced equation each time. A different acid can require a different reaction ratio.
 
 ## Electrolysis of aqueous solutions
 

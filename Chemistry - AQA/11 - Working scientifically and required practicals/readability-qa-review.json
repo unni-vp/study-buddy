@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Corrected an inherited reference to explaining biology in Chemistry evidence notes.",
+    "Expanded the titration calculation into a numbered reasoning sequence.",
+    "Separated repeat variation, systematic bias and anomaly handling; retained all eight required practicals and useful apparatus diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 47,
+  "mark_groups": {
+    "1": 9,
+    "2": 21,
+    "3": 9,
+    "4": 3,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark bank covers experimental design, measurements, calculations, improvements, practical methods and conclusions.",
+    "Added multiple choice and five-mark burette uncertainty plus direction-of-error evaluation.",
+    "An explicit supplied uncertainty rule avoids presenting one convention as universal."
+  ],
+  "additional_practice": [
+    {
+      "number": 9,
+      "marks": 1,
+      "prompt": "Which action addresses a systematic balance offset? Choose one: A take more readings without changing anything; B use a mean alone; C check and correct the zero before measuring; D remove the highest reading.",
+      "answer": "C: check and correct the zero before measuring."
+    },
+    {
+      "number": 43,
+      "marks": 5,
+      "prompt": "A titration starts at 1.20 cm³ and ends at 21.20 cm³ on the burette. Each reading has uncertainty ±0.05 cm³. For this question, add the two absolute uncertainties. Calculate the titre, its absolute uncertainty and its percentage uncertainty. Explain how overshooting the endpoint affects the titre and how to reduce that error.",
+      "answer": "- Titre = 21.20 − 1.20 = **20.00 cm³**.\n- Combined absolute uncertainty = 0.05 + 0.05 = **±0.10 cm³**, using the rule given.\n- Percentage uncertainty = 0.10 ÷ 20.00 × 100 = **0.50%**.\n- Overshooting adds acid after the endpoint, making the measured titre **too large**.\n- After a rough trial, add acid **drop by drop near the endpoint while swirling**. This reduces the chance of passing the first permanent expected indicator change."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf sections3,7,8",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
