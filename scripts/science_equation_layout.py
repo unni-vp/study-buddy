@@ -8,7 +8,7 @@ _CHAINS = (
     (r'F\s*=\s*Δp/Δt\s*=\s*m\(v\s*[−-]\s*u\)/Δt', 'F = Δp/Δt; F = m(v − u)/Δt'),
     (r'1 m\s*=\s*100 cm\s*=\s*1000 mm', '1 m = 100 cm; 1 m = 1000 mm'),
 )
-_QUANTITY = r'(?:\*\*)?(?:[A-Za-zρλθΔ][A-Za-zρλθΔ₀-₉²³ₖₚₛ]*\s*(?:=|:|\bin\b)|\d+(?:\.\d+)?\s*(?:cm[²³]?|mm[²³]?|dm³|[µμn]m|kg|mg|g|m)\s*=)'
+_QUANTITY = r'(?:\*\*)?(?:[A-Za-zρλθΔ][A-Za-zρλθΔ₀-₉²³ₖₚₛ]*\s*(?:=|\bin\b)|[A-Za-zρλθΔ][₀-₉²³ₖₚₛ]*\s*:|\d+(?:\.\d+)?\s*(?:cm[²³]?|mm[²³]?|dm³|[µμn]m|kg|mg|g|m)\s*=)'
 
 def equation_lines(value):
     """Split independent relationships, retaining emphasis and calculation chains.
@@ -45,6 +45,8 @@ def format_markdown(text):
     """Use the same independent math lines in the complete text counterpart."""
     result=[]
     for line in text.splitlines():
+        if not line.strip():
+            result.append('');continue
         if line.startswith(('#','|')):
             result.append(line);continue
         bullet=line.startswith('- ')

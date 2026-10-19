@@ -7,6 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]
 
 def build(subject,number):
     folder=next((ROOT/(subject+' - AQA')).glob(f'{number:02d} - *'))
+    originals={p.name:p.read_text(encoding='utf-8-sig') for p in (folder/'Mind Maps').glob('*.md')}
     if subject=='Physics' and number<=5:
         from build_physics_maps import build as render
         render(number)
@@ -46,11 +47,14 @@ def build(subject,number):
         review=folder/'mindmap-layout-review.json';data=json.loads(review.read_text(encoding='utf-8-sig'));data['maps']=records
         review.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     for path in (folder/'Mind Maps').glob('*.md'):
-        old=path.read_text(encoding='utf-8-sig');new=format_markdown(old)
+        old=path.read_text(encoding='utf-8-sig');new=format_markdown(originals.get(path.name,old))
+        original=originals.get(path.name,old)
+        assert len(re.split(r'\n\s*\n',new.strip()))>=len(re.split(r'\n\s*\n',original.strip())), 'Paragraph breaks lost: '+str(path)
         if new!=old:path.write_text(new,encoding='utf-8')
     review=folder/'mindmap-layout-review.json'
     data=json.loads(review.read_text(encoding='utf-8-sig')) if review.exists() else {}
-    data['equation_layout_review']={'reviewed':'2026-10-19','scope':'Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.','font_policy':'Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.','verification':'All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked.'}
+    data['full_text']='Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.'
+    data['equation_layout_review']={'reviewed':'2026-10-19','scope':'Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.','font_policy':'Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.','verification':'Rebuild completed; run the SVG and reader/modal A4 checks before publishing.'}
     review.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     return folder
 
