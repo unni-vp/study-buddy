@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Made metallic bonding, conduction and alloy hardness distinct connected explanations.",
+    "Separated polymer chains from giant covalent networks and clarified model limitations.",
+    "Retained dot-and-cross diagrams, structure/property comparisons and nanoparticle calculations."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 30,
+  "mark_groups": {
+    "1": 6,
+    "2": 9,
+    "3": 8,
+    "4": 4,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Retained1–4 and6-mark structure-property explanations, calculations, comparisons and risk evaluation.",
+    "Added multiple choice, explicit dot-and-cross construction and five-mark unfamiliar-material data interpretation."
+  ],
+  "additional_practice": [
+    {
+      "number": 6,
+      "marks": 1,
+      "prompt": "What is overcome when liquid oxygen boils? Choose one: A the covalent bonds within O₂; B the intermolecular forces between O₂ molecules; C the nuclei of oxygen atoms; D metallic bonds.",
+      "answer": "B: the intermolecular forces between O₂ molecules."
+    },
+    {
+      "number": 23,
+      "marks": 3,
+      "prompt": "Draw an outer-shell dot-and-cross diagram for sodium chloride. Show the ions' charges and explain what the dots and crosses represent.",
+      "answer": "Draw **Na⁺ and Cl⁻ in separate square brackets**. Show chloride with **eight outer-shell electrons**, including one transferred from sodium. Distinguish the transferred electron using a cross rather than a dot. The symbols show which atom supplied each electron; the electrons are otherwise identical.\n\n![Bracketed sodium and chloride ions with charges and the transferred electron shown.](../Diagrams/ionic-bond.svg)"
+    },
+    {
+      "number": 28,
+      "marks": 5,
+      "prompt": "Use the table to identify which substance is most likely ionic and which consists of small molecules. Explain the melting-point and conductivity evidence for your choices.\n\n| Substance | Melting point (°C) | Conducts when solid? | Conducts when liquid? |\n|---|---|---|---|\n| A | 800 | No | Yes |\n| B | −110 | No | No |",
+      "answer": "- **A is most likely ionic.** Strong electrostatic attractions between oppositely charged ions in a giant lattice require much energy to overcome, explaining its high melting point.\n- Its ions are fixed in the solid, but **free to move and carry charge when molten**. This explains the change in conductivity.\n- **B most likely consists of small molecules.** Only weak intermolecular forces need to be overcome when it melts, so its melting point is low.\n- It lacks mobile charged particles in both states, explaining why it does not conduct. These combined observations support the choices."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.2",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

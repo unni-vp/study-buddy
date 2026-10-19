@@ -88,12 +88,15 @@ For small molecular substances, **melting or boiling overcomes intermolecular fo
 
 ## Polymers and giant structures
 
-**Polymers** are very large molecules made from repeating units. Their atoms are joined by strong covalent bonds. They have relatively strong forces **between the large molecules**, so they are usually solids at room temperature.
+**Polymers** are very large molecules made from repeating units. Strong covalent bonds hold the atoms together within each chain. The forces **between the large molecules** are relatively strong, so polymers are usually solids at room temperature.
 
-- A repeating unit in brackets with **n** outside represents a long chain; bonds through the brackets show the chain continues.
-- A polymer molecule is not the same as a giant covalent network. Individual polymer chains can be separated from other chains by overcoming intermolecular forces.
-- **Silicon dioxide** is a giant covalent network, not separate SiO₂ molecules. Strong bonds throughout the structure give it a very high melting point.
-- Dot-and-cross models show electron sharing but not realistic scale or 3D shape. Ball-and-stick models show connections and shape, but atoms are not coloured balls joined by literal sticks. A small section of a giant structure cannot show its full extent.
+In a polymer drawing, brackets enclose the **repeating unit** and **n** shows that it repeats many times. Bonds extend through the brackets to show that the chain continues.
+
+**A polymer is different from a giant covalent network.** Separate polymer chains can be pulled apart by overcoming intermolecular forces. In a giant covalent structure, atoms are joined by strong covalent bonds throughout the network.
+
+**Silicon dioxide** is a giant covalent network. Its formula, SiO₂, gives the atom ratio; it does not describe separate SiO₂ molecules. Many strong covalent bonds must be overcome when it melts, so its melting point is very high.
+
+**What models leave out:** dot-and-cross diagrams show electron sharing but not realistic scale or three-dimensional shape. Ball-and-stick models show connections and shape, but atoms are not coloured balls joined by literal sticks. A drawing of a small section cannot show the full extent of a giant structure.
 
 ## Carbon structures
 
@@ -113,10 +116,13 @@ Graphite is not held together by weak covalent bonds. The **covalent bonds withi
 
 Metal atoms form a regular giant structure. Their outer electrons are **delocalised**, meaning they are free to move through the whole structure.
 
-- **Strong electrostatic attraction** between positive ions and delocalised electrons holds the metal together.
-- Electrons carry **electrical charge** and transfer **thermal energy**, so metals conduct electricity and heat.
-- In a pure metal, regular layers can slide over one another while metallic bonding remains. This makes metals **malleable** and **ductile**.
-- An **alloy** contains a metal mixed with other elements. Different-sized atoms distort the regular layers, making them harder to slide, so alloys are usually **harder**.
+**Metallic bonding:** a strong electrostatic attraction between positive metal ions and delocalised electrons holds the structure together.
+
+**Conducting electricity and heat:** the delocalised electrons can move through the structure. They carry electrical charge and transfer thermal energy.
+
+**Changing shape:** in a pure metal, the regular layers can slide over one another while metallic bonding remains. The metal is therefore **malleable**, meaning it can be shaped, and **ductile**, meaning it can be drawn into a wire.
+
+**Alloy hardness:** an alloy contains a metal mixed with other elements. Different-sized atoms distort the regular layers, so they cannot slide as easily. This usually makes an alloy **harder** than the pure metal.
 
 Imagine stacking equal-sized marbles in neat rows, then replacing some with larger marbles: the rows no longer slide neatly. This models distortion, though real metal bonding involves charges and electrons.
 
