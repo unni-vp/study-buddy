@@ -57,9 +57,11 @@ Industrial effluent may require additional chemical removal. Wastewater treatmen
 
 **Low-grade ore** has a low metal-compound concentration. As rich copper ores become scarcer, biological methods can recover copper without excavating as much rock:
 
-- **Phytomining:** plants absorb metal compounds from soil. Harvest and burn the plants; the **ash contains metal compounds**, not automatically pure metal.
-- **Bioleaching:** bacteria help produce a **leachate containing dissolved metal compounds**.
-- Further processing obtains the metal, for example **displacement with scrap iron** or **electrolysis** of an appropriate copper solution.
+**Phytomining:** plants absorb metal compounds from the soil. The plants are harvested and burned. Their **ash contains metal compounds**, so burning does not directly produce pure metal.
+
+**Bioleaching:** bacteria help produce a **leachate**, which is a solution containing dissolved metal compounds.
+
+**Recovering the metal:** these compounds still need further processing. Copper can be obtained from a suitable solution by **displacement with scrap iron** or by **electrolysis**.
 
 **Fe + CuSO₄ → FeSO₄ + Cu**. Iron is more reactive, so it displaces copper. Electrolysis supplies electrical energy for ion reduction.
 
@@ -74,7 +76,9 @@ A **life-cycle assessment (LCA)** considers environmental impacts throughout:
 3. Use throughout the useful lifetime.
 4. Disposal, reuse or recycling.
 
-Include **transport/distribution at each stage**. Quantify energy, water, resources and waste where reliable data exist. Some pollutant effects are harder to assign numbers to, so decisions about weighting involve **value judgements**. LCA is not completely objective simply because a table contains numbers.
+Include **transport and distribution at each stage**, rather than counting only the final delivery.
+
+Use reliable data to quantify energy, water, resources and waste. Some effects, such as harm caused by a pollutant, are harder to express as one number. Deciding how much importance to give different impacts involves **value judgements**. An LCA is therefore not completely objective just because it contains numerical tables.
 
 Compare equal functions, such as carrying the same shopping load the same number of times. A paper bag may use renewable input but more processing water/energy; a plastic bag may use finite feedstock but be light or reusable. Use evidence about durability, manufacture, transport and disposal rather than declaring one material always best.
 
@@ -140,7 +144,9 @@ Polymer properties depend on **monomers and processing conditions**. LDPE and HD
 - **LDPE:** more branched chains pack less closely, giving lower density and greater flexibility.
 - **HDPE:** less-branched chains pack more closely, with stronger intermolecular attractions and greater density/rigidity.
 
-**Thermosoftening polymers** have separate chains with intermolecular attractions that can be overcome on heating, allowing movement/melting and remoulding. **Thermosetting polymers** have **covalent cross-links** between chains and do not melt on heating; strong heating can eventually decompose them.
+**Thermosoftening polymers** have separate chains held together by intermolecular attractions. Heating can overcome these attractions, allowing the chains to move past one another. The polymer melts and can be remoulded.
+
+**Thermosetting polymers** have **covalent cross-links between chains**. The links prevent the chains from moving apart on heating, so the polymer does not melt. Strong heating can eventually decompose it.
 
 ![Separate thermosoftening chains are compared with covalently cross-linked thermosetting chains.](../Diagrams/polymer-chain-links.svg)
 

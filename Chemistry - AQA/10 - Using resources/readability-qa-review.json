@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Explained biological extraction as distinct recovery stages.",
+    "Separated thermosoftening and thermosetting behaviour into clear mechanism paragraphs.",
+    "Unpacked LCA scope and value judgements while preserving materials tables, practical methods and Haber/fertiliser detail."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 56,
+  "mark_groups": {
+    "1": 13,
+    "2": 24,
+    "3": 10,
+    "4": 4,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark practice covers water treatment, practicals, material choices, corrosion, Haber compromise, LCA evaluation and fertiliser production.",
+    "Added multiple choice and five-mark quantitative reuse comparison using a supplied model and explicit limits.",
+    "No universal environmental ranking inferred from a single numerical category."
+  ],
+  "additional_practice": [
+    {
+      "number": 13,
+      "marks": 1,
+      "prompt": "Which statement about potable water is correct? Choose one: A it must contain only H₂O; B it is safe to drink but may contain dissolved salts; C clear water is always potable; D filtration removes all dissolved salts.",
+      "answer": "B: it is safe to drink but may contain dissolved salts."
+    },
+    {
+      "number": 52,
+      "marks": 5,
+      "prompt": "A reusable bottle requires 12 MJ to manufacture and 0.20 MJ to wash after each use. A single-use bottle requires 0.80 MJ for manufacture and disposal each time. Ignore transport and assume one wash per reusable-bottle use. Calculate the total energy for each option over 10 uses. Find the number of uses at which the totals become equal, and explain why this does not establish the better option in every situation.",
+      "answer": "- For 10 reusable-bottle uses: 12 + (10 × 0.20) = **14 MJ**.\n- Ten single-use bottles require 10 × 0.80 = **8.0 MJ**. The single-use option needs less energy over this short period.\n- For n uses, equality occurs when **12 + 0.20n = 0.80n**.\n- Therefore 12 = 0.60n, so **n = 20 uses**. Both then require **16 MJ**. Beyond 20 uses, reuse needs less energy under these assumptions.\n- A full LCA must also consider transport, breakage, water use, material extraction and actual reuse. This energy-only calculation does not compare every environmental impact."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.10",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
