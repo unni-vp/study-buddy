@@ -126,7 +126,16 @@ An **alloy is a mixture** containing a metal with other elements. Different-size
 | Stainless steel | Contains chromium/nickel; hard and corrosion-resistant | Cutlery or kitchen equipment |
 | Aluminium alloy | Low density with useful strength | Aircraft structures |
 
-**24 carat = pure gold. 18 carat = 18/24 = 75% gold.** A 12 g sample of 18-carat alloy contains **9 g gold**. Link property to use; “good material” is too vague.
+**Gold purity**
+
+- **24 carat:** pure gold.
+- **18 carat:** 18/24 = **75% gold**.
+
+**Example:** a 12 g sample of 18-carat alloy contains:
+
+12 × 0.75 = **9 g gold**
+
+Link a material's property to its use. “Good material” is too vague.
 
 ## Glass, ceramics and composites
 
