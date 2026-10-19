@@ -154,14 +154,14 @@
     },
     {
       "widths": [
-        342,
-        366,
-        352
+        298,
+        446,
+        316
       ],
       "column_heights": [
-        586,
+        614,
         608,
-        520
+        542
       ],
       "panels": [
         {
@@ -170,52 +170,52 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 342,
-          "height": 229
+          "width": 298,
+          "height": 257
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 259,
-          "width": 342,
+          "y": 287,
+          "width": 298,
           "height": 361
         },
         {
           "source_panels": [
             2
           ],
-          "x": 372,
+          "x": 328,
           "y": 18,
-          "width": 366,
+          "width": 446,
           "height": 251
         },
         {
           "source_panels": [
             3
           ],
-          "x": 372,
+          "x": 328,
           "y": 281,
-          "width": 366,
+          "width": 446,
           "height": 361
         },
         {
           "source_panels": [
             4
           ],
-          "x": 750,
+          "x": 786,
           "y": 18,
-          "width": 352,
-          "height": 273
+          "width": 316,
+          "height": 295
         },
         {
           "source_panels": [
             5
           ],
-          "x": 750,
-          "y": 303,
-          "width": 352,
+          "x": 786,
+          "y": 325,
+          "width": 316,
           "height": 251
         }
       ],

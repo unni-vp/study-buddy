@@ -64,7 +64,9 @@ Check whether liquid-column or total pressure is requested.
 
 **s = vt.**
 
-**a = (v − u)/t. v² − u² = 2as.**
+**a = (v − u)/t.**
+
+**v² − u² = 2as.**
 
 **F = ma.**
 
