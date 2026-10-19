@@ -73,7 +73,12 @@ Dots and crosses show which atom contributed an electron; the electrons themselv
 
 Heating transfers energy to particles. Melting and boiling require enough energy to overcome the forces holding particles in place or close together. Freezing and condensing transfer energy to the surroundings.
 
-- At a temperature below its melting point, a substance is solid; between melting and boiling points it is liquid; above its boiling point it is gas, at the stated pressure.
+At the stated pressure:
+
+- **Below the melting point:** the substance is solid.
+- **Between melting and boiling points:** it is liquid.
+- **Above the boiling point:** it is gas.
+
 - During a state change, two states can coexist. **The particles do not themselves melt, grow or become liquid particles.**
 - State symbols: **(s)** solid, **(l)** liquid, **(g)** gas, **(aq)** dissolved in water. Aqueous is not the same as molten.
 - Sphere models leave out forces, internal structure and the real shapes of particles. They cannot fully explain why different substances change state at different temperatures.
