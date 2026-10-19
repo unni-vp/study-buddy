@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated charge, current, voltage and resistance so each definition has its own explanation.",
+    "Reworked component behaviour into readable paragraphs linking temperature, resistance and graph shape.",
+    "Explained Grid efficiency in a numbered causal sequence; kept diagrams, tables, circuit methods and safety qualifications."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 26,
+  "mark_groups": {
+    "1": 5,
+    "2": 8,
+    "3": 8,
+    "4": 2,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing 1–4 and6-mark items cover circuit calculations, data comparisons, explanations, safety and practical planning.",
+    "Added multiple choice, construction of a standard circuit diagram, and five-mark electrical energy calculation with unit conversions and standard form.",
+    "June2023 8463/1H Q06.1 requires a circuit diagram and practical method; Q06.3 is a five-mark electrical-energy calculation."
+  ],
+  "additional_practice": [
+    {
+      "number": 5,
+      "marks": 1,
+      "prompt": "An ohmic resistor stays at constant temperature. Its potential difference doubles. What happens to its current? Choose one: A it halves; B it stays the same; C it doubles; D it quadruples.",
+      "answer": "C: it doubles."
+    },
+    {
+      "number": 21,
+      "marks": 3,
+      "prompt": "Draw a circuit to measure the resistance of a resistor. Include a cell, a switch, an ammeter and a voltmeter. Explain how the readings give the resistance.",
+      "answer": "Connect the **cell, switch, ammeter and resistor in series**. Connect the **voltmeter in parallel across the resistor**. Use the current through the resistor and its potential difference to calculate **R = V/I**.\n\n![A correct resistance-measurement circuit, with ammeter in series and voltmeter in parallel.](../Diagrams/resistance-circuit.svg)"
+    },
+    {
+      "number": 24,
+      "marks": 5,
+      "prompt": "A lamp has a potential difference of 12 V and a current of 250 mA. It operates for 20 minutes. Calculate the energy transferred, giving your answer in standard form in joules.",
+      "answer": "- Convert the current: 250 mA = **0.250 A**.\n- Calculate power: **P = VI** = 12 × 0.250 = **3.0 W**.\n- Convert the time: 20 × 60 = **1200 s**.\n- Calculate energy: **E = Pt** = 3.0 × 1200 = **3600 J**.\n- In standard form, this is **3.6 × 10³ J**."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf sections4.2,3,7",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF Q06.1,Q06.3"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

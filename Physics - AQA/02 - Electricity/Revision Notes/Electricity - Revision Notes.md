@@ -4,11 +4,13 @@
 
 A circuit needs a **complete conducting loop** and a source of **potential difference**. Think of a closed delivery route: charges circulate, carrying energy from the supply to components. The charges are not used up; energy is transferred.
 
-- **Current** is the rate of flow of charge: **I = Q/t**, or **Q = It**. Q is charge in coulombs (C), I is current in amperes (A), t is time in seconds (s).
-- **Potential difference** is energy transferred per coulomb: **V = E/Q**. One volt is one joule per coulomb.
-- **Resistance** describes opposition to current: **V = IR**. R is in ohms (Ω).
-- At the same potential difference, **greater resistance means smaller current**.
-- In metal wires, electrons move. **Conventional current** runs from positive to negative outside the supply; electrons move in the opposite direction.
+**Current** measures how much charge passes a point each second. Use **I = Q/t**, or **Q = It**, with charge Q in coulombs (C), current I in amperes (A) and time t in seconds (s).
+
+**Potential difference** tells you how much energy is transferred for each coulomb passing through a component. Use **V = E/Q**. One volt means one joule per coulomb.
+
+**Resistance** describes how strongly a component opposes current. Use **V = IR**, with resistance R in ohms (Ω). At the same potential difference, a greater resistance produces a smaller current.
+
+In metal wires, electrons are the moving charges. **Conventional current** goes from positive to negative outside the supply. Electrons move in the opposite direction.
 
 A current of 0.40 A for 50 s transfers Q = 0.40 × 50 = **20 C**. A 6.0 V component carrying 0.20 A has R = 6.0/0.20 = **30 Ω**.
 
@@ -47,11 +49,15 @@ On an **I–V graph**, current is usually vertical and potential difference hori
 
 ![Current–voltage graphs for a constant-temperature resistor, filament lamp and diode.](../Diagrams/iv-graphs.svg)
 
-- **Ohmic conductor:** at constant temperature, **I is directly proportional to V**. Straight line through the origin; R is constant. On an I-against-V graph, gradient = 1/R.
-- **Filament lamp:** higher current heats the filament. Ions vibrate more, disrupting electron flow, so **resistance increases**. The curve becomes less steep as |V| increases. Use **V/I at the point** for resistance; a tangent gradient is not generally 1/R for a non-ohmic component.
-- **Diode:** conducts readily in the forward direction after sufficient forward pd; very high resistance in reverse. The graph is not symmetric. An **LED** is a light-emitting diode.
-- **Thermistor:** the type studied has **lower resistance when hotter**. It can act as a temperature sensor in a thermostat.
-- **LDR:** **lower resistance in brighter light**. It can control a light that switches on when it gets dark, with a suitable control circuit.
+**Ohmic conductor:** at constant temperature, **current is directly proportional to potential difference**. Its I–V graph is a straight line through the origin because resistance stays constant. On these axes, the gradient is **1/R**.
+
+**Filament lamp:** increasing current heats the filament. The metal ions vibrate more and interfere more with electron flow. **Resistance increases**, so the I–V curve becomes less steep as the size of the potential difference increases. Calculate resistance using **V/I at a particular point**. The gradient of a tangent does not generally give 1/R for this changing resistance.
+
+**Diode:** current flows readily in the forward direction once the forward potential difference is large enough. In reverse, resistance is very high. Its graph is therefore not symmetric. An **LED** is a light-emitting diode.
+
+**Thermistor:** the type studied has a **lower resistance at a higher temperature**. This makes it useful as a temperature sensor, for example in a thermostat.
+
+**LDR:** its **resistance decreases as light intensity increases**. With a suitable control circuit, it can help switch a light on when it gets dark.
 
 For sensors, connect the change to current or pd in the actual circuit given. Do not assume every thermistor circuit switches on when hot: that depends on how the control circuit is arranged.
 
@@ -105,14 +111,16 @@ A connection from live to earth through a person can give a dangerous shock. A l
 
 ## The National Grid
 
-The Grid links power stations and consumers using **cables and transformers**.
+The **National Grid** is a system of cables and transformers that links power stations to consumers.
 
-**Generator → step-up transformer → high-voltage transmission → step-down transformer → consumers.**
+**Generator → step-up transformer → transmission cables → step-down transformer → consumers.**
 
-- A step-up transformer increases transmission pd. For the **same power**, P = VI means a lower current.
-- Cable heating is **I²R**. A smaller current greatly reduces unwanted energy transfer to thermal stores.
-- Step-down transformers reduce pd for safe, appropriate consumer supplies.
-- If current halves at the same cable resistance, heating power becomes **one quarter**. High voltage reduces current; it does not reduce the cable's resistance.
+1. The **step-up transformer increases the potential difference** before transmission.
+2. For the **same transferred power**, a higher potential difference means a lower current because **P = VI**.
+3. The cables heat up as current flows. Their heating power is **P = I²R**, so reducing current greatly reduces energy loss.
+4. **Step-down transformers reduce the potential difference** for the supplies needed by homes and other consumers.
+
+For example, halving the current makes the heating power **one quarter** as large if the cable resistance stays the same. High-voltage transmission reduces the current needed; it does **not** reduce the cable's resistance.
 
 ## Static charge and electric fields
 

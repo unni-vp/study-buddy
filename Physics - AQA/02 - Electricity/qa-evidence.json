@@ -41,7 +41,7 @@
       "answer": "- Direct pd has **one polarity**.\n- Alternating pd **repeatedly reverses polarity**, causing current to reverse direction.",
       "specification": "4.2.3.1",
       "evidence": "2023 1H Q03.1",
-      "number": 5
+      "number": 6
     },
     {
       "marks": 2,
@@ -49,7 +49,7 @@
       "answer": "**Q = It** = 0.25 × 80 = **20 C**.",
       "specification": "4.2.1.2",
       "evidence": "Additional specification-based practice",
-      "number": 6
+      "number": 7
     },
     {
       "marks": 2,
@@ -57,7 +57,7 @@
       "answer": "**R = V/I** = 9.0/0.30 = **30 Ω**.",
       "specification": "4.2.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 7
+      "number": 8
     },
     {
       "marks": 2,
@@ -65,7 +65,7 @@
       "answer": "- Ammeter **in series** with the lamp.\n- Voltmeter **in parallel across** the lamp.",
       "specification": "4.2.1.4",
       "evidence": "2023 1H Q06.1",
-      "number": 8
+      "number": 9
     },
     {
       "marks": 2,
@@ -73,7 +73,7 @@
       "answer": "About **230 V**, at **50 Hz**.",
       "specification": "4.2.3.1",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -81,7 +81,7 @@
       "answer": "- Total current = 0.40 + 0.65 = **1.05 A**.\n- Each branch has **12 V** across it.",
       "specification": "4.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -89,7 +89,7 @@
       "answer": "- **Electrons transfer onto the rod** from the cloth.\n- It has an excess of negative charge; protons do not transfer.",
       "specification": "4.2.5.1",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -97,7 +97,7 @@
       "answer": "- Its resistance **decreases**.\n- It can be a temperature sensor in a **thermostat**.",
       "specification": "4.2.1.4",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 3,
@@ -105,7 +105,7 @@
       "answer": "- Rtotal = 5 + 10 = **15 Ω**.\n- I = 6.0/15 = **0.40 A**.\n- V across 10 Ω = 0.40 × 10 = **4.0 V**.",
       "specification": "4.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 3,
@@ -113,7 +113,7 @@
       "answer": "- Increasing current **heats the filament**.\n- Ions vibrate more, increasing opposition to electron flow, so **resistance increases**.\n- Current then increases less rapidly with pd; the graph flattens.",
       "specification": "4.2.1.4",
       "evidence": "2023 1H Q06",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 3,
@@ -121,7 +121,7 @@
       "answer": "- **P = VI** = 230 × 4.0 = **920 W**.\n- **E = Pt** = 920 × 60.\n- **55,200 J**.",
       "specification": "4.2.4.1–4.2.4.2",
       "evidence": "2022 1H Q03; 2023 1H Q01: electrical-power skills",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 3,
@@ -129,7 +129,7 @@
       "answer": "- It provides an **additional path** for charge.\n- Total current from the supply **increases**.\n- With the same V, **R = V/I decreases**.",
       "specification": "4.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 3,
@@ -137,7 +137,7 @@
       "answer": "- **P = VI** means higher V gives lower I for the same power.\n- Cable heating power is **I²R**.\n- Lower current therefore reduces unwanted heating and improves transmission efficiency.",
       "specification": "4.2.4.3",
       "evidence": "2023 1H Q01.1: Grid; wider reasoning follows 4.2.4.3",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 3,
@@ -145,7 +145,7 @@
       "answer": "- The earth wire provides a low-resistance path from the case to earth.\n- A large **fault current** flows.\n- The fuse **melts and breaks the live circuit**, disconnecting the supply.",
       "specification": "4.2.3.2",
       "evidence": "Additional specification-based practice",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 3,
@@ -153,7 +153,7 @@
       "answer": "- The charge creates a **strong electric field** in the gap.\n- The field **ionises air**, allowing it to conduct.\n- Charge flows through the air as a spark, reducing the charge imbalance.",
       "specification": "4.2.5.1–4.2.5.2",
       "evidence": "Additional specification-based practice",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 4,
@@ -161,7 +161,7 @@
       "answer": "- **P = I²R**.\n- Initial P = 50² × 0.80 = **2,000 W**.\n- New P = 25² × 0.80 = **500 W**.\n- Heating falls to **one quarter**, because current is squared.",
       "specification": "4.2.4.1–4.2.4.3",
       "evidence": "Additional specification-based practice",
-      "number": 20
+      "number": 22
     },
     {
       "marks": 4,
@@ -169,7 +169,7 @@
       "answer": "- First R = 2.0/0.40 = **5.0 Ω**.\n- Second R = 6.0/0.80 = **7.5 Ω**.\n- Resistance increases, so current is **not directly proportional** to pd.\n- It is **not ohmic** across this range; a heating filament is one possible explanation.",
       "specification": "4.2.1.4",
       "evidence": "Additional specification-based practice",
-      "number": 21
+      "number": 23
     },
     {
       "marks": 6,
@@ -177,7 +177,7 @@
       "answer": "- Connect a **low-voltage supply, ammeter and lamp in series**, with a voltmeter across the lamp. Add a variable resistor or use an adjustable supply.\n- Vary pd over a suitable range below the lamp’s rating; record paired **V and I** readings at each setting.\n- Reverse the supply and record negative V and I readings, using the meter correctly.\n- Repeat measurements and investigate anomalies before calculating means. Avoid touching the hot lamp.\n- Plot current vertically against pd horizontally and draw a smooth best-fit curve.\n- The curve is approximately symmetric but becomes less steep as |V| increases because heating increases the filament’s resistance.",
       "specification": "4.2.1.4",
       "evidence": "2023 1H Q06.1",
-      "number": 22
+      "number": 25
     },
     {
       "marks": 6,
@@ -185,7 +185,8 @@
       "answer": "- Place a uniform wire beside a ruler and use a movable contact to select measured lengths.\n- Connect a low-voltage supply and ammeter in series; a voltmeter measures pd across the selected length.\n- Record **V and I** for several lengths and calculate **R = V/I** each time.\n- Keep material and cross-sectional area fixed. Use low current and switch off between measurements to keep **temperature** approximately constant.\n- Repeat, find mean resistances and plot **R against length**. A straight line through the origin supports direct proportionality.\n- Longer wire provides more interactions opposing electron flow. Check contact quality and avoid hot wire; heating would increase R for a second reason.",
       "specification": "4.2.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 26
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }
