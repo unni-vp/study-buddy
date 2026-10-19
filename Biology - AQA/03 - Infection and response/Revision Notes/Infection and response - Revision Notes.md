@@ -9,7 +9,14 @@ A **pathogen** is a microorganism that causes disease. A **communicable disease*
 - **Fungi** and **protists** can also cause disease. A mosquito carries the malaria protist; the mosquito is the **vector**, not the pathogen.
 - Pathogens spread by **direct contact, water or air**. Contaminated food and animal vectors provide other routes.
 
-Break the route to stop spread: clean water and hygiene reduce contamination; isolating infected individuals reduces contact; controlling vectors reduces transmission; vaccination protects susceptible people. Match the action to the actual route rather than giving the same prevention for every disease.
+Break the transmission route to stop spread:
+
+- **Clean water and hygiene** reduce contamination.
+- **Isolating infected individuals** reduces contact.
+- **Controlling vectors** reduces transmission.
+- **Vaccination** protects susceptible people.
+
+Match the action to the actual route rather than giving the same prevention for every disease.
 
 ## Human infections
 
