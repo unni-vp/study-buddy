@@ -15,11 +15,38 @@ A biological calculation is like comparing prices: both values must be expressed
 | giga, G | ×10⁹ |
 | tera, T | ×10¹² |
 
-**1 m = 100 cm = 1000 mm. 1 mm = 1000 µm. 1 µm = 1000 nm.** Multiply when converting into a smaller unit; divide when converting into a larger one. Example: **0.045 mm = 45 µm = 45 000 nm**.
+**Length conversions**
 
-For area and volume, square or cube the conversion factor: **1 cm² = 100 mm²**, and **1 cm³ = 1000 mm³**. A cm³ is also 1 mL; **1000 cm³ = 1 dm³**. Do not multiply an area by only 10 when converting cm² to mm².
+- **1 m = 100 cm**.
+- **1 m = 1000 mm**.
+- **1 mm = 1000 µm**.
+- **1 µm = 1000 nm**.
 
-**Standard form** is **a ×10ⁿ**, with **1 ≤ a <10** and integer n. Example: 0.0000062 m = **6.2 ×10⁻⁶ m**. Negative powers represent small fractions, not negative lengths. For multiplication, multiply coefficients and add powers. For division, divide coefficients and subtract powers.
+Multiply when converting into a smaller unit. Divide when converting into a larger one.
+
+**Example**
+
+1. 0.045 mm × 1000 = **45 µm**.
+2. 45 µm × 1000 = **45 000 nm**.
+
+For area and volume, square or cube the conversion factor:
+
+- **1 cm² = 100 mm²**.
+- **1 cm³ = 1000 mm³**.
+- **1 cm³ = 1 mL**.
+- **1000 cm³ = 1 dm³**.
+
+Do not multiply an area by only 10 when converting cm² to mm².
+
+**Standard form** is **a ×10ⁿ**, with **1 ≤ a <10** and integer n.
+
+Example: 0.0000062 m = **6.2 ×10⁻⁶ m**.
+
+Negative powers represent small fractions, not negative lengths.
+
+For multiplication, multiply coefficients and add powers.
+
+For division, divide coefficients and subtract powers.
 
 ## Estimates, scale and significant figures
 
@@ -31,13 +58,38 @@ Significant figures start at the first non-zero digit. **0.00450 has three signi
 
 ## Ratios, fractions and percentages
 
-- **Fraction = part/whole. Percentage = part/whole ×100.** For 18 of 60 successful treatments, success = **30%**.
-- **Percentage change = (new − original)/original ×100.** From 40 to 50, increase = **25%**, not 20%, because the starting value is the denominator.
-- Ratios compare quantities in matching units. 12:18 simplifies to **2:3**.
-- Ratio 1:3 affected:unaffected gives affected fraction **1/(1+3) = 1/4**, not 1/3.
-- **Percentage points** are the direct difference between percentages. From 20% to 30% is **10 percentage points**, but a **50% relative increase**.
+**Fractions and percentages**
 
-For a negative tissue mass change, keep the sign: 2.5 g to 2.0 g gives (2.0−2.5)/2.5 ×100 = **−20%**, a 20% decrease.
+- **Fraction = part/whole**.
+- **Percentage = part/whole × 100**.
+
+For 18 of 60 successful treatments:
+
+Success = 18 ÷ 60 × 100 = **30%**.
+
+**Percentage change**
+
+**Percentage change = (new − original)/original × 100**
+
+From 40 to 50, the increase is **25%**, not 20%. The starting value is the denominator.
+
+**Ratios**
+
+- Compare quantities in matching units: 12:18 simplifies to **2:3**.
+- A ratio of 1:3 affected:unaffected gives affected fraction **1/(1+3) = 1/4**, not 1/3.
+
+**Percentage points**
+
+These are the direct difference between percentages. From 20% to 30% is **10 percentage points**, but a **50% relative increase**.
+
+**Example: a decrease in tissue mass**
+
+The mass falls from 2.5 g to 2.0 g. Keep the negative sign.
+
+1. Mass change = 2.0 − 2.5 = **−0.5 g**.
+2. Percentage change = −0.5 ÷ 2.5 × 100 = **−20%**.
+
+This is a **20% decrease**.
 
 ## Magnification and scale bars
 
@@ -46,7 +98,16 @@ For a negative tissue mass change, keep the sign: 2.5 g to 2.0 g gives (2.0−2.
 - **Actual size = image size/magnification.**
 - **Image size = actual size × magnification.**
 
-Convert units first. A 36 mm image at ×600 gives **36/600 = 0.060 mm = 60 µm**. Magnification has **no unit**, because length/length cancels.
+**Example: actual size from magnification**
+
+An image is 36 mm long at ×600 magnification.
+
+1. Actual size = 36 ÷ 600 = **0.060 mm**.
+2. Convert to micrometres: 0.060 × 1000 = **60 µm**.
+
+Convert units first if image size and actual size are supplied in different units.
+
+Magnification has **no unit**, because length divided by length cancels.
 
 **A scale bar resizes with the image**, so it remains useful when both are enlarged or reduced together.
 
@@ -60,19 +121,43 @@ For a scale bar representing **5 µm**, its printed length is 10 mm. A cell on t
 
 ## Rates, efficiency and inverse relationships
 
-**Rate = change/time.** For 12 cm³ oxygen in 4 minutes, rate = **3 cm³ min⁻¹**, or 0.05 cm³ s⁻¹. Make the time unit match the requested answer.
+**Rate = change/time**
 
-For a common enzyme endpoint, **relative rate = 1/time**. A time of 25 s gives **0.040 s⁻¹**. Halving the endpoint time doubles the rate proxy. This only compares the same amount of change under comparable starting conditions.
+**Example:** 12 cm³ of oxygen is produced in 4 minutes.
 
-**Biomass transfer efficiency = next-level biomass/previous-level biomass ×100.** Transfer of 40 kg from 500 kg gives **8%**. Use the same mass basis; a pyramid bar width represents mass, not simply number of organisms.
+- In cm³ min⁻¹: rate = 12 ÷ 4 = **3 cm³ min⁻¹**.
+- In cm³ s⁻¹: rate = 12 ÷ 240 = **0.05 cm³ s⁻¹**.
+
+Make the time unit match the requested answer.
+
+For a common enzyme endpoint, **relative rate = 1/time**.
+
+A time of 25 s gives **0.040 s⁻¹**.
+
+Halving the endpoint time doubles the rate proxy. This only compares the same amount of change under comparable starting conditions.
+
+**Biomass transfer efficiency = next-level biomass/previous-level biomass ×100.**
+
+Transfer of 40 kg from 500 kg gives **8%**.
+
+Use the same mass basis; a pyramid bar width represents mass, not simply number of organisms.
 
 **Light intensity ∝ 1/distance²** for a suitable point-source model. If distance triples, intensity is **1/9** of its previous value. If a given intensity is 200 units at 10 cm, the model predicts **50 units at 20 cm**. This does not guarantee photosynthesis rate quarters: other limiting factors can affect rate.
 
 ## Probability in inheritance
 
-Probability ranges from **0 to 1**. For a simple Aa × Aa cross, the four equally likely combinations are AA, Aa, Aa and aa. Probability of aa = **1/4 = 0.25 = 25%**. Probability of a carrier = **2/4 = 50%**.
+Probability ranges from **0 to 1**.
 
-**Expected number = probability × number of trials.** With an affected probability of 1/4 across 80 births, the expected affected count is 80 × 1/4 = **20**. This is an average expectation, not a guaranteed result.
+For a simple **Aa × Aa** cross, the four equally likely combinations are **AA, Aa, Aa and aa**.
+
+- Probability of aa = **1/4 = 0.25 = 25%**.
+- Probability of a carrier = **2/4 = 50%**.
+
+**Expected number = probability × number of trials.**
+
+With an affected probability of 1/4 across 80 births, the expected affected count is 80 × 1/4 = **20**.
+
+This is an average expectation, not a guaranteed result.
 
 **Each pregnancy is a new event.** For independent events, multiply probabilities. The probability that both children in a specified pair of births are affected is **1/4 × 1/4 = 1/16**.
 
@@ -85,9 +170,32 @@ Distinguish “both”, “at least one” and “exactly one” when interpreti
 - **Mode:** most frequent value; a dataset can have multiple modes or none.
 - **Range:** maximum − minimum.
 
-For 2, 3, 3, 8: mean = **4**, median = **3**, mode = **3**, range = **6**. Mean is influenced strongly by an extreme value. Investigate unusual measurements before removing them.
+For the values **2, 3, 3 and 8**:
 
-In a frequency table, use **sum(value × frequency)/sum(frequency)** for a mean of exact values. Counts 0, 1, 2 with frequencies 2, 3, 5 give mean **(0×2+1×3+2×5)/10 = 1.3**. Do not average only the three displayed counts. For grouped continuous data, class midpoints give an estimated mean; retain that it is an estimate.
+- Mean = **4**.
+- Median = **3**.
+- Mode = **3**.
+- Range = **6**.
+
+Mean is influenced strongly by an extreme value. Investigate unusual measurements before removing them.
+
+For a frequency table of exact values:
+
+**Mean = sum(value × frequency) ÷ sum(frequency)**
+
+**Example**
+
+| Count | Frequency | Count × frequency |
+|---|---|---|
+| 0 | 2 | 0 |
+| 1 | 3 | 3 |
+| 2 | 5 | 10 |
+
+Mean = (0 + 3 + 10) ÷ 10 = **1.3**.
+
+Do not average only the three displayed counts.
+
+For grouped continuous data, class midpoints give an **estimated mean**. Retain that it is an estimate.
 
 ## Sampling and population estimates
 
@@ -123,17 +231,44 @@ Interpolate within the measured range more cautiously than reading a precise dat
 - **c = y-intercept**, where x = 0.
 - A directly proportional relationship is a straight line through the origin, **y ∝ x**.
 
-Choose a **large triangle on the best-fit line**, using two points far apart, not two noisy raw observations. A line through (2, 5) and (8, 17) has gradient **(17−5)/(8−2) = 2** and intercept **1**.
+Choose a **large triangle on the best-fit line**. Use two points far apart, not two noisy raw observations.
+
+**Example:** the line passes through (2, 5) and (8, 17).
+
+1. Change in y = 17 − 5 = **12**.
+2. Change in x = 8 − 2 = **6**.
+3. Gradient = 12 ÷ 6 = **2**.
+4. The y-intercept is **1**.
 
 For a curve, draw a **tangent at the specified point** and calculate its gradient using a large triangle. This gives the instantaneous rate there. A chord across an interval gives an **average rate**, not the rate at one instant. For a decreasing pH curve the slope is negative; a stated magnitude of pH decline is positive. pH is unitless, so express the time basis clearly.
 
-When given a rate–time graph, its area represents total change: **rate × time** for a rectangle; triangles use **½ base × height**. Confirm the axis quantities before assigning meaning to an area.
+When given a rate–time graph, its area represents total change:
+
+- Rectangle area = **rate × time**.
+- Triangle area = **½ × base × height**.
+
+Confirm the axis quantities before assigning meaning to an area.
 
 ## Algebra and mathematical symbols
 
-**=** equal, **<** less than, **>** greater than, **≪** much less than, **≫** much greater than, **∝** proportional to, **~** approximately/similar in an indicated context.
+| Symbol | Meaning |
+|---|---|
+| = | Equal |
+| < | Less than |
+| > | Greater than |
+| ≪ | Much less than |
+| ≫ | Much greater than |
+| ∝ | Proportional to |
+| ~ | Approximately equal or similar in an indicated context |
 
-Rearrange using the same operation on both sides. If M = I/A, multiply by A to get MA = I, then divide by M: **A = I/M**. Substitute only after identifying what each symbol represents. A familiar formula with mismatched units still gives a wrong answer.
+Rearrange using the same operation on both sides.
+
+**Example: M = I/A**
+
+1. Multiply both sides by A: **MA = I**.
+2. Divide both sides by M: **A = I/M**.
+
+Substitute only after identifying what each symbol represents. A familiar formula with mismatched units still gives a wrong answer.
 
 ## Areas, volumes and exchange surfaces
 
@@ -148,7 +283,12 @@ Rearrange using the same operation on both sides. If M = I/A, multiply by A to g
 
 A 1 cm cube has surface area **6 cm²**, volume **1 cm³**, SA:V **6:1**. A 3 cm cube has **54 cm²**, **27 cm³**, ratio **2:1**. The larger cube has more total surface, but **less surface per unit volume**, increasing the difficulty of diffusion meeting all internal needs. Do not say its total surface is smaller.
 
-For a 10 mm circular zone, r = 5 mm, so area = **25π ≈78.5 mm²**. If asked to exclude the disc, subtract the disc area. Keep the requested definition and unit clear.
+**Example: a circular zone with diameter 10 mm**
+
+1. Radius = 10 ÷ 2 = **5 mm**.
+2. Area = π × 5² = **25π ≈ 78.5 mm²**.
+
+If asked to exclude the disc, subtract the disc area. Keep the requested definition and unit clear.
 
 ## Calculation checks
 
