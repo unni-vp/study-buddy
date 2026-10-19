@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated the purpose of antibiotics, painkillers and resistance into clear short explanations.",
+    "Explained placebo, blinding and random allocation using their distinct purposes.",
+    "Preserved all named diseases, plant symptoms, defences, testing stages and monoclonal-antibody diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 35,
+  "mark_groups": {
+    "1": 8,
+    "2": 10,
+    "3": 7,
+    "4": 5,
+    "5": 1,
+    "6": 4
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark items cover disease mechanisms, comparisons, practical controls, trial interpretation and extended immune/drug explanations.",
+    "Added multiple choice and five-mark unequal-group clinical-trial data, percentage-point comparison and benefit/risk judgement.",
+    "Trial numbers are invented original practice, not a medical-treatment recommendation or claim about a real drug."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "Which treatment targets symptoms without killing the pathogen? Choose one: A a suitable antibiotic against bacteria; B a painkiller; C stomach hydrochloric acid; D phagocytosis.",
+      "answer": "B: a painkiller."
+    },
+    {
+      "number": 31,
+      "marks": 5,
+      "prompt": "A drug trial records the results below. Calculate the improvement rate in each group, the difference in percentage points, and the side-effect rate in the drug group. Use the evidence to explain why improvement alone is not enough to decide whether the drug should be used.\n\n| Group | Patients | Improved | Reported side effects |\n|---|---|---|---|\n| Drug | 80 | 60 | 12 |\n| Placebo | 100 | 50 | 2 |",
+      "answer": "- Drug improvement rate = 60 ÷ 80 × 100 = **75%**.\n- Placebo improvement rate = 50 ÷ 100 × 100 = **50%**.\n- The difference is **25 percentage points**.\n- Drug side-effect rate = 12 ÷ 80 × 100 = **15%**. The placebo rate is 2%, so side effects were more frequent with the drug.\n- The drug may offer a benefit, but the decision also needs the **severity of side effects**, patient comparability, sample size and repeat evidence. Improvement alone does not establish an acceptable balance of benefit and risk."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.3",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

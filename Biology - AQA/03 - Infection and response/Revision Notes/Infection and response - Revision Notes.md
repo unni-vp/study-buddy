@@ -73,12 +73,15 @@ When evaluating a vaccination programme, compare the reduction in disease and sp
 
 ## Antibiotics and other medicines
 
-- **Antibiotics** treat bacterial disease by killing bacteria or preventing their growth. Different bacteria may need different antibiotics.
-- **Antibiotics do not kill viruses.** Viruses reproduce inside body cells, so it is difficult to target them without damaging the body's own tissues.
-- **Painkillers** reduce symptoms such as pain; they do not kill the pathogen causing the infection.
-- **Resistant bacteria** survive an antibiotic that previously worked. Infections become harder to treat and new treatments take time and money to develop.
+**Antibiotics** treat bacterial diseases by killing bacteria or preventing their growth. Different bacteria may need different antibiotics, so the treatment must match the infection.
 
-An antibiotic targets the cause of a suitable bacterial infection; a painkiller targets a symptom. Treating symptoms does not necessarily stop someone spreading a pathogen.
+**Viruses are different:** antibiotics do not kill them. Viruses reproduce inside body cells, making it difficult to target the virus without also damaging the body's own tissues.
+
+**Painkillers** relieve symptoms such as pain. They do not kill the pathogen causing the infection. A person may therefore feel better while still carrying and spreading a pathogen.
+
+**Antibiotic resistance:** resistant bacteria survive an antibiotic that previously worked. This makes infections harder to treat. Developing new treatments also takes time and money.
+
+The key distinction is **treating a cause versus relieving a symptom**. An appropriate antibiotic targets a bacterial cause. A painkiller targets a symptom.
 
 ## Developing new drugs
 
@@ -102,10 +105,11 @@ A promising chemical must pass several checks, like a new car being tested befor
 
 The three key checks are **toxicity** (harmful effects), **efficacy** (whether it works) and **dose** (how much gives a useful effect with acceptable risk).
 
-- A **placebo** resembles the treatment but contains no active drug. It helps separate the drug's effect from expectations and other changes.
-- In a **double-blind trial**, neither the patients nor the researchers assessing them know who receives the drug until the results are analysed. This reduces bias.
-- **Random allocation**, a large sample and comparable groups help make the comparison fair. Compare recovery rates and side effects, not just the number who recovered.
-- A placebo is used when appropriate; some trials compare a new drug with an existing treatment.
+**Placebo control:** a placebo resembles the treatment but has no active drug. Comparing it with the drug helps separate the drug's effect from expectations and other changes. Where appropriate, a trial may instead compare a new drug with an existing treatment.
+
+**Double blinding:** neither patients nor the researchers assessing them know who receives the drug until the results are analysed. This reduces the chance that expectations influence reporting or assessment.
+
+**Fair comparison:** random allocation helps distribute other patient differences between groups. A large sample and comparable groups also strengthen the evidence. Compare **recovery rates and side effects**, rather than raw numbers alone when group sizes differ.
 
 Example: 60 of 100 patients improve with a drug and 35 of 100 with a placebo. Improvement is **60% versus 35%**, a difference of **25 percentage points**. Consider sample size, side effects and whether the groups were comparable before judging the drug.
 
