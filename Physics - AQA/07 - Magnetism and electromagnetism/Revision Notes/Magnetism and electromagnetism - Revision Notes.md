@@ -10,7 +10,7 @@ A magnet can exert a force without touching another object. Its strongest region
 - An **induced magnet** becomes magnetic in an external field. It usually loses most or all induced magnetism when that field is removed.
 - The force between a magnet and an initially unmagnetised magnetic material is **attractive**. The nearby end acquires the opposite pole.
 
-Think of a permanent magnet as a torch with its own power supply, and an induced magnet as something that responds when another source is nearby. The analogy describes persistence, not how magnetic fields are physically generated.
+A fridge magnet keeps its magnetism when you move it away from the fridge. An iron paper clip behaves differently: near a magnet it can attract another clip, but it usually loses most of that induced magnetism when the magnet is removed.
 
 ## Fields and compasses
 
@@ -38,12 +38,11 @@ Iron filings reveal the **shape** of a field but not its direction. Use a compas
 
 A current-carrying wire creates a magnetic field. A compass near the wire changes direction when current flows.
 
-- Around a **straight wire**, field lines are concentric circles centred on the wire.
-- Use a **right-hand grip rule**: thumb points along **conventional current**; curled fingers show field direction.
-- Larger current makes a stronger field. Further from the wire, the field is weaker. Reversing current reverses the field direction.
-- A **solenoid** is a long coil. Its field resembles a bar magnet's. Inside, the field is **strong and approximately uniform**: draw parallel, evenly spaced lines.
-- The grip rule also works for a solenoid: fingers follow conventional current around the turns; thumb points towards its north pole.
-- More turns per unit length and greater current strengthen the solenoid's field. Adding an **iron core** strengthens it further, making an **electromagnet**.
+**Straight wire:** its magnetic field lines form circles centred on the wire. Use the **right-hand grip rule**: point your thumb along conventional current. Your curled fingers show the field direction. A greater current gives a stronger field, while moving farther from the wire gives a weaker field. Reversing current reverses the field.
+
+**Solenoid:** this is a long coil of wire. Its field resembles a bar magnet's field. Inside the coil, the field is **strong and approximately uniform**, shown by parallel, evenly spaced field lines. For the grip rule, curl your fingers in the direction of conventional current around the turns. Your thumb points towards the coil's north pole.
+
+**Making an electromagnet stronger:** increase the current or the number of turns per unit length. An **iron core** becomes magnetised and strengthens the field further. A solenoid with an iron core is an **electromagnet**.
 
 Think of several people pushing the same object: a coil arranges many wire sections so their fields reinforce one another inside.
 
@@ -97,11 +96,15 @@ The speaker uses the **motor effect**: electrical variations cause movement. A m
 
 Moving a conductor relative to a magnetic field, or changing the field through a coil, can induce a **potential difference**. This is the **generator effect**, also called electromagnetic induction.
 
-- A current flows only if the conductor belongs to a **complete circuit**. Induced potential difference can exist with the circuit open.
-- Moving a magnet into a coil induces a pulse. Holding it still gives no sustained induced potential difference. Moving it out reverses the pulse.
-- Move faster, use a stronger field, or link the changing field with more coil turns to increase induced potential difference. Compare otherwise equal conditions.
-- Reverse the motion or reverse the magnet's poles to reverse the induced potential difference and current.
-- The induced current creates a field that **opposes the change that produced it**. A magnet entering a coil encounters magnetic opposition, so external work is needed.
+**When current flows:** induced potential difference can exist across an open circuit. An induced current flows only when there is a **complete conducting circuit**.
+
+**Moving a magnet:** pushing it into a coil produces a pulse of potential difference. Holding it still produces no sustained signal because the field through the coil is no longer changing. Pulling it out reverses the pulse.
+
+**Increasing the signal:** move faster, use a stronger magnetic field or use more turns linked by the changing field. Keep the other conditions the same when comparing these effects.
+
+**Reversing the signal:** reverse either the motion or the magnet's poles. This reverses the induced potential difference and, in a closed circuit, the induced current.
+
+**Energy supply:** the induced current creates a field that **opposes the change that produced it**. Pushing a magnet into a coil therefore meets magnetic opposition. You must do work to keep it moving.
 
 Imagine pushing a door against a spring: a response pushes back against the change. The coil does not supply free energy. Mechanical work supplies the electrical output, with some energy also dissipated.
 

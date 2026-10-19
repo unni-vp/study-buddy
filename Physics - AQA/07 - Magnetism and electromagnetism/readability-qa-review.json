@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Replaced a potentially distracting analogy with a concrete fridge-magnet/paper-clip example.",
+    "Explained straight-wire and solenoid fields in developed paragraphs.",
+    "Separated induction conditions, size, direction and energy supply; retained all diagrams and transformer qualifications."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 40,
+  "mark_groups": {
+    "1": 9,
+    "2": 15,
+    "3": 9,
+    "4": 4,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Retained recall, motor-rule applications, diagram interpretation, practical planning, transformer calculations and six-mark explanations/comparisons.",
+    "Added multiple choice, field-pattern drawing and five-mark transformer calculation combining turns ratio, efficiency and current."
+  ],
+  "additional_practice": [
+    {
+      "number": 9,
+      "marks": 1,
+      "prompt": "Both the magnetic field and the current through a perpendicular wire are reversed. What happens to the force direction? Choose one: A it reverses; B it stays the same; C force becomes zero; D it becomes parallel to the field.",
+      "answer": "B: it stays the same."
+    },
+    {
+      "number": 37,
+      "marks": 4,
+      "prompt": "Sketch the magnetic field around a bar magnet. Show the poles, field direction and how the drawing indicates stronger field near the poles.",
+      "answer": "Label the magnet **N and S**. Draw curved field lines connecting the poles, with arrows **from N to S outside the magnet**. Draw lines closer together near the poles to show a stronger field. Field lines must not cross.\n\n![A bar-magnet field with direction arrows and closer field lines near the poles.](../Diagrams/bar-field.svg)"
+    },
+    {
+      "number": 38,
+      "marks": 5,
+      "prompt": "A transformer has 1000 primary turns and 50 secondary turns. Its primary potential difference is 240 V. It supplies a secondary current of 3.0 A and is 80% efficient. Calculate the secondary potential difference, input power and primary current.",
+      "answer": "- Turns ratio: **Vₛ = Vₚ × nₛ/nₚ** = 240 × 50/1000 = **12 V**.\n- Output power: **P = VI** = 12 × 3.0 = **36 W**.\n- Efficiency = **0.80**. Input power = 36 ÷ 0.80 = **45 W**.\n- Primary current: **Iₚ = Pinput/Vₚ** = 45 ÷ 240 = **0.1875 A**, or about **0.19 A**.\n- Input power exceeds output power because some energy is dissipated. The ideal equal-power equation cannot be used unchanged here."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf section4.7",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-QP-JUN23.PDF",
+    "Physics - AQA/00 - Past papers/Paper 2 Higher/AQA-84632H-MS-JUN23.PDF"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
