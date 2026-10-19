@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -320,5 +320,11 @@
       "title": "Radiation uses & nuclear energy",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
+  }
 }
