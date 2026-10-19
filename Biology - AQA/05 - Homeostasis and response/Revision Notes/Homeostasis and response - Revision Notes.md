@@ -158,7 +158,15 @@ The **pancreas monitors and controls blood glucose concentration**.
 
 **When glucose is low**, the pancreas releases **glucagon**. It stimulates breakdown of **liver glycogen into glucose**, which is released into the blood. The glucose level rises and the corrective response reduces.
 
-This is **negative feedback**, with opposing hormones correcting opposite deviations. **Glucose** is a small sugar used in respiration; **glycogen** is its storage form; **glucagon** is a hormone. Do not swap the names or say insulin converts glucose into glucagon.
+This is **negative feedback**, with opposing hormones correcting opposite deviations.
+
+| Term | Meaning |
+|---|---|
+| **Glucose** | A small sugar used in respiration. |
+| **Glycogen** | The storage form of glucose. |
+| **Glucagon** | A hormone. |
+
+Do not swap the names or say insulin converts glucose into glucagon.
 
 ## Diabetes and interpreting data
 
