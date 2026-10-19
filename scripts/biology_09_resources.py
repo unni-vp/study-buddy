@@ -142,7 +142,24 @@ Transfer of 40 kg from 500 kg gives **8%**.
 
 Use the same mass basis; a pyramid bar width represents mass, not simply number of organisms.
 
-**Light intensity ∝ 1/distance²** for a suitable point-source model. If distance triples, intensity is **1/9** of its previous value. If a given intensity is 200 units at 10 cm, the model predicts **50 units at 20 cm**. This does not guarantee photosynthesis rate quarters: other limiting factors can affect rate.
+For a suitable point-source model:
+
+**Light intensity ∝ 1/distance²**
+
+**Example: tripling the distance**
+
+New intensity = original intensity ÷ 3².
+
+The new intensity is **1/9** of its previous value.
+
+**Example: doubling the distance**
+
+The intensity is 200 units at 10 cm.
+
+1. At 20 cm, distance has doubled.
+2. New intensity = 200 ÷ 2² = **50 units**.
+
+This does not guarantee that photosynthesis rate quarters. Other limiting factors can affect rate.
 
 ## Probability in inheritance
 
@@ -281,7 +298,14 @@ Substitute only after identifying what each symbol represents. A familiar formul
 
 ![Cubes drawn to the same scale show how surface area to volume ratio decreases as size increases.](../Diagrams/cube-comparison.svg)
 
-A 1 cm cube has surface area **6 cm²**, volume **1 cm³**, SA:V **6:1**. A 3 cm cube has **54 cm²**, **27 cm³**, ratio **2:1**. The larger cube has more total surface, but **less surface per unit volume**, increasing the difficulty of diffusion meeting all internal needs. Do not say its total surface is smaller.
+**Comparing cubes**
+
+| Side length | Surface area | Volume | SA:V |
+|---|---|---|---|
+| 1 cm | 6 cm² | 1 cm³ | 6:1 |
+| 3 cm | 54 cm² | 27 cm³ | 2:1 |
+
+The larger cube has more total surface, but **less surface per unit volume**. This makes it harder for diffusion to meet all internal needs. Do not say its total surface is smaller.
 
 **Example: a circular zone with diameter 10 mm**
 
