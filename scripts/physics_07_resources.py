@@ -11,7 +11,7 @@ A magnet can exert a force without touching another object. Its strongest region
 - An **induced magnet** becomes magnetic in an external field. It usually loses most or all induced magnetism when that field is removed.
 - The force between a magnet and an initially unmagnetised magnetic material is **attractive**. The nearby end acquires the opposite pole.
 
-Think of a permanent magnet as a torch with its own power supply, and an induced magnet as something that responds when another source is nearby. The analogy describes persistence, not how magnetic fields are physically generated.
+A fridge magnet keeps its magnetism when you move it away from the fridge. An iron paper clip behaves differently: near a magnet it can attract another clip, but it usually loses most of that induced magnetism when the magnet is removed.
 
 ## Fields and compasses
 
@@ -39,12 +39,11 @@ Iron filings reveal the **shape** of a field but not its direction. Use a compas
 
 A current-carrying wire creates a magnetic field. A compass near the wire changes direction when current flows.
 
-- Around a **straight wire**, field lines are concentric circles centred on the wire.
-- Use a **right-hand grip rule**: thumb points along **conventional current**; curled fingers show field direction.
-- Larger current makes a stronger field. Further from the wire, the field is weaker. Reversing current reverses the field direction.
-- A **solenoid** is a long coil. Its field resembles a bar magnet's. Inside, the field is **strong and approximately uniform**: draw parallel, evenly spaced lines.
-- The grip rule also works for a solenoid: fingers follow conventional current around the turns; thumb points towards its north pole.
-- More turns per unit length and greater current strengthen the solenoid's field. Adding an **iron core** strengthens it further, making an **electromagnet**.
+**Straight wire:** its magnetic field lines form circles centred on the wire. Use the **right-hand grip rule**: point your thumb along conventional current. Your curled fingers show the field direction. A greater current gives a stronger field, while moving farther from the wire gives a weaker field. Reversing current reverses the field.
+
+**Solenoid:** this is a long coil of wire. Its field resembles a bar magnet's field. Inside the coil, the field is **strong and approximately uniform**, shown by parallel, evenly spaced field lines. For the grip rule, curl your fingers in the direction of conventional current around the turns. Your thumb points towards the coil's north pole.
+
+**Making an electromagnet stronger:** increase the current or the number of turns per unit length. An **iron core** becomes magnetised and strengthens the field further. A solenoid with an iron core is an **electromagnet**.
 
 Think of several people pushing the same object: a coil arranges many wire sections so their fields reinforce one another inside.
 
@@ -71,7 +70,17 @@ For a perpendicular wire: **F = BIl**.
 - I: current, **A**.
 - l: length of wire **within the field**, **m**.
 
-**Example:** B = 0.25 T, I = 3.0 A and l = 0.080 m. F = 0.25 × 3.0 × 0.080 = **0.060 N**. Do not use the total cable length if only part is in the field. Convert mT to T: **1 mT = 10⁻³ T**.
+**Example: force on a wire**
+
+- Magnetic flux density B = **0.25 T**.
+- Current I = **3.0 A**.
+- Length inside the field l = **0.080 m**.
+
+F = BIl = 0.25 × 3.0 × 0.080 = **0.060 N**
+
+Do not use the total cable length if only part is in the field.
+
+**Conversion:** 1 mT = 10⁻³ T.
 
 ## Motors, loudspeakers and headphones
 
@@ -98,11 +107,15 @@ The speaker uses the **motor effect**: electrical variations cause movement. A m
 
 Moving a conductor relative to a magnetic field, or changing the field through a coil, can induce a **potential difference**. This is the **generator effect**, also called electromagnetic induction.
 
-- A current flows only if the conductor belongs to a **complete circuit**. Induced potential difference can exist with the circuit open.
-- Moving a magnet into a coil induces a pulse. Holding it still gives no sustained induced potential difference. Moving it out reverses the pulse.
-- Move faster, use a stronger field, or link the changing field with more coil turns to increase induced potential difference. Compare otherwise equal conditions.
-- Reverse the motion or reverse the magnet's poles to reverse the induced potential difference and current.
-- The induced current creates a field that **opposes the change that produced it**. A magnet entering a coil encounters magnetic opposition, so external work is needed.
+**When current flows:** induced potential difference can exist across an open circuit. An induced current flows only when there is a **complete conducting circuit**.
+
+**Moving a magnet:** pushing it into a coil produces a pulse of potential difference. Holding it still produces no sustained signal because the field through the coil is no longer changing. Pulling it out reverses the pulse.
+
+**Increasing the signal:** move faster, use a stronger magnetic field or use more turns linked by the changing field. Keep the other conditions the same when comparing these effects.
+
+**Reversing the signal:** reverse either the motion or the magnet's poles. This reverses the induced potential difference and, in a closed circuit, the induced current.
+
+**Energy supply:** the induced current creates a field that **opposes the change that produced it**. Pushing a magnet into a coil therefore meets magnetic opposition. You must do work to keep it moving.
 
 Imagine pushing a door against a spring: a response pushes back against the change. The coil does not supply free energy. Mechanical work supplies the electrical output, with some energy also dissipated.
 
@@ -141,17 +154,49 @@ Think of the core as a shared link between two separate circuits, rather than a 
 
 ## Transformer calculations and the National Grid
 
-**Vₚ/Vₛ = nₚ/nₛ**, or **Vₛ/Vₚ = nₛ/nₚ**.
+**Vₚ/Vₛ = nₚ/nₛ**
+
+Equivalently:
+
+**Vₛ/Vₚ = nₛ/nₚ**
 
 - **Step-up:** secondary has more turns; **Vₛ > Vₚ**.
 - **Step-down:** secondary has fewer turns; **Vₛ < Vₚ**.
 - Keep primary quantities together and secondary quantities together. Turns have no unit; potential difference is in V.
 
-**Example:** primary = 200 turns at 230 V; secondary = 1,000 turns. Vₛ = 230 × 1,000/200 = **1,150 V**. It is a step-up transformer.
+**Example: transformer turns**
 
-For an **ideal, 100% efficient transformer**, **VₚIₚ = VₛIₛ**. Output power equals input power. Stepping up voltage lowers current for the same power; it does not create energy.
+- Primary coil: **200 turns** at **230 V**.
+- Secondary coil: **1,000 turns**.
 
-**Example:** output = 12 V at 4.0 A, so output power = **48 W**. With an ideal 240 V input, Iₚ = 48/240 = **0.20 A**. If efficiency is 0.80, input power = 48/0.80 = **60 W**, giving input current **0.25 A**. Do not apply the ideal equation unchanged when losses are specified.
+Vₛ = 230 × 1,000 ÷ 200 = **1,150 V**
+
+It is a **step-up transformer**.
+
+For an **ideal, 100% efficient transformer**:
+
+**VₚIₚ = VₛIₛ**
+
+Output power equals input power.
+
+Stepping up voltage lowers current for the same power. It does not create energy.
+
+**Example: transformer current**
+
+The output is 12 V at 4.0 A. The input potential difference is 240 V.
+
+**For an ideal transformer:**
+
+1. Output power = 12 × 4.0 = **48 W**.
+2. Input power is also **48 W**.
+3. Primary current Iₚ = 48 ÷ 240 = **0.20 A**.
+
+**If efficiency is 0.80 instead:**
+
+1. Input power = 48 ÷ 0.80 = **60 W**.
+2. Primary current = 60 ÷ 240 = **0.25 A**.
+
+Do not apply the ideal equation unchanged when losses are specified.
 
 **National Grid**
 

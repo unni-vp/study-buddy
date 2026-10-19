@@ -69,7 +69,17 @@ For a perpendicular wire: **F = BIl**.
 - I: current, **A**.
 - l: length of wire **within the field**, **m**.
 
-**Example:** B = 0.25 T, I = 3.0 A and l = 0.080 m. F = 0.25 × 3.0 × 0.080 = **0.060 N**. Do not use the total cable length if only part is in the field. Convert mT to T: **1 mT = 10⁻³ T**.
+**Example: force on a wire**
+
+- Magnetic flux density B = **0.25 T**.
+- Current I = **3.0 A**.
+- Length inside the field l = **0.080 m**.
+
+F = BIl = 0.25 × 3.0 × 0.080 = **0.060 N**
+
+Do not use the total cable length if only part is in the field.
+
+**Conversion:** 1 mT = 10⁻³ T.
 
 ## Motors, loudspeakers and headphones
 
@@ -143,17 +153,49 @@ Think of the core as a shared link between two separate circuits, rather than a 
 
 ## Transformer calculations and the National Grid
 
-**Vₚ/Vₛ = nₚ/nₛ**, or **Vₛ/Vₚ = nₛ/nₚ**.
+**Vₚ/Vₛ = nₚ/nₛ**
+
+Equivalently:
+
+**Vₛ/Vₚ = nₛ/nₚ**
 
 - **Step-up:** secondary has more turns; **Vₛ > Vₚ**.
 - **Step-down:** secondary has fewer turns; **Vₛ < Vₚ**.
 - Keep primary quantities together and secondary quantities together. Turns have no unit; potential difference is in V.
 
-**Example:** primary = 200 turns at 230 V; secondary = 1,000 turns. Vₛ = 230 × 1,000/200 = **1,150 V**. It is a step-up transformer.
+**Example: transformer turns**
 
-For an **ideal, 100% efficient transformer**, **VₚIₚ = VₛIₛ**. Output power equals input power. Stepping up voltage lowers current for the same power; it does not create energy.
+- Primary coil: **200 turns** at **230 V**.
+- Secondary coil: **1,000 turns**.
 
-**Example:** output = 12 V at 4.0 A, so output power = **48 W**. With an ideal 240 V input, Iₚ = 48/240 = **0.20 A**. If efficiency is 0.80, input power = 48/0.80 = **60 W**, giving input current **0.25 A**. Do not apply the ideal equation unchanged when losses are specified.
+Vₛ = 230 × 1,000 ÷ 200 = **1,150 V**
+
+It is a **step-up transformer**.
+
+For an **ideal, 100% efficient transformer**:
+
+**VₚIₚ = VₛIₛ**
+
+Output power equals input power.
+
+Stepping up voltage lowers current for the same power. It does not create energy.
+
+**Example: transformer current**
+
+The output is 12 V at 4.0 A. The input potential difference is 240 V.
+
+**For an ideal transformer:**
+
+1. Output power = 12 × 4.0 = **48 W**.
+2. Input power is also **48 W**.
+3. Primary current Iₚ = 48 ÷ 240 = **0.20 A**.
+
+**If efficiency is 0.80 instead:**
+
+1. Input power = 48 ÷ 0.80 = **60 W**.
+2. Primary current = 60 ÷ 240 = **0.25 A**.
+
+Do not apply the ideal equation unchanged when losses are specified.
 
 **National Grid**
 
