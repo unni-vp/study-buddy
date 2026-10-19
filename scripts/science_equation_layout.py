@@ -18,12 +18,13 @@ def equation_lines(value):
     """
     original=value
     for pattern,replacement in _CHAINS:value=re.sub(pattern,replacement,value)
+    value=value.replace(' with c in mol/dm³ and V in dm³', ' with:; **c** in mol/dm³; and **V** in dm³')
     value=re.sub(r'\.(\*\*)? (?='+_QUANTITY+r')', r'.\1; ', value)
     value=re.sub(r',\s*(?='+_QUANTITY+r')', '; ', value)
     value=value.replace('m = Δy/Δx, c at x=0', 'm = Δy/Δx; c at x=0')
     value=value.replace('m=Δy/Δx. c at x=0', 'm=Δy/Δx; c at x=0')
     value=value.replace('Ethene CH₂=CH₂, propene CH₂=CHCH₃', 'Ethene: CH₂=CH₂; Propene: CH₂=CHCH₃')
-    if '=' in value:
+    if any(symbol in value for symbol in ('=','→','⇌')):
         value=re.sub(r'(?<!e\.g)(?<!i\.e)(?<!s\.f)\.(\*\*)?(?= (?:\*\*)?[A-Z0-9])', r'.\1;', value)
     if value==original and ';' not in value:return [value]
     parts=[];current='';strong=False;i=0

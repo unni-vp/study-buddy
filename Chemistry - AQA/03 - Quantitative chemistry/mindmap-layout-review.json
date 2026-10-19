@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -8,7 +8,7 @@
     "body_pt": 11.21,
     "minimum_diagram_label_pt": 11.21
   },
-  "full_text": "Existing complete Markdown counterparts retained unchanged",
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
   "maps": [
     {
       "widths": [
@@ -18,7 +18,7 @@
       ],
       "column_heights": [
         555,
-        546,
+        568,
         568
       ],
       "panels": [
@@ -56,7 +56,7 @@
           "x": 348,
           "y": 316,
           "width": 338,
-          "height": 264
+          "height": 286
         },
         {
           "source_panels": [
@@ -164,14 +164,14 @@
     },
     {
       "widths": [
-        334,
-        318,
-        408
+        350,
+        350,
+        360
       ],
       "column_heights": [
-        480,
+        546,
         467,
-        480
+        546
       ],
       "panels": [
         {
@@ -180,7 +180,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 334,
+          "width": 350,
           "height": 264
         },
         {
@@ -189,44 +189,44 @@
           ],
           "x": 18,
           "y": 294,
-          "width": 334,
-          "height": 220
+          "width": 350,
+          "height": 286
         },
         {
           "source_panels": [
             2
           ],
-          "x": 364,
+          "x": 380,
           "y": 18,
-          "width": 318,
+          "width": 350,
           "height": 251
         },
         {
           "source_panels": [
             3
           ],
-          "x": 364,
+          "x": 380,
           "y": 281,
-          "width": 318,
+          "width": 350,
           "height": 220
         },
         {
           "source_panels": [
             4
           ],
-          "x": 694,
+          "x": 742,
           "y": 18,
-          "width": 408,
-          "height": 242
+          "width": 360,
+          "height": 286
         },
         {
           "source_panels": [
             5
           ],
-          "x": 694,
-          "y": 272,
-          "width": 408,
-          "height": 242
+          "x": 742,
+          "y": 316,
+          "width": 360,
+          "height": 264
         }
       ],
       "body_pt": 11.22,
@@ -242,7 +242,7 @@
         408
       ],
       "column_heights": [
-        432,
+        454,
         489,
         498
       ],
@@ -263,7 +263,7 @@
           "x": 18,
           "y": 259,
           "width": 302,
-          "height": 207
+          "height": 229
         },
         {
           "source_panels": [
@@ -308,5 +308,17 @@
       "title": "Yield & atom economy",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "00-quantitative-overview.svg",
+      "01-moles-and-reacting-masses.svg",
+      "02-solutions-and-gases.svg",
+      "03-yield-and-atom-economy.svg"
+    ]
+  }
 }
