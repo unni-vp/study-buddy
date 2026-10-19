@@ -19,7 +19,8 @@
 ## Aseptic technique: equipment
 
 - **Sterilise Petri dishes and medium** before use → remove unwanted microorganisms.
-- Sterilise the inoculating loop **through a flame**; let it cool before transfer → avoid contamination without killing the culture.
+- Sterilise the inoculating loop **through a flame**
+- let it cool before transfer → avoid contamination without killing the culture.
 - Open the lid **briefly** → reduce entry of airborne microorganisms.
 - Follow the school's handling and disposal procedure.
 
@@ -35,7 +36,8 @@
 - Prepare a bacterial lawn on sterile agar using aseptic technique.
 - Place discs containing **antiseptics or antibiotics** onto the agar.
 - Include a **control disc with solvent only** → check the solvent's effect.
-- Incubate safely; measure the clear **zones of inhibition**.
+- Incubate safely
+- measure the clear **zones of inhibition**.
 - Repeat and calculate a mean for each substance.
 
 ## Variables & conclusions
@@ -44,11 +46,13 @@
 - Dependent: **inhibition-zone diameter or area**.
 - Keep strain, agar, disc size, substance volume, time and temperature constant.
 - Larger zone suggests greater inhibition **under these conditions**.
-- Different substances spread through agar differently; zone size alone cannot show which works best inside a patient.
+- Different substances spread through agar differently
+- zone size alone cannot show which works best inside a patient.
 
 ## Zone area: πr²
 
-- Measure across the clear zone → **diameter**. Radius = diameter ÷ 2.
+- Measure across the clear zone → **diameter**.
+- Radius = diameter ÷ 2.
 - Diameter 12 mm → radius 6 mm.
 - Area = π × 6² = **113 mm²** (3 significant figures).
 - Use squared units. Only subtract disc area if the question asks for the zone excluding the disc.
@@ -58,7 +62,11 @@
 
 - Number of doublings: **n = total time ÷ division time**.
 - Final population = **starting population × 2ⁿ**.
-- 50 bacteria; 20-minute division time; 2 hours:
-- 120 ÷ 20 = 6 doublings; 50 × 2⁶ = **3,200**.
+- 50 bacteria
+- 20-minute division time
+- 2 hours:
+- 120 ÷ 20 = 6 doublings
+- 50 × 2⁶ = **3,200**.
 - Standard form: **3.2 × 10³**.
-- Keep time units consistent; apply the stated growth conditions.
+- Keep time units consistent
+- apply the stated growth conditions.

@@ -13,7 +13,8 @@
 - Before mitosis, the cell **grows**.
 - The number of structures, such as ribosomes and mitochondria, increases.
 - DNA **replicates** to make two copies of each chromosome.
-- **DNA amount doubles**; chromosome number has not doubled.
+- **DNA amount doubles**
+- chromosome number has not doubled.
 - The joined copies will separate during mitosis.
 
 ## 2. mitosis
@@ -22,7 +23,8 @@
 - One **complete set** is pulled to each end of the cell.
 - The **nucleus divides**.
 - DNA copying happened **before** this stage.
-- Mitosis maintains chromosome number; it does not halve it.
+- Mitosis maintains chromosome number
+- it does not halve it.
 
 ## 3. cell division
 
@@ -59,4 +61,5 @@
 - They can produce plant **clones quickly and economically**.
 - Clone rare plants → help prevent extinction.
 - Clone useful crop plants → many identical plants with features such as **disease resistance**.
-- Plant meristems produce plant cells; human stem cells produce human cells.
+- Plant meristems produce plant cells
+- human stem cells produce human cells.

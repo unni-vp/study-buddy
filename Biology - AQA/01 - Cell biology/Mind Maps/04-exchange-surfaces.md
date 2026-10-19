@@ -8,7 +8,8 @@
 
 ## Surface area to volume
 
-- For a cube of side a: **surface area = 6a²**; **volume = a³**.
+- For a cube of side a: **surface area = 6a²**
+- **volume = a³**.
 - 1 cm cube: 6 cm² ÷ 1 cm³ → **6:1**.
 - 3 cm cube: 54 cm² ÷ 27 cm³ → **2:1**.
 - The larger cube has **more total surface area**, but **less surface per unit volume**.
@@ -19,7 +20,8 @@
 - Many tiny air sacs → **large surface area**.
 - Thin alveolar and capillary walls → **short diffusion path**.
 - Good blood supply and ventilation maintain **steep gradients**.
-- **Oxygen:** alveolar air → blood. **Carbon dioxide:** blood → alveolar air.
+- **Oxygen:** alveolar air → blood.
+- **Carbon dioxide:** blood → alveolar air.
 - An alveolus is an air sac, not a whole lung.
 
 ## Small intestine
@@ -36,7 +38,8 @@
 - Thin surfaces → short diffusion distance.
 - Good blood supply carries substances to and from the surface.
 - Water flow maintains gradients for gas exchange.
-- **Oxygen diffuses from water into blood**; carbon dioxide moves out.
+- **Oxygen diffuses from water into blood**
+- carbon dioxide moves out.
 
 ## Plant roots
 
@@ -51,7 +54,8 @@
 - Thin → short diffusion distance.
 - **Stomata** allow gases to enter and leave.
 - Internal **air spaces** shorten gas diffusion paths.
-- Carbon dioxide enters for photosynthesis; oxygen can diffuse out.
+- Carbon dioxide enters for photosynthesis
+- oxygen can diffuse out.
 - State the substance and its direction in context.
 
 ## The four useful adaptations

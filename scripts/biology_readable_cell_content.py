@@ -282,7 +282,7 @@ COLUMNS={
 '02-cell-processes': [[0,1,5],[2,3],[4,6,7]],
 '03-transport-processes': [[(0,1),6],[2,7],[(4,5),3]],
 '04-exchange-surfaces': [[0,1],[2,3,4],[5,6,7]],
-'05-microscopy': [[0,1,5],[2,3,4],[6,7]],
+'05-microscopy': [[0,2,3],[1,4,7],[5,6]],
 '06-culturing-microorganisms': [[0,7],[(1,2),3],[(4,5),6]],
 }
 MERGED={

@@ -3,7 +3,8 @@
 ## Animal cells
 
 - **Eukaryotic:** DNA is enclosed in a nucleus.
-- **Nucleus** → genetic material; controls activities through genes.
+- **Nucleus** → genetic material
+- controls activities through genes.
 - **Cytoplasm** → many enzyme-controlled reactions.
 - **Membrane** → controls entry and exit.
 - **Mitochondria** → aerobic respiration transfers energy.
@@ -12,17 +13,22 @@
 ## Plant cells
 
 - Also have a membrane, cytoplasm, nucleus, mitochondria and ribosomes.
-- **Cellulose wall** → strength and support. Algal cells also have cellulose walls.
-- **Permanent vacuole** → cell sap; water helps keep the cell firm.
-- **Chloroplasts** → photosynthesis; chlorophyll absorbs light.
-- Chloroplasts occur in **photosynthetic cells**; root hair cells normally lack them.
+- **Cellulose wall** → strength and support.
+- Algal cells also have cellulose walls.
+- **Permanent vacuole** → cell sap
+- water helps keep the cell firm.
+- **Chloroplasts** → photosynthesis
+- chlorophyll absorbs light.
+- Chloroplasts occur in **photosynthetic cells**
+- root hair cells normally lack them.
 
 ## Bacterial cells
 
 - **Prokaryotic** and much smaller than plant or animal cells.
 - **No nucleus:** one main DNA loop lies in the cytoplasm.
 - Some have **plasmids**: small DNA rings carrying extra genes.
-- Have a membrane, cytoplasm, ribosomes and a wall; the wall is **not cellulose**.
+- Have a membrane, cytoplasm, ribosomes and a wall
+- the wall is **not cellulose**.
 - No mitochondria or chloroplasts.
 
 ## Sperm cells
@@ -61,4 +67,5 @@
 - Most animal cells differentiate **early in development**.
 - Many plant cells can differentiate **throughout life**.
 - In mature animals, cell division mainly **repairs and replaces** cells.
-- Remember: differentiation is the process; a specialised cell is the result.
+- Remember: differentiation is the process
+- a specialised cell is the result.
