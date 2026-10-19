@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -12,13 +12,13 @@
   "maps": [
     {
       "widths": [
-        394,
-        314,
+        354,
+        354,
         352
       ],
       "column_heights": [
-        597,
-        476,
+        619,
+        454,
         454
       ],
       "panels": [
@@ -28,34 +28,34 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 394,
-          "height": 372
+          "width": 354,
+          "height": 394
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 402,
-          "width": 394,
+          "y": 424,
+          "width": 354,
           "height": 229
         },
         {
           "source_panels": [
             2
           ],
-          "x": 424,
+          "x": 384,
           "y": 18,
-          "width": 314,
-          "height": 229
+          "width": 354,
+          "height": 207
         },
         {
           "source_panels": [
             3
           ],
-          "x": 424,
-          "y": 259,
-          "width": 314,
+          "x": 384,
+          "y": 237,
+          "width": 354,
           "height": 251
         },
         {
@@ -170,13 +170,13 @@
     },
     {
       "widths": [
-        318,
-        390,
+        322,
+        386,
         352
       ],
       "column_heights": [
-        520,
-        580,
+        542,
+        602,
         388
       ],
       "panels": [
@@ -186,7 +186,7 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 318,
+          "width": 322,
           "height": 273
         },
         {
@@ -195,26 +195,26 @@
           ],
           "x": 18,
           "y": 303,
-          "width": 318,
-          "height": 251
+          "width": 322,
+          "height": 273
         },
         {
           "source_panels": [
             2
           ],
-          "x": 348,
+          "x": 352,
           "y": 18,
-          "width": 390,
+          "width": 386,
           "height": 399
         },
         {
           "source_panels": [
             3
           ],
-          "x": 348,
+          "x": 352,
           "y": 429,
-          "width": 390,
-          "height": 185
+          "width": 386,
+          "height": 207
         },
         {
           "source_panels": [
@@ -247,5 +247,11 @@
       "title": "Heating & gas pressure",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
+  }
 }
