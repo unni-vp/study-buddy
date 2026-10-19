@@ -136,8 +136,12 @@ class LayoutPanel:
         out.append('</g></g>')
         return ''.join(out)
 
-def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=None,*,drawing_provider=drawing,purpose_provider=PURPOSES,apply_biology_visuals=True):
+def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=None,*,drawing_provider=drawing,purpose_provider=PURPOSES,apply_biology_visuals=True,_reflow_attempt=False):
     sources=with_visuals(sources,slug) if apply_biology_visuals else deepcopy(sources)
+    from science_equation_layout import equation_lines
+    for source in sources:
+        for content_group in source['groups']:
+            content_group['lines']=[part for value in content_group['lines'] for part in equation_lines(value)]
     columns=columns or [[0,1],[2,3],[4,5]]
     merged_titles=merged_titles or {}
     listed=[i for col in columns for item in col for i in (item if isinstance(item,tuple) else [item])]
@@ -168,6 +172,17 @@ def build_map(title,slug,sources,columns=None,merged_titles=None,picture_index=N
     if best is None:raise ValueError('No layout')
     _,widths,heights=best
     if max(heights)>H-2*MARGIN:
+        # Wider panels can fit separated equation lines without shrinking fonts.
+        if not _reflow_attempt and len(sources)==6:
+            choices=[[[0,1,2],[3,4,5]],[[0,3],[1,4],[2,5]],[[0,5],[1,3],[2,4]],[[0,4],[1,2],[3,5]]]
+            for alternative in choices:
+                if alternative==columns:continue
+                try:
+                    svg,record=build_map(title,slug,sources,alternative,merged_titles,picture_index,drawing_provider=drawing_provider,purpose_provider=purpose_provider,apply_biology_visuals=False,_reflow_attempt=True)
+                    record['reflow']='Rebalanced panel columns for separated equation lines; typography unchanged.'
+                    return svg,record
+                except ValueError:
+                    continue
         raise ValueError(f'{slug}: content needs {max(heights)} units; available {H-2*MARGIN}. Reorganise content, not fonts. {widths}, {heights}')
     defs=''.join(f'<marker id="arrow-{c[1:]}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="{c}" stroke-width="2" stroke-linejoin="round"/></marker>' for c in COLORS)
     description=' '.join(s['title']+': '+' '.join(plain(t) for g in s['groups'] for t in g['lines']) for s in sources)

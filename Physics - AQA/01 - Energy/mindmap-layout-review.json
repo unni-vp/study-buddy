@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-13",
+  "reviewed": "2026-10-19",
   "generator": "scripts/readable_subject_mindmaps.py",
   "style": "Content-sized panels; no central hub; black body text; bold colon labels; consistent coloured headings; light inset dividers; compact gutters",
   "print": {
@@ -12,13 +12,13 @@
   "maps": [
     {
       "widths": [
-        290,
-        442,
-        328
+        338,
+        370,
+        352
       ],
       "column_heights": [
-        548,
-        575,
+        476,
+        663,
         432
       ],
       "panels": [
@@ -28,52 +28,52 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 290,
-          "height": 251
+          "width": 338,
+          "height": 229
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 281,
-          "width": 290,
-          "height": 301
+          "y": 259,
+          "width": 338,
+          "height": 251
         },
         {
           "source_panels": [
             2
           ],
-          "x": 320,
+          "x": 368,
           "y": 18,
-          "width": 442,
-          "height": 372
+          "width": 370,
+          "height": 438
         },
         {
           "source_panels": [
             3
           ],
-          "x": 320,
-          "y": 402,
-          "width": 442,
-          "height": 207
+          "x": 368,
+          "y": 468,
+          "width": 370,
+          "height": 229
         },
         {
           "source_panels": [
             4
           ],
-          "x": 774,
+          "x": 750,
           "y": 18,
-          "width": 328,
+          "width": 352,
           "height": 229
         },
         {
           "source_panels": [
             5
           ],
-          "x": 774,
+          "x": 750,
           "y": 259,
-          "width": 328,
+          "width": 352,
           "height": 207
         }
       ],
@@ -91,14 +91,14 @@
     },
     {
       "widths": [
-        350,
-        358,
+        326,
+        382,
         352
       ],
       "column_heights": [
-        467,
-        591,
-        498
+        533,
+        635,
+        564
       ],
       "panels": [
         {
@@ -107,35 +107,35 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 350,
-          "height": 264
+          "width": 326,
+          "height": 286
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 294,
-          "width": 350,
-          "height": 207
+          "y": 316,
+          "width": 326,
+          "height": 251
         },
         {
           "source_panels": [
             2
           ],
-          "x": 380,
+          "x": 356,
           "y": 18,
-          "width": 358,
-          "height": 207
+          "width": 382,
+          "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 380,
-          "y": 237,
-          "width": 358,
-          "height": 388
+          "x": 356,
+          "y": 259,
+          "width": 382,
+          "height": 410
         },
         {
           "source_panels": [
@@ -144,14 +144,14 @@
           "x": 750,
           "y": 18,
           "width": 352,
-          "height": 229
+          "height": 295
         },
         {
           "source_panels": [
             5
           ],
           "x": 750,
-          "y": 259,
+          "y": 325,
           "width": 352,
           "height": 273
         }
@@ -175,7 +175,7 @@
         300
       ],
       "column_heights": [
-        572,
+        616,
         599,
         612
       ],
@@ -187,16 +187,16 @@
           "x": 18,
           "y": 18,
           "width": 410,
-          "height": 391
+          "height": 413
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 421,
+          "y": 443,
           "width": 410,
-          "height": 185
+          "height": 207
         },
         {
           "source_panels": [
@@ -320,5 +320,11 @@
       "title": "Energy resources",
       "source_panels_preserved": 6
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
+  }
 }
