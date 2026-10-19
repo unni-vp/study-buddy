@@ -167,7 +167,17 @@ The **Haber process makes ammonia**, a starting material for nitrogen fertiliser
 
 **N₂(g) + 3H₂(g) ⇌ 2NH₃(g)**, with an **exothermic forward reaction**.
 
-Nitrogen comes from **air**. Hydrogen is commonly obtained from **natural gas**, though other sources can be used. Purified gases are supplied in the **1:3 nitrogen:hydrogen ratio** and passed over an **iron catalyst**, at about **450°C and 200 atmospheres**.
+**Raw materials for the Haber process**
+
+- **Nitrogen:** obtained from air.
+- **Hydrogen:** commonly obtained from natural gas, though other sources can be used.
+
+**Operating conditions**
+
+- Purified gases in a **1:3 nitrogen:hydrogen ratio**.
+- An **iron catalyst**.
+- Temperature of about **450°C**.
+- Pressure of about **200 atmospheres**.
 
 ![The Haber flow separates reaction, ammonia condensation and recycling of unreacted gases.](../Diagrams/haber-flow.svg)
 
