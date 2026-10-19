@@ -4,9 +4,25 @@ NOTES=r'''
 
 **Rate** tells you how quickly reactants are used or products are formed. Think of filling a bucket: total water tells you the amount, while litres per minute tells you the speed. A faster reaction does not necessarily make more product.
 
-**Mean rate = quantity of reactant used/time**, or **quantity of product formed/time**. Quantities can be **mass, volume or moles**, giving units **g s⁻¹, cm³ s⁻¹ or mol s⁻¹**.
+**Mean rate = quantity of reactant used ÷ time**
 
-Examples: 48 cm³ gas in 60 s gives **0.80 cm³ s⁻¹**. Consumption of 0.015 mol in 30 s gives **5.0 ×10⁻⁴ mol s⁻¹**. If a reactant quantity decreases, its rate of consumption is normally quoted as a positive amount used per second; the remaining-quantity graph has a negative slope.
+Alternatively:
+
+**Mean rate = quantity of product formed ÷ time**
+
+Choose the unit to match the quantity measured:
+
+| Quantity measured | Rate unit |
+|---|---|
+| Mass in g | g s⁻¹ |
+| Volume in cm³ | cm³ s⁻¹ |
+| Amount in mol | mol s⁻¹ |
+
+**Gas-volume example:** 48 cm³ of gas produced in 60 s gives a mean rate of 48 ÷ 60 = **0.80 cm³ s⁻¹**.
+
+**Moles example:** consuming 0.015 mol in 30 s gives a mean rate of 0.015 ÷ 30 = **5.0 × 10⁻⁴ mol s⁻¹**.
+
+A graph of reactant remaining slopes down because the quantity is decreasing. The **rate of consumption** is normally quoted as the positive amount used per second.
 
 ## Curves, tangents and final yield
 
@@ -19,7 +35,11 @@ A product–time graph starts low, rises and levels when no more product forms. 
 
 ![A faster and slower reaction reach the same final product amount when starting amounts and limiting reactant are unchanged.](../Diagrams/rate-curves.svg)
 
-For rate at a particular time, draw a **tangent at that point** and use a large triangle on the tangent: **change in product quantity/change in time**. A tangent rise of 24 cm³ over 40 s gives **0.60 cm³ s⁻¹**. A chord between two curve points gives an interval mean, not an instantaneous rate.
+For rate at a particular time, draw a **tangent at that point** and use a large triangle on the tangent: **change in product quantity/change in time**.
+
+A tangent rise of 24 cm³ over 40 s gives **0.60 cm³ s⁻¹**.
+
+A chord between two curve points gives an interval mean, not an instantaneous rate.
 
 ![An accurately drawn tangent and gradient triangle show how to calculate instantaneous gas-production rate.](../Diagrams/rate-tangent.svg)
 
@@ -96,14 +116,18 @@ It is like two equally fast escalators moving people in opposite directions: num
 
 ## Concentration changes at equilibrium
 
-**Le Chatelier’s principle:** an equilibrium system responds to a change by **opposing that change**, establishing a new equilibrium.
+**Le Chatelier's principle** says that an equilibrium system responds to a change by **opposing that change**. It then establishes a new equilibrium.
 
-- Add a reactant: shift towards products, using some added reactant.
-- Remove a product: shift towards products, replacing some removed product.
-- Add a product: shift towards reactants.
-- Remove a reactant: shift towards reactants.
+| Change | Favoured direction | Why? |
+|---|---|---|
+| Add a reactant | Towards products | Some of the added reactant is used up. |
+| Remove a product | Towards products | Some of the removed product is replaced. |
+| Add a product | Towards reactants | Some of the added product is used up. |
+| Remove a reactant | Towards reactants | Some of the removed reactant is replaced. |
 
-For **A + B ⇌ C**, increasing A favours C. The system does not necessarily remove every bit of added A. Explain the direction using the stated change, not “it balances things” without detail.
+For **A + B ⇌ C**, adding A initially increases its concentration. The forward reaction then forms more C until a new equilibrium is reached. The system does not necessarily use up every bit of the added A.
+
+Explain the direction using the actual change. Saying that the reaction “balances things” does not identify which substance increases or why.
 
 ## Temperature and pressure changes
 
@@ -112,7 +136,7 @@ Treat heat as the transferred energy when reasoning:
 - **Increase temperature:** favours the **endothermic direction**.
 - **Decrease temperature:** favours the **exothermic direction**.
 
-For an exothermic forward reaction, cooling increases equilibrium product yield, but usually **slows the rate**. Heating speeds rates but can lower that equilibrium yield. Keep the two effects separate.
+**Rate and equilibrium yield answer different questions.** For an exothermic forward reaction, cooling favours the products and increases their equilibrium yield. However, particles have less energy, so successful collisions occur less often and production is usually slower. Heating speeds the reactions but can reduce the equilibrium product yield.
 
 Pressure rules apply to **gases**:
 
@@ -121,7 +145,9 @@ Pressure rules apply to **gases**:
 - Equal gas totals on both sides: no equilibrium-position shift from pressure alone.
 - Count **equation coefficients**, not individual atoms, and do not count solids/liquids as gas moles.
 
-For **N₂(g) + 3H₂(g) ⇌ 2NH₃(g)**, four gas moles become two, so higher pressure favours ammonia. A catalyst reaches the same equilibrium faster. Industrial choices balance **rate, yield, energy, cost and safety**, not just maximum theoretical yield.
+**Ammonia example:** **N₂(g) + 3H₂(g) ⇌ 2NH₃(g)** has four gas moles on the left and two on the right. Increasing pressure favours the side with fewer gas moles, so it increases the equilibrium ammonia yield.
+
+A catalyst speeds both directions and reaches the **same equilibrium sooner**. Industrial conditions must balance rate and yield with energy, cost and safety. The condition giving the highest theoretical yield may be too slow or expensive in practice.
 
 ## Common calculation and explanation traps
 

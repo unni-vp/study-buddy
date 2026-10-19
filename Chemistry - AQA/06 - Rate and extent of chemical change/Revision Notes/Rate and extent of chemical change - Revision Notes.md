@@ -4,7 +4,19 @@
 
 **Rate** tells you how quickly reactants are used or products are formed. Think of filling a bucket: total water tells you the amount, while litres per minute tells you the speed. A faster reaction does not necessarily make more product.
 
-**Mean rate = quantity of reactant used/time**, or **quantity of product formed/time**. Quantities can be **mass, volume or moles**, giving units **g s⁻¹, cm³ s⁻¹ or mol s⁻¹**.
+**Mean rate = quantity of reactant used ÷ time**
+
+Alternatively:
+
+**Mean rate = quantity of product formed ÷ time**
+
+Choose the unit to match the quantity measured:
+
+| Quantity measured | Rate unit |
+|---|---|
+| Mass in g | g s⁻¹ |
+| Volume in cm³ | cm³ s⁻¹ |
+| Amount in mol | mol s⁻¹ |
 
 **Gas-volume example:** 48 cm³ of gas produced in 60 s gives a mean rate of 48 ÷ 60 = **0.80 cm³ s⁻¹**.
 
@@ -23,7 +35,11 @@ A product–time graph starts low, rises and levels when no more product forms. 
 
 ![A faster and slower reaction reach the same final product amount when starting amounts and limiting reactant are unchanged.](../Diagrams/rate-curves.svg)
 
-For rate at a particular time, draw a **tangent at that point** and use a large triangle on the tangent: **change in product quantity/change in time**. A tangent rise of 24 cm³ over 40 s gives **0.60 cm³ s⁻¹**. A chord between two curve points gives an interval mean, not an instantaneous rate.
+For rate at a particular time, draw a **tangent at that point** and use a large triangle on the tangent: **change in product quantity/change in time**.
+
+A tangent rise of 24 cm³ over 40 s gives **0.60 cm³ s⁻¹**.
+
+A chord between two curve points gives an interval mean, not an instantaneous rate.
 
 ![An accurately drawn tangent and gradient triangle show how to calculate instantaneous gas-production rate.](../Diagrams/rate-tangent.svg)
 
