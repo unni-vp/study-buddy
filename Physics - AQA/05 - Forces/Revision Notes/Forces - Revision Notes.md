@@ -41,11 +41,13 @@ To stretch, compress or bend a **stationary object**, more than one force acts: 
 
 **Hooke's law: F = ke**, up to the **limit of proportionality**.
 
-- k: spring constant, N/m; a larger k means a stiffer spring.
-- e: extension or compression in m, not total length.
-- A 6.0 N force extends a spring by 0.030 m: k = 6.0/0.030 = **200 N/m**.
-- A force–extension graph is straight through the origin while proportional. With F vertical and e horizontal, its gradient is **k**.
-- Beyond the proportional limit, F and e are no longer directly proportional. This is not automatically the same point as permanent deformation.
+**Spring constant, k:** this measures stiffness, in N/m. A larger value means a greater force is needed for the same extension.
+
+**Extension, e:** this is the change in length, measured in metres. It is not the total length. For a force of 6.0 N and extension of 0.030 m, k = F/e = 6.0 ÷ 0.030 = **200 N/m**.
+
+**Reading the graph:** while force and extension are proportional, the force–extension graph is a straight line through the origin. With F on the vertical axis and e on the horizontal axis, its gradient is **k**.
+
+Beyond the **limit of proportionality**, the graph curves because F and e are no longer directly proportional. This does not automatically mean the spring is permanently deformed. Check whether it returns to its original length when unloaded.
 
 Energy stored within the proportional region is **Eₑ = ½ke²**. It equals the triangular area under an F-against-e graph. A spring stores energy while stretching, so use average force, not final force × extension for a Hooke's-law spring.
 
@@ -118,11 +120,13 @@ Here acceleration = 8/4 = **2 m/s²** for the first 4 s. Displacement = ½ × 4 
 
 ## Newton's laws and terminal velocity
 
-**First law:** zero resultant force means rest or **constant velocity**. **Inertia** is the tendency to keep that state. Motion does not require a continuing forward resultant force.
+**First law:** if the resultant force is zero, a stationary object stays at rest and a moving object keeps a **constant velocity**. A car travelling steadily has a driving force that balances resistance. It does not need a forward resultant force to keep moving. **Inertia** is the tendency to stay at rest or keep the same velocity.
 
-**Second law: F = ma**, using the **resultant force**, mass in kg and acceleration in m/s². Greater F gives greater a for fixed mass; greater mass gives smaller a for fixed F. **Inertial mass = F/a**, measuring resistance to changing velocity.
+**Second law:** **F = ma**, where F is the **resultant force** in N, m is mass in kg and a is acceleration in m/s². For the same mass, a greater resultant force produces greater acceleration. For the same force, a greater mass produces less acceleration. **Inertial mass = F/a** measures how difficult it is to change velocity.
 
-**Third law:** interacting objects exert **equal and opposite forces of the same type on each other**. They act on **different objects**, so do not cancel on one free-body diagram. A book's weight and the table's upward force both act on the book; they are not a third-law pair. The partner to Earth's pull on the book is the book's pull on Earth.
+**Third law:** when two objects interact, they exert **equal and opposite forces of the same type on each other**. The forces act on **different objects**, so they do not cancel on one free-body diagram.
+
+For example, a book's weight and the table's upward force both act on the book. They are therefore not a third-law pair. The partner to Earth's gravitational pull on the book is the book's gravitational pull on Earth.
 
 **Falling through air**
 
@@ -155,10 +159,13 @@ Use **Δv/Δt** for acceleration when measured velocities and their time interva
 
 **Stopping distance = thinking distance + braking distance.**
 
-- **Thinking distance = speed × reaction time**. Tiredness, alcohol/drugs and distraction can increase reaction time.
-- Typical reaction times are about **0.2–0.9 s**. A ruler-drop test measures distance fallen before catching; use a conversion table or suitable equation to obtain time. Repeat with the same setup and compare means, while recognising practice and anticipation effects.
-- Wet/icy roads, worn tyres and poor brakes can increase **braking distance** by reducing the available braking force.
-- Friction does work, reducing kinetic energy and heating brakes. Large braking forces give large decelerations, with risks of overheating and losing control.
+**Thinking distance** is the distance travelled before the driver starts braking. Calculate it using **speed × reaction time**. Tiredness, alcohol, drugs and distraction can increase reaction time, making this distance longer at the same speed.
+
+**Measuring reaction time:** typical values are about **0.2–0.9 s**. In a ruler-drop test, measure how far the ruler falls before it is caught. Convert distance to time using a suitable table or equation. Repeat with the same setup and compare means. Practice and anticipating the drop can affect the results.
+
+**Braking distance** is the distance travelled after braking starts. Wet or icy roads, worn tyres and poor brakes can reduce the braking force and increase this distance.
+
+Braking friction does work, reducing the car's kinetic energy and heating the brakes. A large braking force produces a large deceleration. Brakes may overheat, and the vehicle may lose control.
 
 For constant mass and braking force, kinetic energy is proportional to **speed squared**, so **doubling speed quadruples braking distance**. Thinking distance only doubles if reaction time stays fixed. Total stopping distance therefore does not usually simply double or quadruple.
 

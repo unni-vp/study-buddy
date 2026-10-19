@@ -22,231 +22,202 @@
 
 **Answer:** Speed.
 
+**6.** A car travels in a straight line at constant velocity. Which statement must be true? Choose one: A no forces act; B the resultant force is zero; C its weight is zero; D its driving force exceeds resistance.
+
+**Answer:** B: the resultant force is zero.
+
 ## 2 marks
 
-**6.** A person walks 30 m east and 10 m west. State the total distance and displacement.
+**7.** A person walks 30 m east and 10 m west. State the total distance and displacement.
 
-**Answer:**
-
-- Distance = 30 + 10 = **40 m**.
+**Answer:** - Distance = 30 + 10 = **40 m**.
 - Displacement = **20 m east**.
 
-**7.** Calculate the weight of a 50 kg object where g = 9.8 N/kg.
+**8.** Calculate the weight of a 50 kg object where g = 9.8 N/kg.
 
 **Answer:** **W = mg** = 50 × 9.8 = **490 N**.
 
-**8.** Forces of 18 N east and 7 N west act on an object. Find the resultant.
+**9.** Forces of 18 N east and 7 N west act on an object. Find the resultant.
 
 **Answer:** 18 − 7 = **11 N east**.
 
-**9.** A 5 N resultant force acts on a 2.0 kg object. Calculate its acceleration.
+**10.** A 5 N resultant force acts on a 2.0 kg object. Calculate its acceleration.
 
 **Answer:** **a = F/m** = 5/2.0 = **2.5 m/s²** in the direction of the resultant force.
 
-**10.** Explain how an object can move at constant speed but have changing velocity.
+**11.** Explain how an object can move at constant speed but have changing velocity.
 
-**Answer:**
-
-- Velocity includes **direction** as well as speed.
+**Answer:** - Velocity includes **direction** as well as speed.
 - Motion around a circle changes direction, so velocity changes even at constant speed.
 
-**11.** State the difference between elastic and inelastic deformation.
+**12.** State the difference between elastic and inelastic deformation.
 
-**Answer:**
-
-- Elastic deformation **reverses when the forces are removed**.
+**Answer:** - Elastic deformation **reverses when the forces are removed**.
 - Inelastic deformation leaves a **permanent shape change**.
 
-**12.** Explain why using a longer spanner can make a nut easier to turn.
+**13.** Explain why using a longer spanner can make a nut easier to turn.
 
-**Answer:**
-
-- It increases the **perpendicular distance from the pivot**.
+**Answer:** - It increases the **perpendicular distance from the pivot**.
 - **M = Fd**, so the same force produces a greater moment.
 
-**13.** Give two factors that can increase thinking distance at the same speed.
+**14.** Give two factors that can increase thinking distance at the same speed.
 
-**Answer:**
-
-- Tiredness can **increase reaction time**.
+**Answer:** - Tiredness can **increase reaction time**.
 - Distraction can **delay the driver’s response**.
 
-**14.** Why does atmospheric pressure decrease with height?
+**15.** Why does atmospheric pressure decrease with height?
 
-**Answer:**
-
-- At higher altitude there is **less air above** a surface.
+**Answer:** - At higher altitude there is **less air above** a surface.
 - The weight of the air above and its density are lower, so atmospheric pressure is lower.
 
 ## 3 marks
 
-**15.** A spring extends from 12.0 cm to 15.0 cm under a force of 9.0 N. Calculate its spring constant within the proportional region.
+**16.** A spring extends from 12.0 cm to 15.0 cm under a force of 9.0 N. Calculate its spring constant within the proportional region.
 
-**Answer:**
-
-- Extension = 15.0 − 12.0 = 3.0 cm = **0.030 m**.
+**Answer:** - Extension = 15.0 − 12.0 = 3.0 cm = **0.030 m**.
 - **k = F/e** = 9.0/0.030.
 - **300 N/m**.
 
-**16.** A force of 25 N moves a box 2.4 m along the force direction. Calculate the work and describe the main energy transfer if the box moves steadily against friction.
+**17.** A force of 25 N moves a box 2.4 m along the force direction. Calculate the work and describe the main energy transfer if the box moves steadily against friction.
 
-**Answer:**
-
-- **W = Fs** = 25 × 2.4 = **60 J**.
+**Answer:** - **W = Fs** = 25 × 2.4 = **60 J**.
 - The force does work against friction.
 - Energy transfers into **thermal stores** of the surfaces and surroundings.
 
-**17.** A 40 N force acts 0.15 m from a pivot. A second perpendicular force acts 0.30 m on the other side. Find the force needed for rotational balance.
+**18.** A 40 N force acts 0.15 m from a pivot. A second perpendicular force acts 0.30 m on the other side. Find the force needed for rotational balance.
 
-**Answer:**
-
-- First moment = 40 × 0.15 = **6.0 Nm**.
+**Answer:** - First moment = 40 × 0.15 = **6.0 Nm**.
 - Balance requires F × 0.30 = 6.0.
 - **F = 20 N**.
 
-**18.** Calculate the pressure due to water at a depth of 3.0 m. Density is 1,000 kg/m³ and g = 9.8 N/kg.
+**19.** Calculate the pressure due to water at a depth of 3.0 m. Density is 1,000 kg/m³ and g = 9.8 N/kg.
 
-**Answer:**
-
-- **p = hρg**.
+**Answer:** - **p = hρg**.
 - p = 3.0 × 1,000 × 9.8.
 - **29,400 Pa**, above the pressure at the surface.
 
-**19.** Explain why an immersed object experiences upthrust.
+**20.** Explain why an immersed object experiences upthrust.
 
-**Answer:**
-
-- Liquid pressure **increases with depth**.
+**Answer:** - Liquid pressure **increases with depth**.
 - Pressure on the bottom is greater than on the top.
 - The difference gives an **upward resultant force**.
 
-**20.** A car accelerates uniformly from 4.0 m/s to 16 m/s in 6.0 s. Calculate its acceleration and state the resultant force if its mass is 1,000 kg.
+**21.** A car accelerates uniformly from 4.0 m/s to 16 m/s in 6.0 s. Calculate its acceleration and state the resultant force if its mass is 1,000 kg.
 
-**Answer:**
-
-- a = (v − u)/t = (16 − 4.0)/6.0 = **2.0 m/s²**.
+**Answer:** - a = (v − u)/t = (16 − 4.0)/6.0 = **2.0 m/s²**.
 - **F = ma**.
 - F = 1,000 × 2.0 = **2,000 N**.
 
-**21.** Explain how a falling object reaches terminal velocity.
+**22.** Explain how a falling object reaches terminal velocity.
 
-**Answer:**
-
-- Initially weight exceeds drag, so it accelerates downwards.
+**Answer:** - Initially weight exceeds drag, so it accelerates downwards.
 - Increasing speed increases **drag**, reducing the resultant force.
 - When **drag equals weight**, acceleration is zero and velocity becomes constant.
 
-**22.** A book rests on a table. Explain why its weight and the table’s normal force are not a Newton’s third-law pair, and identify the partner to its weight.
+**23.** A book rests on a table. Explain why its weight and the table’s normal force are not a Newton’s third-law pair, and identify the partner to its weight.
 
-**Answer:**
-
-- Both named forces act on the **same object**, the book.
+**Answer:** - Both named forces act on the **same object**, the book.
 - Third-law partners act on **different objects**.
 - The partner to Earth’s gravitational pull on the book is the **book’s gravitational pull on Earth**.
 
-**23.** A 1,500 kg car at 20 m/s has a driver reaction time of 0.60 s. Calculate its momentum and thinking distance.
+**24.** A 1,500 kg car at 20 m/s has a driver reaction time of 0.60 s. Calculate its momentum and thinking distance.
 
-**Answer:**
-
-- Momentum = mv = 1,500 × 20 = **30,000 kg m/s**.
+**Answer:** - Momentum = mv = 1,500 × 20 = **30,000 kg m/s**.
 - Thinking distance = speed × reaction time.
 - 20 × 0.60 = **12 m**.
 
-**24.** Explain how an airbag reduces injury in a collision using momentum.
+**25.** Explain how an airbag reduces injury in a collision using momentum.
 
-**Answer:**
-
-- The passenger undergoes the same required **momentum change** to come to rest.
+**Answer:** - The passenger undergoes the same required **momentum change** to come to rest.
 - The airbag increases the **stopping time**.
 - **F = Δp/Δt**, so average force is smaller.
 
 ## 4 marks
 
-**25.** An object accelerates uniformly from rest at 3.0 m/s² over 24 m. Calculate its final speed.
+**26.** An object accelerates uniformly from rest at 3.0 m/s² over 24 m. Calculate its final speed.
 
-**Answer:**
-
-- **v² − u² = 2as**.
+**Answer:** - **v² − u² = 2as**.
 - v² = 0 + 2 × 3.0 × 24 = **144**.
 - v = √144.
 - **12 m/s**.
 
-**26.** A 3.0 kg trolley moving right at 4.0 m/s sticks to a 1.0 kg trolley moving left at 2.0 m/s. Calculate their shared final velocity, assuming no resultant external force.
+**27.** A 3.0 kg trolley moving right at 4.0 m/s sticks to a 1.0 kg trolley moving left at 2.0 m/s. Calculate their shared final velocity, assuming no resultant external force.
 
-**Answer:**
-
-- Choose right positive: initial momentum = 3.0 × 4.0 + 1.0 × (−2.0) = **10 kg m/s**.
+**Answer:** - Choose right positive: initial momentum = 3.0 × 4.0 + 1.0 × (−2.0) = **10 kg m/s**.
 - Total mass = **4.0 kg**.
 - Conserved momentum gives 4.0v = 10.
 - **v = 2.5 m/s right**.
 
-**27.** A 0.50 kg ball moving right at 6.0 m/s rebounds left at 4.0 m/s in 0.10 s. Find the average force on the ball.
+**28.** A 0.50 kg ball moving right at 6.0 m/s rebounds left at 4.0 m/s in 0.10 s. Find the average force on the ball.
 
-**Answer:**
-
-- Right positive: u = +6.0, v = −4.0 m/s.
+**Answer:** - Right positive: u = +6.0, v = −4.0 m/s.
 - Δp = m(v − u) = 0.50 × (−4.0 − 6.0) = **−5.0 kg m/s**.
 - F = Δp/Δt = −5.0/0.10 = **−50 N**.
 - The force is **50 N left**.
 
-**28.** Use the graph to calculate acceleration during the first 4 s and total displacement in 7 s.
+**29.** Use the graph to calculate acceleration during the first 4 s and total displacement in 7 s.
 
 ![Velocity increases from zero to 8 m/s in four seconds, then remains at 8 m/s for three seconds.](../Diagrams/velocity-time-question.svg)
 
-**Answer:**
-
-- Acceleration = gradient = (8 − 0)/(4 − 0) = **2 m/s²**.
+**Answer:** - Acceleration = gradient = (8 − 0)/(4 − 0) = **2 m/s²**.
 - Triangle area = ½ × 4 × 8 = **16 m**.
 - Rectangle area = 3 × 8 = **24 m**.
 - Total displacement = **40 m**.
 
-**29.** Explain the effect of doubling a car’s speed on thinking distance and braking distance, assuming fixed reaction time, mass and braking force.
+**30.** Explain the effect of doubling a car’s speed on thinking distance and braking distance, assuming fixed reaction time, mass and braking force.
 
-**Answer:**
-
-- Thinking distance = vt, so it **doubles**.
+**Answer:** - Thinking distance = vt, so it **doubles**.
 - Kinetic energy = ½mv², so it **quadruples**.
 - Braking work Fs removes that energy; with fixed F, braking distance **quadruples**.
 - Total stopping distance is the sum, so its increase depends on the original two distances; it does not simply double.
 
-**30.** A piston experiences 120 N over 6.0 cm². Calculate the pressure in pascals.
+**31.** A piston experiences 120 N over 6.0 cm². Calculate the pressure in pascals.
 
-**Answer:**
-
-- 1 cm² = **10⁻⁴ m²**.
+**Answer:** - 1 cm² = **10⁻⁴ m²**.
 - Area = **0.00060 m²**.
 - p = F/A = 120/0.00060.
 - **200,000 Pa**.
 
+**32.** Forces of 6 N east and 8 N north act on an object. Use a scale drawing to find the resultant force. Give its magnitude and its direction measured north of east.
+
+**Answer:** - Use a scale such as **1 cm = 2 N**. Draw a 3 cm arrow east, then a 4 cm arrow north from its tip.
+- Draw the resultant from the start of the first arrow to the end of the second.
+- Its measured length is **5 cm**, corresponding to **10 N**.
+- Its direction is approximately **53° north of east**. The resultant must include a direction as well as a size.
+
+## 5 marks
+
+**33.** A 2.0 kg trolley moves at 5.0 m/s and sticks to a stationary 3.0 kg trolley. There is no resultant external force during the collision. The joined trolleys then stop in 0.40 s. Calculate their velocity immediately after the collision and the magnitude of the average resultant force while they stop.
+
+**Answer:** - Initial momentum = **mv** = 2.0 × 5.0 = **10 kg m/s**.
+- After collision, total mass = 2.0 + 3.0 = **5.0 kg**.
+- Momentum is conserved: final velocity = 10 ÷ 5.0 = **2.0 m/s**, in the original direction.
+- During stopping, the magnitude of the momentum change is 5.0 × 2.0 = **10 kg m/s**.
+- Average force magnitude = **Δp/Δt** = 10 ÷ 0.40 = **25 N**. It acts opposite to the motion.
+
 ## 6 marks
 
-**31.** Plan an investigation of force and spring extension. Include how to find the spring constant and test whether deformation is elastic.
+**34.** Plan an investigation of force and spring extension. Include how to find the spring constant and test whether deformation is elastic.
 
-**Answer:**
-
-- Secure a spring to a stable stand with a ruler and pointer beside it. Measure the **unloaded length**.
+**Answer:** - Secure a spring to a stable stand with a ruler and pointer beside it. Measure the **unloaded length**.
 - Add known masses in steps, including the hanger in total mass. Calculate force using **F = mg**.
 - Let the spring settle, read length at eye level and calculate **extension = loaded − unloaded length**.
 - Repeat readings and plot force vertically against extension horizontally, using metres. The straight section’s **gradient is k**.
 - Remove loads and check return to the original length to test **elastic recovery**. Loss of proportionality and permanent deformation are not necessarily the same point.
 - Keep the spring/setup fixed, avoid overloading, secure the stand and protect against falling masses or a snapping spring.
 
-**32.** Describe how to investigate the effect of resultant driving force on the acceleration of a trolley system while keeping total moving mass constant.
+**35.** Describe how to investigate the effect of resultant driving force on the acceleration of a trolley system while keeping total moving mass constant.
 
-**Answer:**
-
-- Use a low-friction trolley connected by string over a pulley to a mass hanger. Secure the track and pulley.
+**Answer:** - Use a low-friction trolley connected by string over a pulley to a mass hanger. Secure the track and pulley.
 - Use light gates or a motion sensor to measure velocity changes and calculate **a = Δv/Δt** before the hanger hits the floor.
 - Move masses from the trolley to the hanger: **total moving mass remains constant**, while hanging weight increases.
 - For the whole moving system, driving force is approximately **hanger mass × g**, allowing for friction. It is not simply the tension force on the trolley alone.
 - Repeat for several forces, calculate mean accelerations and plot **a against F**. An approximately straight line through the origin supports direct proportionality.
 - Control friction and starting conditions, keep the string taut and catch the trolley safely.
 
-**33.** A 1,000 kg car travels at 20 m/s. Reaction time is 0.70 s and braking force is constant at 5,000 N. Calculate stopping distance and explain how wet road conditions could change it.
+**36.** A 1,000 kg car travels at 20 m/s. Reaction time is 0.70 s and braking force is constant at 5,000 N. Calculate stopping distance and explain how wet road conditions could change it.
 
-**Answer:**
-
-- Thinking distance = 20 × 0.70 = **14 m**.
+**Answer:** - Thinking distance = 20 × 0.70 = **14 m**.
 - Kinetic energy = ½ × 1,000 × 20² = **200,000 J**.
 - Braking work equals energy removed, so braking distance = 200,000/5,000 = **40 m**.
 - Total stopping distance = 14 + 40 = **54 m**.
