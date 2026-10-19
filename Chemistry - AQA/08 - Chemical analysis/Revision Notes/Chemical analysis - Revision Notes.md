@@ -30,7 +30,11 @@ Think of runners on a route who stop for different amounts of time: those spendi
 
 **Rf = distance moved by substance/distance moved by solvent front.**
 
-Both lengths must use the same units. Rf is a ratio with **no unit**, normally between 0 and 1. A spot travelling 3.6 cm with solvent front 6.0 cm gives **Rf = 0.60**.
+Both lengths must use the same units. Rf is a ratio with **no unit**, normally between 0 and 1.
+
+**Example:** a spot travels 3.6 cm and the solvent front travels 6.0 cm.
+
+Rf = 3.6 ÷ 6.0 = **0.60**
 
 ![A, B and mixed sample C separate from a shared baseline, with their solvent front marked.](../Diagrams/chromatogram.svg)
 
@@ -51,7 +55,15 @@ Keep flammable/toxic solvents away from flames and use appropriate ventilation a
 | Carbon dioxide | Bubble into or shake with limewater | **Milky/cloudy** limewater |
 | Chlorine | Expose damp litmus paper | **Bleached white** |
 
-**Limewater is calcium hydroxide solution**; cloudiness is solid calcium carbonate. Use a burning splint for hydrogen but a **glowing** splint for oxygen. Extinguishing a flame alone is not the specific test for carbon dioxide. Chlorine may redden blue litmus before bleaching, but the identifying result is white; **paper must be damp**. Do not smell gases to identify them.
+**Gas-test details**
+
+- **Limewater** is calcium hydroxide solution. Its cloudiness is solid calcium carbonate.
+- For **hydrogen**, use a burning splint.
+- For **oxygen**, use a **glowing** splint.
+- Extinguishing a flame alone is not the specific test for carbon dioxide.
+- Chlorine may redden blue litmus before bleaching, but the identifying result is white. The **paper must be damp**.
+
+Do not smell gases to identify them.
 
 ## Flame tests for metal ions
 

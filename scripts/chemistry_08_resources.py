@@ -30,11 +30,19 @@ Think of runners on a route who stop for different amounts of time: those spendi
 
 **Rf = distance moved by substance/distance moved by solvent front.**
 
-Both lengths must use the same units. Rf is a ratio with **no unit**, normally between 0 and 1. A spot travelling 3.6 cm with solvent front 6.0 cm gives **Rf = 0.60**.
+Both lengths must use the same units. Rf is a ratio with **no unit**, normally between 0 and 1.
+
+**Example:** a spot travels 3.6 cm and the solvent front travels 6.0 cm.
+
+Rf = 3.6 ÷ 6.0 = **0.60**
 
 ![A, B and mixed sample C separate from a shared baseline, with their solvent front marked.](../Diagrams/chromatogram.svg)
 
-Use **same solvent, paper and conditions** to compare Rf values. A matching reference spot supports identification, but different substances can sometimes coincide. Multiple spots show multiple separated components. **One spot does not prove purity in every case**: components may overlap or fail to dissolve. Try a different solvent or another suitable technique when needed. Do not assume colour identifies the chemical.
+**Comparing samples:** use the **same solvent, paper and conditions** when comparing Rf values. A spot matching a reference supports identification, but different substances can sometimes occupy the same position. Colour alone does not identify the chemical.
+
+**Judging purity:** several separated spots show that a sample contains more than one component. However, **one spot does not always prove purity**. Components may overlap or may not dissolve in that solvent.
+
+To test an uncertain conclusion, try a different solvent or another suitable analytical technique.
 
 Keep flammable/toxic solvents away from flames and use appropriate ventilation and eye protection. Repeat measurements and keep spots small to reduce uncertainty in centre position.
 
@@ -47,7 +55,15 @@ Keep flammable/toxic solvents away from flames and use appropriate ventilation a
 | Carbon dioxide | Bubble into or shake with limewater | **Milky/cloudy** limewater |
 | Chlorine | Expose damp litmus paper | **Bleached white** |
 
-**Limewater is calcium hydroxide solution**; cloudiness is solid calcium carbonate. Use a burning splint for hydrogen but a **glowing** splint for oxygen. Extinguishing a flame alone is not the specific test for carbon dioxide. Chlorine may redden blue litmus before bleaching, but the identifying result is white; **paper must be damp**. Do not smell gases to identify them.
+**Gas-test details**
+
+- **Limewater** is calcium hydroxide solution. Its cloudiness is solid calcium carbonate.
+- For **hydrogen**, use a burning splint.
+- For **oxygen**, use a **glowing** splint.
+- Extinguishing a flame alone is not the specific test for carbon dioxide.
+- Chlorine may redden blue litmus before bleaching, but the identifying result is white. The **paper must be damp**.
+
+Do not smell gases to identify them.
 
 ## Flame tests for metal ions
 
@@ -76,7 +92,11 @@ A **precipitate is an insoluble solid formed in solution**. Add sodium hydroxide
 | Iron(II), Fe²⁺ | **Green** | Remains initially |
 | Iron(III), Fe³⁺ | **Brown** | Remains |
 
-Colourless solution is not a white precipitate. White alone cannot distinguish aluminium, calcium and magnesium: use the **excess test**, and a flame test can support calcium identification. Iron(II) hydroxide can oxidise on standing; record the initial observation.
+**A precipitate is a solid, not simply a colour change.** A colourless solution is not a white precipitate.
+
+**White precipitates need further testing:** aluminium, calcium and magnesium all give white precipitates. Add **excess sodium hydroxide** to check for aluminium, whose precipitate dissolves. A flame test can help identify calcium.
+
+Iron(II) hydroxide can oxidise on standing. Record the **initial green precipitate** rather than waiting until the sample changes.
 
 Balanced ionic examples:
 
@@ -98,7 +118,11 @@ Use **fresh portions** of a dissolved sample for different tests so earlier reag
 | Iodide, I⁻ | Dilute **nitric acid**, then silver nitrate | **Yellow** silver iodide precipitate |
 | Sulfate, SO₄²⁻ | Dilute **hydrochloric acid**, then barium chloride | **White** barium sulfate precipitate |
 
-Acid removes interfering carbonate ions. **Do not use hydrochloric acid before a halide test**: it adds chloride and could produce a false silver-chloride result. Do not use sulfuric acid before the sulfate test, because it adds sulfate. The precipitate observations must be matched to the **correct reagent sequence**, not judged by colour alone.
+**Why add acid first?** It removes carbonate ions that could otherwise form an interfering precipitate.
+
+**Choose an acid that does not add the ion being tested.** Hydrochloric acid adds chloride, so it could give a false silver-chloride result in a halide test. Sulfuric acid adds sulfate, so it is unsuitable before testing for sulfate.
+
+Always link the precipitate to the **correct reagent sequence**. A white solid alone is not enough to identify an ion.
 
 Example ionic equations:
 
