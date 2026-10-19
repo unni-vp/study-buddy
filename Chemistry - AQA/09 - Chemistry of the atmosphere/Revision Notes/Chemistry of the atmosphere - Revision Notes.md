@@ -32,9 +32,11 @@ Photosynthesis both **removes carbon dioxide** and **releases oxygen**. Do not s
 
 Carbon can leave the atmosphere and become stored over long timescales:
 
-- **Limestone:** carbonates form sediments; shells/skeletons of marine organisms add calcium carbonate. Accumulation and compaction form limestone.
-- **Coal:** dead vegetation accumulates in oxygen-poor conditions, is buried and altered by heat/pressure over millions of years.
-- **Crude oil and natural gas:** dead marine biomass such as plankton is buried in sediments under oxygen-poor conditions and transformed by heat/pressure over millions of years.
+**Limestone:** carbonates form sediments, and shells and skeletons of marine organisms add calcium carbonate. These materials accumulate and become compacted, forming limestone.
+
+**Coal:** dead vegetation accumulates in oxygen-poor conditions. It is buried and changed by heat and pressure over millions of years.
+
+**Crude oil and natural gas:** dead marine biomass, such as plankton, becomes buried in sediments under oxygen-poor conditions. Heat and pressure transform it over millions of years.
 
 These processes store carbon that once came from carbon dioxide. Burning fuels returns much of it rapidly to the atmosphere. Fossil fuels do not form from dinosaurs as their main source and are not replaced rapidly enough to be renewable.
 
@@ -76,7 +78,9 @@ An increase in average global temperature affects climate. Four useful potential
 
 Melting floating sea ice is not the main direct source of sea-level rise; distinguish it from land ice. One rainy day or cold winter does not establish a long-term global trend.
 
-Climate evidence uses long datasets, multiple locations and methods, physical understanding and models. Models have uncertainties because atmospheric/ocean interactions, clouds, future emissions and local responses are complex. **Uncertainty in the precise size or local timing of an effect does not erase evidence for the overall process**.
+**Evidence for a climate trend** comes from long datasets, many locations and different methods. Scientists combine these observations with physical explanations and models.
+
+**Model uncertainty** arises because the atmosphere, oceans and clouds interact in complex ways. Future emissions and local responses are also uncertain. **Uncertainty about an effect's exact size or local timing does not erase the evidence for the overall process**.
 
 Evaluate a report by checking duration, sample/geographical coverage, reliable measurements, alternative influences, whether all relevant data are shown and whether the work was **peer-reviewed**. Peer review and independent studies help check reasoning. Media reports can oversimplify or select evidence; communicate the trend and its uncertainty together.
 
@@ -96,7 +100,12 @@ Include raw materials, manufacturing, transport, use and disposal. Compare equiv
 
 Evaluate full-life-cycle data rather than claiming a product is zero-impact because it releases nothing locally. Actions can be limited by finance, consumer choices, food needs, technology, political cooperation and changing demand.
 
-Example: manufacturing 40 kg CO₂e, transport 10, use 80, disposal 5 gives **135 kg CO₂e**. Cutting use emissions by 25% saves **20 kg**, giving a new total **115 kg**. Calculate against the original whole footprint when asked for total percentage reduction.
+**Worked example:** a product emits 40 kg CO₂e during manufacture, 10 kg during transport, 80 kg during use and 5 kg during disposal.
+
+1. Add all stages: 40 + 10 + 80 + 5 = **135 kg CO₂e**.
+2. Reducing use emissions by 25% saves 0.25 × 80 = **20 kg CO₂e**.
+3. The new footprint is 135 − 20 = **115 kg CO₂e**.
+4. The whole-footprint reduction is 20 ÷ 135 × 100 = **14.8%**, not 25%, because only one stage was reduced.
 
 ## Fuel combustion and pollutant formation
 

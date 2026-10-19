@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Expanded long-term carbon storage into short headed paragraphs.",
+    "Separated climate evidence, model uncertainty and report evaluation.",
+    "Broke the footprint calculation into steps while preserving all historical figures, pollutant comparisons and the greenhouse diagram."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 35,
+  "mark_groups": {
+    "1": 8,
+    "2": 12,
+    "3": 9,
+    "4": 3,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark practice includes atmospheric evolution, pollutant mechanisms, evidence evaluation and quantitative footprint work.",
+    "Added multiple choice and five-mark comparative lifecycle-data analysis.",
+    "No current atmospheric concentration beyond stable approximate composition introduced without dated evidence."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "Which process causes global dimming? Choose one: A particles reducing sunlight reaching the surface; B greenhouse gases absorbing outgoing infrared; C ozone being formed; D carbon monoxide carrying oxygen in the blood.",
+      "answer": "A: particles reducing sunlight reaching the surface."
+    },
+    {
+      "number": 33,
+      "marks": 5,
+      "prompt": "Two products provide the same service for the same lifetime. Use the data to calculate each total carbon footprint and the percentage reduction from choosing B instead of A. Explain why using only emissions during use would give an incomplete comparison.\n\n| Stage | A (kg CO₂e) | B (kg CO₂e) |\n|---|---|---|\n| Manufacture | 30 | 60 |\n| Transport | 5 | 10 |\n| Use | 80 | 30 |\n| Disposal | 5 | 5 |",
+      "answer": "- A's total footprint = 30 + 5 + 80 + 5 = **120 kg CO₂e**.\n- B's total footprint = 60 + 10 + 30 + 5 = **105 kg CO₂e**.\n- Choosing B saves 120 − 105 = **15 kg CO₂e**.\n- Percentage reduction = 15 ÷ 120 × 100 = **12.5%**.\n- B has lower use emissions but higher manufacture and transport emissions. A valid comparison includes the **whole life cycle**, using equivalent lifetimes and services."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.9",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
