@@ -44,7 +44,9 @@ State assumptions and data quality.
 
 Reduce unnecessary demand.
 
-Reuse bottles; washing/return transport matter.
+Reuse bottles
+
+washing/return transport matter.
 
 Recycle by melting/reforming or appropriate process.
 

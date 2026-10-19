@@ -36,7 +36,9 @@ Screening and grit removal.
 
 Sedimentation: sludge and effluent.
 
-Sludge anaerobic digestion; effluent aerobic treatment.
+Sludge anaerobic digestion
+
+effluent aerobic treatment.
 
 Industrial chemicals may need extra removal.
 
@@ -56,6 +58,8 @@ Same volumes or compare concentration.
 
 Small masses limited by balance resolution.
 
-Safe heating/eye protection; open receiver.
+Safe heating/eye protection
+
+open receiver.
 
 Do not distil dry or taste samples.

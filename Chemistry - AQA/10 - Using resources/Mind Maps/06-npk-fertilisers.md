@@ -44,7 +44,9 @@ Soluble phosphate differs from starting rock.
 
 Neutralise suitable acid/ammonia solution.
 
-Titration finds proportions; fresh mix without indicator.
+Titration finds proportions
+
+fresh mix without indicator.
 
 Concentrate, crystallise, separate and dry.
 
