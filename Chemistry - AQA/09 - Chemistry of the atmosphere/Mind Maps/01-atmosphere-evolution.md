@@ -48,7 +48,9 @@ Coal: buried vegetation.
 
 Oil/gas: buried marine biomass.
 
-Heat/pressure over millions of years; finite fuels.
+Heat/pressure over millions of years
+
+finite fuels.
 
 ## Evidence and change
 

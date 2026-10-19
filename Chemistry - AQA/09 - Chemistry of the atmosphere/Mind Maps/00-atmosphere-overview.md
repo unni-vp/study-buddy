@@ -16,7 +16,9 @@ Photosynthesis removes CO₂ and releases O₂.
 
 Carbonates/limestone store carbon.
 
-Coal from vegetation; oil/gas from marine biomass.
+Coal from vegetation
+
+oil/gas from marine biomass.
 
 Burning returns stored carbon rapidly.
 
@@ -28,7 +30,9 @@ Surface emits long-wave infrared.
 
 Gases absorb/re-emit some infrared.
 
-Natural effect supports life; increased gases enhance it.
+Natural effect supports life
+
+increased gases enhance it.
 
 ## Activities and climate
 
