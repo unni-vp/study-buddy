@@ -4,10 +4,13 @@
 
 A chemical reaction rearranges atoms. Think of dismantling toy-brick models and rebuilding them: the shapes change, but no bricks disappear.
 
-- **Mass is conserved**: in a closed system, total mass of reactants = total mass of products.
-- Balance an equation by changing the **numbers in front** of formulae. Never change the small numbers inside a formula.
-- **2H₂ + O₂ → 2H₂O** means two hydrogen molecules react with one oxygen molecule to form two water molecules. It also gives the **mole ratio 2 : 1 : 2**. It does not give a mass ratio of 2 : 1 : 2.
-- In **2Ca(OH)₂**, there are 2 Ca, 4 O and 4 H atoms altogether.
+**Conservation of mass:** in a closed system, the total mass of reactants equals the total mass of products because no atoms enter or leave.
+
+**Balancing equations:** change the **coefficients in front of formulae**. Never change the small subscript numbers inside a formula, because that would change the substance.
+
+**Molecules and moles:** **2H₂ + O₂ → 2H₂O** means that two hydrogen molecules react with one oxygen molecule to form two water molecules. It also gives the **mole ratio 2 : 1 : 2**. It does not give the mass ratio.
+
+**Counting atoms:** in 2Ca(OH)₂, the coefficient multiplies the whole formula. There are **2 Ca, 4 O and 4 H atoms** altogether.
 
 ### Why a measured mass can change
 
@@ -75,7 +78,7 @@ For 0.30 mol Mg mixed with 0.10 mol O₂:
 - There is 0.30 mol Mg, so **oxygen is limiting**.
 - MgO formed = **0.20 mol**; magnesium left = **0.10 mol**.
 
-A useful check is **moles ÷ equation coefficient** for each reactant. The smallest value identifies the limiting reactant. Never compare reactant masses alone.
+To check this systematically, divide the **moles of each reactant by its equation coefficient**. For magnesium, 0.30 ÷ 2 = 0.15. For oxygen, 0.10 ÷ 1 = 0.10. The smaller value belongs to oxygen, confirming that it runs out first. Comparing masses alone cannot identify the limiting reactant because the equation uses **mole ratios**.
 
 ## Finding equation ratios from masses
 
@@ -104,7 +107,11 @@ Concentration tells you how much solute is packed into a given volume of **solut
 
 **Example:** 5.0 g NaCl in a final solution volume of 250 cm³: V = 0.250 dm³; c = 5.0 ÷ 0.250 = **20 g/dm³**.
 
-**Example:** 0.200 mol/dm³ NaOH, volume 150 cm³: n = 0.200 × 0.150 = **0.0300 mol**. Mᵣ = 40, so mass = **1.20 g**.
+**Worked example:** find the mass of NaOH in 150 cm³ of a 0.200 mol/dm³ solution.
+
+1. Convert the volume: 150 ÷ 1000 = **0.150 dm³**.
+2. Calculate moles: n = cV = 0.200 × 0.150 = **0.0300 mol**.
+3. Use the molar mass, 40 g/mol: mass = 0.0300 × 40 = **1.20 g**.
 
 - Convert mol/dm³ to g/dm³ by **multiplying by molar mass**; reverse by dividing.
 - At fixed volume, doubling the solute doubles concentration.
@@ -135,7 +142,10 @@ At **room temperature and pressure (RTP: 20 °C, 1 atmosphere)**, one mole of an
 - **Moles = gas volume (dm³) ÷ 24**.
 - Equal moles of different gases have equal volumes only at the **same temperature and pressure**.
 
-**Example:** 4.4 g CO₂, Mᵣ = 44: n = 4.4 ÷ 44 = 0.10 mol; volume = **2.4 dm³** at RTP.
+**Worked example:** 4.4 g of CO₂ has a molar mass of 44 g/mol.
+
+1. Calculate moles: n = 4.4 ÷ 44 = **0.10 mol**.
+2. At RTP, multiply by 24 dm³/mol: volume = 0.10 × 24 = **2.4 dm³**.
 
 For reacting gases, equation coefficients give **volume ratios** at the same conditions. In **2H₂ + O₂ → 2H₂O**, 60 cm³ hydrogen needs 30 cm³ oxygen. Do not use the gas-volume rule for liquid water.
 

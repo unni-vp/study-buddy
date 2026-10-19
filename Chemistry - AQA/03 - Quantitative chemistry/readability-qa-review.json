@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Separated coefficient, subscript and mole-ratio explanations.",
+    "Expanded limiting-reactant reasoning so the recipe comparison leads to the calculation.",
+    "Unpacked solution and gas worked examples into clear individual steps without changing the arithmetic."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 30,
+  "mark_groups": {
+    "1": 5,
+    "2": 9,
+    "3": 6,
+    "4": 7,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing mark groups already cover1,2,3,4,5 and6marks; no missing-mark filler added.",
+    "The bank already contains extended mole calculations and route evaluation. Added multiple choice and processing titration readings before a concentration calculation.",
+    "Official June2023 8462/1H demonstrates five-mark titration and six-mark gas-volume calculations."
+  ],
+  "additional_practice": [
+    {
+      "number": 5,
+      "marks": 1,
+      "prompt": "In the equation N₂ + 3H₂ → 2NH₃, what is the ratio 1 : 3 : 2? Choose one: A a mass ratio; B a mole ratio; C a density ratio; D a ratio of atomic numbers.",
+      "answer": "B: a mole ratio."
+    },
+    {
+      "number": 27,
+      "marks": 4,
+      "prompt": "A student titrates a monoprotic acid against 25.0 cm³ of 0.100 mol/dm³ NaOH. The reaction ratio is 1 : 1. Calculate the mean of the accurate titres, excluding the rough trial, and use it to find the acid concentration to three significant figures.\n\n| Trial | Acid titre (cm³) |\n|---|---|\n| Rough | 25.50 |\n| 1 | 24.40 |\n| 2 | 24.45 |\n| 3 | 24.35 |",
+      "answer": "- The three accurate titres agree within 0.10 cm³. Their mean is (24.40 + 24.45 + 24.35) ÷ 3 = **24.40 cm³**.\n- NaOH volume = **0.0250 dm³**. Its amount is n = cV = 0.100 × 0.0250 = **0.00250 mol**.\n- The acid reacts in a 1 : 1 ratio, so its amount is also **0.00250 mol**.\n- Acid concentration = 0.00250 ÷ 0.02440 = **0.102 mol/dm³**, to three significant figures."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.3",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf titration and titanium-dioxide calculations",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

@@ -18,184 +18,158 @@
 
 **Answer:** 24 dm³.
 
+**5.** In the equation N₂ + 3H₂ → 2NH₃, what is the ratio 1 : 3 : 2? Choose one: A a mass ratio; B a mole ratio; C a density ratio; D a ratio of atomic numbers.
+
+**Answer:** B: a mole ratio.
+
 ## 2 marks
 
-**5.** Calculate the relative formula mass of Ca(OH)₂. Aᵣ: Ca = 40, O = 16, H = 1.
+**6.** Calculate the relative formula mass of Ca(OH)₂. Aᵣ: Ca = 40, O = 16, H = 1.
 
-**Answer:**
-
-- Mᵣ = 40 + 2 × (16 + 1).
+**Answer:** - Mᵣ = 40 + 2 × (16 + 1).
 - **Mᵣ = 74**, with no unit.
 
-**6.** Explain why magnesium gains mass when it burns in air.
+**7.** Explain why magnesium gains mass when it burns in air.
 
-**Answer:**
-
-- Magnesium **reacts with oxygen from the air**.
+**Answer:** - Magnesium **reacts with oxygen from the air**.
 - The magnesium oxide includes the mass of this oxygen as well as the original magnesium.
 
-**7.** Explain why an open flask containing acid and carbonate loses mass during the reaction.
+**8.** Explain why an open flask containing acid and carbonate loses mass during the reaction.
 
-**Answer:**
-
-- **Carbon dioxide gas forms and escapes**.
+**Answer:** - **Carbon dioxide gas forms and escapes**.
 - Its mass is no longer measured with the flask, although total mass including the gas is conserved.
 
-**8.** Calculate the amount of substance in 5.6 g iron. Aᵣ: Fe = 56.
+**9.** Calculate the amount of substance in 5.6 g iron. Aᵣ: Fe = 56.
 
-**Answer:**
-
-- n = mass ÷ molar mass = 5.6 ÷ 56.
+**Answer:** - n = mass ÷ molar mass = 5.6 ÷ 56.
 - **0.10 mol**.
 
-**9.** Calculate the mass of 0.15 mol sodium hydroxide, NaOH. Aᵣ: Na = 23, O = 16, H = 1.
+**10.** Calculate the mass of 0.15 mol sodium hydroxide, NaOH. Aᵣ: Na = 23, O = 16, H = 1.
 
-**Answer:**
-
-- Mᵣ = 40; mass = 0.15 × 40.
+**Answer:** - Mᵣ = 40; mass = 0.15 × 40.
 - **6.0 g**.
 
-**10.** A reaction has theoretical yield 12.0 g and actual yield 9.0 g. Calculate the percentage yield.
+**11.** A reaction has theoretical yield 12.0 g and actual yield 9.0 g. Calculate the percentage yield.
 
-**Answer:**
-
-- Yield = (9.0 ÷ 12.0) × 100.
+**Answer:** - Yield = (9.0 ÷ 12.0) × 100.
 - **75%**.
 
-**11.** Give two reasons a reaction may produce less than its theoretical yield.
+**12.** Give two reasons a reaction may produce less than its theoretical yield.
 
-**Answer:**
-
-- Some product is **lost during transfer or separation**.
+**Answer:** - Some product is **lost during transfer or separation**.
 - A **reversible reaction may not go to completion**.
 
-**12.** A solution contains 3.0 g solute in 150 cm³. Calculate its concentration in g/dm³.
+**13.** A solution contains 3.0 g solute in 150 cm³. Calculate its concentration in g/dm³.
 
-**Answer:**
-
-- Volume = 0.150 dm³.
+**Answer:** - Volume = 0.150 dm³.
 - c = 3.0 ÷ 0.150 = **20 g/dm³**.
 
-**13.** The mass of solute is doubled and the final solution volume is halved. How does concentration change? Explain.
+**14.** The mass of solute is doubled and the final solution volume is halved. How does concentration change? Explain.
 
-**Answer:**
-
-- Concentration becomes **four times greater**.
+**Answer:** - Concentration becomes **four times greater**.
 - c = mass/volume, so the factor is 2 ÷ 0.5 = 4.
 
 ## 3 marks
 
-**14.** Calculate the percentage by mass of oxygen in Mg(NO₃)₂. Aᵣ: Mg = 24, N = 14, O = 16.
+**15.** Calculate the percentage by mass of oxygen in Mg(NO₃)₂. Aᵣ: Mg = 24, N = 14, O = 16.
 
-**Answer:**
-
-- Mᵣ = 24 + 2 × (14 + 3 × 16) = **148**.
+**Answer:** - Mᵣ = 24 + 2 × (14 + 3 × 16) = **148**.
 - Oxygen contributes 6 × 16 = **96**.
 - Percentage = 96/148 × 100 = **64.9%** to 3 significant figures.
 
-**15.** Calculate the number of molecules in 8.8 g carbon dioxide. Mᵣ: CO₂ = 44.
+**16.** Calculate the number of molecules in 8.8 g carbon dioxide. Mᵣ: CO₂ = 44.
 
-**Answer:**
-
-- Moles = 8.8 ÷ 44 = **0.20 mol**.
+**Answer:** - Moles = 8.8 ÷ 44 = **0.20 mol**.
 - Molecules = 0.20 × 6.02 × 10²³.
 - **1.204 × 10²³ molecules**.
 
-**16.** Repeated temperature rises are 8.2, 8.4 and 8.6 °C. Calculate the mean and estimate uncertainty as half the range. Explain whether repeating removes an incorrectly calibrated thermometer error.
+**17.** Repeated temperature rises are 8.2, 8.4 and 8.6 °C. Calculate the mean and estimate uncertainty as half the range. Explain whether repeating removes an incorrectly calibrated thermometer error.
 
-**Answer:**
-
-- Mean = **8.4 °C**.
+**Answer:** - Mean = **8.4 °C**.
 - Half-range = (8.6 − 8.2)/2 = **0.2 °C**; report 8.4 ± 0.2 °C.
 - Repeating does **not remove systematic calibration error**.
 
-**17.** Calculate the mass of sodium hydroxide in 200 cm³ of 0.250 mol/dm³ solution. Mᵣ: NaOH = 40.
+**18.** Calculate the mass of sodium hydroxide in 200 cm³ of 0.250 mol/dm³ solution. Mᵣ: NaOH = 40.
 
-**Answer:**
-
-- Volume = **0.200 dm³**.
+**Answer:** - Volume = **0.200 dm³**.
 - n = cV = 0.250 × 0.200 = **0.0500 mol**.
 - Mass = 0.0500 × 40 = **2.00 g**.
 
-**18.** Calculate the volume of 7.0 g nitrogen gas at RTP. Mᵣ: N₂ = 28.
+**19.** Calculate the volume of 7.0 g nitrogen gas at RTP. Mᵣ: N₂ = 28.
 
-**Answer:**
-
-- n = 7.0/28 = **0.25 mol**.
+**Answer:** - n = 7.0/28 = **0.25 mol**.
 - V = n × 24.
 - **6.0 dm³**, or 6,000 cm³.
 
-**19.** Calcium carbonate decomposes: CaCO₃ → CaO + CO₂. Calculate the atom economy for producing CaO. Mᵣ: CaCO₃ = 100, CaO = 56, CO₂ = 44.
+**20.** Calcium carbonate decomposes: CaCO₃ → CaO + CO₂. Calculate the atom economy for producing CaO. Mᵣ: CaCO₃ = 100, CaO = 56, CO₂ = 44.
 
-**Answer:**
-
-- Desired-product formula mass = **56**.
+**Answer:** - Desired-product formula mass = **56**.
 - Total reactant formula mass = **100**.
 - Atom economy = 56/100 × 100 = **56%**.
 
 ## 4 marks
 
-**20.** Find the mass of aluminium obtained from 20.4 g Al₂O₃. Equation: 2Al₂O₃ → 4Al + 3O₂. Aᵣ: Al = 27, O = 16. Assume complete conversion.
+**21.** Find the mass of aluminium obtained from 20.4 g Al₂O₃. Equation: 2Al₂O₃ → 4Al + 3O₂. Aᵣ: Al = 27, O = 16. Assume complete conversion.
 
-**Answer:**
-
-- Mᵣ Al₂O₃ = 2 × 27 + 3 × 16 = **102**.
+**Answer:** - Mᵣ Al₂O₃ = 2 × 27 + 3 × 16 = **102**.
 - Moles Al₂O₃ = 20.4/102 = **0.200 mol**.
 - Ratio 2 : 4 gives **0.400 mol Al**.
 - Mass Al = 0.400 × 27 = **10.8 g**.
 
-**21.** 3.2 g methane reacts with 12.8 g oxygen to produce 8.8 g carbon dioxide and 7.2 g water. Deduce the balanced equation. Mᵣ: CH₄ = 16, O₂ = 32, CO₂ = 44, H₂O = 18.
+**22.** 3.2 g methane reacts with 12.8 g oxygen to produce 8.8 g carbon dioxide and 7.2 g water. Deduce the balanced equation. Mᵣ: CH₄ = 16, O₂ = 32, CO₂ = 44, H₂O = 18.
 
-**Answer:**
-
-- Moles: CH₄ 0.20; O₂ 0.40; CO₂ 0.20; H₂O 0.40.
+**Answer:** - Moles: CH₄ 0.20; O₂ 0.40; CO₂ 0.20; H₂O 0.40.
 - Divide by 0.20 to get **1 : 2 : 1 : 2**.
 - **CH₄ + 2O₂ → CO₂ + 2H₂O**.
 - Atom totals and masses balance: 16.0 g reactants gives 16.0 g products.
 
-**22.** Nitrogen and hydrogen react: N₂ + 3H₂ → 2NH₃. Mix 0.20 mol N₂ with 0.30 mol H₂. Identify the limiting reactant and calculate the amount of ammonia and the amount of nitrogen left.
+**23.** Nitrogen and hydrogen react: N₂ + 3H₂ → 2NH₃. Mix 0.20 mol N₂ with 0.30 mol H₂. Identify the limiting reactant and calculate the amount of ammonia and the amount of nitrogen left.
 
-**Answer:**
-
-- 0.30 mol H₂ needs 0.30/3 = **0.10 mol N₂**, less than the 0.20 mol available.
+**Answer:** - 0.30 mol H₂ needs 0.30/3 = **0.10 mol N₂**, less than the 0.20 mol available.
 - **Hydrogen is limiting**.
 - Ammonia formed = 0.30 × 2/3 = **0.20 mol**.
 - Nitrogen left = 0.20 − 0.10 = **0.10 mol**.
 
-**23.** At the same temperature and pressure, 80 cm³ hydrogen is mixed with 50 cm³ oxygen and ignited. Equation: 2H₂ + O₂ → 2H₂O. Calculate the oxygen volume left after reaction and explain why the equation does not give the volume of liquid water.
+**24.** At the same temperature and pressure, 80 cm³ hydrogen is mixed with 50 cm³ oxygen and ignited. Equation: 2H₂ + O₂ → 2H₂O. Calculate the oxygen volume left after reaction and explain why the equation does not give the volume of liquid water.
 
-**Answer:**
-
-- 80 cm³ H₂ needs **40 cm³ O₂**.
+**Answer:** - 80 cm³ H₂ needs **40 cm³ O₂**.
 - Hydrogen is limiting, so oxygen left = 50 − 40 = **10 cm³**.
 - Gas volume ratios equal mole ratios at the **same temperature and pressure**.
 - Liquid water is not a gas, so the gas-volume rule cannot give its volume.
 
-**24.** A student heats 20.0 g CaCO₃ and collects 8.4 g CaO. Calculate the percentage yield. Equation: CaCO₃ → CaO + CO₂. Mᵣ: CaCO₃ = 100, CaO = 56.
+**25.** A student heats 20.0 g CaCO₃ and collects 8.4 g CaO. Calculate the percentage yield. Equation: CaCO₃ → CaO + CO₂. Mᵣ: CaCO₃ = 100, CaO = 56.
 
-**Answer:**
-
-- CaCO₃ moles = 20.0/100 = **0.200 mol**.
+**Answer:** - CaCO₃ moles = 20.0/100 = **0.200 mol**.
 - CaO theoretical moles = 0.200; theoretical mass = 0.200 × 56 = **11.2 g**.
 - Yield = 8.4/11.2 × 100.
 - **75%**.
 
-**25.** For X₂O₃ + 3H₂ → 2X + 3H₂O, the atom economy for X is 75.0%. Calculate Aᵣ of X. Aᵣ: H = 1, O = 16.
+**26.** For X₂O₃ + 3H₂ → 2X + 3H₂O, the atom economy for X is 75.0%. Calculate Aᵣ of X. Aᵣ: H = 1, O = 16.
 
-**Answer:**
-
-- Let Aᵣ of X = x. Desired mass from equation = **2x**; reactant total = **2x + 54**.
+**Answer:** - Let Aᵣ of X = x. Desired mass from equation = **2x**; reactant total = **2x + 54**.
 - 2x/(2x + 54) = 0.750.
 - 2x = 1.5x + 40.5, so 0.5x = 40.5.
 - **x = 81.0**.
 
+**27.** A student titrates a monoprotic acid against 25.0 cm³ of 0.100 mol/dm³ NaOH. The reaction ratio is 1 : 1. Calculate the mean of the accurate titres, excluding the rough trial, and use it to find the acid concentration to three significant figures.
+
+| Trial | Acid titre (cm³) |
+|---|---|
+| Rough | 25.50 |
+| 1 | 24.40 |
+| 2 | 24.45 |
+| 3 | 24.35 |
+
+**Answer:** - The three accurate titres agree within 0.10 cm³. Their mean is (24.40 + 24.45 + 24.35) ÷ 3 = **24.40 cm³**.
+- NaOH volume = **0.0250 dm³**. Its amount is n = cV = 0.100 × 0.0250 = **0.00250 mol**.
+- The acid reacts in a 1 : 1 ratio, so its amount is also **0.00250 mol**.
+- Acid concentration = 0.00250 ÷ 0.02440 = **0.102 mol/dm³**, to three significant figures.
+
 ## 5 marks
 
-**26.** 25.0 cm³ of 0.0800 mol/dm³ Na₂CO₃ reacts exactly with 20.0 cm³ HCl. Calculate the HCl concentration in mol/dm³ and g/dm³. Equation: Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O. Mᵣ: HCl = 36.5.
+**28.** 25.0 cm³ of 0.0800 mol/dm³ Na₂CO₃ reacts exactly with 20.0 cm³ HCl. Calculate the HCl concentration in mol/dm³ and g/dm³. Equation: Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O. Mᵣ: HCl = 36.5.
 
-**Answer:**
-
-- Na₂CO₃ volume = **0.0250 dm³**.
+**Answer:** - Na₂CO₃ volume = **0.0250 dm³**.
 - Moles Na₂CO₃ = 0.0800 × 0.0250 = **0.00200 mol**.
 - Equation ratio gives **0.00400 mol HCl**.
 - HCl concentration = 0.00400/0.0200 = **0.200 mol/dm³**.
@@ -203,22 +177,18 @@
 
 ## 6 marks
 
-**27.** Titanium dioxide reacts: TiO₂ + 2Cl₂ + 2C → TiCl₄ + 2CO. Calculate the volume of chlorine at RTP needed for 40.0 kg TiO₂. Aᵣ: Ti = 48, O = 16. One mole of gas occupies 24 dm³.
+**29.** Titanium dioxide reacts: TiO₂ + 2Cl₂ + 2C → TiCl₄ + 2CO. Calculate the volume of chlorine at RTP needed for 40.0 kg TiO₂. Aᵣ: Ti = 48, O = 16. One mole of gas occupies 24 dm³.
 
-**Answer:**
-
-- Convert 40.0 kg to **40,000 g**.
+**Answer:** - Convert 40.0 kg to **40,000 g**.
 - Mᵣ TiO₂ = 48 + 2 × 16 = **80**.
 - Moles TiO₂ = 40,000/80 = **500 mol**.
 - Ratio TiO₂ : Cl₂ = 1 : 2.
 - Chlorine amount = **1,000 mol**.
 - Volume = 1,000 × 24 = **24,000 dm³**.
 
-**28.** Route A has atom economy 90%, yield 60% and takes 3 hours. Route B has atom economy 70%, yield 95% and takes 20 minutes; its by-product can be sold. Evaluate which route a factory should choose.
+**30.** Route A has atom economy 90%, yield 60% and takes 3 hours. Route B has atom economy 70%, yield 95% and takes 20 minutes; its by-product can be sold. Evaluate which route a factory should choose.
 
-**Answer:**
-
-- A directs a larger proportion of starting atoms into the desired product, so its **theoretical waste is lower**.
+**Answer:** - A directs a larger proportion of starting atoms into the desired product, so its **theoretical waste is lower**.
 - Its lower yield means less expected product is actually collected; recoverable reactants and losses matter.
 - B has a **higher yield and faster production**, potentially improving throughput and cost.
 - Selling B’s by-product reduces disposal and may provide income, despite its lower atom economy for the main product.

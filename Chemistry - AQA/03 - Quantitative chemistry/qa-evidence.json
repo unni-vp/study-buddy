@@ -41,7 +41,7 @@
       "answer": "- Mᵣ = 40 + 2 × (16 + 1).\n- **Mᵣ = 74**, with no unit.",
       "specification": "4.3.1.2",
       "evidence": "Additional specification-based practice",
-      "number": 5
+      "number": 6
     },
     {
       "marks": 2,
@@ -49,7 +49,7 @@
       "answer": "- Magnesium **reacts with oxygen from the air**.\n- The magnesium oxide includes the mass of this oxygen as well as the original magnesium.",
       "specification": "4.3.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 6
+      "number": 7
     },
     {
       "marks": 2,
@@ -57,7 +57,7 @@
       "answer": "- **Carbon dioxide gas forms and escapes**.\n- Its mass is no longer measured with the flask, although total mass including the gas is conserved.",
       "specification": "4.3.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 7
+      "number": 8
     },
     {
       "marks": 2,
@@ -65,7 +65,7 @@
       "answer": "- n = mass ÷ molar mass = 5.6 ÷ 56.\n- **0.10 mol**.",
       "specification": "4.3.2.1",
       "evidence": "Additional specification-based practice",
-      "number": 8
+      "number": 9
     },
     {
       "marks": 2,
@@ -73,7 +73,7 @@
       "answer": "- Mᵣ = 40; mass = 0.15 × 40.\n- **6.0 g**.",
       "specification": "4.3.2.1",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -81,7 +81,7 @@
       "answer": "- Yield = (9.0 ÷ 12.0) × 100.\n- **75%**.",
       "specification": "4.3.3.1",
       "evidence": "Additional specification-based practice",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -89,7 +89,7 @@
       "answer": "- Some product is **lost during transfer or separation**.\n- A **reversible reaction may not go to completion**.",
       "specification": "4.3.3.1",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -97,7 +97,7 @@
       "answer": "- Volume = 0.150 dm³.\n- c = 3.0 ÷ 0.150 = **20 g/dm³**.",
       "specification": "4.3.2.5",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -105,7 +105,7 @@
       "answer": "- Concentration becomes **four times greater**.\n- c = mass/volume, so the factor is 2 ÷ 0.5 = 4.",
       "specification": "4.3.2.5; 4.3.4",
       "evidence": "2023 Q05.2",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 3,
@@ -113,7 +113,7 @@
       "answer": "- Mᵣ = 24 + 2 × (14 + 3 × 16) = **148**.\n- Oxygen contributes 6 × 16 = **96**.\n- Percentage = 96/148 × 100 = **64.9%** to 3 significant figures.",
       "specification": "4.3.1.2",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 3,
@@ -121,7 +121,7 @@
       "answer": "- Moles = 8.8 ÷ 44 = **0.20 mol**.\n- Molecules = 0.20 × 6.02 × 10²³.\n- **1.204 × 10²³ molecules**.",
       "specification": "4.3.2.1",
       "evidence": "2022 Q03.5",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 3,
@@ -129,7 +129,7 @@
       "answer": "- Mean = **8.4 °C**.\n- Half-range = (8.6 − 8.2)/2 = **0.2 °C**; report 8.4 ± 0.2 °C.\n- Repeating does **not remove systematic calibration error**.",
       "specification": "4.3.1.4",
       "evidence": "2023 Q02.5–02.6",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 3,
@@ -137,7 +137,7 @@
       "answer": "- Volume = **0.200 dm³**.\n- n = cV = 0.250 × 0.200 = **0.0500 mol**.\n- Mass = 0.0500 × 40 = **2.00 g**.",
       "specification": "4.3.4",
       "evidence": "Additional specification-based practice",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 3,
@@ -145,7 +145,7 @@
       "answer": "- n = 7.0/28 = **0.25 mol**.\n- V = n × 24.\n- **6.0 dm³**, or 6,000 cm³.",
       "specification": "4.3.5",
       "evidence": "2019 Q07.7",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 3,
@@ -153,7 +153,7 @@
       "answer": "- Desired-product formula mass = **56**.\n- Total reactant formula mass = **100**.\n- Atom economy = 56/100 × 100 = **56%**.",
       "specification": "4.3.3.2",
       "evidence": "2023 Q09.6",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 4,
@@ -161,7 +161,7 @@
       "answer": "- Mᵣ Al₂O₃ = 2 × 27 + 3 × 16 = **102**.\n- Moles Al₂O₃ = 20.4/102 = **0.200 mol**.\n- Ratio 2 : 4 gives **0.400 mol Al**.\n- Mass Al = 0.400 × 27 = **10.8 g**.",
       "specification": "4.3.2.2",
       "evidence": "2019 Q07.5; 2022 Q07.4",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 4,
@@ -169,7 +169,7 @@
       "answer": "- Moles: CH₄ 0.20; O₂ 0.40; CO₂ 0.20; H₂O 0.40.\n- Divide by 0.20 to get **1 : 2 : 1 : 2**.\n- **CH₄ + 2O₂ → CO₂ + 2H₂O**.\n- Atom totals and masses balance: 16.0 g reactants gives 16.0 g products.",
       "specification": "4.3.2.3",
       "evidence": "2019 Q08.4",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 4,
@@ -177,7 +177,7 @@
       "answer": "- 0.30 mol H₂ needs 0.30/3 = **0.10 mol N₂**, less than the 0.20 mol available.\n- **Hydrogen is limiting**.\n- Ammonia formed = 0.30 × 2/3 = **0.20 mol**.\n- Nitrogen left = 0.20 − 0.10 = **0.10 mol**.",
       "specification": "4.3.2.4",
       "evidence": "2022 Q07.6",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 4,
@@ -185,7 +185,7 @@
       "answer": "- 80 cm³ H₂ needs **40 cm³ O₂**.\n- Hydrogen is limiting, so oxygen left = 50 − 40 = **10 cm³**.\n- Gas volume ratios equal mole ratios at the **same temperature and pressure**.\n- Liquid water is not a gas, so the gas-volume rule cannot give its volume.",
       "specification": "4.3.5",
       "evidence": "2022 Q07.6",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 4,
@@ -193,7 +193,7 @@
       "answer": "- CaCO₃ moles = 20.0/100 = **0.200 mol**.\n- CaO theoretical moles = 0.200; theoretical mass = 0.200 × 56 = **11.2 g**.\n- Yield = 8.4/11.2 × 100.\n- **75%**.",
       "specification": "4.3.3.1",
       "evidence": "Additional specification-based practice",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 4,
@@ -201,7 +201,7 @@
       "answer": "- Let Aᵣ of X = x. Desired mass from equation = **2x**; reactant total = **2x + 54**.\n- 2x/(2x + 54) = 0.750.\n- 2x = 1.5x + 40.5, so 0.5x = 40.5.\n- **x = 81.0**.",
       "specification": "4.3.3.2",
       "evidence": "2023 Q09.6",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 5,
@@ -209,7 +209,7 @@
       "answer": "- Na₂CO₃ volume = **0.0250 dm³**.\n- Moles Na₂CO₃ = 0.0800 × 0.0250 = **0.00200 mol**.\n- Equation ratio gives **0.00400 mol HCl**.\n- HCl concentration = 0.00400/0.0200 = **0.200 mol/dm³**.\n- Mass concentration = 0.200 × 36.5 = **7.30 g/dm³**.",
       "specification": "4.3.4",
       "evidence": "2019 Q09.5; 2022 Q08.3; 2023 Q05.5",
-      "number": 26
+      "number": 28
     },
     {
       "marks": 6,
@@ -217,7 +217,7 @@
       "answer": "- Convert 40.0 kg to **40,000 g**.\n- Mᵣ TiO₂ = 48 + 2 × 16 = **80**.\n- Moles TiO₂ = 40,000/80 = **500 mol**.\n- Ratio TiO₂ : Cl₂ = 1 : 2.\n- Chlorine amount = **1,000 mol**.\n- Volume = 1,000 × 24 = **24,000 dm³**.",
       "specification": "4.3.5",
       "evidence": "2023 Q10.2",
-      "number": 27
+      "number": 29
     },
     {
       "marks": 6,
@@ -225,7 +225,8 @@
       "answer": "- A directs a larger proportion of starting atoms into the desired product, so its **theoretical waste is lower**.\n- Its lower yield means less expected product is actually collected; recoverable reactants and losses matter.\n- B has a **higher yield and faster production**, potentially improving throughput and cost.\n- Selling B’s by-product reduces disposal and may provide income, despite its lower atom economy for the main product.\n- Compare feedstock, energy, separation and disposal costs and whether a market exists for the by-product.\n- B is a reasonable provisional choice from these data, but a final choice needs those costs and environmental impacts; atom economy alone is insufficient.",
       "specification": "4.3.3.1–4.3.3.2",
       "evidence": "Additional specification-based practice",
-      "number": 28
+      "number": 30
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }
