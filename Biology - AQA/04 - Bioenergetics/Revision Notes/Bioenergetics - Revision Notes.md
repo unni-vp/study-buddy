@@ -71,7 +71,13 @@ Growers can add light, heat or carbon dioxide to increase photosynthesis and cro
 - Improve the **limiting factor** first. Extra CO₂ is wasteful when light is too low to use it.
 - Consider the interacting effects: warming a greenhouse can help until temperature becomes unsuitable or another factor limits the rate.
 - Compare **extra income from the crop** with the **extra cost** of lighting, heating and CO₂.
-- Example: extra lighting increases crop income by £240 but costs £170. Extra profit = **£70**. If it costs £270, profit falls by **£30**.
+
+**Example: extra lighting**
+
+The crop earns an extra **£240**.
+
+- If lighting costs **£170**, extra profit = 240 − 170 = **£70**.
+- If lighting costs **£270**, profit falls by **£30**.
 
 Maximum photosynthesis rate and maximum profit are not always achieved at the same settings.
 
@@ -92,7 +98,17 @@ The aim is to test how light intensity affects photosynthesis in an **aquatic pl
 
 **Rate = volume of oxygen ÷ time**
 
-Example: 3.6 cm³ in 4 minutes gives **0.90 cm³/min**. If counting bubbles, 48 in 2 minutes gives **24 bubbles/min**.
+**Example: oxygen volume**
+
+The plant produces 3.6 cm³ in 4 minutes.
+
+Rate = 3.6 ÷ 4 = **0.90 cm³/min**.
+
+**Example: bubble count**
+
+The plant produces 48 bubbles in 2 minutes.
+
+Rate = 48 ÷ 2 = **24 bubbles/min**.
 
 ### Making the result more trustworthy
 
