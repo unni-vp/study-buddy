@@ -50,7 +50,13 @@ A **mole** is a counting unit, like a dozen but much bigger. One mole contains *
 | Number of particles | **N = n × 6.02 × 10²³** |
 | Moles from particles | **n = N ÷ (6.02 × 10²³)** |
 
-**Example:** 11.0 g CO₂ is 11.0 ÷ 44 = **0.250 mol**. It contains 0.250 × 6.02 × 10²³ = **1.505 × 10²³ molecules** (1.51 × 10²³ to 3 significant figures).
+**Example: particles in carbon dioxide**
+
+The sample contains 11.0 g of CO₂. Its molar mass is 44 g/mol.
+
+1. Calculate moles: n = 11.0 ÷ 44 = **0.250 mol**.
+2. Calculate molecules: 0.250 × 6.02 × 10²³ = **1.505 × 10²³ molecules**.
+3. To 3 significant figures: **1.51 × 10²³ molecules**.
 
 Convert kg to g before using a molar mass in g/mol. Keep extra digits during calculations; round the final answer as requested.
 
@@ -64,7 +70,8 @@ The balanced equation acts like a recipe. For **2Mg + O₂ → 2MgO**, two moles
 
 1. Magnesium moles = 6.0 ÷ 24 = **0.25 mol**.
 2. Ratio Mg : MgO = 2 : 2, so MgO = **0.25 mol**.
-3. Mᵣ of MgO = 40; mass = 0.25 × 40 = **10 g**.
+3. Mᵣ of MgO = **40**.
+4. Mass = 0.25 × 40 = **10 g**.
 
 ### Which reactant runs out?
 
@@ -76,9 +83,17 @@ For 0.30 mol Mg mixed with 0.10 mol O₂:
 
 - 0.10 mol O₂ needs **0.20 mol Mg**.
 - There is 0.30 mol Mg, so **oxygen is limiting**.
-- MgO formed = **0.20 mol**; magnesium left = **0.10 mol**.
+- MgO formed = **0.20 mol**.
+- Magnesium left = **0.10 mol**.
 
-To check this systematically, divide the **moles of each reactant by its equation coefficient**. For magnesium, 0.30 ÷ 2 = 0.15. For oxygen, 0.10 ÷ 1 = 0.10. The smaller value belongs to oxygen, confirming that it runs out first. Comparing masses alone cannot identify the limiting reactant because the equation uses **mole ratios**.
+To check the limiting reactant systematically, divide the **moles of each reactant by its equation coefficient**.
+
+- Magnesium: 0.30 ÷ 2 = **0.15**.
+- Oxygen: 0.10 ÷ 1 = **0.10**.
+
+The smaller value belongs to oxygen, confirming that it runs out first.
+
+Comparing masses alone cannot identify the limiting reactant because the equation uses **mole ratios**.
 
 ## Finding equation ratios from masses
 
@@ -100,12 +115,29 @@ Concentration tells you how much solute is packed into a given volume of **solut
 
 **1 dm³ = 1,000 cm³.** Divide cm³ by 1,000 before using a concentration per dm³.
 
-| Concentration unit | Formula | Rearrangements |
-|---|---|---|
-| g/dm³ | **c = mass ÷ volume** | mass = c × V; V = mass ÷ c |
-| mol/dm³ | **c = moles ÷ volume** | n = c × V; V = n ÷ c |
+| Concentration unit | Formula |
+|---|---|
+| g/dm³ | **c = mass ÷ volume** |
+| mol/dm³ | **c = moles ÷ volume** |
 
-**Example:** 5.0 g NaCl in a final solution volume of 250 cm³: V = 0.250 dm³; c = 5.0 ÷ 0.250 = **20 g/dm³**.
+**Rearrangements for mass concentration**
+
+- Mass = c × V.
+- V = mass ÷ c.
+
+**Rearrangements for molar concentration**
+
+- n = c × V.
+- V = n ÷ c.
+
+Here **n** is moles and **V** is solution volume in dm³. Use c in the matching concentration unit.
+
+**Example: mass concentration**
+
+A solution contains 5.0 g of NaCl in a final volume of 250 cm³.
+
+1. Convert volume: V = 250 ÷ 1,000 = **0.250 dm³**.
+2. Calculate concentration: c = 5.0 ÷ 0.250 = **20 g/dm³**.
 
 **Worked example:** find the mass of NaOH in 150 cm³ of a 0.200 mol/dm³ solution.
 
@@ -165,7 +197,11 @@ A yield can be below 100% because:
 - Product is **lost during separation or transfer**.
 - **Side reactions** make other products.
 
-For a theoretical yield, first use reacting masses and the limiting reactant. Actual mass = theoretical mass × percentage yield ÷ 100. An apparent yield over 100% suggests wet/impure product or a measurement error; it does not mean atoms were created.
+For a theoretical yield, first use reacting masses and the limiting reactant.
+
+Actual mass = theoretical mass × percentage yield ÷ 100.
+
+An apparent yield over 100% suggests wet/impure product or a measurement error; it does not mean atoms were created.
 
 ### Atom economy: where do the starting atoms end up?
 
@@ -173,7 +209,9 @@ For a theoretical yield, first use reacting masses and the limiting reactant. Ac
 
 For **CaCO₃ → CaO + CO₂**, producing CaO: Mᵣ values 100, 56, 44.
 
-Atom economy = 56 ÷ 100 × 100 = **56%**. Even with a 100% yield, 44% of the reactant mass becomes the other product.
+Atom economy = 56 ÷ 100 × 100 = **56%**.
+
+Even with a 100% yield, 44% of the reactant mass becomes the other product.
 
 **Yield measures experimental success; atom economy describes the reaction pathway.** High atom economy reduces waste and can save resources and disposal costs.
 
@@ -189,6 +227,10 @@ For repeated values 24.2, 24.4 and 24.6 cm³:
 - Range = 24.6 − 24.2 = **0.4 cm³**.
 - A common estimate using half the range is **±0.2 cm³**: 24.4 ± 0.2 cm³.
 
-Use the uncertainty method requested by the question. **Percentage uncertainty = absolute uncertainty ÷ measured value × 100**. For this example: 0.2 ÷ 24.4 × 100 = **0.82%**.
+Use the uncertainty method requested by the question.
+
+**Percentage uncertainty = absolute uncertainty ÷ measured value × 100**.
+
+For this example: 0.2 ÷ 24.4 × 100 = **0.82%**.
 
 Repeating and averaging reduces the effect of **random error**, but not a systematic error such as an incorrectly zeroed balance. Do not discard a result merely because it is inconvenient; investigate a possible anomaly.
