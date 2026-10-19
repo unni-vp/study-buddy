@@ -1,0 +1,5272 @@
+{
+  "reviewed": "2026-10-19",
+  "baseline": "8fdf81c",
+  "topic_count": 31,
+  "total_questions": 1208,
+  "added_questions": 72,
+  "sample": "June 2023 AQA separate-science Higher Paper 1 and Paper 2; existing topic evidence also retains earlier reviewed papers. Counts below describe this sample, not exam predictions.",
+  "types_reviewed": [
+    "multiple choice",
+    "short recall and definitions",
+    "describe/explain mechanisms",
+    "compare structures/processes",
+    "calculations and unit conversions",
+    "tables and graph interpretation",
+    "construction of graphs/circuit or ray/field/dot-and-cross diagrams where relevant",
+    "genetic crosses and probabilities",
+    "practical methods and controls",
+    "errors, uncertainty and improvements",
+    "extended evaluation and linked reasoning"
+  ],
+  "topic_reviews": [
+    {
+      "subject": "Physics",
+      "topic": "01 - Energy",
+      "notes": "Physics - AQA\\01 - Energy\\Revision Notes\\Energy - Revision Notes.md",
+      "qa": "Physics - AQA\\01 - Energy\\Questions and Answers\\Energy - Questions and Answers.md",
+      "before": 24,
+      "after": 27,
+      "added": 3,
+      "marks": {
+        "1": 5,
+        "2": 7,
+        "3": 7,
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 6
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 25
+        },
+        {
+          "previous": 23,
+          "current": 26
+        },
+        {
+          "previous": 24,
+          "current": 27
+        }
+      ],
+      "review": "Physics - AQA\\01 - Energy\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "02 - Electricity",
+      "notes": "Physics - AQA\\02 - Electricity\\Revision Notes\\Electricity - Revision Notes.md",
+      "qa": "Physics - AQA\\02 - Electricity\\Questions and Answers\\Electricity - Questions and Answers.md",
+      "before": 23,
+      "after": 26,
+      "added": 3,
+      "marks": {
+        "1": 5,
+        "2": 8,
+        "3": 8,
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 6
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 22
+        },
+        {
+          "previous": 21,
+          "current": 23
+        },
+        {
+          "previous": 22,
+          "current": 25
+        },
+        {
+          "previous": 23,
+          "current": 26
+        }
+      ],
+      "review": "Physics - AQA\\02 - Electricity\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "03 - Particle model of matter",
+      "notes": "Physics - AQA\\03 - Particle model of matter\\Revision Notes\\Particle model of matter - Revision Notes.md",
+      "qa": "Physics - AQA\\03 - Particle model of matter\\Questions and Answers\\Particle model of matter - Questions and Answers.md",
+      "before": 22,
+      "after": 25,
+      "added": 3,
+      "marks": {
+        "1": 5,
+        "2": 7,
+        "3": 6,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 6
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 24
+        },
+        {
+          "previous": 22,
+          "current": 25
+        }
+      ],
+      "review": "Physics - AQA\\03 - Particle model of matter\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "04 - Atomic structure",
+      "notes": "Physics - AQA\\04 - Atomic structure\\Revision Notes\\Atomic structure - Revision Notes.md",
+      "qa": "Physics - AQA\\04 - Atomic structure\\Questions and Answers\\Atomic structure - Questions and Answers.md",
+      "before": 22,
+      "after": 25,
+      "added": 3,
+      "marks": {
+        "1": 5,
+        "2": 7,
+        "3": 7,
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 6
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 20
+        },
+        {
+          "previous": 19,
+          "current": 21
+        },
+        {
+          "previous": 20,
+          "current": 22
+        },
+        {
+          "previous": 21,
+          "current": 24
+        },
+        {
+          "previous": 22,
+          "current": 25
+        }
+      ],
+      "review": "Physics - AQA\\04 - Atomic structure\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "05 - Forces",
+      "notes": "Physics - AQA\\05 - Forces\\Revision Notes\\Forces - Revision Notes.md",
+      "qa": "Physics - AQA\\05 - Forces\\Questions and Answers\\Forces - Questions and Answers.md",
+      "before": 33,
+      "after": 36,
+      "added": 3,
+      "marks": {
+        "1": 6,
+        "2": 9,
+        "3": 10,
+        "4": 7,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 34
+        },
+        {
+          "previous": 32,
+          "current": 35
+        },
+        {
+          "previous": 33,
+          "current": 36
+        }
+      ],
+      "review": "Physics - AQA\\05 - Forces\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "06 - Waves",
+      "notes": "Physics - AQA\\06 - Waves\\Revision Notes\\Waves - Revision Notes.md",
+      "qa": "Physics - AQA\\06 - Waves\\Questions and Answers\\Waves - Questions and Answers.md",
+      "before": 42,
+      "after": 45,
+      "added": 3,
+      "marks": {
+        "1": 10,
+        "2": 16,
+        "3": 10,
+        "4": 5,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 43
+        },
+        {
+          "previous": 41,
+          "current": 44
+        },
+        {
+          "previous": 42,
+          "current": 45
+        }
+      ],
+      "review": "Physics - AQA\\06 - Waves\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "07 - Magnetism and electromagnetism",
+      "notes": "Physics - AQA\\07 - Magnetism and electromagnetism\\Revision Notes\\Magnetism and electromagnetism - Revision Notes.md",
+      "qa": "Physics - AQA\\07 - Magnetism and electromagnetism\\Questions and Answers\\Magnetism and electromagnetism - Questions and Answers.md",
+      "before": 37,
+      "after": 40,
+      "added": 3,
+      "marks": {
+        "1": 9,
+        "2": 15,
+        "3": 9,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 39
+        },
+        {
+          "previous": 37,
+          "current": 40
+        }
+      ],
+      "review": "Physics - AQA\\07 - Magnetism and electromagnetism\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "08 - Space physics",
+      "notes": "Physics - AQA\\08 - Space physics\\Revision Notes\\Space physics - Revision Notes.md",
+      "qa": "Physics - AQA\\08 - Space physics\\Questions and Answers\\Space physics - Questions and Answers.md",
+      "before": 29,
+      "after": 31,
+      "added": 2,
+      "marks": {
+        "1": 9,
+        "2": 11,
+        "3": 6,
+        "4": 2,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 30
+        },
+        {
+          "previous": 29,
+          "current": 31
+        }
+      ],
+      "review": "Physics - AQA\\08 - Space physics\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "09 - Working scientifically and required practicals",
+      "notes": "Physics - AQA\\09 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "qa": "Physics - AQA\\09 - Working scientifically and required practicals\\Questions and Answers\\Working scientifically and required practicals - Questions and Answers.md",
+      "before": 38,
+      "after": 40,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 14,
+        "3": 10,
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 38
+        },
+        {
+          "previous": 37,
+          "current": 39
+        },
+        {
+          "previous": 38,
+          "current": 40
+        }
+      ],
+      "review": "Physics - AQA\\09 - Working scientifically and required practicals\\readability-qa-review.json"
+    },
+    {
+      "subject": "Physics",
+      "topic": "10 - Mathematical requirements and equations",
+      "notes": "Physics - AQA\\10 - Mathematical requirements and equations\\Revision Notes\\Mathematical requirements and equations - Revision Notes.md",
+      "qa": "Physics - AQA\\10 - Mathematical requirements and equations\\Questions and Answers\\Mathematical requirements and equations - Questions and Answers.md",
+      "before": 39,
+      "after": 41,
+      "added": 2,
+      "marks": {
+        "1": 9,
+        "2": 12,
+        "3": 13,
+        "4": 5,
+        "5": 1,
+        "6": 1
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 41
+        }
+      ],
+      "review": "Physics - AQA\\10 - Mathematical requirements and equations\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "01 - Atomic structure and the periodic table",
+      "notes": "Chemistry - AQA\\01 - Atomic structure and the periodic table\\Revision Notes\\Atomic structure and the periodic table - Revision Notes.md",
+      "qa": "Chemistry - AQA\\01 - Atomic structure and the periodic table\\Questions and Answers\\Atomic structure and the periodic table - Questions and Answers.md",
+      "before": 27,
+      "after": 29,
+      "added": 2,
+      "marks": {
+        "1": 7,
+        "2": 8,
+        "3": 7,
+        "4": 3,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 27
+        },
+        {
+          "previous": 26,
+          "current": 28
+        },
+        {
+          "previous": 27,
+          "current": 29
+        }
+      ],
+      "review": "Chemistry - AQA\\01 - Atomic structure and the periodic table\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "02 - Bonding structure and properties of matter",
+      "notes": "Chemistry - AQA\\02 - Bonding structure and properties of matter\\Revision Notes\\Bonding, structure and properties of matter - Revision Notes.md",
+      "qa": "Chemistry - AQA\\02 - Bonding structure and properties of matter\\Questions and Answers\\Bonding, structure and properties of matter - Questions and Answers.md",
+      "before": 27,
+      "after": 30,
+      "added": 3,
+      "marks": {
+        "1": 6,
+        "2": 9,
+        "3": 8,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 24
+        },
+        {
+          "previous": 23,
+          "current": 25
+        },
+        {
+          "previous": 24,
+          "current": 26
+        },
+        {
+          "previous": 25,
+          "current": 27
+        },
+        {
+          "previous": 26,
+          "current": 29
+        },
+        {
+          "previous": 27,
+          "current": 30
+        }
+      ],
+      "review": "Chemistry - AQA\\02 - Bonding structure and properties of matter\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "03 - Quantitative chemistry",
+      "notes": "Chemistry - AQA\\03 - Quantitative chemistry\\Revision Notes\\Quantitative chemistry - Revision Notes.md",
+      "qa": "Chemistry - AQA\\03 - Quantitative chemistry\\Questions and Answers\\Quantitative chemistry - Questions and Answers.md",
+      "before": 28,
+      "after": 30,
+      "added": 2,
+      "marks": {
+        "1": 5,
+        "2": 9,
+        "3": 6,
+        "4": 7,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 6
+        },
+        {
+          "previous": 6,
+          "current": 7
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 28
+        },
+        {
+          "previous": 27,
+          "current": 29
+        },
+        {
+          "previous": 28,
+          "current": 30
+        }
+      ],
+      "review": "Chemistry - AQA\\03 - Quantitative chemistry\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "04 - Chemical changes",
+      "notes": "Chemistry - AQA\\04 - Chemical changes\\Revision Notes\\Chemical changes - Revision Notes.md",
+      "qa": "Chemistry - AQA\\04 - Chemical changes\\Questions and Answers\\Chemical changes - Questions and Answers.md",
+      "before": 33,
+      "after": 35,
+      "added": 2,
+      "marks": {
+        "1": 7,
+        "2": 11,
+        "3": 8,
+        "4": 5,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 32
+        },
+        {
+          "previous": 31,
+          "current": 33
+        },
+        {
+          "previous": 32,
+          "current": 34
+        },
+        {
+          "previous": 33,
+          "current": 35
+        }
+      ],
+      "review": "Chemistry - AQA\\04 - Chemical changes\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "05 - Energy changes",
+      "notes": "Chemistry - AQA\\05 - Energy changes\\Revision Notes\\Energy changes - Revision Notes.md",
+      "qa": "Chemistry - AQA\\05 - Energy changes\\Questions and Answers\\Energy changes - Questions and Answers.md",
+      "before": 29,
+      "after": 31,
+      "added": 2,
+      "marks": {
+        "1": 7,
+        "2": 8,
+        "3": 8,
+        "4": 5,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 8
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 30
+        },
+        {
+          "previous": 29,
+          "current": 31
+        }
+      ],
+      "review": "Chemistry - AQA\\05 - Energy changes\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "06 - Rate and extent of chemical change",
+      "notes": "Chemistry - AQA\\06 - Rate and extent of chemical change\\Revision Notes\\Rate and extent of chemical change - Revision Notes.md",
+      "qa": "Chemistry - AQA\\06 - Rate and extent of chemical change\\Questions and Answers\\Rate and extent of chemical change - Questions and Answers.md",
+      "before": 35,
+      "after": 37,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 13,
+        "3": 8,
+        "4": 4,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 35
+        },
+        {
+          "previous": 34,
+          "current": 36
+        },
+        {
+          "previous": 35,
+          "current": 37
+        }
+      ],
+      "review": "Chemistry - AQA\\06 - Rate and extent of chemical change\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "07 - Organic chemistry",
+      "notes": "Chemistry - AQA\\07 - Organic chemistry\\Revision Notes\\Organic chemistry - Revision Notes.md",
+      "qa": "Chemistry - AQA\\07 - Organic chemistry\\Questions and Answers\\Organic chemistry - Questions and Answers.md",
+      "before": 47,
+      "after": 49,
+      "added": 2,
+      "marks": {
+        "1": 14,
+        "2": 17,
+        "3": 11,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 11
+        },
+        {
+          "previous": 12,
+          "current": 12
+        },
+        {
+          "previous": 13,
+          "current": 13
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 44
+        },
+        {
+          "previous": 44,
+          "current": 45
+        },
+        {
+          "previous": 45,
+          "current": 46
+        },
+        {
+          "previous": 46,
+          "current": 48
+        },
+        {
+          "previous": 47,
+          "current": 49
+        }
+      ],
+      "review": "Chemistry - AQA\\07 - Organic chemistry\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "08 - Chemical analysis",
+      "notes": "Chemistry - AQA\\08 - Chemical analysis\\Revision Notes\\Chemical analysis - Revision Notes.md",
+      "qa": "Chemistry - AQA\\08 - Chemical analysis\\Questions and Answers\\Chemical analysis - Questions and Answers.md",
+      "before": 40,
+      "after": 42,
+      "added": 2,
+      "marks": {
+        "1": 11,
+        "2": 15,
+        "3": 9,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 41
+        },
+        {
+          "previous": 40,
+          "current": 42
+        }
+      ],
+      "review": "Chemistry - AQA\\08 - Chemical analysis\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "09 - Chemistry of the atmosphere",
+      "notes": "Chemistry - AQA\\09 - Chemistry of the atmosphere\\Revision Notes\\Chemistry of the atmosphere - Revision Notes.md",
+      "qa": "Chemistry - AQA\\09 - Chemistry of the atmosphere\\Questions and Answers\\Chemistry of the atmosphere - Questions and Answers.md",
+      "before": 33,
+      "after": 35,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 12,
+        "3": 9,
+        "4": 3,
+        "5": 1,
+        "6": 2
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 34
+        },
+        {
+          "previous": 33,
+          "current": 35
+        }
+      ],
+      "review": "Chemistry - AQA\\09 - Chemistry of the atmosphere\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "10 - Using resources",
+      "notes": "Chemistry - AQA\\10 - Using resources\\Revision Notes\\Using resources - Revision Notes.md",
+      "qa": "Chemistry - AQA\\10 - Using resources\\Questions and Answers\\Using resources - Questions and Answers.md",
+      "before": 54,
+      "after": 56,
+      "added": 2,
+      "marks": {
+        "1": 13,
+        "2": 24,
+        "3": 10,
+        "4": 4,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 11
+        },
+        {
+          "previous": 12,
+          "current": 12
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 44
+        },
+        {
+          "previous": 44,
+          "current": 45
+        },
+        {
+          "previous": 45,
+          "current": 46
+        },
+        {
+          "previous": 46,
+          "current": 47
+        },
+        {
+          "previous": 47,
+          "current": 48
+        },
+        {
+          "previous": 48,
+          "current": 49
+        },
+        {
+          "previous": 49,
+          "current": 50
+        },
+        {
+          "previous": 50,
+          "current": 51
+        },
+        {
+          "previous": 51,
+          "current": 53
+        },
+        {
+          "previous": 52,
+          "current": 54
+        },
+        {
+          "previous": 53,
+          "current": 55
+        },
+        {
+          "previous": 54,
+          "current": 56
+        }
+      ],
+      "review": "Chemistry - AQA\\10 - Using resources\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "11 - Working scientifically and required practicals",
+      "notes": "Chemistry - AQA\\11 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "qa": "Chemistry - AQA\\11 - Working scientifically and required practicals\\Questions and Answers\\Working scientifically and required practicals - Questions and Answers.md",
+      "before": 45,
+      "after": 47,
+      "added": 2,
+      "marks": {
+        "1": 9,
+        "2": 21,
+        "3": 9,
+        "4": 3,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 44
+        },
+        {
+          "previous": 43,
+          "current": 45
+        },
+        {
+          "previous": 44,
+          "current": 46
+        },
+        {
+          "previous": 45,
+          "current": 47
+        }
+      ],
+      "review": "Chemistry - AQA\\11 - Working scientifically and required practicals\\readability-qa-review.json"
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "12 - Mathematical requirements and periodic table",
+      "notes": "Chemistry - AQA\\12 - Mathematical requirements and periodic table\\Revision Notes\\Mathematical requirements and periodic table - Revision Notes.md",
+      "qa": "Chemistry - AQA\\12 - Mathematical requirements and periodic table\\Questions and Answers\\Mathematical requirements and periodic table - Questions and Answers.md",
+      "before": 48,
+      "after": 51,
+      "added": 3,
+      "marks": {
+        "1": 11,
+        "2": 16,
+        "3": 14,
+        "4": 8,
+        "5": 1,
+        "6": 1
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 44
+        },
+        {
+          "previous": 44,
+          "current": 45
+        },
+        {
+          "previous": 45,
+          "current": 46
+        },
+        {
+          "previous": 46,
+          "current": 47
+        },
+        {
+          "previous": 47,
+          "current": 48
+        },
+        {
+          "previous": 48,
+          "current": 49
+        }
+      ],
+      "review": "Chemistry - AQA\\12 - Mathematical requirements and periodic table\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "01 - Cell biology",
+      "notes": "Biology - AQA\\01 - Cell biology\\Revision Notes\\Cell Biology - Revision Notes.md",
+      "qa": "Biology - AQA\\01 - Cell biology\\Questions and Answers\\Cell Biology - Questions and Answers.md",
+      "before": 42,
+      "after": 44,
+      "added": 2,
+      "marks": {
+        "1": 11,
+        "2": 8,
+        "3": 12,
+        "4": 4,
+        "5": 3,
+        "6": 6
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 32
+        },
+        {
+          "previous": 31,
+          "current": 33
+        },
+        {
+          "previous": 32,
+          "current": 34
+        },
+        {
+          "previous": 33,
+          "current": 35
+        },
+        {
+          "previous": 34,
+          "current": 36
+        },
+        {
+          "previous": 35,
+          "current": 37
+        },
+        {
+          "previous": 36,
+          "current": 38
+        },
+        {
+          "previous": 37,
+          "current": 39
+        },
+        {
+          "previous": 38,
+          "current": 40
+        },
+        {
+          "previous": 39,
+          "current": 41
+        },
+        {
+          "previous": 40,
+          "current": 42
+        },
+        {
+          "previous": 41,
+          "current": 43
+        },
+        {
+          "previous": 42,
+          "current": 44
+        }
+      ],
+      "review": "Biology - AQA\\01 - Cell biology\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "02 - Organisation",
+      "notes": "Biology - AQA\\02 - Organisation\\Revision Notes\\Organisation - Revision Notes.md",
+      "qa": "Biology - AQA\\02 - Organisation\\Questions and Answers\\Organisation - Questions and Answers.md",
+      "before": 36,
+      "after": 38,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 9,
+        "3": 8,
+        "4": 6,
+        "5": 1,
+        "6": 6
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 33
+        },
+        {
+          "previous": 32,
+          "current": 34
+        },
+        {
+          "previous": 33,
+          "current": 35
+        },
+        {
+          "previous": 34,
+          "current": 36
+        },
+        {
+          "previous": 35,
+          "current": 37
+        },
+        {
+          "previous": 36,
+          "current": 38
+        }
+      ],
+      "review": "Biology - AQA\\02 - Organisation\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "03 - Infection and response",
+      "notes": "Biology - AQA\\03 - Infection and response\\Revision Notes\\Infection and response - Revision Notes.md",
+      "qa": "Biology - AQA\\03 - Infection and response\\Questions and Answers\\Infection and response - Questions and Answers.md",
+      "before": 33,
+      "after": 35,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 10,
+        "3": 7,
+        "4": 5,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 32
+        },
+        {
+          "previous": 31,
+          "current": 33
+        },
+        {
+          "previous": 32,
+          "current": 34
+        },
+        {
+          "previous": 33,
+          "current": 35
+        }
+      ],
+      "review": "Biology - AQA\\03 - Infection and response\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "04 - Bioenergetics",
+      "notes": "Biology - AQA\\04 - Bioenergetics\\Revision Notes\\Bioenergetics - Revision Notes.md",
+      "qa": "Biology - AQA\\04 - Bioenergetics\\Questions and Answers\\Bioenergetics - Questions and Answers.md",
+      "before": 32,
+      "after": 34,
+      "added": 2,
+      "marks": {
+        "1": 8,
+        "2": 9,
+        "3": 8,
+        "4": 5,
+        "5": 1,
+        "6": 3
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 9
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 32
+        },
+        {
+          "previous": 31,
+          "current": 33
+        },
+        {
+          "previous": 32,
+          "current": 34
+        }
+      ],
+      "review": "Biology - AQA\\04 - Bioenergetics\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "05 - Homeostasis and response",
+      "notes": "Biology - AQA\\05 - Homeostasis and response\\Revision Notes\\Homeostasis and response - Revision Notes.md",
+      "qa": "Biology - AQA\\05 - Homeostasis and response\\Questions and Answers\\Homeostasis and response - Questions and Answers.md",
+      "before": 57,
+      "after": 59,
+      "added": 2,
+      "marks": {
+        "1": 14,
+        "2": 19,
+        "3": 15,
+        "4": 6,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 11
+        },
+        {
+          "previous": 12,
+          "current": 12
+        },
+        {
+          "previous": 13,
+          "current": 13
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 44
+        },
+        {
+          "previous": 44,
+          "current": 45
+        },
+        {
+          "previous": 45,
+          "current": 46
+        },
+        {
+          "previous": 46,
+          "current": 47
+        },
+        {
+          "previous": 47,
+          "current": 48
+        },
+        {
+          "previous": 48,
+          "current": 49
+        },
+        {
+          "previous": 49,
+          "current": 50
+        },
+        {
+          "previous": 50,
+          "current": 51
+        },
+        {
+          "previous": 51,
+          "current": 52
+        },
+        {
+          "previous": 52,
+          "current": 53
+        },
+        {
+          "previous": 53,
+          "current": 54
+        },
+        {
+          "previous": 54,
+          "current": 56
+        },
+        {
+          "previous": 55,
+          "current": 57
+        },
+        {
+          "previous": 56,
+          "current": 58
+        },
+        {
+          "previous": 57,
+          "current": 59
+        }
+      ],
+      "review": "Biology - AQA\\05 - Homeostasis and response\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "06 - Inheritance variation and evolution",
+      "notes": "Biology - AQA\\06 - Inheritance variation and evolution\\Revision Notes\\Inheritance variation and evolution - Revision Notes.md",
+      "qa": "Biology - AQA\\06 - Inheritance variation and evolution\\Questions and Answers\\Inheritance variation and evolution - Questions and Answers.md",
+      "before": 55,
+      "after": 57,
+      "added": 2,
+      "marks": {
+        "1": 13,
+        "2": 18,
+        "3": 12,
+        "4": 9,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 11
+        },
+        {
+          "previous": 12,
+          "current": 12
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 44
+        },
+        {
+          "previous": 44,
+          "current": 45
+        },
+        {
+          "previous": 45,
+          "current": 46
+        },
+        {
+          "previous": 46,
+          "current": 47
+        },
+        {
+          "previous": 47,
+          "current": 48
+        },
+        {
+          "previous": 48,
+          "current": 49
+        },
+        {
+          "previous": 49,
+          "current": 50
+        },
+        {
+          "previous": 50,
+          "current": 51
+        },
+        {
+          "previous": 51,
+          "current": 52
+        },
+        {
+          "previous": 52,
+          "current": 54
+        },
+        {
+          "previous": 53,
+          "current": 55
+        },
+        {
+          "previous": 54,
+          "current": 56
+        },
+        {
+          "previous": 55,
+          "current": 57
+        }
+      ],
+      "review": "Biology - AQA\\06 - Inheritance variation and evolution\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "07 - Ecology",
+      "notes": "Biology - AQA\\07 - Ecology\\Revision Notes\\Ecology - Revision Notes.md",
+      "qa": "Biology - AQA\\07 - Ecology\\Questions and Answers\\Ecology - Questions and Answers.md",
+      "before": 46,
+      "after": 48,
+      "added": 2,
+      "marks": {
+        "1": 11,
+        "2": 17,
+        "3": 10,
+        "4": 5,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 40
+        },
+        {
+          "previous": 40,
+          "current": 41
+        },
+        {
+          "previous": 41,
+          "current": 42
+        },
+        {
+          "previous": 42,
+          "current": 43
+        },
+        {
+          "previous": 43,
+          "current": 45
+        },
+        {
+          "previous": 44,
+          "current": 46
+        },
+        {
+          "previous": 45,
+          "current": 47
+        },
+        {
+          "previous": 46,
+          "current": 48
+        }
+      ],
+      "review": "Biology - AQA\\07 - Ecology\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "08 - Working scientifically and required practicals",
+      "notes": "Biology - AQA\\08 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "qa": "Biology - AQA\\08 - Working scientifically and required practicals\\Questions and Answers\\Working scientifically and required practicals - Questions and Answers.md",
+      "before": 42,
+      "after": 44,
+      "added": 2,
+      "marks": {
+        "1": 11,
+        "2": 16,
+        "3": 8,
+        "4": 4,
+        "5": 1,
+        "6": 4
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 9
+        },
+        {
+          "previous": 10,
+          "current": 10
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        },
+        {
+          "previous": 39,
+          "current": 41
+        },
+        {
+          "previous": 40,
+          "current": 42
+        },
+        {
+          "previous": 41,
+          "current": 43
+        },
+        {
+          "previous": 42,
+          "current": 44
+        }
+      ],
+      "review": "Biology - AQA\\08 - Working scientifically and required practicals\\readability-qa-review.json"
+    },
+    {
+      "subject": "Biology",
+      "topic": "09 - Mathematical requirements",
+      "notes": "Biology - AQA\\09 - Mathematical requirements\\Revision Notes\\Mathematical requirements - Revision Notes.md",
+      "qa": "Biology - AQA\\09 - Mathematical requirements\\Questions and Answers\\Mathematical requirements - Questions and Answers.md",
+      "before": 38,
+      "after": 41,
+      "added": 3,
+      "marks": {
+        "1": 9,
+        "2": 14,
+        "3": 10,
+        "4": 6,
+        "5": 1,
+        "6": 1
+      },
+      "question_number_mapping": [
+        {
+          "previous": 1,
+          "current": 1
+        },
+        {
+          "previous": 2,
+          "current": 2
+        },
+        {
+          "previous": 3,
+          "current": 3
+        },
+        {
+          "previous": 4,
+          "current": 4
+        },
+        {
+          "previous": 5,
+          "current": 5
+        },
+        {
+          "previous": 6,
+          "current": 6
+        },
+        {
+          "previous": 7,
+          "current": 7
+        },
+        {
+          "previous": 8,
+          "current": 8
+        },
+        {
+          "previous": 9,
+          "current": 10
+        },
+        {
+          "previous": 10,
+          "current": 11
+        },
+        {
+          "previous": 11,
+          "current": 12
+        },
+        {
+          "previous": 12,
+          "current": 13
+        },
+        {
+          "previous": 13,
+          "current": 14
+        },
+        {
+          "previous": 14,
+          "current": 15
+        },
+        {
+          "previous": 15,
+          "current": 16
+        },
+        {
+          "previous": 16,
+          "current": 17
+        },
+        {
+          "previous": 17,
+          "current": 18
+        },
+        {
+          "previous": 18,
+          "current": 19
+        },
+        {
+          "previous": 19,
+          "current": 20
+        },
+        {
+          "previous": 20,
+          "current": 21
+        },
+        {
+          "previous": 21,
+          "current": 22
+        },
+        {
+          "previous": 22,
+          "current": 23
+        },
+        {
+          "previous": 23,
+          "current": 24
+        },
+        {
+          "previous": 24,
+          "current": 25
+        },
+        {
+          "previous": 25,
+          "current": 26
+        },
+        {
+          "previous": 26,
+          "current": 27
+        },
+        {
+          "previous": 27,
+          "current": 28
+        },
+        {
+          "previous": 28,
+          "current": 29
+        },
+        {
+          "previous": 29,
+          "current": 30
+        },
+        {
+          "previous": 30,
+          "current": 31
+        },
+        {
+          "previous": 31,
+          "current": 32
+        },
+        {
+          "previous": 32,
+          "current": 33
+        },
+        {
+          "previous": 33,
+          "current": 34
+        },
+        {
+          "previous": 34,
+          "current": 35
+        },
+        {
+          "previous": 35,
+          "current": 36
+        },
+        {
+          "previous": 36,
+          "current": 37
+        },
+        {
+          "previous": 37,
+          "current": 38
+        },
+        {
+          "previous": 38,
+          "current": 39
+        }
+      ],
+      "review": "Biology - AQA\\09 - Mathematical requirements\\readability-qa-review.json"
+    }
+  ],
+  "official_paper_sample": [
+    {
+      "paper": "AQA-84631H-QP-JUN23.txt",
+      "local_source": "Physics - AQA\\00 - Past papers\\Paper 1 Higher\\AQA-84631H-QP-JUN23.PDF",
+      "question_parts_by_marks": {
+        "1": 11,
+        "2": 12,
+        "3": 9,
+        "4": 4,
+        "5": 2,
+        "6": 2
+      }
+    },
+    {
+      "paper": "AQA-84632H-QP-JUN23.txt",
+      "local_source": "Physics - AQA\\00 - Past papers\\Paper 2 Higher\\AQA-84632H-QP-JUN23.PDF",
+      "question_parts_by_marks": {
+        "1": 19,
+        "2": 10,
+        "3": 8,
+        "4": 4,
+        "5": 3,
+        "6": 1
+      }
+    },
+    {
+      "paper": "AQA-84621H-QP-JUN23.txt",
+      "local_source": "Chemistry - AQA\\00 - Past papers\\Paper 1 Higher\\AQA-84621H-QP-JUN23.pdf",
+      "question_parts_by_marks": {
+        "1": 17,
+        "2": 16,
+        "3": 6,
+        "4": 4,
+        "5": 1,
+        "6": 2
+      }
+    },
+    {
+      "paper": "AQA-84622H-QP-JUN23.txt",
+      "local_source": "Chemistry - AQA\\00 - Past papers\\Paper 2 Higher\\AQA-84622H-QP-JUN23.pdf",
+      "question_parts_by_marks": {
+        "1": 26,
+        "2": 20,
+        "3": 5,
+        "4": 2,
+        "5": 1,
+        "6": 1
+      }
+    },
+    {
+      "paper": "AQA-84611H-QP-JUN23.txt",
+      "local_source": "Biology - AQA\\00 - Past papers\\Paper 1 Higher\\AQA-84611H-QP-JUN23.pdf",
+      "question_parts_by_marks": {
+        "1": 28,
+        "2": 11,
+        "3": 6,
+        "4": 5,
+        "6": 2
+      }
+    },
+    {
+      "paper": "AQA-84612H-QP-JUN23.txt",
+      "local_source": "Biology - AQA\\00 - Past papers\\Paper 2 Higher\\AQA-84612H-QP-JUN23.pdf",
+      "question_parts_by_marks": {
+        "1": 21,
+        "2": 9,
+        "3": 8,
+        "4": 5,
+        "5": 1,
+        "6": 2
+      }
+    }
+  ],
+  "verification": [
+    "Every pre-existing question and answer retained verbatim, apart from renumbering.",
+    "Every pre-existing H2 note section and embedded note diagram retained.",
+    "Question numbers sequential; mark groups increasing; every reviewed bank now includes 1–6 marks.",
+    "New questions are original specification-based practice with tutor-written answers, not reproduced official questions or official mark allocations.",
+    "Desktop,390px and320px group-page and Q&A checks passed for all 31 topics.",
+    "All 1208 answer disclosures start closed; Expand all/Collapse all checked; every expanded question/answer image loads; no 390px page overflow.",
+    "New current-voltage and osmosis graph exports visually inspected, plus representative Physics/Chemistry/Biology mobile note readers.",
+    "Each of the six official 2023 question-paper mark distributions sums to 100 marks. Individual parts in this sample span 1–6 marks, with no 7/9-mark part. This does not claim that every topic has every mark value in each real exam.",
+    "scripts/check_project_site.py passed: 972 HTML pages; all local links resolve; all 73 topics retain combined Q&A folders."
+  ],
+  "source_tracking": "Topic qa-evidence.json and older source audits retain paper provenance. The mappings below translate previous local practice-question numbers to the current numbering. No recurrence claim is made for new items."
+}
