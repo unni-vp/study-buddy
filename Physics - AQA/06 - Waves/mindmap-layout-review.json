@@ -463,6 +463,13 @@
     "reviewed": "2026-10-19",
     "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
     "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
-    "verification": "All topic SVG bounds, text collisions, padding and physical font sizes checked. Reader and fullscreen modal A4 proofs checked."
-  }
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "00-waves-overview.svg",
+      "01-measuring-waves.svg",
+      "02-boundaries-and-sound.svg",
+      "03-electromagnetic-waves.svg"
+    ]
+  },
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines."
 }
