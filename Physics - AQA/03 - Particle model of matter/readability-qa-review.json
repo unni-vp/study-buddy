@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Explained internal energy and temperature separately with a developed bath-and-cup comparison.",
+    "Expanded heating-curve interpretation and two-stage energy arithmetic into distinct steps.",
+    "Clarified constant-temperature compression versus rapid compression without deleting conditions or examples."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 25,
+  "mark_groups": {
+    "1": 5,
+    "2": 7,
+    "3": 6,
+    "4": 4,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Existing practice covers density practical, heating-curve explanation and calculations at1–4 and6marks.",
+    "Added multiple choice, tabulated gas-law evidence and five-mark multi-stage heating calculation.",
+    "No gas temperature-law equation introduced beyond the specification's qualitative temperature-pressure relationship."
+  ],
+  "additional_practice": [
+    {
+      "number": 5,
+      "marks": 1,
+      "prompt": "A pure substance melts at constant pressure. Which statement is correct? Choose one: A its particles become larger; B its internal energy increases while its temperature stays constant; C its mass increases; D its average particle kinetic energy must increase.",
+      "answer": "B: its internal energy increases while its temperature stays constant."
+    },
+    {
+      "number": 22,
+      "marks": 4,
+      "prompt": "A student slowly compresses a fixed mass of gas and records the results below. Use calculations to test whether the results support pV = constant. Explain why the gas must be allowed to return to room temperature between readings.\n\n| Volume (cm³) | Pressure (kPa) |\n|---|---|\n| 60 | 100 |\n| 40 | 150 |\n| 30 | 200 |",
+      "answer": "- The products are 60 × 100 = **6000**, 40 × 150 = **6000**, and 30 × 200 = **6000 kPa cm³**.\n- The equal products support **pV = constant** for these measurements.\n- Compression can do work on the gas and raise its temperature.\n- Waiting lets it return to the same temperature, so changes in temperature do not affect the pressure comparison."
+    },
+    {
+      "number": 23,
+      "marks": 5,
+      "prompt": "A 250 W heater melts 150 g of ice initially at 0°C and then warms the water to 25°C. Assume no energy is lost. Use L = 334 000 J/kg and c = 4200 J/kg°C. Calculate the total energy required and the heating time.",
+      "answer": "- Convert mass: 150 g = **0.150 kg**.\n- Melting energy: **E = mL** = 0.150 × 334 000 = **50 100 J**.\n- Warming energy: **E = mcΔθ** = 0.150 × 4200 × 25 = **15 750 J**.\n- Total energy = 50 100 + 15 750 = **65 850 J**.\n- **t = E/P** = 65 850 ÷ 250 = **263.4 s**, or about **263 s**."
+    }
+  ],
+  "sources": [
+    "Physics - AQA/00 - Specification/AQA-8463-specification.pdf section4.3",
+    "Physics - AQA/00 - Past papers/Paper 1 Higher/AQA-84631H-QP-JUN23.PDF Q03.5 (particle explanation),Q04.2 (five-mark equation demand)"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

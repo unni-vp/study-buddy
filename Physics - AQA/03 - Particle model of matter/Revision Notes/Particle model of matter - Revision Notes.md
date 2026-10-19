@@ -53,16 +53,22 @@ Evaporation occurs at a liquid's surface below its boiling point. Boiling occurs
 
 ## Internal energy and temperature
 
-**Internal energy is the total kinetic and potential energy of all the particles in a system.** Kinetic energy relates to their movement; potential energy relates to their arrangement and interactions.
+**Internal energy** is the total kinetic and potential energy of all the particles in a system. The kinetic part comes from their movement. The potential part depends on their arrangement and interactions.
 
-Temperature relates to **average particle kinetic energy**, not the total energy of the sample. A large warm bath can have more internal energy than a tiny hotter cup. Heating can increase temperature or change state.
+**Temperature** tells you about average particle kinetic energy. It does not tell you the total energy of the whole sample. A warm bath contains far more water than a tiny hotter cup, so the bath can have more internal energy even though its temperature is lower.
 
-For a temperature rise without a state change, use **ΔE = mcΔθ**:
+Heating transfers energy into the material. This can make the particles move faster and raise the temperature. Alternatively, it can change their arrangement during a **change of state**.
 
-- ΔE in J, m in kg, c in J/kg°C, temperature change Δθ in °C.
-- c is energy needed to warm **1 kg by 1°C**.
-- 0.20 kg of water warming by 15°C, with c = 4,200 J/kg°C, gains **12,600 J**.
-- At equal energy input, a larger mass or greater c gives a smaller temperature rise.
+For a temperature rise without a change of state, use **ΔE = mcΔθ**.
+
+| Quantity | Meaning and unit |
+|---|---|
+| ΔE | Energy transferred, in J |
+| m | Mass, in kg |
+| c | Specific heat capacity, in J/kg°C |
+| Δθ | Final temperature minus initial temperature, in °C |
+
+**Specific heat capacity** is the energy needed to warm **1 kg by 1°C**. For example, 0.20 kg of water warming by 15°C gains 0.20 × 4200 × 15 = **12 600 J**. If the same energy is supplied to a greater mass, the temperature rise is smaller. A material with a larger specific heat capacity also warms less for the same mass and energy input.
 
 ## Latent heat and heating curves
 
@@ -81,14 +87,18 @@ At a state change, energy can increase **particle potential energy** without inc
 
 For a pure substance at constant pressure:
 
-- **Sloping sections:** temperature and average kinetic energy rise; use **mcΔθ**.
-- **Flat sections:** both states coexist, temperature stays constant, but internal energy rises as potential energy increases; use **mL**.
-- Cooling reverses the changes: energy leaves the material.
-- On a constant-power heating graph, a longer plateau means more energy transferred during that phase change for that sample.
+**Sloping sections:** the temperature rises, so the particles' average kinetic energy increases. Use **E = mcΔθ** to calculate the energy for this temperature change.
+
+**Flat sections:** two states coexist while the material melts or boils. Its temperature stays constant. Energy increases the particles' potential energy as their arrangement changes, so internal energy still rises. Use **E = mL** for this stage.
+
+Cooling reverses these changes as energy leaves the material. On a constant-power heating graph, a longer flat section means more energy is transferred during that phase change for that sample.
 
 **Two-stage example:** melt 0.10 kg of ice at 0°C and warm the water to 20°C. Use L = 334,000 J/kg and c = 4,200 J/kg°C.
 
-E = mL + mcΔθ = 33,400 + 8,400 = **41,800 J**. A 100 W heater would take at least E/P = **418 s**; heat loss increases the real time.
+1. Melt the ice: E = mL = 0.10 × 334 000 = **33 400 J**.
+2. Warm the water: E = mcΔθ = 0.10 × 4200 × 20 = **8400 J**.
+3. Add the two amounts: total energy = 33 400 + 8400 = **41 800 J**.
+4. With a 100 W heater, the minimum time is E/P = 41 800 ÷ 100 = **418 s**. Heat loss makes the actual time longer.
 
 To investigate latent heat of fusion, compare meltwater collected in a fixed time from ice at 0°C with and without an electrical heater. Subtract the unheated melting due to the room, measure input energy and use **L = E/extra mass melted**. Keep conditions alike and electrical connections clear of water.
 
@@ -108,9 +118,11 @@ A sealed, rigid tyre can therefore have higher pressure after warming. It is the
 
 For a **fixed mass of gas at constant temperature**, **pV = constant**, so **p₁V₁ = p₂V₂**.
 
-- Halving volume doubles pressure. Particles have the same average speed but collide with the walls more frequently per unit area.
-- Increasing volume reduces pressure because wall collisions are less frequent per unit area.
-- Use Pa and m³, or the same consistent pressure and volume units on both sides of a ratio calculation.
+**When volume decreases:** the particles have less space to move in. At constant temperature their average speed stays the same, but collisions with the walls become more frequent per unit area. Pressure rises. Halving the volume doubles the pressure.
+
+**When volume increases:** wall collisions become less frequent per unit area, so pressure falls.
+
+Use Pa and m³, or keep the pressure and volume units consistent on both sides of a ratio calculation.
 
 A gas at 100 kPa occupies 60 cm³. Slowly compressing it to 40 cm³ at constant temperature gives p₂ = 100 × 60/40 = **150 kPa**.
 
