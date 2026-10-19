@@ -2,7 +2,9 @@
 
 ## Angles
 
-Normal is 90° to a surface. Reflection: i = r from normal.
+Normal is 90° to a surface.
+
+Reflection: i = r from normal.
 
 Perpendicular moment distance is pivot to force’s line of action.
 
@@ -44,7 +46,11 @@ Transformer equal-power relation assumes ideal efficiency.
 
 Correct unit, sign and sensible precision.
 
-Mass is kg; weight is N. Work is J; moment is Nm.
+Mass is kg
+
+weight is N. Work is J
+
+moment is Nm.
 
 Temperature rise and extension are changes.
 
@@ -58,4 +64,6 @@ At fixed force, larger mass gives smaller acceleration.
 
 Check squares, roots, time conversions and powers of ten.
 
-Plausibility supports a check; it does not replace working.
+Plausibility supports a check
+
+it does not replace working.

@@ -87,7 +87,7 @@
         372
       ],
       "column_heights": [
-        432,
+        454,
         432,
         454
       ],
@@ -108,7 +108,7 @@
           "x": 18,
           "y": 259,
           "width": 338,
-          "height": 207
+          "height": 229
         },
         {
           "source_panels": [
@@ -159,9 +159,9 @@
         352
       ],
       "column_heights": [
-        520,
-        520,
-        476
+        586,
+        608,
+        520
       ],
       "panels": [
         {
@@ -180,7 +180,7 @@
           "x": 18,
           "y": 259,
           "width": 342,
-          "height": 295
+          "height": 361
         },
         {
           "source_panels": [
@@ -189,16 +189,16 @@
           "x": 372,
           "y": 18,
           "width": 366,
-          "height": 207
+          "height": 251
         },
         {
           "source_panels": [
             3
           ],
           "x": 372,
-          "y": 237,
+          "y": 281,
           "width": 366,
-          "height": 317
+          "height": 361
         },
         {
           "source_panels": [
@@ -207,16 +207,16 @@
           "x": 750,
           "y": 18,
           "width": 352,
-          "height": 251
+          "height": 273
         },
         {
           "source_panels": [
             5
           ],
           "x": 750,
-          "y": 281,
+          "y": 303,
           "width": 352,
-          "height": 229
+          "height": 251
         }
       ],
       "body_pt": 11.22,
@@ -226,14 +226,14 @@
     },
     {
       "widths": [
-        430,
+        446,
         314,
-        316
+        300
       ],
       "column_heights": [
         594,
         600,
-        498
+        542
       ],
       "panels": [
         {
@@ -242,23 +242,23 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 430,
-          "height": 207
+          "width": 446,
+          "height": 229
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 237,
-          "width": 430,
-          "height": 391
+          "y": 259,
+          "width": 446,
+          "height": 369
         },
         {
           "source_panels": [
             2
           ],
-          "x": 460,
+          "x": 476,
           "y": 18,
           "width": 314,
           "height": 353
@@ -267,7 +267,7 @@
           "source_panels": [
             3
           ],
-          "x": 460,
+          "x": 476,
           "y": 383,
           "width": 314,
           "height": 251
@@ -276,19 +276,19 @@
           "source_panels": [
             4
           ],
-          "x": 786,
+          "x": 802,
           "y": 18,
-          "width": 316,
-          "height": 251
+          "width": 300,
+          "height": 273
         },
         {
           "source_panels": [
             5
           ],
-          "x": 786,
-          "y": 281,
-          "width": 316,
-          "height": 251
+          "x": 802,
+          "y": 303,
+          "width": 300,
+          "height": 273
         }
       ],
       "body_pt": 11.22,
@@ -379,5 +379,17 @@
       "slug": "04-geometry-and-checking",
       "title": "Geometry and physical checks"
     }
-  ]
+  ],
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "01-units-and-calculation.svg",
+      "02-equation-toolkit.svg",
+      "03-graphs-and-data.svg"
+    ]
+  },
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines."
 }

@@ -4,7 +4,9 @@
 
 **y = mx + c:** gradient m, intercept c.
 
-**Gradient = Δy/Δx.** Use a large triangle on best-fit line.
+**Gradient = Δy/Δx.**
+
+Use a large triangle on best-fit line.
 
 F against extension gives k. I against V gives 1/R.
 
@@ -34,7 +36,9 @@ Distance–time area does not give distance.
 
 ## Statistical summaries
 
-Mean = sum/count. Frequency tables need weighted sum.
+Mean = sum/count.
+
+Frequency tables need weighted sum.
 
 Median: middle after sorting. Mode: most frequent.
 
@@ -46,7 +50,9 @@ Percentage change = change/original ×100.
 
 Bar charts compare categories. Scatter graphs show correlation.
 
-Histogram frequency is area; density = frequency/interval width.
+Histogram frequency is area
+
+density = frequency/interval width.
 
 Correlation does not establish cause.
 

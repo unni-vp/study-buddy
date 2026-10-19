@@ -12,7 +12,9 @@ Convert speed or extension before squaring.
 
 ## Area and volume
 
-**1 cm² = 10⁻⁴ m². 1 cm³ = 10⁻⁶ m³.**
+**1 cm² = 10⁻⁴ m².**
+
+**1 cm³ = 10⁻⁶ m³.**
 
 **1 g/cm³ = 1,000 kg/m³.**
 
@@ -32,7 +34,9 @@ Use calculator exponent key correctly and check order of magnitude.
 
 ## Rearrange
 
-Keep both sides balanced. V = IR gives R = V/I.
+Keep both sides balanced.
+
+V = IR gives R = V/I.
 
 **v = √(2Eₖ/m)** follows from Eₖ = ½mv².
 
@@ -42,11 +46,17 @@ Keep symbols distinct: pressure p differs from momentum p.
 
 ## Proportion
 
-**Direct:** y = kx. Double x, double y.
+**Direct:** y = kx.
 
-**Inverse:** y = k/x. Double x, halve y.
+Double x, double y.
 
-**Squared:** y = kx². Double x, quadruple y.
+**Inverse:** y = k/x.
+
+Double x, halve y.
+
+**Squared:** y = kx².
+
+Double x, quadruple y.
 
 Keep other relevant factors fixed.
 
