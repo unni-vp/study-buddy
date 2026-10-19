@@ -1,0 +1,43 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Explained rate versus total product using separate numerical examples.",
+    "Organised concentration shifts in a comparison table with the reason for each direction.",
+    "Developed temperature/pressure equilibrium reasoning and preserved all graphs, apparatus and practical conditions."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 37,
+  "mark_groups": {
+    "1": 8,
+    "2": 13,
+    "3": 8,
+    "4": 4,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark practice covers collision explanations, reciprocal times, tangents, practical planning and equilibrium evaluation.",
+    "Added multiple choice and a five-mark rate/yield data problem with units, ratios and limiting-reactant reasoning."
+  ],
+  "additional_practice": [
+    {
+      "number": 8,
+      "marks": 1,
+      "prompt": "At dynamic equilibrium, which statement must be true? Choose one: A reactant and product amounts are equal; B both reactions have stopped; C forward and reverse rates are equal; D all reactants have become products.",
+      "answer": "C: forward and reverse rates are equal."
+    },
+    {
+      "number": 34,
+      "marks": 5,
+      "prompt": "Two reactions use the same mass of marble chips and hydrochloric acid in excess, at different concentrations. Use the table to calculate the mean gas-production rate over the first 40 s for A and B, and the ratio rate A : rate B. Explain why their final volumes can be the same despite their different rates.\n\n| Time (s) | Gas from A (cm³) | Gas from B (cm³) |\n|---|---|---|\n| 0 | 0 | 0 |\n| 20 | 30 | 18 |\n| 40 | 48 | 30 |\n| 80 | 60 | 60 |\n| 100 | 60 | 60 |",
+      "answer": "- Mean rate A = (48 − 0) ÷ 40 = **1.2 cm³/s**.\n- Mean rate B = (30 − 0) ÷ 40 = **0.75 cm³/s**.\n- Rate A : rate B = 1.2 : 0.75 = **1.6 : 1**.\n- Both stop at **60 cm³** because the same amount of marble chips is the **limiting reactant** and acid is in excess.\n- Concentration changes collision frequency and therefore **how quickly** gas forms. It does not change the maximum gas amount when the limiting amount stays the same."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.6",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 2 Higher/AQA-84622H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
