@@ -40,10 +40,11 @@ Select **representative samples** when studying a population or a variable mater
 
 **Random error** makes results vary unpredictably. Repeat measurements and use a mean to reduce its effect. **Systematic error** consistently shifts results, such as a balance with an uncorrected zero offset. More repeats do not remove that offset.
 
-- **Zero error:** instrument does not read zero when it should. Check before use, then reset or correct readings.
-- **Parallax:** viewing a scale from an unsuitable angle. Read at eye level and use a pointer close to the scale where appropriate.
-- A precise set of values can still be inaccurate if all readings have the same offset.
-- **An anomaly** is a value that does not fit the pattern. Investigate, repeat and record what happened. Exclude it from a mean only with a reason, such as a documented measurement failure, not because it is inconvenient.
+**Zero error:** the instrument does not read zero when it should. Check it before use, then reset it or correct the readings. Repeated readings can be close together yet still be inaccurate if they all contain the same offset.
+
+**Parallax:** a scale is viewed from an unsuitable angle. Read at eye level and, where appropriate, keep a pointer close to the scale.
+
+**Anomalies:** a result that does not fit the pattern needs investigation. Repeat the measurement and record what happened. Exclude it from a mean only with a reason, such as a documented measurement failure. Do not discard a result just because it is inconvenient.
 
 ## Record and analyse data
 
@@ -51,10 +52,14 @@ Use a table with **quantity and unit in each column heading**, consistent decima
 
 **Example:** repeated times are 2.4, 2.6 and 2.5 s.
 
-- Mean = (2.4 + 2.6 + 2.5)/3 = **2.5 s**.
-- Range = 2.6 − 2.4 = **0.2 s**.
-- A simple estimate from repeats is **half the range**, here ±0.1 s. State the method used; instrument uncertainty and other errors can also matter.
-- Percentage uncertainty using that estimate = 0.1/2.5 × 100 = **4%**.
+For the readings **2.4, 2.6 and 2.5 s**:
+
+1. Mean = (2.4 + 2.6 + 2.5) ÷ 3 = **2.5 s**.
+2. Range = 2.6 − 2.4 = **0.2 s**.
+3. A simple uncertainty estimate is **half the range**, giving **±0.1 s**.
+4. Percentage uncertainty = 0.1 ÷ 2.5 × 100 = **4%**.
+
+State the uncertainty method used. Instrument uncertainty and other errors can also matter.
 
 Measuring a longer interval, several wavelengths, or multiple wire diameters can reduce **percentage uncertainty**, provided the method remains appropriate. Avoid claiming that a mean has more reliable decimal places than the equipment supports.
 
@@ -75,14 +80,15 @@ Use a chain: **problem → effect on result → improvement**. “Be more carefu
 
 **Example:** some heater energy warms the room. Using all electrical input as block heating makes calculated c too large. Insulating the block reduces this energy loss.
 
-- Describe whether data support a hypothesis, giving **specific evidence** and considering uncertainty.
-- **Correlation does not by itself establish causation.** Another variable, an unrepresentative sample or chance may explain the pattern.
-- A **model** simplifies reality to explain and predict. Particle drawings, circuit models and equations are examples. State limits, such as using a straight-line spring model only within proportional behaviour.
-- New reliable evidence can require a model to change. Rutherford's scattering observations challenged the earlier atomic model.
-- **Peer review** means other specialists scrutinise methods and conclusions. Independent reproduction adds evidence; review is not a guarantee that a claim is correct.
-- Evaluate scientific applications using measured benefits, risks, costs, environmental effects and ethical considerations. Science can inform decisions but cannot alone decide every value judgement.
-- Distinguish measured risk from perceived risk. An unfamiliar or invisible hazard may feel riskier without the data supporting that ranking.
-- Communicate a logical explanation using appropriate quantities, units, diagrams and calculations. Separate observation from interpretation.
+**Using evidence:** state whether the results support the hypothesis. Quote relevant measurements with units and consider their uncertainty. **Correlation alone does not establish causation**: another variable, an unrepresentative sample or chance may explain a pattern.
+
+**Using models:** a model simplifies reality so that we can explain and predict it. Particle drawings, circuits and equations are models. Explain the limits of the model, such as using F = ke only while force and extension are proportional. New reliable evidence can require a model to change. Rutherford's scattering observations challenged the earlier atomic model.
+
+**Checking a claim:** in **peer review**, other specialists scrutinise the methods and conclusions. Independent reproduction tests whether other investigators obtain similar results. Both help assess a claim, although neither guarantees it is correct.
+
+**Making decisions:** compare measured benefits and risks with costs, environmental effects and ethical considerations. Science supplies evidence, but it cannot decide every value judgement. Also distinguish measured risk from perceived risk. An invisible or unfamiliar hazard may feel more dangerous without the data supporting that ranking.
+
+Present the reasoning in a logical order. Use appropriate units, diagrams and calculations, and distinguish what was observed from how it is interpreted.
 
 ## Practical: specific heat capacity
 

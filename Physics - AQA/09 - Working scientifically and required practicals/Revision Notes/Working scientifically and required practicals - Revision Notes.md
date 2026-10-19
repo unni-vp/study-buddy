@@ -51,10 +51,14 @@ Use a table with **quantity and unit in each column heading**, consistent decima
 
 **Example:** repeated times are 2.4, 2.6 and 2.5 s.
 
-- Mean = (2.4 + 2.6 + 2.5)/3 = **2.5 s**.
-- Range = 2.6 − 2.4 = **0.2 s**.
-- A simple estimate from repeats is **half the range**, here ±0.1 s. State the method used; instrument uncertainty and other errors can also matter.
-- Percentage uncertainty using that estimate = 0.1/2.5 × 100 = **4%**.
+For the readings **2.4, 2.6 and 2.5 s**:
+
+1. Mean = (2.4 + 2.6 + 2.5) ÷ 3 = **2.5 s**.
+2. Range = 2.6 − 2.4 = **0.2 s**.
+3. A simple uncertainty estimate is **half the range**, giving **±0.1 s**.
+4. Percentage uncertainty = 0.1 ÷ 2.5 × 100 = **4%**.
+
+State the uncertainty method used. Instrument uncertainty and other errors can also matter.
 
 Measuring a longer interval, several wavelengths, or multiple wire diameters can reduce **percentage uncertainty**, provided the method remains appropriate. Avoid claiming that a mean has more reliable decimal places than the equipment supports.
 
