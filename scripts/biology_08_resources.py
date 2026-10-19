@@ -25,7 +25,11 @@ Choose equipment appropriate to the quantity and required resolution: balance fo
 | Random error | Unpredictable scatter | Repeat and calculate a mean |
 | Systematic error | Consistent bias or offset | Find the cause and recalibrate/correct it |
 
-Repeating a balance that always reads 0.2 g too high does not remove its bias. Check an **anomalous result** and repeat the measurement; only exclude it with a justified reason, not because it spoils a preferred pattern. Report variation, for example the range. Instrument resolution and the spread of repeats both matter to **uncertainty**.
+**Systematic error:** a balance that always reads 0.2 g too high keeps that offset when readings are repeated. Check and correct its zero or calibration.
+
+**Unexpected results:** investigate an **anomaly** and repeat the measurement. Exclude it only with a justified reason, rather than because it spoils a preferred pattern.
+
+**Uncertainty:** report variation, such as the range of repeats. Consider both the instrument's resolution and the spread of the readings.
 
 ## Evidence, graphs and conclusions
 
@@ -46,7 +50,13 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 3. Draw clear single outlines in pencil, in proportion, with straight non-crossing label lines. Only draw structures actually observed.
 4. Record total microscope magnification (**eyepiece × objective**) and an appropriate image scale/magnification.
 
-**Image magnification = image size ÷ actual size**, with sizes in matching units. Microscope power is not automatically the magnification of a resized drawing. Thin tissue and stain improve visibility. Handle glass carefully and avoid damaging a slide with the objective lens.
+**Image magnification = image size ÷ actual size**, with sizes in matching units.
+
+Microscope power is not automatically the magnification of a resized drawing.
+
+Thin tissue and stain improve visibility.
+
+Handle glass carefully and avoid damaging a slide with the objective lens.
 
 ## Antibiotics and antiseptics on agar
 
@@ -57,7 +67,15 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 3. Tape the lid at a few points, **not all the way round**. Incubate inverted at about **25°C** in school work, reducing the risk of culturing harmful human pathogens.
 4. Keep agar depth, bacterial starting concentration, incubation time and temperature consistent. Repeat plates and compare zone measurements.
 
-Measure zone diameters consistently; **area = πr²**, using half the diameter as radius. If specifically asked for clear agar excluding the disc, subtract the disc area. A larger zone suggests stronger inhibition **under these conditions**, but diffusion through agar also affects size, so it is not automatically proof of the best treatment in a patient.
+Measure zone diameters consistently.
+
+**Area = πr²**
+
+Use **half the diameter** as the radius.
+
+If specifically asked for clear agar excluding the disc, subtract the disc area.
+
+A larger zone suggests stronger inhibition **under these conditions**. Diffusion through agar also affects size, so it is not automatically proof of the best treatment in a patient.
 
 Keep plates closed after incubation and use approved disposal. Sterilise equipment rather than merely wiping it; aseptic methods prevent contamination and improve validity.
 
@@ -71,7 +89,13 @@ Keep plates closed after incubation and use approved disposal. Sterilise equipme
 4. Remove, **blot consistently** and measure final mass. Repeat each concentration.
 5. Calculate **percentage mass change = (final − initial)/initial ×100** and plot against concentration.
 
-Water enters cells by **osmosis** in a sufficiently dilute external solution and leaves in a more concentrated one. At the graph’s zero-change crossing there is **no net water movement**, estimating a solution concentration matching the tissue. This does not mean water molecules stop moving. Percentage change allows fairer comparison of different starting masses. Blotting removes surface solution without squeezing water out of cells. Use a cutting board and handle sharp tools safely.
+**Interpreting mass change:** water enters cells by osmosis in a sufficiently dilute external solution. It leaves in a more concentrated solution.
+
+**The zero crossing:** where the best-fit graph crosses zero percentage change, there is **no net movement of water**. This estimates a concentration matching the tissue for osmosis. Water molecules still move in both directions.
+
+**Making the comparison fair:** percentage change accounts for slightly different starting masses. Blotting removes surface solution, which would otherwise increase the measured mass. Blot consistently without squeezing water out of the cells.
+
+Use a cutting board and handle sharp tools safely.
 
 ![Water and solute are distinguished on opposite sides of a partially permeable membrane.](../Diagrams/osmosis-mechanism.svg)
 
@@ -149,13 +173,22 @@ Identify organisms carefully and avoid damaging the habitat. Wash hands after so
 
 ## Milk decay and temperature
 
-**Aim:** measure how temperature affects pH change during milk-fat breakdown.
+**Aim:** measure how temperature affects the pH change during milk-fat breakdown.
 
-Use measured milk, indicator and sodium carbonate to give a consistent alkaline start. Equilibrate mixtures and lipase in a water bath, add the enzyme, start timing and measure a **common pH endpoint**. Lipase releases **fatty acids**, lowering pH; this models a component of milk decay.
+Lipase breaks down milk fat and releases **fatty acids**, lowering pH. This models one component of milk decay.
 
-Keep volumes/concentrations, starting pH and mixing consistent. Repeat each temperature and include a no-enzyme control. Compare mean times or **relative rate = 1/time**. A calibrated probe can record continuous pH change. Very high temperature can denature lipase, so rate does not rise indefinitely.
+1. Measure the milk, indicator and sodium carbonate. Use the same amounts to give a consistent alkaline starting pH.
+2. Place the mixture and lipase in a water bath at the chosen temperature. Allow them to reach that temperature.
+3. Add the same volume and concentration of lipase, mix consistently and start timing.
+4. Measure the time to a **common pH endpoint**. A calibrated probe can record pH continuously.
+5. Repeat at a range of temperatures. Keep starting pH, volumes, concentrations and mixing consistent.
+6. Include a **no-enzyme control**. Compare mean times or calculate **relative rate = 1/time** for the same endpoint.
 
-Avoid tasting mixtures, use eye protection for alkaline solution and handle hot baths safely. Endpoint colour judgement and thermal equilibration are limitations to address specifically.
+Very high temperatures can denature lipase. The rate therefore does not increase indefinitely as temperature rises.
+
+A colour endpoint can depend on the observer's judgement. Incomplete thermal equilibration can also affect the comparison. Explain which limitation an improvement addresses.
+
+Do not taste the mixtures. Use eye protection for alkaline solutions and handle hot water baths safely.
 
 ## Applying methods to unfamiliar contexts
 

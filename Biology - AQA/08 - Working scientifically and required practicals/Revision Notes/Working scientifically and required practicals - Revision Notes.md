@@ -50,7 +50,13 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 3. Draw clear single outlines in pencil, in proportion, with straight non-crossing label lines. Only draw structures actually observed.
 4. Record total microscope magnification (**eyepiece × objective**) and an appropriate image scale/magnification.
 
-**Image magnification = image size ÷ actual size**, with sizes in matching units. Microscope power is not automatically the magnification of a resized drawing. Thin tissue and stain improve visibility. Handle glass carefully and avoid damaging a slide with the objective lens.
+**Image magnification = image size ÷ actual size**, with sizes in matching units.
+
+Microscope power is not automatically the magnification of a resized drawing.
+
+Thin tissue and stain improve visibility.
+
+Handle glass carefully and avoid damaging a slide with the objective lens.
 
 ## Antibiotics and antiseptics on agar
 
@@ -61,7 +67,15 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 3. Tape the lid at a few points, **not all the way round**. Incubate inverted at about **25°C** in school work, reducing the risk of culturing harmful human pathogens.
 4. Keep agar depth, bacterial starting concentration, incubation time and temperature consistent. Repeat plates and compare zone measurements.
 
-Measure zone diameters consistently; **area = πr²**, using half the diameter as radius. If specifically asked for clear agar excluding the disc, subtract the disc area. A larger zone suggests stronger inhibition **under these conditions**, but diffusion through agar also affects size, so it is not automatically proof of the best treatment in a patient.
+Measure zone diameters consistently.
+
+**Area = πr²**
+
+Use **half the diameter** as the radius.
+
+If specifically asked for clear agar excluding the disc, subtract the disc area.
+
+A larger zone suggests stronger inhibition **under these conditions**. Diffusion through agar also affects size, so it is not automatically proof of the best treatment in a patient.
 
 Keep plates closed after incubation and use approved disposal. Sterilise equipment rather than merely wiping it; aseptic methods prevent contamination and improve validity.
 
