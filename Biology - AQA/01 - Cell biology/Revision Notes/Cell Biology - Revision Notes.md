@@ -89,7 +89,10 @@ Use **the same units** for image and actual size. Magnification has **no unit**.
 | 1 µm in metres | 1 × 10⁻⁶ m |
 | 1 nm in metres | 1 × 10⁻⁹ m |
 
-**Worked example:** image width = 30 mm; actual width = 60 µm.
+**Worked example**
+
+- Image width = **30 mm**.
+- Actual width = **60 µm**.
 
 1. Convert: 30 mm = **30,000 µm**.
 2. Magnification = 30,000 ÷ 60 = **×500**.
@@ -150,15 +153,24 @@ These are school practical principles. Cultures should be handled and disposed o
 
 ### Must-know calculations
 
-**Final population = starting population × 2ⁿ**, where **n = total time ÷ division time**.
+**Final population = starting population × 2ⁿ**
+
+Calculate the number of divisions first:
+
+**n = total time ÷ division time**
 
 Example: 50 bacteria, doubling every 20 minutes for 2 hours:
 
-- 2 hours = 120 minutes; n = 120 ÷ 20 = **6**.
-- Final population = 50 × 2⁶ = **3,200 = 3.2 × 10³**.
-- Express the result in **standard form** when asked.
+1. Convert the time: 2 hours = **120 minutes**.
+2. Find the number of divisions: n = 120 ÷ 20 = **6**.
+3. Find the final population: 50 × 2⁶ = **3,200 = 3.2 × 10³**.
 
-**Circle area = πr².** Diameter 12 mm → radius 6 mm → area = π × 6² = **113 mm²** to 3 significant figures.
+**Circle area = πr²**
+
+**Example: a zone with diameter 12 mm**
+
+1. Find the radius: r = 12 ÷ 2 = **6 mm**.
+2. Calculate area: π × 6² = **113 mm²** to 3 significant figures.
 
 Check whether the question wants the whole clear circle or the area excluding the disc; subtract the disc area only when required.
 
@@ -277,7 +289,10 @@ cutting a large potato into small cubes exposes much more surface. The amount of
 
 ### Worked example: cubes
 
-For a cube of side length a: **surface area = 6a²**, **volume = a³**.
+For a cube of side length a:
+
+- **Surface area = 6a²**.
+- **Volume = a³**.
 
 | Side | Surface area | Volume | SA:V |
 | --- | --- | --- | --- |
@@ -318,7 +333,15 @@ Large multicellular organisms need **specialised exchange surfaces** and **trans
 
 **Percentage mass change = (final mass − initial mass) ÷ initial mass × 100**
 
-Example: 2.50 g → 2.20 g: change = −0.30 g; percentage change = −0.30 ÷ 2.50 × 100 = **−12%**. Water left by osmosis.
+**Example: percentage mass change**
+
+The mass falls from **2.50 g** to **2.20 g**.
+
+1. Find the change: 2.20 − 2.50 = **−0.30 g**.
+2. Divide by the initial mass: −0.30 ÷ 2.50.
+3. Multiply by 100: percentage change = **−12%**.
+
+The negative change shows that water left by osmosis.
 
 - **Positive change:** net water gain; surrounding solution was more dilute than the cell contents.
 - **Negative change:** net water loss; surrounding solution was more concentrated.
