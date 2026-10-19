@@ -199,3 +199,5 @@ These checks apply to future resources and revisions of existing resources.
 - Hide Exam pointer sections, including named case-study exam pointers, in reading and print views. Do not leave a visible heading or reveal control. Keep substantive process explanations, case evidence and model answers visible.
 
 - Do not display the generic Evaluating a strategy section in student reading or print views. Keep specific case-study evaluations and supported judgements visible.
+
+- Equation layout: put each main equation on its own line or in a clear table row. Define one symbol and its unit per bullet or table row. Separate given values, unit conversions, substitution and the final answer into readable worked steps. Keep different examples apart. A source-code line break inside a Markdown paragraph does not create a visible break: check the rendered desktop and mobile pages.
