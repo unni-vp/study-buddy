@@ -98,7 +98,7 @@ The modern periodic table puts elements in **increasing atomic number**.
 
 **Period:** a horizontal row. The period number tells you how many electron shells are occupied in the neutral atom.
 
-**Group:** a vertical column. Main-group elements have the same number of outer electrons, which explains their similar chemical reactions. Group1 atoms have one outer electron and Group7 atoms have seven. **Group0 atoms have a full outer shell**: eight electrons, except helium, which has two.
+**Group:** a vertical column. Main-group elements have the same number of outer electrons, which explains their similar chemical reactions. Group 1 atoms have one outer electron and Group 7 atoms have seven. **Group 0 atoms have a full outer shell**: eight electrons, except helium, which has two.
 
 **Metals and non-metals:** metals lie mainly on the left and in the centre of the table. They form **positive ions by losing electrons**. Non-metals lie mainly on the right and often gain electrons or share them in covalent bonds.
 
@@ -148,7 +148,7 @@ Lithium, sodium and potassium have **one outer electron** and form **+1 ions**. 
 - Example: **2Na + 2H₂O → 2NaOH + H₂**.
 - Lithium fizzes and moves slowly; sodium reacts faster and can melt into a ball; potassium reacts more vigorously and may burn with a lilac flame. These are teacher demonstrations, not home experiments.
 - With oxygen they form oxides; with chlorine they form white **metal chlorides**. For a specified simple oxide: **4Li + O₂ → 2Li₂O**. With chlorine: **2Na + Cl₂ → 2NaCl**.
-**Why Group1 reactivity increases down the group:** atoms have more occupied shells. The outer electron is farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction to that outer electron is weaker. It is **lost more easily**, so reactions become more vigorous.
+**Why Group 1 reactivity increases down the group:** atoms have more occupied shells. The outer electron is farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction to that outer electron is weaker. It is **lost more easily**, so reactions become more vigorous.
 
 ### Group 7: halogens
 
@@ -161,7 +161,7 @@ Halogens have **seven outer electrons** and form **−1 ions** when they gain on
 | Iodine | Grey-black solid; purple vapour when heated |
 
 - **Melting and boiling points increase down the group**.
-- **Reactivity decreases down Group7.** Atoms have more occupied shells, so an incoming electron would be farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction is weaker. The atom **gains an electron less easily**.
+- **Reactivity decreases down Group 7.** Atoms have more occupied shells, so an incoming electron would be farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction is weaker. The atom **gains an electron less easily**.
 - With metals, halogens form **ionic metal halides**. With non-metals they generally form **covalent compounds**, such as hydrogen chloride.
 - A more reactive halogen **displaces a less reactive halogen** from its aqueous halide solution.
 - **Cl₂ + 2KBr → 2KCl + Br₂**. Chlorine displaces bromine; iodine cannot displace chlorine from chloride solution.

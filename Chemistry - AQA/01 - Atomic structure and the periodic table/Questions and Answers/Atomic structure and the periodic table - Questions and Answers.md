@@ -142,11 +142,11 @@
 
 **26.** An element has two isotopes with mass numbers 35 and 37. Both have atomic number 17. Its relative atomic mass is 35.6. Calculate the number of neutrons in each isotope and the percentage abundance of each isotope.
 
-**Answer:** - For mass number35, neutrons = 35 − 17 = **18**. For mass number37, neutrons = 37 − 17 = **20**.
-- Let x be the percentage of isotope37. The percentage of isotope35 is **100 − x**.
+**Answer:** - For mass number 35, neutrons = 35 − 17 = **18**. For mass number 37, neutrons = 37 − 17 = **20**.
+- Let x be the percentage of isotope 37. The percentage of isotope 35 is **100 − x**.
 - Weighted mean: **[35(100 − x) + 37x]/100 = 35.6**.
 - Therefore 3500 + 2x = 3560, so **x = 30%**.
-- The sample contains **30% isotope37 and 70% isotope35**. The mean lies nearer35 because that isotope is more abundant.
+- The sample contains **30% isotope 37 and 70% isotope 35**. The mean lies nearer 35 because that isotope is more abundant.
 
 ## 6 marks
 
