@@ -14,7 +14,7 @@
 
 A cell is a tiny working unit of a living organism. Its smaller parts each do a job.
 
-**Analogy:** a cell is like a factory: instructions guide the work, workers make products, and a boundary controls deliveries. This is a memory aid; cells do not think or make decisions.
+A cell is like a factory: instructions guide the work, workers make products, and a boundary controls deliveries. This is a memory aid; cells do not think or make decisions.
 
 | Structure | Must-know function | Factory memory aid |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ A cell is a tiny working unit of a living organism. Its smaller parts each do a 
 
 **Differentiation** is the process in which a cell develops structures suited to a particular job. A **specialised cell** is the result.
 
-**Analogy:** a trainee learns a job and gains the equipment needed for it. The process is differentiation; the trained worker is specialised.
+A trainee learns a job and gains the equipment needed for it. The process is differentiation; the trained worker is specialised.
 
 | Cell | Feature → why it helps |
 | --- | --- |
@@ -69,7 +69,7 @@ A cell is a tiny working unit of a living organism. Its smaller parts each do a 
 - **Resolution:** ability to distinguish two nearby points as separate.
 - An **electron microscope** has greater magnification and resolving power than a light microscope, revealing finer cell structures.
 
-**Analogy:** enlarging a blurry photograph makes it bigger; improving its detail makes it clearer. Magnification and resolution are not the same.
+Enlarging a blurry photograph makes it bigger; improving its detail makes it clearer. Magnification and resolution are not the same.
 
 ### Must-know maths
 
@@ -116,7 +116,7 @@ Use **the same units** for image and actual size. Magnification has **no unit**.
 
 Bacteria reproduce by **binary fission**: one bacterial cell divides into two. They can divide about every 20 minutes under suitable conditions; use the division time given in the question.
 
-**Analogy:** repeated doubling is like photocopying every copy again: 1 → 2 → 4 → 8. Growth is exponential, not addition by a fixed number.
+Repeated doubling is like photocopying every copy again: 1 → 2 → 4 → 8. Growth is exponential, not addition by a fixed number.
 
 - **Nutrient broth** supplies substances for growth.
 - **Agar plates** provide a surface on which colonies grow.
@@ -125,12 +125,14 @@ Bacteria reproduce by **binary fission**: one bacterial cell divides into two. T
 
 ### Aseptic technique: action → reason
 
-- Sterilise equipment and culture medium → remove unwanted microorganisms.
-- Sterilise an inoculating loop, then allow it to cool → avoid contamination without killing the culture being transferred.
-- Open the lid briefly → reduce entry of airborne microorganisms.
-- Secure the lid with small pieces of tape, **not a complete seal** → reduce accidental opening while allowing gas exchange.
-- Incubate **upside down** → condensation does not drip onto the culture.
-- School cultures must be incubated at a **maximum of 25°C** → reduce the risk of growing harmful human pathogens.
+| Action | Why it matters |
+|---|---|
+| Sterilise the equipment and culture medium. | This removes unwanted microorganisms before the culture is added. |
+| Sterilise the inoculating loop, then let it cool. | Sterilisation prevents contamination. Cooling prevents the hot loop killing the microorganisms being transferred. |
+| Open the lid only briefly. | Fewer airborne microorganisms can enter the plate. |
+| Secure the lid with small pieces of tape, **without sealing it completely**. | This prevents accidental opening while allowing gas exchange. |
+| Incubate the plate **upside down**. | Condensation cannot drip onto and spread the culture. |
+| Incubate school cultures at **no more than 25°C**. | This reduces the risk of encouraging harmful human pathogens. |
 
 These are school practical principles. Cultures should be handled and disposed of under the teacher's procedure; do not open incubated plates.
 
@@ -154,7 +156,7 @@ Example: 50 bacteria, doubling every 20 minutes for 2 hours:
 
 - 2 hours = 120 minutes; n = 120 ÷ 20 = **6**.
 - Final population = 50 × 2⁶ = **3,200 = 3.2 × 10³**.
-- **Higher tier:** express the result in standard form when asked.
+- Express the result in **standard form** when asked.
 
 **Circle area = πr².** Diameter 12 mm → radius 6 mm → area = π × 6² = **113 mm²** to 3 significant figures.
 
@@ -168,7 +170,7 @@ Check whether the question wants the whole clear circle or the area excluding th
 - In body cells, chromosomes normally occur in **pairs**.
 - The **cell cycle** is the sequence of growth, DNA copying and division.
 
-**Analogy:** before opening a second branch of a business, copy the instruction manual and provide equipment. Each branch needs a complete set.
+Before opening a second branch of a business, copy the instruction manual and provide equipment. Each branch needs a complete set.
 
 ### Three stages to learn
 
@@ -189,7 +191,7 @@ Mitosis supports **growth**, **repair** and **replacement**. Skin healing is a u
 
 A **stem cell** is an **undifferentiated cell** that can divide and produce cells which differentiate into other cell types.
 
-**Analogy:** an untrained worker still has several career options. A specialised worker has already taken a particular role. This is a memory aid, not a literal choice made by the cell.
+An untrained worker still has several career options. A specialised worker has already taken a particular role. This is a memory aid, not a literal choice made by the cell.
 
 | Source | What to know |
 | --- | --- |
@@ -199,11 +201,13 @@ A **stem cell** is an **undifferentiated cell** that can divide and produce cell
 
 ### Medical uses and evaluation
 
-- Potential use: replace damaged cells, for example insulin-producing cells in diabetes or nerve cells after injury. These are **potential applications**, not guaranteed cures.
-- **Therapeutic cloning:** an embryo is produced with the patient's genes; its stem cells can provide **genetically matched tissue**, so the patient's immune system does not reject it.
-- Risks include **transfer of viral infection** and possible uncontrolled cell division.
-- Ethical objections may involve the destruction of embryos; other people judge the potential treatment benefits to outweigh this objection.
-- A good evaluation weighs **benefit against risk**, considers the source of the cells, and reaches a reasoned judgement.
+**Potential benefit:** stem cells may replace damaged cells, such as insulin-producing cells in diabetes or nerve cells after injury. These are potential applications rather than guaranteed cures.
+
+**Therapeutic cloning:** an embryo is produced with the patient's genes. Its stem cells can provide **genetically matched tissue**, so the patient's immune system does not reject it.
+
+**Medical risks:** treatment can transfer a viral infection. Uncontrolled cell division is another possible concern.
+
+**Ethical views:** some people object to destroying embryos. Others consider the potential treatment benefits to outweigh this objection. Evaluate the source of the cells, the evidence of benefit and the risks before reaching a judgement.
 
 ### Plant uses
 
@@ -228,7 +232,7 @@ Meristem cells allow rapid, economical production of **clones**:
 
 Particles move randomly. There is a **net movement down the concentration gradient** because more particles leave the crowded side than the less crowded side.
 
-**Analogy:** perfume spreads from where it was sprayed through a room. At equilibrium, particles still move, but there is **no net movement**.
+Perfume spreads from where it was sprayed through a room. At equilibrium, particles still move, but there is **no net movement**.
 
 Examples: oxygen and carbon dioxide in gas exchange; **urea** diffusing from cells into blood plasma.
 
@@ -241,20 +245,21 @@ Examples: oxygen and carbon dioxide in gas exchange; **urea** diffusing from cel
 
 ### Osmosis
 
-**Exam-ready definition:** net movement of **water molecules** from a **dilute solution** to a **more concentrated solution**, through a **partially permeable membrane**.
+**Osmosis** is the net movement of **water molecules** from a **dilute solution** to a **more concentrated solution**, through a **partially permeable membrane**.
 
 The dilute side has a higher concentration of water. The membrane allows water through but prevents some dissolved substances from crossing.
 
-**Analogy:** two compartments share a divider that lets water through but holds back larger dissolved particles. Water exchange gives a net flow towards the more concentrated solution; it is not literally “attracted” by sugar.
+Two compartments share a divider that lets water through but holds back larger dissolved particles. Water exchange gives a net flow towards the more concentrated solution; it is not literally “attracted” by sugar.
 
-- Plant cell in a more dilute solution → water enters → vacuole expands → cell becomes **turgid**; the wall prevents bursting.
-- Plant cell in a more concentrated solution → water leaves → becomes **flaccid**; severe water loss can cause **plasmolysis**, where the membrane pulls from the wall.
-- Animal cell in a very dilute solution → may swell and burst; it has no cell wall.
-- Animal cell in a more concentrated solution → loses water and shrinks.
+**Plant cell in a more dilute solution:** water enters by osmosis and the vacuole expands. The cell becomes **turgid**, or firm. The cell wall resists further expansion and prevents bursting.
+
+**Plant cell in a more concentrated solution:** water leaves by osmosis and the cell becomes **flaccid**, or less firm. Severe water loss can cause **plasmolysis**, when the membrane pulls away from the wall.
+
+**Animal cells:** in a very dilute solution, water entry may make them swell and burst because they have no cell wall. In a more concentrated solution, they lose water and shrink.
 
 ### Active transport
 
-**Analogy:** pushing a trolley uphill needs energy. Active transport moves substances “uphill” against their concentration gradient, using energy from respiration.
+Pushing a trolley uphill needs energy. Active transport moves substances “uphill” against their concentration gradient, using energy from respiration.
 
 - **Root hair cells:** absorb mineral ions even when their concentration in soil is lower than inside the cell.
 - **Small intestine:** absorbs sugars into blood even when their concentration in the gut is lower than in blood.
@@ -268,7 +273,7 @@ The dilute side has a higher concentration of water. The membrane allows water t
 
 Small organisms have a **large surface area relative to their volume**. Large organisms have less outside surface for each unit of tissue needing materials.
 
-**Analogy:** cutting a large potato into small cubes exposes much more surface. The amount of potato stays the same, but more of it is close to the outside.
+cutting a large potato into small cubes exposes much more surface. The amount of potato stays the same, but more of it is close to the outside.
 
 ### Worked example: cubes
 

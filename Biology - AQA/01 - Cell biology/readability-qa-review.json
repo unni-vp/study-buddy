@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Converted the compact aseptic action/reason list into an easier comparison table.",
+    "Developed stem-cell medical benefits, matching, risks and ethics into short paragraphs.",
+    "Expanded osmosis effects in plant and animal cells; preserved all three existing explanatory diagrams and all practical/maths detail."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 44,
+  "mark_groups": {
+    "1": 11,
+    "2": 8,
+    "3": 12,
+    "4": 4,
+    "5": 3,
+    "6": 6
+  },
+  "assessment_review": [
+    "Existing42 questions already cover all1–6mark groups, graph construction, diagrams, calculations, unfamiliar applications, practical design and evaluation.",
+    "Added explicit multiple choice and an unfamiliar change-of-condition application, rather than adding unnecessary mark groups.",
+    "Kept inhibition-zone circle-area practice because section4.1.1.6 explicitly assesses it."
+  ],
+  "additional_practice": [
+    {
+      "number": 11,
+      "marks": 1,
+      "prompt": "Which process requires energy from respiration? Choose one: A diffusion of oxygen; B osmosis; C active transport of mineral ions; D random particle movement during diffusion.",
+      "answer": "C: active transport of mineral ions."
+    },
+    {
+      "number": 31,
+      "marks": 3,
+      "prompt": "A root hair cell absorbs mineral ions even when their concentration is higher inside the cell than in the soil. A chemical then stops respiration. Explain why mineral-ion uptake falls, although some diffusion can still occur.",
+      "answer": "- Mineral-ion uptake against this **concentration gradient** requires **active transport**.\n- Active transport needs **energy from respiration**. Stopping respiration reduces the energy available, so uptake falls.\n- **Diffusion does not require energy from respiration**. Particles can still move down their own concentration gradients, provided the cell membrane remains suitable for their passage."
+    }
+  ],
+  "sources": [
+    "Biology - AQA/00 - Specification/AQA-8461-specification.pdf section4.1",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-QP-JUN23.pdf",
+    "Biology - AQA/00 - Past papers/Paper 1 Higher/AQA-84611H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}
