@@ -1,0 +1,232 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "All Physics, Chemistry and Biology revision notes; follow-up to crowded equations and symbol/unit definitions.",
+  "formatting_standard": [
+    "Separate equation blocks from the explanatory prose.",
+    "One symbol and unit per bullet or table row.",
+    "Show conversions, substitutions and results in separate worked stages.",
+    "Separate independent examples and definitions; keep connected explanations as readable paragraphs."
+  ],
+  "topics": [
+    {
+      "topic": "Physics - AQA\\01 - Energy",
+      "notes": "Physics - AQA\\01 - Energy\\Revision Notes\\Energy - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\02 - Electricity",
+      "notes": "Physics - AQA\\02 - Electricity\\Revision Notes\\Electricity - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\03 - Particle model of matter",
+      "notes": "Physics - AQA\\03 - Particle model of matter\\Revision Notes\\Particle model of matter - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\04 - Atomic structure",
+      "notes": "Physics - AQA\\04 - Atomic structure\\Revision Notes\\Atomic structure - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\05 - Forces",
+      "notes": "Physics - AQA\\05 - Forces\\Revision Notes\\Forces - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\06 - Waves",
+      "notes": "Physics - AQA\\06 - Waves\\Revision Notes\\Waves - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\07 - Magnetism and electromagnetism",
+      "notes": "Physics - AQA\\07 - Magnetism and electromagnetism\\Revision Notes\\Magnetism and electromagnetism - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\08 - Space physics",
+      "notes": "Physics - AQA\\08 - Space physics\\Revision Notes\\Space physics - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\09 - Working scientifically and required practicals",
+      "notes": "Physics - AQA\\09 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Physics - AQA\\10 - Mathematical requirements and equations",
+      "notes": "Physics - AQA\\10 - Mathematical requirements and equations\\Revision Notes\\Mathematical requirements and equations - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\01 - Atomic structure and the periodic table",
+      "notes": "Chemistry - AQA\\01 - Atomic structure and the periodic table\\Revision Notes\\Atomic structure and the periodic table - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\02 - Bonding structure and properties of matter",
+      "notes": "Chemistry - AQA\\02 - Bonding structure and properties of matter\\Revision Notes\\Bonding, structure and properties of matter - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\03 - Quantitative chemistry",
+      "notes": "Chemistry - AQA\\03 - Quantitative chemistry\\Revision Notes\\Quantitative chemistry - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\04 - Chemical changes",
+      "notes": "Chemistry - AQA\\04 - Chemical changes\\Revision Notes\\Chemical changes - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\05 - Energy changes",
+      "notes": "Chemistry - AQA\\05 - Energy changes\\Revision Notes\\Energy changes - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\06 - Rate and extent of chemical change",
+      "notes": "Chemistry - AQA\\06 - Rate and extent of chemical change\\Revision Notes\\Rate and extent of chemical change - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\07 - Organic chemistry",
+      "notes": "Chemistry - AQA\\07 - Organic chemistry\\Revision Notes\\Organic chemistry - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\08 - Chemical analysis",
+      "notes": "Chemistry - AQA\\08 - Chemical analysis\\Revision Notes\\Chemical analysis - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\09 - Chemistry of the atmosphere",
+      "notes": "Chemistry - AQA\\09 - Chemistry of the atmosphere\\Revision Notes\\Chemistry of the atmosphere - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\10 - Using resources",
+      "notes": "Chemistry - AQA\\10 - Using resources\\Revision Notes\\Using resources - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\11 - Working scientifically and required practicals",
+      "notes": "Chemistry - AQA\\11 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Chemistry - AQA\\12 - Mathematical requirements and periodic table",
+      "notes": "Chemistry - AQA\\12 - Mathematical requirements and periodic table\\Revision Notes\\Mathematical requirements and periodic table - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\01 - Cell biology",
+      "notes": "Biology - AQA\\01 - Cell biology\\Revision Notes\\Cell Biology - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\02 - Organisation",
+      "notes": "Biology - AQA\\02 - Organisation\\Revision Notes\\Organisation - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\03 - Infection and response",
+      "notes": "Biology - AQA\\03 - Infection and response\\Revision Notes\\Infection and response - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\04 - Bioenergetics",
+      "notes": "Biology - AQA\\04 - Bioenergetics\\Revision Notes\\Bioenergetics - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\05 - Homeostasis and response",
+      "notes": "Biology - AQA\\05 - Homeostasis and response\\Revision Notes\\Homeostasis and response - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\06 - Inheritance variation and evolution",
+      "notes": "Biology - AQA\\06 - Inheritance variation and evolution\\Revision Notes\\Inheritance variation and evolution - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\07 - Ecology",
+      "notes": "Biology - AQA\\07 - Ecology\\Revision Notes\\Ecology - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\08 - Working scientifically and required practicals",
+      "notes": "Biology - AQA\\08 - Working scientifically and required practicals\\Revision Notes\\Working scientifically and required practicals - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    },
+    {
+      "topic": "Biology - AQA\\09 - Mathematical requirements",
+      "notes": "Biology - AQA\\09 - Mathematical requirements\\Revision Notes\\Mathematical requirements - Revision Notes.md",
+      "changed": true,
+      "mapped_headings_retained": true,
+      "image_links_retained": true
+    }
+  ],
+  "verified": "All topic readers checked at 1366px, 390px and 320px; existing Q&A disclosures and Expand/Collapse controls retained; source images and mapped headings preserved.",
+  "qa_changes": "None: the preceding assessment coverage audit and all existing questions and answers are retained.",
+  "visual_review": "Desktop and mobile proofs inspected across all three subjects, including the equation-heavy reference notes."
+}
