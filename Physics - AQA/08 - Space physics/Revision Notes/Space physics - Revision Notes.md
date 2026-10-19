@@ -81,7 +81,14 @@ For stable circular orbits around the **same central body**, a smaller orbital r
 
 All use gravity for orbital motion. Artificial satellites are constructed and launched; moons formed naturally. A satellite is not necessarily a small moon, and a planet is not an artificial object.
 
-When orbital radius r and period T are supplied for a circular orbit, **distance for one orbit = 2πr** and **speed = 2πr/T**. Convert km to m and hours to seconds.
+For a circular orbit with radius r and period T:
+
+**Distance for one orbit = 2πr**
+
+**Speed = 2πr/T**
+
+- Use radius in **metres**. Convert km to m first.
+- Use period in **seconds**. Convert hours to seconds first.
 
 **Example:** r = 7.0 × 10⁶ m and T = 6,000 s.
 
