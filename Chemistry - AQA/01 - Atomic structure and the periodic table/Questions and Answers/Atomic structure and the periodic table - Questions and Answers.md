@@ -26,179 +26,151 @@
 
 **Answer:** It increases.
 
+**7.** Which change forms a positive ion? Choose one: A gaining a neutron; B losing an electron; C gaining an electron; D losing a neutron.
+
+**Answer:** B: losing an electron.
+
 ## 2 marks
 
-**7.** Explain the difference between a compound and a mixture.
+**8.** Explain the difference between a compound and a mixture.
 
-**Answer:**
-
-- In a compound, different elements are **chemically combined in fixed proportions**.
+**Answer:** - In a compound, different elements are **chemically combined in fixed proportions**.
 - In a mixture, substances are **not chemically combined** and can be separated by physical methods.
 
-**8.** Explain why a neutral atom has no overall charge.
+**9.** Explain why a neutral atom has no overall charge.
 
-**Answer:**
-
-- It has **equal numbers of protons and electrons**.
+**Answer:** - It has **equal numbers of protons and electrons**.
 - Their equal but opposite charges **cancel**.
 
-**9.** Explain why chlorine-35 and chlorine-37 are isotopes of the same element.
+**10.** Explain why chlorine-35 and chlorine-37 are isotopes of the same element.
 
-**Answer:**
-
-- They have the **same number of protons**.
+**Answer:** - They have the **same number of protons**.
 - They have **different numbers of neutrons**.
 
-**10.** A sodium atom loses one electron. Explain why the resulting ion is positive and why it is still sodium.
+**11.** A sodium atom loses one electron. Explain why the resulting ion is positive and why it is still sodium.
 
-**Answer:**
-
-- It now has one more positive proton than negative electrons, giving a **+1 charge**.
+**Answer:** - It now has one more positive proton than negative electrons, giving a **+1 charge**.
 - The number of **protons is unchanged**, so its identity is unchanged.
 
-**11.** Explain why helium is unreactive even though it has only two electrons.
+**12.** Explain why helium is unreactive even though it has only two electrons.
 
-**Answer:**
-
-- Its first electron shell is **full**.
+**Answer:** - Its first electron shell is **full**.
 - This is a **stable arrangement**, so it does not readily gain, lose or share electrons.
 
-**12.** Why did Mendeleev sometimes place elements out of strict atomic-weight order?
+**13.** Why did Mendeleev sometimes place elements out of strict atomic-weight order?
 
-**Answer:**
-
-- He wanted elements with **similar chemical properties in the same group**.
+**Answer:** - He wanted elements with **similar chemical properties in the same group**.
 - Strict atomic-weight order sometimes put elements in **inappropriate groups**.
 
-**13.** Give two physical differences between a typical transition metal and a Group 1 metal.
+**14.** Give two physical differences between a typical transition metal and a Group 1 metal.
 
-**Answer:**
-
-- A transition metal generally has a **higher melting point**.
+**Answer:** - A transition metal generally has a **higher melting point**.
 - It generally has a **higher density**.
 
-**14.** Describe two features of the plum pudding model.
+**15.** Describe two features of the plum pudding model.
 
-**Answer:**
-
-- A **ball of positive charge**.
+**Answer:** - A **ball of positive charge**.
 - **Negative electrons embedded** within it; no central nucleus.
 
 ## 3 marks
 
-**15.** An aluminium-27 ion has atomic number 13 and charge 3+. Calculate its numbers of protons, neutrons and electrons.
+**16.** An aluminium-27 ion has atomic number 13 and charge 3+. Calculate its numbers of protons, neutrons and electrons.
 
-**Answer:**
-
-- Protons = **13**.
+**Answer:** - Protons = **13**.
 - Neutrons = 27 − 13 = **14**.
 - Electrons = 13 − 3 = **10**.
 
-**16.** An element contains 60% isotope of mass 10 and 40% isotope of mass 11. Calculate its relative atomic mass.
+**17.** An element contains 60% isotope of mass 10 and 40% isotope of mass 11. Calculate its relative atomic mass.
 
-**Answer:**
-
-- Weighted total = (60 × 10) + (40 × 11) = **1,040**.
+**Answer:** - Weighted total = (60 × 10) + (40 × 11) = **1,040**.
 - Divide by the total percentage: 1,040 ÷ 100.
 - **Aᵣ = 10.4**, with no unit.
 
-**17.** Explain why potassium is more reactive than sodium.
+**18.** Explain why potassium is more reactive than sodium.
 
-**Answer:**
-
-- Its outer electron is **farther from the nucleus**, with more occupied shells.
+**Answer:** - Its outer electron is **farther from the nucleus**, with more occupied shells.
 - Increased **shielding and distance reduce the attraction** to the outer electron.
 - The electron is **lost more easily**, so potassium reacts more readily.
 
-**18.** Explain why chlorine is more reactive than bromine.
+**19.** Explain why chlorine is more reactive than bromine.
 
-**Answer:**
-
-- Chlorine has **fewer occupied electron shells**.
+**Answer:** - Chlorine has **fewer occupied electron shells**.
 - There is less distance/shielding, giving a **stronger nuclear attraction for an incoming electron**.
 - Chlorine gains an electron more readily.
 
-**19.** Write a balanced equation for sodium reacting with water and state what makes the final solution alkaline.
+**20.** Write a balanced equation for sodium reacting with water and state what makes the final solution alkaline.
 
-**Answer:**
-
-- **2Na + 2H₂O → 2NaOH + H₂**.
+**Answer:** - **2Na + 2H₂O → 2NaOH + H₂**.
 - The product **sodium hydroxide** supplies hydroxide ions in solution, making it alkaline.
 
-**20.** Explain how later discoveries supported Mendeleev’s periodic table.
+**21.** Explain how later discoveries supported Mendeleev’s periodic table.
 
-**Answer:**
-
-- He left **gaps** for undiscovered elements.
+**Answer:** - He left **gaps** for undiscovered elements.
 - He **predicted their properties** from surrounding elements.
 - Newly discovered elements had properties that **matched the predictions**, supporting the table.
 
-**21.** A typical atom has radius 0.10 nm. Convert this to metres and compare it with a nucleus of radius 1.0 × 10⁻¹⁴ m.
+**22.** A typical atom has radius 0.10 nm. Convert this to metres and compare it with a nucleus of radius 1.0 × 10⁻¹⁴ m.
 
-**Answer:**
-
-- 0.10 × 10⁻⁹ = **1.0 × 10⁻¹⁰ m**.
+**Answer:** - 0.10 × 10⁻⁹ = **1.0 × 10⁻¹⁰ m**.
 - Ratio = 10⁻¹⁰ ÷ 10⁻¹⁴ = **10⁴**.
 - The atom’s radius is **10,000 times** the nuclear radius.
 
 ## 4 marks
 
-**22.** Chlorine is added to potassium bromide solution. Write the balanced full and ionic equations and explain why the reaction occurs.
+**23.** Chlorine is added to potassium bromide solution. Write the balanced full and ionic equations and explain why the reaction occurs.
 
-**Answer:**
-
-- Full: **Cl₂ + 2KBr → 2KCl + Br₂**.
+**Answer:** - Full: **Cl₂ + 2KBr → 2KCl + Br₂**.
 - Ionic: **Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂**.
 - Chlorine is **more reactive than bromine**, so it displaces bromine from bromide.
 - Potassium ions are **spectator ions** and do not change.
 
-**23.** Explain four choices made when separating ink by paper chromatography.
+**24.** Explain four choices made when separating ink by paper chromatography.
 
-**Answer:**
-
-- Use **pencil** for the baseline because it does not dissolve and separate like ink.
+**Answer:** - Use **pencil** for the baseline because it does not dissolve and separate like ink.
 - Keep the baseline **above the solvent level** so the sample is not washed into the solvent.
 - Use small spots so components begin in a narrow region and can separate clearly.
 - Mark the **solvent front promptly** before evaporation makes its position unclear.
 
-**24.** Compare simple and fractional distillation and give an example of each.
+**25.** Compare simple and fractional distillation and give an example of each.
 
-**Answer:**
-
-- Both **evaporate a liquid and condense its vapour** for collection.
+**Answer:** - Both **evaporate a liquid and condense its vapour** for collection.
 - Simple distillation recovers a solvent, such as **water from salt solution**.
 - Fractional distillation separates miscible liquids, such as **ethanol and water**, using their different boiling points.
 - A fractionating column provides **repeated evaporation and condensation**, improving separation.
 
+## 5 marks
+
+**26.** An element has two isotopes with mass numbers 35 and 37. Both have atomic number 17. Its relative atomic mass is 35.6. Calculate the number of neutrons in each isotope and the percentage abundance of each isotope.
+
+**Answer:** - For mass number35, neutrons = 35 − 17 = **18**. For mass number37, neutrons = 37 − 17 = **20**.
+- Let x be the percentage of isotope37. The percentage of isotope35 is **100 − x**.
+- Weighted mean: **[35(100 − x) + 37x]/100 = 35.6**.
+- Therefore 3500 + 2x = 3560, so **x = 30%**.
+- The sample contains **30% isotope37 and 70% isotope35**. The mean lies nearer35 because that isotope is more abundant.
+
 ## 6 marks
 
-**25.** Describe how to obtain dry sand and dry salt crystals from a mixture of sand and salt. Explain the separation at each stage.
+**27.** Describe how to obtain dry sand and dry salt crystals from a mixture of sand and salt. Explain the separation at each stage.
 
-**Answer:**
-
-- Add water and stir: **salt dissolves**, but sand remains insoluble.
+**Answer:** - Add water and stir: **salt dissolves**, but sand remains insoluble.
 - **Filter** the mixture; sand is the residue and salt solution is the filtrate.
 - Rinse the sand with a little water to remove remaining dissolved salt, then dry it.
 - Gently heat the filtrate to **evaporate some water** and concentrate the solution.
 - Leave it to cool so **salt crystals form**, then filter and dry the crystals.
 - Wear goggles and handle hot equipment carefully. These are physical separations; no new substances are produced.
 
-**26.** Explain how alpha-particle scattering changed the model of the atom, and describe two later developments.
+**28.** Explain how alpha-particle scattering changed the model of the atom, and describe two later developments.
 
-**Answer:**
-
-- The plum pudding model spread positive charge throughout the atom, with embedded electrons.
+**Answer:** - The plum pudding model spread positive charge throughout the atom, with embedded electrons.
 - Most alpha particles passed straight through foil, showing the atom is **mostly empty space**.
 - Some positive alpha particles deflected, showing a concentrated **positive charge** repelled them.
 - Very few scattered backwards, supporting a **tiny, dense nucleus containing most mass**, rather than a spread-out positive sphere.
 - **Bohr** proposed electrons at specific energy levels or shells.
 - **Chadwick** later provided evidence for neutrons within the nucleus.
 
-**27.** Compare Group 1 and Group 7 in terms of outer electrons, ion formation and the change in reactivity down each group.
+**29.** Compare Group 1 and Group 7 in terms of outer electrons, ion formation and the change in reactivity down each group.
 
-**Answer:**
-
-- Group 1 atoms have **one outer electron** and lose it to form **+1 ions**.
+**Answer:** - Group 1 atoms have **one outer electron** and lose it to form **+1 ions**.
 - Group 7 atoms have **seven outer electrons** and gain one to form **−1 ions**.
 - Down both groups, outer shells are farther from the nucleus and more shielded.
 - In Group 1 this weakens attraction to the outer electron, so it is **lost more easily**.

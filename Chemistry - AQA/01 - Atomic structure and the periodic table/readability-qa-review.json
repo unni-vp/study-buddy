@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Expanded the evidence-to-conclusion argument for alpha scattering.",
+    "Explained periodic-table position and electron behaviour in separate paragraphs.",
+    "Developed Group1 and Group7 reactivity causes without losing reactions, observations, trend tables or diagrams."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 29,
+  "mark_groups": {
+    "1": 7,
+    "2": 8,
+    "3": 7,
+    "4": 3,
+    "5": 1,
+    "6": 3
+  },
+  "assessment_review": [
+    "Existing1–4 and6-mark items cover separation methods, balancing/ionic equations, atomic calculations, evidence and group comparisons.",
+    "Added multiple choice and a five-mark inverse weighted-mean isotope problem.",
+    "Retained the requirement to apply observations to model changes rather than reciting names alone."
+  ],
+  "additional_practice": [
+    {
+      "number": 7,
+      "marks": 1,
+      "prompt": "Which change forms a positive ion? Choose one: A gaining a neutron; B losing an electron; C gaining an electron; D losing a neutron.",
+      "answer": "B: losing an electron."
+    },
+    {
+      "number": 26,
+      "marks": 5,
+      "prompt": "An element has two isotopes with mass numbers 35 and 37. Both have atomic number 17. Its relative atomic mass is 35.6. Calculate the number of neutrons in each isotope and the percentage abundance of each isotope.",
+      "answer": "- For mass number35, neutrons = 35 − 17 = **18**. For mass number37, neutrons = 37 − 17 = **20**.\n- Let x be the percentage of isotope37. The percentage of isotope35 is **100 − x**.\n- Weighted mean: **[35(100 − x) + 37x]/100 = 35.6**.\n- Therefore 3500 + 2x = 3560, so **x = 30%**.\n- The sample contains **30% isotope37 and 70% isotope35**. The mean lies nearer35 because that isotope is more abundant."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf section4.1",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

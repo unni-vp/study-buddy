@@ -96,11 +96,13 @@ Electrons occupy the **lowest available energy levels first**. For the first 20 
 
 The modern periodic table puts elements in **increasing atomic number**.
 
-- A **period** is a row. Its number tells you how many electron shells are occupied in the neutral atom.
-- A **group** is a column. Main-group elements share the same number of outer electrons, giving similar chemical reactions.
-- Group 1 has one outer electron; Group 7 has seven. **Group 0 has a full outer shell**: eight electrons, except helium, which has two.
-- Metals lie mainly to the left and centre; non-metals mainly to the right. Metals form **positive ions** by losing electrons. Non-metals often gain electrons or share them in covalent bonds.
-- Metals usually conduct heat/electricity and can be bent or shaped. Non-metals generally conduct poorly; physical exceptions include graphite.
+**Period:** a horizontal row. The period number tells you how many electron shells are occupied in the neutral atom.
+
+**Group:** a vertical column. Main-group elements have the same number of outer electrons, which explains their similar chemical reactions. Group1 atoms have one outer electron and Group7 atoms have seven. **Group0 atoms have a full outer shell**: eight electrons, except helium, which has two.
+
+**Metals and non-metals:** metals lie mainly on the left and in the centre of the table. They form **positive ions by losing electrons**. Non-metals lie mainly on the right and often gain electrons or share them in covalent bonds.
+
+Metals usually conduct heat and electricity and can be bent or shaped. Non-metals generally conduct poorly, although graphite is an important exception.
 
 ## How scientific models changed
 
@@ -117,7 +119,11 @@ A scientific model is an explanation supported by evidence. New evidence can for
 
 ![Most alpha particles pass through empty space; some deflect near the positive nucleus and a very small number scatter backwards.](../Diagrams/alpha-scattering.svg)
 
-**Link observation to conclusion:** most pass through → mostly empty space; some deflect → positive charge repels positive alpha particles; very few return → mass and positive charge occupy a tiny, dense nucleus. This could not be explained by positive charge spread throughout a plum pudding atom.
+**Most alpha particles passed straight through:** most of the atom must be **empty space**.
+
+**Some particles were deflected:** positive alpha particles were repelled by concentrated **positive charge**.
+
+**Very few bounced back:** most of the atom's mass and positive charge must be concentrated in a **tiny, dense nucleus**. Positive charge spread throughout a plum pudding atom could not account for these rare, large deflections.
 
 ### Development of the periodic table
 
@@ -142,7 +148,7 @@ Lithium, sodium and potassium have **one outer electron** and form **+1 ions**. 
 - Example: **2Na + 2H₂O → 2NaOH + H₂**.
 - Lithium fizzes and moves slowly; sodium reacts faster and can melt into a ball; potassium reacts more vigorously and may burn with a lilac flame. These are teacher demonstrations, not home experiments.
 - With oxygen they form oxides; with chlorine they form white **metal chlorides**. For a specified simple oxide: **4Li + O₂ → 2Li₂O**. With chlorine: **2Na + Cl₂ → 2NaCl**.
-- **Reactivity increases down Group 1:** more shells mean greater distance and shielding, so the attraction between nucleus and outer electron is weaker. The electron is lost more easily.
+**Why Group1 reactivity increases down the group:** atoms have more occupied shells. The outer electron is farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction to that outer electron is weaker. It is **lost more easily**, so reactions become more vigorous.
 
 ### Group 7: halogens
 
@@ -155,7 +161,7 @@ Halogens have **seven outer electrons** and form **−1 ions** when they gain on
 | Iodine | Grey-black solid; purple vapour when heated |
 
 - **Melting and boiling points increase down the group**.
-- **Reactivity decreases down Group 7:** more shells and shielding weaken attraction for an incoming electron.
+- **Reactivity decreases down Group7.** Atoms have more occupied shells, so an incoming electron would be farther from the nucleus and more shielded by inner electrons. Despite the greater nuclear charge, the attraction is weaker. The atom **gains an electron less easily**.
 - With metals, halogens form **ionic metal halides**. With non-metals they generally form **covalent compounds**, such as hydrogen chloride.
 - A more reactive halogen **displaces a less reactive halogen** from its aqueous halide solution.
 - **Cl₂ + 2KBr → 2KCl + Br₂**. Chlorine displaces bromine; iodine cannot displace chlorine from chloride solution.
