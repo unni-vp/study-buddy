@@ -1,0 +1,44 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Revision notes and combined Q&A; original practice, not official questions or mark allocations.",
+  "notes_changes": [
+    "Developed bond-breaking versus bond-making explanation and separated inverse bond-energy arithmetic.",
+    "Clarified how electrons and ions complete different parts of a cell circuit.",
+    "Retained reaction profiles, fuel-cell half-equations, practical controls and lifecycle comparison."
+  ],
+  "preserved": "All mapped H2 sections, existing diagrams, numerical examples and relevant qualifications retained; no mind-map changes.",
+  "question_count": 31,
+  "mark_groups": {
+    "1": 7,
+    "2": 8,
+    "3": 8,
+    "4": 5,
+    "5": 1,
+    "6": 2
+  },
+  "assessment_review": [
+    "Retained1–4 and6-mark practical methods, bond calculations, reaction-profile construction, half-equations and evaluation.",
+    "Added multiple choice and five-mark numerical profile interpretation, distinguishing activation energy from overall change.",
+    "No q=mcΔT or experimental molar-enthalpy requirement added to Chemistry; numerical energy work uses supplied bond/profile values."
+  ],
+  "additional_practice": [
+    {
+      "number": 7,
+      "marks": 1,
+      "prompt": "Which statement about chemical bonds is correct? Choose one: A breaking bonds releases energy; B making bonds always requires energy; C breaking bonds requires energy and making bonds releases energy; D an exothermic reaction has no activation energy.",
+      "answer": "C: breaking bonds requires energy and making bonds releases energy."
+    },
+    {
+      "number": 29,
+      "marks": 5,
+      "prompt": "A reaction profile has reactants at 120 kJ, a peak at 200 kJ and products at 50 kJ, for the amounts shown. With a catalyst, the peak is at 150 kJ. Calculate the activation energy without and with the catalyst, and the overall energy change. Explain whether the reaction is exothermic and whether the catalyst changes that overall transfer.",
+      "answer": "- Without the catalyst, activation energy = 200 − 120 = **80 kJ**.\n- With the catalyst, activation energy = 150 − 120 = **30 kJ**.\n- Overall energy change = products − reactants = 50 − 120 = **−70 kJ**.\n- The reaction is **exothermic** because the products have less energy, so 70 kJ is transferred to the surroundings for the amounts shown.\n- The catalyst provides a pathway with **lower activation energy**. It does **not** change the reactant or product energy levels, so the overall energy change remains **−70 kJ**."
+    }
+  ],
+  "sources": [
+    "Chemistry - AQA/00 - Specification/AQA-8462-specification.pdf sections4.5 and4.6.1.4",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-QP-JUN23.pdf",
+    "Chemistry - AQA/00 - Past papers/Paper 1 Higher/AQA-84621H-MS-JUN23.pdf"
+  ],
+  "limitations": "This is a representative practice bank. Mark values reflect the demand of each original item, not a claim that every question type or mark value appears in every topic or exam."
+}

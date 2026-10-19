@@ -57,7 +57,7 @@
       "answer": "- Energy is **transferred from the surroundings to the reacting chemicals**.\n- The surroundings lose thermal energy, so their temperature falls.",
       "specification": "4.5.1.1",
       "evidence": "Additional specification-based practice",
-      "number": 7
+      "number": 8
     },
     {
       "marks": 2,
@@ -65,7 +65,7 @@
       "answer": "- **Breaking bonds takes in energy**.\n- **Forming bonds releases energy**.",
       "specification": "4.5.1.3",
       "evidence": "2019 Q05.6; 2023 Q04.2",
-      "number": 8
+      "number": 9
     },
     {
       "marks": 2,
@@ -73,7 +73,7 @@
       "answer": "- The products have **less energy than the reactants**.\n- The decrease equals the energy transferred to the surroundings; energy is **transferred, not created**.",
       "specification": "4.5.1.1",
       "evidence": "Additional specification-based practice",
-      "number": 9
+      "number": 10
     },
     {
       "marks": 2,
@@ -81,7 +81,7 @@
       "answer": "- It **reduces energy transfer between the mixture and the surroundings**.\n- The measured temperature change is therefore closer to that caused by the reaction.",
       "specification": "4.5.1.1",
       "evidence": "2019 Q09.1; 2022 Q02.1",
-      "number": 10
+      "number": 11
     },
     {
       "marks": 2,
@@ -89,7 +89,7 @@
       "answer": "- Change = 17.1 − 22.4 = **−5.3 °C**.\n- **Endothermic**, because the surrounding solution cools.",
       "specification": "4.5.1.1",
       "evidence": "Additional specification-based practice",
-      "number": 11
+      "number": 12
     },
     {
       "marks": 2,
@@ -97,7 +97,7 @@
       "answer": "- An **external electrical current** is supplied.\n- This **reverses the chemical reactions**, restoring reactants.",
       "specification": "4.5.2.1",
       "evidence": "Additional specification-based practice",
-      "number": 12
+      "number": 13
     },
     {
       "marks": 2,
@@ -105,7 +105,7 @@
       "answer": "- The **electrode materials**.\n- The **electrolyte used**.",
       "specification": "4.5.2.1",
       "evidence": "2019 Q06.1",
-      "number": 13
+      "number": 14
     },
     {
       "marks": 2,
@@ -113,7 +113,7 @@
       "answer": "- Combustion is **exothermic**.\n- Thermal decomposition is **endothermic**.",
       "specification": "4.5.1.1",
       "evidence": "Additional specification-based practice",
-      "number": 14
+      "number": 15
     },
     {
       "marks": 3,
@@ -121,7 +121,7 @@
       "answer": "- Activation energy = 160 − 70 = **90 kJ**.\n- Overall change = 30 − 70 = **−40 kJ**.\n- **Exothermic**, because the products are lower in energy.",
       "specification": "4.5.1.2",
       "evidence": "2019 Q05.7; 2022 Q02.5–02.6; 2023 Q04.3",
-      "number": 15
+      "number": 16
     },
     {
       "marks": 3,
@@ -129,7 +129,7 @@
       "answer": "- Break **four C–H bonds and two O=O bonds**.\n- Form **two C=O bonds** in carbon dioxide.\n- Form **four O–H bonds** across the two water molecules.",
       "specification": "4.5.1.3",
       "evidence": "2019 Q05.5; 2023 Q04.1",
-      "number": 16
+      "number": 17
     },
     {
       "marks": 3,
@@ -137,7 +137,7 @@
       "answer": "- Bonds broken: 436 + 243 = **679 kJ**.\n- Bonds formed: 2 × 431 = **862 kJ**.\n- Change = 679 − 862 = **−183 kJ** for the molar quantities in the equation.",
       "specification": "4.5.1.3",
       "evidence": "2019 Q05.5; 2023 Q04.1",
-      "number": 17
+      "number": 18
     },
     {
       "marks": 3,
@@ -145,7 +145,7 @@
       "answer": "- Temperature difference = 36.0 − 24.0 = **12.0 °C**.\n- Mass difference = 2.00 − 0.50 = **1.50 g**.\n- Gradient = 12.0/1.50 = **8.0 °C/g**.",
       "specification": "4.5.1.1",
       "evidence": "2022 Q02.2",
-      "number": 18
+      "number": 19
     },
     {
       "marks": 3,
@@ -153,7 +153,7 @@
       "answer": "- Keep the **electrolyte type and concentration** the same.\n- Keep the **electrolyte temperature** the same.\n- Use the **same reference electrode and lead connections** throughout.",
       "specification": "4.5.2.1",
       "evidence": "2019 Q06.1",
-      "number": 19
+      "number": 20
     },
     {
       "marks": 3,
@@ -161,7 +161,7 @@
       "answer": "- **A > B > copper > C**.\n- A and B are more reactive than copper; A has the larger positive reading under the stated convention.\n- C has reversed polarity and is **less reactive than copper**.",
       "specification": "4.5.2.1",
       "evidence": "2019 Q06.2",
-      "number": 20
+      "number": 21
     },
     {
       "marks": 3,
@@ -169,7 +169,7 @@
       "answer": "- **2H₂ + O₂ → 2H₂O**.\n- Hydrogen is **oxidised**, losing electrons.\n- Oxygen is **reduced**, gaining electrons.",
       "specification": "4.5.2.2",
       "evidence": "2019 Q06.4",
-      "number": 21
+      "number": 22
     },
     {
       "marks": 3,
@@ -177,7 +177,7 @@
       "answer": "- **O₂ + 2H₂O + 4e⁻ → 4OH⁻**.\n- Four electrons are gained, so it is **reduction**.\n- Both sides contain four O atoms and four H atoms and have total charge −4.",
       "specification": "4.5.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 22
+      "number": 23
     },
     {
       "marks": 4,
@@ -185,7 +185,7 @@
       "answer": "- Energy to break reactant bonds = 436 + 193 = **629 kJ**.\n- Let H–Br bond energy = x; two bonds form, releasing **2x**.\n- 629 − 2x = −103, so 2x = 732.\n- **x = 366 kJ/mol**.",
       "specification": "4.5.1.3",
       "evidence": "Additional specification-based practice",
-      "number": 23
+      "number": 24
     },
     {
       "marks": 4,
@@ -193,7 +193,7 @@
       "answer": "- Vertical axis: **energy**; horizontal: **progress of reaction**.\n- Products are **lower than reactants**, joined by a curved peak.\n- Activation energy runs **from reactant level to the peak**.\n- Overall change runs **between reactant and product levels**. The left-hand profile below shows this.\n\n![Exothermic profile on the left, with an endothermic comparison on the right.](../Diagrams/reaction-profiles.svg)",
       "specification": "4.5.1.2",
       "evidence": "2019 Q05.7; 2022 Q02.5; 2023 Q04.3",
-      "number": 24
+      "number": 25
     },
     {
       "marks": 4,
@@ -201,7 +201,7 @@
       "answer": "- Breaking: (4 × 413) + (2 × 498) = **2,648 kJ**.\n- Forming: (2 × 805) + (4 × 464) = **3,466 kJ**.\n- Change = 2,648 − 3,466 = **−818 kJ** for the molar equation quantities.\n- It is **exothermic**: forming bonds releases more energy than breaking bonds requires.",
       "specification": "4.5.1.3",
       "evidence": "2019 Q05.5–05.6; 2023 Q04.1–04.2",
-      "number": 25
+      "number": 26
     },
     {
       "marks": 4,
@@ -209,7 +209,7 @@
       "answer": "- Use an **insulated cup and lid** to reduce energy transfer to the surroundings.\n- **Stir consistently** to make mixture temperature more uniform.\n- Record promptly at regular intervals to detect the **maximum or minimum**, rather than missing it.\n- Repeat and average to reduce the effect of random variation, keeping the starting conditions the same.",
       "specification": "4.5.1.1",
       "evidence": "2022 Q02.1; 2023 Q02.1",
-      "number": 26
+      "number": 27
     },
     {
       "marks": 4,
@@ -217,7 +217,7 @@
       "answer": "- Oxidation: **2H₂ → 4H⁺ + 4e⁻**.\n- Reduction: **O₂ + 4H⁺ + 4e⁻ → 2H₂O**.\n- Add and **cancel 4H⁺ and 4e⁻** from both sides.\n- Overall: **2H₂ + O₂ → 2H₂O**.",
       "specification": "4.5.2.2",
       "evidence": "Additional specification-based practice",
-      "number": 27
+      "number": 28
     },
     {
       "marks": 6,
@@ -225,7 +225,7 @@
       "answer": "- Predict that greater acid concentration increases the rise while acid limits the reaction. Wear goggles and use appropriate dilute solutions.\n- Place an insulated cup in a supporting beaker with a lid and thermometer. Measure fixed volumes of acid and alkali; start both at the same temperature.\n- Record initial temperature, mix and stir consistently; record at regular intervals to find the maximum. Calculate **maximum − initial temperature**.\n- Repeat with several acid concentrations, using fresh solutions. Control volumes, alkali concentration, starting temperature, apparatus and timing.\n- Repeat each condition, investigate anomalies and calculate means. Plot acid concentration against temperature rise.\n- Explain a possible plateau: once **alkali becomes limiting**, more acid cannot cause more neutralisation. Discuss heat loss as a limitation.",
       "specification": "4.5.1.1",
       "evidence": "2022 Q02.1; 2023 Q02.1",
-      "number": 28
+      "number": 30
     },
     {
       "marks": 6,
@@ -233,7 +233,8 @@
       "answer": "- A fuel cell needs a continuous external supply of hydrogen and oxygen; it generates electricity and water through **hydrogen oxidation**. Refuelling may be quick, but storage tanks and supply infrastructure are needed.\n- A rechargeable battery stores its reacting chemicals internally; supplying current **reverses its reactions**. It can use charging infrastructure, but charging time and battery mass matter.\n- Neither produces direct CO₂ exhaust during electrical operation; a hydrogen fuel cell produces water.\n- Overall emissions depend on **how hydrogen and charging electricity are produced**, so water at the outlet does not prove zero lifetime emissions.\n- Compare efficiency, cost, useful life, materials, recycling and hydrogen storage/flammability as well as driving requirements.\n- Choose using the supplied evidence and intended use: access to low-carbon energy, refuelling or charging facilities and acceptable mass/time can change the best option.",
       "specification": "4.5.2.1–4.5.2.2",
       "evidence": "2019 Q06.4",
-      "number": 29
+      "number": 31
     }
-  ]
+  ],
+  "readability_review": "readability-qa-review.json"
 }
