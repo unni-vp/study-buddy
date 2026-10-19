@@ -13,9 +13,29 @@ Chemical quantities need matching units before a calculation. Think of comparing
 | Energy | 1 kJ = 1000 J |
 | Time | 1 minute = 60 seconds |
 
-Prefixes: **tera 10¹², giga 10⁹, mega 10⁶, kilo 10³, centi 10⁻², milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹**. Square/cube the conversion factor for areas/volumes: 1 cm² = **100 mm²**, 1 cm³ = **1000 mm³**.
+| Prefix | Multiplier |
+|---|---|
+| tera | 10¹² |
+| giga | 10⁹ |
+| mega | 10⁶ |
+| kilo | 10³ |
+| centi | 10⁻² |
+| milli | 10⁻³ |
+| micro | 10⁻⁶ |
+| nano | 10⁻⁹ |
 
-**Standard form: a ×10ⁿ**, with 1 ≤a <10. For example 0.00025 = **2.5 ×10⁻⁴**. Multiply coefficients and add powers; divide coefficients and subtract powers. A negative exponent means a small fraction, not a negative quantity.
+Square or cube the conversion factor for areas or volumes:
+
+- **1 cm² = 100 mm²**.
+- **1 cm³ = 1000 mm³**.
+
+**Standard form: a ×10ⁿ**, with 1 ≤a <10.
+
+For example 0.00025 = **2.5 ×10⁻⁴**.
+
+Multiply coefficients and add powers; divide coefficients and subtract powers.
+
+A negative exponent means a small fraction, not a negative quantity.
 
 Estimate expected scale first. 0.048/24 is roughly 0.05/25 = **0.002**, so an answer near 0.002 mol is plausible. A tenfold difference is one **order of magnitude**. Check whether a small percentage change affects a large or small total.
 
@@ -72,7 +92,26 @@ For sodium-23, atomic number 11 gives **11 protons and 12 neutrons**. Neutral so
 
 Use the value **actually supplied** if a question provides a different precision. Symbol capitalisation matters: **Co is cobalt**, while **CO is carbon monoxide**. Ar as an element symbol means argon; **Aᵣ** as a quantity means relative atomic mass.
 
-Other useful course symbols include **Fe iron, Cu copper, Zn zinc, Ag silver, Au gold, Pb lead, Ba barium and Ni nickel**. Group 1 also includes **Rb rubidium, Cs caesium and Fr francium**; Group 7 includes **Br bromine, I iodine and At astatine**. Read less-familiar elements from the supplied table rather than guessing their symbols.
+**Useful element symbols**
+
+| Symbol | Element |
+|---|---|
+| Fe | Iron |
+| Cu | Copper |
+| Zn | Zinc |
+| Ag | Silver |
+| Au | Gold |
+| Pb | Lead |
+| Ba | Barium |
+| Ni | Nickel |
+| Rb | Rubidium — Group 1 |
+| Cs | Caesium — Group 1 |
+| Fr | Francium — Group 1 |
+| Br | Bromine — Group 7 |
+| I | Iodine — Group 7 |
+| At | Astatine — Group 7 |
+
+Read less-familiar elements from the supplied table rather than guessing their symbols.
 
 ## Groups, periods and ion formulas
 
@@ -84,27 +123,60 @@ For the main groups in the GCSE layout, the **group** links to outer-shell elect
 
 Group 1 elements tend to form +1 ions, Group 2 elements +2 ions and Group 7 elements −1 ions. Transition metals can have different ion charges, so use the name or charge information supplied.
 
-Write a neutral ionic formula by balancing charge: Mg²⁺ and Cl⁻ give **MgCl₂**; Al³⁺ and O²⁻ give **Al₂O₃**. A polyatomic group stays together: Ca²⁺ and NO₃⁻ give **Ca(NO₃)₂**. Do not change the internal nitrate formula while balancing.
+Write a neutral ionic formula by balancing charge:
+
+- Mg²⁺ and Cl⁻ give **MgCl₂**.
+- Al³⁺ and O²⁻ give **Al₂O₃**.
+
+A polyatomic group stays together:
+
+- Ca²⁺ and NO₃⁻ give **Ca(NO₃)₂**.
+
+Do not change the internal nitrate formula while balancing.
 
 ## Relative masses and isotope averages
 
-**Relative formula mass, Mr = sum of all Ar values in the formula**. It has no unit. Subscripts multiply atoms; brackets multiply everything inside.
+**Relative formula mass, Mr = sum of all Ar values in the formula**.
+
+It has no unit. Subscripts multiply atoms; brackets multiply everything inside.
 
 - H₂O: 2×1 +16 = **18**.
 - Mg(OH)₂: 24 +2×(16+1) = **58**.
 - Ca(NO₃)₂: 40 +2×(14+3×16) = **164**.
 
-For isotope abundances, calculate a **weighted mean**. A sample with 75% chlorine-35 and 25% chlorine-37 gives **(75×35 +25×37)/100 = 35.5**. The mean does not mean an individual atom has half a neutron. Use supplied abundances rather than treating every isotope as equally common.
+For isotope abundances, calculate a **weighted mean**.
 
-**Element mass percentage = total Ar contribution of that element/Mr ×100**. In CO₂, carbon percentage = 12/44 ×100 = **27.3%**. If there are two atoms of an element, include both in its numerator.
+A sample with 75% chlorine-35 and 25% chlorine-37 gives **(75×35 +25×37)/100 = 35.5**.
+
+The mean does not mean an individual atom has half a neutron. Use supplied abundances rather than treating every isotope as equally common.
+
+**Element mass percentage = total Ar contribution of that element/Mr ×100**.
+
+In CO₂, carbon percentage = 12/44 ×100 = **27.3%**.
+
+If there are two atoms of an element, include both in its numerator.
 
 ## Moles, particles and equation ratios
 
 A **mole** is a counting unit, like a dozen but much larger. One mole contains **6.02 ×10²³ particles**, using the course value of the **Avogadro constant**.
 
-**Moles n = mass m/Mr**, using mass in grams and molar mass numerically corresponding to Mr in g mol⁻¹. **Mass = n ×Mr**. For 5.6 g iron with Ar=56, n = **0.100 mol**.
+**n = m ÷ molar mass**
 
-**Number of particles = n ×6.02 ×10²³**. Always identify the particle: a mole of H₂ contains a mole of molecules but **two moles of hydrogen atoms**.
+- **n:** amount of substance, in mol.
+- **m:** mass, in g.
+- **Molar mass:** in g mol⁻¹, numerically corresponding to Mᵣ.
+
+To find mass instead:
+
+**Mass = n × molar mass**
+
+**Example:** iron has Aᵣ = 56, so its molar mass is 56 g mol⁻¹.
+
+For 5.6 g iron, n = 5.6 ÷ 56 = **0.100 mol**.
+
+**Number of particles = n ×6.02 ×10²³**.
+
+Always identify the particle: a mole of H₂ contains a mole of molecules but **two moles of hydrogen atoms**.
 
 Equation coefficients give mole ratios. For **2Mg +O₂ →2MgO**, 0.10 mol Mg needs **0.050 mol O₂** and forms **0.10 mol MgO** if oxygen is sufficient. They are not equal masses.
 
@@ -115,7 +187,14 @@ To calculate a reacting mass:
 3. Apply the coefficient ratio.
 4. Convert desired moles to mass.
 
-For 4.8 g Mg, n = 4.8/24 =0.20 mol. It forms 0.20 mol MgO, Mr40, giving **8.0 g MgO**, with sufficient oxygen.
+**Example: mass of magnesium oxide**
+
+Start with 4.8 g Mg and sufficient oxygen.
+
+1. Magnesium moles: n = 4.8 ÷ 24 = **0.20 mol**.
+2. The equation ratio gives **0.20 mol MgO**.
+3. Mᵣ of MgO = **40**.
+4. Mass of MgO = 0.20 × 40 = **8.0 g**.
 
 ## Limiting reactants and empirical formulas
 
@@ -134,17 +213,42 @@ An **empirical formula** gives the simplest whole-number ratio of atoms. To find
 2. Divide all the resulting mole amounts by the smallest.
 3. If needed, multiply every value to obtain whole numbers.
 
-For 2.4 g of Mg and 1.6 g of O, the mole amounts are 2.4/24 = **0.10 mol** and 1.6/16 = **0.10 mol**. Their ratio is **1 : 1**, giving **MgO**.
+**Example: empirical formula**
+
+A compound contains 2.4 g of Mg and 1.6 g of O.
+
+1. Magnesium moles = 2.4 ÷ 24 = **0.10 mol**.
+2. Oxygen moles = 1.6 ÷ 16 = **0.10 mol**.
+3. The ratio is **1 : 1**.
+4. The empirical formula is **MgO**.
 
 If the ratio is 1 : 1.5, multiply both numbers by two to obtain **2 : 3**. Do not independently round 1.5 to 2.
 
-A **molecular formula** is a whole-number multiple of the empirical formula. For CH₂, the empirical formula mass is 14. A molecular Mᵣ of 42 gives a multiplier of 42 ÷ 14 = **3**, so the molecular formula is **C₃H₆**.
+A **molecular formula** is a whole-number multiple of the empirical formula.
+
+For CH₂, the empirical formula mass is 14.
+
+A molecular Mᵣ of 42 gives a multiplier of 42 ÷ 14 = **3**, so the molecular formula is **C₃H₆**.
 
 ## Solutions and titration calculations
 
-**Mass concentration** tells you the mass of solute in a given volume of solution. Use **concentration = mass ÷ volume**, with grams and dm³ to obtain g/dm³.
+**Mass concentration** tells you the mass of solute in a given volume of solution.
 
-**Molar concentration** tells you the number of moles in a given volume. Use **c = n/V**, or rearrange it to **n = cV**. Convert cm³ to dm³ before using mol/dm³.
+Use **concentration = mass ÷ volume**, with grams and dm³ to obtain g/dm³.
+
+**Molar concentration** tells you the number of moles in a given volume.
+
+**c = n/V**
+
+- **c:** concentration, in mol/dm³.
+- **n:** amount of substance, in mol.
+- **V:** solution volume, in dm³.
+
+To find moles instead:
+
+**n = cV**
+
+Convert cm³ to dm³ before using mol/dm³.
 
 **Worked example:** dissolve 2.0 g of NaOH to make 250 cm³ of solution. Its molar mass is 40 g/mol.
 
@@ -165,25 +269,67 @@ A **titre** is the volume delivered from the burette: **final reading − initia
 
 Using the course approximation, **one mole of gas occupies 24 dm³ at room temperature and pressure**, equal to **24 000 cm³**.
 
-- n = **V/24** with V in dm³, or **V/24 000** with V in cm³.
+- With V in dm³: **n = V/24**.
+- With V in cm³: **n = V/24 000**.
 - V = **n ×24 dm³**.
 - Gas-volume ratios equal mole ratios at the **same temperature and pressure**.
 
-Example: 120 cm³ is **120/24 000 =0.0050 mol**. For 2H₂+O₂ →2H₂O, 100 cm³ hydrogen needs **50 cm³ oxygen** under matching conditions. The 24 dm³ relationship is not valid at every pressure or temperature.
+**Example: moles from gas volume**
+
+At RTP, 120 cm³ contains:
+
+n = 120 ÷ 24 000 = **0.0050 mol**
+
+**Example: reacting gas volumes**
+
+**2H₂ + O₂ → 2H₂O**
+
+Under matching conditions, 100 cm³ hydrogen needs **50 cm³ oxygen**.
+
+The 24 dm³ relationship is not valid at every pressure or temperature.
 
 ## Yield, atom economy and rates
 
-**Percentage yield = actual yield/theoretical yield ×100**. Obtaining 4.2 g when theory predicts 5.6 g gives **75%**. Separation losses, incomplete reaction and side reactions can reduce yield.
+**Percentage yield = actual yield/theoretical yield ×100**.
 
-**Atom economy = formula-mass contribution of desired product/total formula-mass contribution of products ×100**, including coefficients. Equivalently use the total balanced reactant mass. For CaCO₃ →CaO+CO₂, desired CaO gives **56/(56+44) ×100 =56%**. Yield measures how much you actually recover; atom economy measures how much reaction material goes into the desired product.
+Obtaining 4.2 g when theory predicts 5.6 g gives **75%**.
 
-**Mean rate = quantity changed/time**, using mass, volume or moles. A **tangent gradient** gives instantaneous rate. A common fixed endpoint can use **1/time** as a relative rate proxy. Keep time units consistent and do not treat plateau amount as reaction speed.
+Separation losses, incomplete reaction and side reactions can reduce yield.
 
-**Rf = substance travel/solvent-front travel**, both from the chromatography baseline, with no unit. **Gold percentage =carats/24 ×100**. For life-cycle totals, sum comparable stages and include the same functional service/lifetime.
+**Atom economy = formula-mass contribution of desired product ÷ total formula-mass contribution of products × 100**
+
+Include coefficients. Equivalently, use the total balanced reactant mass.
+
+**Example:** CaCO₃ → CaO + CO₂, with CaO as the desired product.
+
+Atom economy = 56 ÷ (56 + 44) × 100 = **56%**.
+
+- **Yield** measures how much you actually recover.
+- **Atom economy** measures how much reaction material goes into the desired product.
+
+**Mean rate = quantity changed/time**, using mass, volume or moles.
+
+A **tangent gradient** gives instantaneous rate.
+
+A common fixed endpoint can use **1/time** as a relative rate proxy.
+
+Keep time units consistent and do not treat plateau amount as reaction speed.
+
+**Rf = substance travel/solvent-front travel**, both from the chromatography baseline, with no unit.
+
+**Gold percentage =carats/24 ×100**.
+
+For life-cycle totals, sum comparable stages and include the same functional service/lifetime.
 
 ## Energy calculations and signs
 
-**Reaction energy change = energy needed to break bonds − energy released forming bonds**. Breaking requires energy; forming releases it. A negative result is **exothermic**, a positive one **endothermic**. Count **every bond and equation coefficient** using supplied bond energies.
+**Reaction energy change = energy needed to break bonds − energy released forming bonds**.
+
+Breaking requires energy; forming releases it.
+
+A negative result is **exothermic**, a positive one **endothermic**.
+
+Count **every bond and equation coefficient** using supplied bond energies.
 
 Example H₂+Cl₂ →2HCl with values H–H436, Cl–Cl243, H–Cl431 kJ mol⁻¹:
 
@@ -191,15 +337,40 @@ Example H₂+Cl₂ →2HCl with values H–H436, Cl–Cl243, H–Cl431 kJ mol⁻
 - Formed: 2×431 = **862**.
 - Change: 679−862 = **−183 kJ mol⁻¹**, exothermic for the stated reaction quantities.
 
-For a temperature measurement, **ΔT =final−initial**. Where a question supplies **Q =mcΔT**, use compatible mass/heat-capacity units and distinguish thermal energy gained by solution from reaction energy lost. A supplied calibration or specific heat capacity is needed for a numerical energy calculation; do not invent one.
+For a temperature measurement, **ΔT =final−initial**.
+
+Where a question supplies **Q =mcΔT**, use compatible mass/heat-capacity units and distinguish thermal energy gained by solution from reaction energy lost.
+
+A supplied calibration or specific heat capacity is needed for a numerical energy calculation; do not invent one.
 
 ## Data tables, means and graphs
 
-**Mean =sum/count**. For 20.1, 20.2 and 20.3 cm³, mean=**20.2 cm³**. Average concordant accurate titres rather than including a rough overshoot indiscriminately. For a frequency table, mean = **Σ(value×frequency)/Σfrequency**. Grouped intervals use midpoints for an estimated mean.
+**Mean =sum/count**.
+
+For 20.1, 20.2 and 20.3 cm³, mean=**20.2 cm³**.
+
+Average concordant accurate titres rather than including a rough overshoot indiscriminately.
+
+For a frequency table, mean = **Σ(value×frequency)/Σfrequency**.
+
+Grouped intervals use midpoints for an estimated mean.
 
 Use **bar charts for categories**, **histograms for numerical intervals** and suitable scatter/line/curve plots for paired numerical data. Histogram bars touch; with unequal class widths their **area represents frequency**. Label axes with quantities and units and use sensible even scales. Best-fit lines/curves reflect trends rather than simply joining every measurement.
 
-**y =mx+c**: m is gradient, c the y-intercept. A directly proportional relation passes through the origin. For a straight line, gradient = **Δy/Δx** using a large triangle on best fit. For a curved rate graph, draw a **tangent at the specified time** and calculate its gradient; a chord gives an interval mean.
+**y = mx + c**
+
+- **m:** gradient.
+- **c:** y-intercept.
+
+A directly proportional relation passes through the origin.
+
+For a straight line:
+
+**Gradient = Δy/Δx**
+
+Use a large triangle on the best-fit line.
+
+For a curved rate graph, draw a **tangent at the specified time** and calculate its gradient. A chord gives an interval mean.
 
 ![A tangent on a gas-production curve gives the rate at its marked point.](../Diagrams/chemical-rate-tangent.svg)
 
@@ -207,14 +378,37 @@ Interpolation uses the measured range. Extrapolation beyond it is less reliable.
 
 ## Algebra, geometry and molecular representations
 
-Rearrange by doing the same operation to both sides. From c=n/V, **V=n/c**. Mathematical signs include =, <, >, **≪ much less**, **≫ much greater**, **∝ proportional** and ~ for approximation/similarity in the stated context.
+Rearrange by doing the same operation to both sides.
+
+From **c = n/V**, rearrange to **V = n/c**.
+
+| Sign | Meaning |
+|---|---|
+| = | Equal |
+| < | Less than |
+| > | Greater than |
+| ≪ | Much less than |
+| ≫ | Much greater than |
+| ∝ | Proportional to |
+| ~ | Approximation or similarity in the stated context |
 
 - Rectangle area = **length ×width**.
 - Triangle area = **½base ×perpendicular height**.
-- Cube surface area = **6a²**, volume = **a³**, SA:V = **6/a** for side a.
+For a cube of side a:
+
+- Surface area = **6a²**.
+- Volume = **a³**.
+- SA:V = **6/a**.
 - For equal total volume, smaller pieces expose more surface; this increases possible collisions with a reacting solid.
 
-A 2 cm cube has **24 cm² surface and 8 cm³ volume**. Cut it into eight 1 cm cubes: total volume remains 8 cm³, but surface becomes **8×6 =48 cm²**. It is doubled without increasing the amount of substance.
+**Example: cutting a cube into smaller pieces**
+
+| Quantity | One 2 cm cube | Eight 1 cm cubes |
+|---|---|---|
+| Total volume | 8 cm³ | 8 cm³ |
+| Total surface area | 24 cm² | 8 × 6 = 48 cm² |
+
+Cutting the cube doubles the total surface area without increasing the amount of substance.
 
 Molecules are three-dimensional even when displayed on paper. Interpret model keys: spheres represent atoms, sticks bonds, and colours distinguish elements only when a legend defines them. Diagrams are often not to physical scale. Maintain valency and connectivity when changing representations; do not infer a chemical bond just because two projected lines cross.
 
