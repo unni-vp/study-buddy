@@ -82,13 +82,13 @@
     },
     {
       "widths": [
-        302,
-        406,
+        354,
+        354,
         352
       ],
       "column_heights": [
-        366,
-        388,
+        410,
+        410,
         366
       ],
       "panels": [
@@ -98,34 +98,34 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 302,
-          "height": 185
+          "width": 354,
+          "height": 229
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 215,
-          "width": 302,
+          "y": 259,
+          "width": 354,
           "height": 185
         },
         {
           "source_panels": [
             2
           ],
-          "x": 332,
+          "x": 384,
           "y": 18,
-          "width": 406,
-          "height": 207
+          "width": 354,
+          "height": 229
         },
         {
           "source_panels": [
             3
           ],
-          "x": 332,
-          "y": 237,
-          "width": 406,
+          "x": 384,
+          "y": 259,
+          "width": 354,
           "height": 185
         },
         {
@@ -226,14 +226,14 @@
     },
     {
       "widths": [
-        398,
-        330,
-        332
+        334,
+        350,
+        376
       ],
       "column_heights": [
-        432,
-        432,
-        432
+        454,
+        410,
+        454
       ],
       "panels": [
         {
@@ -242,53 +242,53 @@
           ],
           "x": 18,
           "y": 18,
-          "width": 398,
-          "height": 229
+          "width": 334,
+          "height": 251
         },
         {
           "source_panels": [
             1
           ],
           "x": 18,
-          "y": 259,
-          "width": 398,
+          "y": 281,
+          "width": 334,
           "height": 207
         },
         {
           "source_panels": [
             2
           ],
-          "x": 428,
+          "x": 364,
           "y": 18,
-          "width": 330,
+          "width": 350,
           "height": 207
         },
         {
           "source_panels": [
             3
           ],
-          "x": 428,
+          "x": 364,
           "y": 237,
-          "width": 330,
-          "height": 229
+          "width": 350,
+          "height": 207
         },
         {
           "source_panels": [
             4
           ],
-          "x": 770,
+          "x": 726,
           "y": 18,
-          "width": 332,
-          "height": 207
+          "width": 376,
+          "height": 251
         },
         {
           "source_panels": [
             5
           ],
-          "x": 770,
-          "y": 237,
-          "width": 332,
-          "height": 229
+          "x": 726,
+          "y": 281,
+          "width": 376,
+          "height": 207
         }
       ],
       "body_pt": 11.22,
@@ -374,5 +374,16 @@
       "slug": "04-geometry-and-exchange",
       "title": "Geometry and exchange surfaces"
     }
-  ]
+  ],
+  "full_text": "Complete written content, paragraph breaks and lists retained; independent equations and conversions formatted on separate lines.",
+  "equation_layout_review": {
+    "reviewed": "2026-10-19",
+    "scope": "Separate independent equations and conversions, retain numerical worked equality chains, keep matching readable text counterparts.",
+    "font_policy": "Fixed 11.21 pt body text at 277 mm A4 width; reflow panels rather than shrinking text.",
+    "verification": "Passed browser checks for every topic SVG; changed artwork also passed matching reader/modal, single-page A4 landscape proofs with readable physical font sizes.",
+    "printed_changed_maps": [
+      "01-units-and-proportions.svg",
+      "03-data-graphs-and-algebra.svg"
+    ]
+  }
 }

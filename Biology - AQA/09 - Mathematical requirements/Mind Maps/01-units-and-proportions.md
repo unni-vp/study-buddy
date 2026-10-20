@@ -2,9 +2,13 @@
 
 ## Unit ladder
 
-1 m = 100 cm = 1000 mm.
+1 m = 100 cm
 
-1 mm = 1000 µm. 1 µm = 1000 nm.
+1 m = 1000 mm.
+
+1 mm = 1000 µm.
+
+1 µm = 1000 nm.
 
 Smaller unit: larger numerical value.
 

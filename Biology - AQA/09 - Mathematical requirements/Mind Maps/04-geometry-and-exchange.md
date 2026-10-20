@@ -36,7 +36,9 @@ Total surface area is not the ratio.
 
 ## Circles and zones
 
-Radius = diameter/2. Area = πr².
+Radius = diameter/2.
+
+Area = πr².
 
 12 mm diameter: about 113 mm².
 

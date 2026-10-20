@@ -42,7 +42,11 @@ Extrapolation beyond range is less secure.
 
 ## Gradient and intercept
 
-y = mx+c. m = Δy/Δx, c at x=0.
+y = mx+c.
+
+m = Δy/Δx
+
+c at x=0.
 
 Large triangle on best-fit line.
 

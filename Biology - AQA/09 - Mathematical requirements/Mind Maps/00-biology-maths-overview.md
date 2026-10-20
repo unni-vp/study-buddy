@@ -24,7 +24,9 @@ Check percentage points versus relative change.
 
 Magnification = image/actual size.
 
-Rate = change/time. Same-endpoint proxy = 1/time.
+Rate = change/time.
+
+Same-endpoint proxy = 1/time.
 
 Efficiency = next/previous biomass ×100.
 

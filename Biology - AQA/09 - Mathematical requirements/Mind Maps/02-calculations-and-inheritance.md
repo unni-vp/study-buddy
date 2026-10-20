@@ -2,7 +2,9 @@
 
 ## Image sizes
 
-M = image/actual. Actual = image/M.
+M = image/actual.
+
+Actual = image/M.
 
 Use same unit for both sizes.
 
@@ -22,7 +24,9 @@ Resizing preserves ratios when bar resizes too.
 
 ## Rate calculations
 
-Change/time; state time basis.
+Change/time
+
+state time basis.
 
 12 cm³ in 4 min: 3 cm³ min⁻¹.
 
