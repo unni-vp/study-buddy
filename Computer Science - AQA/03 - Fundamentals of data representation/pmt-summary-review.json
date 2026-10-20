@@ -1,0 +1,111 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/3-Fundamentals-of-Data-Representation/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 23,
+  "sha256": "53e647ef515ba9740d5b11ac0ecd75f2a8a60fe40feaf370905f852cc3d00bee",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.3.1–3.3.4 Bases, units and arithmetic",
+      "pmt_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "note_headings": [
+        "Binary, decimal and hexadecimal",
+        "Converting number bases",
+        "Bits, bytes and prefixes",
+        "Binary arithmetic and shifts"
+      ],
+      "added_or_developed": [
+        "Place-value explanations",
+        "All conversion directions",
+        "Bits/bytes and prefix comparison",
+        "Carry-by-carry addition",
+        "Shifts with lost significant bits"
+      ],
+      "decisions": [
+        "No fractional or signed representations introduced. Addition examples fit the AQA 8-bit answer limit."
+      ]
+    },
+    {
+      "section": "3.3.5–3.3.7 Encodings and media",
+      "pmt_pages": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "note_headings": [
+        "Character encoding",
+        "Bitmap images",
+        "Digital sound"
+      ],
+      "added_or_developed": [
+        "Code-table use and character/integer distinction",
+        "Row-by-row bitmap encoding",
+        "Colour and amplitude combinations",
+        "Dimension/rate/depth proportional effects",
+        "Separated calculation steps"
+      ],
+      "decisions": [
+        "PDF gives inconsistent Unicode bit widths; notes explain that width depends on encoding without adding UTF implementation detail."
+      ]
+    },
+    {
+      "section": "3.3.8 Compression",
+      "pmt_pages": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "note_headings": [
+        "Why compression is used",
+        "Run-length encoding",
+        "Huffman coding"
+      ],
+      "added_or_developed": [
+        "Retained lossy/lossless comparison and BANANA tree",
+        "RLE decoding and overhead calculation",
+        "Tree tracing, re-ranking combined nodes and complete bit totals"
+      ],
+      "decisions": [
+        "PDF frequency-table inconsistencies not imported. Existing original worked tree is retained. RLE suitability depends on runs, not a blanket claim that text cannot benefit."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Number bases and conversions",
+    "Units and binary arithmetic",
+    "Character encoding",
+    "Images and sound",
+    "Compression"
+  ],
+  "word_count_before": 1899,
+  "word_count_after": 3464,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

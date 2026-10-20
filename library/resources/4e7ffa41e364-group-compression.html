@@ -21,6 +21,10 @@
 <p><code>0000011100000011</code> becomes:</p>
 <p><code>5 0, 3 1, 6 0, 2 1</code></p>
 <p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
+<h3>Decoding and checking storage</h3>
+<p>For frequency/data pairs <code>4 1, 2 0, 3 1</code>, write four 1s, two 0s and three 1s. The original sequence is **<code>111100111</code>**. The frequencies add to 9, which checks the number of reconstructed pixels.</p>
+<p>The written digits alone do not tell you the compressed size. If a question allocates 4 bits to each frequency and 1 bit to each pixel value, three pairs use <strong>3 × (4 + 1) = 15 bits</strong>. This is larger than the original nine 1-bit pixels.</p>
+<p>Long uniform areas often compress well with RLE. Alternating black and white pixels produce short runs, so storing a count for each run may add more data than it saves.</p>
 <h2>Huffman coding</h2>
 <p><strong>Huffman coding</strong> represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.</p>
 <p>Huffman coding is <strong>lossless</strong>: the correct tree or code table lets the receiver recover every original symbol.</p>
@@ -88,6 +92,10 @@
 <tr><td>Checking the saving</td><td>Include the space needed to store each pair; short runs can make data larger.</td><td>Multiply each symbol’s frequency by its code length, then add the results.</td></tr>
 <tr><td>Original data</td><td>Can be recovered exactly when decoded.</td><td>Can be recovered exactly using the correct code tree.</td></tr>
 </table>
+<h3>Checking a supplied tree</h3>
+<p>Read the branch labels actually shown; a tree may use a different left/right convention. Continue until a <strong>leaf</strong>, not merely an internal node. After decoding one symbol, return to the root before reading the next bits.</p>
+<p>When building a tree, put each combined frequency back among the remaining frequencies before choosing the next two smallest. Keep that whole subtree together when combining it again. Equal frequencies may allow different valid trees, but decoding always depends on the chosen tree.</p>
+<p>The compressed message size is the sum of <strong>frequency × code length for every symbol</strong>, including spaces if present. A short message may save few or no bits once the tree or code table also has to be stored. Distinguish a calculation for message bits alone from a calculation that includes this extra information.</p>
 <h2>Calculation checklist</h2>
 <ul>
 <li>Write the formula before substituting values.</li>
@@ -95,4 +103,4 @@
 <li>Use decimal prefixes of 1,000 for this course.</li>
 <li>Show place values or four-bit groups in base conversions.</li>
 <li>Include units and do not round unless instructed.</li>
-</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-media.html"><span>← Previous</span><strong>Text, images and sound</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-media.html"><span>← Previous</span><strong>Images and sound</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

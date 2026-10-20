@@ -1,14 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Text, images and sound · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><h1>Text, images and sound</h1>
-<h2>Character encoding</h2>
-<p>A <strong>character set</strong> is the collection of characters that can be represented. A character encoding assigns each character a numeric code.</p>
-<table>
-<tr><th>Feature</th><th>7-bit ASCII</th><th>Unicode</th></tr>
-<tr><td>Range</td><td>128 possible codes.</td><td>Far more alphabets, symbols and emoji.</td></tr>
-<tr><td>Characters supported</td><td>A limited set, suitable for basic English text and control characters.</td><td>Characters used across many languages.</td></tr>
-<tr><td>Relationship</td><td>Codes 0–127 form the ASCII set.</td><td>Uses the same character codes as ASCII for 0–127.</td></tr>
-</table>
-<p>Codes are grouped in sequences: if <code>A</code> is 65, then <code>B</code> is 66.</p>
-<p>Unicode is needed because ASCII cannot represent the wide range of characters used worldwide. You do not need details of UTF-8 or UTF-16.</p>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Images and sound · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><h1>Images and sound</h1>
 <h2>Bitmap images</h2>
 <p>A <strong>pixel</strong> is one picture element. A bitmap stores a grid of pixels and a code for each pixel&#x27;s colour.</p>
 <table>
@@ -19,8 +9,24 @@
 <p>Number of possible colours = <strong>2^colour depth</strong>.</p>
 <p><strong>Image size in bits = width × height × colour depth</strong></p>
 <p>For 800 × 600 pixels at 24 bits per pixel:</p>
-<p>800 × 600 × 24 = 11,520,000 bits = <strong>1,440,000 bytes</strong>.</p>
+<ol>
+<li>The image has 800 × 600 = <strong>480,000 pixels</strong>.</li>
+<li>Each pixel uses 24 bits, so the data needs 480,000 × 24 = <strong>11,520,000 bits</strong>.</li>
+<li>Divide by 8 to get <strong>1,440,000 bytes</strong>, or <strong>1.44 MB</strong>.</li>
+</ol>
+<p>This calculation covers uncompressed pixel data. Include extra storage only if the question supplies it.</p>
 <p>Simple black-and-white bitmap questions may ask you to convert each 0 or 1 into a pixel, row by row.</p>
+<h3>Turning bits into pixels</h3>
+<p>Use this key: <strong>0 is white, and 1 is black</strong>. Read each row from left to right, then move down to the next row.</p>
+<table>
+<tr><th>Row</th><th>Stored bits</th><th>Pixel row</th></tr>
+<tr><td>1</td><td><code>010</code></td><td>White, black, white.</td></tr>
+<tr><td>2</td><td><code>111</code></td><td>Black, black, black.</td></tr>
+<tr><td>3</td><td><code>010</code></td><td>White, black, white.</td></tr>
+</table>
+<p>These rows form a small cross. To encode a drawing, reverse the process and write the code for every pixel, including white background pixels. The image needs <strong>3 × 3 × 1 = 9 bits</strong> of pixel data.</p>
+<p>At colour depth 2, the four codes <code>00</code>, <code>01</code>, <code>10</code> and <code>11</code> can represent four colours. At depth 8, <strong>2⁸ = 256 colours</strong> are possible. The image need not actually use every available colour.</p>
+<p>At fixed depth, doubling the width doubles the pixel data. Doubling both width and height makes <strong>four times</strong> as many pixels. At fixed dimensions, changing depth from 8 to 24 bits makes the pixel data <strong>three times</strong> as large. More pixels or colours allow more detail to be represented, but do not guarantee that a poor original image becomes detailed.</p>
 <h2>Digital sound</h2>
 <p>Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave&#x27;s amplitude at regular times.</p>
 <table>
@@ -30,4 +36,13 @@
 </table>
 <p>Both can improve how accurately the digital recording represents the original sound.</p>
 <p><strong>Sound size in bits = sampling rate × sample resolution × duration in seconds</strong></p>
-<p>44,000 Hz × 16 bits × 10 s = 7,040,000 bits = <strong>880,000 bytes</strong>.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-numbers.html"><span>← Previous</span><strong>Numbers and units</strong></a><a href="4e7ffa41e364-group-compression.html"><span>Next →</span><strong>Compression</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<ol>
+<li>There are 44,000 × 10 = <strong>440,000 samples</strong>.</li>
+<li>At 16 bits per sample, the data needs 440,000 × 16 = <strong>7,040,000 bits</strong>.</li>
+<li>Divide by 8 to obtain <strong>880,000 bytes</strong>, or <strong>880 kB</strong>.</li>
+</ol>
+<h3>What a sample records</h3>
+<p>An analogue wave varies continuously. Sampling measures its <strong>amplitude at separate, regularly spaced times</strong>, then represents those measurements using binary values. Imagine noting the height of a moving wave at regular moments: more observations follow its changing shape more closely.</p>
+<p>Sampling rate controls <strong>how often</strong> measurements are made. Sample resolution controls <strong>how precisely each amplitude</strong> can be represented. Increasing one does not automatically increase the other.</p>
+<p>A resolution of 8 bits allows <strong>256 different amplitude values</strong>. A resolution of 16 bits allows <strong>65,536 values</strong>, so rounding each measurement to an available value can be more precise.</p>
+<p>At fixed duration and resolution, doubling sampling rate doubles the uncompressed data. At fixed rate and duration, doubling bits per sample also doubles it. Convert minutes to seconds before using the formula: 2 minutes is <strong>120 seconds</strong>.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-text.html"><span>← Previous</span><strong>Character encoding</strong></a><a href="4e7ffa41e364-group-compression.html"><span>Next →</span><strong>Compression</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

@@ -3,37 +3,75 @@
   "groups": [
     {
       "id": "numbers",
-      "title": "Numbers and units",
-      "description": "Convert bases, add binary and use storage units.",
+      "title": "Number bases and conversions",
       "icon": "computer-binary",
+      "description": "Understand place value and convert using clear worked steps.",
       "sections": [
-        {"heading": "Binary, decimal and hexadecimal"},
-        {"heading": "Converting number bases"},
-        {"heading": "Bits, bytes and prefixes"},
-        {"heading": "Binary arithmetic and shifts"}
+        {
+          "heading": "Binary, decimal and hexadecimal"
+        },
+        {
+          "heading": "Converting number bases"
+        }
+      ]
+    },
+    {
+      "id": "arithmetic",
+      "title": "Units and binary arithmetic",
+      "icon": "computer-binary",
+      "description": "Compare sizes, follow carries and apply logical shifts.",
+      "sections": [
+        {
+          "heading": "Bits, bytes and prefixes"
+        },
+        {
+          "heading": "Binary arithmetic and shifts"
+        }
+      ]
+    },
+    {
+      "id": "text",
+      "title": "Character encoding",
+      "icon": "computer-data",
+      "description": "Use character codes and explain ASCII and Unicode.",
+      "sections": [
+        {
+          "heading": "Character encoding"
+        }
       ]
     },
     {
       "id": "media",
-      "title": "Text, images and sound",
-      "description": "Understand encodings and calculate media file sizes.",
+      "title": "Images and sound",
       "icon": "computer-media",
+      "description": "Understand digital media and work through file-size calculations.",
       "sections": [
-        {"heading": "Character encoding"},
-        {"heading": "Bitmap images"},
-        {"heading": "Digital sound"}
+        {
+          "heading": "Bitmap images"
+        },
+        {
+          "heading": "Digital sound"
+        }
       ]
     },
     {
       "id": "compression",
       "title": "Compression",
-      "description": "Apply RLE and Huffman coding and compare sizes.",
       "icon": "computer-compression",
+      "description": "Compare methods and encode, decode and calculate savings.",
       "sections": [
-        {"heading": "Why compression is used"},
-        {"heading": "Run-length encoding"},
-        {"heading": "Huffman coding"},
-        {"heading": "Calculation checklist"}
+        {
+          "heading": "Why compression is used"
+        },
+        {
+          "heading": "Run-length encoding"
+        },
+        {
+          "heading": "Huffman coding"
+        },
+        {
+          "heading": "Calculation checklist"
+        }
       ]
     }
   ]

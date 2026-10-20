@@ -8,6 +8,10 @@
 <tr><td>Hexadecimal, base 16</td><td>0–9 and A–F</td><td>powers of 16</td></tr>
 </table>
 <p>Hexadecimal is a compact, readable way to write binary: <strong>one hexadecimal digit represents four bits</strong>. It is used for values such as colour codes and memory addresses.</p>
+<h3>Place value and meaning</h3>
+<p>In a base, each place is worth the base times the place to its right. In decimal, 342 means 3 hundreds, 4 tens and 2 units. In binary, the places are 1, 2, 4, 8 and so on, read from right to left.</p>
+<p>Electronic circuits can distinguish two states, represented as <strong>0 and 1</strong>. Software uses patterns of those bits to encode many types of information. A bit pattern has no single meaning without its context: <code>01000001</code> could mean the integer 65 or the character <code>A</code> in ASCII.</p>
+<p>Hexadecimal does not make a computer&#x27;s stored data smaller by itself. It gives people a shorter way to write the <strong>same bit pattern</strong>, reducing the number of digits they need to read or copy.</p>
 <h2>Converting number bases</h2>
 <p>For an 8-bit binary number, use place values:</p>
 <table>
@@ -18,6 +22,30 @@
 <p>For binary ↔ hexadecimal, split binary into groups of four from the right:</p>
 <p><code>1101 0110</code> → D and 6 → <strong>D6</strong>.</p>
 <p>Hexadecimal <code>7B</code> = (7 × 16) + 11 = <strong>123</strong>. Values in this course range from 0 to 255, equal to <code>00000000</code>–<code>11111111</code> or <code>00</code>–<code>FF</code>.</p>
+<h3>Decimal to binary, step by step</h3>
+<p>Convert <strong>73</strong> to an 8-bit binary value. Work from the largest place to the smallest, subtracting only when that place is used.</p>
+<table>
+<tr><th>Place value</th><th>Remaining amount before the decision</th><th>Bit and decision</th></tr>
+<tr><td>128</td><td>73</td><td>Write 0 because 128 is too large.</td></tr>
+<tr><td>64</td><td>73</td><td>Write 1 and subtract 64, leaving 9.</td></tr>
+<tr><td>32</td><td>9</td><td>Write 0 because 32 is too large.</td></tr>
+<tr><td>16</td><td>9</td><td>Write 0 because 16 is too large.</td></tr>
+<tr><td>8</td><td>9</td><td>Write 1 and subtract 8, leaving 1.</td></tr>
+<tr><td>4</td><td>1</td><td>Write 0.</td></tr>
+<tr><td>2</td><td>1</td><td>Write 0.</td></tr>
+<tr><td>1</td><td>1</td><td>Write 1, leaving 0.</td></tr>
+</table>
+<p>The answer is **<code>01001001</code>**. Check it by adding 64 + 8 + 1 = 73. Leading zeroes preserve a requested width without changing the number&#x27;s value.</p>
+<h3>Converting hexadecimal in either direction</h3>
+<p>The letters <strong>A, B, C, D, E and F</strong> represent decimal 10, 11, 12, 13, 14 and 15.</p>
+<p>To convert <code>9C</code> to binary, convert each digit separately: 9 becomes <code>1001</code>, and C becomes <code>1100</code>. Joining them gives **<code>10011100</code>**. Keep four bits for each hexadecimal digit, including leading zeroes within a group.</p>
+<p>To convert decimal 156 directly to hexadecimal:</p>
+<ol>
+<li>Divide 156 by 16. The quotient is <strong>9</strong> and the remainder is <strong>12</strong>.</li>
+<li>Write the quotient as the first digit, 9.</li>
+<li>Convert remainder 12 to C. The answer is **<code>9C</code>**.</li>
+</ol>
+<p>To reverse it, calculate <strong>(9 × 16) + 12 = 156</strong>. This is the same value represented in a different base, not a new quantity.</p>
 <h2>Bits, bytes and prefixes</h2>
 <ul>
 <li>A <strong>bit</strong> is one binary digit, 0 or 1.</li>
@@ -32,6 +60,9 @@
 <li>1 TB = 1,000 GB</li>
 </ul>
 <p>To move to a larger unit, divide by 1,000. To move to a smaller unit, multiply by 1,000.</p>
+<h3>Comparing sizes without mixing units</h3>
+<p>A file of <strong>2.4 MB</strong> contains 2,400,000 bytes. Multiplying by 8 gives <strong>19,200,000 bits</strong>. Converting MB to bits therefore requires both the decimal prefix and the bits-per-byte conversion.</p>
+<p>To compare 900 kB with 1.2 MB, convert 1.2 MB to <strong>1,200 kB</strong>. The second file is larger by <strong>300 kB</strong>. Comparing the numbers 900 and 1.2 without their units would give the wrong result.</p>
 <h2>Binary arithmetic and shifts</h2>
 <p>Binary addition follows these facts:</p>
 <ul>
@@ -47,6 +78,27 @@
 <tr><td>What can be lost?</td><td>Bits shifted beyond the left edge are discarded.</td><td>Bits shifted beyond the right edge are discarded, so an odd value loses its remainder.</td></tr>
 </table>
 <p>Example: <code>00010110</code> (22) shifted left once becomes <code>00101100</code> (44).</p>
+<h3>A complete addition</h3>
+<p>Add <code>00001101</code> (13) and <code>00000111</code> (7). Start at the rightmost column and include any carry from the previous column.</p>
+<pre class="code-block"><code class="language-text">  00001101
++ 00000111
+----------
+  00010100
+</code></pre>
+<table>
+<tr><th>Column, starting at the right</th><th>Values added</th><th>Bit written</th><th>Carry to the next column</th></tr>
+<tr><td>1</td><td>1 + 1</td><td>0</td><td>1</td></tr>
+<tr><td>2</td><td>0 + 1 + carry 1</td><td>0</td><td>1</td></tr>
+<tr><td>4</td><td>1 + 1 + carry 1</td><td>1</td><td>1</td></tr>
+<tr><td>8</td><td>1 + 0 + carry 1</td><td>0</td><td>1</td></tr>
+<tr><td>16</td><td>0 + 0 + carry 1</td><td>1</td><td>0</td></tr>
+</table>
+<p>The remaining leading columns are zero. Check: <strong>13 + 7 = 20</strong>, and <code>00010100</code> is 16 + 4 = 20.</p>
+<p>A column containing three 1s has a total of binary <code>11</code>: write 1 and carry 1. The same rule applies when adding three binary numbers.</p>
+<h3>Shifts and discarded bits</h3>
+<p>A two-place left shift multiplies by <strong>4</strong>, provided no significant bit is lost. For example, <code>00000111</code> (7) becomes <code>00011100</code> (28).</p>
+<p>A logical right shift fills the left positions with zeroes. Shifting <code>00000111</code> right once gives <code>00000011</code> (3): the final 1 is discarded, so the result is whole-number division, not 3.5.</p>
+<p>With a fixed 8-bit width, shifting <code>10000001</code> left once gives <code>00000010</code>. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.</p>
 <h2>Character encoding</h2>
 <p>A <strong>character set</strong> is the collection of characters that can be represented. A character encoding assigns each character a numeric code.</p>
 <table>
@@ -57,6 +109,11 @@
 </table>
 <p>Codes are grouped in sequences: if <code>A</code> is 65, then <code>B</code> is 66.</p>
 <p>Unicode is needed because ASCII cannot represent the wide range of characters used worldwide. You do not need details of UTF-8 or UTF-16.</p>
+<h3>Using a code table</h3>
+<p>A shared encoding lets a sender and receiver agree on which character a number represents. Without that agreement, the same stored value could be displayed incorrectly.</p>
+<p>If uppercase <code>A</code> is 65, uppercase <code>D</code> is <strong>68</strong>, because it is three positions later in that sequence. If lowercase <code>a</code> is 97, lowercase <code>d</code> is <strong>100</strong>. Do not assume the uppercase and lowercase groups are adjacent.</p>
+<p>The character <code>&quot;4&quot;</code> is a symbol in text. Its ASCII code is 52; the integer 4 has a different purpose. Spaces and control characters also occupy codes and must be counted when calculating encoded text size.</p>
+<p>For 20 characters stored in 7-bit ASCII, the character data needs <strong>20 × 7 = 140 bits</strong>. Use the encoding width stated in the question. Unicode supports far more characters, but its storage per character depends on the encoding; it is not always one fixed number of bits.</p>
 <h2>Bitmap images</h2>
 <p>A <strong>pixel</strong> is one picture element. A bitmap stores a grid of pixels and a code for each pixel&#x27;s colour.</p>
 <table>
@@ -67,8 +124,24 @@
 <p>Number of possible colours = <strong>2^colour depth</strong>.</p>
 <p><strong>Image size in bits = width × height × colour depth</strong></p>
 <p>For 800 × 600 pixels at 24 bits per pixel:</p>
-<p>800 × 600 × 24 = 11,520,000 bits = <strong>1,440,000 bytes</strong>.</p>
+<ol>
+<li>The image has 800 × 600 = <strong>480,000 pixels</strong>.</li>
+<li>Each pixel uses 24 bits, so the data needs 480,000 × 24 = <strong>11,520,000 bits</strong>.</li>
+<li>Divide by 8 to get <strong>1,440,000 bytes</strong>, or <strong>1.44 MB</strong>.</li>
+</ol>
+<p>This calculation covers uncompressed pixel data. Include extra storage only if the question supplies it.</p>
 <p>Simple black-and-white bitmap questions may ask you to convert each 0 or 1 into a pixel, row by row.</p>
+<h3>Turning bits into pixels</h3>
+<p>Use this key: <strong>0 is white, and 1 is black</strong>. Read each row from left to right, then move down to the next row.</p>
+<table>
+<tr><th>Row</th><th>Stored bits</th><th>Pixel row</th></tr>
+<tr><td>1</td><td><code>010</code></td><td>White, black, white.</td></tr>
+<tr><td>2</td><td><code>111</code></td><td>Black, black, black.</td></tr>
+<tr><td>3</td><td><code>010</code></td><td>White, black, white.</td></tr>
+</table>
+<p>These rows form a small cross. To encode a drawing, reverse the process and write the code for every pixel, including white background pixels. The image needs <strong>3 × 3 × 1 = 9 bits</strong> of pixel data.</p>
+<p>At colour depth 2, the four codes <code>00</code>, <code>01</code>, <code>10</code> and <code>11</code> can represent four colours. At depth 8, <strong>2⁸ = 256 colours</strong> are possible. The image need not actually use every available colour.</p>
+<p>At fixed depth, doubling the width doubles the pixel data. Doubling both width and height makes <strong>four times</strong> as many pixels. At fixed dimensions, changing depth from 8 to 24 bits makes the pixel data <strong>three times</strong> as large. More pixels or colours allow more detail to be represented, but do not guarantee that a poor original image becomes detailed.</p>
 <h2>Digital sound</h2>
 <p>Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave&#x27;s amplitude at regular times.</p>
 <table>
@@ -78,7 +151,16 @@
 </table>
 <p>Both can improve how accurately the digital recording represents the original sound.</p>
 <p><strong>Sound size in bits = sampling rate × sample resolution × duration in seconds</strong></p>
-<p>44,000 Hz × 16 bits × 10 s = 7,040,000 bits = <strong>880,000 bytes</strong>.</p>
+<ol>
+<li>There are 44,000 × 10 = <strong>440,000 samples</strong>.</li>
+<li>At 16 bits per sample, the data needs 440,000 × 16 = <strong>7,040,000 bits</strong>.</li>
+<li>Divide by 8 to obtain <strong>880,000 bytes</strong>, or <strong>880 kB</strong>.</li>
+</ol>
+<h3>What a sample records</h3>
+<p>An analogue wave varies continuously. Sampling measures its <strong>amplitude at separate, regularly spaced times</strong>, then represents those measurements using binary values. Imagine noting the height of a moving wave at regular moments: more observations follow its changing shape more closely.</p>
+<p>Sampling rate controls <strong>how often</strong> measurements are made. Sample resolution controls <strong>how precisely each amplitude</strong> can be represented. Increasing one does not automatically increase the other.</p>
+<p>A resolution of 8 bits allows <strong>256 different amplitude values</strong>. A resolution of 16 bits allows <strong>65,536 values</strong>, so rounding each measurement to an available value can be more precise.</p>
+<p>At fixed duration and resolution, doubling sampling rate doubles the uncompressed data. At fixed rate and duration, doubling bits per sample also doubles it. Convert minutes to seconds before using the formula: 2 minutes is <strong>120 seconds</strong>.</p>
 <h2>Why compression is used</h2>
 <p><strong>Compression</strong> reduces the number of bits required to store or transmit data.</p>
 <p>Benefits include less storage, faster transfer and lower bandwidth use. Compression and decompression require processing, and some methods may lose information.</p>
@@ -101,6 +183,10 @@
 <p><code>0000011100000011</code> becomes:</p>
 <p><code>5 0, 3 1, 6 0, 2 1</code></p>
 <p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
+<h3>Decoding and checking storage</h3>
+<p>For frequency/data pairs <code>4 1, 2 0, 3 1</code>, write four 1s, two 0s and three 1s. The original sequence is **<code>111100111</code>**. The frequencies add to 9, which checks the number of reconstructed pixels.</p>
+<p>The written digits alone do not tell you the compressed size. If a question allocates 4 bits to each frequency and 1 bit to each pixel value, three pairs use <strong>3 × (4 + 1) = 15 bits</strong>. This is larger than the original nine 1-bit pixels.</p>
+<p>Long uniform areas often compress well with RLE. Alternating black and white pixels produce short runs, so storing a count for each run may add more data than it saves.</p>
 <h2>Huffman coding</h2>
 <p><strong>Huffman coding</strong> represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.</p>
 <p>Huffman coding is <strong>lossless</strong>: the correct tree or code table lets the receiver recover every original symbol.</p>
@@ -168,6 +254,10 @@
 <tr><td>Checking the saving</td><td>Include the space needed to store each pair; short runs can make data larger.</td><td>Multiply each symbol’s frequency by its code length, then add the results.</td></tr>
 <tr><td>Original data</td><td>Can be recovered exactly when decoded.</td><td>Can be recovered exactly using the correct code tree.</td></tr>
 </table>
+<h3>Checking a supplied tree</h3>
+<p>Read the branch labels actually shown; a tree may use a different left/right convention. Continue until a <strong>leaf</strong>, not merely an internal node. After decoding one symbol, return to the root before reading the next bits.</p>
+<p>When building a tree, put each combined frequency back among the remaining frequencies before choosing the next two smallest. Keep that whole subtree together when combining it again. Equal frequencies may allow different valid trees, but decoding always depends on the chosen tree.</p>
+<p>The compressed message size is the sum of <strong>frequency × code length for every symbol</strong>, including spaces if present. A short message may save few or no bits once the tree or code table also has to be stored. Distinguish a calculation for message bits alone from a calculation that includes this extra information.</p>
 <h2>Calculation checklist</h2>
 <ul>
 <li>Write the formula before substituting values.</li>
@@ -179,4 +269,8 @@
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>
 <li>AQA GCSE Computer Science 8525 specification, section 3.3.</li>
+</ul>
+<ul>
+<li><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
+<li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
