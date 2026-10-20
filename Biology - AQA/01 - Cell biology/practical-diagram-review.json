@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Required practical 1: observe, draw and label cells",
+      "diagram": "Biology - AQA/01 - Cell biology/Diagrams/microscope-slide-practical.svg",
+      "purpose": "A coverslip is lowered at an angle onto a thin stained specimen on a glass slide, using a mounted needle."
+    },
+    {
+      "heading": "Required practical 2: antimicrobial substances",
+      "diagram": "Biology - AQA/01 - Cell biology/Diagrams/agar-disc-practical.svg",
+      "purpose": "Equal-sized antimicrobial discs sit on an inoculated agar plate. Clear zones differ in diameter; a solvent-only control has no clear zone."
+    },
+    {
+      "heading": "9. Required practical 3: osmosis in plant tissue",
+      "diagram": "Biology - AQA/01 - Cell biology/Diagrams/potato-osmosis-practical.svg",
+      "purpose": "Equal-sized potato cylinders are immersed in equal volumes of different concentrations, then blotted and reweighed."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

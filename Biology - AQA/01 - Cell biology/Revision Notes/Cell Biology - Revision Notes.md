@@ -103,6 +103,9 @@ Use **the same units** for image and actual size. Magnification has **no unit**.
 
 ### Required practical 1: observe, draw and label cells
 
+
+![A coverslip is lowered at an angle onto a thin stained specimen on a glass slide, using a mounted needle.](../Diagrams/microscope-slide-practical.svg)
+
 1. Place a thin plant sample, such as onion epidermis, on a slide with a drop of water. Use a suitable stain, such as iodine, to improve contrast.
 2. Lower a coverslip gently at an angle to reduce trapped air.
 3. Begin with the **lowest-power objective**. Focus with coarse, then fine adjustment.
@@ -140,6 +143,9 @@ Repeated doubling is like photocopying every copy again: 1 → 2 → 4 → 8. Gr
 These are school practical principles. Cultures should be handled and disposed of under the teacher's procedure; do not open incubated plates.
 
 ### Required practical 2: antimicrobial substances
+
+
+![Equal-sized antimicrobial discs sit on an inoculated agar plate. Clear zones differ in diameter; a solvent-only control has no clear zone.](../Diagrams/agar-disc-practical.svg)
 
 1. Prepare a bacterial lawn on sterile agar using aseptic technique.
 2. Place paper discs containing the substances being tested onto the agar. Include a **control disc** with the solvent only.
@@ -319,6 +325,9 @@ Large multicellular organisms need **specialised exchange surfaces** and **trans
 | **Plant leaves** | Broad and thin; stomata allow gases to enter/leave; internal air spaces shorten gas diffusion paths. |
 
 ## 9. Required practical 3: osmosis in plant tissue
+
+
+![Equal-sized potato cylinders are immersed in equal volumes of different concentrations, then blotted and reweighed.](../Diagrams/potato-osmosis-practical.svg)
 
 **Question:** how does salt or sugar concentration affect the mass of plant tissue?
 
