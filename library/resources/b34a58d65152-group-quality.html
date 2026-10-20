@@ -12,6 +12,11 @@ while age &lt; 11 or age &gt; 18:
     age = int(input(&quot;Enter 11 to 18: &quot;))
 </code></pre>
 <p><strong>Authentication</strong> checks identity, for example by comparing a username and password with stored values. In exam programming tasks, plain-text values may be used; real systems should store passwords securely.</p>
+<table>
+<tr><th>Check</th><th>Question it answers</th><th>Example</th></tr>
+<tr><td><strong>Validation</strong></td><td>Does the input follow the required rules?</td><td>An entered age lies between 11 and 18. It could still be an untrue age.</td></tr>
+<tr><td><strong>Authentication</strong></td><td>Is this user’s claimed identity accepted?</td><td>The supplied username and password match an account.</td></tr>
+</table>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>
 <table>
@@ -20,10 +25,11 @@ while age &lt; 11 or age &gt; 18:
 <tr><td>Boundary</td><td>At and just outside limits</td><td>0, 1, 10, 11</td></tr>
 <tr><td>Erroneous</td><td>Invalid type or format</td><td><code>&quot;five&quot;</code></td></tr>
 </table>
-<ul>
-<li>A <strong>syntax error</strong> breaks the language&#x27;s grammar and may stop translation or execution.</li>
-<li>A <strong>logic error</strong> allows the program to run but produces the wrong result.</li>
-</ul>
+<table>
+<tr><th>Error</th><th>What goes wrong</th><th>Example</th></tr>
+<tr><td><strong>Syntax error</strong></td><td>The code breaks the language’s grammar and may stop translation or execution.</td><td>Missing <code>:</code> after a Python <code>if</code> condition.</td></tr>
+<tr><td><strong>Logic error</strong></td><td>The program runs but produces the wrong result.</td><td>Adding two side lengths when the task requires multiplying them for area.</td></tr>
+</table>
 <p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
 <h2>Exam coding checklist</h2>
 <ul>

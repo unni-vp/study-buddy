@@ -9,20 +9,24 @@
 <tr><td>Character</td><td>One character</td><td><code>&#x27;A&#x27;</code></td></tr>
 <tr><td>String</td><td>Sequence of characters</td><td><code>&quot;Shreya&quot;</code></td></tr>
 </table>
+<table>
+<tr><th>Named value</th><th>Can it change while the program runs?</th><th>Example</th></tr>
+<tr><td><strong>Variable</strong></td><td>Its stored value can change.</td><td><code>score</code> changes as points are earned.</td></tr>
+<tr><td><strong>Constant</strong></td><td>It is intended to stay the same.</td><td><code>MAX_ATTEMPTS</code> stores the allowed number of guesses.</td></tr>
+</table>
 <ul>
-<li>A <strong>variable</strong> is a named storage location whose value can change.</li>
-<li>A <strong>constant</strong> is a named value that should not change while the program runs.</li>
 <li><strong>Assignment</strong> stores a value: pseudocode <code>score ← 0</code>; Python <code>score = 0</code>.</li>
 <li>Use meaningful identifiers such as <code>totalPrice</code>, not vague names such as <code>x</code>.</li>
 </ul>
 <p>Choose types carefully. A telephone number is usually a string because it is not used in arithmetic and may begin with zero.</p>
 <h2>Sequence, selection and iteration</h2>
 <p>The three basic control structures are:</p>
-<ul>
-<li><strong>Sequence:</strong> instructions run in order.</li>
-<li><strong>Selection:</strong> a condition chooses a route.</li>
-<li><strong>Iteration:</strong> instructions repeat.</li>
-</ul>
+<table>
+<tr><th>Structure</th><th>What happens</th><th>Example</th></tr>
+<tr><td><strong>Sequence</strong></td><td>Instructions run in order.</td><td>Read a price, calculate a total, then display it.</td></tr>
+<tr><td><strong>Selection</strong></td><td>A condition chooses which route runs.</td><td>Display a discount only if the customer qualifies.</td></tr>
+<tr><td><strong>Iteration</strong></td><td>A block of instructions repeats.</td><td>Process every item in a shopping basket.</td></tr>
+</table>
 <h3>Selection</h3>
 <pre class="code-block"><code class="language-python">if age &gt;= 18:
     print(&quot;Adult&quot;)
@@ -44,6 +48,14 @@ ENDFOR
     password = input(&quot;Try again: &quot;)
 </code></pre>
 <p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
+<table>
+<tr><th>Loop</th><th>When does the body run?</th><th>When is it useful?</th></tr>
+<tr><td><strong>FOR</strong></td><td>A set number of repetitions in a count-controlled loop.</td><td>Process five scores when the number of repetitions is known.</td></tr>
+<tr><td><strong>WHILE</strong></td><td>Condition checked <strong>before</strong> the body; repeats while true. It may run zero times.</td><td>Keep asking while the current input is invalid.</td></tr>
+<tr><td><strong>REPEAT … UNTIL</strong></td><td>Condition checked <strong>after</strong> the body; stops when true. Runs at least once.</td><td>Ask for input, then check whether it is valid.</td></tr>
+<tr><td><strong>DO … WHILE</strong></td><td>Condition checked <strong>after</strong> the body; repeats while true. Runs at least once.</td><td>Ask for input, then repeat while it is invalid.</td></tr>
+</table>
+<p>The last two forms check at the same point but use <strong>opposite stopping logic</strong>. Python does not have a built-in <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> statement.</p>
 <h2>Operators and expressions</h2>
 <h3>Arithmetic</h3>
 <table>
@@ -66,12 +78,13 @@ ENDFOR
 <p>Use brackets to make combined conditions clear.</p>
 <h2>Arrays and records</h2>
 <p>A <strong>data structure</strong> organises related data.</p>
-<ul>
-<li>A <strong>one-dimensional array</strong> stores an ordered list of values of the same kind.</li>
-<li>A <strong>two-dimensional array</strong> stores rows and columns, like a grid.</li>
-<li>An array element is accessed using an <strong>index</strong>. Check whether the given language or pseudocode starts indexing at 0 or 1.</li>
-<li>A <strong>record</strong> groups fields about one item, and its fields may have different data types.</li>
-</ul>
+<table>
+<tr><th>Structure</th><th>How it organises data</th><th>Suitable example</th></tr>
+<tr><td><strong>One-dimensional array</strong></td><td>An ordered list of values of the same kind, accessed by index.</td><td>A list of 30 test scores.</td></tr>
+<tr><td><strong>Two-dimensional array</strong></td><td>Values arranged in rows and columns, accessed using two indices.</td><td>A grid of seats.</td></tr>
+<tr><td><strong>Record</strong></td><td>Named fields about one item; fields may have different data types.</td><td>One pupil’s name, date of birth and attendance status.</td></tr>
+</table>
+<p>Check whether the given language or pseudocode starts indexing at <strong>0 or 1</strong>.</p>
 <pre class="code-block"><code class="language-text">RECORD Student
     name : String
     yearGroup : Integer
@@ -106,9 +119,14 @@ die = random.randint(1, 6)
 <p>Check whether both endpoints are included in the language or function stated in the question.</p>
 <h2>Subroutines and structured programming</h2>
 <p>A <strong>subroutine</strong> is a named block of code called from elsewhere.</p>
+<table>
+<tr><th>Feature</th><th>Procedure</th><th>Function</th></tr>
+<tr><td>Main purpose</td><td>Carries out a task without returning a useful result to the caller.</td><td>Calculates and returns a value to the calling code.</td></tr>
+<tr><td>Example</td><td>Display a menu.</td><td>Calculate a rectangle’s area.</td></tr>
+<tr><td>Using the result</td><td>Call it to perform the action.</td><td>Use its returned value in an expression or assignment.</td></tr>
+</table>
+<p>Python uses <code>def</code> for both styles of subroutine.</p>
 <ul>
-<li>A <strong>procedure</strong> performs a task.</li>
-<li>A <strong>function</strong> returns a value to the calling code.</li>
 <li>A <strong>parameter</strong> passes data into a subroutine.</li>
 <li>A <strong>return value</strong> passes a result out.</li>
 <li>A <strong>local variable</strong> exists only while its subroutine runs and is accessible only there.</li>
@@ -132,6 +150,11 @@ while age &lt; 11 or age &gt; 18:
     age = int(input(&quot;Enter 11 to 18: &quot;))
 </code></pre>
 <p><strong>Authentication</strong> checks identity, for example by comparing a username and password with stored values. In exam programming tasks, plain-text values may be used; real systems should store passwords securely.</p>
+<table>
+<tr><th>Check</th><th>Question it answers</th><th>Example</th></tr>
+<tr><td><strong>Validation</strong></td><td>Does the input follow the required rules?</td><td>An entered age lies between 11 and 18. It could still be an untrue age.</td></tr>
+<tr><td><strong>Authentication</strong></td><td>Is this user’s claimed identity accepted?</td><td>The supplied username and password match an account.</td></tr>
+</table>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>
 <table>
@@ -140,10 +163,11 @@ while age &lt; 11 or age &gt; 18:
 <tr><td>Boundary</td><td>At and just outside limits</td><td>0, 1, 10, 11</td></tr>
 <tr><td>Erroneous</td><td>Invalid type or format</td><td><code>&quot;five&quot;</code></td></tr>
 </table>
-<ul>
-<li>A <strong>syntax error</strong> breaks the language&#x27;s grammar and may stop translation or execution.</li>
-<li>A <strong>logic error</strong> allows the program to run but produces the wrong result.</li>
-</ul>
+<table>
+<tr><th>Error</th><th>What goes wrong</th><th>Example</th></tr>
+<tr><td><strong>Syntax error</strong></td><td>The code breaks the language’s grammar and may stop translation or execution.</td><td>Missing <code>:</code> after a Python <code>if</code> condition.</td></tr>
+<tr><td><strong>Logic error</strong></td><td>The program runs but produces the wrong result.</td><td>Adding two side lengths when the task requires multiplying them for area.</td></tr>
+</table>
 <p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
 <h2>Exam coding checklist</h2>
 <ul>
