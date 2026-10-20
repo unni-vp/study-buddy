@@ -56,21 +56,19 @@ def systems():
  d.save(4,'combined-logic-circuit','A and B enter an AND gate to produce X. C enters a NOT gate to produce Y. X and Y enter an OR gate to produce Q. Therefore Q is (A AND B) OR (NOT C).')
 
 def networks():
- d=Diagram(1000,680,'Communication between two devices through the four TCP/IP layers')
- d.text(220,38,'Sending device',27,True);d.text(780,38,'Receiving device',27,True)
- rows=[('Application','HTTPS','Browser prepares a web request.','Web service reads the request.'),('Transport','TCP','Manages reliable delivery.','Checks and reassembles data.'),('Internet','IP','Addresses data for its destination.','Processes the IP addressing.'),('Link','NIC and drivers','Sends using local network hardware.','Receives using network hardware.')]
+ d=Diagram(1000,720,'Communication between two devices through the four TCP/IP layers')
+ d.text(220,36,'Sending device',27,True);d.text(780,36,'Receiving device',27,True)
+ d.text(220,68,'Data moves down the layers',20);d.text(780,68,'Data moves up the layers',20)
+ rows=[('Application','HTTPS','Browser prepares a request.','Service reads the request.'),('Transport','TCP','Manages reliable delivery.','Checks and reassembles data.'),('Internet','IP','Adds IP addresses.','Processes IP addresses.'),('Link','NIC and drivers','Sends on the local connection.','Receives on the local connection.')]
  for i,(name,protocol,left,right) in enumerate(rows):
-  y=65+i*115
-  for x,desc in [(40,left),(600,right)]:
-   d.parts.append(f'<rect x="{x}" y="{y}" width="360" height="90" rx="10" fill="{["#eaf1fa","#eaf6f0","#fff4dd","#f1eafb"][i]}" stroke="#243b64" stroke-width="2"/>')
-   d.text(x+180,y+32,name+' · '+protocol,24,True);d.text(x+180,y+65,desc,19)
+  y=100+i*125
+  for x,desc in [(60,left),(620,right)]:
+   d.parts.append(f'<rect x="{x}" y="{y}" width="320" height="80" rx="10" fill="{["#eaf1fa","#eaf6f0","#fff4dd","#f1eafb"][i]}" stroke="#243b64" stroke-width="2"/>')
+   d.text(x+160,y+30,name+' · '+protocol,24,True);d.text(x+160,y+61,desc,19)
   if i<3:
-   d.path(f'M220 {y+90}V{y+115}');d.path(f'M780 {y+115}V{y+90}')
- d.path('M220 500V610H345');d.path('M655 610H780V500')
- d.box(345,565,310,90,['Network path','may include routers'])
- d.text(500,110,'Data passes down',22,True);d.text(500,140,'the sender’s layers.',20)
- d.text(500,270,'Data passes up',22,True);d.text(500,300,'the receiver’s layers.',20)
- d.text(500,450,'Arrows follow one',20);d.text(500,480,'web request.',20)
+   d.path(f'M220 {y+80}V{y+125}');d.path(f'M780 {y+125}V{y+80}')
+ d.path('M220 555V655H350');d.path('M650 655H780V555')
+ d.box(350,615,300,80,['Network path','may include routers'])
  d.save(5,'tcp-ip-device-communication','Two devices each show application, transport, internet and link layers. A web request passes down the sender stack, across a network path that may include routers, and up the receiver stack. HTTPS is application, TCP is transport, IP is internet, and NIC/drivers are link.')
 
 if __name__=='__main__':

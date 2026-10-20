@@ -94,6 +94,16 @@
   "diagram_review": {
     "file": "Diagrams/tcp-ip-device-communication.svg",
     "learning_purpose": "Shows communication direction and the jobs/protocols at corresponding layers on two devices.",
-    "review": "Rendered and visually inspected; arrows, layer order, protocol assignments and label clearance checked."
+    "review": "Rendered and visually inspected; arrows, layer order, protocol assignments and label clearance checked.",
+    "spacing_revision": {
+      "date": "2026-10-21",
+      "block_width": 320,
+      "block_height": 80,
+      "vertical_gap": 45,
+      "between_stack_gap": 240,
+      "heading_font": 24,
+      "body_font": 19,
+      "change": "Reduced blocks from 360 × 90; increased inter-layer gaps from 25 to 45. Direction labels moved above stacks. No font reduction."
+    }
   }
 }
