@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: resistance of a wire and resistor combinations",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/wire-length-practical.svg",
+      "purpose": "Ammeter in series; voltmeter across the selected wire length between fixed and movable contacts. A ruler measures that length."
+    },
+    {
+      "heading": "Practical: resistance of a wire and resistor combinations",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/resistor-combinations-practical.svg",
+      "purpose": "Series and parallel resistor circuits, each with an ammeter measuring total current and a voltmeter across the whole combination."
+    },
+    {
+      "heading": "Practical: investigate I–V characteristics",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/iv-practical.svg",
+      "purpose": "Low-voltage supply, variable resistor, ammeter and test component in series; voltmeter across the component."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

@@ -103,6 +103,11 @@ For sensors, connect the change to current or pd in the actual circuit given. Do
 
 ## Practical: resistance of a wire and resistor combinations
 
+
+![Ammeter in series; voltmeter across the selected wire length between fixed and movable contacts. A ruler measures that length.](../Diagrams/wire-length-practical.svg)
+
+![Series and parallel resistor circuits, each with an ammeter measuring total current and a voltmeter across the whole combination.](../Diagrams/resistor-combinations-practical.svg)
+
 1. Fix a uniform resistance wire alongside a ruler. Connect a low-voltage supply, switch and ammeter in series; put a voltmeter across the measured wire length.
 2. Use a movable contact to choose the length. Record V and I, then calculate **R = V/I**.
 3. Repeat for several lengths, keeping **material, cross-sectional area and temperature** constant. Use a low current and switch off between readings to limit heating.
@@ -112,6 +117,9 @@ For sensors, connect the change to current or pd in the actual circuit given. Do
 For combinations, measure each resistor, then measure the pair in series and parallel. The series total should match the sum; the parallel total should be smaller than either resistor. Measure at a suitable low voltage so heating is small. Secure connections and avoid touching hot wire.
 
 ## Practical: investigate I–V characteristics
+
+
+![Low-voltage supply, variable resistor, ammeter and test component in series; voltmeter across the component.](../Diagrams/iv-practical.svg)
 
 - Set up the ammeter/voltmeter circuit above. Use a variable resistor or adjustable supply to vary pd.
 - Record matched **V and I** readings across a useful range, keeping within component ratings.
