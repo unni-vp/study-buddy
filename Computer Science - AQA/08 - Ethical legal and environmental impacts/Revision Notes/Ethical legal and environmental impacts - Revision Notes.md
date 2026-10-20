@@ -154,7 +154,7 @@ Consider the whole **lifecycle**, not just electricity used while a device is sw
 |---|---|---|
 | **Manufacture and transport** | Mining materials can damage habitats and cause pollution. Manufacturing and transport use energy and may release greenhouse gases. | Use working devices for longer; choose repairable designs and longer software support to reduce repeated replacement. |
 | **Use** | Devices, networks and data centres use electricity. Cooling also uses resources and may use water. | Improve energy efficiency and use lower-carbon electricity. Online meetings can reduce travel, but their equipment still has impacts. |
-| **End of life** | Electronic waste contains valuable materials and may contain harmful substances. Poor disposal can pollute soil and water. | Repair, reuse and recycle appropriately. Securely remove personal data before passing on or recycling a device. |
+| **End of life** | Electronic waste contains valuable materials and may contain harmful substances. Poor disposal can pollute soil and water. | Repair and reuse devices; recycle to recover useful materials. Securely remove personal data before passing on or recycling a device. |
 
 
 A new, efficient device is not automatically the greener choice. Compare the energy saved with the resources needed to manufacture its replacement.
