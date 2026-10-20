@@ -36,7 +36,9 @@ Joined copies count as one replicated chromosome.
 
 ## Organism examples
 
-Malaria: asexual in humans, sexual in mosquito.
+Malaria: asexual in humans
+
+sexual in mosquito.
 
 Fungi: asexual spores and sexual reproduction.
 
