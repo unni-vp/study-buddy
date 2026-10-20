@@ -19,6 +19,7 @@
 <li>Use meaningful identifiers such as <code>totalPrice</code>, not vague names such as <code>x</code>.</li>
 </ul>
 <p>Choose types carefully. A telephone number is usually a string because it is not used in arithmetic and may begin with zero.</p>
+<p>Some languages declare a variable&#x27;s name and type before it is used. In Python, assignment creates the name when needed, and the value has a type. A named constant makes a fixed rule easier to understand and change consistently: updating <code>MAX_ATTEMPTS</code> is clearer than hunting for unexplained copies of a number throughout a program. Meaningful names also help someone follow and maintain the code.</p>
 <h3>Choosing and updating values</h3>
 <p>A numeric value such as <code>12</code> can be added to another number. The string <code>&quot;12&quot;</code> is text, so it must be converted before doing that calculation. A Boolean stores a truth value rather than the words <code>&quot;True&quot;</code> or <code>&quot;False&quot;</code>.</p>
 <p>In Python, both single and double quotation marks can enclose a string. Python represents a single character as a string of length 1. Other languages may provide a separate character type.</p>
@@ -198,7 +199,8 @@ print(&quot;Next year you will be&quot;, age + 1)
 <tr><th>Conversion</th><th>Python example</th><th>Result</th></tr>
 <tr><td>String to integer</td><td><code>int(&quot;42&quot;)</code></td><td>The integer 42.</td></tr>
 <tr><td>String to real</td><td><code>float(&quot;3.5&quot;)</code></td><td>The real value 3.5.</td></tr>
-<tr><td>Number to string</td><td><code>str(42)</code></td><td>The string <code>&quot;42&quot;</code>.</td></tr>
+<tr><td>Integer to string</td><td><code>str(42)</code></td><td>The string <code>&quot;42&quot;</code>.</td></tr>
+<tr><td>Real to string</td><td><code>str(3.5)</code></td><td>The string <code>&quot;3.5&quot;</code>.</td></tr>
 <tr><td>Character to code</td><td><code>ord(&quot;A&quot;)</code></td><td>The character code 65.</td></tr>
 <tr><td>Code to character</td><td><code>chr(65)</code></td><td>The character <code>&quot;A&quot;</code>.</td></tr>
 </table>
@@ -232,10 +234,6 @@ if die == 6:
 <li>A <strong>return value</strong> passes a result out.</li>
 <li>A <strong>local variable</strong> exists only while its subroutine runs and is accessible only there.</li>
 </ul>
-<pre class="code-block"><code class="language-python">def rectangle_area(width, height):
-    area = width * height       # local variable
-    return area
-</code></pre>
 <p>Advantages include reuse, less repeated code, easier testing, easier maintenance and clearer decomposition.</p>
 <p><strong>Structured programming</strong> builds a program from small modules with clear interfaces. Parameters, local variables and return values reduce unwanted dependence between modules.</p>
 <h3>Passing values in and returning a result</h3>
@@ -280,6 +278,21 @@ while age &lt; 11 or age &gt; 18:
 <p>Validation cannot prove that a plausible value is true. An entered score of 12 passes the range check even if the student&#x27;s actual score was 15.</p>
 <p>In the age example, <code>int</code> conversion happens before the range test. That example assumes numeric input; it does not handle someone typing <code>hello</code>. A robust solution must address the invalid inputs specified in its task, rather than claiming one range check handles every possible error.</p>
 <p>Authentication needs the supplied details to match the <strong>same account</strong>. If a username matches one record and a password matches another, that does not authenticate either user. Use <code>AND</code> when both matching credentials are required.</p>
+<h3>A simple authentication routine</h3>
+<pre class="code-block"><code class="language-python">username = input(&quot;Username: &quot;)
+password = input(&quot;Password: &quot;)
+if username == &quot;pupil1&quot; and password == &quot;maple17&quot;:
+    print(&quot;Access granted&quot;)
+else:
+    print(&quot;Access denied&quot;)
+</code></pre>
+<p>Both details must match this example account. A correct username with a wrong password is rejected. Checking only that the password is long enough would be validation, not authentication.</p>
+<h3>Repeating a length check</h3>
+<pre class="code-block"><code class="language-python">code = input(&quot;Enter at least eight characters: &quot;)
+while len(code) &lt; 8:
+    code = input(&quot;Too short. Enter at least eight characters: &quot;)
+</code></pre>
+<p>An empty string has length 0 and is rejected too. A string of exactly eight characters is accepted, because the rule is a minimum rather than a requirement for more than eight.</p>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>
 <table>

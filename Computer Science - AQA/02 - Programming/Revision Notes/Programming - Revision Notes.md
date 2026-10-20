@@ -22,6 +22,8 @@ A **data type** tells the computer what kind of value is stored and which operat
 
 Choose types carefully. A telephone number is usually a string because it is not used in arithmetic and may begin with zero.
 
+Some languages declare a variable's name and type before it is used. In Python, assignment creates the name when needed, and the value has a type. A named constant makes a fixed rule easier to understand and change consistently: updating `MAX_ATTEMPTS` is clearer than hunting for unexplained copies of a number throughout a program. Meaningful names also help someone follow and maintain the code.
+
 ### Choosing and updating values
 
 A numeric value such as `12` can be added to another number. The string `"12"` is text, so it must be converted before doing that calculation. A Boolean stores a truth value rather than the words `"True"` or `"False"`.
@@ -281,7 +283,8 @@ Use `text = "BIOLOGY"` in these examples:
 |---|---|---|
 | String to integer | `int("42")` | The integer 42. |
 | String to real | `float("3.5")` | The real value 3.5. |
-| Number to string | `str(42)` | The string `"42"`. |
+| Integer to string | `str(42)` | The string `"42"`. |
+| Real to string | `str(3.5)` | The string `"3.5"`. |
 | Character to code | `ord("A")` | The character code 65. |
 | Code to character | `chr(65)` | The character `"A"`. |
 
@@ -327,12 +330,6 @@ Python uses `def` for both styles of subroutine.
 - A **parameter** passes data into a subroutine.
 - A **return value** passes a result out.
 - A **local variable** exists only while its subroutine runs and is accessible only there.
-
-```python
-def rectangle_area(width, height):
-    area = width * height       # local variable
-    return area
-```
 
 Advantages include reuse, less repeated code, easier testing, easier maintenance and clearer decomposition.
 
@@ -397,6 +394,29 @@ Validation cannot prove that a plausible value is true. An entered score of 12 p
 In the age example, `int` conversion happens before the range test. That example assumes numeric input; it does not handle someone typing `hello`. A robust solution must address the invalid inputs specified in its task, rather than claiming one range check handles every possible error.
 
 Authentication needs the supplied details to match the **same account**. If a username matches one record and a password matches another, that does not authenticate either user. Use `AND` when both matching credentials are required.
+
+### A simple authentication routine
+
+```python
+username = input("Username: ")
+password = input("Password: ")
+if username == "pupil1" and password == "maple17":
+    print("Access granted")
+else:
+    print("Access denied")
+```
+
+Both details must match this example account. A correct username with a wrong password is rejected. Checking only that the password is long enough would be validation, not authentication.
+
+### Repeating a length check
+
+```python
+code = input("Enter at least eight characters: ")
+while len(code) < 8:
+    code = input("Too short. Enter at least eight characters: ")
+```
+
+An empty string has length 0 and is rejected too. A string of exactly eight characters is accepted, because the rule is a minimum rather than a requirement for more than eight.
 
 ## Testing and error types
 

@@ -11,7 +11,7 @@
   "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
   "coverage": [
     {
-      "section": "3.2.1–3.2.3 Types and control structures",
+      "section": "3.2.1–3.2.2 Types and control structures",
       "pmt_pages": [
         2,
         3,
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "section": "3.2.4–3.2.6 Operators and logic",
+      "section": "3.2.3–3.2.5 Operators and logic",
       "pmt_pages": [
         6,
         7,
@@ -50,7 +50,7 @@
       "decisions": []
     },
     {
-      "section": "3.2.7–3.2.10 Structured data, input and strings",
+      "section": "3.2.6–3.2.9 Structured data, input, strings and random values",
       "pmt_pages": [
         10,
         11,
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "section": "3.2.11–3.2.12 Subroutines and robust programs",
+      "section": "3.2.10–3.2.11 Subroutines and robust programs",
       "pmt_pages": [
         17,
         18,
@@ -92,7 +92,9 @@
         "Calls with multiple arguments and return values",
         "Scope and modularity explanations",
         "Matched-account authentication",
-        "Expected results for all boundary positions"
+        "Expected results for all boundary positions",
+        "Executable authentication routine with matching credentials",
+        "Length-validation loop including empty and endpoint input"
       ],
       "decisions": [
         "Return values need not be assigned. AQA boundary tests include values just outside the permitted range."
@@ -109,12 +111,13 @@
     "Validation and testing"
   ],
   "word_count_before": 1494,
-  "word_count_after": 3419,
+  "word_count_after": 3597,
   "verification": [
     "Original PDF SHA-256 unchanged",
     "All Python code blocks compile",
     "All reading groups checked at 1366, 390 and 320 pixels",
     "Images load, tables have consistent columns, source section hidden, no page overflow",
     "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
-  ]
+  ],
+  "code_verification": "All Python blocks executed with controlled inputs; selection boundaries, nested branches, loops, arrays, strings, subroutine returns, random bounds, authentication mismatches and validation endpoints checked."
 }
