@@ -49,6 +49,9 @@ Investigation and treatment are difficult because the brain is **complex and del
 
 ## Practical: reaction time
 
+
+![The ruler starts with zero level with the participant’s open thumb and finger. Record fall distance when caught and convert it to reaction time.](../Diagrams/ruler-drop-practical.svg)
+
 Test how a chosen factor affects reaction time using a ruler-drop method, for example quiet conditions versus a defined distraction.
 
 1. One person holds a ruler vertically with zero level with another person's thumb and finger, without touching it.
@@ -311,6 +314,9 @@ Plants use hormones to coordinate growth. **Auxin** is made in growing tips and 
 Think of one side of a flexible strip becoming longer: the strip bends towards the shorter side. Auxin is not a signal telling the whole plant to walk towards light; **unequal growth creates the curve**.
 
 ## Practical: seedling growth responses
+
+
+![Comparable seedlings receive one-sided or all-round light. The shoot bends towards one-sided light; record lengths and labelled drawings.](../Diagrams/seedling-light-practical.svg)
 
 Use newly germinated seedlings of the **same species and similar starting size**. Record both their growth and the direction in which they bend.
 

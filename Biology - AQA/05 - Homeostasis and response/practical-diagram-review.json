@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: reaction time",
+      "diagram": "Biology - AQA/05 - Homeostasis and response/Diagrams/ruler-drop-practical.svg",
+      "purpose": "The ruler starts with zero level with the participant’s open thumb and finger. Record fall distance when caught and convert it to reaction time."
+    },
+    {
+      "heading": "Practical: seedling growth responses",
+      "diagram": "Biology - AQA/05 - Homeostasis and response/Diagrams/seedling-light-practical.svg",
+      "purpose": "Comparable seedlings receive one-sided or all-round light. The shoot bends towards one-sided light; record lengths and labelled drawings."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
