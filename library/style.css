@@ -115,3 +115,39 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
 
 /* Keep comparison headings and protocol abbreviations readable on small screens. */
 @media screen and (max-width:720px){body.subject-computer-science .reading table{display:block;max-width:100%;overflow-x:auto;overscroll-behavior-x:contain}body.subject-computer-science .reading th,body.subject-computer-science .reading td{min-width:7rem;max-width:18rem;overflow-wrap:normal;word-break:normal}}
+
+/* Keep the current card and its controls together on a laptop or phone screen. */
+@media screen{
+ main:has(.flashcard-app){padding-top:18px;padding-bottom:18px}
+ main:has(.flashcard-app) .breadcrumbs{margin-bottom:12px}
+ main:has(.flashcard-app) .reader-tools{margin-bottom:12px}
+ main:has(.flashcard-app) footer{margin-top:16px;padding-top:10px}
+ .flashcard-heading{margin-bottom:10px}
+ .flashcard-heading h1{font-size:28px;line-height:1.2}
+ .flashcard-status{font-size:13px;margin-bottom:8px}
+ .flashcards-ready .flashcard-stage{height:var(--flashcard-height,clamp(180px,calc(100svh - 380px),320px));min-height:0}
+ .flashcards-ready .flashcard-item{height:100%;min-height:0;grid-template-rows:minmax(0,1fr);padding:20px 26px;overflow:auto;overscroll-behavior-y:contain}
+ .flashcards-ready .flashcard-front,.flashcards-ready .flashcard-back{min-height:0}
+ .flashcard-front{gap:10px}
+ .flashcard-front h2{font-size:24px;margin:6px auto}
+ .flashcard-prompt{font-size:12px;line-height:1.4}
+ .flashcard-category{max-width:100%;overflow-wrap:anywhere}
+ .flashcards-ready .flashcard-answer{display:flex;flex-direction:column;justify-content:safe center;align-items:stretch;flex:1 0 auto;overflow:visible;min-height:0;font-size:17px;line-height:1.45}
+ .flashcard-answer ul{flex-shrink:0;margin:8px auto;padding-left:22px}
+ .flashcard-answer li{margin:6px 0}
+ .flashcard-answer .code-block{flex-shrink:0}
+ .flashcard-controls{gap:10px;margin-top:10px}
+ .flashcard-controls button{min-height:40px;padding:5px 12px}
+ .flashcard-order-controls{gap:10px;margin-top:8px}
+ .flashcard-order-controls button{padding:4px 12px;font-size:12px}
+ .flashcard-keyboard-help{margin:8px 0 0;font-size:11px;line-height:1.4}
+}
+@media screen and (max-width:720px){
+ main:has(.flashcard-app){padding-top:14px;padding-bottom:14px}
+ .flashcard-heading h1{font-size:24px}
+ .flashcards-ready .flashcard-item{padding:16px}
+ .flashcard-front{gap:8px}
+ .flashcard-front h2{font-size:20px}
+ .flashcards-ready .flashcard-answer{font-size:16px}
+ .flashcard-side-label,.flashcard-category{font-size:11px;letter-spacing:0}
+}

@@ -12,6 +12,8 @@ document.querySelectorAll('[data-flashcard-deck]').forEach((app) => {
     card.setAttribute('aria-expanded', 'false');
     card.querySelector('.flashcard-back').hidden = true;
     card.querySelector('.flashcard-front').hidden = false;
+    card.scrollTop = 0;
+    card.querySelector('.flashcard-answer').scrollTop = 0;
   };
 
   const show = () => {
@@ -32,12 +34,14 @@ document.querySelectorAll('[data-flashcard-deck]').forEach((app) => {
     card.setAttribute('aria-expanded', String(revealed));
     card.querySelector('.flashcard-front').hidden = revealed;
     card.querySelector('.flashcard-back').hidden = !revealed;
+    card.scrollTop = 0;
+    card.querySelector('.flashcard-answer').scrollTop = 0;
   };
 
   const move = (amount) => {
     position = (position + amount + order.length) % order.length;
     show();
-    currentCard().focus();
+    currentCard().focus({ preventScroll: true });
   };
 
   const reset = () => {
@@ -72,7 +76,25 @@ document.querySelectorAll('[data-flashcard-deck]').forEach((app) => {
     if (event.key === 'ArrowRight') move(1);
   });
 
+  const fitToViewport = () => {
+    const stage = app.querySelector('.flashcard-stage');
+    const main = app.closest('main');
+    const footer = main.querySelector('footer');
+    const stageBounds = stage.getBoundingClientRect();
+    const bottom = (footer || app).getBoundingClientRect().bottom;
+    const padding = parseFloat(getComputedStyle(main).paddingBottom) || 0;
+    const viewportHeight = window.visualViewport?.height || window.innerHeight;
+    const spaceAfterCard = bottom - stageBounds.bottom + padding;
+    const available = viewportHeight - (stageBounds.top + window.scrollY) - spaceAfterCard - 4;
+    // Retain a usable scrollable card on unusually short screens.
+    app.style.setProperty('--flashcard-height', `${Math.max(150, Math.min(320, Math.floor(available)))}px`);
+  };
+
   app.classList.add('flashcards-ready');
   show();
-  currentCard().focus();
+  fitToViewport();
+  document.fonts?.ready.then(fitToViewport);
+  window.addEventListener('resize', fitToViewport);
+  window.visualViewport?.addEventListener('resize', fitToViewport);
+  currentCard().focus({ preventScroll: true });
 });
