@@ -8,5 +8,18 @@
   "main_headings_retained": true,
   "code_examples_retained": true,
   "diagrams_retained": true,
-  "verification": "All revision groups checked at 1366, 390 and 320 px; all tables render with consistent columns, loaded images and no page overflow."
+  "verification": "All revision groups checked at 1366, 390 and 320 px; all tables render with consistent columns, loaded images and no page overflow.",
+  "translator_comparison": {
+    "reviewed": "2026-10-20",
+    "criteria": [
+      "processing",
+      "machine-code output",
+      "error handling",
+      "running again",
+      "speed",
+      "suitable use"
+    ],
+    "source": "AQA 8525 specification for first exams 2027, section 3.4.4",
+    "assembler_explanation_retained": true
+  }
 }

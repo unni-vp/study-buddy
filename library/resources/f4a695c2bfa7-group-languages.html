@@ -15,10 +15,16 @@
 </table>
 <h2>Translators</h2>
 <p>Code written in a high-level or assembly language must be translated before the processor can execute it.</p>
+<h3>Interpreter and compiler</h3>
 <table>
-<tr><th>Translator</th><th>What it does</th><th>Typical use</th></tr>
-<tr><td>Compiler</td><td>Translates a whole high-level program into machine code and produces executable/object code</td><td>Distributing a finished program and running it repeatedly</td></tr>
-<tr><td>Interpreter</td><td>Reads high-level statements and calls suitable machine-code routines as the program runs; it does not directly create a machine-code program</td><td>Development, testing and interactive execution</td></tr>
-<tr><td>Assembler</td><td>Translates assembly language, normally one instruction to one machine-code instruction</td><td>Low-level and embedded code</td></tr>
+<tr><th>Feature</th><th>Interpreter</th><th>Compiler</th></tr>
+<tr><td><strong>How it works</strong></td><td>Processes high-level statements as the program runs.</td><td>Translates the whole high-level program before the compiled program runs.</td></tr>
+<tr><td><strong>Machine-code output</strong></td><td>Does <strong>not directly generate a machine-code program</strong>. It calls suitable machine-code routines to carry out statements.</td><td>Produces <strong>machine code</strong>, such as object code or an executable program.</td></tr>
+<tr><td><strong>Error handling</strong></td><td>Can stop at the first error encountered while executing a path, making that problem easier to investigate.</td><td>Reports translation errors during compilation. Correct them, then compile again.</td></tr>
+<tr><td><strong>Running again</strong></td><td>Needs the interpreter to carry out the statements each time the program runs.</td><td>Successfully compiled code can be reused without translating the source again. Users do not need the compiler to run it.</td></tr>
+<tr><td><strong>Speed</strong></td><td>Processing statements during execution usually makes it slower than equivalent compiled code.</td><td>Compilation takes time first, but the resulting machine-code program usually runs faster.</td></tr>
+<tr><td><strong>Suitable use</strong></td><td>Development, quick testing and interactive execution.</td><td>Distributing a finished program and running it repeatedly.</td></tr>
 </table>
-<p>A compiler can take time before the first run, but the translated program can run without translating each statement again. An interpreter can stop at the first encountered error and supports quick testing, but needs the interpreter when running.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-logic-software.html"><span>← Previous</span><strong>Logic and software</strong></a><a href="f4a695c2bfa7-group-architecture.html"><span>Next →</span><strong>CPU and memory</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Both need <strong>testing for logic errors</strong>. Successful translation or execution does not prove that the results are correct.</p>
+<h3>Assembler</h3>
+<p>An <strong>assembler</strong> translates assembly language into machine code, normally one assembly instruction to one machine-code instruction. It is used for low-level code, including embedded systems and direct hardware control.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-logic-software.html"><span>← Previous</span><strong>Logic and software</strong></a><a href="f4a695c2bfa7-group-architecture.html"><span>Next →</span><strong>CPU and memory</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

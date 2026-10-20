@@ -56,13 +56,22 @@ A high-level language expresses a problem in human-readable statements. Low-leve
 
 Code written in a high-level or assembly language must be translated before the processor can execute it.
 
-| Translator | What it does | Typical use |
-|---|---|---|
-| Compiler | Translates a whole high-level program into machine code and produces executable/object code | Distributing a finished program and running it repeatedly |
-| Interpreter | Reads high-level statements and calls suitable machine-code routines as the program runs; it does not directly create a machine-code program | Development, testing and interactive execution |
-| Assembler | Translates assembly language, normally one instruction to one machine-code instruction | Low-level and embedded code |
+### Interpreter and compiler
 
-A compiler can take time before the first run, but the translated program can run without translating each statement again. An interpreter can stop at the first encountered error and supports quick testing, but needs the interpreter when running.
+| Feature | Interpreter | Compiler |
+|---|---|---|
+| **How it works** | Processes high-level statements as the program runs. | Translates the whole high-level program before the compiled program runs. |
+| **Machine-code output** | Does **not directly generate a machine-code program**. It calls suitable machine-code routines to carry out statements. | Produces **machine code**, such as object code or an executable program. |
+| **Error handling** | Can stop at the first error encountered while executing a path, making that problem easier to investigate. | Reports translation errors during compilation. Correct them, then compile again. |
+| **Running again** | Needs the interpreter to carry out the statements each time the program runs. | Successfully compiled code can be reused without translating the source again. Users do not need the compiler to run it. |
+| **Speed** | Processing statements during execution usually makes it slower than equivalent compiled code. | Compilation takes time first, but the resulting machine-code program usually runs faster. |
+| **Suitable use** | Development, quick testing and interactive execution. | Distributing a finished program and running it repeatedly. |
+
+Both need **testing for logic errors**. Successful translation or execution does not prove that the results are correct.
+
+### Assembler
+
+An **assembler** translates assembly language into machine code, normally one assembly instruction to one machine-code instruction. It is used for low-level code, including embedded systems and direct hardware control.
 
 ## CPU components
 
