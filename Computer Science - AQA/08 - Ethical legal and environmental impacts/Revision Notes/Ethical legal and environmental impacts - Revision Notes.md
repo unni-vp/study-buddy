@@ -33,6 +33,16 @@ Important data-protection principles include:
 
 **Consent** is one possible lawful basis, not a requirement for every use of personal data. Clear choices and explanations still matter. Collecting less data reduces the damage if a breach happens.
 
+## Fair access and differing views
+
+A system can affect people who did not choose to use it. A wearable camera may record bystanders, and a vehicle's cameras may capture pedestrians. The benefits to the device owner do not remove other people's privacy concerns.
+
+People can also differ in what they consider acceptable monitoring or sharing. Do not assume that everyone in one country or community has the same attitude. Clear explanations, appropriate choices and consideration of people affected indirectly make a design more responsible.
+
+**Digital exclusion** occurs when people cannot use a service because of cost, poor connectivity, disability, limited skills or inaccessible design. Moving a service online may save time for connected users while making access harder for others. An accessible interface, training or a suitable alternative can reduce that harm.
+
+Legal duties and individual data rights have conditions and exceptions. Avoid claims such as “all data must always be deleted on request” or “consent is the only lawful basis”. For a scenario, explain the principle and the actual use of data rather than inventing an absolute rule.
+
 ## Security and surveillance
 
 **Cyber security** protects systems and data against attacks. A breach can interrupt essential services, expose private information or cost people money. Security controls also cost time and money, so organisations must choose measures that fit the risks.
@@ -55,6 +65,12 @@ Governments and security services may argue that access to communications helps 
 - **Safeguards:** lawful authorisation, independent oversight, restricted access, proportionate collection and limited retention.
 
 A balanced judgement asks whether access is **necessary and proportionate**. Saying either “collect everything” or “never access any data” ignores the trade-off.
+
+### Responsibility for protecting systems
+
+Organisations holding personal information need to protect it, while users also need to follow safe procedures. A breach can affect people whose records were stored, not just the organisation that owns the computer.
+
+Online attackers may conceal their identity or operate across borders, making investigation and enforcement difficult. Technology can also develop faster than detailed rules or organisational procedures are updated. These difficulties support careful security design and ongoing review; they do not make unauthorised access acceptable.
 
 ## Explaining and evaluating an impact
 
@@ -84,6 +100,10 @@ Phones and tablets let people use services while moving around.
 
 An employer giving staff a mobile device could improve communication. Expecting constant replies outside working hours may harm their wellbeing. Clear working-hour rules reduce this problem.
 
+An app's permissions should match the function the user expects. A navigation app may need location during a journey, but retaining continuous location history for unrelated purposes creates a different privacy issue. Explain the purpose, duration and possible sharing of collection instead of treating all location use as equally justified.
+
+Constant notifications can create pressure to remain available. Giving people control over notifications and setting clear expectations can preserve the benefit of mobile access without expecting uninterrupted attention.
+
 ## Wireless networking
 
 **Wireless networks** connect devices without a cable to each one. They allow movement and can be easier to extend in a building.
@@ -94,6 +114,10 @@ An employer giving staff a mobile device could improve communication. Expecting 
 - **Reliability:** interference, distance and obstacles can affect a connection.
 
 Wireless does **not automatically mean insecure**. Explain the network's actual safeguards. An organisation should also consider who can afford equipment and who can reach the network.
+
+On public Wi-Fi, a user may not know who operates the access point. A convincing network name alone does not prove that it belongs to the intended organisation. Secure applications and protected connections reduce exposure, while the operator still needs to configure and maintain the network appropriately.
+
+The convenience of wireless access should be weighed against reliability and accessibility needs. A service that requires continuous connectivity may disadvantage users in places with weak coverage.
 
 ## Cloud storage
 
@@ -109,6 +133,10 @@ Security is a **shared responsibility**. A provider's secure servers do not fix 
 
 Storing data abroad is not automatically illegal. Organisations must meet the applicable data-protection rules and safeguards.
 
+A provider outage or closure can interrupt access even when the user's own device is working. A suitable recovery plan includes an accessible copy and a way to move important files to another service, rather than assuming continued access is guaranteed.
+
+Organisations should understand the provider's access, retention and data-handling arrangements. Storing data remotely does not automatically transfer ownership to the provider or give it unlimited permission to sell the information. The issue is what the relevant agreement and rules allow, and whether users understand the arrangement.
+
 ## Wearable technologies
 
 Wearables are devices worn on the body, such as smartwatches and fitness trackers.
@@ -121,6 +149,10 @@ Wearables are devices worn on the body, such as smartwatches and fitness tracker
 
 Explain who sees the data and why. Limiting collection, offering meaningful choice and preventing unrelated use help protect users. A fitness reading should not be treated as a complete medical assessment.
 
+A wearable camera raises a different issue from a step counter: it can collect information about people nearby. A health tracker may instead expose sensitive readings if shared with an employer or insurer. Identify the data and the affected person before judging the impact.
+
+A choice may not feel voluntary when refusing to share information could disadvantage an employee. Limiting collection and preventing unrelated decisions based on the data can address this pressure more directly than simply adding a password.
+
 ## Computer-based implants
 
 A **computer-based implant** is a device placed inside the body that uses computing to perform a function. For example, a device may help manage a heart rhythm or support hearing.
@@ -132,6 +164,10 @@ A **computer-based implant** is a device placed inside the body that uses comput
 - **Fair access:** cost could mean that some people cannot obtain a useful device.
 
 Not every implant connects to the internet. Discuss cyber risks **when the device's connection makes them relevant**, rather than assuming all implants work identically.
+
+The person receiving an implant needs understandable information about its benefits, risks, ongoing support and any data collection. Pressure to accept a device raises questions about meaningful choice, even when it could have a health benefit.
+
+Responsibility can involve designers, manufacturers, healthcare providers and maintainers. A discussion should ask how the failure occurred and what safeguards were in place, rather than assume that every problem is automatically one person's fault.
 
 ## Autonomous vehicles
 
@@ -146,6 +182,10 @@ An **autonomous vehicle** uses sensors and software to carry out driving tasks w
 
 Testing, clear operating limits and secure software are important. Do not claim that autonomous vehicles cannot crash or that one party is always legally responsible.
 
+Difficult situations may require software to make decisions that affect passengers and other road users. There may be competing ideas about which risks are acceptable. Transparent safety requirements, testing and accountability matter because the consequences extend beyond the purchaser.
+
+A security flaw could also expose journey data or affect connected vehicle functions. The relevant risk depends on the actual system and access available. Explain the possible consequence and a suitable safeguard without assuming that every vehicle can be remotely controlled in the same way.
+
 ## Environmental impacts across a device lifecycle
 
 Consider the whole **lifecycle**, not just electricity used while a device is switched on.
@@ -159,6 +199,14 @@ Consider the whole **lifecycle**, not just electricity used while a device is sw
 
 A new, efficient device is not automatically the greener choice. Compare the energy saved with the resources needed to manufacture its replacement.
 
+### Balancing environmental gains and costs
+
+Electronic messages can reduce paper use, and remote meetings can reduce some journeys. These benefits still require devices, networks and data centres, so “digital” does not mean “no environmental cost”.
+
+Manufacturing uses finite materials as well as energy. Repair, reuse and longer support can reduce the demand for replacement devices. Recycling can recover useful materials and reduce harmful waste, but it also takes processing and does not recover everything.
+
+Compare the whole lifecycle in the stated situation. Keeping a working device for longer may avoid manufacturing impacts, while an unusually inefficient device used heavily may justify replacement. A reasoned answer explains the balance rather than claiming either choice is always greener.
+
 ## A worked balanced judgement
 
 **Situation:** a school wants pupils to use wearable activity trackers with cloud storage.
@@ -168,3 +216,8 @@ The trackers could help pupils set activity goals because they make patterns in 
 The school should collect only the data needed for its stated purpose, use an appropriate lawful basis and explain access clearly. Restricted accounts and limited retention would reduce exposure, although they would not remove every breach risk. An alternative should be available for pupils unable to use a tracker. Reusing equipment and supporting it for longer would reduce replacement waste.
 
 The scheme is more defensible if participation and access arrangements are fair and data collection is limited. Its convenience alone does not justify unrestricted monitoring.
+
+## Sources
+
+- [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
+- [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).

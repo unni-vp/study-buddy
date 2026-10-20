@@ -1,0 +1,98 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/8-Ethical-Legal-and-Environmental-Impacts-of-Digital-Technology-on-Wider-Society/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 6,
+  "sha256": "52f66b10511a868404818aa0d907e31b408cbca373bd8b79e46078ce3e490bbd",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.8 General principles and privacy",
+      "pmt_pages": [
+        2,
+        3,
+        4
+      ],
+      "note_headings": [
+        "Ethical, legal and environmental questions",
+        "Privacy and personal data",
+        "Fair access and differing views",
+        "Security and surveillance",
+        "Explaining and evaluating an impact"
+      ],
+      "added_or_developed": [
+        "Stakeholders who do not use the device",
+        "Digital exclusion and differing expectations",
+        "Conditional legal rights",
+        "Investigation and rule-making difficulties"
+      ],
+      "decisions": [
+        "Detailed statutory offences and legal tests in the PDF are not added as compulsory material: AQA requires general principles. No blanket cultural assumptions or unconditional erasure right imported. Existing lawful-basis qualifications retained."
+      ]
+    },
+    {
+      "section": "3.8 All named technology contexts",
+      "pmt_pages": [
+        4,
+        5,
+        6
+      ],
+      "note_headings": [
+        "Mobile technologies",
+        "Wireless networking",
+        "Cloud storage",
+        "Wearable technologies",
+        "Computer-based implants",
+        "Autonomous vehicles"
+      ],
+      "added_or_developed": [
+        "Purpose/duration of location tracking",
+        "Unknown public-network operator",
+        "Cloud continuity and access arrangements",
+        "Bystander recording and pressured health-data sharing",
+        "Informed implant choice and responsibility",
+        "Vehicle safety trade-offs and cybersecurity"
+      ],
+      "decisions": [
+        "Cloud ownership is not automatically transferred. No blanket claims about legal liability, medical outcomes or remote control."
+      ]
+    },
+    {
+      "section": "3.8 Environmental impacts",
+      "pmt_pages": [
+        4
+      ],
+      "note_headings": [
+        "Environmental impacts across a device lifecycle",
+        "A worked balanced judgement"
+      ],
+      "added_or_developed": [
+        "Digital-service benefits and infrastructure costs",
+        "Finite materials, repair/reuse and recycling limits",
+        "Lifecycle-based comparison and judgement"
+      ],
+      "decisions": [
+        "Existing manufacturing/use/end-of-life table retained; no claim that every digital substitution is greener."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Privacy, law and evaluation",
+    "Connected devices and services",
+    "Implants and autonomous vehicles",
+    "Environment and a worked judgement"
+  ],
+  "word_count_before": 1799,
+  "word_count_after": 2682,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

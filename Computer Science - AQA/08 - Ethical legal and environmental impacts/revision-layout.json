@@ -14,6 +14,9 @@
           "heading": "Privacy and personal data"
         },
         {
+          "heading": "Fair access and differing views"
+        },
+        {
           "heading": "Security and surveillance"
         },
         {
@@ -43,16 +46,24 @@
     },
     {
       "id": "systems",
-      "title": "Implants, vehicles and the environment",
-      "description": "Compare benefits, risks and conditions for responsible use.",
+      "title": "Implants and autonomous vehicles",
       "icon": "computer-test",
+      "description": "Consider safety, responsibility, choice and privacy.",
       "sections": [
         {
           "heading": "Computer-based implants"
         },
         {
           "heading": "Autonomous vehicles"
-        },
+        }
+      ]
+    },
+    {
+      "id": "environment",
+      "title": "Environment and a worked judgement",
+      "icon": "computer-storage",
+      "description": "Consider lifecycle impacts and build a balanced conclusion.",
+      "sections": [
         {
           "heading": "Environmental impacts across a device lifecycle"
         },
