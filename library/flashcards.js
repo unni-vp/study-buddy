@@ -74,4 +74,5 @@ document.querySelectorAll('[data-flashcard-deck]').forEach((app) => {
 
   app.classList.add('flashcards-ready');
   show();
+  currentCard().focus();
 });
