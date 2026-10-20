@@ -21,8 +21,11 @@ For a circuit with several gates, calculate intermediate outputs one gate at a t
 
 ## System and application software
 
-- **System software** manages computer resources and provides a platform for applications.
-- **Application software** performs end-user tasks, such as word processing or image editing.
+| Software | Main purpose | Examples |
+|---|---|---|
+| **System software** | Manages computer resources and provides a platform for applications. | Operating system, device drivers and utility programs. |
+| **Application software** | Performs tasks for the end user. | Word processor or image editor. |
+
 
 An **operating system** manages:
 
@@ -36,19 +39,18 @@ An **operating system** manages:
 
 ## High-level and low-level languages
 
-### High-level languages
+A high-level language expresses a problem in human-readable statements. Low-level languages work much closer to a processor’s instructions.
 
-- Use human-readable statements and abstractions.
-- Usually portable between processor types after suitable translation.
-- Faster to write, test and maintain.
-- Give less direct control over hardware.
+- **Machine code** is binary that a particular processor instruction set executes directly.
+- **Assembly language** uses mnemonics, with roughly one assembly instruction for one machine-code instruction.
 
-### Low-level languages
-
-- **Machine code** is binary executed directly by a particular processor instruction set.
-- **Assembly language** uses mnemonics and has roughly a one-to-one relationship with machine-code instructions.
-- Low-level programs can give close hardware control and may be efficient, but are harder to create and are processor-specific.
-- Assembly is useful for embedded systems or direct hardware control.
+| Feature | High-level language | Low-level language |
+|---|---|---|
+| Readability | Human-readable statements and abstractions. | Machine code uses binary; assembly uses mnemonics close to machine instructions. |
+| Development | Usually quicker to write, test and maintain. | Usually harder to create and maintain. |
+| Portability | Usually portable between processor types after suitable translation. | Processor-specific instructions limit portability. |
+| Hardware control | Less direct control over hardware. | Close control can be useful in embedded systems. |
+| Efficiency | Convenient abstractions may add overhead. | Can be carefully tailored for efficient hardware use, but this is not automatic. |
 
 ## Translators
 
@@ -86,9 +88,12 @@ The clock keeps operations in step, while buses carry instructions, data and con
 
 ## CPU performance
 
-- Higher **clock speed** allows more clock cycles per second, but heat and architecture limit the benefit.
-- More **processor cores** allow more instructions or tasks to be processed at the same time when software can use them.
-- Larger **cache** keeps more frequently used instructions and data close to the CPU, reducing slower main-memory access.
+| CPU change | Why it can improve performance | What limits the benefit? |
+|---|---|---|
+| Higher **clock speed** | More clock cycles each second. | Heat, architecture and other bottlenecks. |
+| More **cores** | More instructions or tasks can be processed at the same time. | Software must be able to use the additional cores. |
+| Larger **cache** | More frequently used data and instructions can be kept close to the CPU. | The benefit depends on how much slower main-memory access is avoided. |
+
 
 Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.
 
@@ -107,27 +112,42 @@ Main memory is directly accessible by the CPU, apart from cache and registers wh
 
 ## Secondary and cloud storage
 
-Secondary storage is needed for long-term storage of programs and data.
+Secondary storage keeps programs and data for the long term. Both magnetic and solid-state storage are **non-volatile**.
 
-### Magnetic storage
+### Magnetic and solid-state storage
 
-Stores data by magnetising areas of a surface, usually with moving parts. It often offers high capacity at low cost but is slower and more vulnerable to shock.
+| Feature | Magnetic storage | Solid-state storage |
+|---|---|---|
+| How data is stored | Magnetises areas of a surface. | Uses electronic circuits. |
+| Moving parts | Usually has moving parts. | No moving parts; quiet in operation. |
+| Performance | Often slower to access data. | Usually faster and energy-efficient. |
+| Physical durability | Moving parts can make it more vulnerable to shock. | Often more durable when a device is moved or knocked. |
+| Cost and limits | Often high capacity at low cost per gigabyte. | Often costs more per gigabyte and has limited write endurance. |
 
-### Solid-state storage
 
-Uses electronic circuits with no moving parts. It is fast, quiet, durable and energy-efficient, but often costs more per gigabyte and has limited write endurance.
+### Local and cloud storage
 
-### Cloud storage
+Cloud storage uses **remote servers**, which contain magnetic and/or solid-state devices. Cloud is a location and service arrangement, rather than a third physical storage technology.
 
-Stores data on remote servers that use magnetic and/or solid-state storage.
-
-Advantages include access from different locations, sharing, off-site backup and scalable capacity. Disadvantages include dependence on internet access and the provider, ongoing costs, privacy/security concerns and slower transfer for large files.
+| Feature | Local storage | Cloud storage |
+|---|---|---|
+| Location | On a device or storage system at the user’s site. | On remote servers managed through a provider. |
+| Access | Local files can be used without an internet connection. | Usually depends on a network/internet connection and the provider’s service. |
+| Sharing | Users must arrange access or transfer copies. | Supports access from different locations, sharing and collaboration. |
+| Capacity and cost | Capacity is limited by owned equipment; expansion may need new hardware. | Capacity can scale, but subscriptions or other ongoing costs may apply. |
+| Backup and control | Users organise backups and protect their equipment. | Off-site copies can help recovery, but backup arrangements and permissions still matter. |
+| Limitations | Loss, damage or theft at the site can affect local copies. | Outages, privacy/security concerns and slow transfers of large files can affect use. |
 
 ## Embedded systems
 
 An **embedded system** is a computer built into a larger device to perform a dedicated or limited set of functions.
 
-Examples include a washing-machine controller, car engine-control unit and smart thermostat. A general-purpose laptop runs many user-selected applications, while an embedded system is designed around its specific job, often with limited memory, power and processing.
+| Feature | Embedded system | General-purpose computer |
+|---|---|---|
+| Purpose | Built into a larger device for a dedicated or limited set of functions. | Designed to run many user-selected applications. |
+| Resources | Memory, power and processing are chosen around its specific job and may be limited. | Resources support a wider range of tasks. |
+| Examples | Washing-machine controller, car engine-control unit or smart thermostat. | Laptop used for writing, programming and browsing. |
+
 
 ## Sources
 

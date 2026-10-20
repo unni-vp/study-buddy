@@ -19,11 +19,12 @@
 </ol>
 <p>The clock keeps operations in step, while buses carry instructions, data and control signals.</p>
 <h2>CPU performance</h2>
-<ul>
-<li>Higher <strong>clock speed</strong> allows more clock cycles per second, but heat and architecture limit the benefit.</li>
-<li>More <strong>processor cores</strong> allow more instructions or tasks to be processed at the same time when software can use them.</li>
-<li>Larger <strong>cache</strong> keeps more frequently used instructions and data close to the CPU, reducing slower main-memory access.</li>
-</ul>
+<table>
+<tr><th>CPU change</th><th>Why it can improve performance</th><th>What limits the benefit?</th></tr>
+<tr><td>Higher <strong>clock speed</strong></td><td>More clock cycles each second.</td><td>Heat, architecture and other bottlenecks.</td></tr>
+<tr><td>More <strong>cores</strong></td><td>More instructions or tasks can be processed at the same time.</td><td>Software must be able to use the additional cores.</td></tr>
+<tr><td>Larger <strong>cache</strong></td><td>More frequently used data and instructions can be kept close to the CPU.</td><td>The benefit depends on how much slower main-memory access is avoided.</td></tr>
+</table>
 <p>Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.</p>
 <h2>Memory types</h2>
 <table>

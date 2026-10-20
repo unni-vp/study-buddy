@@ -16,10 +16,11 @@
 <p><code>NOT</code> reverses one input. <code>XOR</code> is true when the two inputs are <strong>different</strong>.</p>
 <p>For a circuit with several gates, calculate intermediate outputs one gate at a time. AQA notation may use <code>.</code> for AND, <code>+</code> for OR, <code>⊕</code> for XOR and an overbar for NOT.</p>
 <h2>System and application software</h2>
-<ul>
-<li><strong>System software</strong> manages computer resources and provides a platform for applications.</li>
-<li><strong>Application software</strong> performs end-user tasks, such as word processing or image editing.</li>
-</ul>
+<table>
+<tr><th>Software</th><th>Main purpose</th><th>Examples</th></tr>
+<tr><td><strong>System software</strong></td><td>Manages computer resources and provides a platform for applications.</td><td>Operating system, device drivers and utility programs.</td></tr>
+<tr><td><strong>Application software</strong></td><td>Performs tasks for the end user.</td><td>Word processor or image editor.</td></tr>
+</table>
 <p>An <strong>operating system</strong> manages:</p>
 <ul>
 <li>processors and scheduling</li>
@@ -30,20 +31,19 @@
 </ul>
 <p><strong>Utility software</strong> maintains, protects or configures a system. Examples include backup tools, anti-malware software, compression tools and disk-management utilities.</p>
 <h2>High-level and low-level languages</h2>
-<h3>High-level languages</h3>
+<p>A high-level language expresses a problem in human-readable statements. Low-level languages work much closer to a processor’s instructions.</p>
 <ul>
-<li>Use human-readable statements and abstractions.</li>
-<li>Usually portable between processor types after suitable translation.</li>
-<li>Faster to write, test and maintain.</li>
-<li>Give less direct control over hardware.</li>
+<li><strong>Machine code</strong> is binary that a particular processor instruction set executes directly.</li>
+<li><strong>Assembly language</strong> uses mnemonics, with roughly one assembly instruction for one machine-code instruction.</li>
 </ul>
-<h3>Low-level languages</h3>
-<ul>
-<li><strong>Machine code</strong> is binary executed directly by a particular processor instruction set.</li>
-<li><strong>Assembly language</strong> uses mnemonics and has roughly a one-to-one relationship with machine-code instructions.</li>
-<li>Low-level programs can give close hardware control and may be efficient, but are harder to create and are processor-specific.</li>
-<li>Assembly is useful for embedded systems or direct hardware control.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>High-level language</th><th>Low-level language</th></tr>
+<tr><td>Readability</td><td>Human-readable statements and abstractions.</td><td>Machine code uses binary; assembly uses mnemonics close to machine instructions.</td></tr>
+<tr><td>Development</td><td>Usually quicker to write, test and maintain.</td><td>Usually harder to create and maintain.</td></tr>
+<tr><td>Portability</td><td>Usually portable between processor types after suitable translation.</td><td>Processor-specific instructions limit portability.</td></tr>
+<tr><td>Hardware control</td><td>Less direct control over hardware.</td><td>Close control can be useful in embedded systems.</td></tr>
+<tr><td>Efficiency</td><td>Convenient abstractions may add overhead.</td><td>Can be carefully tailored for efficient hardware use, but this is not automatic.</td></tr>
+</table>
 <h2>Translators</h2>
 <p>Code written in a high-level or assembly language must be translated before the processor can execute it.</p>
 <table>
@@ -73,11 +73,12 @@
 </ol>
 <p>The clock keeps operations in step, while buses carry instructions, data and control signals.</p>
 <h2>CPU performance</h2>
-<ul>
-<li>Higher <strong>clock speed</strong> allows more clock cycles per second, but heat and architecture limit the benefit.</li>
-<li>More <strong>processor cores</strong> allow more instructions or tasks to be processed at the same time when software can use them.</li>
-<li>Larger <strong>cache</strong> keeps more frequently used instructions and data close to the CPU, reducing slower main-memory access.</li>
-</ul>
+<table>
+<tr><th>CPU change</th><th>Why it can improve performance</th><th>What limits the benefit?</th></tr>
+<tr><td>Higher <strong>clock speed</strong></td><td>More clock cycles each second.</td><td>Heat, architecture and other bottlenecks.</td></tr>
+<tr><td>More <strong>cores</strong></td><td>More instructions or tasks can be processed at the same time.</td><td>Software must be able to use the additional cores.</td></tr>
+<tr><td>Larger <strong>cache</strong></td><td>More frequently used data and instructions can be kept close to the CPU.</td><td>The benefit depends on how much slower main-memory access is avoided.</td></tr>
+</table>
 <p>Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.</p>
 <h2>Memory types</h2>
 <table>
@@ -90,17 +91,35 @@
 <p><strong>Volatile</strong> memory loses its contents without power. <strong>Non-volatile</strong> memory keeps them.</p>
 <p>Main memory is directly accessible by the CPU, apart from cache and registers which are treated separately here. Secondary storage is non-volatile and not directly accessed by the CPU.</p>
 <h2>Secondary and cloud storage</h2>
-<p>Secondary storage is needed for long-term storage of programs and data.</p>
-<h3>Magnetic storage</h3>
-<p>Stores data by magnetising areas of a surface, usually with moving parts. It often offers high capacity at low cost but is slower and more vulnerable to shock.</p>
-<h3>Solid-state storage</h3>
-<p>Uses electronic circuits with no moving parts. It is fast, quiet, durable and energy-efficient, but often costs more per gigabyte and has limited write endurance.</p>
-<h3>Cloud storage</h3>
-<p>Stores data on remote servers that use magnetic and/or solid-state storage.</p>
-<p>Advantages include access from different locations, sharing, off-site backup and scalable capacity. Disadvantages include dependence on internet access and the provider, ongoing costs, privacy/security concerns and slower transfer for large files.</p>
+<p>Secondary storage keeps programs and data for the long term. Both magnetic and solid-state storage are <strong>non-volatile</strong>.</p>
+<h3>Magnetic and solid-state storage</h3>
+<table>
+<tr><th>Feature</th><th>Magnetic storage</th><th>Solid-state storage</th></tr>
+<tr><td>How data is stored</td><td>Magnetises areas of a surface.</td><td>Uses electronic circuits.</td></tr>
+<tr><td>Moving parts</td><td>Usually has moving parts.</td><td>No moving parts; quiet in operation.</td></tr>
+<tr><td>Performance</td><td>Often slower to access data.</td><td>Usually faster and energy-efficient.</td></tr>
+<tr><td>Physical durability</td><td>Moving parts can make it more vulnerable to shock.</td><td>Often more durable when a device is moved or knocked.</td></tr>
+<tr><td>Cost and limits</td><td>Often high capacity at low cost per gigabyte.</td><td>Often costs more per gigabyte and has limited write endurance.</td></tr>
+</table>
+<h3>Local and cloud storage</h3>
+<p>Cloud storage uses <strong>remote servers</strong>, which contain magnetic and/or solid-state devices. Cloud is a location and service arrangement, rather than a third physical storage technology.</p>
+<table>
+<tr><th>Feature</th><th>Local storage</th><th>Cloud storage</th></tr>
+<tr><td>Location</td><td>On a device or storage system at the user’s site.</td><td>On remote servers managed through a provider.</td></tr>
+<tr><td>Access</td><td>Local files can be used without an internet connection.</td><td>Usually depends on a network/internet connection and the provider’s service.</td></tr>
+<tr><td>Sharing</td><td>Users must arrange access or transfer copies.</td><td>Supports access from different locations, sharing and collaboration.</td></tr>
+<tr><td>Capacity and cost</td><td>Capacity is limited by owned equipment; expansion may need new hardware.</td><td>Capacity can scale, but subscriptions or other ongoing costs may apply.</td></tr>
+<tr><td>Backup and control</td><td>Users organise backups and protect their equipment.</td><td>Off-site copies can help recovery, but backup arrangements and permissions still matter.</td></tr>
+<tr><td>Limitations</td><td>Loss, damage or theft at the site can affect local copies.</td><td>Outages, privacy/security concerns and slow transfers of large files can affect use.</td></tr>
+</table>
 <h2>Embedded systems</h2>
 <p>An <strong>embedded system</strong> is a computer built into a larger device to perform a dedicated or limited set of functions.</p>
-<p>Examples include a washing-machine controller, car engine-control unit and smart thermostat. A general-purpose laptop runs many user-selected applications, while an embedded system is designed around its specific job, often with limited memory, power and processing.</p>
+<table>
+<tr><th>Feature</th><th>Embedded system</th><th>General-purpose computer</th></tr>
+<tr><td>Purpose</td><td>Built into a larger device for a dedicated or limited set of functions.</td><td>Designed to run many user-selected applications.</td></tr>
+<tr><td>Resources</td><td>Memory, power and processing are chosen around its specific job and may be limited.</td><td>Resources support a wider range of tasks.</td></tr>
+<tr><td>Examples</td><td>Washing-machine controller, car engine-control unit or smart thermostat.</td><td>Laptop used for writing, programming and browsing.</td></tr>
+</table>
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>
 <li>AQA GCSE Computer Science 8525 specification, section 3.4.</li>

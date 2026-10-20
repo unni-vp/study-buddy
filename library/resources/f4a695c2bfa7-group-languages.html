@@ -1,19 +1,18 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Languages and translators · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Computer systems</a><span aria-hidden="true"> / </span><a href="f4a695c2bfa7.html">Revision notes</a></nav><div class="reader-tools"><a href="f4a695c2bfa7.html">← All revision notes</a></div><article class="reading section-reading"><h1>Languages and translators</h1>
 <h2>High-level and low-level languages</h2>
-<h3>High-level languages</h3>
+<p>A high-level language expresses a problem in human-readable statements. Low-level languages work much closer to a processor’s instructions.</p>
 <ul>
-<li>Use human-readable statements and abstractions.</li>
-<li>Usually portable between processor types after suitable translation.</li>
-<li>Faster to write, test and maintain.</li>
-<li>Give less direct control over hardware.</li>
+<li><strong>Machine code</strong> is binary that a particular processor instruction set executes directly.</li>
+<li><strong>Assembly language</strong> uses mnemonics, with roughly one assembly instruction for one machine-code instruction.</li>
 </ul>
-<h3>Low-level languages</h3>
-<ul>
-<li><strong>Machine code</strong> is binary executed directly by a particular processor instruction set.</li>
-<li><strong>Assembly language</strong> uses mnemonics and has roughly a one-to-one relationship with machine-code instructions.</li>
-<li>Low-level programs can give close hardware control and may be efficient, but are harder to create and are processor-specific.</li>
-<li>Assembly is useful for embedded systems or direct hardware control.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>High-level language</th><th>Low-level language</th></tr>
+<tr><td>Readability</td><td>Human-readable statements and abstractions.</td><td>Machine code uses binary; assembly uses mnemonics close to machine instructions.</td></tr>
+<tr><td>Development</td><td>Usually quicker to write, test and maintain.</td><td>Usually harder to create and maintain.</td></tr>
+<tr><td>Portability</td><td>Usually portable between processor types after suitable translation.</td><td>Processor-specific instructions limit portability.</td></tr>
+<tr><td>Hardware control</td><td>Less direct control over hardware.</td><td>Close control can be useful in embedded systems.</td></tr>
+<tr><td>Efficiency</td><td>Convenient abstractions may add overhead.</td><td>Can be carefully tailored for efficient hardware use, but this is not automatic.</td></tr>
+</table>
 <h2>Translators</h2>
 <p>Code written in a high-level or assembly language must be translated before the processor can execute it.</p>
 <table>
