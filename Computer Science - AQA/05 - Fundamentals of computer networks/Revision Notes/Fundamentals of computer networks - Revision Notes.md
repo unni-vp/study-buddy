@@ -54,14 +54,14 @@ Choose a connection for the situation: fixed high-demand devices may benefit fro
 
 A **network protocol** is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.
 
-| Protocol | Purpose |
-|---|---|
-| TCP | Sets up reliable communication, divides data into packets and supports checking/reassembly |
-| IP | Addresses and routes packets between networks |
-| HTTP | Transfers web pages and related web data |
-| HTTPS | Encrypted, authenticated version of HTTP for more secure web communication |
-| SMTP | Sends email from a client to a server and between mail servers |
-| IMAP | Accesses and manages email kept on a mail server, synchronising folders and status |
+| Protocol | Full name | Purpose |
+|---|---|---|
+| TCP | Transmission Control Protocol | Sets up reliable communication, divides data into packets and supports checking/reassembly |
+| IP | Internet Protocol | Addresses and routes packets between networks |
+| HTTP | Hypertext Transfer Protocol | Transfers web pages and related web data |
+| HTTPS | Hypertext Transfer Protocol Secure | Encrypted, authenticated version of HTTP for more secure web communication |
+| SMTP | Simple Mail Transfer Protocol | Sends email from a client to a server and between mail servers |
+| IMAP | Internet Message Access Protocol | Accesses and manages email kept on a mail server, synchronising folders and status |
 
 Do not write that HTTPS makes a website completely safe. It protects data in transit and helps authenticate the connection; the site or user's device could still be harmful or compromised.
 
