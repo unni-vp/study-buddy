@@ -6,9 +6,12 @@ Digital technology can make life easier while creating problems for other people
 
 Think of a new road. It might shorten journeys, but disturb nearby homes and use resources. A digital system also has consequences beyond the person using it.
 
-- **Ethical:** is an action fair or responsible? A company might use employee location data in a way that workers find intrusive.
-- **Legal:** does the action meet the law? Unauthorised access to a computer can be a criminal offence.
-- **Environmental:** how does it affect energy use, resources, waste and pollution? Making and running devices both have impacts.
+| Perspective | Question to ask | Example |
+|---|---|---|
+| **Ethical** | Is the action fair and responsible? | Employee location tracking may feel intrusive. |
+| **Legal** | Does the action meet the law? | Unauthorised access to a computer can be a criminal offence. |
+| **Environmental** | How are energy, resources, waste and pollution affected? | Both manufacturing and running a device have impacts. |
+
 
 An action can be **legal but still raise ethical concerns**. One decision may involve all three kinds of issue.
 
@@ -33,6 +36,13 @@ Important data-protection principles include:
 ## Security and surveillance
 
 **Cyber security** protects systems and data against attacks. A breach can interrupt essential services, expose private information or cost people money. Security controls also cost time and money, so organisations must choose measures that fit the risks.
+
+| Feature | Privacy | Security |
+|---|---|---|
+| Main concern | Access to and use of a person’s private life and information. | Protection against unauthorised access, attacks, loss or unwanted changes. |
+| Example concern | A service collects more location history than its purpose needs. | An attacker steals the stored location history. |
+| How they connect | Collecting less data can reduce the information exposed by a breach. | Strong protection helps keep private records safe, but does not justify unnecessary collection. |
+
 
 **Hacking** in this context means **unauthorised access**. Accessing a system without permission can breach the Computer Misuse Act, even if the person claims they were only curious. **Authorised penetration testing**, within an agreed scope, helps find weaknesses.
 
@@ -140,27 +150,12 @@ Testing, clear operating limits and secure software are important. Do not claim 
 
 Consider the whole **lifecycle**, not just electricity used while a device is switched on.
 
-### Manufacture
+| Lifecycle stage | Possible impact | Ways to reduce it |
+|---|---|---|
+| **Manufacture and transport** | Mining materials can damage habitats and cause pollution. Manufacturing and transport use energy and may release greenhouse gases. | Use working devices for longer; choose repairable designs and longer software support to reduce repeated replacement. |
+| **Use** | Devices, networks and data centres use electricity. Cooling also uses resources and may use water. | Improve energy efficiency and use lower-carbon electricity. Online meetings can reduce travel, but their equipment still has impacts. |
+| **End of life** | Electronic waste contains valuable materials and may contain harmful substances. Poor disposal can pollute soil and water. | Repair, reuse and recycle appropriately. Securely remove personal data before passing on or recycling a device. |
 
-- Mining obtains metals and other materials; this can damage habitats and cause pollution.
-- Manufacturing and transport use energy and may release greenhouse gases.
-- Replacing a working device frequently repeats these impacts.
-
-### Use
-
-- Devices, networks and data centres use electricity.
-- Data centres also need cooling, which uses resources and may use water.
-- Online meetings can reduce travel, but their equipment and networks still have impacts.
-
-### End of life
-
-- **Electronic waste** can contain harmful substances and valuable materials.
-- Poor disposal can pollute soil and water.
-- Repair, reuse and suitable recycling reduce waste and recover resources.
-
-### Reducing the impact
-
-Use devices for longer, make them repairable, provide longer software support, improve energy efficiency and use lower-carbon electricity. Securely remove personal data before reusing or recycling a device.
 
 A new, efficient device is not automatically the greener choice. Compare the energy saved with the resources needed to manufacture its replacement.
 
