@@ -82,6 +82,9 @@ This assumes that the sampled areas represent the habitat. More well-spread samp
 
 ## Transects: investigating distribution
 
+
+![Quadrats placed at regular distances along a transect sample an environmental gradient. Record abundance and the environmental factor at each site.](../Diagrams/transect-practical.svg)
+
 A **transect** is a line across a habitat, for example from shade into open grassland. Place quadrats at **regular intervals**, then record abundance and a relevant factor such as light intensity at each site.
 
 - Same quadrat size, species identification and counting rule.
@@ -131,6 +134,9 @@ Decay depends on microorganisms and their enzymes:
 Turning a compost heap adds oxygen. This is a different aim from operating an anaerobic digester.
 
 ## Milk-decay practical
+
+
+![Milk, sodium carbonate and indicator equilibrate in a controlled water bath before lipase is added. Measure time to the same pH endpoint.](../Diagrams/milk-decay-practical.svg)
 
 Investigate temperature using fresh milk, suitable indicator and **lipase**. Lipase breaks down milk fat, releasing **fatty acids** that lower pH. This models a component of decay; the timed pH endpoint is not a direct count of every microorganism.
 
