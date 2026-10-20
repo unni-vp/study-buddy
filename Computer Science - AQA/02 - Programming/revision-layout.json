@@ -3,44 +3,91 @@
   "groups": [
     {
       "id": "foundations",
-      "title": "Programming foundations",
-      "description": "Use types, variables, control flow and operators accurately.",
+      "title": "Values and data types",
       "icon": "computer-code",
+      "description": "Choose types, name values and use assignment.",
       "sections": [
-        {"heading": "Data types, variables and constants"},
-        {"heading": "Sequence, selection and iteration"},
-        {"heading": "Operators and expressions"}
+        {
+          "heading": "Data types, variables and constants"
+        }
+      ]
+    },
+    {
+      "id": "control",
+      "title": "Decisions and loops",
+      "icon": "computer-algorithm",
+      "description": "Follow selection, repetition and nested control structures.",
+      "sections": [
+        {
+          "heading": "Sequence, selection and iteration"
+        }
+      ]
+    },
+    {
+      "id": "operators",
+      "title": "Operators and logic",
+      "icon": "computer-code",
+      "description": "Calculate values and build correct conditions.",
+      "sections": [
+        {
+          "heading": "Operators and expressions"
+        }
       ]
     },
     {
       "id": "data",
-      "title": "Data and input/output",
-      "description": "Work with arrays, records, strings and random values.",
+      "title": "Arrays and records",
       "icon": "computer-data",
+      "description": "Access, change and process organised data.",
       "sections": [
-        {"heading": "Arrays and records"},
-        {"heading": "Input, output and strings"},
-        {"heading": "Random numbers"}
+        {
+          "heading": "Arrays and records"
+        }
+      ]
+    },
+    {
+      "id": "strings",
+      "title": "Input, strings and random values",
+      "icon": "computer-data",
+      "description": "Handle text, conversions, input and generated values.",
+      "sections": [
+        {
+          "heading": "Input and output"
+        },
+        {
+          "heading": "Working with strings"
+        },
+        {
+          "heading": "Random numbers"
+        }
       ]
     },
     {
       "id": "structure",
       "title": "Subroutines",
-      "description": "Build reusable modules with clear interfaces.",
       "icon": "computer-structure",
+      "description": "Pass values, return results and build reusable modules.",
       "sections": [
-        {"heading": "Subroutines and structured programming"}
+        {
+          "heading": "Subroutines and structured programming"
+        }
       ]
     },
     {
       "id": "quality",
-      "title": "Robust programs",
-      "description": "Validate, authenticate, test and correct code.",
+      "title": "Validation and testing",
       "icon": "computer-test",
+      "description": "Check input and find errors using planned test data.",
       "sections": [
-        {"heading": "Validation and authentication"},
-        {"heading": "Testing and error types"},
-        {"heading": "Exam coding checklist"}
+        {
+          "heading": "Validation and authentication"
+        },
+        {
+          "heading": "Testing and error types"
+        },
+        {
+          "heading": "Exam coding checklist"
+        }
       ]
     }
   ]

@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Robust programs · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a></div><article class="reading section-reading"><h1>Robust programs</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Validation and testing · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a></div><article class="reading section-reading"><h1>Validation and testing</h1>
 <h2>Validation and authentication</h2>
 <p><strong>Validation</strong> checks that input is sensible and follows rules. It does not prove that the input is factually correct.</p>
 <p>Common checks include:</p>
@@ -17,6 +17,16 @@ while age &lt; 11 or age &gt; 18:
 <tr><td><strong>Validation</strong></td><td>Does the input follow the required rules?</td><td>An entered age lies between 11 and 18. It could still be an untrue age.</td></tr>
 <tr><td><strong>Authentication</strong></td><td>Is this user’s claimed identity accepted?</td><td>The supplied username and password match an account.</td></tr>
 </table>
+<h3>Applying the right check</h3>
+<table>
+<tr><th>Rule</th><th>Suitable check</th><th>Why this is useful</th></tr>
+<tr><td>A username must be supplied.</td><td>Check <code>username != &quot;&quot;</code>.</td><td>A presence check rejects an empty string.</td></tr>
+<tr><td>A code must contain exactly six characters.</td><td>Check <code>len(code) == 6</code>.</td><td>A length check rejects codes that are too short or too long.</td></tr>
+<tr><td>A score must be from 0 to 20.</td><td>Check <code>0 &lt;= score &lt;= 20</code>.</td><td>A range check rejects values outside the limits.</td></tr>
+</table>
+<p>Validation cannot prove that a plausible value is true. An entered score of 12 passes the range check even if the student&#x27;s actual score was 15.</p>
+<p>In the age example, <code>int</code> conversion happens before the range test. That example assumes numeric input; it does not handle someone typing <code>hello</code>. A robust solution must address the invalid inputs specified in its task, rather than claiming one range check handles every possible error.</p>
+<p>Authentication needs the supplied details to match the <strong>same account</strong>. If a username matches one record and a password matches another, that does not authenticate either user. Use <code>AND</code> when both matching credentials are required.</p>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>
 <table>
@@ -31,6 +41,19 @@ while age &lt; 11 or age &gt; 18:
 <tr><td><strong>Logic error</strong></td><td>The program runs but produces the wrong result.</td><td>Adding two side lengths when the task requires multiplying them for area.</td></tr>
 </table>
 <p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
+<h3>A test plan with expected results</h3>
+<p>Suppose a program must accept whole-number scores from 1 to 10 and reject other input.</p>
+<table>
+<tr><th>Test input</th><th>Reason for choosing it</th><th>Expected result</th></tr>
+<tr><td><code>5</code></td><td>This is normal valid data.</td><td>Accept it.</td></tr>
+<tr><td><code>0</code></td><td>This is just below the lower boundary.</td><td>Reject it.</td></tr>
+<tr><td><code>1</code></td><td>This is the lowest permitted value.</td><td>Accept it.</td></tr>
+<tr><td><code>10</code></td><td>This is the highest permitted value.</td><td>Accept it.</td></tr>
+<tr><td><code>11</code></td><td>This is just above the upper boundary.</td><td>Reject it.</td></tr>
+<tr><td><code>&quot;five&quot;</code></td><td>This is erroneous text for a whole-number field.</td><td>Reject it without continuing as if it were a valid score.</td></tr>
+</table>
+<p>Decide the expected result <strong>before running the test</strong>, then record what actually happened. If 10 is rejected, inspect comparisons such as <code>score &lt; 10</code>, which incorrectly leave out the permitted endpoint.</p>
+<p>A syntax error prevents the code from being understood correctly, such as a missing colon. A logic error may allow the program to run, so tests must expose the wrong behaviour. After a correction, rerun the failed test and relevant earlier tests to check that the fix has not broken working behaviour.</p>
 <h2>Exam coding checklist</h2>
 <ul>
 <li>Use the response form requested: Python, pseudocode or flowchart.</li>

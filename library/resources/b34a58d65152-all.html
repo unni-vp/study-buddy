@@ -19,6 +19,15 @@
 <li>Use meaningful identifiers such as <code>totalPrice</code>, not vague names such as <code>x</code>.</li>
 </ul>
 <p>Choose types carefully. A telephone number is usually a string because it is not used in arithmetic and may begin with zero.</p>
+<h3>Choosing and updating values</h3>
+<p>A numeric value such as <code>12</code> can be added to another number. The string <code>&quot;12&quot;</code> is text, so it must be converted before doing that calculation. A Boolean stores a truth value rather than the words <code>&quot;True&quot;</code> or <code>&quot;False&quot;</code>.</p>
+<p>In Python, both single and double quotation marks can enclose a string. Python represents a single character as a string of length 1. Other languages may provide a separate character type.</p>
+<pre class="code-block"><code class="language-python">score = 4
+score = score + 3
+MAX_SCORE = 20
+</code></pre>
+<p>The second assignment reads the old value, adds 3 and stores <strong>7</strong> back in <code>score</code>. Assignment does not mean that both sides must already be equal. Capital letters are a Python convention for constants; they do not stop a programmer from reassigning the name.</p>
+<p>Initialise a <strong>counter</strong> before counting events, and a <strong>total</strong> before adding values. Otherwise the program has no reliable starting value.</p>
 <h2>Sequence, selection and iteration</h2>
 <p>The three basic control structures are:</p>
 <table>
@@ -44,7 +53,8 @@ ENDFOR
 </code></pre>
 <h3>Condition-controlled iteration</h3>
 <p>Use <code>WHILE</code> when the condition is checked before the loop. It may run zero times.</p>
-<pre class="code-block"><code class="language-python">while password != &quot;correct&quot;:
+<pre class="code-block"><code class="language-python">password = input(&quot;Password: &quot;)
+while password != &quot;correct&quot;:
     password = input(&quot;Try again: &quot;)
 </code></pre>
 <p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
@@ -56,6 +66,33 @@ ENDFOR
 <tr><td><strong>DO … WHILE</strong></td><td>Condition checked <strong>after</strong> the body; repeats while true. Runs at least once.</td><td>Ask for input, then repeat while it is invalid.</td></tr>
 </table>
 <p>The last two forms check at the same point but use <strong>opposite stopping logic</strong>. Python does not have a built-in <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> statement.</p>
+<h3>Following the chosen branch</h3>
+<p>In an <code>if</code>/<code>elif</code>/<code>else</code> chain, the first true condition selects one branch. For age 20, the <code>Adult</code> branch runs and the remaining branches are skipped. Two independent <code>if</code> statements can both run, so they do not always mean the same thing as an <code>if</code>/<code>elif</code> chain.</p>
+<p>A nested decision is checked only if its outer branch is reached:</p>
+<pre class="code-block"><code class="language-python">if member:
+    if age &lt; 18:
+        price = 3
+    else:
+        price = 5
+else:
+    price = 8
+</code></pre>
+<p>Here, the age check affects <strong>members only</strong>. Indentation shows which decision owns each branch.</p>
+<h3>Counting repetitions accurately</h3>
+<pre class="code-block"><code class="language-python">total = 0
+for number in range(1, 6):
+    total = total + number
+print(total)
+</code></pre>
+<p>Python&#x27;s <code>range(1, 6)</code> includes 1 but excludes 6, so the body runs <strong>five times</strong> and the total is <strong>15</strong>. The pseudocode <code>FOR count ← 1 TO 5</code> includes both endpoints. Check the convention before translating a loop.</p>
+<p>A condition-controlled loop needs something that can change its condition. In the password example, new input can eventually make the condition false. Forgetting that update could create an <strong>infinite loop</strong>.</p>
+<h3>A loop inside another loop</h3>
+<pre class="code-block"><code class="language-python">for row in range(2):
+    for column in range(3):
+        print(row, column)
+</code></pre>
+<p>For each outer-loop value, the inner loop runs from the beginning. This prints <strong>six pairs</strong>, from <code>(0, 0)</code> to <code>(1, 2)</code>. It does not run only 2 + 3 times.</p>
+<p>A post-condition loop runs its body before testing. In <code>REPEAT ... UNTIL valid</code>, the loop stops when <code>valid</code> becomes true. In <code>DO ... WHILE invalid</code>, it continues while <code>invalid</code> remains true.</p>
 <h2>Operators and expressions</h2>
 <h3>Arithmetic</h3>
 <table>
@@ -76,6 +113,30 @@ ENDFOR
 <li><code>OR</code> is true when at least one condition is true.</li>
 </ul>
 <p>Use brackets to make combined conditions clear.</p>
+<h3>Reading expressions</h3>
+<p>Multiplication and division are evaluated before addition and subtraction unless brackets change the order. For example, <code>(4 + 2) * 3</code> is 18, while <code>4 + 2 * 3</code> is 10.</p>
+<p>For positive whole numbers, <code>17 DIV 5</code> is <strong>3</strong>, and <code>17 MOD 5</code> is <strong>2</strong>. The quotient counts complete groups, while the remainder tells you what is left. A number is divisible by 5 when <code>number MOD 5 = 0</code>.</p>
+<table>
+<tr><th>Comparison</th><th>Python example</th><th>Result when <code>score</code> is 8</th></tr>
+<tr><td>Equal to</td><td><code>score == 8</code></td><td><code>True</code></td></tr>
+<tr><td>Not equal to</td><td><code>score != 8</code></td><td><code>False</code></td></tr>
+<tr><td>Less than</td><td><code>score &lt; 8</code></td><td><code>False</code></td></tr>
+<tr><td>Greater than</td><td><code>score &gt; 8</code></td><td><code>False</code></td></tr>
+<tr><td>Less than or equal to</td><td><code>score &lt;= 8</code></td><td><code>True</code></td></tr>
+<tr><td>Greater than or equal to</td><td><code>score &gt;= 8</code></td><td><code>True</code></td></tr>
+</table>
+<p>Python uses <code>=</code> to assign a value and **<code>==</code> to test equality**. A comparison produces a Boolean that can control selection or iteration.</p>
+<h3>Combining conditions</h3>
+<table>
+<tr><th>A</th><th>B</th><th>A AND B</th><th>A OR B</th></tr>
+<tr><td>False</td><td>False</td><td>False</td><td>False</td></tr>
+<tr><td>False</td><td>True</td><td>False</td><td>True</td></tr>
+<tr><td>True</td><td>False</td><td>False</td><td>True</td></tr>
+<tr><td>True</td><td>True</td><td>True</td><td>True</td></tr>
+</table>
+<p><code>NOT False</code> is true, and <code>NOT True</code> is false.</p>
+<p>To accept ages from 11 to 18 inclusive, both limits must hold: **<code>age &gt;= 11 and age &lt;= 18</code>**. Using <code>or</code> here accepts every age: an age below 11 still satisfies <code>age &lt;= 18</code>.</p>
+<p>To reject an age outside that range, use **<code>age &lt; 11 or age &gt; 18</code>**. One broken limit is enough to make the input invalid.</p>
 <h2>Arrays and records</h2>
 <p>A <strong>data structure</strong> organises related data.</p>
 <table>
@@ -92,7 +153,25 @@ ENDFOR
 ENDRECORD
 </code></pre>
 <p>Use an array for 30 test scores. Use a record for one pupil&#x27;s name, date of birth and attendance status.</p>
-<h2>Input, output and strings</h2>
+<h3>Accessing and changing a one-dimensional array</h3>
+<pre class="code-block"><code class="language-python">scores = [7, 9, 4]
+scores[1] = 10
+total = 0
+for index in range(len(scores)):
+    total = total + scores[index]
+print(total)
+</code></pre>
+<p>Python lists use indices starting at 0. The assignment changes the second score, so the final list is <code>[7, 10, 4]</code> and the total is <strong>21</strong>. An index identifies a position; it is not the value stored at that position.</p>
+<p>An array is taught as a collection of the same data type. A Python list is used here to implement that idea, although Python also permits mixed-type lists.</p>
+<h3>Rows, columns and records</h3>
+<pre class="code-block"><code class="language-python">seats = [[&quot;A&quot;, &quot;B&quot;, &quot;C&quot;], [&quot;D&quot;, &quot;E&quot;, &quot;F&quot;]]
+print(seats[1][2])
+seats[0][1] = &quot;Booked&quot;
+</code></pre>
+<p>The first index selects the <strong>row</strong>, and the second selects the <strong>column</strong>. The output is <code>F</code>. Updating row 0, column 1 replaces <code>B</code>, leaving the other cells unchanged.</p>
+<p>To visit every seat, use one loop for rows and a nested loop for columns. Keep both indices within their valid ranges.</p>
+<p>A record groups fields describing <strong>one entity</strong>. For example, a pupil record can hold a string name, integer year group and Boolean attendance value. A program could store many pupil records in an array: the array selects the pupil, and the field name selects the fact about that pupil.</p>
+<h2>Input and output</h2>
 <ul>
 <li>Input collects data, often from the keyboard.</li>
 <li>Output displays information to the user.</li>
@@ -101,22 +180,44 @@ ENDRECORD
 <pre class="code-block"><code class="language-python">age = int(input(&quot;Age: &quot;))
 print(&quot;Next year you will be&quot;, age + 1)
 </code></pre>
-<p>String operations you must recognise:</p>
-<ul>
-<li><strong>length</strong>: number of characters</li>
-<li><strong>position</strong>: location of a character or substring</li>
-<li><strong>substring</strong>: selected part of a string</li>
-<li><strong>concatenation</strong>: joining strings</li>
-<li>character ↔ character-code conversion</li>
-<li>string ↔ integer or real conversion</li>
-</ul>
-<p>In Python, examples include <code>len(text)</code>, <code>text[1:4]</code>, <code>first + last</code>, <code>ord(&#x27;A&#x27;)</code>, <code>chr(65)</code>, <code>int(&quot;42&quot;)</code> and <code>str(42)</code>.</p>
+<p>Python&#x27;s <code>input</code> returns a <strong>string</strong>, even if the user types digits. Convert with <code>int</code> for a whole number or <code>float</code> for a real value when the task needs arithmetic. A prompt tells the user what to enter, but the program still needs to store the returned input.</p>
+<p><code>print(&quot;Next year you will be&quot;, age + 1)</code> outputs both a label and the calculated result. Output does not automatically save a value for later use.</p>
+<h2>Working with strings</h2>
+<p>A string is a sequence of characters. Positions identify individual characters, while a substring contains a selected sequence of characters.</p>
+<p>Use <code>text = &quot;BIOLOGY&quot;</code> in these examples:</p>
+<table>
+<tr><th>Operation</th><th>Python</th><th>Result and explanation</th></tr>
+<tr><td>Find the length</td><td><code>len(text)</code></td><td>The result is 7, because every character counts.</td></tr>
+<tr><td>Access a position</td><td><code>text[2]</code></td><td>The result is <code>&quot;O&quot;</code>, because indexing starts at 0.</td></tr>
+<tr><td>Find a position</td><td><code>text.find(&quot;LOG&quot;)</code></td><td>The result is 3, the start index of that sequence. It returns −1 if absent.</td></tr>
+<tr><td>Extract a substring</td><td><code>text[1:4]</code></td><td>The result is <code>&quot;IOL&quot;</code>. Indices 1, 2 and 3 are included; index 4 is excluded.</td></tr>
+<tr><td>Concatenate strings</td><td><code>&quot;Bio&quot; + &quot;logy&quot;</code></td><td>The result is <code>&quot;Biology&quot;</code>. A space is added only if one is supplied.</td></tr>
+</table>
+<p><code>&quot;7&quot; + &quot;2&quot;</code> gives <code>&quot;72&quot;</code>, while <code>int(&quot;7&quot;) + int(&quot;2&quot;)</code> gives <strong>9</strong>. Converting a string to a number changes the operation from joining text to arithmetic.</p>
+<table>
+<tr><th>Conversion</th><th>Python example</th><th>Result</th></tr>
+<tr><td>String to integer</td><td><code>int(&quot;42&quot;)</code></td><td>The integer 42.</td></tr>
+<tr><td>String to real</td><td><code>float(&quot;3.5&quot;)</code></td><td>The real value 3.5.</td></tr>
+<tr><td>Number to string</td><td><code>str(42)</code></td><td>The string <code>&quot;42&quot;</code>.</td></tr>
+<tr><td>Character to code</td><td><code>ord(&quot;A&quot;)</code></td><td>The character code 65.</td></tr>
+<tr><td>Code to character</td><td><code>chr(65)</code></td><td>The character <code>&quot;A&quot;</code>.</td></tr>
+</table>
+<p>A conversion requires suitable input. The string <code>&quot;four&quot;</code> cannot be converted using <code>int</code>. Character codes represent characters, so the code of the digit <code>&quot;7&quot;</code> is not the number 7.</p>
 <h2>Random numbers</h2>
 <p>Random-number generation can simulate dice, choose quiz questions or create unpredictable game events. You do not need to explain how pseudo-random numbers are generated.</p>
 <pre class="code-block"><code class="language-python">import random
 die = random.randint(1, 6)
 </code></pre>
 <p>Check whether both endpoints are included in the language or function stated in the question.</p>
+<p>Python&#x27;s <code>random.randint(1, 6)</code> can return any integer from <strong>1 to 6 inclusive</strong>. It returns one value per call; it does not return the whole range.</p>
+<p>Store the result if later decisions must use the same throw:</p>
+<pre class="code-block"><code class="language-python">import random
+die = random.randint(1, 6)
+print(&quot;You rolled&quot;, die)
+if die == 6:
+    print(&quot;Take another turn&quot;)
+</code></pre>
+<p>Generating a second number inside the condition could test a different throw from the one displayed. Repeated calls can also produce the same number by chance. Random does not mean “a new value every time”.</p>
 <h2>Subroutines and structured programming</h2>
 <p>A <strong>subroutine</strong> is a named block of code called from elsewhere.</p>
 <table>
@@ -137,6 +238,20 @@ die = random.randint(1, 6)
 </code></pre>
 <p>Advantages include reuse, less repeated code, easier testing, easier maintenance and clearer decomposition.</p>
 <p><strong>Structured programming</strong> builds a program from small modules with clear interfaces. Parameters, local variables and return values reduce unwanted dependence between modules.</p>
+<h3>Passing values in and returning a result</h3>
+<pre class="code-block"><code class="language-python">def rectangle_area(width, height):
+    area = width * height
+    return area
+
+first_area = rectangle_area(4, 6)
+print(rectangle_area(3, 5))
+</code></pre>
+<p><code>width</code> and <code>height</code> are <strong>parameters</strong>. The first call supplies 4 and 6 as arguments, so <code>first_area</code> receives <strong>24</strong>. The second call supplies different values and prints <strong>15</strong>.</p>
+<p><code>return</code> sends a result back to the caller and ends that function call. Printing displays text but does not provide the same returned result. A returned value can be assigned, passed to another call or used directly in an expression.</p>
+<p>The local <code>area</code> belongs to the function call. Code outside the function should use the returned value rather than try to read <code>area</code> directly. Local names help prevent one module accidentally changing another module&#x27;s working data.</p>
+<h3>Why structure helps</h3>
+<p>A reusable function can replace several copies of the same calculation. One correction then fixes every call, instead of leaving slightly different copies to maintain. Each module can be tested separately with known inputs and expected outputs.</p>
+<p>Clear parameters and return values state what a module needs and provides. They also let different programmers develop separate modules, provided those interfaces agree.</p>
 <h2>Validation and authentication</h2>
 <p><strong>Validation</strong> checks that input is sensible and follows rules. It does not prove that the input is factually correct.</p>
 <p>Common checks include:</p>
@@ -155,6 +270,16 @@ while age &lt; 11 or age &gt; 18:
 <tr><td><strong>Validation</strong></td><td>Does the input follow the required rules?</td><td>An entered age lies between 11 and 18. It could still be an untrue age.</td></tr>
 <tr><td><strong>Authentication</strong></td><td>Is this user’s claimed identity accepted?</td><td>The supplied username and password match an account.</td></tr>
 </table>
+<h3>Applying the right check</h3>
+<table>
+<tr><th>Rule</th><th>Suitable check</th><th>Why this is useful</th></tr>
+<tr><td>A username must be supplied.</td><td>Check <code>username != &quot;&quot;</code>.</td><td>A presence check rejects an empty string.</td></tr>
+<tr><td>A code must contain exactly six characters.</td><td>Check <code>len(code) == 6</code>.</td><td>A length check rejects codes that are too short or too long.</td></tr>
+<tr><td>A score must be from 0 to 20.</td><td>Check <code>0 &lt;= score &lt;= 20</code>.</td><td>A range check rejects values outside the limits.</td></tr>
+</table>
+<p>Validation cannot prove that a plausible value is true. An entered score of 12 passes the range check even if the student&#x27;s actual score was 15.</p>
+<p>In the age example, <code>int</code> conversion happens before the range test. That example assumes numeric input; it does not handle someone typing <code>hello</code>. A robust solution must address the invalid inputs specified in its task, rather than claiming one range check handles every possible error.</p>
+<p>Authentication needs the supplied details to match the <strong>same account</strong>. If a username matches one record and a password matches another, that does not authenticate either user. Use <code>AND</code> when both matching credentials are required.</p>
 <h2>Testing and error types</h2>
 <p>Testing checks whether an algorithm or program behaves as required.</p>
 <table>
@@ -169,6 +294,19 @@ while age &lt; 11 or age &gt; 18:
 <tr><td><strong>Logic error</strong></td><td>The program runs but produces the wrong result.</td><td>Adding two side lengths when the task requires multiplying them for area.</td></tr>
 </table>
 <p>For every test, state the input, reason for choosing it, expected result and actual result. Correct errors, then retest affected and previously working paths.</p>
+<h3>A test plan with expected results</h3>
+<p>Suppose a program must accept whole-number scores from 1 to 10 and reject other input.</p>
+<table>
+<tr><th>Test input</th><th>Reason for choosing it</th><th>Expected result</th></tr>
+<tr><td><code>5</code></td><td>This is normal valid data.</td><td>Accept it.</td></tr>
+<tr><td><code>0</code></td><td>This is just below the lower boundary.</td><td>Reject it.</td></tr>
+<tr><td><code>1</code></td><td>This is the lowest permitted value.</td><td>Accept it.</td></tr>
+<tr><td><code>10</code></td><td>This is the highest permitted value.</td><td>Accept it.</td></tr>
+<tr><td><code>11</code></td><td>This is just above the upper boundary.</td><td>Reject it.</td></tr>
+<tr><td><code>&quot;five&quot;</code></td><td>This is erroneous text for a whole-number field.</td><td>Reject it without continuing as if it were a valid score.</td></tr>
+</table>
+<p>Decide the expected result <strong>before running the test</strong>, then record what actually happened. If 10 is rejected, inspect comparisons such as <code>score &lt; 10</code>, which incorrectly leave out the permitted endpoint.</p>
+<p>A syntax error prevents the code from being understood correctly, such as a missing colon. A logic error may allow the program to run, so tests must expose the wrong behaviour. After a correction, rerun the failed test and relevant earlier tests to check that the fix has not broken working behaviour.</p>
 <h2>Exam coding checklist</h2>
 <ul>
 <li>Use the response form requested: Python, pseudocode or flowchart.</li>
@@ -182,4 +320,8 @@ while age &lt; 11 or age &gt; 18:
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>
 <li>AQA GCSE Computer Science 8525 specification, section 3.2.</li>
+</ul>
+<ul>
+<li><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
+<li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

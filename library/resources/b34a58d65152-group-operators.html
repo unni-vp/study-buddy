@@ -1,0 +1,45 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Operators and logic · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a></div><article class="reading section-reading"><h1>Operators and logic</h1>
+<h2>Operators and expressions</h2>
+<h3>Arithmetic</h3>
+<table>
+<tr><th>Operation</th><th>Pseudocode</th><th>Python example</th></tr>
+<tr><td>Addition</td><td><code>+</code></td><td><code>a + b</code></td></tr>
+<tr><td>Subtraction</td><td><code>-</code></td><td><code>a - b</code></td></tr>
+<tr><td>Multiplication</td><td><code>*</code></td><td><code>a * b</code></td></tr>
+<tr><td>Real division</td><td><code>/</code></td><td><code>11 / 2</code> gives <code>5.5</code></td></tr>
+<tr><td>Integer division</td><td><code>DIV</code></td><td><code>11 // 2</code> gives <code>5</code></td></tr>
+<tr><td>Remainder</td><td><code>MOD</code></td><td><code>11 % 2</code> gives <code>1</code></td></tr>
+</table>
+<p><code>MOD</code> is useful for divisibility and alternating patterns: <code>number MOD 2 = 0</code> means even.</p>
+<h3>Relational and Boolean operations</h3>
+<p>Relational operators compare values: equal, not equal, <code>&lt;</code>, <code>&gt;</code>, <code>&lt;=</code> and <code>&gt;=</code>.</p>
+<ul>
+<li><code>NOT</code> reverses a Boolean value.</li>
+<li><code>AND</code> is true only when both conditions are true.</li>
+<li><code>OR</code> is true when at least one condition is true.</li>
+</ul>
+<p>Use brackets to make combined conditions clear.</p>
+<h3>Reading expressions</h3>
+<p>Multiplication and division are evaluated before addition and subtraction unless brackets change the order. For example, <code>(4 + 2) * 3</code> is 18, while <code>4 + 2 * 3</code> is 10.</p>
+<p>For positive whole numbers, <code>17 DIV 5</code> is <strong>3</strong>, and <code>17 MOD 5</code> is <strong>2</strong>. The quotient counts complete groups, while the remainder tells you what is left. A number is divisible by 5 when <code>number MOD 5 = 0</code>.</p>
+<table>
+<tr><th>Comparison</th><th>Python example</th><th>Result when <code>score</code> is 8</th></tr>
+<tr><td>Equal to</td><td><code>score == 8</code></td><td><code>True</code></td></tr>
+<tr><td>Not equal to</td><td><code>score != 8</code></td><td><code>False</code></td></tr>
+<tr><td>Less than</td><td><code>score &lt; 8</code></td><td><code>False</code></td></tr>
+<tr><td>Greater than</td><td><code>score &gt; 8</code></td><td><code>False</code></td></tr>
+<tr><td>Less than or equal to</td><td><code>score &lt;= 8</code></td><td><code>True</code></td></tr>
+<tr><td>Greater than or equal to</td><td><code>score &gt;= 8</code></td><td><code>True</code></td></tr>
+</table>
+<p>Python uses <code>=</code> to assign a value and **<code>==</code> to test equality**. A comparison produces a Boolean that can control selection or iteration.</p>
+<h3>Combining conditions</h3>
+<table>
+<tr><th>A</th><th>B</th><th>A AND B</th><th>A OR B</th></tr>
+<tr><td>False</td><td>False</td><td>False</td><td>False</td></tr>
+<tr><td>False</td><td>True</td><td>False</td><td>True</td></tr>
+<tr><td>True</td><td>False</td><td>False</td><td>True</td></tr>
+<tr><td>True</td><td>True</td><td>True</td><td>True</td></tr>
+</table>
+<p><code>NOT False</code> is true, and <code>NOT True</code> is false.</p>
+<p>To accept ages from 11 to 18 inclusive, both limits must hold: **<code>age &gt;= 11 and age &lt;= 18</code>**. Using <code>or</code> here accepts every age: an age below 11 still satisfies <code>age &lt;= 18</code>.</p>
+<p>To reject an age outside that range, use **<code>age &lt; 11 or age &gt; 18</code>**. One broken limit is enough to make the input invalid.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="b34a58d65152-group-control.html"><span>← Previous</span><strong>Decisions and loops</strong></a><a href="b34a58d65152-group-data.html"><span>Next →</span><strong>Arrays and records</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

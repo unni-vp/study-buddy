@@ -1,0 +1,120 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/2-Programming/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 20,
+  "sha256": "3a1c879e8c9fbe773b97a12b7e9a5bb7c79851d266835e272d7e6304e4c3bd24",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.2.1–3.2.3 Types and control structures",
+      "pmt_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "note_headings": [
+        "Data types, variables and constants",
+        "Sequence, selection and iteration"
+      ],
+      "added_or_developed": [
+        "Assignment and constants",
+        "Nested selection and nested-loop traces",
+        "Initialisation, loop bounds and stopping conditions"
+      ],
+      "decisions": [
+        "Python has no separate character type or native REPEAT/DO loop."
+      ]
+    },
+    {
+      "section": "3.2.4–3.2.6 Operators and logic",
+      "pmt_pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "note_headings": [
+        "Operators and expressions"
+      ],
+      "added_or_developed": [
+        "All relational operations with results",
+        "DIV/MOD examples",
+        "AND/OR truth table and range-condition reasoning"
+      ],
+      "decisions": []
+    },
+    {
+      "section": "3.2.7–3.2.10 Structured data, input and strings",
+      "pmt_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "note_headings": [
+        "Arrays and records",
+        "Input and output",
+        "Working with strings",
+        "Random numbers"
+      ],
+      "added_or_developed": [
+        "1D/2D access and updates",
+        "String operation and conversion results",
+        "Inclusive random bounds and reusing a generated value"
+      ],
+      "decisions": [
+        "Python slice stop is excluded. Random values may repeat; no security guarantee is taught."
+      ]
+    },
+    {
+      "section": "3.2.11–3.2.12 Subroutines and robust programs",
+      "pmt_pages": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "note_headings": [
+        "Subroutines and structured programming",
+        "Validation and authentication",
+        "Testing and error types"
+      ],
+      "added_or_developed": [
+        "Calls with multiple arguments and return values",
+        "Scope and modularity explanations",
+        "Matched-account authentication",
+        "Expected results for all boundary positions"
+      ],
+      "decisions": [
+        "Return values need not be assigned. AQA boundary tests include values just outside the permitted range."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Values and data types",
+    "Decisions and loops",
+    "Operators and logic",
+    "Arrays and records",
+    "Input, strings and random values",
+    "Subroutines",
+    "Validation and testing"
+  ],
+  "word_count_before": 1494,
+  "word_count_after": 3419,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

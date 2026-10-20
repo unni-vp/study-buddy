@@ -1,0 +1,66 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Decisions and loops · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Programming</a><span aria-hidden="true"> / </span><a href="b34a58d65152.html">Revision notes</a></nav><div class="reader-tools"><a href="b34a58d65152.html">← All revision notes</a></div><article class="reading section-reading"><h1>Decisions and loops</h1>
+<h2>Sequence, selection and iteration</h2>
+<p>The three basic control structures are:</p>
+<table>
+<tr><th>Structure</th><th>What happens</th><th>Example</th></tr>
+<tr><td><strong>Sequence</strong></td><td>Instructions run in order.</td><td>Read a price, calculate a total, then display it.</td></tr>
+<tr><td><strong>Selection</strong></td><td>A condition chooses which route runs.</td><td>Display a discount only if the customer qualifies.</td></tr>
+<tr><td><strong>Iteration</strong></td><td>A block of instructions repeats.</td><td>Process every item in a shopping basket.</td></tr>
+</table>
+<h3>Selection</h3>
+<pre class="code-block"><code class="language-python">if age &gt;= 18:
+    print(&quot;Adult&quot;)
+elif age &gt;= 13:
+    print(&quot;Teenager&quot;)
+else:
+    print(&quot;Child&quot;)
+</code></pre>
+<p>Selection can be <strong>nested</strong>: one decision sits inside another.</p>
+<h3>Count-controlled iteration</h3>
+<p>Use a <code>for</code> loop when the number of repetitions is known.</p>
+<pre class="code-block"><code class="language-text">FOR count ← 1 TO 5
+    OUTPUT count
+ENDFOR
+</code></pre>
+<h3>Condition-controlled iteration</h3>
+<p>Use <code>WHILE</code> when the condition is checked before the loop. It may run zero times.</p>
+<pre class="code-block"><code class="language-python">password = input(&quot;Password: &quot;)
+while password != &quot;correct&quot;:
+    password = input(&quot;Try again: &quot;)
+</code></pre>
+<p>Use <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> when the body must run at least once because the condition is checked at the end.</p>
+<table>
+<tr><th>Loop</th><th>When does the body run?</th><th>When is it useful?</th></tr>
+<tr><td><strong>FOR</strong></td><td>A set number of repetitions in a count-controlled loop.</td><td>Process five scores when the number of repetitions is known.</td></tr>
+<tr><td><strong>WHILE</strong></td><td>Condition checked <strong>before</strong> the body; repeats while true. It may run zero times.</td><td>Keep asking while the current input is invalid.</td></tr>
+<tr><td><strong>REPEAT … UNTIL</strong></td><td>Condition checked <strong>after</strong> the body; stops when true. Runs at least once.</td><td>Ask for input, then check whether it is valid.</td></tr>
+<tr><td><strong>DO … WHILE</strong></td><td>Condition checked <strong>after</strong> the body; repeats while true. Runs at least once.</td><td>Ask for input, then repeat while it is invalid.</td></tr>
+</table>
+<p>The last two forms check at the same point but use <strong>opposite stopping logic</strong>. Python does not have a built-in <code>REPEAT ... UNTIL</code> or <code>DO ... WHILE</code> statement.</p>
+<h3>Following the chosen branch</h3>
+<p>In an <code>if</code>/<code>elif</code>/<code>else</code> chain, the first true condition selects one branch. For age 20, the <code>Adult</code> branch runs and the remaining branches are skipped. Two independent <code>if</code> statements can both run, so they do not always mean the same thing as an <code>if</code>/<code>elif</code> chain.</p>
+<p>A nested decision is checked only if its outer branch is reached:</p>
+<pre class="code-block"><code class="language-python">if member:
+    if age &lt; 18:
+        price = 3
+    else:
+        price = 5
+else:
+    price = 8
+</code></pre>
+<p>Here, the age check affects <strong>members only</strong>. Indentation shows which decision owns each branch.</p>
+<h3>Counting repetitions accurately</h3>
+<pre class="code-block"><code class="language-python">total = 0
+for number in range(1, 6):
+    total = total + number
+print(total)
+</code></pre>
+<p>Python&#x27;s <code>range(1, 6)</code> includes 1 but excludes 6, so the body runs <strong>five times</strong> and the total is <strong>15</strong>. The pseudocode <code>FOR count ← 1 TO 5</code> includes both endpoints. Check the convention before translating a loop.</p>
+<p>A condition-controlled loop needs something that can change its condition. In the password example, new input can eventually make the condition false. Forgetting that update could create an <strong>infinite loop</strong>.</p>
+<h3>A loop inside another loop</h3>
+<pre class="code-block"><code class="language-python">for row in range(2):
+    for column in range(3):
+        print(row, column)
+</code></pre>
+<p>For each outer-loop value, the inner loop runs from the beginning. This prints <strong>six pairs</strong>, from <code>(0, 0)</code> to <code>(1, 2)</code>. It does not run only 2 + 3 times.</p>
+<p>A post-condition loop runs its body before testing. In <code>REPEAT ... UNTIL valid</code>, the loop stops when <code>valid</code> becomes true. In <code>DO ... WHILE invalid</code>, it continues while <code>invalid</code> remains true.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="b34a58d65152-group-foundations.html"><span>← Previous</span><strong>Values and data types</strong></a><a href="b34a58d65152-group-operators.html"><span>Next →</span><strong>Operators and logic</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
