@@ -12,18 +12,13 @@
 <p>Each record has values for the table&#x27;s fields. A table with three pupils has <strong>three records</strong>, regardless of how many fields describe each pupil.</p>
 <p>Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.</p>
 <h2>Primary and foreign keys</h2>
-<p>A <strong>primary key</strong> uniquely identifies a record within its table. It must not be repeated or missing.</p>
-<ul>
-<li><code>PupilID</code> distinguishes pupils who might have the same name.</li>
-<li><code>LoanID</code> distinguishes separate loans, even if the same pupil borrows the same title again.</li>
-<li>A person&#x27;s name is usually a poor primary key because names can repeat or change.</li>
-</ul>
-<p>A <strong>foreign key</strong> is a field whose value links to a primary-key value in another table.</p>
-<ul>
-<li><code>Loans.PupilID</code> identifies which pupil made a loan.</li>
-<li>Its values match <code>Pupils.PupilID</code>.</li>
-<li>The same foreign-key value can occur in several loan records: one pupil can borrow several books.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>Primary key</th><th>Foreign key</th></tr>
+<tr><td>Purpose</td><td><strong>Uniquely identifies</strong> a record within its own table.</td><td><strong>Links</strong> a record to a primary-key value in another table.</td></tr>
+<tr><td>Repeated values</td><td>Must not be repeated or missing in that table.</td><td>May repeat because several records can link to the same record elsewhere.</td></tr>
+<tr><td>Library example</td><td><code>Pupils.PupilID</code> identifies each pupil.</td><td><code>Loans.PupilID</code> identifies which pupil made each loan.</td></tr>
+</table>
+<p><code>LoanID</code> is also a primary key: it distinguishes separate loans, even if the same pupil borrows the same title again. A person’s name is usually a poor primary key because names can repeat or change.</p>
 <p><img src="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Diagrams/linked-library-records.svg" alt="Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example."></p>
 <p><strong>Primary key:</strong> identifies the row in this table. <strong>Foreign key:</strong> connects a row to another table. A field called <code>PupilID</code> can therefore be a primary key in Pupils and a foreign key in Loans.</p>
 <h2>Reducing redundancy and inconsistency</h2>

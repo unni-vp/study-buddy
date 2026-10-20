@@ -19,17 +19,14 @@ Choose data types that suit the information. A number used for counting may be a
 
 ## Primary and foreign keys
 
-A **primary key** uniquely identifies a record within its table. It must not be repeated or missing.
+| Feature | Primary key | Foreign key |
+|---|---|---|
+| Purpose | **Uniquely identifies** a record within its own table. | **Links** a record to a primary-key value in another table. |
+| Repeated values | Must not be repeated or missing in that table. | May repeat because several records can link to the same record elsewhere. |
+| Library example | `Pupils.PupilID` identifies each pupil. | `Loans.PupilID` identifies which pupil made each loan. |
 
-- `PupilID` distinguishes pupils who might have the same name.
-- `LoanID` distinguishes separate loans, even if the same pupil borrows the same title again.
-- A person's name is usually a poor primary key because names can repeat or change.
 
-A **foreign key** is a field whose value links to a primary-key value in another table.
-
-- `Loans.PupilID` identifies which pupil made a loan.
-- Its values match `Pupils.PupilID`.
-- The same foreign-key value can occur in several loan records: one pupil can borrow several books.
+`LoanID` is also a primary key: it distinguishes separate loans, even if the same pupil borrows the same title again. A person’s name is usually a poor primary key because names can repeat or change.
 
 ![Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example.](../Diagrams/linked-library-records.svg)
 
@@ -78,9 +75,15 @@ Good design supports consistency, but records must still be entered and updated 
 
 **SQL** stands for **Structured Query Language**. It lets you retrieve and change database data.
 
-- **SELECT** chooses the fields to display.
-- **FROM** identifies the table supplying the data.
-- `*` means all fields.
+| Clause | What it controls | Example |
+|---|---|---|
+| **SELECT** | Which fields/columns appear in the results. | `SELECT Name, YearGroup` |
+| **FROM** | Which table or tables supply the data. | `FROM Pupils` |
+| **WHERE** | Which records/rows meet the condition. | `WHERE YearGroup = 10` |
+| **ORDER BY** | The order of the retrieved results. | `ORDER BY Name ASC` |
+
+
+`SELECT *` means all fields. These clauses retrieve data; they do not change the stored records.
 
 ```sql
 SELECT Name, YearGroup
@@ -137,6 +140,12 @@ WHERE DaysLoaned < 10 OR DaysLoaned > 20;
 ```
 
 **OR** requires at least one condition to be true. Atlas qualifies through 7 days; Geography qualifies through 21 days. Macbeth, at 14 days, meets neither condition.
+
+| Operator | When does a record qualify? | If only one condition is true |
+|---|---|---|
+| **AND** | Both conditions must be true. | The record is excluded. |
+| **OR** | At least one condition must be true. | The record qualifies. |
+
 
 Use brackets when combining AND and OR to make the intended grouping clear. Without ORDER BY, do not assume a particular result order.
 
@@ -243,12 +252,13 @@ The Geography loan is removed. Shreya's pupil record and her Macbeth loan remain
 
 Before writing, identify the operation:
 
-| Need | Command |
-|---|---|
-| Retrieve information | SELECT |
-| Add a record | INSERT INTO |
-| Change stored values | UPDATE ... SET |
-| Remove records | DELETE FROM |
+| Need | Command | Effect on stored records |
+|---|---|---|
+| Retrieve information | **SELECT** | No stored records change; results are returned. |
+| Add a record | **INSERT INTO … VALUES** | Creates a new record with the supplied values. |
+| Change values | **UPDATE … SET** | Edits fields in matching existing records. Without WHERE, all records are affected. |
+| Remove records | **DELETE FROM** | Removes whole matching rows. Without WHERE, all rows are removed; the table remains. |
+
 
 Then check:
 

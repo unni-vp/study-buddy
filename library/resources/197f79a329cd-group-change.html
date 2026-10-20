@@ -34,11 +34,11 @@ WHERE LoanID = 502;
 <h2>Planning and checking a query</h2>
 <p>Before writing, identify the operation:</p>
 <table>
-<tr><th>Need</th><th>Command</th></tr>
-<tr><td>Retrieve information</td><td>SELECT</td></tr>
-<tr><td>Add a record</td><td>INSERT INTO</td></tr>
-<tr><td>Change stored values</td><td>UPDATE ... SET</td></tr>
-<tr><td>Remove records</td><td>DELETE FROM</td></tr>
+<tr><th>Need</th><th>Command</th><th>Effect on stored records</th></tr>
+<tr><td>Retrieve information</td><td><strong>SELECT</strong></td><td>No stored records change; results are returned.</td></tr>
+<tr><td>Add a record</td><td><strong>INSERT INTO … VALUES</strong></td><td>Creates a new record with the supplied values.</td></tr>
+<tr><td>Change values</td><td><strong>UPDATE … SET</strong></td><td>Edits fields in matching existing records. Without WHERE, all records are affected.</td></tr>
+<tr><td>Remove records</td><td><strong>DELETE FROM</strong></td><td>Removes whole matching rows. Without WHERE, all rows are removed; the table remains.</td></tr>
 </table>
 <p>Then check:</p>
 <ol>
