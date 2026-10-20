@@ -176,8 +176,6 @@ Minimise and account for friction; keep track and pulley conditions consistent. 
 
 Use a low-voltage supply, an **ammeter in series** and a **voltmeter across** the test wire or resistor. Calculate **R = V/I** rather than treating current alone as resistance.
 
-![The ammeter is in series with the test wire and the voltmeter is connected across it.](../../02 - Electricity/Diagrams/resistance-circuit.svg)
-
 **Wire length**
 
 - Fix one connection and use a movable contact to select measured lengths of the same wire.
