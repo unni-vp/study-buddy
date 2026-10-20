@@ -1,14 +1,13 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Protection and testing · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/06%20-%20Cyber%20security/index.html">Cyber security</a><span aria-hidden="true"> / </span><a href="6af519b78908.html">Revision notes</a></nav><div class="reader-tools"><a href="6af519b78908.html">← All revision notes</a></div><article class="reading section-reading"><h1>Protection and testing</h1>
 <h2>Authentication and automated-abuse checks</h2>
 <p>Think of access to an account as a doorway. Different checks ask different questions: do you know a secret, do you have access to an email account, or do you match a stored physical characteristic?</p>
-<h3>Password systems</h3>
-<p>A password checks a <strong>secret entered by the user</strong>. It is simple to use, but weak, reused or disclosed passwords undermine the protection.</p>
-<h3>Biometrics</h3>
-<p>A fingerprint or face is compared with <strong>stored information about a physical characteristic</strong>. This is convenient on mobile devices. Recognition can fail, and compromised biometric information is difficult to replace.</p>
-<h3>CAPTCHA</h3>
-<p>A challenge or similar check helps distinguish <strong>human use from automated activity</strong>. It reduces automated registrations or guessing, but does not establish a person&#x27;s real identity. It can also create accessibility difficulties.</p>
-<h3>Email confirmation</h3>
-<p>A link or code is sent to an email address to check <strong>access to that mailbox</strong>. An attacker who controls the mailbox may also pass the check.</p>
+<table>
+<tr><th>Method</th><th>What it checks</th><th>Strength or limitation</th></tr>
+<tr><td><strong>Password</strong></td><td>A secret entered by the user.</td><td>Simple to use, but weak, reused or disclosed passwords undermine it.</td></tr>
+<tr><td><strong>Biometrics</strong></td><td>A physical characteristic, such as a fingerprint or face, against stored information.</td><td>Convenient on mobile devices, but recognition can fail and compromised biometric information is difficult to replace.</td></tr>
+<tr><td><strong>CAPTCHA</strong></td><td>Whether activity appears to come from a human rather than automation.</td><td>Can reduce automated registration or guessing, but does not establish real identity and may create accessibility difficulties.</td></tr>
+<tr><td><strong>Email confirmation</strong></td><td>Access to the mailbox receiving a link or code.</td><td>An attacker controlling that mailbox may pass the check.</td></tr>
+</table>
 <p><strong>Biometrics identify a characteristic, not a permission.</strong> The account still needs suitable access rights after authentication.</p>
 <h2>Layered protection and penetration testing</h2>
 <h3>Use measures together</h3>

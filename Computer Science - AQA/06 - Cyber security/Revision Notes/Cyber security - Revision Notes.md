@@ -38,7 +38,12 @@ Imagine every pupil receiving a key to the school office. The problem is the per
 - Review permissions when a person's role changes or they leave.
 - Restrict administrator rights because these allow powerful changes.
 
-**Authentication** checks who someone is; **access rights** determine what that person may do. A successful login does not mean unrestricted access is appropriate.
+| Feature | Authentication | Access rights |
+|---|---|---|
+| Question | Who is trying to use the system? | What is that account allowed to do? |
+| Example | Check a pupil’s username and password. | Allow the pupil to read their own marks, but not change everyone else’s. |
+| Key distinction | A successful login accepts the claimed identity. | Successful login does not justify unrestricted permissions. |
+
 
 ## Removable media and outdated software
 
@@ -72,7 +77,15 @@ It is like replacing a road sign so drivers who chose the right route arrive at 
 - Updated security software and secure configuration help protect the device and address lookup.
 - Browser certificate warnings can reveal a problem; they should not be ignored.
 
-**Phishing** tricks the person into revealing information, often through a message. **Pharming** redirects the website request. Both can end at a fake login page, but their mechanisms differ.
+| Feature | Phishing | Pharming |
+|---|---|---|
+| Mechanism | A fraudulent message tricks the person into revealing information or opening something unsafe. | A website request is redirected to a fraudulent destination. |
+| Correctly typed address | The victim may be persuaded to follow a deceptive link instead. | The victim may type the correct address and still be redirected. |
+| Possible result | A fake login page steals details. | A fake login page steals details. |
+| Suitable response | Verify unexpected messages independently and use a known address or app. | Protect software and address lookup; do not ignore certificate warnings. |
+
+
+The result may look similar, but explain the **different mechanism** when comparing these attacks.
 
 ## Social engineering
 
@@ -115,35 +128,27 @@ Someone observes private information directly, such as a PIN being entered, a pa
 
 **A virus is a type of malware.** The terms are not interchangeable. A trojan's defining feature is its disguise; it does not need to replicate like a virus.
 
-Ways to reduce malware risk include:
+| Measure | How it helps | Important limitation |
+|---|---|---|
+| Updated **anti-malware** | Scans files and detects or blocks known malicious activity. | It cannot guarantee detection of every threat. |
+| Trusted downloads | Reduce the chance of installing disguised malicious programs. | A convincing appearance alone does not prove a download is trustworthy. |
+| Software updates | Close vulnerabilities that malware might exploit. | Updating does not automatically remove every infection. |
+| Attachment and USB precautions | Reduce routes by which infected files reach the system. | Users still need to follow the procedures. |
+| Restricted permissions | Limit what a compromised account or program can change. | They do not make the account immune to compromise. |
+| **Backups** | Help recover damaged or lost data. | They do not prevent theft of readable data that has already been exposed. |
 
-- **Updated anti-malware software:** detects or blocks known malicious activity and scans files.
-- **Trusted downloads:** reduce the chance of installing a disguised malicious program.
-- **Software updates:** close vulnerabilities that malware might exploit.
-- **Careful handling of attachments and USB drives:** reduces routes into the system.
-- **Restricted permissions:** limit what a compromised account or program can change.
-
-Backups help recover damaged data. They do not prevent an attacker from reading data that has already been exposed.
 
 ## Authentication and automated-abuse checks
 
 Think of access to an account as a doorway. Different checks ask different questions: do you know a secret, do you have access to an email account, or do you match a stored physical characteristic?
 
-### Password systems
+| Method | What it checks | Strength or limitation |
+|---|---|---|
+| **Password** | A secret entered by the user. | Simple to use, but weak, reused or disclosed passwords undermine it. |
+| **Biometrics** | A physical characteristic, such as a fingerprint or face, against stored information. | Convenient on mobile devices, but recognition can fail and compromised biometric information is difficult to replace. |
+| **CAPTCHA** | Whether activity appears to come from a human rather than automation. | Can reduce automated registration or guessing, but does not establish real identity and may create accessibility difficulties. |
+| **Email confirmation** | Access to the mailbox receiving a link or code. | An attacker controlling that mailbox may pass the check. |
 
-A password checks a **secret entered by the user**. It is simple to use, but weak, reused or disclosed passwords undermine the protection.
-
-### Biometrics
-
-A fingerprint or face is compared with **stored information about a physical characteristic**. This is convenient on mobile devices. Recognition can fail, and compromised biometric information is difficult to replace.
-
-### CAPTCHA
-
-A challenge or similar check helps distinguish **human use from automated activity**. It reduces automated registrations or guessing, but does not establish a person's real identity. It can also create accessibility difficulties.
-
-### Email confirmation
-
-A link or code is sent to an email address to check **access to that mailbox**. An attacker who controls the mailbox may also pass the check.
 
 **Biometrics identify a characteristic, not a permission.** The account still needs suitable access rights after authentication.
 
