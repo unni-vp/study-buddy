@@ -21,11 +21,11 @@
 <h3>Recognising and drawing gates</h3>
 <p><img src="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/Diagrams/logic-gate-symbols.svg" alt="The standard symbols for AND, OR, XOR and NOT gates, with input wires on the left and output wires on the right."></p>
 <p>The small circle on NOT means that the input is inverted. XOR resembles OR but has an extra curved line on its input side. For two true inputs, OR gives <strong>1</strong> while XOR gives <strong>0</strong>.</p>
-<p>For a Boolean expression, brackets show which operation must be performed together. In **<code>A AND (B OR NOT C)</code>**, find <code>NOT C</code>, combine that with B using OR, and then combine the result with A using AND. Without brackets, NOT is applied before AND, and AND before OR.</p>
+<p>For a Boolean expression, brackets show which operation must be performed together. In <strong><code>A AND (B OR NOT C)</code></strong>, find <code>NOT C</code>, combine that with B using OR, and then combine the result with A using AND. Without brackets, NOT is applied before AND, and AND before OR.</p>
 <p>In symbolic expressions, a dot means AND and a plus sign means OR; the plus is not ordinary addition. An overbar applies NOT to the part beneath the bar. Read the extent of that bar carefully.</p>
 <h3>Working through a combined circuit</h3>
 <p><img src="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/Diagrams/combined-logic-circuit.svg" alt="A and B enter AND to produce X, C enters NOT to produce Y, and X and Y enter OR to produce Q."></p>
-<p>The circuit represents **<code>Q = (A AND B) OR (NOT C)</code>**. Its intermediate columns make every step visible:</p>
+<p>The circuit represents <strong><code>Q = (A AND B) OR (NOT C)</code></strong>. Its intermediate columns make every step visible:</p>
 <table>
 <tr><th>A</th><th>B</th><th>C</th><th>X = A AND B</th><th>Y = NOT C</th><th>Q = X OR Y</th></tr>
 <tr><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>

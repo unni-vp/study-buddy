@@ -22,7 +22,7 @@ ORDER BY Loans.BookTitle ASC;
 <p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p>
 <h3>Why the linking condition matters</h3>
 <p>The example has three pupil records and three loan records. Without a linking condition, combining both tables can produce <strong>nine pairings</strong>, including wrong combinations such as Mia with Amir&#x27;s loan.</p>
-<p>The condition **<code>Pupils.PupilID = Loans.PupilID</code>** keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.</p>
+<p>The condition <strong><code>Pupils.PupilID = Loans.PupilID</code></strong> keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.</p>
 <p>A name from the pupil table can appear on several output rows because one pupil can have several loans. This repetition in query results does not mean the pupil&#x27;s full details were unnecessarily copied into every stored loan record.</p>
 <h3>Selecting data using a condition in the other table</h3>
 <pre class="code-block"><code class="language-sql">SELECT Pupils.Name

@@ -22,14 +22,22 @@ def _inline_text(s):
 
 
 def inline(s):
- # Keep Markdown-like operators, links and emphasis inside code literal.
- out=[];end=0
+ # Protect code before formatting surrounding text, so emphasis can span code.
+ # A prefix absent from the input prevents literal text colliding with tokens.
+ prefix='\x00CODE'
+ while prefix in s:prefix+='_'
+ out=[];protected=[];end=0
  for match in re.finditer(r'(?<!`)(`+)(?!`)(.+?)(?<!`)\1(?!`)',s):
-  out.append(_inline_text(s[end:match.start()]))
-  out.append('<code>'+html.escape(match[2])+'</code>')
+  out.append(s[end:match.start()])
+  token=prefix+str(len(protected))+'\x00'
+  protected.append('<code>'+html.escape(match[2])+'</code>')
+  out.append(token)
   end=match.end()
- out.append(_inline_text(s[end:]))
- return ''.join(out)
+ out.append(s[end:])
+ rendered=_inline_text(''.join(out))
+ for index,code in enumerate(protected):
+  rendered=rendered.replace(prefix+str(index)+'\x00',code)
+ return rendered
 
 
 def is_reference_heading(title):

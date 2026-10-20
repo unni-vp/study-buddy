@@ -50,7 +50,7 @@ ENDWHILE
 </ol>
 <p>The data <strong>must be sorted</strong>. Binary search is usually much faster than linear search for a large sorted list because the search area halves each step.</p>
 <h3>Tracking the search boundaries</h3>
-<p>Use the sorted list <code>2, 5, 9, 12, 16, 20, 24, 27</code>, indexed from 0 to 7. The lower middle index is calculated with **<code>(low + high) DIV 2</code>**.</p>
+<p>Use the sorted list <code>2, 5, 9, 12, 16, 20, 24, 27</code>, indexed from 0 to 7. The lower middle index is calculated with <strong><code>(low + high) DIV 2</code></strong>.</p>
 <table>
 <tr><th>Stage</th><th>Current bounds</th><th>Middle value and decision</th></tr>
 <tr><td>1</td><td><code>low = 0</code>, <code>high = 7</code></td><td>Index 3 holds 12. Since 24 is larger, set <code>low = 4</code>.</td></tr>
@@ -60,10 +60,10 @@ ENDWHILE
 <p>The item is at <strong>index 6</strong>, but only <strong>three middle values</strong> were checked. Keep the original indices when narrowing the search; do not renumber the remaining items.</p>
 <p>After an unsuccessful comparison, exclude the middle item as well as the impossible half:</p>
 <ul>
-<li>If the target is smaller, set **<code>high = middle − 1</code>**.</li>
-<li>If the target is larger, set **<code>low = middle + 1</code>**.</li>
+<li>If the target is smaller, set <strong><code>high = middle − 1</code></strong>.</li>
+<li>If the target is larger, set <strong><code>low = middle + 1</code></strong>.</li>
 </ul>
-<p>For target 23, the same first two checks leave indices 6 to 7. The value 24 is too large, so <code>high</code> becomes 5 while <code>low</code> is 6. Now **<code>low &gt; high</code>**, which means no candidates remain and the target is absent.</p>
+<p>For target 23, the same first two checks leave indices 6 to 7. The value 24 is too large, so <code>high</code> becomes 5 while <code>low</code> is 6. Now <strong><code>low &gt; high</code></strong>, which means no candidates remain and the target is absent.</p>
 <h3>Python implementation</h3>
 <pre class="code-block"><code class="language-python">def binary_search(items, target):
     low = 0

@@ -49,7 +49,7 @@ WHERE LoanID = 502;
 <li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
 <li>The table itself still exists; removing its records is different from removing the table structure.</li>
 </ul>
-<p>Use **<code>DELETE FROM</code>**, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
+<p>Use <strong><code>DELETE FROM</code></strong>, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
 <p>Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.</p>
 <h2>Planning and checking a query</h2>
 <p>Before writing, identify the operation:</p>

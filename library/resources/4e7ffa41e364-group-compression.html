@@ -22,7 +22,7 @@
 <p><code>5 0, 3 1, 6 0, 2 1</code></p>
 <p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
 <h3>Decoding and checking storage</h3>
-<p>For frequency/data pairs <code>4 1, 2 0, 3 1</code>, write four 1s, two 0s and three 1s. The original sequence is **<code>111100111</code>**. The frequencies add to 9, which checks the number of reconstructed pixels.</p>
+<p>For frequency/data pairs <code>4 1, 2 0, 3 1</code>, write four 1s, two 0s and three 1s. The original sequence is <strong><code>111100111</code></strong>. The frequencies add to 9, which checks the number of reconstructed pixels.</p>
 <p>The written digits alone do not tell you the compressed size. If a question allocates 4 bits to each frequency and 1 bit to each pixel value, three pairs use <strong>3 × (4 + 1) = 15 bits</strong>. This is larger than the original nine 1-bit pixels.</p>
 <p>Long uniform areas often compress well with RLE. Alternating black and white pixels produce short runs, so storing a count for each run may add more data than it saves.</p>
 <h2>Huffman coding</h2>
@@ -64,7 +64,7 @@
 <pre class="code-block"><code class="language-text">B  A  N  A  N  A
 10 0  11 0  11 0
 </code></pre>
-<p>Joining the codes gives **<code>100110110</code>**. The spaces above only make the groups easier to see.</p>
+<p>Joining the codes gives <strong><code>100110110</code></strong>. The spaces above only make the groups easier to see.</p>
 <p><strong>To decode</strong>, follow the bits from the root until reaching a character. Write that character, then restart at the root. For example, <code>10</code> gives B, then <code>0</code> gives A.</p>
 <h4>Calculate the compressed message size</h4>
 <p>Multiply each character&#x27;s frequency by its code length:</p>

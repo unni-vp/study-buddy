@@ -53,6 +53,18 @@ class CodeRenderingTests(unittest.TestCase):
         self.assertEqual(inline('Use `**x** < y & [link](url)`.'),
                          'Use <code>**x** &lt; y &amp; [link](url)</code>.')
 
+    def test_emphasis_can_surround_code_without_formatting_its_contents(self):
+        self.assertEqual(inline('Use **`x**2` and `y` together**.'),
+                         'Use <strong><code>x**2</code> and <code>y</code> together</strong>.')
+        self.assertEqual(inline('**`age >= 11`**'),
+                         '<strong><code>age &gt;= 11</code></strong>')
+
+    def test_protected_code_cannot_inject_html_or_collide_with_text(self):
+        self.assertEqual(inline('**`<img src=x onerror=bad()>`**'),
+                         '<strong><code>&lt;img src=x onerror=bad()&gt;</code></strong>')
+        self.assertEqual(inline('\x00CODE0\x00 `x`'),
+                         '\x00CODE0\x00 <code>x</code>')
+
     def test_flashcard_conversion_preserves_code_and_comments(self):
         code = 'for count in range(5):\n    # Keep this indentation\n\n    total += count\n'
         source = '# Practice\n\n## 4 marks\n\n**1.** Write a loop.\n\n**Answer:**\n\n```python\n'+code+'```\n\nExplain the total.\n'

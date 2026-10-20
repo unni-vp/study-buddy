@@ -91,7 +91,7 @@ WHERE YearGroup = 10;
 <li>Write numeric values without quotes, such as <code>10</code>.</li>
 <li>Use the table and field names from the question exactly.</li>
 </ul>
-<p>SQL equality uses **<code>=</code>**, not Python&#x27;s <code>==</code> or pseudocode&#x27;s assignment arrow.</p>
+<p>SQL equality uses <strong><code>=</code></strong>, not Python&#x27;s <code>==</code> or pseudocode&#x27;s assignment arrow.</p>
 <h3>AND and OR</h3>
 <pre class="code-block"><code class="language-sql">SELECT Name
 FROM Pupils
@@ -161,7 +161,7 @@ ORDER BY Loans.BookTitle ASC;
 <p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p>
 <h3>Why the linking condition matters</h3>
 <p>The example has three pupil records and three loan records. Without a linking condition, combining both tables can produce <strong>nine pairings</strong>, including wrong combinations such as Mia with Amir&#x27;s loan.</p>
-<p>The condition **<code>Pupils.PupilID = Loans.PupilID</code>** keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.</p>
+<p>The condition <strong><code>Pupils.PupilID = Loans.PupilID</code></strong> keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.</p>
 <p>A name from the pupil table can appear on several output rows because one pupil can have several loans. This repetition in query results does not mean the pupil&#x27;s full details were unnecessarily copied into every stored loan record.</p>
 <h3>Selecting data using a condition in the other table</h3>
 <pre class="code-block"><code class="language-sql">SELECT Pupils.Name
@@ -220,7 +220,7 @@ WHERE LoanID = 502;
 <li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
 <li>The table itself still exists; removing its records is different from removing the table structure.</li>
 </ul>
-<p>Use **<code>DELETE FROM</code>**, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
+<p>Use <strong><code>DELETE FROM</code></strong>, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
 <p>Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.</p>
 <h2>Planning and checking a query</h2>
 <p>Before writing, identify the operation:</p>

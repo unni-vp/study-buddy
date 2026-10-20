@@ -221,7 +221,7 @@ print(answer)
 <li>The loop checks <strong>all items</strong>, even after finding a match, because duplicates count.</li>
 <li>The function <strong>returns</strong> its result; the calling code prints it.</li>
 </ul>
-<p>Searching for <code>red</code> outputs **3; <code>yellow</code> outputs 0**. An empty list also produces 0.</p></div></details></div><div class="qa-question" id="q36"><p><strong>36.</strong> Write a Python function <code>next_letters(text)</code> that replaces each uppercase English letter with the next letter of the alphabet. <code>Z</code> must wrap round to <code>A</code>. For example, <code>AZ</code> becomes <code>BA</code>.</p>
+<p>Searching for <code>red</code> outputs <strong>3; <code>yellow</code> outputs 0</strong>. An empty list also produces 0.</p></div></details></div><div class="qa-question" id="q36"><p><strong>36.</strong> Write a Python function <code>next_letters(text)</code> that replaces each uppercase English letter with the next letter of the alphabet. <code>Z</code> must wrap round to <code>A</code>. For example, <code>AZ</code> becomes <code>BA</code>.</p>
 <p>Assume the string contains only <code>A</code>–<code>Z</code>, or is empty. Use <code>ord()</code> and <code>chr()</code>, build a new string and return it. The character code of <code>A</code> is 65 and that of <code>Z</code> is 90.</p><details class="qa-answer" id="answer-36"><summary aria-label="Answer to question 36">Answer:</summary><div class="qa-answer-body"><pre class="code-block"><code class="language-python">def next_letters(text):
     result = &quot;&quot;
     for letter in text:
