@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Required practical: pure dry salt crystals",
+      "diagram": "Chemistry - AQA/04 - Chemical changes/Diagrams/salt-crystals-practical.svg",
+      "purpose": "Filter excess insoluble solid, collect the salt solution, then concentrate it in an evaporating basin over a water bath and cool to crystallise."
+    },
+    {
+      "heading": "Required practical: aqueous electrolysis",
+      "diagram": "Chemistry - AQA/04 - Chemical changes/Diagrams/electrolysis.svg",
+      "purpose": "An aqueous solution is electrolysed using a low-voltage DC supply and separate inert electrodes: positive anode and negative cathode."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

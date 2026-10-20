@@ -100,6 +100,9 @@ Hydrogen gives a **squeaky pop** with a lit splint. Carbon dioxide turns **limew
 
 ## Required practical: pure dry salt crystals
 
+
+![Filter excess insoluble solid, collect the salt solution, then concentrate it in an evaporating basin over a water bath and cool to crystallise.](../Diagrams/salt-crystals-practical.svg)
+
 To make **copper sulfate** from dilute sulfuric acid and insoluble copper oxide:
 
 1. Wear eye protection. **Gently warm the dilute acid** using the specified apparatus; do not boil it. Turn off the burner before adding solid.
@@ -191,6 +194,9 @@ Useful half-equations:
 Do not produce sodium metal from sodium chloride **solution**: hydrogen forms instead. Molten sodium chloride gives sodium and chlorine. The molten/aqueous distinction changes the answer.
 
 ## Required practical: aqueous electrolysis
+
+
+![An aqueous solution is electrolysed using a low-voltage DC supply and separate inert electrodes: positive anode and negative cathode.](../Diagrams/electrolysis.svg)
 
 Investigate the hypothesis: **changing the dissolved ionic compound changes the electrode products**.
 
