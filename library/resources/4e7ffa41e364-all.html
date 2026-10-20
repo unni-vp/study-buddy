@@ -88,15 +88,62 @@
 <p><code>5 0, 3 1, 6 0, 2 1</code></p>
 <p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
 <h2>Huffman coding</h2>
-<p><strong>Huffman coding</strong> gives shorter codes to more frequent symbols and longer codes to less frequent symbols.</p>
+<p><strong>Huffman coding</strong> represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.</p>
 <ol>
 <li>Count each symbol&#x27;s frequency.</li>
 <li>Repeatedly combine the two lowest-frequency nodes.</li>
 <li>Label branches 0 and 1.</li>
 <li>Read each symbol&#x27;s code from root to leaf.</li>
 </ol>
-<p>No code is the prefix of another, so the encoded stream can be decoded unambiguously.</p>
+<p>The codes are <strong>prefix-free</strong>: no complete code is the start of another code. This lets the receiver decode the message without needing spaces between codes.</p>
 <p>To calculate compressed size, multiply each symbol&#x27;s frequency by its code length and add the results. Compare with uncompressed ASCII at <strong>7 bits per character</strong> when instructed.</p>
+<h3>Worked example: BANANA</h3>
+<h4>1. Count the characters</h4>
+<p>The message <strong>BANANA</strong> has six characters:</p>
+<ul>
+<li><strong>A:</strong> 3 occurrences.</li>
+<li><strong>N:</strong> 2 occurrences.</li>
+<li><strong>B:</strong> 1 occurrence.</li>
+</ul>
+<h4>2. Build the tree</h4>
+<p>Always combine the <strong>two lowest frequencies still available</strong>:</p>
+<ol>
+<li>Combine <strong>B (1)</strong> and <strong>N (2)</strong> to make a node with frequency <strong>3</strong>.</li>
+<li>Combine that node <strong>(3)</strong> with <strong>A (3)</strong> to make the root, frequency <strong>6</strong>.</li>
+</ol>
+<p>In this tree, a <strong>left branch is 0</strong> and a <strong>right branch is 1</strong>.</p>
+<p><img src="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/Diagrams/huffman-banana.svg" alt="Huffman tree for BANANA. The root has frequency 6. Its left branch, 0, leads to A with frequency 3. Its right branch, 1, leads to a node of frequency 3. That node&#x27;s left branch, 0, leads to B with frequency 1; its right branch, 1, leads to N with frequency 2."></p>
+<h4>3. Read the codes and encode the message</h4>
+<p>Read each path <strong>from the root to the character</strong>:</p>
+<table>
+<tr><th>Character</th><th>Frequency</th><th>Code</th></tr>
+<tr><td>A</td><td>3</td><td><code>0</code></td></tr>
+<tr><td>N</td><td>2</td><td><code>11</code></td></tr>
+<tr><td>B</td><td>1</td><td><code>10</code></td></tr>
+</table>
+<p>Match each character to its code:</p>
+<pre class="code-block"><code class="language-text">B  A  N  A  N  A
+10 0  11 0  11 0
+</code></pre>
+<p>Joining the codes gives **<code>100110110</code>**. The spaces above only make the groups easier to see.</p>
+<p><strong>To decode</strong>, follow the bits from the root until reaching a character. Write that character, then restart at the root. For example, <code>10</code> gives B, then <code>0</code> gives A.</p>
+<h4>4. Calculate the compressed message size</h4>
+<p>Multiply each character&#x27;s frequency by its code length:</p>
+<ul>
+<li><strong>A:</strong> 3 × 1 = <strong>3 bits</strong>.</li>
+<li><strong>N:</strong> 2 × 2 = <strong>4 bits</strong>.</li>
+<li><strong>B:</strong> 1 × 2 = <strong>2 bits</strong>.</li>
+</ul>
+<p>Total = 3 + 4 + 2 = <strong>9 bits</strong>.</p>
+<h4>5. Compare with 7-bit ASCII</h4>
+<p>For the <strong>message data alone</strong>:</p>
+<ul>
+<li><strong>ASCII:</strong> 6 characters × 7 bits = <strong>42 bits</strong>.</li>
+<li><strong>Huffman:</strong> <strong>9 bits</strong>.</li>
+<li><strong>Saving:</strong> 42 − 9 = <strong>33 bits</strong>.</li>
+</ul>
+<p>If a question supplies storage for the code table or tree, include it in the compressed total.</p>
+<p>When frequencies tie, more than one valid tree may be possible. The codes can differ, so follow the tree and branch labels given in the question.</p>
 <h3>RLE and Huffman coding</h3>
 <table>
 <tr><th>Feature</th><th>Run-length encoding</th><th>Huffman coding</th></tr>

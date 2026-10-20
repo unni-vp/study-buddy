@@ -131,16 +131,80 @@ RLE can make varied data larger because short runs need their own frequency valu
 
 ## Huffman coding
 
-**Huffman coding** gives shorter codes to more frequent symbols and longer codes to less frequent symbols.
+**Huffman coding** represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.
 
 1. Count each symbol's frequency.
 2. Repeatedly combine the two lowest-frequency nodes.
 3. Label branches 0 and 1.
 4. Read each symbol's code from root to leaf.
 
-No code is the prefix of another, so the encoded stream can be decoded unambiguously.
+The codes are **prefix-free**: no complete code is the start of another code. This lets the receiver decode the message without needing spaces between codes.
 
 To calculate compressed size, multiply each symbol's frequency by its code length and add the results. Compare with uncompressed ASCII at **7 bits per character** when instructed.
+
+### Worked example: BANANA
+
+#### 1. Count the characters
+
+The message **BANANA** has six characters:
+
+- **A:** 3 occurrences.
+- **N:** 2 occurrences.
+- **B:** 1 occurrence.
+
+#### 2. Build the tree
+
+Always combine the **two lowest frequencies still available**:
+
+1. Combine **B (1)** and **N (2)** to make a node with frequency **3**.
+2. Combine that node **(3)** with **A (3)** to make the root, frequency **6**.
+
+In this tree, a **left branch is 0** and a **right branch is 1**.
+
+![Huffman tree for BANANA. The root has frequency 6. Its left branch, 0, leads to A with frequency 3. Its right branch, 1, leads to a node of frequency 3. That node's left branch, 0, leads to B with frequency 1; its right branch, 1, leads to N with frequency 2.](../Diagrams/huffman-banana.svg)
+
+#### 3. Read the codes and encode the message
+
+Read each path **from the root to the character**:
+
+| Character | Frequency | Code |
+|---|---|---|
+| A | 3 | `0` |
+| N | 2 | `11` |
+| B | 1 | `10` |
+
+Match each character to its code:
+
+```text
+B  A  N  A  N  A
+10 0  11 0  11 0
+```
+
+Joining the codes gives **`100110110`**. The spaces above only make the groups easier to see.
+
+**To decode**, follow the bits from the root until reaching a character. Write that character, then restart at the root. For example, `10` gives B, then `0` gives A.
+
+#### 4. Calculate the compressed message size
+
+Multiply each character's frequency by its code length:
+
+- **A:** 3 × 1 = **3 bits**.
+- **N:** 2 × 2 = **4 bits**.
+- **B:** 1 × 2 = **2 bits**.
+
+Total = 3 + 4 + 2 = **9 bits**.
+
+#### 5. Compare with 7-bit ASCII
+
+For the **message data alone**:
+
+- **ASCII:** 6 characters × 7 bits = **42 bits**.
+- **Huffman:** **9 bits**.
+- **Saving:** 42 − 9 = **33 bits**.
+
+If a question supplies storage for the code table or tree, include it in the compressed total.
+
+When frequencies tie, more than one valid tree may be possible. The codes can differ, so follow the tree and branch labels given in the question.
 
 ### RLE and Huffman coding
 

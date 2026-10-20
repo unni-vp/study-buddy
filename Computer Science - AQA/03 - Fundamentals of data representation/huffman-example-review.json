@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-10-20",
+  "specification": "AQA 8525 specification for first exams 2027, section 3.3.8",
+  "generator": "scripts/huffman_worked_example.py",
+  "example": {
+    "word": "BANANA",
+    "frequencies": {
+      "B": 1,
+      "A": 3,
+      "N": 2
+    },
+    "codes": {
+      "A": "0",
+      "B": "10",
+      "N": "11"
+    },
+    "encoded": "100110110",
+    "message_bits": 9,
+    "ascii_bits": 42,
+    "saved_bits": 33
+  },
+  "verification": [
+    "Frequency count, prefix-free codes, weighted message length and round-trip decoding verified by the drawing source.",
+    "Huffman tree visually inspected; labels checked for overlaps and clipping.",
+    "All note groups checked at 1366, 390 and 320 px; diagram loads and tables render without page overflow."
+  ],
+  "scope": "Message-data saving is distinguished from any supplied tree/code-table storage."
+}
