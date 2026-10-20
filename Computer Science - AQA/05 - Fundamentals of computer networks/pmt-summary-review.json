@@ -1,0 +1,93 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/5-Fundamentals-of-Computer-Networks/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 7,
+  "sha256": "a458cf640c2f9693e2ef481a55c1848cfd8fe302d69e07aaf561ed79281c6e8f",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.5 Network types and connections",
+      "pmt_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "note_headings": [
+        "Networks, benefits and risks",
+        "PAN, LAN and WAN",
+        "Wired and wireless networks"
+      ],
+      "added_or_developed": [
+        "Developed benefits and service-dependency consequences",
+        "Expanded abbreviations and classification examples",
+        "Contextual copper/fibre and wired/wireless choices"
+      ],
+      "decisions": [
+        "Bus/star topology detail is not specified in the revised 2027 content and is not imported as mandatory coverage. A LAN has no fixed small-device limit; speed is not a defining network type."
+      ]
+    },
+    {
+      "section": "3.5 Protocols and layered model",
+      "pmt_pages": [
+        5,
+        6,
+        7
+      ],
+      "note_headings": [
+        "Protocols",
+        "The four-layer TCP/IP model",
+        "Following a web request"
+      ],
+      "added_or_developed": [
+        "Full protocol-name table preserved",
+        "Complete SMTP/IMAP email journey",
+        "TCP/IP responsibility distinction",
+        "Sender/receiver layer direction and modularity"
+      ],
+      "decisions": [
+        "Required protocol list follows AQA: TCP, IP, HTTP, HTTPS, SMTP, IMAP. UDP and FTP in the source are not added as required named protocols. Wi-Fi is not expanded as Wireless Fidelity."
+      ]
+    },
+    {
+      "section": "3.5 Network security",
+      "pmt_pages": [
+        6,
+        7
+      ],
+      "note_headings": [
+        "Why network security matters",
+        "Authentication and encryption",
+        "Firewalls and MAC address filtering"
+      ],
+      "added_or_developed": [
+        "Plaintext/ciphertext and key explanation",
+        "Account versus adapter identity",
+        "Concrete filtering examples and combined defences"
+      ],
+      "decisions": [
+        "No absolute claim that a cable guarantees privacy or that a factory MAC address cannot be changed."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Network types and connections",
+    "Protocols",
+    "Network security",
+    "TCP/IP layers"
+  ],
+  "word_count_before": 1402,
+  "word_count_after": 2364,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

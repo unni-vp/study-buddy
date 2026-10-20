@@ -9,6 +9,10 @@
 <tr><td>Central management</td><td>Accounts, updates and backups can be managed centrally.</td><td>Users may depend on network equipment and services remaining available.</td></tr>
 <tr><td>Connected devices</td><td>Information is easier to exchange.</td><td>Malware or faults can spread; security and privacy need protection.</td></tr>
 </table>
+<h3>Linking the benefit to the reason</h3>
+<p>A shared printer can serve several computers, so an organisation may need fewer printers. Shared files let users work from a common version rather than repeatedly exchange separate copies. Central administration lets an administrator install updates or manage accounts across many computers.</p>
+<p>These services create dependencies. If a file server becomes unavailable, users may temporarily lose access to shared documents even though their own computers still work. This is not necessarily permanent file loss; recovery depends on the fault and the backups.</p>
+<p>Networks also need equipment, installation, maintenance and trained administration. A useful evaluation balances those costs against the number of users and the services they need.</p>
 <h2>PAN, LAN and WAN</h2>
 <table>
 <tr><th>Type</th><th>Scale and ownership</th><th>Example</th></tr>
@@ -17,6 +21,10 @@
 <tr><td>WAN</td><td>Wide geographical area, often using third-party infrastructure and distributed ownership</td><td>The Internet</td></tr>
 </table>
 <p>Classify a network using <strong>geographical scale</strong>, how devices connect and who owns or manages the infrastructure.</p>
+<p><strong>PAN</strong> means Personal Area Network. A phone communicating with a smartwatch by Bluetooth is a PAN around one person. It does not become a WAN simply because the phone can also access the internet.</p>
+<p><strong>LAN</strong> means Local Area Network. A school&#x27;s computers, shared printers and local servers can form a LAN controlled by that school. A LAN can contain many devices; “local” describes its geographical area, not a fixed maximum number of computers.</p>
+<p><strong>WAN</strong> means Wide Area Network. A business may connect offices in different cities using communication links provided by other organisations. The internet connects networks worldwide and has distributed ownership.</p>
+<p>Scale and management identify these categories. Speed alone cannot reliably distinguish them: performance depends on the actual links and equipment.</p>
 <h2>Wired and wireless networks</h2>
 <table>
 <tr><th>Feature</th><th>Wired network</th><th>Wireless network</th></tr>
@@ -35,6 +43,10 @@
 <tr><td>Trade-off</td><td>Can be affected by electromagnetic interference.</td><td>Resists electromagnetic interference, but installation can cost more.</td></tr>
 </table>
 <p>Choose a connection for the stated situation. Do not assume one option is always faster or more secure in every installation.</p>
+<h3>Making a justified connection choice</h3>
+<p>A fixed desktop used for large transfers may benefit from a stable wired connection. A tablet carried around a classroom needs mobility, so wireless access is more practical. Wireless performance can fall when walls weaken the signal or many nearby devices compete for access.</p>
+<p>Copper carries electrical signals and is often economical for shorter connections within a building. Fibre carries light, supports high bandwidth over longer distances and resists electromagnetic interference. Fibre installation and the equipment at its ends may cost more.</p>
+<p>Neither connection automatically makes transmitted information private. Wired access can still be compromised, and wireless signals may be received outside the intended room. Authentication and encryption address risks that a speed comparison alone does not cover.</p>
 <h2>Protocols</h2>
 <p>A <strong>network protocol</strong> is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.</p>
 <table>
@@ -69,6 +81,18 @@
 <tr><td>Example action</td><td>Send a new message to somebody else.</td><td>Read a message or synchronise folders and read/unread status across devices.</td></tr>
 <tr><td>What to distinguish</td><td>Sending a message does not replace mailbox access.</td><td>Reading or organising a mailbox is different from sending a message.</td></tr>
 </table>
+<h3>Following an email</h3>
+<ol>
+<li>A sender&#x27;s email application submits an outgoing message using <strong>SMTP</strong>.</li>
+<li>Mail servers use <strong>SMTP</strong> to pass the message towards the recipient&#x27;s mail server.</li>
+<li>The recipient&#x27;s application uses <strong>IMAP</strong> to access the stored mailbox and manage messages.</li>
+<li>Server-held folders and read/unread status can then be reflected on the recipient&#x27;s other devices.</li>
+</ol>
+<p>SMTP and IMAP are not alternative names for the same step. One handles sending; the other handles access to the mailbox.</p>
+<h3>Reliable delivery and addressing</h3>
+<p><strong>IP</strong> identifies destinations and supports routing packets between networks. Different packets may travel by different routes. IP alone does not guarantee that all data arrives in order.</p>
+<p><strong>TCP</strong> manages reliable end-to-end communication. It supports sequencing, detects missing data and arranges retransmission where necessary, helping the receiver reconstruct the data correctly. A destination address answers “where?”, while reliable delivery answers “has the complete data arrived correctly?”.</p>
+<p>An <strong>HTTPS</strong> connection protects web data while it travels and helps authenticate the server connection. That matters when submitting login or payment details. It does not prove that every claim on a website is truthful or that a downloaded file is harmless.</p>
 <h2>Why network security matters</h2>
 <p>Network security protects systems and data from unauthorised access, alteration, damage and disruption. A strong design uses several controls because each deals with different risks.</p>
 <p>Possible consequences of weak security include data theft, changed files, unavailable services, financial loss and damage to reputation.</p>
@@ -80,6 +104,10 @@
 <tr><td>Limitation</td><td>Checking identity does not itself hide intercepted traffic.</td><td>An authorised recipient still needs the required key; encryption does not decide account permissions.</td></tr>
 </table>
 <p>Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.</p>
+<h3>Protecting a school record system</h3>
+<p>Authentication asks the user to prove their claimed identity before access is accepted. For example, a username identifies an account and a password provides a secret associated with that account. A further factor, such as access to an authenticator device, can add protection if a password is stolen.</p>
+<p>Encryption transforms readable <strong>plaintext</strong> into <strong>ciphertext</strong> using a key. The intended recipient uses the appropriate decryption process and key to recover readable data. It protects the contents of intercepted communication rather than preventing interception itself.</p>
+<p>A user can pass authentication and still have permission only to read their own record. Identity checking, data encryption and access permissions have related but distinct jobs.</p>
 <h2>Firewalls and MAC address filtering</h2>
 <table>
 <tr><th>Feature</th><th>Firewall</th><th>MAC address filtering</th></tr>
@@ -88,6 +116,10 @@
 <tr><td>Limitation</td><td>Incorrect rules may block legitimate traffic or allow threats.</td><td>Addresses can be copied or spoofed, so this should not be the only defence.</td></tr>
 </table>
 <p>Use <strong>layered security</strong>: authentication, encryption, firewall rules and device controls support one another.</p>
+<p><strong>MAC</strong> means Media Access Control. A network adapter has a physical address that a filtering rule can compare with an allow list or block list. For example, a school can restrict a network to the addresses registered for its managed devices.</p>
+<p>A copied or spoofed address can weaken this control, so MAC filtering should not replace authentication and encryption. It also does not prove which person is currently using an allowed device.</p>
+<p>A firewall can allow the traffic needed for a school website while blocking traffic that breaks its configured rules. It monitors incoming and outgoing traffic; it does not simply reject every connection. A badly chosen rule may block legitimate work or allow an unwanted connection.</p>
+<p>Together, identity checks restrict account access, encryption protects data in transit, firewall rules filter traffic, and MAC filtering controls permitted adapters. Each contributes a different part of the defence.</p>
 <h2>The four-layer TCP/IP model</h2>
 <p>Layering divides networking into manageable jobs. Each layer provides services to the layer above and uses the layer below.</p>
 <table>
@@ -98,6 +130,10 @@
 <tr><td>Link</td><td>Works with local network hardware and transmission</td><td>NIC and operating-system device drivers</td></tr>
 </table>
 <p>When data is sent, each layer adds information needed for its job. At the destination, layers process and remove the relevant information. This separation makes protocols easier to develop and replace without redesigning the whole system.</p>
+<h3>Why separate the jobs?</h3>
+<p>Think of sending a parcel: writing its contents, preparing its delivery, choosing a route and physically moving it are separate responsibilities. The networking layers similarly let specialists change one part without redesigning every application.</p>
+<p>On the sender, application data passes <strong>down</strong> through transport, internet and link processing. On the receiver, the corresponding processing happens <strong>upwards</strong> until the data reaches the application. Each layer uses the services below it and offers a service to the layer above.</p>
+<p>The link layer deals with the local connection and its hardware. The internet layer deals with addressing and routing between networks. Keeping those roles separate explains why changing the local connection does not require rewriting the email application&#x27;s rules.</p>
 <h2>Following a web request</h2>
 <ol>
 <li>At the application layer, the browser creates an HTTP or HTTPS request.</li>
@@ -118,4 +154,8 @@
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>
 <li>AQA GCSE Computer Science 8525 specification, section 3.5.</li>
+</ul>
+<ul>
+<li><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
+<li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

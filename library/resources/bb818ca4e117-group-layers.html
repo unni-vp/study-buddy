@@ -9,6 +9,10 @@
 <tr><td>Link</td><td>Works with local network hardware and transmission</td><td>NIC and operating-system device drivers</td></tr>
 </table>
 <p>When data is sent, each layer adds information needed for its job. At the destination, layers process and remove the relevant information. This separation makes protocols easier to develop and replace without redesigning the whole system.</p>
+<h3>Why separate the jobs?</h3>
+<p>Think of sending a parcel: writing its contents, preparing its delivery, choosing a route and physically moving it are separate responsibilities. The networking layers similarly let specialists change one part without redesigning every application.</p>
+<p>On the sender, application data passes <strong>down</strong> through transport, internet and link processing. On the receiver, the corresponding processing happens <strong>upwards</strong> until the data reaches the application. Each layer uses the services below it and offers a service to the layer above.</p>
+<p>The link layer deals with the local connection and its hardware. The internet layer deals with addressing and routing between networks. Keeping those roles separate explains why changing the local connection does not require rewriting the email application&#x27;s rules.</p>
 <h2>Following a web request</h2>
 <ol>
 <li>At the application layer, the browser creates an HTTP or HTTPS request.</li>

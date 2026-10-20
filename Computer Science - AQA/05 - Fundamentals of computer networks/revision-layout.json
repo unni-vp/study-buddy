@@ -7,9 +7,15 @@
       "description": "Compare PANs, LANs, WANs, wired and wireless links.",
       "icon": "computer-network",
       "sections": [
-        {"heading": "Networks, benefits and risks"},
-        {"heading": "PAN, LAN and WAN"},
-        {"heading": "Wired and wireless networks"}
+        {
+          "heading": "Networks, benefits and risks"
+        },
+        {
+          "heading": "PAN, LAN and WAN"
+        },
+        {
+          "heading": "Wired and wireless networks"
+        }
       ]
     },
     {
@@ -18,7 +24,9 @@
       "description": "Match TCP, IP and application protocols to their jobs.",
       "icon": "computer-protocol",
       "sections": [
-        {"heading": "Protocols"}
+        {
+          "heading": "Protocols"
+        }
       ]
     },
     {
@@ -27,9 +35,15 @@
       "description": "Combine authentication, encryption, firewalls and device filtering.",
       "icon": "computer-security",
       "sections": [
-        {"heading": "Why network security matters"},
-        {"heading": "Authentication and encryption"},
-        {"heading": "Firewalls and MAC address filtering"}
+        {
+          "heading": "Why network security matters"
+        },
+        {
+          "heading": "Authentication and encryption"
+        },
+        {
+          "heading": "Firewalls and MAC address filtering"
+        }
       ]
     },
     {
@@ -38,9 +52,15 @@
       "description": "Follow data through the four-layer model.",
       "icon": "computer-layers",
       "sections": [
-        {"heading": "The four-layer TCP/IP model"},
-        {"heading": "Following a web request"},
-        {"heading": "Comparison checklist"}
+        {
+          "heading": "The four-layer TCP/IP model"
+        },
+        {
+          "heading": "Following a web request"
+        },
+        {
+          "heading": "Comparison checklist"
+        }
       ]
     }
   ]

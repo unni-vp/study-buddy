@@ -10,6 +10,10 @@
 <tr><td>Limitation</td><td>Checking identity does not itself hide intercepted traffic.</td><td>An authorised recipient still needs the required key; encryption does not decide account permissions.</td></tr>
 </table>
 <p>Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.</p>
+<h3>Protecting a school record system</h3>
+<p>Authentication asks the user to prove their claimed identity before access is accepted. For example, a username identifies an account and a password provides a secret associated with that account. A further factor, such as access to an authenticator device, can add protection if a password is stolen.</p>
+<p>Encryption transforms readable <strong>plaintext</strong> into <strong>ciphertext</strong> using a key. The intended recipient uses the appropriate decryption process and key to recover readable data. It protects the contents of intercepted communication rather than preventing interception itself.</p>
+<p>A user can pass authentication and still have permission only to read their own record. Identity checking, data encryption and access permissions have related but distinct jobs.</p>
 <h2>Firewalls and MAC address filtering</h2>
 <table>
 <tr><th>Feature</th><th>Firewall</th><th>MAC address filtering</th></tr>
@@ -17,4 +21,8 @@
 <tr><td>Decision</td><td>Allows or blocks traffic using defined security rules.</td><td>Allows or blocks devices using their MAC addresses.</td></tr>
 <tr><td>Limitation</td><td>Incorrect rules may block legitimate traffic or allow threats.</td><td>Addresses can be copied or spoofed, so this should not be the only defence.</td></tr>
 </table>
-<p>Use <strong>layered security</strong>: authentication, encryption, firewall rules and device controls support one another.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="bb818ca4e117-group-protocols.html"><span>← Previous</span><strong>Protocols</strong></a><a href="bb818ca4e117-group-layers.html"><span>Next →</span><strong>TCP/IP layers</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Use <strong>layered security</strong>: authentication, encryption, firewall rules and device controls support one another.</p>
+<p><strong>MAC</strong> means Media Access Control. A network adapter has a physical address that a filtering rule can compare with an allow list or block list. For example, a school can restrict a network to the addresses registered for its managed devices.</p>
+<p>A copied or spoofed address can weaken this control, so MAC filtering should not replace authentication and encryption. It also does not prove which person is currently using an allowed device.</p>
+<p>A firewall can allow the traffic needed for a school website while blocking traffic that breaks its configured rules. It monitors incoming and outgoing traffic; it does not simply reject every connection. A badly chosen rule may block legitimate work or allow an unwanted connection.</p>
+<p>Together, identity checks restrict account access, encryption protects data in transit, firewall rules filter traffic, and MAC filtering controls permitted adapters. Each contributes a different part of the defence.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="bb818ca4e117-group-protocols.html"><span>← Previous</span><strong>Protocols</strong></a><a href="bb818ca4e117-group-layers.html"><span>Next →</span><strong>TCP/IP layers</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
