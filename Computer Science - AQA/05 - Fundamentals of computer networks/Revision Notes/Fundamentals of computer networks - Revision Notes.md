@@ -6,20 +6,13 @@ A **computer network** is two or more computers or devices connected so they can
 
 Think of a network as a transport system: devices are destinations, links are roads and protocols are agreed traffic rules.
 
-Advantages include:
+| Aspect | Benefit | Possible disadvantage |
+|---|---|---|
+| Shared resources | Users can share files, printers and an internet connection. | Setup, equipment and maintenance cost money. |
+| Communication | Users can collaborate and access shared services from different devices. | Congestion can reduce performance. |
+| Central management | Accounts, updates and backups can be managed centrally. | Users may depend on network equipment and services remaining available. |
+| Connected devices | Information is easier to exchange. | Malware or faults can spread; security and privacy need protection. |
 
-- sharing files, printers and internet connections
-- communication and collaboration
-- central user accounts, updates and backups
-- access to shared services from different devices
-
-Disadvantages include:
-
-- setup and maintenance cost
-- dependence on network equipment and services
-- security and privacy risks
-- malware or faults spreading between connected devices
-- congestion reducing performance
 
 ## PAN, LAN and WAN
 
@@ -33,22 +26,26 @@ Classify a network using **geographical scale**, how devices connect and who own
 
 ## Wired and wireless networks
 
-### Wired
+| Feature | Wired network | Wireless network |
+|---|---|---|
+| Connection | A cable connects each device. | Radio signals connect devices without a cable to each one. |
+| Mobility | Movement is restricted by cables. | Users can move around within coverage. |
+| Installation | Cabling can cost money and disrupt a building. | Convenient where cables are difficult; mobile devices are easier to add. |
+| Performance | Usually stable, with low latency and less radio interference. | Distance, obstacles, interference and congestion can reduce signal quality. |
+| Security | Physical access makes interception harder, but a cable does not guarantee security. | Signals may extend beyond a building, so authentication and encryption are important. |
+| Suitable use | Fixed devices needing a stable connection. | Phones and tablets needing mobility. |
 
-- Usually stable, low latency and less affected by radio interference.
-- Physical access makes interception harder, although it is not automatically secure.
-- Devices are restricted by cables and installation can be disruptive.
-- **Copper cable** is common and relatively inexpensive for shorter links.
-- **Fibre-optic cable** carries light, supports high bandwidth and long distances, and resists electromagnetic interference, but can cost more to install.
 
-### Wireless
+### Copper and fibre-optic cable
 
-- Supports mobility and is convenient where cables are difficult.
-- Easier to add mobile devices.
-- Signal quality may fall with distance, obstacles, interference or congestion.
-- Signals can extend beyond a building, increasing the need for authentication and encryption.
+| Feature | Copper cable | Fibre-optic cable |
+|---|---|---|
+| Signal | Carries electrical signals. | Carries light. |
+| Suitable use | Common, relatively inexpensive shorter links. | High-bandwidth links over long distances. |
+| Trade-off | Can be affected by electromagnetic interference. | Resists electromagnetic interference, but installation can cost more. |
 
-Choose a connection for the situation: fixed high-demand devices may benefit from wired links, while phones and tablets need wireless mobility.
+
+Choose a connection for the stated situation. Do not assume one option is always faster or more secure in every installation.
 
 ## Protocols
 
@@ -63,7 +60,35 @@ A **network protocol** is an agreed set of rules for communication. Both ends mu
 | SMTP | Simple Mail Transfer Protocol | Sends email from a client to a server and between mail servers |
 | IMAP | Internet Message Access Protocol | Accesses and manages email kept on a mail server, synchronising folders and status |
 
+### TCP and IP
+
+| Feature | TCP | IP |
+|---|---|---|
+| Main job | Manages reliable end-to-end communication, including ordering data and detecting missing data. | Addresses and routes packets between networks. |
+| TCP/IP layer | **Transport**. | **Internet**. |
+| How they work together | Helps the destination reconstruct the correct data stream. | Gets addressed packets towards the destination. |
+
+
+### HTTP and HTTPS
+
+| Feature | HTTP | HTTPS |
+|---|---|---|
+| Use | Transfers web pages and related web data. | Performs web communication using an encrypted connection. |
+| Data in transit | Does not itself encrypt the connection. | Protects transmitted data against being read by an interceptor. |
+| Authentication | Does not itself authenticate the server through a certificate. | Uses certificates to help authenticate the server connection. |
+
+
 Do not write that HTTPS makes a website completely safe. It protects data in transit and helps authenticate the connection; the site or user's device could still be harmful or compromised.
+
+### SMTP and IMAP
+
+| Feature | SMTP | IMAP |
+|---|---|---|
+| Main job | **Sends email.** | **Accesses and manages email stored on a server.** |
+| Communication | Client to outgoing mail server, and between mail servers. | An email client communicates with the server holding the mailbox. |
+| Example action | Send a new message to somebody else. | Read a message or synchronise folders and read/unread status across devices. |
+| What to distinguish | Sending a message does not replace mailbox access. | Reading or organising a mailbox is different from sending a message. |
+
 
 ## Why network security matters
 
@@ -73,18 +98,25 @@ Possible consequences of weak security include data theft, changed files, unavai
 
 ## Authentication and encryption
 
-- **Authentication** checks identity before granting access, for example username/password or another factor.
-- **Encryption** transforms readable plaintext into ciphertext using a key. An authorised recipient uses the required key to recover the plaintext.
+| Feature | Authentication | Encryption |
+|---|---|---|
+| Purpose | Checks identity before access is granted. | Makes data unreadable without the appropriate key. |
+| Example | Check a username/password or another identity factor. | Transform plaintext into ciphertext before transmission. |
+| Limitation | Checking identity does not itself hide intercepted traffic. | An authorised recipient still needs the required key; encryption does not decide account permissions. |
+
 
 Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.
 
 ## Firewalls and MAC address filtering
 
-A **firewall** monitors incoming and outgoing traffic and allows or blocks it using security rules. It can reduce unwanted connections, but incorrect rules may block legitimate traffic or allow threats.
+| Feature | Firewall | MAC address filtering |
+|---|---|---|
+| What is checked? | Incoming and outgoing network traffic. | The physical address associated with a device’s network adapter. |
+| Decision | Allows or blocks traffic using defined security rules. | Allows or blocks devices using their MAC addresses. |
+| Limitation | Incorrect rules may block legitimate traffic or allow threats. | Addresses can be copied or spoofed, so this should not be the only defence. |
 
-**MAC address filtering** allows or blocks a device using the physical address associated with its network adapter. It can restrict known devices, but addresses may be copied or spoofed, so it should not be the only defence.
 
-Use layered security: authentication, encryption, firewall rules and device controls support one another.
+Use **layered security**: authentication, encryption, firewall rules and device controls support one another.
 
 ## The four-layer TCP/IP model
 

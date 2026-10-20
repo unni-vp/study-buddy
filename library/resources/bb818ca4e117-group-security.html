@@ -3,12 +3,18 @@
 <p>Network security protects systems and data from unauthorised access, alteration, damage and disruption. A strong design uses several controls because each deals with different risks.</p>
 <p>Possible consequences of weak security include data theft, changed files, unavailable services, financial loss and damage to reputation.</p>
 <h2>Authentication and encryption</h2>
-<ul>
-<li><strong>Authentication</strong> checks identity before granting access, for example username/password or another factor.</li>
-<li><strong>Encryption</strong> transforms readable plaintext into ciphertext using a key. An authorised recipient uses the required key to recover the plaintext.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>Authentication</th><th>Encryption</th></tr>
+<tr><td>Purpose</td><td>Checks identity before access is granted.</td><td>Makes data unreadable without the appropriate key.</td></tr>
+<tr><td>Example</td><td>Check a username/password or another identity factor.</td><td>Transform plaintext into ciphertext before transmission.</td></tr>
+<tr><td>Limitation</td><td>Checking identity does not itself hide intercepted traffic.</td><td>An authorised recipient still needs the required key; encryption does not decide account permissions.</td></tr>
+</table>
 <p>Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.</p>
 <h2>Firewalls and MAC address filtering</h2>
-<p>A <strong>firewall</strong> monitors incoming and outgoing traffic and allows or blocks it using security rules. It can reduce unwanted connections, but incorrect rules may block legitimate traffic or allow threats.</p>
-<p><strong>MAC address filtering</strong> allows or blocks a device using the physical address associated with its network adapter. It can restrict known devices, but addresses may be copied or spoofed, so it should not be the only defence.</p>
-<p>Use layered security: authentication, encryption, firewall rules and device controls support one another.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="bb818ca4e117-group-protocols.html"><span>← Previous</span><strong>Protocols</strong></a><a href="bb818ca4e117-group-layers.html"><span>Next →</span><strong>TCP/IP layers</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<table>
+<tr><th>Feature</th><th>Firewall</th><th>MAC address filtering</th></tr>
+<tr><td>What is checked?</td><td>Incoming and outgoing network traffic.</td><td>The physical address associated with a device’s network adapter.</td></tr>
+<tr><td>Decision</td><td>Allows or blocks traffic using defined security rules.</td><td>Allows or blocks devices using their MAC addresses.</td></tr>
+<tr><td>Limitation</td><td>Incorrect rules may block legitimate traffic or allow threats.</td><td>Addresses can be copied or spoofed, so this should not be the only defence.</td></tr>
+</table>
+<p>Use <strong>layered security</strong>: authentication, encryption, firewall rules and device controls support one another.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="bb818ca4e117-group-protocols.html"><span>← Previous</span><strong>Protocols</strong></a><a href="bb818ca4e117-group-layers.html"><span>Next →</span><strong>TCP/IP layers</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

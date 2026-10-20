@@ -2,21 +2,13 @@
 <h2>Networks, benefits and risks</h2>
 <p>A <strong>computer network</strong> is two or more computers or devices connected so they can communicate and share resources.</p>
 <p>Think of a network as a transport system: devices are destinations, links are roads and protocols are agreed traffic rules.</p>
-<p>Advantages include:</p>
-<ul>
-<li>sharing files, printers and internet connections</li>
-<li>communication and collaboration</li>
-<li>central user accounts, updates and backups</li>
-<li>access to shared services from different devices</li>
-</ul>
-<p>Disadvantages include:</p>
-<ul>
-<li>setup and maintenance cost</li>
-<li>dependence on network equipment and services</li>
-<li>security and privacy risks</li>
-<li>malware or faults spreading between connected devices</li>
-<li>congestion reducing performance</li>
-</ul>
+<table>
+<tr><th>Aspect</th><th>Benefit</th><th>Possible disadvantage</th></tr>
+<tr><td>Shared resources</td><td>Users can share files, printers and an internet connection.</td><td>Setup, equipment and maintenance cost money.</td></tr>
+<tr><td>Communication</td><td>Users can collaborate and access shared services from different devices.</td><td>Congestion can reduce performance.</td></tr>
+<tr><td>Central management</td><td>Accounts, updates and backups can be managed centrally.</td><td>Users may depend on network equipment and services remaining available.</td></tr>
+<tr><td>Connected devices</td><td>Information is easier to exchange.</td><td>Malware or faults can spread; security and privacy need protection.</td></tr>
+</table>
 <h2>PAN, LAN and WAN</h2>
 <table>
 <tr><th>Type</th><th>Scale and ownership</th><th>Example</th></tr>
@@ -26,22 +18,23 @@
 </table>
 <p>Classify a network using <strong>geographical scale</strong>, how devices connect and who owns or manages the infrastructure.</p>
 <h2>Wired and wireless networks</h2>
-<h3>Wired</h3>
-<ul>
-<li>Usually stable, low latency and less affected by radio interference.</li>
-<li>Physical access makes interception harder, although it is not automatically secure.</li>
-<li>Devices are restricted by cables and installation can be disruptive.</li>
-<li><strong>Copper cable</strong> is common and relatively inexpensive for shorter links.</li>
-<li><strong>Fibre-optic cable</strong> carries light, supports high bandwidth and long distances, and resists electromagnetic interference, but can cost more to install.</li>
-</ul>
-<h3>Wireless</h3>
-<ul>
-<li>Supports mobility and is convenient where cables are difficult.</li>
-<li>Easier to add mobile devices.</li>
-<li>Signal quality may fall with distance, obstacles, interference or congestion.</li>
-<li>Signals can extend beyond a building, increasing the need for authentication and encryption.</li>
-</ul>
-<p>Choose a connection for the situation: fixed high-demand devices may benefit from wired links, while phones and tablets need wireless mobility.</p>
+<table>
+<tr><th>Feature</th><th>Wired network</th><th>Wireless network</th></tr>
+<tr><td>Connection</td><td>A cable connects each device.</td><td>Radio signals connect devices without a cable to each one.</td></tr>
+<tr><td>Mobility</td><td>Movement is restricted by cables.</td><td>Users can move around within coverage.</td></tr>
+<tr><td>Installation</td><td>Cabling can cost money and disrupt a building.</td><td>Convenient where cables are difficult; mobile devices are easier to add.</td></tr>
+<tr><td>Performance</td><td>Usually stable, with low latency and less radio interference.</td><td>Distance, obstacles, interference and congestion can reduce signal quality.</td></tr>
+<tr><td>Security</td><td>Physical access makes interception harder, but a cable does not guarantee security.</td><td>Signals may extend beyond a building, so authentication and encryption are important.</td></tr>
+<tr><td>Suitable use</td><td>Fixed devices needing a stable connection.</td><td>Phones and tablets needing mobility.</td></tr>
+</table>
+<h3>Copper and fibre-optic cable</h3>
+<table>
+<tr><th>Feature</th><th>Copper cable</th><th>Fibre-optic cable</th></tr>
+<tr><td>Signal</td><td>Carries electrical signals.</td><td>Carries light.</td></tr>
+<tr><td>Suitable use</td><td>Common, relatively inexpensive shorter links.</td><td>High-bandwidth links over long distances.</td></tr>
+<tr><td>Trade-off</td><td>Can be affected by electromagnetic interference.</td><td>Resists electromagnetic interference, but installation can cost more.</td></tr>
+</table>
+<p>Choose a connection for the stated situation. Do not assume one option is always faster or more secure in every installation.</p>
 <h2>Protocols</h2>
 <p>A <strong>network protocol</strong> is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.</p>
 <table>
@@ -53,20 +46,48 @@
 <tr><td>SMTP</td><td>Simple Mail Transfer Protocol</td><td>Sends email from a client to a server and between mail servers</td></tr>
 <tr><td>IMAP</td><td>Internet Message Access Protocol</td><td>Accesses and manages email kept on a mail server, synchronising folders and status</td></tr>
 </table>
+<h3>TCP and IP</h3>
+<table>
+<tr><th>Feature</th><th>TCP</th><th>IP</th></tr>
+<tr><td>Main job</td><td>Manages reliable end-to-end communication, including ordering data and detecting missing data.</td><td>Addresses and routes packets between networks.</td></tr>
+<tr><td>TCP/IP layer</td><td><strong>Transport</strong>.</td><td><strong>Internet</strong>.</td></tr>
+<tr><td>How they work together</td><td>Helps the destination reconstruct the correct data stream.</td><td>Gets addressed packets towards the destination.</td></tr>
+</table>
+<h3>HTTP and HTTPS</h3>
+<table>
+<tr><th>Feature</th><th>HTTP</th><th>HTTPS</th></tr>
+<tr><td>Use</td><td>Transfers web pages and related web data.</td><td>Performs web communication using an encrypted connection.</td></tr>
+<tr><td>Data in transit</td><td>Does not itself encrypt the connection.</td><td>Protects transmitted data against being read by an interceptor.</td></tr>
+<tr><td>Authentication</td><td>Does not itself authenticate the server through a certificate.</td><td>Uses certificates to help authenticate the server connection.</td></tr>
+</table>
 <p>Do not write that HTTPS makes a website completely safe. It protects data in transit and helps authenticate the connection; the site or user&#x27;s device could still be harmful or compromised.</p>
+<h3>SMTP and IMAP</h3>
+<table>
+<tr><th>Feature</th><th>SMTP</th><th>IMAP</th></tr>
+<tr><td>Main job</td><td><strong>Sends email.</strong></td><td><strong>Accesses and manages email stored on a server.</strong></td></tr>
+<tr><td>Communication</td><td>Client to outgoing mail server, and between mail servers.</td><td>An email client communicates with the server holding the mailbox.</td></tr>
+<tr><td>Example action</td><td>Send a new message to somebody else.</td><td>Read a message or synchronise folders and read/unread status across devices.</td></tr>
+<tr><td>What to distinguish</td><td>Sending a message does not replace mailbox access.</td><td>Reading or organising a mailbox is different from sending a message.</td></tr>
+</table>
 <h2>Why network security matters</h2>
 <p>Network security protects systems and data from unauthorised access, alteration, damage and disruption. A strong design uses several controls because each deals with different risks.</p>
 <p>Possible consequences of weak security include data theft, changed files, unavailable services, financial loss and damage to reputation.</p>
 <h2>Authentication and encryption</h2>
-<ul>
-<li><strong>Authentication</strong> checks identity before granting access, for example username/password or another factor.</li>
-<li><strong>Encryption</strong> transforms readable plaintext into ciphertext using a key. An authorised recipient uses the required key to recover the plaintext.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>Authentication</th><th>Encryption</th></tr>
+<tr><td>Purpose</td><td>Checks identity before access is granted.</td><td>Makes data unreadable without the appropriate key.</td></tr>
+<tr><td>Example</td><td>Check a username/password or another identity factor.</td><td>Transform plaintext into ciphertext before transmission.</td></tr>
+<tr><td>Limitation</td><td>Checking identity does not itself hide intercepted traffic.</td><td>An authorised recipient still needs the required key; encryption does not decide account permissions.</td></tr>
+</table>
 <p>Authentication controls who enters. Encryption protects data if traffic is intercepted. They work together but solve different problems.</p>
 <h2>Firewalls and MAC address filtering</h2>
-<p>A <strong>firewall</strong> monitors incoming and outgoing traffic and allows or blocks it using security rules. It can reduce unwanted connections, but incorrect rules may block legitimate traffic or allow threats.</p>
-<p><strong>MAC address filtering</strong> allows or blocks a device using the physical address associated with its network adapter. It can restrict known devices, but addresses may be copied or spoofed, so it should not be the only defence.</p>
-<p>Use layered security: authentication, encryption, firewall rules and device controls support one another.</p>
+<table>
+<tr><th>Feature</th><th>Firewall</th><th>MAC address filtering</th></tr>
+<tr><td>What is checked?</td><td>Incoming and outgoing network traffic.</td><td>The physical address associated with a device’s network adapter.</td></tr>
+<tr><td>Decision</td><td>Allows or blocks traffic using defined security rules.</td><td>Allows or blocks devices using their MAC addresses.</td></tr>
+<tr><td>Limitation</td><td>Incorrect rules may block legitimate traffic or allow threats.</td><td>Addresses can be copied or spoofed, so this should not be the only defence.</td></tr>
+</table>
+<p>Use <strong>layered security</strong>: authentication, encryption, firewall rules and device controls support one another.</p>
 <h2>The four-layer TCP/IP model</h2>
 <p>Layering divides networking into manageable jobs. Each layer provides services to the layer above and uses the layer below.</p>
 <table>
