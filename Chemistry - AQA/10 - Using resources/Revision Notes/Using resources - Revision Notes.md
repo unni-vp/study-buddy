@@ -27,6 +27,9 @@ Filtration alone does not reliably remove all dissolved salts or kill all microb
 
 ## Desalination and water analysis
 
+
+![Water vapour travels from a heated flask through a water-cooled condenser into an open receiver. Cooling water stays in its separate jacket.](../../11 - Working scientifically and required practicals/Diagrams/water-distillation.svg)
+
 Where freshwater is scarce, **desalination** removes salts from seawater:
 
 - **Distillation:** evaporate water, then cool vapour so it condenses; dissolved salts remain behind.
