@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Required practical: temperature changes",
+      "diagram": "Chemistry - AQA/05 - Energy changes/Diagrams/reaction-temperature-practical.svg",
+      "purpose": "A supported insulated cup has a loose lid, thermometer bulb in the liquid and a stirrer."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

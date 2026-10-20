@@ -83,6 +83,9 @@ The chemical bonds themselves do not release energy when broken. The release hap
 
 ## Required practical: temperature changes
 
+
+![A supported insulated cup has a loose lid, thermometer bulb in the liquid and a stirrer.](../Diagrams/reaction-temperature-practical.svg)
+
 Investigate how **acid concentration affects temperature change** when a fixed amount of alkali is neutralised. Make a prediction, then test it while controlling other variables.
 
 1. Wear goggles. Place a **polystyrene cup in a beaker** for support; use a lid with a thermometer opening to reduce energy transfer to the surroundings.
