@@ -43,6 +43,9 @@ For a fixed mass, expanding the volume **reduces density**.
 
 ## Practical: measure density
 
+
+![The water level rises from V₁ to V₂ when an irregular solid is fully submerged. Its volume is the difference.](../Diagrams/density-displacement-practical.svg)
+
 **Regular solid**
 
 1. Measure mass using a zeroed balance.

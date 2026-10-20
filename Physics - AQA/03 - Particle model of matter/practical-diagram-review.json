@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: measure density",
+      "diagram": "Physics - AQA/03 - Particle model of matter/Diagrams/density-displacement-practical.svg",
+      "purpose": "The water level rises from V₁ to V₂ when an irregular solid is fully submerged. Its volume is the difference."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
