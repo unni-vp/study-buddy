@@ -48,7 +48,8 @@
         "Full protocol-name table preserved",
         "Complete SMTP/IMAP email journey",
         "TCP/IP responsibility distinction",
-        "Sender/receiver layer direction and modularity"
+        "Sender/receiver layer direction and modularity",
+        "Original two-device diagram showing sender down-stack, network transfer and receiver up-stack"
       ],
       "decisions": [
         "Required protocol list follows AQA: TCP, IP, HTTP, HTTPS, SMTP, IMAP. UDP and FTP in the source are not added as required named protocols. Wi-Fi is not expanded as Wireless Fidelity."
@@ -82,12 +83,17 @@
     "TCP/IP layers"
   ],
   "word_count_before": 1402,
-  "word_count_after": 2364,
+  "word_count_after": 2417,
   "verification": [
     "Original PDF SHA-256 unchanged",
     "All Python code blocks compile",
     "All reading groups checked at 1366, 390 and 320 pixels",
     "Images load, tables have consistent columns, source section hidden, no page overflow",
     "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
-  ]
+  ],
+  "diagram_review": {
+    "file": "Diagrams/tcp-ip-device-communication.svg",
+    "learning_purpose": "Shows communication direction and the jobs/protocols at corresponding layers on two devices.",
+    "review": "Rendered and visually inspected; arrows, layer order, protocol assignments and label clearance checked."
+  }
 }

@@ -175,6 +175,10 @@ Together, identity checks restrict account access, encryption protects data in t
 
 ## The four-layer TCP/IP model
 
+![A web request passes down the application, transport, internet and link layers on a sending device, across a network path, then up the receiving device’s link, internet, transport and application layers.](../Diagrams/tcp-ip-device-communication.svg)
+
+The arrows follow one request from a browser to a web service. A response travels with the devices taking the opposite roles.
+
 Layering divides networking into manageable jobs. Each layer provides services to the layer above and uses the layer below.
 
 | Layer | Main job | Named protocols/components |
