@@ -32,7 +32,9 @@ Orange-brown endpoint: no starch detected.
 
 ## Amylase interpretation
 
-Repeat comparable endpoints. Rate proxy = 1/time.
+Repeat comparable endpoints.
+
+Rate proxy = 1/time.
 
 Extreme pH changes active-site shape.
 

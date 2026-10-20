@@ -26,7 +26,9 @@ Sterile agar, tools and harmless school culture.
 
 Same disc size, agent amount and starting bacteria.
 
-Space discs; include solvent control.
+Space discs
+
+include solvent control.
 
 Repeat inhibition-zone measurements.
 
@@ -36,7 +38,9 @@ Tape at a few points, not airtight.
 
 Incubate inverted at about 25°C.
 
-Keep closed after growth; approved disposal.
+Keep closed after growth
+
+approved disposal.
 
 Zone size depends on inhibition and diffusion.
 

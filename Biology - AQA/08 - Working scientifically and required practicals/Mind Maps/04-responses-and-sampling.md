@@ -56,6 +56,8 @@ Regular quadrats along transect.
 
 Measure abundance and abiotic factor at sites.
 
-Repeat parallel transects; consider other factors.
+Repeat parallel transects
+
+consider other factors.
 
 Protect habitat and choose safe routes.
