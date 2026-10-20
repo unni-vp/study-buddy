@@ -71,6 +71,9 @@ Energy stored within the proportional region is **Eₑ = ½ke²**. It equals the
 
 ## Practical: force and extension
 
+
+![Unloaded and loaded spring lengths are read against a ruler with an eye-level pointer. Extension is their difference.](../Diagrams/spring-extension-practical.svg)
+
 1. Clamp a spring to a secure stand. Place a ruler beside it with a pointer to make readings clear. Measure its unloaded length.
 2. Add known masses in small steps. Convert each mass into force using **F = mg**, including the mass hanger.
 3. Let the spring settle. Read length at eye level; calculate **extension = loaded − unloaded length**.
@@ -251,6 +254,9 @@ For example, a book's weight and the table's upward force both act on the book. 
 Free fall with negligible air resistance gives acceleration about **9.8 m/s²** near Earth. At terminal velocity there are still forces; they balance.
 
 ## Practical: force, mass and acceleration
+
+
+![A trolley carrying masses is pulled by a string over a pulley to a hanging mass. Light gates measure its motion.](../Diagrams/trolley-acceleration-practical.svg)
 
 Use a low-friction trolley pulled by a string over a pulley by hanging masses. Light gates or a motion sensor measure velocities and acceleration. Keep the string taut and measure before the hanging mass hits the floor.
 

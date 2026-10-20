@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: force and extension",
+      "diagram": "Physics - AQA/05 - Forces/Diagrams/spring-extension-practical.svg",
+      "purpose": "Unloaded and loaded spring lengths are read against a ruler with an eye-level pointer. Extension is their difference."
+    },
+    {
+      "heading": "Practical: force, mass and acceleration",
+      "diagram": "Physics - AQA/05 - Forces/Diagrams/trolley-acceleration-practical.svg",
+      "purpose": "A trolley carrying masses is pulled by a string over a pulley to a hanging mass. Light gates measure its motion."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
