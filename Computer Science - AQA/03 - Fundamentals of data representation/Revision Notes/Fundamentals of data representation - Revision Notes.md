@@ -119,9 +119,28 @@ Both can improve how accurately the digital recording represents the original so
 
 Benefits include less storage, faster transfer and lower bandwidth use. Compression and decompression require processing, and some methods may lose information.
 
+### Lossy and lossless compression
+
+**Lossless compression** reduces the amount of data without discarding information. Decompression restores the **original data exactly**.
+
+**Lossy compression** permanently discards some information, often detail that people are less likely to notice. Decompression **cannot restore all the original data**.
+
+Think of lossless compression as packing the same clothes more efficiently. Lossy compression is like leaving some clothes behind: there is less to carry, but unpacking cannot bring back what was left out.
+
+| Feature | Lossless compression | Lossy compression |
+|---|---|---|
+| **Information** | No information is discarded. | Some information is permanently discarded. |
+| **Recovering the original** | The original data can be recovered **exactly**. | The original data cannot be recovered exactly from the compressed version alone. |
+| **Quality** | Decompressed data matches the original. | Images or sound may lose noticeable quality, especially with stronger compression. |
+| **Suitable use** | Programs, text and records where every detail must remain correct. Also useful for images that need exact preservation. | Photos, music and video when some loss of detail is acceptable. |
+| **Examples** | RLE, Huffman coding, ZIP archives and PNG images. | Typical JPEG photographs and MP3 audio. |
+| **File-size trade-off** | The saving depends on the data and method; some data may not become smaller. | Can often make larger reductions by accepting a loss of detail. |
+
+**Choose lossless for program code:** losing even one character could change how the program behaves. A smaller music file may justify some loss of sound detail, but that depends on the required quality.
+
 ## Run-length encoding
 
-**Run-length encoding (RLE)** stores each run as a frequency/data pair. It works well when data contains long repeated sequences.
+**Run-length encoding (RLE)** is a **lossless** method. It stores each run as a frequency/data pair, so the original sequence can be reconstructed exactly. It works well when data contains long repeated sequences.
 
 `0000011100000011` becomes:
 
@@ -132,6 +151,8 @@ RLE can make varied data larger because short runs need their own frequency valu
 ## Huffman coding
 
 **Huffman coding** represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.
+
+Huffman coding is **lossless**: the correct tree or code table lets the receiver recover every original symbol.
 
 1. Count each symbol's frequency.
 2. Repeatedly combine the two lowest-frequency nodes.

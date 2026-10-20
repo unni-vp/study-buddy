@@ -82,13 +82,28 @@
 <h2>Why compression is used</h2>
 <p><strong>Compression</strong> reduces the number of bits required to store or transmit data.</p>
 <p>Benefits include less storage, faster transfer and lower bandwidth use. Compression and decompression require processing, and some methods may lose information.</p>
+<h3>Lossy and lossless compression</h3>
+<p><strong>Lossless compression</strong> reduces the amount of data without discarding information. Decompression restores the <strong>original data exactly</strong>.</p>
+<p><strong>Lossy compression</strong> permanently discards some information, often detail that people are less likely to notice. Decompression <strong>cannot restore all the original data</strong>.</p>
+<p>Think of lossless compression as packing the same clothes more efficiently. Lossy compression is like leaving some clothes behind: there is less to carry, but unpacking cannot bring back what was left out.</p>
+<table>
+<tr><th>Feature</th><th>Lossless compression</th><th>Lossy compression</th></tr>
+<tr><td><strong>Information</strong></td><td>No information is discarded.</td><td>Some information is permanently discarded.</td></tr>
+<tr><td><strong>Recovering the original</strong></td><td>The original data can be recovered <strong>exactly</strong>.</td><td>The original data cannot be recovered exactly from the compressed version alone.</td></tr>
+<tr><td><strong>Quality</strong></td><td>Decompressed data matches the original.</td><td>Images or sound may lose noticeable quality, especially with stronger compression.</td></tr>
+<tr><td><strong>Suitable use</strong></td><td>Programs, text and records where every detail must remain correct. Also useful for images that need exact preservation.</td><td>Photos, music and video when some loss of detail is acceptable.</td></tr>
+<tr><td><strong>Examples</strong></td><td>RLE, Huffman coding, ZIP archives and PNG images.</td><td>Typical JPEG photographs and MP3 audio.</td></tr>
+<tr><td><strong>File-size trade-off</strong></td><td>The saving depends on the data and method; some data may not become smaller.</td><td>Can often make larger reductions by accepting a loss of detail.</td></tr>
+</table>
+<p><strong>Choose lossless for program code:</strong> losing even one character could change how the program behaves. A smaller music file may justify some loss of sound detail, but that depends on the required quality.</p>
 <h2>Run-length encoding</h2>
-<p><strong>Run-length encoding (RLE)</strong> stores each run as a frequency/data pair. It works well when data contains long repeated sequences.</p>
+<p><strong>Run-length encoding (RLE)</strong> is a <strong>lossless</strong> method. It stores each run as a frequency/data pair, so the original sequence can be reconstructed exactly. It works well when data contains long repeated sequences.</p>
 <p><code>0000011100000011</code> becomes:</p>
 <p><code>5 0, 3 1, 6 0, 2 1</code></p>
 <p>RLE can make varied data larger because short runs need their own frequency values. Treat each bitmap row separately when the question tells you to encode rows.</p>
 <h2>Huffman coding</h2>
 <p><strong>Huffman coding</strong> represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.</p>
+<p>Huffman coding is <strong>lossless</strong>: the correct tree or code table lets the receiver recover every original symbol.</p>
 <ol>
 <li>Count each symbol&#x27;s frequency.</li>
 <li>Repeatedly combine the two lowest-frequency nodes.</li>
