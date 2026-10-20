@@ -9,6 +9,8 @@
 <li><strong>Buses:</strong> collections of wires carrying data or signals between components.</li>
 <li><strong>Main memory:</strong> stores active instructions and data for direct CPU access.</li>
 </ul>
+<p>The <strong>ALU</strong> performs operations such as adding two values or comparing a score with a limit. <strong>Registers</strong> hold the small immediate values and instructions the CPU is working on. The <strong>control unit</strong> sends signals so the appropriate parts act in the right order.</p>
+<p>A <strong>bus</strong> carries information between components; it does not store the program by itself. The clock provides regular timing pulses. These parts cooperate: carrying a value, storing it temporarily and performing an operation are different jobs.</p>
 <h2>Fetch-decode-execute cycle</h2>
 <p>Think of the CPU as repeatedly collecting and following instruction cards:</p>
 <ol>
@@ -18,6 +20,8 @@
 <li>Repeat continuously.</li>
 </ol>
 <p>The clock keeps operations in step, while buses carry instructions, data and control signals.</p>
+<p>Suppose the next instruction adds two stored values. The CPU fetches that instruction from memory, decodes it as an addition, obtains the required data and uses the ALU to add it. The result can then be stored for another instruction to use.</p>
+<p>A program is a sequence of such instructions, not one operation performed by the CPU all at once. Some instructions change which instruction comes next, allowing selection and loops. Instructions and the data they use are held in memory, while registers hold immediate working information.</p>
 <h2>CPU performance</h2>
 <table>
 <tr><th>CPU change</th><th>Why it can improve performance</th><th>What limits the benefit?</th></tr>
@@ -26,6 +30,9 @@
 <tr><td>Larger <strong>cache</strong></td><td>More frequently used data and instructions can be kept close to the CPU.</td><td>The benefit depends on how much slower main-memory access is avoided.</td></tr>
 </table>
 <p>Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.</p>
+<p>Clock speed is measured in <strong>hertz</strong>, or cycles per second. A speed of 3 GHz means about <strong>3 billion clock cycles per second</strong>. It does not mean every instruction always takes exactly one cycle.</p>
+<p>More cores can improve performance when work can be divided between them, such as independent tasks. A program with a largely sequential task may gain little from unused cores.</p>
+<p>Cache holds frequently needed instructions and data so the CPU can obtain them faster than from RAM. A larger cache can reduce waiting if it holds more of the data the program actually needs; it does not increase the capacity of long-term file storage.</p>
 <h2>Memory types</h2>
 <table>
 <tr><th>Type</th><th>Volatile?</th><th>Purpose</th></tr>
@@ -35,4 +42,8 @@
 <tr><td>ROM</td><td>No</td><td>Instructions or data that must persist, such as startup firmware</td></tr>
 </table>
 <p><strong>Volatile</strong> memory loses its contents without power. <strong>Non-volatile</strong> memory keeps them.</p>
-<p>Main memory is directly accessible by the CPU, apart from cache and registers which are treated separately here. Secondary storage is non-volatile and not directly accessed by the CPU.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-languages.html"><span>← Previous</span><strong>Languages and translators</strong></a><a href="f4a695c2bfa7-group-storage.html"><span>Next →</span><strong>Storage and embedded systems</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Main memory is directly accessible by the CPU, apart from cache and registers which are treated separately here. Secondary storage is non-volatile and not directly accessed by the CPU.</p>
+<h3>Following a program from storage to processing</h3>
+<p>A saved program remains on secondary storage when power is off. When run, its instructions and working data are loaded into <strong>RAM</strong>. The processor can keep frequently used information in <strong>cache</strong>, and immediate operands or results in <strong>registers</strong>.</p>
+<p>If a document has changed only in RAM, switching off without saving can lose those changes. Saving copies the updated file to non-volatile secondary storage.</p>
+<p>ROM retains startup instructions when power is off and is not normally changed during ordinary use. RAM is designed for the changing instructions and data of active programs. Both have roles; non-volatile does not mean ROM is a substitute for all working memory.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-languages.html"><span>← Previous</span><strong>Languages and translators</strong></a><a href="f4a695c2bfa7-group-storage.html"><span>Next →</span><strong>Storage and embedded systems</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

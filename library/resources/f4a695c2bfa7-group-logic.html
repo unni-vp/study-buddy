@@ -1,0 +1,41 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Hardware and Boolean logic · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Computer systems</a><span aria-hidden="true"> / </span><a href="f4a695c2bfa7.html">Revision notes</a></nav><div class="reader-tools"><a href="f4a695c2bfa7.html">← All revision notes</a></div><article class="reading section-reading"><h1>Hardware and Boolean logic</h1>
+<h2>Hardware and software</h2>
+<ul>
+<li><strong>Hardware</strong> is the physical equipment in a computer system.</li>
+<li><strong>Software</strong> is the programs and data that tell hardware what to do.</li>
+<li>Hardware needs software instructions; software needs hardware on which to run.</li>
+</ul>
+<p>A keyboard is hardware because it is a physical device. A word processor is software because it contains instructions that run on the hardware. A powerful computer still needs the right program to carry out a task.</p>
+<p>Software controls how the components work together. For example, a drawing program processes a mouse click, changes the picture data and asks the system to display the updated image.</p>
+<h2>Boolean logic and circuits</h2>
+<p>Boolean logic uses values that are either 0/1 or False/True.</p>
+<table>
+<tr><th>A</th><th>B</th><th>AND</th><th>OR</th><th>XOR</th></tr>
+<tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td></tr>
+</table>
+<p><code>NOT</code> reverses one input. <code>XOR</code> is true when the two inputs are <strong>different</strong>.</p>
+<p>For a circuit with several gates, calculate intermediate outputs one gate at a time. AQA notation may use <code>.</code> for AND, <code>+</code> for OR, <code>⊕</code> for XOR and an overbar for NOT.</p>
+<h3>Recognising and drawing gates</h3>
+<p><img src="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/Diagrams/logic-gate-symbols.svg" alt="The standard symbols for AND, OR, XOR and NOT gates, with input wires on the left and output wires on the right."></p>
+<p>The small circle on NOT means that the input is inverted. XOR resembles OR but has an extra curved line on its input side. For two true inputs, OR gives <strong>1</strong> while XOR gives <strong>0</strong>.</p>
+<p>For a Boolean expression, brackets show which operation must be performed together. In **<code>A AND (B OR NOT C)</code>**, find <code>NOT C</code>, combine that with B using OR, and then combine the result with A using AND. Without brackets, NOT is applied before AND, and AND before OR.</p>
+<p>In symbolic expressions, a dot means AND and a plus sign means OR; the plus is not ordinary addition. An overbar applies NOT to the part beneath the bar. Read the extent of that bar carefully.</p>
+<h3>Working through a combined circuit</h3>
+<p><img src="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/Diagrams/combined-logic-circuit.svg" alt="A and B enter AND to produce X, C enters NOT to produce Y, and X and Y enter OR to produce Q."></p>
+<p>The circuit represents **<code>Q = (A AND B) OR (NOT C)</code>**. Its intermediate columns make every step visible:</p>
+<table>
+<tr><th>A</th><th>B</th><th>C</th><th>X = A AND B</th><th>Y = NOT C</th><th>Q = X OR Y</th></tr>
+<tr><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>0</td><td>0</td><td>0</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td></tr>
+</table>
+<p>With three independent inputs there are <strong>2³ = 8 combinations</strong>. List every combination once, then work across one row at a time. Q is true whenever C is false, or when both A and B are true.</p>
+<p>To draw a circuit from an expression, create the inner operations first and connect their outputs to the outer operation. To write an expression from a circuit, label intermediate outputs and substitute them into the final gate. Changing OR to XOR changes the result for the row where both intermediate inputs are 1.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="f4a695c2bfa7-group-software.html"><span>Next →</span><strong>System software</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

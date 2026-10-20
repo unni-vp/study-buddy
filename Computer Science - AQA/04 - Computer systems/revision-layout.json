@@ -2,45 +2,76 @@
   "source": "Computer systems - Revision Notes.md",
   "groups": [
     {
-      "id": "logic-software",
-      "title": "Logic and software",
-      "description": "Use Boolean logic and classify operating and application software.",
+      "id": "logic",
+      "title": "Hardware and Boolean logic",
       "icon": "computer-logic",
+      "description": "Read gate symbols, combine circuits and construct truth tables.",
       "sections": [
-        {"heading": "Hardware, software and Boolean logic"},
-        {"heading": "System and application software"}
+        {
+          "heading": "Hardware and software"
+        },
+        {
+          "heading": "Boolean logic and circuits"
+        }
+      ]
+    },
+    {
+      "id": "software",
+      "title": "System software",
+      "icon": "computer-structure",
+      "description": "Explain operating-system responsibilities and utility programs.",
+      "sections": [
+        {
+          "heading": "System and application software"
+        }
       ]
     },
     {
       "id": "languages",
       "title": "Languages and translators",
-      "description": "Compare language levels, compilers, interpreters and assemblers.",
       "icon": "computer-code",
+      "description": "Compare language levels and choose a suitable translator.",
       "sections": [
-        {"heading": "High-level and low-level languages"},
-        {"heading": "Translators"}
+        {
+          "heading": "High-level and low-level languages"
+        },
+        {
+          "heading": "Translators"
+        }
       ]
     },
     {
       "id": "architecture",
       "title": "CPU and memory",
-      "description": "Follow instruction processing and compare memory types.",
       "icon": "computer-cpu",
+      "description": "Follow instruction processing and explain performance and memory.",
       "sections": [
-        {"heading": "CPU components"},
-        {"heading": "Fetch-decode-execute cycle"},
-        {"heading": "CPU performance"},
-        {"heading": "Memory types"}
+        {
+          "heading": "CPU components"
+        },
+        {
+          "heading": "Fetch-decode-execute cycle"
+        },
+        {
+          "heading": "CPU performance"
+        },
+        {
+          "heading": "Memory types"
+        }
       ]
     },
     {
       "id": "storage",
       "title": "Storage and embedded systems",
-      "description": "Choose local, cloud, magnetic and solid-state storage.",
       "icon": "computer-storage",
+      "description": "Explain storage mechanisms and apply their trade-offs.",
       "sections": [
-        {"heading": "Secondary and cloud storage"},
-        {"heading": "Embedded systems"}
+        {
+          "heading": "Secondary and cloud storage"
+        },
+        {
+          "heading": "Embedded systems"
+        }
       ]
     }
   ]

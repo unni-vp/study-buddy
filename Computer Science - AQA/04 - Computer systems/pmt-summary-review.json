@@ -1,0 +1,107 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/4-Computer-Systems/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 17,
+  "sha256": "72586abba08f4eeea7400bc2806b3cf5790eb6b6caac38d1cd32763511b8e82a",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.4.1–3.4.2 Hardware and logic",
+      "pmt_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "note_headings": [
+        "Hardware and software",
+        "Boolean logic and circuits"
+      ],
+      "added_or_developed": [
+        "Standard gate symbols",
+        "Original combined circuit",
+        "Complete three-input truth table",
+        "Expression/circuit translation and precedence"
+      ],
+      "decisions": [
+        "NAND/NOR not added."
+      ]
+    },
+    {
+      "section": "3.4.3–3.4.4 Software and translators",
+      "pmt_pages": [
+        9,
+        10,
+        11
+      ],
+      "note_headings": [
+        "System and application software",
+        "High-level and low-level languages",
+        "Translators"
+      ],
+      "added_or_developed": [
+        "OS responsibilities explained individually",
+        "Utility purposes",
+        "Portability and instruction-set limitations",
+        "Translator choice and limits"
+      ],
+      "decisions": [
+        "Avoid source claims that compiled programs need no other software or that high-level code is invariably slower."
+      ]
+    },
+    {
+      "section": "3.4.5 Architecture",
+      "pmt_pages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "note_headings": [
+        "CPU components",
+        "Fetch-decode-execute cycle",
+        "CPU performance",
+        "Memory types",
+        "Secondary and cloud storage",
+        "Embedded systems"
+      ],
+      "added_or_developed": [
+        "Component cooperation",
+        "Cycle example",
+        "Clock cycles versus instructions",
+        "Program-loading memory hierarchy",
+        "Magnetic/solid-state operation",
+        "Contextual storage and embedded examples"
+      ],
+      "decisions": [
+        "Optical-disc mechanisms omitted because the revised specification names magnetic and solid-state storage. Specific CPU register names are not required. Corrected one-clock-tick-per-instruction claim and overly absolute embedded-system claims."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Hardware and Boolean logic",
+    "System software",
+    "Languages and translators",
+    "CPU and memory",
+    "Storage and embedded systems"
+  ],
+  "word_count_before": 1456,
+  "word_count_after": 3059,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

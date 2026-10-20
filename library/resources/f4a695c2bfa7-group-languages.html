@@ -13,6 +13,9 @@
 <tr><td>Hardware control</td><td>Less direct control over hardware.</td><td>Close control can be useful in embedded systems.</td></tr>
 <tr><td>Efficiency</td><td>Convenient abstractions may add overhead.</td><td>Can be carefully tailored for efficient hardware use, but this is not automatic.</td></tr>
 </table>
+<p>A high-level statement can express a calculation or repetition that would need several machine instructions. This makes most programs quicker to develop and easier to maintain.</p>
+<p><strong>Portability</strong> means the source can be used on another suitable system with the necessary translator and support. It does not mean the same compiled machine-code file works on every processor.</p>
+<p>Assembly mnemonics are short names for processor instructions, so they are easier to read than binary but remain tied to an instruction set. This control can be useful when programming dedicated hardware. Low-level code is not automatically faster: the programmer&#x27;s design and the quality of translation also matter.</p>
 <h2>Translators</h2>
 <p>Code written in a high-level or assembly language must be translated before the processor can execute it.</p>
 <h3>Interpreter and compiler</h3>
@@ -27,4 +30,8 @@
 </table>
 <p>Both need <strong>testing for logic errors</strong>. Successful translation or execution does not prove that the results are correct.</p>
 <h3>Assembler</h3>
-<p>An <strong>assembler</strong> translates assembly language into machine code, normally one assembly instruction to one machine-code instruction. It is used for low-level code, including embedded systems and direct hardware control.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-logic-software.html"><span>← Previous</span><strong>Logic and software</strong></a><a href="f4a695c2bfa7-group-architecture.html"><span>Next →</span><strong>CPU and memory</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>An <strong>assembler</strong> translates assembly language into machine code, normally one assembly instruction to one machine-code instruction. It is used for low-level code, including embedded systems and direct hardware control.</p>
+<h3>Choosing and using a translator</h3>
+<p>During development, an interpreter can help a programmer try changes and investigate the path currently being executed. An error on a path that has not run may remain undiscovered, so more test cases are still needed.</p>
+<p>A compiler produces machine code before that compiled program runs. After changing the source, compile it again to create an updated version. The user does not need the original source or compiler to run the resulting program, although the program may still depend on libraries or other runtime support.</p>
+<p>A translator can detect language-rule errors, but it cannot generally decide whether the program solves the intended problem. A correctly translated calculation of <code>width + height</code> still gives the wrong rectangle area.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="f4a695c2bfa7-group-software.html"><span>← Previous</span><strong>System software</strong></a><a href="f4a695c2bfa7-group-architecture.html"><span>Next →</span><strong>CPU and memory</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

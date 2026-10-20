@@ -30,6 +30,31 @@ def algorithms():
  d.text(450,190,'Split',22,True);d.text(450,390,'Merge in order',22,True)
  d.save(1,'merge-sort-stages','Split 8, 3, 6, 1 into pairs and then individual items. Merge to 3, 8 and 1, 6, then merge those ordered lists to 1, 3, 6, 8.')
 
+def systems():
+ def gate(d,x,y,kind):
+  if kind=='AND':shape=f'M{x} {y}H{x+50}C{x+117} {y} {x+117} {y+70} {x+50} {y+70}H{x}Z'
+  elif kind in ('OR','XOR'):shape=f'M{x} {y}Q{x+32} {y+35} {x} {y+70}Q{x+65} {y+75} {x+100} {y+35}Q{x+65} {y-5} {x} {y}Z'
+  else:shape=f'M{x} {y}L{x+80} {y+35}L{x} {y+70}Z'
+  d.parts.append(f'<path d="{shape}" fill="#e8eef6" stroke="#243b64" stroke-width="2.5"/>')
+  if kind=='XOR':d.path(f'M{x-12} {y}Q{x+20} {y+35} {x-12} {y+70}',False)
+  if kind=='NOT':d.parts.append(f'<circle cx="{x+87}" cy="{y+35}" r="7" fill="#fffefa" stroke="#243b64" stroke-width="2.5"/>')
+ d=Diagram(940,225,'Logic gate symbols: AND, OR, XOR and NOT')
+ for i,k in enumerate(['AND','OR','XOR','NOT']):
+  x=45+i*235;gate(d,x,65,k);d.text(x+50,35,k,23,True)
+  if k=='NOT':d.path(f'M{x-25} 100H{x}',False)
+  else:
+   for yy in [85,115]:d.path(f'M{x-25} {yy}H{x+(13 if k in ("OR","XOR") else 0)}',False)
+  d.path(f'M{x+(94 if k=="NOT" else 100)} 100H{x+135}',False)
+ d.text(470,193,'Inputs enter from the left. Each gate produces one output on the right.',22)
+ d.save(4,'logic-gate-symbols','The standard AND, OR, XOR and NOT gate symbols. NOT has one input and an inversion circle; the other gates have two inputs. XOR has an extra curved line before the OR shape.')
+ d=Diagram(850,330,'A combined circuit for (A AND B) OR (NOT C)')
+ gate(d,240,35,'AND');gate(d,240,180,'NOT');gate(d,560,100,'OR')
+ for label,y in [('A',55),('B',85),('C',215)]:d.text(65,y+7,label,24,True);d.path(f'M90 {y}H240',False)
+ d.path('M340 70H470V120H573',False);d.path('M334 215H470V150H573',False);d.path('M660 135H750',False)
+ d.text(780,143,'Q',24,True);d.text(400,50,'X',23,True);d.text(400,245,'Y',23,True)
+ d.text(200,298,'X = A AND B',23,True);d.text(425,298,'Y = NOT C',23,True);d.text(650,298,'Q = X OR Y',23,True)
+ d.save(4,'combined-logic-circuit','A and B enter an AND gate to produce X. C enters a NOT gate to produce Y. X and Y enter an OR gate to produce Q. Therefore Q is (A AND B) OR (NOT C).')
+
 if __name__=='__main__':
  import sys
- {1:algorithms}[int(sys.argv[1])]()
+ {1:algorithms,4:systems}[int(sys.argv[1])]()
