@@ -56,6 +56,9 @@
           "heading": "CPU performance"
         },
         {
+          "heading": "Cache memory"
+        },
+        {
           "heading": "Memory types"
         }
       ]
@@ -64,10 +67,13 @@
       "id": "storage",
       "title": "Storage and embedded systems",
       "icon": "computer-storage",
-      "description": "Explain storage mechanisms and apply their trade-offs.",
+      "description": "Understand HDDs, SSDs, tape and removable flash storage, then compare local and cloud storage.",
       "sections": [
         {
-          "heading": "Secondary and cloud storage"
+          "heading": "Secondary storage"
+        },
+        {
+          "heading": "Cloud storage"
         },
         {
           "heading": "Embedded systems"

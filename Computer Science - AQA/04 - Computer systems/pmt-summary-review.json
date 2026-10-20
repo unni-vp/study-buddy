@@ -72,8 +72,10 @@
         "Fetch-decode-execute cycle",
         "CPU performance",
         "Memory types",
-        "Secondary and cloud storage",
-        "Embedded systems"
+        "Embedded systems",
+        "Secondary storage",
+        "Cloud storage",
+        "Cache memory"
       ],
       "added_or_developed": [
         "Component cooperation",
@@ -96,12 +98,47 @@
     "Storage and embedded systems"
   ],
   "word_count_before": 1456,
-  "word_count_after": 3059,
+  "word_count_after": 3659,
   "verification": [
     "Original PDF SHA-256 unchanged",
     "All Python code blocks compile",
     "All reading groups checked at 1366, 390 and 320 pixels",
     "Images load, tables have consistent columns, source section hidden, no page overflow",
     "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
-  ]
+  ],
+  "storage_revision": {
+    "date": "2026-10-21",
+    "specification": "3.4.5",
+    "changes": [
+      "Mechanisms moved before comparisons",
+      "HDD magnetic writing and reading, tracks/sectors, moving head and rotation",
+      "SSD flash-cell states, controller, electronic access and persistence",
+      "One-line device examples for magnetic tape, USB pen drives and memory cards",
+      "Direct versus sequential access",
+      "Separate cloud heading in the same direct reading page"
+    ],
+    "scope": "Magnetic and solid-state mechanisms follow the revised AQA specification. Tape and removable flash devices are concise examples within those categories; detailed transistor/NAND implementation is not introduced.",
+    "verification": [
+      "Rebuilt direct reading and print-all pages",
+      "All topic reading groups checked at 1366, 390 and 320 pixels",
+      "Desktop cache explanation and mobile HDD explanation visually inspected",
+      "Source sections remain hidden in reading and print"
+    ]
+  },
+  "cache_revision": {
+    "date": "2026-10-21",
+    "specification": "3.4.5",
+    "changes": [
+      "Dedicated cache explanation on the CPU and memory reader",
+      "Plain definition, desk/bookshelf analogy and access steps",
+      "Instructions and data, reuse in loops, larger-cache benefit and limits",
+      "Volatility and distinction from RAM and permanent file storage"
+    ],
+    "diagram_decision": "A short analogy and ordered explanation are sufficient; no decorative diagram added.",
+    "verification": [
+      "Dedicated heading appears once in CPU and memory and print-all",
+      "No new menu level",
+      "Previously buried cache paragraph integrated without duplicate explanation"
+    ]
+  }
 }

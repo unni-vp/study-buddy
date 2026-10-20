@@ -1,17 +1,43 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Storage and embedded systems · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/04%20-%20Computer%20systems/index.html">Computer systems</a><span aria-hidden="true"> / </span><a href="f4a695c2bfa7.html">Revision notes</a></nav><div class="reader-tools"><a href="f4a695c2bfa7.html">← All revision notes</a></div><article class="reading section-reading"><h1>Storage and embedded systems</h1>
-<h2>Secondary and cloud storage</h2>
-<p>Secondary storage keeps programs and data for the long term. Both magnetic and solid-state storage are <strong>non-volatile</strong>.</p>
-<h3>Magnetic and solid-state storage</h3>
+<h2>Secondary storage</h2>
+<p><strong>Secondary storage</strong> keeps programs and files when the power is off. Magnetic and solid-state storage are both <strong>non-volatile</strong>. A saved program is loaded into RAM when it is needed for processing.</p>
+<h3>Magnetic hard disk drives (HDDs)</h3>
+<p>A hard disk stores data on rotating discs called <strong>platters</strong>, rather like information arranged on a spinning record. Unlike a record player, its read/write head does not touch the surface.</p>
+<ol>
+<li><strong>Store:</strong> tiny magnetised regions on the platter represent binary data. The surface is organised into circular <strong>tracks</strong>, divided into <strong>sectors</strong>.</li>
+<li><strong>Write:</strong> the read/write head changes the magnetic pattern in the required region to store new data.</li>
+<li><strong>Read:</strong> an arm moves the head to the correct track. The platter rotates until the required sector passes beneath the head, which detects the stored magnetic pattern.</li>
+<li><strong>Access time:</strong> moving the head and waiting for rotation take time. These moving parts also make a working HDD vulnerable to knocks.</li>
+</ol>
+<p>A hard disk provides <strong>direct access</strong>: it can move to the required location without reading every earlier file. It still has mechanical delays.</p>
+<h3>Solid-state drives (SSDs)</h3>
+<p>A <strong>solid-state drive</strong> normally stores data in <strong>flash memory chips</strong>. Think of many tiny electronic storage cells, rather than a spinning surface.</p>
+<ul>
+<li><strong>Store:</strong> memory cells retain electrical charge states that represent binary data, even when power is removed.</li>
+<li><strong>Read and write:</strong> a controller manages the cells. Electronic circuits detect their stored states when reading and change those states when writing.</li>
+<li><strong>Access:</strong> there is <strong>no moving head or rotating platter</strong>. The drive can access different locations electronically, so it usually retrieves data faster than an HDD.</li>
+<li><strong>Limits:</strong> flash cells tolerate a limited number of erase/write cycles. An SSD can still fail, so important files need backups.</li>
+</ul>
+<p><strong>Flash memory is non-volatile; RAM is volatile.</strong> Both use electronic components, but ordinary RAM loses its working data when the power is off.</p>
+<h3>Other storage devices</h3>
+<ul>
+<li><strong>Magnetic tape:</strong> data is stored magnetically on a ribbon that must wind to reach the required location, making it useful for large backups but slower for individual file access.</li>
+<li><strong>USB pen drive:</strong> this portable flash-storage device plugs into a USB port and is useful for transferring files between computers.</li>
+<li><strong>Memory card:</strong> an SD or microSD card uses compact flash storage for photos, videos and other files in devices such as cameras and phones.</li>
+</ul>
+<p>Tape uses <strong>sequential access</strong>: reaching a later location requires moving through the intervening tape. SSDs, USB drives and memory cards all belong to the <strong>solid-state</strong> family; they are not separate storage technologies.</p>
+<h3>Comparing HDDs and SSDs</h3>
 <table>
-<tr><th>Feature</th><th>Magnetic storage</th><th>Solid-state storage</th></tr>
-<tr><td>How data is stored</td><td>Magnetises areas of a surface.</td><td>Uses electronic circuits.</td></tr>
-<tr><td>Moving parts</td><td>Usually has moving parts.</td><td>No moving parts; quiet in operation.</td></tr>
-<tr><td>Performance</td><td>Often slower to access data.</td><td>Usually faster and energy-efficient.</td></tr>
-<tr><td>Physical durability</td><td>Moving parts can make it more vulnerable to shock.</td><td>Often more durable when a device is moved or knocked.</td></tr>
-<tr><td>Cost and limits</td><td>Often high capacity at low cost per gigabyte.</td><td>Often costs more per gigabyte and has limited write endurance.</td></tr>
+<tr><th>Feature</th><th>Magnetic hard disk drive</th><th>Solid-state drive</th></tr>
+<tr><td>How data is stored</td><td>Magnetised regions store data on rotating platters.</td><td>Electronic cells store data in flash memory chips.</td></tr>
+<tr><td>Moving parts</td><td>A motor spins the platters, and an arm moves the read/write head.</td><td>There are no moving parts, so operation is quiet.</td></tr>
+<tr><td>Access speed</td><td>Head movement and rotation add delays.</td><td>Electronic access is usually faster and uses less energy.</td></tr>
+<tr><td>Physical durability</td><td>Moving parts make it more vulnerable to knocks during use.</td><td>It is usually more resistant to movement, but can still fail.</td></tr>
+<tr><td>Cost and capacity</td><td>It often provides high capacity at a lower cost per gigabyte.</td><td>It often costs more per gigabyte, and flash cells have limited write endurance.</td></tr>
 </table>
-<h3>Local and cloud storage</h3>
-<p>Cloud storage uses <strong>remote servers</strong>, which contain magnetic and/or solid-state devices. Cloud is a location and service arrangement, rather than a third physical storage technology.</p>
+<p>For a laptop carried between lessons, low power use, fast access and resistance to movement may justify an SSD&#x27;s higher cost per gigabyte. For large amounts of less frequently accessed data, capacity and cost may favour an HDD. Choose according to the user&#x27;s needs rather than calling one device best for every task.</p>
+<h2>Cloud storage</h2>
+<p>Cloud storage uses <strong>remote servers</strong>, which contain magnetic and/or solid-state devices. Cloud describes where files are stored and how the service is provided, rather than a third physical storage technology.</p>
 <table>
 <tr><th>Feature</th><th>Local storage</th><th>Cloud storage</th></tr>
 <tr><td>Location</td><td>On a device or storage system at the user’s site.</td><td>On remote servers managed through a provider.</td></tr>
@@ -21,12 +47,7 @@
 <tr><td>Backup and control</td><td>Users organise backups and protect their equipment.</td><td>Off-site copies can help recovery, but backup arrangements and permissions still matter.</td></tr>
 <tr><td>Limitations</td><td>Loss, damage or theft at the site can affect local copies.</td><td>Outages, privacy/security concerns and slow transfers of large files can affect use.</td></tr>
 </table>
-<h3>How the physical methods work</h3>
-<p>A magnetic hard disk stores data using magnetised areas of rotating platters. A read/write head moves to the required track, and the rotation brings the required area beneath it. This mechanical movement contributes to access time and makes knocks a concern.</p>
-<p>Solid-state storage uses electronic circuits to retain data without power. There is no spinning platter or moving head, so access is typically faster and a portable device is less vulnerable to mechanical damage. Solid-state devices can still fail, so important files still need backups.</p>
-<h3>Choosing storage for a situation</h3>
-<p>For a laptop carried between lessons, low power use, fast access and resistance to movement may justify an SSD&#x27;s higher cost per gigabyte. For a large archive, capacity and cost may favour magnetic storage. State which requirement matters instead of calling one method best for every task.</p>
-<p>Cloud access can make the same files available on several devices and make sharing easier. Uploading or downloading large files still depends on connection speed. The provider stores the files on real hardware, and account security, permissions, outages and ongoing costs remain relevant.</p>
+<p>Cloud access can make the same files available on several devices and make sharing easier. Uploading or downloading large files still depends on connection speed. Account security, permissions, outages and ongoing costs remain relevant.</p>
 <p>Synchronisation is not automatically a complete backup: deleting a file may also delete its synchronised copies. Recovery depends on the service&#x27;s version history, backup and retention arrangements.</p>
 <h2>Embedded systems</h2>
 <p>An <strong>embedded system</strong> is a computer built into a larger device to perform a dedicated or limited set of functions.</p>

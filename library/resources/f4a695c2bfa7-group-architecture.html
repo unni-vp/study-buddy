@@ -32,7 +32,19 @@
 <p>Do not claim that doubling one feature always doubles performance. Workload, software, architecture and other bottlenecks matter.</p>
 <p>Clock speed is measured in <strong>hertz</strong>, or cycles per second. A speed of 3 GHz means about <strong>3 billion clock cycles per second</strong>. It does not mean every instruction always takes exactly one cycle.</p>
 <p>More cores can improve performance when work can be divided between them, such as independent tasks. A program with a largely sequential task may gain little from unused cores.</p>
-<p>Cache holds frequently needed instructions and data so the CPU can obtain them faster than from RAM. A larger cache can reduce waiting if it holds more of the data the program actually needs; it does not increase the capacity of long-term file storage.</p>
+<h2>Cache memory</h2>
+<p><strong>Cache</strong> is a small amount of <strong>very fast memory</strong> built into or close to the CPU. It keeps copies of frequently or recently used <strong>instructions and data</strong>, so the processor can access them more quickly than it could from RAM.</p>
+<p>Think of RAM as a bookshelf across the room and cache as a small pile of useful pages on your desk. Keeping the pages you need nearby saves repeated trips to the shelf.</p>
+<h3>How it reduces waiting</h3>
+<ol>
+<li>When the CPU needs information, the system checks whether it is already in cache.</li>
+<li>If it is there, the CPU can use the fast cached copy instead of waiting for RAM.</li>
+<li>If it is absent, the information must be obtained from RAM. A copy may be placed in cache so that later accesses are faster.</li>
+</ol>
+<p>For example, a loop may repeatedly use the same instructions and data. Keeping these in cache reduces repeated access to slower RAM.</p>
+<h3>Why cache size matters</h3>
+<p>A <strong>larger cache</strong> can hold more useful instructions and data. This can reduce the number of slower RAM accesses and improve performance. It does not guarantee a proportional speed increase: the benefit depends on what the program needs and whether that information is already cached.</p>
+<p>Cache is <strong>volatile</strong>, so it loses its contents when power is removed. It is much smaller than RAM and does not replace RAM or provide permanent storage for saved files.</p>
 <h2>Memory types</h2>
 <table>
 <tr><th>Type</th><th>Volatile?</th><th>Purpose</th></tr>

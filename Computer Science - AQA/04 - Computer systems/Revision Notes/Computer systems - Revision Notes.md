@@ -183,7 +183,25 @@ Clock speed is measured in **hertz**, or cycles per second. A speed of 3 GHz mea
 
 More cores can improve performance when work can be divided between them, such as independent tasks. A program with a largely sequential task may gain little from unused cores.
 
-Cache holds frequently needed instructions and data so the CPU can obtain them faster than from RAM. A larger cache can reduce waiting if it holds more of the data the program actually needs; it does not increase the capacity of long-term file storage.
+## Cache memory
+
+**Cache** is a small amount of **very fast memory** built into or close to the CPU. It keeps copies of frequently or recently used **instructions and data**, so the processor can access them more quickly than it could from RAM.
+
+Think of RAM as a bookshelf across the room and cache as a small pile of useful pages on your desk. Keeping the pages you need nearby saves repeated trips to the shelf.
+
+### How it reduces waiting
+
+1. When the CPU needs information, the system checks whether it is already in cache.
+2. If it is there, the CPU can use the fast cached copy instead of waiting for RAM.
+3. If it is absent, the information must be obtained from RAM. A copy may be placed in cache so that later accesses are faster.
+
+For example, a loop may repeatedly use the same instructions and data. Keeping these in cache reduces repeated access to slower RAM.
+
+### Why cache size matters
+
+A **larger cache** can hold more useful instructions and data. This can reduce the number of slower RAM accesses and improve performance. It does not guarantee a proportional speed increase: the benefit depends on what the program needs and whether that information is already cached.
+
+Cache is **volatile**, so it loses its contents when power is removed. It is much smaller than RAM and does not replace RAM or provide permanent storage for saved files.
 
 ## Memory types
 
@@ -206,24 +224,55 @@ If a document has changed only in RAM, switching off without saving can lose tho
 
 ROM retains startup instructions when power is off and is not normally changed during ordinary use. RAM is designed for the changing instructions and data of active programs. Both have roles; non-volatile does not mean ROM is a substitute for all working memory.
 
-## Secondary and cloud storage
+## Secondary storage
 
-Secondary storage keeps programs and data for the long term. Both magnetic and solid-state storage are **non-volatile**.
+**Secondary storage** keeps programs and files when the power is off. Magnetic and solid-state storage are both **non-volatile**. A saved program is loaded into RAM when it is needed for processing.
 
-### Magnetic and solid-state storage
+### Magnetic hard disk drives (HDDs)
 
-| Feature | Magnetic storage | Solid-state storage |
+A hard disk stores data on rotating discs called **platters**, rather like information arranged on a spinning record. Unlike a record player, its read/write head does not touch the surface.
+
+1. **Store:** tiny magnetised regions on the platter represent binary data. The surface is organised into circular **tracks**, divided into **sectors**.
+2. **Write:** the read/write head changes the magnetic pattern in the required region to store new data.
+3. **Read:** an arm moves the head to the correct track. The platter rotates until the required sector passes beneath the head, which detects the stored magnetic pattern.
+4. **Access time:** moving the head and waiting for rotation take time. These moving parts also make a working HDD vulnerable to knocks.
+
+A hard disk provides **direct access**: it can move to the required location without reading every earlier file. It still has mechanical delays.
+
+### Solid-state drives (SSDs)
+
+A **solid-state drive** normally stores data in **flash memory chips**. Think of many tiny electronic storage cells, rather than a spinning surface.
+
+- **Store:** memory cells retain electrical charge states that represent binary data, even when power is removed.
+- **Read and write:** a controller manages the cells. Electronic circuits detect their stored states when reading and change those states when writing.
+- **Access:** there is **no moving head or rotating platter**. The drive can access different locations electronically, so it usually retrieves data faster than an HDD.
+- **Limits:** flash cells tolerate a limited number of erase/write cycles. An SSD can still fail, so important files need backups.
+
+**Flash memory is non-volatile; RAM is volatile.** Both use electronic components, but ordinary RAM loses its working data when the power is off.
+
+### Other storage devices
+
+- **Magnetic tape:** data is stored magnetically on a ribbon that must wind to reach the required location, making it useful for large backups but slower for individual file access.
+- **USB pen drive:** this portable flash-storage device plugs into a USB port and is useful for transferring files between computers.
+- **Memory card:** an SD or microSD card uses compact flash storage for photos, videos and other files in devices such as cameras and phones.
+
+Tape uses **sequential access**: reaching a later location requires moving through the intervening tape. SSDs, USB drives and memory cards all belong to the **solid-state** family; they are not separate storage technologies.
+
+### Comparing HDDs and SSDs
+
+| Feature | Magnetic hard disk drive | Solid-state drive |
 |---|---|---|
-| How data is stored | Magnetises areas of a surface. | Uses electronic circuits. |
-| Moving parts | Usually has moving parts. | No moving parts; quiet in operation. |
-| Performance | Often slower to access data. | Usually faster and energy-efficient. |
-| Physical durability | Moving parts can make it more vulnerable to shock. | Often more durable when a device is moved or knocked. |
-| Cost and limits | Often high capacity at low cost per gigabyte. | Often costs more per gigabyte and has limited write endurance. |
+| How data is stored | Magnetised regions store data on rotating platters. | Electronic cells store data in flash memory chips. |
+| Moving parts | A motor spins the platters, and an arm moves the read/write head. | There are no moving parts, so operation is quiet. |
+| Access speed | Head movement and rotation add delays. | Electronic access is usually faster and uses less energy. |
+| Physical durability | Moving parts make it more vulnerable to knocks during use. | It is usually more resistant to movement, but can still fail. |
+| Cost and capacity | It often provides high capacity at a lower cost per gigabyte. | It often costs more per gigabyte, and flash cells have limited write endurance. |
 
+For a laptop carried between lessons, low power use, fast access and resistance to movement may justify an SSD's higher cost per gigabyte. For large amounts of less frequently accessed data, capacity and cost may favour an HDD. Choose according to the user's needs rather than calling one device best for every task.
 
-### Local and cloud storage
+## Cloud storage
 
-Cloud storage uses **remote servers**, which contain magnetic and/or solid-state devices. Cloud is a location and service arrangement, rather than a third physical storage technology.
+Cloud storage uses **remote servers**, which contain magnetic and/or solid-state devices. Cloud describes where files are stored and how the service is provided, rather than a third physical storage technology.
 
 | Feature | Local storage | Cloud storage |
 |---|---|---|
@@ -234,17 +283,7 @@ Cloud storage uses **remote servers**, which contain magnetic and/or solid-state
 | Backup and control | Users organise backups and protect their equipment. | Off-site copies can help recovery, but backup arrangements and permissions still matter. |
 | Limitations | Loss, damage or theft at the site can affect local copies. | Outages, privacy/security concerns and slow transfers of large files can affect use. |
 
-### How the physical methods work
-
-A magnetic hard disk stores data using magnetised areas of rotating platters. A read/write head moves to the required track, and the rotation brings the required area beneath it. This mechanical movement contributes to access time and makes knocks a concern.
-
-Solid-state storage uses electronic circuits to retain data without power. There is no spinning platter or moving head, so access is typically faster and a portable device is less vulnerable to mechanical damage. Solid-state devices can still fail, so important files still need backups.
-
-### Choosing storage for a situation
-
-For a laptop carried between lessons, low power use, fast access and resistance to movement may justify an SSD's higher cost per gigabyte. For a large archive, capacity and cost may favour magnetic storage. State which requirement matters instead of calling one method best for every task.
-
-Cloud access can make the same files available on several devices and make sharing easier. Uploading or downloading large files still depends on connection speed. The provider stores the files on real hardware, and account security, permissions, outages and ongoing costs remain relevant.
+Cloud access can make the same files available on several devices and make sharing easier. Uploading or downloading large files still depends on connection speed. Account security, permissions, outages and ongoing costs remain relevant.
 
 Synchronisation is not automatically a complete backup: deleting a file may also delete its synchronised copies. Recovery depends on the service's version history, backup and retention arrangements.
 
@@ -268,3 +307,10 @@ A general-purpose laptop can instead run unrelated user-selected applications. A
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [IBM: solid-state drives and mechanical access delays](https://www.ibm.com/think/topics/solid-state-drives).
+- [IBM: flash storage, memory cells and removable flash devices](https://www.ibm.com/think/topics/flash-storage).
+- [Kingston: SSD controllers and persistent flash storage](https://www.kingston.com/en/ssd/data-protection).
+- [Seagate: platter tracks and read/write heads](https://www.seagate.com/gb/en/blog/track-squeeze-and-high-vibration-environments-challenges-and-solutions-for-cloud-data-centers/).
+- [IBM: sequential access on magnetic tape](https://www.ibm.com/docs/en/zos/3.1.0?topic=files-processing-sequential-data-sets).
+- [IBM Research: tape use for infrequently accessed data](https://research.ibm.com/projects/tape-research).
+- [Intel: memory performance and the cache hierarchy](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html).
