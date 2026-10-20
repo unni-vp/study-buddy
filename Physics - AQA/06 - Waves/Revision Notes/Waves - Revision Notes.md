@@ -51,6 +51,9 @@ Using the supplied speeds:
 
 ## Practical: measuring waves
 
+
+![A ripple tank plan shows six crests spanning five wavelengths. A vibrating string shows adjacent nodes separated by half a wavelength.](../Diagrams/wave-speed-practical.svg)
+
 **Ripple tank**
 
 1. Use a shallow, level tank, a vibrating dipper and a lamp to project clear wave patterns onto paper below. Keep water depth constant.
@@ -73,6 +76,9 @@ A 1.02 m separation with a 0.0030 s delay gives **340 m/s**.
 Hand-timing such a tiny delay is unsuitable.
 
 ## Reflection, absorption and transmission
+
+
+![Incident and reflected rays meet at a mirror. A separate parallel-sided block bends light towards the normal on entry and away on exit.](../Diagrams/ray-tracing-practical.svg)
 
 When a wave reaches a boundary, some energy may be **reflected**, **absorbed** or **transmitted**. The proportions depend on the materials and the wavelength.
 
@@ -245,6 +251,9 @@ Think of a bath: the water level stays steady if water enters as fast as it leav
 **Earth:** some sunlight is reflected into space; the rest is absorbed by the surface and atmosphere. Earth emits infrared. Greenhouse gases absorb and emit some of this IR, affecting transfer to space. Increased absorption of outgoing IR initially changes the balance, so the surface and lower atmosphere warm until a new balance is reached. Greater reflection of incoming sunlight generally reduces absorbed power. Do not describe greenhouse gases as simply reflecting all heat back.
 
 ## Practical: infrared surfaces
+
+
+![A detector compares emission from Leslie cube faces. Separately, an infrared lamp heats matched black and shiny samples.](../Diagrams/infrared-surfaces-practical.svg)
 
 **Comparing emission**
 

@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: measuring waves",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/wave-speed-practical.svg",
+      "purpose": "A ripple tank plan shows six crests spanning five wavelengths. A vibrating string shows adjacent nodes separated by half a wavelength."
+    },
+    {
+      "heading": "Reflection, absorption and transmission",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/ray-tracing-practical.svg",
+      "purpose": "Incident and reflected rays meet at a mirror. A separate parallel-sided block bends light towards the normal on entry and away on exit."
+    },
+    {
+      "heading": "Practical: infrared surfaces",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/infrared-surfaces-practical.svg",
+      "purpose": "A detector compares emission from Leslie cube faces. Separately, an infrared lamp heats matched black and shiny samples."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
