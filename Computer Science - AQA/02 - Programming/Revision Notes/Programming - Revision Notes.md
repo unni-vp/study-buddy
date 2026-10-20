@@ -14,7 +14,7 @@ A **data type** tells the computer what kind of value is stored and which operat
 
 | Named value | Can it change while the program runs? | Example |
 |---|---|---|
-| **Variable** | Its stored value can change. | `score` changes as points are earned. |
+| **Variable** | It is a **named storage location** whose value can change. | `score` changes as points are earned. |
 | **Constant** | It is intended to stay the same. | `MAX_ATTEMPTS` stores the allowed number of guesses. |
 
 - **Assignment** stores a value: pseudocode `score ← 0`; Python `score = 0`.
