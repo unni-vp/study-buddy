@@ -53,9 +53,12 @@ Binary addition follows these facts:
 - 1 + 1 = 10, so write 0 and carry 1
 - 1 + 1 + 1 = 11, so write 1 and carry 1
 
-A **logical left shift** moves bits left and fills empty positions with zero. Each place left multiplies an unsigned whole number by 2 if no important bit is lost.
+| Feature | Logical left shift | Logical right shift |
+|---|---|---|
+| Bit movement | Moves bits left; fills empty positions with zero. | Moves bits right; fills empty positions with zero. |
+| One-place effect | Multiplies an unsigned whole number by 2 **if no significant bit is lost**. | Performs integer division by 2 on an unsigned whole number. |
+| What can be lost? | Bits shifted beyond the left edge are discarded. | Bits shifted beyond the right edge are discarded, so an odd value loses its remainder. |
 
-A **logical right shift** moves bits right and fills with zero. Each place right performs integer division by 2; bits shifted out are lost.
 
 Example: `00010110` (22) shifted left once becomes `00101100` (44).
 
@@ -63,10 +66,14 @@ Example: `00010110` (22) shifted left once becomes `00101100` (44).
 
 A **character set** is the collection of characters that can be represented. A character encoding assigns each character a numeric code.
 
-- **7-bit ASCII** has 128 possible codes.
-- **Unicode** represents far more alphabets, symbols and emoji.
-- Unicode uses the same codes as ASCII from 0 to 127.
-- Codes are grouped in sequences: if `A` is 65, then `B` is 66.
+| Feature | 7-bit ASCII | Unicode |
+|---|---|---|
+| Range | 128 possible codes. | Far more alphabets, symbols and emoji. |
+| Characters supported | A limited set, suitable for basic English text and control characters. | Characters used across many languages. |
+| Relationship | Codes 0–127 form the ASCII set. | Uses the same character codes as ASCII for 0–127. |
+
+
+Codes are grouped in sequences: if `A` is 65, then `B` is 66.
 
 Unicode is needed because ASCII cannot represent the wide range of characters used worldwide. You do not need details of UTF-8 or UTF-16.
 
@@ -74,11 +81,13 @@ Unicode is needed because ASCII cannot represent the wide range of characters us
 
 A **pixel** is one picture element. A bitmap stores a grid of pixels and a code for each pixel's colour.
 
-- **Image dimensions** are width × height in pixels.
-- **Colour depth** is the number of bits used for each pixel.
-- More pixels can improve detail but increase file size.
-- Greater colour depth allows more colours but increases file size.
-- Number of possible colours = **2^colour depth**.
+| Setting | What it measures | Effect of increasing it |
+|---|---|---|
+| **Image dimensions** | Width × height, in pixels. | More pixels can record more detail, but increase uncompressed file size at fixed colour depth. |
+| **Colour depth** | Bits used for each pixel. | More possible colours, but a larger uncompressed file at fixed dimensions. |
+
+
+Number of possible colours = **2^colour depth**.
 
 **Image size in bits = width × height × colour depth**
 
@@ -92,11 +101,13 @@ Simple black-and-white bitmap questions may ask you to convert each 0 or 1 into 
 
 Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave's amplitude at regular times.
 
-- **Sampling rate:** samples taken each second, measured in hertz.
-- **Sample resolution:** bits used for each sample.
-- A higher sampling rate records changes more frequently.
-- A higher resolution records amplitude more precisely.
-- Both can improve accuracy but increase file size.
+| Setting | What it measures | Effect of increasing it |
+|---|---|---|
+| **Sampling rate** | Samples per second, measured in hertz (Hz). | Records changes more frequently. At fixed resolution and duration, the uncompressed file grows. |
+| **Sample resolution** | Bits used for each sample. | Records amplitude more precisely. At fixed rate and duration, the uncompressed file grows. |
+
+
+Both can improve how accurately the digital recording represents the original sound.
 
 **Sound size in bits = sampling rate × sample resolution × duration in seconds**
 
@@ -130,6 +141,17 @@ RLE can make varied data larger because short runs need their own frequency valu
 No code is the prefix of another, so the encoded stream can be decoded unambiguously.
 
 To calculate compressed size, multiply each symbol's frequency by its code length and add the results. Compare with uncompressed ASCII at **7 bits per character** when instructed.
+
+### RLE and Huffman coding
+
+| Feature | Run-length encoding | Huffman coding |
+|---|---|---|
+| Main idea | Replaces consecutive repeated values with frequency/data pairs. | Gives shorter codes to more frequent symbols. |
+| What matters | The lengths of consecutive runs. | How often each symbol appears. |
+| Example | Five consecutive zeroes become `5 0`. | A common character gets a shorter code than a rare character. |
+| Checking the saving | Include the space needed to store each pair; short runs can make data larger. | Multiply each symbol’s frequency by its code length, then add the results. |
+| Original data | Can be recovered exactly when decoded. | Can be recovered exactly using the correct code tree. |
+
 
 ## Calculation checklist
 

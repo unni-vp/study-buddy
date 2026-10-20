@@ -40,40 +40,43 @@
 <li>1 + 1 = 10, so write 0 and carry 1</li>
 <li>1 + 1 + 1 = 11, so write 1 and carry 1</li>
 </ul>
-<p>A <strong>logical left shift</strong> moves bits left and fills empty positions with zero. Each place left multiplies an unsigned whole number by 2 if no important bit is lost.</p>
-<p>A <strong>logical right shift</strong> moves bits right and fills with zero. Each place right performs integer division by 2; bits shifted out are lost.</p>
+<table>
+<tr><th>Feature</th><th>Logical left shift</th><th>Logical right shift</th></tr>
+<tr><td>Bit movement</td><td>Moves bits left; fills empty positions with zero.</td><td>Moves bits right; fills empty positions with zero.</td></tr>
+<tr><td>One-place effect</td><td>Multiplies an unsigned whole number by 2 <strong>if no significant bit is lost</strong>.</td><td>Performs integer division by 2 on an unsigned whole number.</td></tr>
+<tr><td>What can be lost?</td><td>Bits shifted beyond the left edge are discarded.</td><td>Bits shifted beyond the right edge are discarded, so an odd value loses its remainder.</td></tr>
+</table>
 <p>Example: <code>00010110</code> (22) shifted left once becomes <code>00101100</code> (44).</p>
 <h2>Character encoding</h2>
 <p>A <strong>character set</strong> is the collection of characters that can be represented. A character encoding assigns each character a numeric code.</p>
-<ul>
-<li><strong>7-bit ASCII</strong> has 128 possible codes.</li>
-<li><strong>Unicode</strong> represents far more alphabets, symbols and emoji.</li>
-<li>Unicode uses the same codes as ASCII from 0 to 127.</li>
-<li>Codes are grouped in sequences: if <code>A</code> is 65, then <code>B</code> is 66.</li>
-</ul>
+<table>
+<tr><th>Feature</th><th>7-bit ASCII</th><th>Unicode</th></tr>
+<tr><td>Range</td><td>128 possible codes.</td><td>Far more alphabets, symbols and emoji.</td></tr>
+<tr><td>Characters supported</td><td>A limited set, suitable for basic English text and control characters.</td><td>Characters used across many languages.</td></tr>
+<tr><td>Relationship</td><td>Codes 0–127 form the ASCII set.</td><td>Uses the same character codes as ASCII for 0–127.</td></tr>
+</table>
+<p>Codes are grouped in sequences: if <code>A</code> is 65, then <code>B</code> is 66.</p>
 <p>Unicode is needed because ASCII cannot represent the wide range of characters used worldwide. You do not need details of UTF-8 or UTF-16.</p>
 <h2>Bitmap images</h2>
 <p>A <strong>pixel</strong> is one picture element. A bitmap stores a grid of pixels and a code for each pixel&#x27;s colour.</p>
-<ul>
-<li><strong>Image dimensions</strong> are width × height in pixels.</li>
-<li><strong>Colour depth</strong> is the number of bits used for each pixel.</li>
-<li>More pixels can improve detail but increase file size.</li>
-<li>Greater colour depth allows more colours but increases file size.</li>
-<li>Number of possible colours = <strong>2^colour depth</strong>.</li>
-</ul>
+<table>
+<tr><th>Setting</th><th>What it measures</th><th>Effect of increasing it</th></tr>
+<tr><td><strong>Image dimensions</strong></td><td>Width × height, in pixels.</td><td>More pixels can record more detail, but increase uncompressed file size at fixed colour depth.</td></tr>
+<tr><td><strong>Colour depth</strong></td><td>Bits used for each pixel.</td><td>More possible colours, but a larger uncompressed file at fixed dimensions.</td></tr>
+</table>
+<p>Number of possible colours = <strong>2^colour depth</strong>.</p>
 <p><strong>Image size in bits = width × height × colour depth</strong></p>
 <p>For 800 × 600 pixels at 24 bits per pixel:</p>
 <p>800 × 600 × 24 = 11,520,000 bits = <strong>1,440,000 bytes</strong>.</p>
 <p>Simple black-and-white bitmap questions may ask you to convert each 0 or 1 into a pixel, row by row.</p>
 <h2>Digital sound</h2>
 <p>Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave&#x27;s amplitude at regular times.</p>
-<ul>
-<li><strong>Sampling rate:</strong> samples taken each second, measured in hertz.</li>
-<li><strong>Sample resolution:</strong> bits used for each sample.</li>
-<li>A higher sampling rate records changes more frequently.</li>
-<li>A higher resolution records amplitude more precisely.</li>
-<li>Both can improve accuracy but increase file size.</li>
-</ul>
+<table>
+<tr><th>Setting</th><th>What it measures</th><th>Effect of increasing it</th></tr>
+<tr><td><strong>Sampling rate</strong></td><td>Samples per second, measured in hertz (Hz).</td><td>Records changes more frequently. At fixed resolution and duration, the uncompressed file grows.</td></tr>
+<tr><td><strong>Sample resolution</strong></td><td>Bits used for each sample.</td><td>Records amplitude more precisely. At fixed rate and duration, the uncompressed file grows.</td></tr>
+</table>
+<p>Both can improve how accurately the digital recording represents the original sound.</p>
 <p><strong>Sound size in bits = sampling rate × sample resolution × duration in seconds</strong></p>
 <p>44,000 Hz × 16 bits × 10 s = 7,040,000 bits = <strong>880,000 bytes</strong>.</p>
 <h2>Why compression is used</h2>
@@ -94,6 +97,15 @@
 </ol>
 <p>No code is the prefix of another, so the encoded stream can be decoded unambiguously.</p>
 <p>To calculate compressed size, multiply each symbol&#x27;s frequency by its code length and add the results. Compare with uncompressed ASCII at <strong>7 bits per character</strong> when instructed.</p>
+<h3>RLE and Huffman coding</h3>
+<table>
+<tr><th>Feature</th><th>Run-length encoding</th><th>Huffman coding</th></tr>
+<tr><td>Main idea</td><td>Replaces consecutive repeated values with frequency/data pairs.</td><td>Gives shorter codes to more frequent symbols.</td></tr>
+<tr><td>What matters</td><td>The lengths of consecutive runs.</td><td>How often each symbol appears.</td></tr>
+<tr><td>Example</td><td>Five consecutive zeroes become <code>5 0</code>.</td><td>A common character gets a shorter code than a rare character.</td></tr>
+<tr><td>Checking the saving</td><td>Include the space needed to store each pair; short runs can make data larger.</td><td>Multiply each symbol’s frequency by its code length, then add the results.</td></tr>
+<tr><td>Original data</td><td>Can be recovered exactly when decoded.</td><td>Can be recovered exactly using the correct code tree.</td></tr>
+</table>
 <h2>Calculation checklist</h2>
 <ul>
 <li>Write the formula before substituting values.</li>

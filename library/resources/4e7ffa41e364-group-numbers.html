@@ -40,6 +40,10 @@
 <li>1 + 1 = 10, so write 0 and carry 1</li>
 <li>1 + 1 + 1 = 11, so write 1 and carry 1</li>
 </ul>
-<p>A <strong>logical left shift</strong> moves bits left and fills empty positions with zero. Each place left multiplies an unsigned whole number by 2 if no important bit is lost.</p>
-<p>A <strong>logical right shift</strong> moves bits right and fills with zero. Each place right performs integer division by 2; bits shifted out are lost.</p>
+<table>
+<tr><th>Feature</th><th>Logical left shift</th><th>Logical right shift</th></tr>
+<tr><td>Bit movement</td><td>Moves bits left; fills empty positions with zero.</td><td>Moves bits right; fills empty positions with zero.</td></tr>
+<tr><td>One-place effect</td><td>Multiplies an unsigned whole number by 2 <strong>if no significant bit is lost</strong>.</td><td>Performs integer division by 2 on an unsigned whole number.</td></tr>
+<tr><td>What can be lost?</td><td>Bits shifted beyond the left edge are discarded.</td><td>Bits shifted beyond the right edge are discarded, so an odd value loses its remainder.</td></tr>
+</table>
 <p>Example: <code>00010110</code> (22) shifted left once becomes <code>00101100</code> (44).</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="4e7ffa41e364-group-media.html"><span>Next →</span><strong>Text, images and sound</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

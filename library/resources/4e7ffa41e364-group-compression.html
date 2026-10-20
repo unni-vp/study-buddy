@@ -17,6 +17,15 @@
 </ol>
 <p>No code is the prefix of another, so the encoded stream can be decoded unambiguously.</p>
 <p>To calculate compressed size, multiply each symbol&#x27;s frequency by its code length and add the results. Compare with uncompressed ASCII at <strong>7 bits per character</strong> when instructed.</p>
+<h3>RLE and Huffman coding</h3>
+<table>
+<tr><th>Feature</th><th>Run-length encoding</th><th>Huffman coding</th></tr>
+<tr><td>Main idea</td><td>Replaces consecutive repeated values with frequency/data pairs.</td><td>Gives shorter codes to more frequent symbols.</td></tr>
+<tr><td>What matters</td><td>The lengths of consecutive runs.</td><td>How often each symbol appears.</td></tr>
+<tr><td>Example</td><td>Five consecutive zeroes become <code>5 0</code>.</td><td>A common character gets a shorter code than a rare character.</td></tr>
+<tr><td>Checking the saving</td><td>Include the space needed to store each pair; short runs can make data larger.</td><td>Multiply each symbol’s frequency by its code length, then add the results.</td></tr>
+<tr><td>Original data</td><td>Can be recovered exactly when decoded.</td><td>Can be recovered exactly using the correct code tree.</td></tr>
+</table>
 <h2>Calculation checklist</h2>
 <ul>
 <li>Write the formula before substituting values.</li>
