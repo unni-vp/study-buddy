@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: measure specific heat capacity",
+      "diagram": "Physics - AQA/01 - Energy/Diagrams/specific-heat-capacity-practical.svg",
+      "purpose": "An insulated metal block contains a heater and temperature probe. A meter records electrical energy supplied."
+    },
+    {
+      "heading": "Practical: compare thermal insulators",
+      "diagram": "Physics - AQA/01 - Energy/Diagrams/thermal-insulation-practical.svg",
+      "purpose": "Identical lidded beakers have equal water masses, probes and equal thicknesses of different insulation."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

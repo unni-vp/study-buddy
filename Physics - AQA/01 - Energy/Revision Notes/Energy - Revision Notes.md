@@ -198,6 +198,9 @@ At the same mass and energy input, a material with **larger c has a smaller temp
 
 ## Practical: measure specific heat capacity
 
+
+![An insulated metal block contains a heater and temperature probe. A meter records electrical energy supplied.](../Diagrams/specific-heat-capacity-practical.svg)
+
 1. Measure the mass of a metal block using a balance. Fit an electrical heater and thermometer into its holes. A little suitable oil improves thermal contact.
 2. Wrap the block in insulation. Record its initial temperature.
 3. Use a low-voltage supply. Measure energy input with a joulemeter, or record power and heating time using **E = Pt**. If needed, measure V and I and use E = VIt.
@@ -226,6 +229,9 @@ Energy transfers from hotter to cooler surroundings. **Higher thermal conductivi
 - Compare cost with savings and practicality. Simple **payback time = installation cost ÷ annual saving** when annual savings are assumed constant.
 
 ## Practical: compare thermal insulators
+
+
+![Identical lidded beakers have equal water masses, probes and equal thicknesses of different insulation.](../Diagrams/thermal-insulation-practical.svg)
 
 1. Wrap identical containers in equal thicknesses of different materials. Include an uninsulated control.
 2. Add the same mass of hot water at the same starting temperature. Use matching lids and thermometers.
