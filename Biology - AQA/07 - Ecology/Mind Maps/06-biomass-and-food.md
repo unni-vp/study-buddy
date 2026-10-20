@@ -38,7 +38,9 @@ Enough food requires sustainable supply.
 
 Suitable warmth/limited movement improve growth efficiency.
 
-Protein supports growth; consider welfare and waste.
+Protein supports growth
+
+consider welfare and waste.
 
 Quotas limit catch. Mesh lets young fish escape.
 
