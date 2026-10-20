@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Practical: specific heat capacity",
+      "diagram": "Physics - AQA/01 - Energy/Diagrams/specific-heat-capacity-practical.svg",
+      "purpose": "An insulated metal block contains a heater and temperature probe. A meter records electrical energy supplied."
+    },
+    {
+      "heading": "Practical: thermal insulation",
+      "diagram": "Physics - AQA/01 - Energy/Diagrams/thermal-insulation-practical.svg",
+      "purpose": "Identical lidded beakers have equal water masses, probes and equal thicknesses of different insulation."
+    },
+    {
+      "heading": "Practical: density",
+      "diagram": "Physics - AQA/03 - Particle model of matter/Diagrams/density-displacement-practical.svg",
+      "purpose": "The water level rises from V₁ to V₂ when an irregular solid is fully submerged. Its volume is the difference."
+    },
+    {
+      "heading": "Practical: force and extension",
+      "diagram": "Physics - AQA/05 - Forces/Diagrams/spring-extension-practical.svg",
+      "purpose": "Unloaded and loaded spring lengths are read against a ruler with an eye-level pointer. Extension is their difference."
+    },
+    {
+      "heading": "Practical: force, mass and acceleration",
+      "diagram": "Physics - AQA/05 - Forces/Diagrams/trolley-acceleration-practical.svg",
+      "purpose": "A trolley carrying masses is pulled by a string over a pulley to a hanging mass. Light gates measure its motion."
+    },
+    {
+      "heading": "Practical: resistance",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/wire-length-practical.svg",
+      "purpose": "Ammeter in series; voltmeter across the selected wire length between fixed and movable contacts. A ruler measures that length."
+    },
+    {
+      "heading": "Practical: resistance",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/resistor-combinations-practical.svg",
+      "purpose": "Series and parallel resistor circuits, each with an ammeter measuring total current and a voltmeter across the whole combination."
+    },
+    {
+      "heading": "Practical: current–voltage characteristics",
+      "diagram": "Physics - AQA/02 - Electricity/Diagrams/iv-practical.svg",
+      "purpose": "Low-voltage supply, variable resistor, ammeter and test component in series; voltmeter across the component."
+    },
+    {
+      "heading": "Practical: waves in water and solids",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/wave-speed-practical.svg",
+      "purpose": "A ripple tank plan shows six crests spanning five wavelengths. A vibrating string shows adjacent nodes separated by half a wavelength."
+    },
+    {
+      "heading": "Practical: reflection and refraction",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/ray-tracing-practical.svg",
+      "purpose": "Incident and reflected rays meet at a mirror. A separate parallel-sided block bends light towards the normal on entry and away on exit."
+    },
+    {
+      "heading": "Practical: infrared absorption and emission",
+      "diagram": "Physics - AQA/06 - Waves/Diagrams/infrared-surfaces-practical.svg",
+      "purpose": "A detector compares emission from Leslie cube faces. Separately, an infrared lamp heats matched black and shiny samples."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

@@ -91,6 +91,9 @@ Present the reasoning in a logical order. Use appropriate units, diagrams and ca
 
 ## Practical: specific heat capacity
 
+
+![An insulated metal block contains a heater and temperature probe. A meter records electrical energy supplied.](../../01 - Energy/Diagrams/specific-heat-capacity-practical.svg)
+
 **Aim:** link energy transferred to a material with its temperature rise.
 
 1. Measure the mass of a metal block. Insert a heater and temperature probe with good thermal contact. Insulate the block.
@@ -102,6 +105,9 @@ Energy also heats equipment and escapes to the room. Treating all electrical inp
 
 ## Practical: thermal insulation
 
+
+![Identical lidded beakers have equal water masses, probes and equal thicknesses of different insulation.](../../01 - Energy/Diagrams/thermal-insulation-practical.svg)
+
 Compare cooling in identical containers with the same water mass and starting temperature.
 
 - To test **material**, use equal insulation thicknesses. To test **thickness**, use the same material at different thicknesses.
@@ -111,6 +117,9 @@ Compare cooling in identical containers with the same water mass and starting te
 - Control draughts and minimise reading delays. Use a heatproof surface and handle hot water safely.
 
 ## Practical: density
+
+
+![The water level rises from V₁ to V₂ when an irregular solid is fully submerged. Its volume is the difference.](../../03 - Particle model of matter/Diagrams/density-displacement-practical.svg)
 
 **ρ = m/V**. Choose a volume method that fits the sample.
 
@@ -123,6 +132,9 @@ Repeated dimension measurements can improve a regular-solid estimate. Do not ass
 
 ## Practical: force and extension
 
+
+![Unloaded and loaded spring lengths are read against a ruler with an eye-level pointer. Extension is their difference.](../../05 - Forces/Diagrams/spring-extension-practical.svg)
+
 1. Secure a spring on a stand with a ruler beside it. Measure its unloaded length.
 2. Add known loads in steps, including the hanger's mass. Use **F = mg** to find force.
 3. Let it settle. Read length at eye level and calculate **extension = loaded − unloaded length**.
@@ -134,6 +146,9 @@ Repeated dimension measurements can improve a regular-solid estimate. Do not ass
 Use small load steps and avoid overstretching. Secure the stand and keep eyes and feet away from a spring or falling masses. Do not substitute total length for extension.
 
 ## Practical: force, mass and acceleration
+
+
+![A trolley carrying masses is pulled by a string over a pulley to a hanging mass. Light gates measure its motion.](../../05 - Forces/Diagrams/trolley-acceleration-practical.svg)
 
 Use a low-friction trolley pulled by a string over a pulley by hanging masses. Light gates or a motion sensor measure velocities, allowing **a = Δv/Δt**.
 
@@ -152,6 +167,12 @@ Use a low-friction trolley pulled by a string over a pulley by hanging masses. L
 Minimise and account for friction; keep track and pulley conditions consistent. Hanging weight is not simply equal to string tension on the accelerating trolley. Take readings before the hanger hits the floor. Secure the pulley, catch the trolley and keep feet clear of masses.
 
 ## Practical: resistance
+
+
+
+![Series and parallel resistor circuits, each with an ammeter measuring total current and a voltmeter across the whole combination.](../../02 - Electricity/Diagrams/resistor-combinations-practical.svg)
+
+![Ammeter in series; voltmeter across the selected wire length between fixed and movable contacts. A ruler measures that length.](../../02 - Electricity/Diagrams/wire-length-practical.svg)
 
 Use a low-voltage supply, an **ammeter in series** and a **voltmeter across** the test wire or resistor. Calculate **R = V/I** rather than treating current alone as resistance.
 
@@ -172,6 +193,9 @@ Use a low-voltage supply, an **ammeter in series** and a **voltmeter across** th
 
 ## Practical: current–voltage characteristics
 
+
+![Low-voltage supply, variable resistor, ammeter and test component in series; voltmeter across the component.](../../02 - Electricity/Diagrams/iv-practical.svg)
+
 1. Put the test component and ammeter in series. Put a voltmeter in parallel with the component.
 2. Use an adjustable supply or variable resistor to change potential difference. Record paired **V and I** values across a suitable range.
 3. Reverse connections or supply polarity for negative readings where appropriate. Limit current, especially through a diode.
@@ -185,6 +209,9 @@ For an ohmic-resistor investigation, keep temperature approximately constant. He
 
 ## Practical: waves in water and solids
 
+
+![A ripple tank plan shows six crests spanning five wavelengths. A vibrating string shows adjacent nodes separated by half a wavelength.](../../06 - Waves/Diagrams/wave-speed-practical.svg)
+
 **Ripple tank:** use a vibrating dipper in shallow water and a lamp to see the pattern. Measure several crest-to-crest spacings, divide by the number of wavelengths, and measure or use calibrated vibration frequency. Calculate **v = fλ**. Keep water depth constant and repeat. Six crest lines enclose five wavelengths.
 
 **Stretched string:** use a signal generator and vibration generator, with fixed tension and string type. Adjust frequency to see a clear stationary pattern. Adjacent nodes are **λ/2** apart; find λ from loop length and use the frequency setting to calculate v. Secure loads and apparatus.
@@ -192,6 +219,9 @@ For an ohmic-resistor investigation, keep temperature approximately constant. He
 For very short sound delays, microphones with electronic timing are suitable; human stopwatch timing is not. Choose apparatus based on the time or distance to be resolved, not simply what is available.
 
 ## Practical: reflection and refraction
+
+
+![Incident and reflected rays meet at a mirror. A separate parallel-sided block bends light towards the normal on entry and away on exit.](../../06 - Waves/Diagrams/ray-tracing-practical.svg)
 
 - Trace a mirror position or a transparent block's outline on paper.
 - Shine a narrow ray. Mark two points along each visible incident, reflected or emerging ray without moving the apparatus.
@@ -203,6 +233,9 @@ For very short sound delays, microphones with electronic timing are suitable; hu
 Reflection returns into the original medium. Refraction describes a speed-related change in direction; they are not interchangeable methods. Avoid looking into bright beams and handle hot ray boxes carefully.
 
 ## Practical: infrared absorption and emission
+
+
+![A detector compares emission from Leslie cube faces. Separately, an infrared lamp heats matched black and shiny samples.](../../06 - Waves/Diagrams/infrared-surfaces-practical.svg)
 
 **Emission:** a hot Leslie cube has differently finished faces at approximately the same temperature. Measure IR from each face with a detector at the same distance and angle. Repeat. A **matt black surface** generally emits more than a shiny surface at the same temperature.
 
