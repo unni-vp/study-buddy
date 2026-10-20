@@ -9,6 +9,7 @@
 <li><strong>Keep systems usable:</strong> help legitimate users access services when needed.</li>
 </ul>
 <p>A stolen password can expose private records. Malware may change or destroy files. An attack that stops a school network working can disrupt lessons even if no records are stolen.</p>
+<p>Security therefore includes procedures such as checking sensitive requests, people following those procedures, and technical controls such as updates and account permissions. Buying a security product alone does not address every weak point.</p>
 <h2>Weak passwords and access rights</h2>
 <h3>Weak and default passwords</h3>
 <p>A <strong>weak password</strong> is easy to guess or discover, such as a common word or a person&#x27;s name. A <strong>default password</strong> is supplied with a device or service; attackers may already know it.</p>
@@ -34,6 +35,9 @@
 <tr><td>Example</td><td>Check a pupil’s username and password.</td><td>Allow the pupil to read their own marks, but not change everyone else’s.</td></tr>
 <tr><td>Key distinction</td><td>A successful login accepts the claimed identity.</td><td>Successful login does not justify unrestricted permissions.</td></tr>
 </table>
+<h3>Two different account problems</h3>
+<p>If an attacker guesses a staff password, the problem begins with <strong>authentication</strong>: someone is using another person&#x27;s identity. If a correctly logged-in pupil can edit all marks, the problem is <strong>access rights</strong>: the account itself has too much permission.</p>
+<p>Give each role the minimum access needed for its work. A read-only permission can allow a user to see information without changing it. Remove or revise permissions when a user leaves or changes roles, instead of leaving old access in place.</p>
 <h2>Removable media and outdated software</h2>
 <h3>Removable media</h3>
 <p>USB drives and other removable storage can carry infected files between devices. A lost drive may also expose the information stored on it.</p>
@@ -51,6 +55,8 @@
 <li>Software that is no longer supported may stop receiving security fixes.</li>
 </ul>
 <p>Updating software reduces risk; it does not automatically remove every infection or prevent every future attack.</p>
+<p>A drive can create two different risks: it can <strong>bring infected files in</strong>, or it can <strong>take confidential copies out</strong>. Restricting unknown drives reduces the first route. Access controls and policies on copying data help address the second. Encrypting a lost drive protects its contents, but does not make an infected program safe to run.</p>
+<p>Patches repair known software weaknesses. Attackers may learn about a weakness after it is published, so delaying the fix leaves a known route open. Automatic updating reduces reliance on each user remembering to install fixes. Unsupported software may need replacement because the developer no longer supplies patches.</p>
 <h2>Pharming and fake destinations</h2>
 <p><strong>Pharming</strong> redirects a user&#x27;s website request to a fake website. The user may have typed the correct address but still reach the wrong destination because the system locating or directing the request has been compromised.</p>
 <p>It is like replacing a road sign so drivers who chose the right route arrive at a fraudulent shop.</p>
@@ -91,6 +97,10 @@
 <li><strong>The mechanism:</strong> information is seen rather than obtained by guessing a password.</li>
 <li><strong>Protection:</strong> shield the keypad, position screens carefully, and use privacy screens where appropriate.</li>
 </ul>
+<h3>Choosing the response that breaks the deception</h3>
+<p>An urgent request to transfer money should be checked through a previously known contact route. Replying to the suspicious message only asks the possible attacker to confirm their own story.</p>
+<p>For shouldering, the attacker may not need to send any message or install software. A person watching a PIN entry can obtain the secret directly, so shielding the keypad and checking the surroundings address that particular method.</p>
+<p>Strong passwords do not prevent a photographed or disclosed password being used. The response must address how the information is obtained.</p>
 <h2>Malware</h2>
 <p><strong>Malware</strong> is malicious software designed to cause harm or perform unwanted actions.</p>
 <table>
@@ -109,6 +119,8 @@
 <tr><td>Restricted permissions</td><td>Limit what a compromised account or program can change.</td><td>They do not make the account immune to compromise.</td></tr>
 <tr><td><strong>Backups</strong></td><td>Help recover damaged or lost data.</td><td>They do not prevent theft of readable data that has already been exposed.</td></tr>
 </table>
+<p>A disguised game could be a trojan because it persuades the user to run software with a hidden malicious purpose. If it secretly records keystrokes, that activity is spyware. These descriptions concern different features, so a malicious program can fit more than one description.</p>
+<p>A virus needs a host file or program and spreads through infected hosts. Calling every harmful program a virus loses this distinction. Updated scanning, cautious downloads and restricted permissions reduce risk, while a protected backup provides a recovery route if files are damaged.</p>
 <h2>Authentication and automated-abuse checks</h2>
 <p>Think of access to an account as a doorway. Different checks ask different questions: do you know a secret, do you have access to an email account, or do you match a stored physical characteristic?</p>
 <table>
@@ -119,6 +131,10 @@
 <tr><td><strong>Email confirmation</strong></td><td>Access to the mailbox receiving a link or code.</td><td>An attacker controlling that mailbox may pass the check.</td></tr>
 </table>
 <p><strong>Biometrics identify a characteristic, not a permission.</strong> The account still needs suitable access rights after authentication.</p>
+<h3>What each check can establish</h3>
+<p>A fingerprint or face check compares a measured characteristic with enrolled data. It can be convenient for unlocking a mobile device, but recognition may fail and it is difficult to replace a compromised physical characteristic in the way a password can be changed.</p>
+<p>A CAPTCHA aims to distinguish automated activity from human activity. It can slow bulk registration or password attempts; passing it does not prove that the person is the account owner.</p>
+<p>An email confirmation link or code shows that someone can access the receiving mailbox. It does not independently prove their legal identity. If an attacker already controls that mailbox, the email check may also be defeated.</p>
 <h2>Layered protection and penetration testing</h2>
 <h3>Use measures together</h3>
 <p>No single measure addresses every threat.</p>
@@ -137,6 +153,14 @@
 <tr><td><strong>External simulation</strong></td><td>No prior knowledge of access credentials</td><td>How someone outside the system might gain unauthorised access</td></tr>
 </table>
 <p>A test report identifies weaknesses, their consequences and recommended fixes. The organisation should <strong>correct the weaknesses and retest</strong>. Testing finds problems; it does not itself repair them.</p>
+<h3>Detection, prevention and recovery</h3>
+<table>
+<tr><th>Job</th><th>Example</th><th>Why the distinction matters</th></tr>
+<tr><td>Prevention</td><td>Installing a patch closes a known vulnerability.</td><td>This reduces an attack route before it is exploited.</td></tr>
+<tr><td>Detection</td><td>Anti-malware identifies a suspicious file.</td><td>Finding a threat allows action, but detection alone is not the same as preventing every infection.</td></tr>
+<tr><td>Recovery</td><td>A protected backup restores damaged records.</td><td>Restoring files does not undo confidential data already stolen.</td></tr>
+</table>
+<p>An insider-style test can explore what an ordinary account can reach beyond its intended permissions. An external-style test starts without credentials and investigates access from outside. Both need agreed authorisation and scope.</p>
 <h2>Applying a security explanation</h2>
 <h3>A fake IT-support call</h3>
 <p><strong>Threat:</strong> blagging. The caller invents an identity to obtain a staff password.</p>
@@ -144,4 +168,9 @@
 <h3>A pupil can change other pupils&#x27; marks</h3>
 <p><strong>Threat:</strong> misconfigured access rights. The account has permission to change records it should not control.</p>
 <p><strong>Suitable response:</strong> change the account&#x27;s permissions to match the pupil&#x27;s role. Making the password stronger would not remove the excessive permission.</p>
-<p><strong>A strong explanation connects the threat, the measure and the reason it reduces that particular risk.</strong></p></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p><strong>A strong explanation connects the threat, the measure and the reason it reduces that particular risk.</strong></p>
+<section class="reference-sources" hidden><h2>Sources</h2>
+<ul>
+<li><a href="../../Computer%20Science%20-%20AQA/06%20-%20Cyber%20security/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
+<li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+</ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

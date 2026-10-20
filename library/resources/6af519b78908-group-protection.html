@@ -9,6 +9,10 @@
 <tr><td><strong>Email confirmation</strong></td><td>Access to the mailbox receiving a link or code.</td><td>An attacker controlling that mailbox may pass the check.</td></tr>
 </table>
 <p><strong>Biometrics identify a characteristic, not a permission.</strong> The account still needs suitable access rights after authentication.</p>
+<h3>What each check can establish</h3>
+<p>A fingerprint or face check compares a measured characteristic with enrolled data. It can be convenient for unlocking a mobile device, but recognition may fail and it is difficult to replace a compromised physical characteristic in the way a password can be changed.</p>
+<p>A CAPTCHA aims to distinguish automated activity from human activity. It can slow bulk registration or password attempts; passing it does not prove that the person is the account owner.</p>
+<p>An email confirmation link or code shows that someone can access the receiving mailbox. It does not independently prove their legal identity. If an attacker already controls that mailbox, the email check may also be defeated.</p>
 <h2>Layered protection and penetration testing</h2>
 <h3>Use measures together</h3>
 <p>No single measure addresses every threat.</p>
@@ -27,6 +31,14 @@
 <tr><td><strong>External simulation</strong></td><td>No prior knowledge of access credentials</td><td>How someone outside the system might gain unauthorised access</td></tr>
 </table>
 <p>A test report identifies weaknesses, their consequences and recommended fixes. The organisation should <strong>correct the weaknesses and retest</strong>. Testing finds problems; it does not itself repair them.</p>
+<h3>Detection, prevention and recovery</h3>
+<table>
+<tr><th>Job</th><th>Example</th><th>Why the distinction matters</th></tr>
+<tr><td>Prevention</td><td>Installing a patch closes a known vulnerability.</td><td>This reduces an attack route before it is exploited.</td></tr>
+<tr><td>Detection</td><td>Anti-malware identifies a suspicious file.</td><td>Finding a threat allows action, but detection alone is not the same as preventing every infection.</td></tr>
+<tr><td>Recovery</td><td>A protected backup restores damaged records.</td><td>Restoring files does not undo confidential data already stolen.</td></tr>
+</table>
+<p>An insider-style test can explore what an ordinary account can reach beyond its intended permissions. An external-style test starts without credentials and investigates access from outside. Both need agreed authorisation and scope.</p>
 <h2>Applying a security explanation</h2>
 <h3>A fake IT-support call</h3>
 <p><strong>Threat:</strong> blagging. The caller invents an identity to obtain a staff password.</p>

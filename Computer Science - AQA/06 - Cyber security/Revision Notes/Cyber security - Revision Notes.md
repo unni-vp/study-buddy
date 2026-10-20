@@ -14,6 +14,8 @@ Its main purposes are to:
 
 A stolen password can expose private records. Malware may change or destroy files. An attack that stops a school network working can disrupt lessons even if no records are stolen.
 
+Security therefore includes procedures such as checking sensitive requests, people following those procedures, and technical controls such as updates and account permissions. Buying a security product alone does not address every weak point.
+
 ## Weak passwords and access rights
 
 ### Weak and default passwords
@@ -44,6 +46,11 @@ Imagine every pupil receiving a key to the school office. The problem is the per
 | Example | Check a pupil’s username and password. | Allow the pupil to read their own marks, but not change everyone else’s. |
 | Key distinction | A successful login accepts the claimed identity. | Successful login does not justify unrestricted permissions. |
 
+### Two different account problems
+
+If an attacker guesses a staff password, the problem begins with **authentication**: someone is using another person's identity. If a correctly logged-in pupil can edit all marks, the problem is **access rights**: the account itself has too much permission.
+
+Give each role the minimum access needed for its work. A read-only permission can allow a user to see information without changing it. Remove or revise permissions when a user leaves or changes roles, instead of leaving old access in place.
 
 ## Removable media and outdated software
 
@@ -65,6 +72,10 @@ A **vulnerability** is a weakness that an attacker could exploit. A **patch** is
 - Software that is no longer supported may stop receiving security fixes.
 
 Updating software reduces risk; it does not automatically remove every infection or prevent every future attack.
+
+A drive can create two different risks: it can **bring infected files in**, or it can **take confidential copies out**. Restricting unknown drives reduces the first route. Access controls and policies on copying data help address the second. Encrypting a lost drive protects its contents, but does not make an infected program safe to run.
+
+Patches repair known software weaknesses. Attackers may learn about a weakness after it is published, so delaying the fix leaves a known route open. Automatic updating reduces reliance on each user remembering to install fixes. Unsupported software may need replacement because the developer no longer supplies patches.
 
 ## Pharming and fake destinations
 
@@ -116,6 +127,14 @@ Someone observes private information directly, such as a PIN being entered, a pa
 - **The mechanism:** information is seen rather than obtained by guessing a password.
 - **Protection:** shield the keypad, position screens carefully, and use privacy screens where appropriate.
 
+### Choosing the response that breaks the deception
+
+An urgent request to transfer money should be checked through a previously known contact route. Replying to the suspicious message only asks the possible attacker to confirm their own story.
+
+For shouldering, the attacker may not need to send any message or install software. A person watching a PIN entry can obtain the secret directly, so shielding the keypad and checking the surroundings address that particular method.
+
+Strong passwords do not prevent a photographed or disclosed password being used. The response must address how the information is obtained.
+
 ## Malware
 
 **Malware** is malicious software designed to cause harm or perform unwanted actions.
@@ -137,6 +156,9 @@ Someone observes private information directly, such as a PIN being entered, a pa
 | Restricted permissions | Limit what a compromised account or program can change. | They do not make the account immune to compromise. |
 | **Backups** | Help recover damaged or lost data. | They do not prevent theft of readable data that has already been exposed. |
 
+A disguised game could be a trojan because it persuades the user to run software with a hidden malicious purpose. If it secretly records keystrokes, that activity is spyware. These descriptions concern different features, so a malicious program can fit more than one description.
+
+A virus needs a host file or program and spreads through infected hosts. Calling every harmful program a virus loses this distinction. Updated scanning, cautious downloads and restricted permissions reduce risk, while a protected backup provides a recovery route if files are damaged.
 
 ## Authentication and automated-abuse checks
 
@@ -151,6 +173,14 @@ Think of access to an account as a doorway. Different checks ask different quest
 
 
 **Biometrics identify a characteristic, not a permission.** The account still needs suitable access rights after authentication.
+
+### What each check can establish
+
+A fingerprint or face check compares a measured characteristic with enrolled data. It can be convenient for unlocking a mobile device, but recognition may fail and it is difficult to replace a compromised physical characteristic in the way a password can be changed.
+
+A CAPTCHA aims to distinguish automated activity from human activity. It can slow bulk registration or password attempts; passing it does not prove that the person is the account owner.
+
+An email confirmation link or code shows that someone can access the receiving mailbox. It does not independently prove their legal identity. If an attacker already controls that mailbox, the email check may also be defeated.
 
 ## Layered protection and penetration testing
 
@@ -176,6 +206,16 @@ Combining measures protects different weak points, like having a lock, a visitor
 
 A test report identifies weaknesses, their consequences and recommended fixes. The organisation should **correct the weaknesses and retest**. Testing finds problems; it does not itself repair them.
 
+### Detection, prevention and recovery
+
+| Job | Example | Why the distinction matters |
+|---|---|---|
+| Prevention | Installing a patch closes a known vulnerability. | This reduces an attack route before it is exploited. |
+| Detection | Anti-malware identifies a suspicious file. | Finding a threat allows action, but detection alone is not the same as preventing every infection. |
+| Recovery | A protected backup restores damaged records. | Restoring files does not undo confidential data already stolen. |
+
+An insider-style test can explore what an ordinary account can reach beyond its intended permissions. An external-style test starts without credentials and investigates access from outside. Both need agreed authorisation and scope.
+
 ## Applying a security explanation
 
 ### A fake IT-support call
@@ -191,3 +231,8 @@ A test report identifies weaknesses, their consequences and recommended fixes. T
 **Suitable response:** change the account's permissions to match the pupil's role. Making the password stronger would not remove the excessive permission.
 
 **A strong explanation connects the threat, the measure and the reason it reduces that particular risk.**
+
+## Sources
+
+- [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
+- [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
