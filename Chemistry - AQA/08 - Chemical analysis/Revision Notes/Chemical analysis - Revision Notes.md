@@ -21,6 +21,9 @@ Think of runners on a route who stop for different amounts of time: those spendi
 
 ## Chromatography practical and Rf
 
+
+![Paper hangs in a covered vessel. The pencil baseline and sample spots are above the solvent; the solvent front is marked higher up the paper.](../Diagrams/chromatography-setup.svg)
+
 1. Draw a **pencil baseline** near the bottom of chromatography paper. Pencil graphite does not dissolve like ink could.
 2. Add small concentrated sample/reference spots and let them dry. Avoid large spreading spots.
 3. Put paper in solvent with **solvent below the baseline**. The spots must not be submerged.
@@ -66,6 +69,9 @@ Keep flammable/toxic solvents away from flames and use appropriate ventilation a
 Do not smell gases to identify them.
 
 ## Flame tests for metal ions
+
+
+![A clean wire loop holds a sample in the blue non-luminous flame of a Bunsen burner.](../Diagrams/flame-test-practical.svg)
 
 Clean a suitable wire loop, commonly with hydrochloric acid and heating until no contaminating colour appears. Put a small sample on it and hold in a **blue, non-luminous Bunsen flame**. Use clean equipment/reference samples and record the observed flame, not the solid’s original colour.
 

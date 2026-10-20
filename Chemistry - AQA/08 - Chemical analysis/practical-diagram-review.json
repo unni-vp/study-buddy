@@ -1,0 +1,22 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Chromatography practical and Rf",
+      "diagram": "Chemistry - AQA/08 - Chemical analysis/Diagrams/chromatography-setup.svg",
+      "purpose": "Paper hangs in a covered vessel. The pencil baseline and sample spots are above the solvent; the solvent front is marked higher up the paper."
+    },
+    {
+      "heading": "Flame tests for metal ions",
+      "diagram": "Chemistry - AQA/08 - Chemical analysis/Diagrams/flame-test-practical.svg",
+      "purpose": "A clean wire loop holds a sample in the blue non-luminous flame of a Bunsen burner."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
