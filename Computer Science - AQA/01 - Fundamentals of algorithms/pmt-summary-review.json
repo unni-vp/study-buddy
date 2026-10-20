@@ -1,0 +1,110 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/1-Fundamentals-of-Algorithms/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 12,
+  "sha256": "a01666647244884fa56289d77a84fe831965583a1d9d357237c1a63501281268",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.1.1 Representing algorithms",
+      "pmt_pages": [
+        2,
+        3
+      ],
+      "note_headings": [
+        "Algorithms and problem solving",
+        "Representing algorithms",
+        "Inputs, processing, outputs and trace tables"
+      ],
+      "added_or_developed": [
+        "Reasons for decomposition and abstraction",
+        "Systematic planning/testing/refinement",
+        "An actual decision flowchart",
+        "Initial values, branch choice, loop conditions and explaining purpose"
+      ],
+      "decisions": [
+        "Examples explicitly state their indexing convention rather than importing the PDF’s claim that all arrays are zero-indexed."
+      ]
+    },
+    {
+      "section": "3.1.2 Time efficiency",
+      "pmt_pages": [
+        4,
+        5
+      ],
+      "note_headings": [
+        "Comparing efficiency",
+        "Comparing searching methods"
+      ],
+      "added_or_developed": [
+        "Input-dependent checks",
+        "Large-list comparison",
+        "Cost of sorting before a search"
+      ],
+      "decisions": [
+        "Formal complexity notation is not added; 2027 questions specify time efficiency."
+      ]
+    },
+    {
+      "section": "3.1.3 Searching",
+      "pmt_pages": [
+        6,
+        7,
+        8
+      ],
+      "note_headings": [
+        "Linear search",
+        "Binary search",
+        "Comparing searching methods"
+      ],
+      "added_or_developed": [
+        "Successful and unsuccessful traces",
+        "Original indices and lower-middle convention",
+        "Boundary updates and empty search range",
+        "Testable Python binary-search implementation"
+      ],
+      "decisions": []
+    },
+    {
+      "section": "3.1.4 Sorting",
+      "pmt_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "note_headings": [
+        "Bubble sort",
+        "Merge sort",
+        "Comparing sorting methods"
+      ],
+      "added_or_developed": [
+        "Passes, swaps and sorted suffix",
+        "Safe swapping and early stop",
+        "Split/merge diagram",
+        "Explicit ordered merge of two lists"
+      ],
+      "decisions": []
+    }
+  ],
+  "reading_groups": [
+    "Planning algorithms",
+    "Representing and tracing",
+    "Searching",
+    "Sorting"
+  ],
+  "word_count_before": 1066,
+  "word_count_after": 2398,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

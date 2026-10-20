@@ -18,6 +18,21 @@ An **algorithm** is a **sequence of steps that can be followed to complete a tas
 
 Decomposition decides **which smaller problems to solve**. Abstraction decides **which details matter** when solving them.
 
+### Why breaking a problem down helps
+
+Each smaller task can be designed, tested and corrected separately. If room searching works but booking fails, the developer can investigate the booking part instead of treating the whole system as one unexplained problem. A team can also work on different tasks, provided the parts exchange the information they need.
+
+Abstraction must keep the details that affect the answer. A route planner needs roads and connections, but usually does not need the colour of nearby buildings. Removing a road connection would change the possible routes, so that would remove an essential detail.
+
+### Turning a problem into a solution
+
+1. Identify the required **inputs**, expected **outputs** and any rules the solution must follow.
+2. Break the problem into smaller tasks. Decide which information each task needs.
+3. Plan the calculations, decisions and repetitions in a clear order.
+4. Represent the solution using the requested form: pseudocode, program code or a flowchart.
+5. Follow the steps with suitable test data. Compare the result with what should happen.
+6. Correct a fault and test again. A solution must work for more than the first convenient example.
+
 ## Representing algorithms
 
 You may be asked for **pseudocode**, **program code** or a **flowchart**. Follow the form named in the question.
@@ -58,6 +73,14 @@ else:
 
 Keep each decision as a question with clear outcomes such as **Yes/No**.
 
+### Showing the same decision as a flowchart
+
+![A temperature decision flowchart: start, input temperature, test whether it is below zero, output Freezing on Yes or Not freezing on No, then stop.](../Diagrams/temperature-flowchart.svg)
+
+The diamond asks a **condition**. Only one branch runs for a particular input, and both routes reach the end. At exactly 0, `temperature < 0` is false, so this algorithm outputs `Not freezing`.
+
+Arrows must show a complete route through the chart. A repeating route must eventually have a way to leave when the stopping condition is met.
+
 ## Inputs, processing, outputs and trace tables
 
 - **Input:** data supplied to an algorithm.
@@ -82,6 +105,14 @@ OUTPUT total
 
 The output is **6**. Do not guess the purpose from variable names; prove it from the instructions and trace.
 
+### Following values accurately
+
+The initial assignment sets `total` to **0** before the loop. After each addition, the new total replaces the previous value. At the end, `number` has taken the values 1, 2 and 3, and the output is the final total rather than every intermediate total.
+
+When tracing a decision, evaluate its condition using the **current values**. Follow only the selected branch. When tracing a loop, return to the condition at the correct point instead of assuming the loop repeats a fixed number of times.
+
+To explain a program's purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.
+
 ## Comparing efficiency
 
 More than one algorithm may solve the same problem. For this course, compare **time efficiency**: how the number of steps or time taken changes for the same input.
@@ -90,6 +121,14 @@ More than one algorithm may solve the same problem. For this course, compare **t
 - An algorithm that performs fewer operations will usually finish faster.
 - Formal Big O notation is not required.
 - A method may be fast for one kind of data but unsuitable for another.
+
+### Why the data matters
+
+A linear search finds an item at the beginning after one check. The same search may check every item when the target is absent. A claim about speed therefore needs a stated situation.
+
+For a large sorted list, binary search usually saves many checks because each unsuccessful comparison removes about half of the remaining candidates. A list of about 1,000 values can be narrowed to one candidate in roughly ten such stages. Linear search may need about 1,000 checks.
+
+Sorting a list first also takes time. If there is just one search in a small unsorted list, linear search may be a more sensible choice than sorting the list only to perform binary search.
 
 ## Linear search
 
@@ -111,6 +150,22 @@ ENDWHILE
 - Simple and suitable for small lists.
 - In the worst case, it checks every item.
 
+### A successful and an unsuccessful search
+
+This example uses **zero-based indexing**, so the first position is 0. Search the list `11, 5, 14, 2, 9` for 14:
+
+| Check | Index and value | What happens? |
+|---|---|---|
+| 1 | Index 0 holds 11. | It does not match, so continue. |
+| 2 | Index 1 holds 5. | It does not match, so continue. |
+| 3 | Index 2 holds 14. | The target is found, so stop. |
+
+The target is at **index 2**, after **three checks**. Position and number of checks are different quantities.
+
+If the target were 7, all five values would be checked and none would match. The algorithm must then report **not found**. A program might return `-1` or display a message; follow the behaviour specified in the question.
+
+In the pseudocode above, `found` records whether a match has occurred. Increasing `index` moves to the next candidate. The length check prevents the algorithm from trying to read beyond the final item.
+
 ## Binary search
 
 A **binary search** repeatedly checks the middle item and discards half of the remaining search area.
@@ -122,6 +177,53 @@ A **binary search** repeatedly checks the middle item and discards half of the r
 5. Repeat until found or no items remain.
 
 The data **must be sorted**. Binary search is usually much faster than linear search for a large sorted list because the search area halves each step.
+
+### Tracking the search boundaries
+
+Use the sorted list `2, 5, 9, 12, 16, 20, 24, 27`, indexed from 0 to 7. The lower middle index is calculated with **`(low + high) DIV 2`**.
+
+| Stage | Current bounds | Middle value and decision |
+|---|---|---|
+| 1 | `low = 0`, `high = 7` | Index 3 holds 12. Since 24 is larger, set `low = 4`. |
+| 2 | `low = 4`, `high = 7` | Index 5 holds 20. Since 24 is larger, set `low = 6`. |
+| 3 | `low = 6`, `high = 7` | Index 6 holds 24. The target is found. |
+
+The item is at **index 6**, but only **three middle values** were checked. Keep the original indices when narrowing the search; do not renumber the remaining items.
+
+After an unsuccessful comparison, exclude the middle item as well as the impossible half:
+
+- If the target is smaller, set **`high = middle − 1`**.
+- If the target is larger, set **`low = middle + 1`**.
+
+For target 23, the same first two checks leave indices 6 to 7. The value 24 is too large, so `high` becomes 5 while `low` is 6. Now **`low > high`**, which means no candidates remain and the target is absent.
+
+### Python implementation
+
+```python
+def binary_search(items, target):
+    low = 0
+    high = len(items) - 1
+    while low <= high:
+        middle = (low + high) // 2
+        if items[middle] == target:
+            return middle
+        elif target < items[middle]:
+            high = middle - 1
+        else:
+            low = middle + 1
+    return -1
+```
+
+The final `return -1` runs only when the loop ends without a match. The input list must already be sorted in ascending order for this version.
+
+## Comparing searching methods
+
+| Feature | Linear search | Binary search |
+|---|---|---|
+| Starting data | Works on sorted or unsorted data. | **Requires sorted data.** |
+| Repeated action | Checks the next item in order. | Checks the middle item and discards the half that cannot contain the target. |
+| Stopping point | Target found, or every item checked. | Target found, or no items remain in the search area. |
+| Time efficiency | Can check every item; often suitable for a small or unsorted list. | Usually fewer checks for a large sorted list because the search area halves. |
 
 ## Bubble sort
 
@@ -135,6 +237,21 @@ Example: `5, 2, 4`
 
 It is simple but can require many comparisons and swaps, especially for a large or reverse-ordered list.
 
+### Passes and the sorted end of the list
+
+In an ascending bubble sort, a full left-to-right pass moves the largest remaining value to the right-hand end. Later passes can leave that sorted end alone.
+
+For the example `5, 2, 4`:
+
+| Pass | End-of-pass list | Comparisons and swaps |
+|---|---|---|
+| 1 | `2, 4, 5` | Two comparisons cause two swaps. The largest value, 5, is now in place. |
+| 2 | `2, 4, 5` | The remaining pair, 2 and 4, needs no swap. An early-stop version can finish. |
+
+An efficient version resets a **swapped flag** before each pass. It sets the flag when a swap happens. A complete pass with no swaps shows that every compared pair is already in order.
+
+To swap two stored values, preserve one before overwriting it. For example, save the left value in a temporary variable, copy the right value to the left, then copy the saved value to the right. Simply copying left to right and then right to left would lose one original value.
+
 ## Merge sort
 
 A **merge sort** uses decomposition:
@@ -145,19 +262,22 @@ A **merge sort** uses decomposition:
 
 Merge sort is generally more time-efficient than bubble sort for large lists, but it needs extra memory to hold temporary lists.
 
-## Search and sort comparisons
+### Splitting is followed by ordered merging
 
-### Linear search and binary search
+![Merge sort splits 8, 3, 6, 1 into two pairs and then single values. It merges to 3, 8 and 1, 6, then merges those pairs into 1, 3, 6, 8.](../Diagrams/merge-sort-stages.svg)
 
-| Feature | Linear search | Binary search |
-|---|---|---|
-| Starting data | Works on sorted or unsorted data. | **Requires sorted data.** |
-| Repeated action | Checks the next item in order. | Checks the middle item and discards the half that cannot contain the target. |
-| Stopping point | Target found, or every item checked. | Target found, or no items remain in the search area. |
-| Time efficiency | Can check every item; often suitable for a small or unsorted list. | Usually fewer checks for a large sorted list because the search area halves. |
+Splitting does not itself sort the values. A one-item list is already sorted, and the **merge** step builds larger sorted lists from these smaller ones.
 
+To merge `3, 8` with `1, 6`, compare the first unused value in each list:
 
-### Bubble sort and merge sort
+1. Compare 3 with 1. Take **1** because it is smaller.
+2. Compare 3 with 6. Take **3**.
+3. Compare 8 with 6. Take **6**.
+4. The right list is empty, so append the remaining **8**.
+
+The result is `1, 3, 6, 8`. Each selected value is removed from consideration, so it is not copied twice. If one list becomes empty, its partner's remaining values are already in order and can be appended.
+
+## Comparing sorting methods
 
 | Feature | Bubble sort | Merge sort |
 |---|---|---|
@@ -174,3 +294,6 @@ When explaining an algorithm, state the **starting condition**, the **repeated a
 ## Sources
 
 - AQA GCSE Computer Science 8525 specification, section 3.1.
+
+- [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
+- [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).

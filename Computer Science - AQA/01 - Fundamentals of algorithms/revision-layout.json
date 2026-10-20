@@ -3,35 +3,64 @@
   "groups": [
     {
       "id": "design",
-      "title": "Designing algorithms",
-      "description": "Break problems down and represent precise solutions.",
+      "title": "Planning algorithms",
       "icon": "computer-algorithm",
+      "description": "Break a problem into tasks and plan a complete solution.",
       "sections": [
-        {"heading": "Algorithms and problem solving"},
-        {"heading": "Representing algorithms"},
-        {"heading": "Inputs, processing, outputs and trace tables"}
+        {
+          "heading": "Algorithms and problem solving"
+        }
+      ]
+    },
+    {
+      "id": "represent",
+      "title": "Representing and tracing",
+      "icon": "computer-code",
+      "description": "Use pseudocode, Python, flowcharts and trace tables.",
+      "sections": [
+        {
+          "heading": "Representing algorithms"
+        },
+        {
+          "heading": "Inputs, processing, outputs and trace tables"
+        }
       ]
     },
     {
       "id": "search",
       "title": "Searching",
-      "description": "Trace and compare linear and binary search.",
       "icon": "computer-search",
+      "description": "Follow successful and unsuccessful searches and compare their efficiency.",
       "sections": [
-        {"heading": "Comparing efficiency"},
-        {"heading": "Linear search"},
-        {"heading": "Binary search"}
+        {
+          "heading": "Comparing efficiency"
+        },
+        {
+          "heading": "Linear search"
+        },
+        {
+          "heading": "Binary search"
+        },
+        {
+          "heading": "Comparing searching methods"
+        }
       ]
     },
     {
       "id": "sort",
       "title": "Sorting",
-      "description": "Follow bubble sort and merge sort step by step.",
       "icon": "computer-sort",
+      "description": "Follow complete passes, ordered merges and their trade-offs.",
       "sections": [
-        {"heading": "Bubble sort"},
-        {"heading": "Merge sort"},
-        {"heading": "Search and sort comparisons"}
+        {
+          "heading": "Bubble sort"
+        },
+        {
+          "heading": "Merge sort"
+        },
+        {
+          "heading": "Comparing sorting methods"
+        }
       ]
     }
   ]
