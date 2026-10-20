@@ -149,8 +149,6 @@ For pure sodium chloride crystals, repeat using the exact acid and alkali volume
 
 **Electrolysis uses an electric current to break down an ionic compound.** The electrolyte must be **molten or dissolved** so its ions can move. A solid ionic lattice cannot conduct because its ions are fixed.
 
-![Electrolytic cell showing positive ions moving to the negative cathode and negative ions moving to the positive anode.](../Diagrams/electrolysis.svg)
-
 | Electrode during electrolysis | Attracts | Electron change |
 |---|---|---|
 | **Cathode, negative** | Positive ions | Gain electrons: **reduction** |

@@ -508,7 +508,23 @@ def apply(subject,number):
  audit=[]
  for entry in PLACEMENTS:
   if (entry['subject'],entry['topic'])!=(subject,number):continue
-  heading=entry['heading'];pattern=r'(?m)^#{2,3} '+re.escape(heading)+r'\s*$';match=re.search(pattern,data)
+  heading=entry['heading']
+  # One apparatus picture per reading group is sufficient. Move an existing
+  # copy beside the method rather than repeating it in the theory above.
+  groups=json.loads((topic/'revision-layout.json').read_text(encoding='utf-8'))['groups']
+  peers=[h['heading'] for g in groups if any(h['heading']==heading for h in g['sections']) for h in g['sections'] if h['heading']!=heading]
+  for s,n,name in entry['assets']:
+   relative=Path(os.path.relpath(topic_path(s,n)/'Diagrams'/(name+'.svg'),source.parent)).as_posix()
+   for peer in peers:
+    pm=re.search(r'(?m)^#{2,3} '+re.escape(peer)+r'\s*$',data)
+    if not pm:continue
+    pe=re.search(r'(?m)^#{2,3} ',data[pm.end():]);stop=pm.end()+pe.start() if pe else len(data)
+    content=data[pm.end():stop]
+    cleaned=re.sub(r'!\[[^\]]*\]\('+re.escape(relative)+r'\)\s*','',content)
+    if cleaned!=content:data=data[:pm.end()]+cleaned+data[stop:]
+  if (subject,number,heading)==('Physics',9,'Practical: resistance'):
+   data=re.sub(r'!\[[^\]]*\]\(../../02 - Electricity/Diagrams/resistance-circuit.svg\)\s*','',data)
+  pattern=r'(?m)^#{2,3} '+re.escape(heading)+r'\s*$';match=re.search(pattern,data)
   assert match,(topic,heading)
   end=re.search(r'(?m)^#{2,3} ',data[match.end():]);stop=match.end()+end.start() if end else len(data)
   section=data[match.end():stop];images=[]
