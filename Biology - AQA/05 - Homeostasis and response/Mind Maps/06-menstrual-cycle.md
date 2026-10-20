@@ -6,9 +6,13 @@ Reproductive hormones cause secondary sexual characteristics.
 
 **Oestrogen:** mainly ovaries.
 
-**Testosterone:** testes; stimulates sperm production.
+**Testosterone:** testes
 
-Cycle length varies; 28 days is an example.
+stimulates sperm production.
+
+Cycle length varies
+
+28 days is an example.
 
 ## FSH
 
@@ -18,7 +22,9 @@ It promotes follicle/egg maturation and oestrogen production.
 
 Oestrogen inhibits further FSH release.
 
-FSH matures the egg; it does not trigger its release.
+FSH matures the egg
+
+it does not trigger its release.
 
 ## Oestrogen
 

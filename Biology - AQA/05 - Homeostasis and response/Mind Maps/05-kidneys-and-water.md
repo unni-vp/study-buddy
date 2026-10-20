@@ -4,7 +4,9 @@
 
 Too-concentrated fluids draw water from cells by osmosis.
 
-Water leaves lungs; sweat loses water, ions and urea.
+Water leaves lungs
+
+sweat loses water, ions and urea.
 
 Kidneys regulate urine composition.
 

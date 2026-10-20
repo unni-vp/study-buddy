@@ -32,7 +32,9 @@ Evaluate reversibility, evidence and personal/ethical priorities.
 
 ## Fertility treatment
 
-FSH and LH help maturation and ovulation; pregnancy may occur through intercourse.
+FSH and LH help maturation and ovulation
+
+pregnancy may occur through intercourse.
 
 IVF adds fertilisation outside the body.
 

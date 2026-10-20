@@ -32,7 +32,9 @@ Liver makes urea. Kidneys filter and selectively reabsorb.
 
 **More ADH:** more water reabsorbed, smaller concentrated urine volume.
 
-Dialysis removes waste; transplant has benefits and rejection risks.
+Dialysis removes waste
+
+transplant has benefits and rejection risks.
 
 ## Reproduction
 

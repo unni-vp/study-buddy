@@ -48,7 +48,9 @@ Evaluate benefit against damage risk.
 
 ## Reaction-time practical
 
-Ruler zero at fingers. Drop unpredictably; record catch distance.
+Ruler zero at fingers. Drop unpredictably
+
+record catch distance.
 
 Convert using a suitable table. Repeat, compare mean times.
 

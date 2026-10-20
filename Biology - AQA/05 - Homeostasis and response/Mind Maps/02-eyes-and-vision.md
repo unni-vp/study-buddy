@@ -2,7 +2,9 @@
 
 ## Light path and signals
 
-Cornea refracts; lens adjusts focus.
+Cornea refracts
+
+lens adjusts focus.
 
 Retina detects intensity and colour. Optic nerve carries impulses.
 
