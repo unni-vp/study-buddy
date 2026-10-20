@@ -7,11 +7,12 @@
 <li>A good algorithm is unambiguous, finishes after a finite number of steps and produces the required output for valid inputs.</li>
 </ul>
 <h3>Decomposition and abstraction</h3>
-<ul>
-<li><strong>Decomposition</strong> breaks a large problem into smaller sub-problems with identifiable jobs.</li>
-<li><strong>Abstraction</strong> removes detail that is not needed for the current problem.</li>
-</ul>
-<p>For a school-booking system, decomposition might separate login, room search and booking. Abstraction might store whether a room is available without modelling its wall colour.</p>
+<table>
+<tr><th>Approach</th><th>What it does</th><th>School-booking example</th></tr>
+<tr><td><strong>Decomposition</strong></td><td>Breaks a large problem into smaller sub-problems with identifiable jobs.</td><td>Separate login, room search and booking.</td></tr>
+<tr><td><strong>Abstraction</strong></td><td>Removes detail that is not needed for the current problem.</td><td>Keep room availability; ignore the wall colour.</td></tr>
+</table>
+<p>Decomposition decides <strong>which smaller problems to solve</strong>. Abstraction decides <strong>which details matter</strong> when solving them.</p>
 <h2>Representing algorithms</h2>
 <p>You may be asked for <strong>pseudocode</strong>, <strong>program code</strong> or a <strong>flowchart</strong>. Follow the form named in the question.</p>
 <h3>Pseudocode</h3>
@@ -114,12 +115,23 @@ ENDWHILE
 </ol>
 <p>Merge sort is generally more time-efficient than bubble sort for large lists, but it needs extra memory to hold temporary lists.</p>
 <h2>Search and sort comparisons</h2>
+<h3>Linear search and binary search</h3>
 <table>
-<tr><th>Pair</th><th>Must-know comparison</th></tr>
-<tr><td>Linear vs binary search</td><td>Linear works on unsorted data; binary needs sorted data but removes half the search area each step</td></tr>
-<tr><td>Bubble vs merge sort</td><td>Bubble repeatedly swaps neighbours; merge sort splits then merges ordered sublists</td></tr>
-<tr><td>Efficiency</td><td>Describe the number of checks, comparisons or swaps for the stated data</td></tr>
+<tr><th>Feature</th><th>Linear search</th><th>Binary search</th></tr>
+<tr><td>Starting data</td><td>Works on sorted or unsorted data.</td><td><strong>Requires sorted data.</strong></td></tr>
+<tr><td>Repeated action</td><td>Checks the next item in order.</td><td>Checks the middle item and discards the half that cannot contain the target.</td></tr>
+<tr><td>Stopping point</td><td>Target found, or every item checked.</td><td>Target found, or no items remain in the search area.</td></tr>
+<tr><td>Time efficiency</td><td>Can check every item; often suitable for a small or unsorted list.</td><td>Usually fewer checks for a large sorted list because the search area halves.</td></tr>
 </table>
+<h3>Bubble sort and merge sort</h3>
+<table>
+<tr><th>Feature</th><th>Bubble sort</th><th>Merge sort</th></tr>
+<tr><td>Main method</td><td>Compares neighbouring items and swaps those in the wrong order.</td><td>Splits into smaller lists, then merges them in order.</td></tr>
+<tr><td>Progress</td><td>After a full pass, another item is in its final position. A pass with no swaps shows completion.</td><td>One-item lists are merged into larger sorted lists until one remains.</td></tr>
+<tr><td>Large lists</td><td>Can require many comparisons and swaps, especially for reverse-ordered data.</td><td>Generally more time-efficient for large lists.</td></tr>
+<tr><td>Trade-off</td><td>Simple to understand and implement.</td><td>Needs extra memory for temporary lists.</td></tr>
+</table>
+<p>Compare the <strong>same task and data</strong>. Explain the checks, comparisons or swaps needed rather than saying only that one method is faster.</p>
 <p>When explaining an algorithm, state the <strong>starting condition</strong>, the <strong>repeated action</strong>, how the search area or list changes, and the <strong>stopping condition</strong>.</p>
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>

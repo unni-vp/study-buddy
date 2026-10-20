@@ -10,10 +10,13 @@ An **algorithm** is a **sequence of steps that can be followed to complete a tas
 
 ### Decomposition and abstraction
 
-- **Decomposition** breaks a large problem into smaller sub-problems with identifiable jobs.
-- **Abstraction** removes detail that is not needed for the current problem.
+| Approach | What it does | School-booking example |
+|---|---|---|
+| **Decomposition** | Breaks a large problem into smaller sub-problems with identifiable jobs. | Separate login, room search and booking. |
+| **Abstraction** | Removes detail that is not needed for the current problem. | Keep room availability; ignore the wall colour. |
 
-For a school-booking system, decomposition might separate login, room search and booking. Abstraction might store whether a room is available without modelling its wall colour.
+
+Decomposition decides **which smaller problems to solve**. Abstraction decides **which details matter** when solving them.
 
 ## Representing algorithms
 
@@ -144,11 +147,27 @@ Merge sort is generally more time-efficient than bubble sort for large lists, bu
 
 ## Search and sort comparisons
 
-| Pair | Must-know comparison |
-|---|---|
-| Linear vs binary search | Linear works on unsorted data; binary needs sorted data but removes half the search area each step |
-| Bubble vs merge sort | Bubble repeatedly swaps neighbours; merge sort splits then merges ordered sublists |
-| Efficiency | Describe the number of checks, comparisons or swaps for the stated data |
+### Linear search and binary search
+
+| Feature | Linear search | Binary search |
+|---|---|---|
+| Starting data | Works on sorted or unsorted data. | **Requires sorted data.** |
+| Repeated action | Checks the next item in order. | Checks the middle item and discards the half that cannot contain the target. |
+| Stopping point | Target found, or every item checked. | Target found, or no items remain in the search area. |
+| Time efficiency | Can check every item; often suitable for a small or unsorted list. | Usually fewer checks for a large sorted list because the search area halves. |
+
+
+### Bubble sort and merge sort
+
+| Feature | Bubble sort | Merge sort |
+|---|---|---|
+| Main method | Compares neighbouring items and swaps those in the wrong order. | Splits into smaller lists, then merges them in order. |
+| Progress | After a full pass, another item is in its final position. A pass with no swaps shows completion. | One-item lists are merged into larger sorted lists until one remains. |
+| Large lists | Can require many comparisons and swaps, especially for reverse-ordered data. | Generally more time-efficient for large lists. |
+| Trade-off | Simple to understand and implement. | Needs extra memory for temporary lists. |
+
+
+Compare the **same task and data**. Explain the checks, comparisons or swaps needed rather than saying only that one method is faster.
 
 When explaining an algorithm, state the **starting condition**, the **repeated action**, how the search area or list changes, and the **stopping condition**.
 
