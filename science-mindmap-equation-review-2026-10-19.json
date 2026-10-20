@@ -1,0 +1,1383 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Physics, Chemistry and Biology mind maps: independent equations, symbol/unit clauses and conversions on separate lines.",
+  "topics_reviewed": 31,
+  "maps_reviewed": 164,
+  "maps_with_changed_artwork": 49,
+  "verification": [
+    "All topic maps checked in a browser for text/section collisions, canvas containment, internal padding, clear panel gutters and physical print font sizes.",
+    "Changed artwork printed from both its reader and fullscreen modal; checked as matching single A4 landscape pages with no clipping and body text at least 11 pt.",
+    "A4 proofs inspected visually.",
+    "All original description words retained; useful explanatory drawings retained.",
+    "Map-only rebuilds preserve revision notes, questions and answers, flash cards and their separate diagrams.",
+    "Final local-link check passed for 972 HTML pages.",
+    "Desktop and mobile fullscreen Previous/Next navigation passed for the Physics, Chemistry and Biology mathematics topics."
+  ],
+  "topics": [
+    {
+      "subject": "Physics",
+      "number": 1,
+      "topic": "Physics - AQA\\01 - Energy",
+      "prefix": "physics-aqa-energy",
+      "map_count": 4,
+      "changed_maps": [
+        "00-energy-overview.svg",
+        "01-energy-stores-and-calculations.svg",
+        "02-heating-and-practicals.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-energy-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-energy-stores-and-calculations.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-heating-and-practicals.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-energy-resources.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 2,
+      "topic": "Physics - AQA\\02 - Electricity",
+      "prefix": "physics-aqa-electricity",
+      "map_count": 4,
+      "changed_maps": [
+        "00-electricity-overview.svg",
+        "01-circuits-and-components.svg",
+        "03-power-mains-and-fields.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-electricity-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-circuits-and-components.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-circuit-investigations.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-power-mains-and-fields.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 3,
+      "topic": "Physics - AQA\\03 - Particle model of matter",
+      "prefix": "physics-aqa-particle-model-of-matter",
+      "map_count": 3,
+      "changed_maps": [
+        "00-particle-model-overview.svg",
+        "02-heating-and-gas-pressure.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-particle-model-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-states-and-density.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-heating-and-gas-pressure.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 4,
+      "topic": "Physics - AQA\\04 - Atomic structure",
+      "prefix": "physics-aqa-atomic-structure",
+      "map_count": 4,
+      "changed_maps": [
+        "00-atomic-structure-overview.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-atomic-structure-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-atoms-and-nuclear-equations.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-radiation-and-half-life.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-radiation-uses-and-nuclear-energy.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 5,
+      "topic": "Physics - AQA\\05 - Forces",
+      "prefix": "physics-aqa-forces",
+      "map_count": 6,
+      "changed_maps": [
+        "00-forces-overview.svg",
+        "01-interactions-work-and-springs.svg",
+        "02-moments-and-fluid-pressure.svg",
+        "03-motion-and-graphs.svg",
+        "05-stopping-and-momentum.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-forces-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-interactions-work-and-springs.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-moments-and-fluid-pressure.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-motion-and-graphs.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-newtons-laws-and-practical.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-stopping-and-momentum.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 6,
+      "topic": "Physics - AQA\\06 - Waves",
+      "prefix": "physics-aqa-waves",
+      "map_count": 6,
+      "changed_maps": [
+        "00-waves-overview.svg",
+        "01-measuring-waves.svg",
+        "02-boundaries-and-sound.svg",
+        "03-electromagnetic-waves.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-waves-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-measuring-waves.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-boundaries-and-sound.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-electromagnetic-waves.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-lenses-and-colour.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-infrared-and-radiation.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 7,
+      "topic": "Physics - AQA\\07 - Magnetism and electromagnetism",
+      "prefix": "physics-aqa-magnetism-and-electromagnetism",
+      "map_count": 5,
+      "changed_maps": [
+        "04-transformers-and-grid.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-magnetism-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-magnets-and-fields.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-motor-effect-and-devices.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-induction-and-generators.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-transformers-and-grid.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 8,
+      "topic": "Physics - AQA\\08 - Space physics",
+      "prefix": "physics-aqa-space-physics",
+      "map_count": 4,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-space-physics-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-stars-and-elements.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-orbits-and-satellites.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-red-shift-and-expansion.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 9,
+      "topic": "Physics - AQA\\09 - Working scientifically and required practicals",
+      "prefix": "physics-aqa-working-scientifically-and-required-practicals",
+      "map_count": 6,
+      "changed_maps": [
+        "03-heating-and-mechanics.svg",
+        "04-circuit-practicals.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-practical-skills-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-planning-and-evidence.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-measurement-and-data.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-heating-and-mechanics.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-circuit-practicals.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-wave-and-ir-practicals.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Physics",
+      "number": 10,
+      "topic": "Physics - AQA\\10 - Mathematical requirements and equations",
+      "prefix": "physics-aqa-mathematical-requirements-and-equations",
+      "map_count": 5,
+      "changed_maps": [
+        "01-units-and-calculation.svg",
+        "02-equation-toolkit.svg",
+        "03-graphs-and-data.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-physics-maths-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-units-and-calculation.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-equation-toolkit.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-graphs-and-data.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-geometry-and-checking.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 1,
+      "topic": "Chemistry - AQA\\01 - Atomic structure and the periodic table",
+      "prefix": "chemistry-aqa-atomic-structure-and-the-periodic-table",
+      "map_count": 4,
+      "changed_maps": [
+        "02-substances-and-separation.svg",
+        "03-periodic-patterns.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-atomic-structure-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-atoms-isotopes-and-models.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-substances-and-separation.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-periodic-patterns.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 2,
+      "topic": "Chemistry - AQA\\02 - Bonding structure and properties of matter",
+      "prefix": "chemistry-aqa-bonding-structure-and-properties-of-matter",
+      "map_count": 4,
+      "changed_maps": [
+        "03-carbon-and-nanoparticles.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-bonding-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-ionic-and-covalent-bonds.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-structures-and-states.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-carbon-and-nanoparticles.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 3,
+      "topic": "Chemistry - AQA\\03 - Quantitative chemistry",
+      "prefix": "chemistry-aqa-quantitative-chemistry",
+      "map_count": 4,
+      "changed_maps": [
+        "00-quantitative-overview.svg",
+        "01-moles-and-reacting-masses.svg",
+        "02-solutions-and-gases.svg",
+        "03-yield-and-atom-economy.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-quantitative-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-moles-and-reacting-masses.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-solutions-and-gases.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-yield-and-atom-economy.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 4,
+      "topic": "Chemistry - AQA\\04 - Chemical changes",
+      "prefix": "chemistry-aqa-chemical-changes",
+      "map_count": 5,
+      "changed_maps": [
+        "02-acids-and-salts.svg",
+        "03-titration.svg",
+        "04-electrolysis.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-chemical-changes-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-reactivity-and-redox.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-acids-and-salts.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-titration.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-electrolysis.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 5,
+      "topic": "Chemistry - AQA\\05 - Energy changes",
+      "prefix": "chemistry-aqa-energy-changes",
+      "map_count": 4,
+      "changed_maps": [
+        "01-profiles-and-bond-energies.svg",
+        "02-temperature-practical.svg",
+        "03-cells-and-fuel-cells.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-energy-changes-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-profiles-and-bond-energies.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-temperature-practical.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-cells-and-fuel-cells.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 6,
+      "topic": "Chemistry - AQA\\06 - Rate and extent of chemical change",
+      "prefix": "chemistry-aqa-rate-and-extent-of-chemical-change",
+      "map_count": 5,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-rate-and-equilibrium-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-rate-graphs.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-collision-theory.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-rate-practicals.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-equilibrium.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 7,
+      "topic": "Chemistry - AQA\\07 - Organic chemistry",
+      "prefix": "chemistry-aqa-organic-chemistry",
+      "map_count": 6,
+      "changed_maps": [
+        "00-organic-overview.svg",
+        "02-alkenes-and-addition.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-organic-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-oil-and-cracking.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-alkenes-and-addition.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-alcohols-acids-and-esters.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-polymer-structures.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-natural-polymers.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 8,
+      "topic": "Chemistry - AQA\\08 - Chemical analysis",
+      "prefix": "chemistry-aqa-chemical-analysis",
+      "map_count": 5,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-analysis-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-purity-and-chromatography.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-gases-and-cations.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-anions-and-unknowns.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-instrumental-evidence.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 9,
+      "topic": "Chemistry - AQA\\09 - Chemistry of the atmosphere",
+      "prefix": "chemistry-aqa-chemistry-of-the-atmosphere",
+      "map_count": 5,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-atmosphere-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-atmosphere-evolution.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-greenhouse-and-climate.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-carbon-footprints.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-pollutants.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 10,
+      "topic": "Chemistry - AQA\\10 - Using resources",
+      "prefix": "chemistry-aqa-using-resources",
+      "map_count": 7,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-resources-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-water-treatment.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-recovery-and-life-cycles.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-corrosion-and-alloys.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-material-selection.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-haber-process.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "06-npk-fertilisers.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 11,
+      "topic": "Chemistry - AQA\\11 - Working scientifically and required practicals",
+      "prefix": "chemistry-aqa-working-scientifically-and-required-practicals",
+      "map_count": 6,
+      "changed_maps": [
+        "03-electrolysis-and-temperature.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-chemistry-practical-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-investigation-skills.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-salts-and-titration.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-electrolysis-and-temperature.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-concentration-and-rates.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-analysis-and-water.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "number": 12,
+      "topic": "Chemistry - AQA\\12 - Mathematical requirements and periodic table",
+      "prefix": "chemistry-aqa-mathematical-requirements-and-periodic-table",
+      "map_count": 6,
+      "changed_maps": [
+        "00-chemistry-maths-overview.svg",
+        "01-numerical-skills.svg",
+        "04-solutions-gases-and-yields.svg",
+        "05-graphs-and-geometry.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-chemistry-maths-overview.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-numerical-skills.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-periodic-table-and-masses.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-moles-and-formulas.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-solutions-gases-and-yields.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-graphs-and-geometry.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 1,
+      "topic": "Biology - AQA\\01 - Cell biology",
+      "prefix": "biology-aqa-cell-biology",
+      "map_count": 7,
+      "changed_maps": [
+        "05-microscopy.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-cell-biology-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-cells.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-cell-processes.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-transport-processes.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-exchange-surfaces.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-microscopy.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "06-culturing-microorganisms.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 2,
+      "topic": "Biology - AQA\\02 - Organisation",
+      "prefix": "biology-aqa-organisation",
+      "map_count": 4,
+      "changed_maps": [
+        "01-digestion-and-enzymes.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-organisation-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-digestion-and-enzymes.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-circulation-and-health.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-plant-tissues-and-transport.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 3,
+      "topic": "Biology - AQA\\03 - Infection and response",
+      "prefix": "biology-aqa-infection-and-response",
+      "map_count": 5,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-infection-and-response-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-pathogens-and-disease.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-defence-and-vaccination.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-medicines-and-antibodies.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-plant-health.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 4,
+      "topic": "Biology - AQA\\04 - Bioenergetics",
+      "prefix": "biology-aqa-bioenergetics",
+      "map_count": 4,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-bioenergetics-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-photosynthesis-and-limiting-factors.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-photosynthesis-practical.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-respiration-exercise-and-metabolism.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 5,
+      "topic": "Biology - AQA\\05 - Homeostasis and response",
+      "prefix": "biology-aqa-homeostasis-and-response",
+      "map_count": 9,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-homeostasis-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-nervous-control.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-eyes-and-vision.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-temperature-control.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-hormones-and-glucose.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-kidneys-and-water.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "06-menstrual-cycle.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "07-contraception-and-ivf.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "08-plant-hormones.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 6,
+      "topic": "Biology - AQA\\06 - Inheritance variation and evolution",
+      "prefix": "biology-aqa-inheritance-variation-and-evolution",
+      "map_count": 9,
+      "changed_maps": [
+        "01-reproduction-and-meiosis.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-inheritance-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-reproduction-and-meiosis.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-dna-and-proteins.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-inheritance-and-probability.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-variation-and-evolution.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-breeding-and-engineering.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "06-cloning.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "07-evidence-for-evolution.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "08-classification-and-trees.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 7,
+      "topic": "Biology - AQA\\07 - Ecology",
+      "prefix": "biology-aqa-ecology",
+      "map_count": 7,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-ecology-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-communities-and-distribution.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-sampling.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-cycles-and-decomposition.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-milk-decay-practical.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-biodiversity.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "06-biomass-and-food.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 8,
+      "topic": "Biology - AQA\\08 - Working scientifically and required practicals",
+      "prefix": "biology-aqa-working-scientifically-and-required-practicals",
+      "map_count": 6,
+      "changed_maps": [],
+      "maps": [
+        {
+          "file": "00-practical-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-design-and-evidence.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-cells-and-osmosis.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-food-enzymes-and-photosynthesis.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-responses-and-sampling.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "05-milk-and-method-evaluation.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    },
+    {
+      "subject": "Biology",
+      "number": 9,
+      "topic": "Biology - AQA\\09 - Mathematical requirements",
+      "prefix": "biology-aqa-mathematical-requirements",
+      "map_count": 5,
+      "changed_maps": [
+        "01-units-and-proportions.svg",
+        "03-data-graphs-and-algebra.svg"
+      ],
+      "maps": [
+        {
+          "file": "00-biology-maths-overview.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "01-units-and-proportions.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "02-calculations-and-inheritance.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "03-data-graphs-and-algebra.svg",
+          "changed": true,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        },
+        {
+          "file": "04-geometry-and-exchange.svg",
+          "changed": false,
+          "description_words_retained": true,
+          "complete_text_words_and_paragraphs_retained": true
+        }
+      ]
+    }
+  ],
+  "completed": "2026-10-20"
+}
