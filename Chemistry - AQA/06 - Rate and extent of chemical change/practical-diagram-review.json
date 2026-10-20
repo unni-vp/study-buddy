@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Colour or turbidity rate practical",
+      "diagram": "Chemistry - AQA/06 - Rate and extent of chemical change/Diagrams/disappearing-cross-practical.svg",
+      "purpose": "Viewed from above, a cross under the flask becomes hidden as sulfur makes the liquid cloudy. Keep the viewing depth constant."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}

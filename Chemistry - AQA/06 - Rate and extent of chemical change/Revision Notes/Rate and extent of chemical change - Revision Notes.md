@@ -82,6 +82,9 @@ Leaks or delay before sealing lose gas and underestimate measured output. A suit
 
 ## Colour or turbidity rate practical
 
+
+![Viewed from above, a cross under the flask becomes hidden as sulfur makes the liquid cloudy. Keep the viewing depth constant.](../Diagrams/disappearing-cross-practical.svg)
+
 React **sodium thiosulfate with dilute hydrochloric acid**. Insoluble sulfur makes the mixture cloudy. Place the flask over a cross and time until it can no longer be seen.
 
 1. Prepare a concentration range by diluting thiosulfate, keeping total thiosulfate-solution volume constant.
