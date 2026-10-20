@@ -11,6 +11,9 @@
 </table>
 <p>Each record has values for the table&#x27;s fields. A table with three pupils has <strong>three records</strong>, regardless of how many fields describe each pupil.</p>
 <p>Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.</p>
+<h3>Counting what a table contains</h3>
+<p>In a pupil table, one record describes one pupil, while each field describes a property such as Name or YearGroup. Adding a new pupil adds a <strong>row</strong>. Adding a new property for all pupils adds a <strong>column</strong>.</p>
+<p>A table&#x27;s design defines the fields and their data types. A query result is a selected view of that data, so it can contain fewer rows or columns than the original table without removing the stored data.</p>
 <h2>Primary and foreign keys</h2>
 <table>
 <tr><th>Feature</th><th>Primary key</th><th>Foreign key</th></tr>
@@ -21,6 +24,8 @@
 <p><code>LoanID</code> is also a primary key: it distinguishes separate loans, even if the same pupil borrows the same title again. A person’s name is usually a poor primary key because names can repeat or change.</p>
 <p><img src="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Diagrams/linked-library-records.svg" alt="Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example."></p>
 <p><strong>Primary key:</strong> identifies the row in this table. <strong>Foreign key:</strong> connects a row to another table. A field called <code>PupilID</code> can therefore be a primary key in Pupils and a foreign key in Loans.</p>
+<p>A <strong>composite primary key</strong> uses a combination of fields when one field alone does not uniquely identify a record. For example, neither ClubID nor PupilID alone identifies a membership, but their combination can identify a pupil&#x27;s membership of a particular club. An alternative design could give each membership its own unique MembershipID.</p>
+<p>A foreign key can repeat: several loans may belong to pupil 101. What must be unique is the <strong>primary key in the table it identifies</strong>, not every field that happens to contain an ID.</p>
 <h2>Reducing redundancy and inconsistency</h2>
 <p><strong>Data redundancy</strong> means unnecessary duplication. <strong>Data inconsistency</strong> means different stored copies disagree.</p>
 <p>Suppose every loan record stores the pupil&#x27;s name and year group. When their year group changes, several rows need updating. Missing one leaves conflicting information.</p>
@@ -32,4 +37,4 @@
 <li>Retrieve those details when a query connects the tables.</li>
 </ol>
 <p>This reduces repeated descriptive data and the risk of conflicting copies. Repeated <strong>foreign-key values are intentional</strong>: they provide the links. They are different from unnecessarily duplicating all of the pupil&#x27;s details.</p>
-<p>Good design supports consistency, but records must still be entered and updated correctly.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="197f79a329cd-group-retrieve.html"><span>Next →</span><strong>Retrieving and sorting data</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Good design supports consistency, but records must still be entered and updated correctly.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><span></span><a href="197f79a329cd-group-retrieve.html"><span>Next →</span><strong>Selecting and sorting data</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

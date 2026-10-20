@@ -20,9 +20,9 @@
     },
     {
       "id": "retrieve",
-      "title": "Retrieving and sorting data",
-      "description": "Trace SELECT queries and connect two tables.",
+      "title": "Selecting and sorting data",
       "icon": "computer-code",
+      "description": "Use the example tables to filter columns and rows and order results.",
       "sections": [
         {
           "heading": "Our example database"
@@ -35,7 +35,15 @@
         },
         {
           "heading": "ORDER BY"
-        },
+        }
+      ]
+    },
+    {
+      "id": "relations",
+      "title": "Queries across two tables",
+      "icon": "computer-data",
+      "description": "Match key values before filtering and displaying linked records.",
+      "sections": [
         {
           "heading": "Retrieving from two tables"
         }

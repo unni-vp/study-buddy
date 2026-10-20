@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Retrieving and sorting data · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><h1>Retrieving and sorting data</h1>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Selecting and sorting data · Study Buddy</title><link rel="stylesheet" href="../style.css"></head><body class="inner-page subject-computer-science"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects"><a class="selected" href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><a class="" href="../../English%20Language%20-%20Eduqas/index.html">English Language</a><a class="" href="../../English%20Literature%20-%20Eduqas/index.html">English Literature</a><a class="" href="../../Maths%20-%20Edexcel/index.html">Maths</a><a class="" href="../../Geography%20-%20OCR%20A/index.html">Geography</a><a class="" href="../../French%20-%20AQA/index.html">French</a><a class="" href="../../Biology%20-%20AQA/index.html">Biology</a><a class="" href="../../Chemistry%20-%20AQA/index.html">Chemistry</a><a class="" href="../../Physics%20-%20AQA/index.html">Physics</a></nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><h1>Selecting and sorting data</h1>
 <h2>Our example database</h2>
 <h3>Pupils</h3>
 <table>
@@ -35,6 +35,8 @@ FROM Pupils;
 </code></pre>
 <p>This retrieves all three fields. Neither query changes the stored records.</p>
 <p><strong>Keep the distinction clear:</strong> SELECT chooses columns; a WHERE condition chooses which rows qualify.</p>
+<p>SQL keywords such as <code>SELECT</code> are normally case-insensitive. Writing them in capitals makes the structure easier to see. Text-value matching can depend on the database&#x27;s settings, so copy the spelling and capitalisation supplied by the task.</p>
+<p>The asterisk in <code>SELECT *</code> means <strong>all columns</strong>. It does not mean “all matching words” or require a WHERE clause. With no WHERE condition, SELECT retrieves all rows from the named table.</p>
 <h2>WHERE and combined conditions</h2>
 <p><strong>WHERE</strong> filters records using a condition.</p>
 <pre class="code-block"><code class="language-sql">SELECT Name
@@ -85,24 +87,15 @@ ORDER BY DaysLoaned DESC;
 </code></pre>
 <p><strong>Result order:</strong> Geography — 21; Macbeth — 14; Atlas — 7.</p>
 <p>Sorting changes the order of the query&#x27;s results. It does not rewrite the original table&#x27;s data. Put ORDER BY after WHERE when both are used.</p>
-<h2>Retrieving from two tables</h2>
-<p>To display pupils&#x27; names beside their book titles, retrieve fields from both tables and match the relevant key values.</p>
-<pre class="code-block"><code class="language-sql">SELECT Pupils.Name, Loans.BookTitle
-FROM Pupils, Loans
-WHERE Pupils.PupilID = Loans.PupilID
-    AND Pupils.YearGroup = 10
-ORDER BY Loans.BookTitle ASC;
+<h3>Filtering before displaying an ordered result</h3>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+WHERE DaysLoaned &gt;= 14
+ORDER BY DaysLoaned ASC;
 </code></pre>
-<p>Follow the query in three steps:</p>
-<ol>
-<li><strong>Match the pupil IDs.</strong> Loans 501 and 502 belong to pupil 101; loan 503 belongs to pupil 102.</li>
-<li><strong>Keep year group 10.</strong> Shreya&#x27;s two loans remain. Amir is excluded; Mia has no matching loan.</li>
-<li><strong>Display and sort.</strong> Show the pupil&#x27;s name and each matching title, sorted by title.</li>
-</ol>
 <table>
-<tr><th>Name</th><th>BookTitle</th></tr>
-<tr><td>Shreya</td><td>Geography</td></tr>
-<tr><td>Shreya</td><td>Macbeth</td></tr>
+<tr><th>BookTitle</th><th>DaysLoaned</th></tr>
+<tr><td>Macbeth</td><td>14</td></tr>
+<tr><td>Geography</td><td>21</td></tr>
 </table>
-<p>The dot in <code>Pupils.Name</code> identifies <strong>the table and its field</strong>. This is especially useful when both tables contain a field named PupilID.</p>
-<p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-design.html"><span>← Previous</span><strong>Tables and relationships</strong></a><a href="197f79a329cd-group-change.html"><span>Next →</span><strong>Changing data</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>The condition excludes Atlas because 7 is below 14. The remaining results are then shown from the smaller DaysLoaned value to the larger one. A field can be used for filtering or sorting even when it is not selected for display.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-design.html"><span>← Previous</span><strong>Tables and relationships</strong></a><a href="197f79a329cd-group-relations.html"><span>Next →</span><strong>Queries across two tables</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

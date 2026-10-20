@@ -11,6 +11,12 @@ VALUES (104, &#x27;Lena&#x27;, 11);
 <li>There are three named fields and three matching values.</li>
 </ul>
 <p>INSERT adds a record; it does not edit an existing record simply because the name is similar.</p>
+<h3>Matching the order of fields and values</h3>
+<pre class="code-block"><code class="language-sql">INSERT INTO Pupils (Name, YearGroup, PupilID)
+VALUES (&#x27;Lena&#x27;, 11, 104);
+</code></pre>
+<p>This adds the same new pupil as the earlier example, because the explicit field list matches the changed value order. The first supplied value belongs to Name, the second to YearGroup and the third to PupilID.</p>
+<p>If the field list is omitted, every supplied value must follow the table&#x27;s defined column order. Naming the fields makes the intended correspondence clear. A primary-key value already used by another record cannot identify a new record uniquely.</p>
 <h2>UPDATE and SET</h2>
 <p><strong>UPDATE</strong> changes existing records. <strong>SET</strong> specifies their new field values. <strong>WHERE</strong> restricts which records are changed.</p>
 <pre class="code-block"><code class="language-sql">UPDATE Pupils
@@ -20,6 +26,18 @@ WHERE PupilID = 101;
 <p>Only Shreya&#x27;s year group changes, from 10 to 11. Her name and primary key remain unchanged. The other pupils are unaffected.</p>
 <p>Using a primary key in the condition is useful when exactly one record should change.</p>
 <p><strong>Without WHERE, the change applies to every record in the table.</strong></p>
+<p>A condition can match more than one record. For example:</p>
+<pre class="code-block"><code class="language-sql">UPDATE Pupils
+SET YearGroup = 11
+WHERE YearGroup = 10;
+</code></pre>
+<p>Both Shreya and Mia change to year group 11, while Amir was already in that group. UPDATE is not limited to one row; the condition determines which rows are affected.</p>
+<p>More than one field can be changed in the same statement by separating the assignments with commas:</p>
+<pre class="code-block"><code class="language-sql">UPDATE Pupils
+SET Name = &#x27;Amir Khan&#x27;, YearGroup = 12
+WHERE PupilID = 102;
+</code></pre>
+<p>This changes two values in Amir&#x27;s record without changing the primary key or creating a new pupil.</p>
 <h2>DELETE FROM</h2>
 <p><strong>DELETE FROM</strong> removes records that match a condition.</p>
 <pre class="code-block"><code class="language-sql">DELETE FROM Loans
@@ -31,6 +49,8 @@ WHERE LoanID = 502;
 <li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
 <li>The table itself still exists; removing its records is different from removing the table structure.</li>
 </ul>
+<p>Use **<code>DELETE FROM</code>**, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
+<p>Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.</p>
 <h2>Planning and checking a query</h2>
 <p>Before writing, identify the operation:</p>
 <table>
@@ -48,4 +68,4 @@ WHERE LoanID = 502;
 <li><strong>Order:</strong> is a particular sort required?</li>
 <li><strong>Accuracy:</strong> are names, operators, quotes and values correct?</li>
 </ol>
-<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-retrieve.html"><span>← Previous</span><strong>Retrieving and sorting data</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-relations.html"><span>← Previous</span><strong>Queries across two tables</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

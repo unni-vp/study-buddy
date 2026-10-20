@@ -11,6 +11,9 @@
 </table>
 <p>Each record has values for the table&#x27;s fields. A table with three pupils has <strong>three records</strong>, regardless of how many fields describe each pupil.</p>
 <p>Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.</p>
+<h3>Counting what a table contains</h3>
+<p>In a pupil table, one record describes one pupil, while each field describes a property such as Name or YearGroup. Adding a new pupil adds a <strong>row</strong>. Adding a new property for all pupils adds a <strong>column</strong>.</p>
+<p>A table&#x27;s design defines the fields and their data types. A query result is a selected view of that data, so it can contain fewer rows or columns than the original table without removing the stored data.</p>
 <h2>Primary and foreign keys</h2>
 <table>
 <tr><th>Feature</th><th>Primary key</th><th>Foreign key</th></tr>
@@ -21,6 +24,8 @@
 <p><code>LoanID</code> is also a primary key: it distinguishes separate loans, even if the same pupil borrows the same title again. A person’s name is usually a poor primary key because names can repeat or change.</p>
 <p><img src="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Diagrams/linked-library-records.svg" alt="Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example."></p>
 <p><strong>Primary key:</strong> identifies the row in this table. <strong>Foreign key:</strong> connects a row to another table. A field called <code>PupilID</code> can therefore be a primary key in Pupils and a foreign key in Loans.</p>
+<p>A <strong>composite primary key</strong> uses a combination of fields when one field alone does not uniquely identify a record. For example, neither ClubID nor PupilID alone identifies a membership, but their combination can identify a pupil&#x27;s membership of a particular club. An alternative design could give each membership its own unique MembershipID.</p>
+<p>A foreign key can repeat: several loans may belong to pupil 101. What must be unique is the <strong>primary key in the table it identifies</strong>, not every field that happens to contain an ID.</p>
 <h2>Reducing redundancy and inconsistency</h2>
 <p><strong>Data redundancy</strong> means unnecessary duplication. <strong>Data inconsistency</strong> means different stored copies disagree.</p>
 <p>Suppose every loan record stores the pupil&#x27;s name and year group. When their year group changes, several rows need updating. Missing one leaves conflicting information.</p>
@@ -69,6 +74,8 @@ FROM Pupils;
 </code></pre>
 <p>This retrieves all three fields. Neither query changes the stored records.</p>
 <p><strong>Keep the distinction clear:</strong> SELECT chooses columns; a WHERE condition chooses which rows qualify.</p>
+<p>SQL keywords such as <code>SELECT</code> are normally case-insensitive. Writing them in capitals makes the structure easier to see. Text-value matching can depend on the database&#x27;s settings, so copy the spelling and capitalisation supplied by the task.</p>
+<p>The asterisk in <code>SELECT *</code> means <strong>all columns</strong>. It does not mean “all matching words” or require a WHERE clause. With no WHERE condition, SELECT retrieves all rows from the named table.</p>
 <h2>WHERE and combined conditions</h2>
 <p><strong>WHERE</strong> filters records using a condition.</p>
 <pre class="code-block"><code class="language-sql">SELECT Name
@@ -119,6 +126,18 @@ ORDER BY DaysLoaned DESC;
 </code></pre>
 <p><strong>Result order:</strong> Geography — 21; Macbeth — 14; Atlas — 7.</p>
 <p>Sorting changes the order of the query&#x27;s results. It does not rewrite the original table&#x27;s data. Put ORDER BY after WHERE when both are used.</p>
+<h3>Filtering before displaying an ordered result</h3>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+WHERE DaysLoaned &gt;= 14
+ORDER BY DaysLoaned ASC;
+</code></pre>
+<table>
+<tr><th>BookTitle</th><th>DaysLoaned</th></tr>
+<tr><td>Macbeth</td><td>14</td></tr>
+<tr><td>Geography</td><td>21</td></tr>
+</table>
+<p>The condition excludes Atlas because 7 is below 14. The remaining results are then shown from the smaller DaysLoaned value to the larger one. A field can be used for filtering or sorting even when it is not selected for display.</p>
 <h2>Retrieving from two tables</h2>
 <p>To display pupils&#x27; names beside their book titles, retrieve fields from both tables and match the relevant key values.</p>
 <pre class="code-block"><code class="language-sql">SELECT Pupils.Name, Loans.BookTitle
@@ -140,6 +159,17 @@ ORDER BY Loans.BookTitle ASC;
 </table>
 <p>The dot in <code>Pupils.Name</code> identifies <strong>the table and its field</strong>. This is especially useful when both tables contain a field named PupilID.</p>
 <p><strong>Include the linking condition.</strong> Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else&#x27;s loan.</p>
+<h3>Why the linking condition matters</h3>
+<p>The example has three pupil records and three loan records. Without a linking condition, combining both tables can produce <strong>nine pairings</strong>, including wrong combinations such as Mia with Amir&#x27;s loan.</p>
+<p>The condition **<code>Pupils.PupilID = Loans.PupilID</code>** keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.</p>
+<p>A name from the pupil table can appear on several output rows because one pupil can have several loans. This repetition in query results does not mean the pupil&#x27;s full details were unnecessarily copied into every stored loan record.</p>
+<h3>Selecting data using a condition in the other table</h3>
+<pre class="code-block"><code class="language-sql">SELECT Pupils.Name
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+    AND Loans.DaysLoaned &gt; 20;
+</code></pre>
+<p>The output is <strong>Shreya</strong>. The query needs Loans to test the borrowing duration, even though only a field from Pupils is displayed. Qualified names such as <code>Loans.PupilID</code> make it clear which table supplies a field.</p>
 <h2>INSERT INTO and VALUES</h2>
 <p><strong>INSERT INTO</strong> adds a new record. The field list and value list must correspond in the same order.</p>
 <pre class="code-block"><code class="language-sql">INSERT INTO Pupils (PupilID, Name, YearGroup)
@@ -152,6 +182,12 @@ VALUES (104, &#x27;Lena&#x27;, 11);
 <li>There are three named fields and three matching values.</li>
 </ul>
 <p>INSERT adds a record; it does not edit an existing record simply because the name is similar.</p>
+<h3>Matching the order of fields and values</h3>
+<pre class="code-block"><code class="language-sql">INSERT INTO Pupils (Name, YearGroup, PupilID)
+VALUES (&#x27;Lena&#x27;, 11, 104);
+</code></pre>
+<p>This adds the same new pupil as the earlier example, because the explicit field list matches the changed value order. The first supplied value belongs to Name, the second to YearGroup and the third to PupilID.</p>
+<p>If the field list is omitted, every supplied value must follow the table&#x27;s defined column order. Naming the fields makes the intended correspondence clear. A primary-key value already used by another record cannot identify a new record uniquely.</p>
 <h2>UPDATE and SET</h2>
 <p><strong>UPDATE</strong> changes existing records. <strong>SET</strong> specifies their new field values. <strong>WHERE</strong> restricts which records are changed.</p>
 <pre class="code-block"><code class="language-sql">UPDATE Pupils
@@ -161,6 +197,18 @@ WHERE PupilID = 101;
 <p>Only Shreya&#x27;s year group changes, from 10 to 11. Her name and primary key remain unchanged. The other pupils are unaffected.</p>
 <p>Using a primary key in the condition is useful when exactly one record should change.</p>
 <p><strong>Without WHERE, the change applies to every record in the table.</strong></p>
+<p>A condition can match more than one record. For example:</p>
+<pre class="code-block"><code class="language-sql">UPDATE Pupils
+SET YearGroup = 11
+WHERE YearGroup = 10;
+</code></pre>
+<p>Both Shreya and Mia change to year group 11, while Amir was already in that group. UPDATE is not limited to one row; the condition determines which rows are affected.</p>
+<p>More than one field can be changed in the same statement by separating the assignments with commas:</p>
+<pre class="code-block"><code class="language-sql">UPDATE Pupils
+SET Name = &#x27;Amir Khan&#x27;, YearGroup = 12
+WHERE PupilID = 102;
+</code></pre>
+<p>This changes two values in Amir&#x27;s record without changing the primary key or creating a new pupil.</p>
 <h2>DELETE FROM</h2>
 <p><strong>DELETE FROM</strong> removes records that match a condition.</p>
 <pre class="code-block"><code class="language-sql">DELETE FROM Loans
@@ -172,6 +220,8 @@ WHERE LoanID = 502;
 <li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
 <li>The table itself still exists; removing its records is different from removing the table structure.</li>
 </ul>
+<p>Use **<code>DELETE FROM</code>**, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
+<p>Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.</p>
 <h2>Planning and checking a query</h2>
 <p>Before writing, identify the operation:</p>
 <table>
@@ -189,4 +239,9 @@ WHERE LoanID = 502;
 <li><strong>Order:</strong> is a particular sort required?</li>
 <li><strong>Accuracy:</strong> are names, operators, quotes and values correct?</li>
 </ol>
-<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p>
+<section class="reference-sources" hidden><h2>Sources</h2>
+<ul>
+<li><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
+<li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+</ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

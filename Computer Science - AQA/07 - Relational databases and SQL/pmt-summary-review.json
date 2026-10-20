@@ -1,0 +1,96 @@
+{
+  "downloaded": "2026-10-20",
+  "publisher": "PMT Education",
+  "url": "https://pmt.physicsandmathstutor.com/download/Computer-Science/GCSE/Notes/AQA/7-Relational-Databases-and-Structured-Query-Language/Summary%20Notes.pdf",
+  "file": "Reference Materials/PMT - Summary Notes.pdf",
+  "pages": 9,
+  "sha256": "0cf0ed062dd42a65b88338d0d61e793cb282ecb08475d752e31d25efd3488f6f",
+  "licence": "CC BY-NC-ND 4.0, as printed in the original PDF; preserved unmodified.",
+  "review_status": "complete",
+  "reviewed": "2026-10-20",
+  "basis": "PMT Summary Notes used as a coverage checklist alongside the AQA 8525 specification for first exams in 2027. Explanations and examples are newly written, not a reproduction of PMT wording or artwork.",
+  "coverage": [
+    {
+      "section": "3.7.1 Database concepts",
+      "pmt_pages": [
+        2,
+        3
+      ],
+      "note_headings": [
+        "Tables, records and fields",
+        "Primary and foreign keys",
+        "Reducing redundancy and inconsistency"
+      ],
+      "added_or_developed": [
+        "Row/column changes",
+        "Composite-key example as supporting context",
+        "Repeated foreign keys distinguished from redundant descriptive data"
+      ],
+      "decisions": [
+        "Existing linked-library diagram and full relational explanation retained. Composite key is supporting explanation, not added as a separately claimed AQA requirement."
+      ]
+    },
+    {
+      "section": "3.7.2 Retrieving data",
+      "pmt_pages": [
+        4,
+        8,
+        9
+      ],
+      "note_headings": [
+        "Our example database",
+        "SELECT and FROM",
+        "WHERE and combined conditions",
+        "ORDER BY",
+        "Retrieving from two tables"
+      ],
+      "added_or_developed": [
+        "Filtered sorted result table",
+        "Text/keyword case distinction",
+        "Explicit nine-pair failure without link",
+        "Condition supplied by the other table",
+        "Separate direct reading group for two-table queries"
+      ],
+      "decisions": [
+        "Corrected source claim that the join condition is needed only when filtering using the second table. At most two tables used."
+      ]
+    },
+    {
+      "section": "3.7.2 Changing data",
+      "pmt_pages": [
+        5,
+        6,
+        7
+      ],
+      "note_headings": [
+        "INSERT INTO and VALUES",
+        "UPDATE and SET",
+        "DELETE FROM",
+        "Planning and checking a query"
+      ],
+      "added_or_developed": [
+        "Reordered explicit INSERT columns",
+        "Multiple-row and multiple-field UPDATE",
+        "DELETE rows versus UPDATE fields"
+      ],
+      "decisions": [
+        "Nonstandard DELETE * FROM example not imported. Asterisk means all SELECT columns, not a general wildcard value. Source typo in example results not imported."
+      ]
+    }
+  ],
+  "reading_groups": [
+    "Tables and relationships",
+    "Selecting and sorting data",
+    "Queries across two tables",
+    "Changing data"
+  ],
+  "word_count_before": 1699,
+  "word_count_after": 2467,
+  "verification": [
+    "Original PDF SHA-256 unchanged",
+    "All Python code blocks compile",
+    "All reading groups checked at 1366, 390 and 320 pixels",
+    "Images load, tables have consistent columns, source section hidden, no page overflow",
+    "Original source content and recent comparison tables retained; updated content checked against AQA 2027 specification"
+  ]
+}

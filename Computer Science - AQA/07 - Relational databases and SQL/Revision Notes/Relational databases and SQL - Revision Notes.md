@@ -17,6 +17,12 @@ Each record has values for the table's fields. A table with three pupils has **t
 
 Choose data types that suit the information. A number used for counting may be an integer; a phone number is often text because leading zeroes matter and arithmetic is not needed.
 
+### Counting what a table contains
+
+In a pupil table, one record describes one pupil, while each field describes a property such as Name or YearGroup. Adding a new pupil adds a **row**. Adding a new property for all pupils adds a **column**.
+
+A table's design defines the fields and their data types. A query result is a selected view of that data, so it can contain fewer rows or columns than the original table without removing the stored data.
+
 ## Primary and foreign keys
 
 | Feature | Primary key | Foreign key |
@@ -31,6 +37,10 @@ Choose data types that suit the information. A number used for counting may be a
 ![Pupils 101, 102 and 103 are identified by unique primary keys. Loans 501 and 502 both contain foreign-key PupilID 101, linking to Shreya. Loan 503 contains PupilID 102, linking to Amir. Pupil 103 has no loan in this example.](../Diagrams/linked-library-records.svg)
 
 **Primary key:** identifies the row in this table. **Foreign key:** connects a row to another table. A field called `PupilID` can therefore be a primary key in Pupils and a foreign key in Loans.
+
+A **composite primary key** uses a combination of fields when one field alone does not uniquely identify a record. For example, neither ClubID nor PupilID alone identifies a membership, but their combination can identify a pupil's membership of a particular club. An alternative design could give each membership its own unique MembershipID.
+
+A foreign key can repeat: several loans may belong to pupil 101. What must be unique is the **primary key in the table it identifies**, not every field that happens to contain an ID.
 
 ## Reducing redundancy and inconsistency
 
@@ -100,6 +110,10 @@ FROM Pupils;
 This retrieves all three fields. Neither query changes the stored records.
 
 **Keep the distinction clear:** SELECT chooses columns; a WHERE condition chooses which rows qualify.
+
+SQL keywords such as `SELECT` are normally case-insensitive. Writing them in capitals makes the structure easier to see. Text-value matching can depend on the database's settings, so copy the spelling and capitalisation supplied by the task.
+
+The asterisk in `SELECT *` means **all columns**. It does not mean “all matching words” or require a WHERE clause. With no WHERE condition, SELECT retrieves all rows from the named table.
 
 ## WHERE and combined conditions
 
@@ -174,6 +188,22 @@ ORDER BY DaysLoaned DESC;
 
 Sorting changes the order of the query's results. It does not rewrite the original table's data. Put ORDER BY after WHERE when both are used.
 
+### Filtering before displaying an ordered result
+
+```sql
+SELECT BookTitle, DaysLoaned
+FROM Loans
+WHERE DaysLoaned >= 14
+ORDER BY DaysLoaned ASC;
+```
+
+| BookTitle | DaysLoaned |
+|---|---|
+| Macbeth | 14 |
+| Geography | 21 |
+
+The condition excludes Atlas because 7 is below 14. The remaining results are then shown from the smaller DaysLoaned value to the larger one. A field can be used for filtering or sorting even when it is not selected for display.
+
 ## Retrieving from two tables
 
 To display pupils' names beside their book titles, retrieve fields from both tables and match the relevant key values.
@@ -201,6 +231,25 @@ The dot in `Pupils.Name` identifies **the table and its field**. This is especia
 
 **Include the linking condition.** Otherwise a query using two tables may combine unrelated rows, pairing a pupil with somebody else's loan.
 
+### Why the linking condition matters
+
+The example has three pupil records and three loan records. Without a linking condition, combining both tables can produce **nine pairings**, including wrong combinations such as Mia with Amir's loan.
+
+The condition **`Pupils.PupilID = Loans.PupilID`** keeps only pairs belonging to the same pupil. It is needed whenever these two tables are combined, even if every displayed field comes from just one of them.
+
+A name from the pupil table can appear on several output rows because one pupil can have several loans. This repetition in query results does not mean the pupil's full details were unnecessarily copied into every stored loan record.
+
+### Selecting data using a condition in the other table
+
+```sql
+SELECT Pupils.Name
+FROM Pupils, Loans
+WHERE Pupils.PupilID = Loans.PupilID
+    AND Loans.DaysLoaned > 20;
+```
+
+The output is **Shreya**. The query needs Loans to test the borrowing duration, even though only a field from Pupils is displayed. Qualified names such as `Loans.PupilID` make it clear which table supplies a field.
+
 ## INSERT INTO and VALUES
 
 **INSERT INTO** adds a new record. The field list and value list must correspond in the same order.
@@ -216,6 +265,17 @@ VALUES (104, 'Lena', 11);
 - There are three named fields and three matching values.
 
 INSERT adds a record; it does not edit an existing record simply because the name is similar.
+
+### Matching the order of fields and values
+
+```sql
+INSERT INTO Pupils (Name, YearGroup, PupilID)
+VALUES ('Lena', 11, 104);
+```
+
+This adds the same new pupil as the earlier example, because the explicit field list matches the changed value order. The first supplied value belongs to Name, the second to YearGroup and the third to PupilID.
+
+If the field list is omitted, every supplied value must follow the table's defined column order. Naming the fields makes the intended correspondence clear. A primary-key value already used by another record cannot identify a new record uniquely.
 
 ## UPDATE and SET
 
@@ -233,6 +293,26 @@ Using a primary key in the condition is useful when exactly one record should ch
 
 **Without WHERE, the change applies to every record in the table.**
 
+A condition can match more than one record. For example:
+
+```sql
+UPDATE Pupils
+SET YearGroup = 11
+WHERE YearGroup = 10;
+```
+
+Both Shreya and Mia change to year group 11, while Amir was already in that group. UPDATE is not limited to one row; the condition determines which rows are affected.
+
+More than one field can be changed in the same statement by separating the assignments with commas:
+
+```sql
+UPDATE Pupils
+SET Name = 'Amir Khan', YearGroup = 12
+WHERE PupilID = 102;
+```
+
+This changes two values in Amir's record without changing the primary key or creating a new pupil.
+
 ## DELETE FROM
 
 **DELETE FROM** removes records that match a condition.
@@ -247,6 +327,10 @@ The Geography loan is removed. Shreya's pupil record and her Macbeth loan remain
 - DELETE removes whole qualifying rows, rather than just clearing one field.
 - **Without WHERE, all records in the named table are deleted.**
 - The table itself still exists; removing its records is different from removing the table structure.
+
+Use **`DELETE FROM`**, not `DELETE * FROM`. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.
+
+Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.
 
 ## Planning and checking a query
 
@@ -269,3 +353,8 @@ Then check:
 5. **Accuracy:** are names, operators, quotes and values correct?
 
 Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.
+
+## Sources
+
+- [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
+- [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
