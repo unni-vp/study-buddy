@@ -50,6 +50,9 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 
 ## Preparing a pure dry soluble salt
 
+
+![Filter excess insoluble solid, collect the salt solution, then concentrate it in an evaporating basin over a water bath and cool to crystallise.](../../04 - Chemical changes/Diagrams/salt-crystals-practical.svg)
+
 **Aim:** make a soluble salt from a dilute acid and an **insoluble oxide or carbonate**, such as copper sulfate from copper oxide and sulfuric acid.
 
 1. Warm dilute acid gently. Add insoluble solid in small portions and stir until some remains unreacted, showing the acid has been used.
@@ -104,6 +107,9 @@ Hydrogen: burning splint/pop. Oxygen: glowing splint relights. Chlorine: damp li
 
 ## Temperature changes in reacting solutions
 
+
+![A supported insulated cup has a loose lid, thermometer bulb in the liquid and a stirrer.](../../05 - Energy changes/Diagrams/reaction-temperature-practical.svg)
+
 **Aim:** investigate a variable affecting temperature change in reactions, such as metal displacement, acid/metal, acid/carbonate or neutralisation.
 
 1. Measure solution volumes/concentrations and put them in an **insulated cup** with suitable support and lid.
@@ -133,6 +139,9 @@ Check leaks and start-up delays; they can lose gas and underestimate output. Kee
 
 ## Concentration and rate: turbidity or colour
 
+
+![Viewed from above, a cross under the flask becomes hidden as sulfur makes the liquid cloudy. Keep the viewing depth constant.](../../06 - Rate and extent of chemical change/Diagrams/disappearing-cross-practical.svg)
+
 Thiosulfate reacts with dilute acid to form **insoluble sulfur**. Time until cloudiness hides a fixed cross under the same flask.
 
 - Change thiosulfate concentration by dilution, maintaining total solution volume and fixed acid amount.
@@ -143,6 +152,9 @@ Thiosulfate reacts with dilute acid to form **insoluble sulfur**. Time until clo
 Keep the solution depth constant: a deeper column can hide the cross with a different amount of sulfur. Sulfur dioxide can be generated, so use suitable ventilation, small quantities, eye protection and the school’s risk assessment. Gas collection and turbidity are **both required approaches**, not interchangeable descriptions of one measurement.
 
 ## Paper chromatography
+
+
+![Paper hangs in a covered vessel. The pencil baseline and sample spots are above the solvent; the solvent front is marked higher up the paper.](../../08 - Chemical analysis/Diagrams/chromatography-setup.svg)
 
 **Aim:** separate and compare coloured substances and calculate Rf.
 
@@ -159,6 +171,9 @@ Different partition between stationary and mobile phases causes separation.
 Large spreading spots, ink baselines, submerged samples and an unmarked front undermine results. One spot may hide overlapping compounds; a different solvent can improve separation. Handle solvents safely, especially flammable ones, with suitable ventilation and no nearby flame.
 
 ## Identifying unknown ionic compounds
+
+
+![A clean wire loop holds a sample in the blue non-luminous flame of a Bunsen burner.](../../08 - Chemical analysis/Diagrams/flame-test-practical.svg)
 
 **Aim:** use chemical tests to identify cations and anions in unknown **single ionic compounds**. Dissolve where appropriate and use **fresh portions for different tests**.
 
