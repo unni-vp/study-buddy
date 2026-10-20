@@ -43,6 +43,9 @@ Evaluate benefits, costs, environmental/social effects and ethical issues using 
 
 ## Microscopy and biological drawings
 
+
+![A coverslip is lowered at an angle onto a thin stained specimen on a glass slide, using a mounted needle.](../../01 - Cell biology/Diagrams/microscope-slide-practical.svg)
+
 **Aim:** observe, draw and label plant and animal cells, with a magnification scale.
 
 1. Put a thin specimen on a slide with a suitable stain, such as iodine for onion tissue. Lower a coverslip at an angle to reduce bubbles.
@@ -59,6 +62,9 @@ Thin tissue and stain improve visibility.
 Handle glass carefully and avoid damaging a slide with the objective lens.
 
 ## Antibiotics and antiseptics on agar
+
+
+![Equal-sized antimicrobial discs sit on an inoculated agar plate. Clear zones differ in diameter; a solvent-only control has no clear zone.](../../01 - Cell biology/Diagrams/agar-disc-practical.svg)
 
 **Aim:** compare effects on bacterial growth by measuring **zones of inhibition**.
 
@@ -81,6 +87,9 @@ Keep plates closed after incubation and use approved disposal. Sterilise equipme
 
 ## Osmosis in plant tissue
 
+
+![Equal-sized potato cylinders are immersed in equal volumes of different concentrations, then blotted and reweighed.](../../01 - Cell biology/Diagrams/potato-osmosis-practical.svg)
+
 **Aim:** investigate solution concentration and change in plant-tissue mass.
 
 1. Cut comparable cylinders from the same type of tissue, with equal dimensions. Measure initial masses.
@@ -101,6 +110,9 @@ Use a cutting board and handle sharp tools safely.
 
 ## Food tests
 
+
+![Positive food-test results: reducing sugar gives a coloured Benedict’s precipitate after warming, starch blue-black iodine, protein purple Biuret and lipid a Sudan-stained oil layer.](../../02 - Organisation/Diagrams/food-tests-practical.svg)
+
 Use separate measured samples and clean equipment to avoid cross-contamination. Compare with known positive and negative samples where useful.
 
 | Substance | Method | Positive result |
@@ -113,6 +125,9 @@ Use separate measured samples and clean equipment to avoid cross-contamination. 
 An alternative lipid test mixes the sample with **ethanol**, then adds water: a **milky emulsion** is positive. Ethanol is flammable, so use it away from flames. Warm Benedict’s tubes safely in a water bath, point tubes away from people and wear eye protection for reagents. A colour test identifies a substance qualitatively; exact concentration needs a calibrated quantitative method.
 
 ## Amylase and pH
+
+
+![Starch, amylase and buffer react in a controlled water bath. Fresh samples go into separate iodine wells every thirty seconds until starch is no longer detected.](../../02 - Organisation/Diagrams/amylase-sampling-practical.svg)
 
 **Aim:** investigate the effect of pH on starch digestion using continuous sampling.
 
@@ -140,6 +155,9 @@ For an approximate point-source model, **light intensity ∝ 1/distance²**. Dou
 
 ## Human reaction time
 
+
+![The ruler starts with zero level with the participant’s open thumb and finger. Record fall distance when caught and convert it to reaction time.](../../05 - Homeostasis and response/Diagrams/ruler-drop-practical.svg)
+
 **Aim:** investigate a safe factor such as a defined distraction.
 
 1. Start ruler zero level with the participant’s thumb/finger gap, with the same posture and hand.
@@ -150,6 +168,9 @@ For an approximate point-source model, **light intensity ∝ 1/distance²**. Dou
 The ruler distance is the measurement, not time itself. A longer fall generally means slower reaction. Participants should consent and know they can stop. Do not deliberately expose them to unsafe doses of caffeine or other substances. A small convenience sample may not represent everyone.
 
 ## Seedling responses to light or gravity
+
+
+![Comparable seedlings receive one-sided or all-round light. The shoot bends towards one-sided light; record lengths and labelled drawings.](../../05 - Homeostasis and response/Diagrams/seedling-light-practical.svg)
 
 **Aim:** investigate newly germinated seedlings and record both **lengths and accurate labelled drawings**.
 
@@ -162,6 +183,12 @@ Shoot auxin promotes greater shaded-side elongation, bending towards light. In h
 
 ## Ecology sampling
 
+
+
+![Random coordinates locate equal-sized quadrats across the habitat to estimate a population.](../../07 - Ecology/Diagrams/quadrat-sampling.svg)
+
+![Quadrats placed at regular distances along a transect sample an environmental gradient. Record abundance and the environmental factor at each site.](../../07 - Ecology/Diagrams/transect-practical.svg)
+
 **Aim:** estimate a common species’ population and investigate a factor affecting distribution.
 
 - Random coordinates and same-sized quadrats give an unbiased overall sample. Apply a consistent boundary/counting rule and use many samples.
@@ -172,6 +199,9 @@ Shoot auxin promotes greater shaded-side elongation, bending towards light. In h
 Identify organisms carefully and avoid damaging the habitat. Wash hands after soil contact and choose safe routes. More samples reduce uncertainty but do not correct consistently mistaken species identification.
 
 ## Milk decay and temperature
+
+
+![Milk, sodium carbonate and indicator equilibrate in a controlled water bath before lipase is added. Measure time to the same pH endpoint.](../../07 - Ecology/Diagrams/milk-decay-practical.svg)
 
 **Aim:** measure how temperature affects the pH change during milk-fat breakdown.
 
