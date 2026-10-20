@@ -55,6 +55,9 @@ Products are used to build new carbohydrates, proteins and lipids. Some glucose 
 
 ## Food tests
 
+
+![Positive food-test results: reducing sugar gives a coloured Benedict’s precipitate after warming, starch blue-black iodine, protein purple Biuret and lipid a Sudan-stained oil layer.](../Diagrams/food-tests-practical.svg)
+
 Use separate samples so one reagent does not affect the next test. Crush solid food in distilled water; filter if necessary. Include a known positive sample and distilled water as a negative control.
 
 | Substance | Method | Positive result |
@@ -69,6 +72,9 @@ Use separate samples so one reagent does not affect the next test. Crush solid f
 - An alternative lipid test uses ethanol followed by water: a **milky emulsion** indicates lipid. Ethanol is flammable: keep it away from flames and hot equipment.
 
 ## Investigating amylase and pH
+
+
+![Starch, amylase and buffer react in a controlled water bath. Fresh samples go into separate iodine wells every thirty seconds until starch is no longer detected.](../Diagrams/amylase-sampling-practical.svg)
 
 Find how quickly amylase removes starch at different pH values.
 
@@ -221,6 +227,9 @@ On a cross-section, link each visible layer to its job. An air space is not a ce
 | Greater light intensity | Faster, if water is available | Stomata usually open for gas exchange |
 
 ### Measuring water uptake
+
+
+![A leafy shoot is sealed into water-filled tubing. An air bubble moves along a capillary towards the shoot, and a reservoir allows it to be reset.](../Diagrams/potometer-practical.svg)
 
 A **potometer measures water uptake**, an estimate of transpiration; some water is used or stored in the plant.
 

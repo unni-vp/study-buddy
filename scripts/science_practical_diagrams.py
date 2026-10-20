@@ -339,7 +339,7 @@ def food_tests():
 
 def amylase():
  s=SVG('Amylase and pH: test fresh samples every 30 seconds',590);s.titleline()
- s.beaker(60,200,250,240);s.tube(125,125,240,level=170);s.text(40,490,'Constant-temperature water bath',21)
+ s.beaker(60,200,250,240);s.tube(125,125,240,color='#f7e8cf',level=170);s.text(40,490,'Constant-temperature water bath',21)
  s.lines(355,125,['Starch + amylase + pH buffer',
  'Start timing when they are mixed.'],size=22)
  s.arrow(190,200,460,250);s.text(330,300,'Fresh drop',21)
@@ -393,7 +393,7 @@ def transect():
 
 def milk():
  s=SVG('Milk decay: control temperature and measure pH change',560);s.titleline()
- s.beaker(90,215,350,245);s.tube(180,130,280,level=190);s.rect(300,105,20,250,'white');s.circle(310,350,11,'#c75246')
+ s.beaker(90,215,350,245);s.tube(180,130,280,color='#f7e8cf',level=190);s.rect(300,105,20,250,'white');s.circle(310,350,11,'#c75246')
  s.label(575,145,'Temperature probe',312,230)
  s.lines(575,230,['Milk + sodium carbonate',
  '+ indicator; add lipase to start.',
@@ -403,7 +403,25 @@ def milk():
  s.lines(35,510,['Time to the same pH endpoint. Repeat at each temperature; include a no-lipase control.'],size=21)
  return s
 
-DRAWINGS={k:v for k,v in globals().copy().items() if callable(v) and k in ['iv','wire','combinations','heat_capacity','insulation','density','spring','trolley','waves','rays','infrared','salt','calorimetry','turbidity','chromatography','flame_test','microscopy','agar','osmosis','food_tests','amylase','reaction','seedling','transect','milk']}
+def potometer():
+ s=SVG('Potometer: follow an air bubble in a water-filled capillary',595);s.titleline()
+ s.beaker(50,260,155,220)
+ s.rect(105,329,610,24,WATER);s.rect(690,185,25,155,WATER)
+ s.rect(680,180,45,30,'#998975');s.path('M702 205V105',TEAL,8)
+ s.path('M702 145Q625 95 620 155Q655 185 702 145M702 125Q775 75 790 130Q755 165 702 125',TEAL,2,fill='#b2d2a0')
+ s.beaker(385,110,110,110);s.rect(432,218,18,112,WATER)
+ s.rect(420,250,42,20,'#afbbc0');s.path('M440 250V235H470',w=3)
+ s.rect(275,332,65,18,'white',stroke=BLUE,r=8)
+ s.rect(220,390,420,35,'#f9efce')
+ for i in range(15):s.path(f'M{235+i*27} 390v{18 if i%5==0 else 10}',w=1)
+ s.arrow(280,465,395,465);s.text(420,474,'Bubble moves towards the shoot',21)
+ s.label(45,155,'Air bubble',300,340);s.label(520,85,'Reservoir resets bubble',470,180)
+ s.label(775,240,'Airtight seal',725,194);s.label(760,330,'Leafy shoot',704,160)
+ s.text(35,545,'Measure bubble distance per unit time. Keep joins airtight and cut the shoot under water.',21)
+ s.text(35,578,'Water uptake estimates transpiration; some absorbed water has other uses.',21)
+ return s
+
+DRAWINGS={k:v for k,v in globals().copy().items() if callable(v) and k in ['iv','wire','combinations','heat_capacity','insulation','density','spring','trolley','waves','rays','infrared','salt','calorimetry','turbidity','chromatography','flame_test','microscopy','agar','osmosis','food_tests','amylase','reaction','seedling','transect','milk','potometer']}
 
 # subject, owning topic, filename, drawing function, explanatory text alternative.
 ASSETS=[
@@ -428,6 +446,7 @@ ASSETS=[
  ('Biology',1,'potato-osmosis-practical','osmosis','Equal-sized potato cylinders are immersed in equal volumes of different concentrations, then blotted and reweighed.'),
  ('Biology',2,'food-tests-practical','food_tests','Positive food-test results: reducing sugar gives a coloured Benedict’s precipitate after warming, starch blue-black iodine, protein purple Biuret and lipid a Sudan-stained oil layer.'),
  ('Biology',2,'amylase-sampling-practical','amylase','Starch, amylase and buffer react in a controlled water bath. Fresh samples go into separate iodine wells every thirty seconds until starch is no longer detected.'),
+ ('Biology',2,'potometer-practical','potometer','A leafy shoot is sealed into water-filled tubing. An air bubble moves along a capillary towards the shoot, and a reservoir allows it to be reset.'),
  ('Biology',5,'ruler-drop-practical','reaction','The ruler starts with zero level with the participant’s open thumb and finger. Record fall distance when caught and convert it to reaction time.'),
  ('Biology',5,'seedling-light-practical','seedling','Comparable seedlings receive one-sided or all-round light. The shoot bends towards one-sided light; record lengths and labelled drawings.'),
  ('Biology',7,'transect-practical','transect','Quadrats placed at regular distances along a transect sample an environmental gradient. Record abundance and the environmental factor at each site.'),
@@ -461,6 +480,7 @@ PLACEMENTS=[
  item('Biology',1,'9. Required practical 3: osmosis in plant tissue',[a('Biology',1,'potato-osmosis-practical')]),
  item('Biology',2,'Food tests',[a('Biology',2,'food-tests-practical')]),
  item('Biology',2,'Investigating amylase and pH',[a('Biology',2,'amylase-sampling-practical')]),
+ item('Biology',2,'Measuring water uptake',[a('Biology',2,'potometer-practical')]),
  item('Biology',5,'Practical: reaction time',[a('Biology',5,'ruler-drop-practical')]),
  item('Biology',5,'Practical: seedling growth responses',[a('Biology',5,'seedling-light-practical')]),
  item('Biology',7,'Transects: investigating distribution',[a('Biology',7,'transect-practical')]),

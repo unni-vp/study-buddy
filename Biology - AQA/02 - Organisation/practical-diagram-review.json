@@ -1,0 +1,27 @@
+{
+  "reviewed": "2026-10-20",
+  "generator": "scripts/science_practical_diagrams.py",
+  "scope": "Apparatus and measurement diagrams beside practical methods; shared artwork reused in the practical-skills chapter.",
+  "placements": [
+    {
+      "heading": "Food tests",
+      "diagram": "Biology - AQA/02 - Organisation/Diagrams/food-tests-practical.svg",
+      "purpose": "Positive food-test results: reducing sugar gives a coloured Benedict’s precipitate after warming, starch blue-black iodine, protein purple Biuret and lipid a Sudan-stained oil layer."
+    },
+    {
+      "heading": "Investigating amylase and pH",
+      "diagram": "Biology - AQA/02 - Organisation/Diagrams/amylase-sampling-practical.svg",
+      "purpose": "Starch, amylase and buffer react in a controlled water bath. Fresh samples go into separate iodine wells every thirty seconds until starch is no longer detected."
+    },
+    {
+      "heading": "Measuring water uptake",
+      "diagram": "Biology - AQA/02 - Organisation/Diagrams/potometer-practical.svg",
+      "purpose": "A leafy shoot is sealed into water-filled tubing. An air bubble moves along a capillary towards the shoot, and a reservoir allows it to be reset."
+    }
+  ],
+  "verification": [
+    "Reviewed against the locally retained AQA specification and the adjacent method.",
+    "SVG labels checked for overlap and clipping; apparatus drawings visually inspected.",
+    "Affected reading groups checked at 1366, 390 and 320 px; diagrams load with no page overflow."
+  ]
+}
