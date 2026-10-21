@@ -14,6 +14,16 @@ Fieldwork is a chain. If one link is weak, the conclusion becomes less convincin
 
 **Must know:** Description says **what** the results show. Explanation says **why** the pattern may exist. Evaluation judges **how trustworthy** the investigation is.
 
+### Planning evidence that answers the question
+
+A **hypothesis** is a testable prediction, such as expecting a measured river characteristic to change downstream. A question can also be open, asking how far a pattern exists without assuming the answer.
+
+**Primary data** is collected first-hand for the investigation. **Secondary data** already exists, such as maps, census information or earlier river records. Secondary evidence can provide context or comparison, but its dates, boundaries and methods may differ.
+
+**Quantitative data** contains numerical measurements or counts. **Qualitative data** describes qualities or categories. An environmental-quality score turns judgements into numbers, but its starting assessment can still be subjective. Using numbers does not automatically make evidence objective.
+
+Before collection, assess risks and ethical issues. Work within a teacher-approved river safety plan, avoid unsafe water and banks, and keep clear of traffic. Obtain informed consent for questionnaires, respect privacy, avoid collecting unnecessary personal information and allow people to decline.
+
 ## Human fieldwork: Liverpool
 
 ### Enquiry
@@ -59,6 +69,14 @@ Evaluate how the sampling and measurement choices affect confidence in the resul
 ### Liverpool exam pointer
 
 Organise the answer as **enquiry → systematic sites → three methods → overall pattern → cautious conclusion → one precise improvement**. Use “the results suggest” when explaining the relationship because the investigation does not prove that pedestrian flow or retail land use caused the quality scores.
+
+### Presenting and testing the pattern
+
+Place environmental-quality results on a route map so the spatial pattern remains visible. A bar chart can compare scores between sites, while proportional symbols can show pedestrian counts. A land-use map provides context for why the sites differ.
+
+A scatter graph could compare pedestrian counts with environmental-quality scores. A positive association would mean busier sampled sites tended to have higher scores. It would not establish that pedestrians improved the environment: investment, street design or land use might influence both.
+
+Use the **same count duration** when comparing pedestrian flow. Repeat counts at comparable times if possible, because lunch breaks, weather or a one-off event can change the results. These are proposed controls and improvements; the school account does not supply an exact duration or numerical dataset.
 
 ## Physical fieldwork: River Alyn
 
@@ -110,6 +128,28 @@ Use improvements that match a real weakness:
 
 Use a separate result-and-explanation chain for **width/depth**, **velocity** and **bedload**. Use “generally” or “tended to” when describing the overall pattern, and support it with the evidence available. Keep a general explanation separate from a measured result or an observed exception.
 
+### Interpreting measurements carefully
+
+Plot width, mean depth and velocity against downstream distance, or in site order if distances are unavailable. Use separate labelled scales, and keep recorded exceptions rather than forcing every site onto a perfect trend.
+
+For a float measurement:
+
+**Speed = measured distance ÷ travel time**
+
+A float follows a particular surface route. It may be affected by wind, obstacles or faster surface water, so it does not directly measure the average velocity throughout the channel. A flow meter measures velocity at its chosen position. The school account leaves the exact method unconfirmed, so neither should be presented as definitely used.
+
+If estimating discharge in a suitable approximately rectangular cross-section:
+
+**Cross-sectional area = width × mean depth**
+
+**Discharge = cross-sectional area × mean velocity**
+
+- Area is measured in **m²**.
+- Mean velocity is measured in **m/s**.
+- Discharge is measured in **m³/s**.
+
+This explains how channel size and speed combine. It is a possible calculation from suitable measurements, not a claim that discharge was measured during this school visit.
+
 ## Comparing the enquiries
 
 | Feature | Liverpool | River Alyn |
@@ -141,6 +181,17 @@ Avoid vague statements such as “do more data”. Use:
 
 Example: “A single pedestrian count may reflect a temporary event, so repeat it at the same time on several comparable days and calculate a mean. This reduces the influence of an unusual count.”
 
+### Match the evaluation to the problem
+
+| Problem | Why it matters | Specific improvement |
+|---|---|---|
+| Different people interpret quality scores differently. | Site differences may partly reflect observers rather than the environment. | Agree a scoring guide, practise together and compare scores before the survey. |
+| One short pedestrian count catches a temporary event. | The sample may not represent usual use. | Repeat equal-duration counts at comparable times on several days and compare the results. |
+| Depth is measured at too few positions. | An uneven channel may be poorly represented. | Take more regularly spaced depth readings across the channel and calculate a mean. |
+| Bedload stones are chosen because they are easy to reach. | Large or distinctive stones may be overrepresented. | Use a stated selection rule that reduces personal choice, within safe access limits. |
+
+Repeating a method helps assess **reliability**. Checking equipment and reducing reading error improve **accuracy**. Selecting variables and sites that answer the question improves **validity**. More repeats cannot repair a method that measures the wrong thing.
+
 ## High-yield checklist
 
 - Learn both enquiry questions exactly.
@@ -149,3 +200,8 @@ Example: “A single pedestrian count may reflect a temporary event, so repeat i
 - Use cautious language where results “generally” or “tended to” change.
 - Do not invent scores, sites, intervals, equipment choices or anomalies.
 - Make every improvement specific and explain its effect on evidence quality.
+
+## Sources
+
+- [OCR: Geography A fieldwork requirements](https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/).
+- Confirmed Liverpool and River Alyn school accounts retained in this topic’s Internal Sources folder.

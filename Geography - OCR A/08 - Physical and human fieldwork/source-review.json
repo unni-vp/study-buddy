@@ -1,0 +1,30 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: fieldwork enquiry process; confirmed Liverpool and River Alyn school accounts",
+  "sections_refined": [
+    "The enquiry process",
+    "Human fieldwork: Liverpool",
+    "Physical fieldwork: River Alyn",
+    "Writing fieldwork answers"
+  ],
+  "pmt_references": [],
+  "studyrocket_pages": [],
+  "decisions": [
+    "Kept both supplied school enquiries and findings unchanged. No invented timings, site counts, intervals, readings or confirmed float/meter choice.",
+    "Added data types, risk/ethics, appropriate presentation, causal caution and method-specific evaluation. Discharge is explicitly a possible extension, not an invented measurement.",
+    "PMT indexes provide no standalone fieldwork notes PDF; used the official OCR enquiry requirements and the two school accounts instead of substituting another school’s investigation."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 16,
+    "refined": 0,
+    "after": 36
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

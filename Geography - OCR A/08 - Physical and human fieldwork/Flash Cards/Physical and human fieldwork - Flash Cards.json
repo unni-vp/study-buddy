@@ -166,6 +166,118 @@
         "Use the same equipment and roundness chart consistently.",
         "Calculate a mean size and compare the distribution rather than one stone."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is a hypothesis?",
+      "back": [
+        "A testable prediction about the expected relationship or pattern."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does primary data differ from secondary data?",
+      "back": [
+        "Primary data is collected first-hand for the enquiry. Secondary data already exists and may have different dates, boundaries or methods."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does giving an environmental-quality judgement a number make it fully objective?",
+      "back": [
+        "No. The numerical score can still depend on the observer’s judgement and interpretation of the scale."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why map environmental-quality scores along the Liverpool route?",
+      "back": [
+        "The map preserves location and reveals how scores vary across the town centre, rather than only ranking sites."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What would a positive relationship between pedestrians and quality scores establish?",
+      "back": [
+        "It would show an association in the sampled evidence. It would not prove that pedestrians caused environmental quality to improve."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep pedestrian count durations the same?",
+      "back": [
+        "Counts taken over different lengths of time are not directly comparable unless converted to the same rate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can observers make environmental-quality scores more consistent?",
+      "back": [
+        "Agree clear criteria, practise scoring together and compare interpretations before collecting results."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What limitation is specific to a float velocity method?",
+      "back": [
+        "A float measures a surface route affected by local flow, wind or obstacles. It does not directly give the mean velocity across the whole channel."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should River Alyn results keep local exceptions?",
+      "back": [
+        "Obstacles, channel shape and other local conditions can produce genuine variation around an overall downstream trend."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How could suitable width and depth readings estimate cross-sectional area?",
+      "back": [
+        "Multiply width by mean depth for an approximately rectangular section. The result is in square metres if both lengths are in metres."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How is discharge calculated from area and mean velocity?",
+      "back": [
+        "Discharge = cross-sectional area × mean velocity, giving cubic metres per second when using m² and m/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can repeating a flawed method fail to improve validity?",
+      "back": [
+        "Repeats may give consistent results while the method still fails to measure what the enquiry asks."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is choosing the easiest stones a poor bedload sample?",
+      "back": [
+        "It can systematically favour particular sizes or shapes. A stated selection rule reduces personal choice."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What ethical safeguards matter in a questionnaire?",
+      "back": [
+        "Explain its purpose, obtain informed consent, respect privacy and allow people to refuse or stop."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should be done when the school account gives no numerical results?",
+      "back": [
+        "Use the confirmed qualitative findings. Do not invent figures, exact intervals, count durations or anomalies."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a fieldwork improvement explain its effect?",
+      "back": [
+        "Naming a change alone does not show its value. Explain which weakness it addresses and how it improves the evidence."
+      ]
     }
   ]
 }
