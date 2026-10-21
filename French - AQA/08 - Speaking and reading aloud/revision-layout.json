@@ -5,7 +5,7 @@
       "id": "short",
       "title": "Role-play and reading aloud",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-speech",
       "sections": [
         {
           "heading": "The speaking tasks"
@@ -22,7 +22,7 @@
       "id": "conversation",
       "title": "Photos and conversation",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-camera",
       "sections": [
         {
           "heading": "Describing both photos"
