@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "A reaction warms the surrounding solution. Is it exothermic or endothermic?",
+      "back": [
+        "Exothermic."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the type of reaction that takes energy from its surroundings.",
+      "back": [
+        "Endothermic."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What name is given to the minimum energy that particles need to react when they collide?",
+      "back": [
+        "Activation energy."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Are ordinary alkaline cells rechargeable or non-rechargeable?",
+      "back": [
+        "Non-rechargeable."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Four 1.5 V cells are connected in series in the same direction. What is the total voltage?",
+      "back": [
+        "6.0 V."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the overall chemical product of a hydrogen fuel cell?",
+      "back": [
+        "Water."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why the surroundings become colder during an endothermic reaction.",
+      "back": [
+        "Energy is **transferred from the surroundings to the reacting chemicals**.",
+        "The surroundings lose thermal energy, so their temperature falls."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the energy changes associated with breaking and forming chemical bonds.",
+      "back": [
+        "**Breaking bonds takes in energy**.",
+        "**Forming bonds releases energy**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An exothermic reaction transfers energy to the surroundings. Explain why this does not break the law of conservation of energy.",
+      "back": [
+        "The products have **less energy than the reactants**.",
+        "The decrease equals the energy transferred to the surroundings; energy is **transferred, not created**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is a polystyrene cup with a lid useful for measuring temperature changes?",
+      "back": [
+        "It **reduces energy transfer between the mixture and the surroundings**.",
+        "The measured temperature change is therefore closer to that caused by the reaction."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A solution changes from 22.4 °C to 17.1 °C. Calculate the temperature change and classify the process.",
+      "back": [
+        "Change = 17.1 − 22.4 = **−5.3 °C**.",
+        "**Endothermic**, because the surrounding solution cools."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a rechargeable cell is restored for further use.",
+      "back": [
+        "An **external electrical current** is supplied.",
+        "This **reverses the chemical reactions**, restoring reactants."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State two factors that affect the voltage produced by a chemical cell.",
+      "back": [
+        "The **electrode materials**.",
+        "The **electrolyte used**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one exothermic reaction and one endothermic reaction.",
+      "back": [
+        "Combustion is **exothermic**.",
+        "Thermal decomposition is **endothermic**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "On an energy profile, reactants are at 70 kJ, the peak is at 160 kJ and products are at 30 kJ, using the same reference scale. Calculate activation energy and overall energy change, then classify the reaction.",
+      "back": [
+        "Activation energy = 160 − 70 = **90 kJ**.",
+        "Overall change = 30 − 70 = **−40 kJ**.",
+        "**Exothermic**, because the products are lower in energy."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For CH₄ + 2O₂ → CO₂ + 2H₂O, state the numbers and types of bonds broken and formed.",
+      "back": [
+        "Break **four C–H bonds and two O=O bonds**.",
+        "Form **two C=O bonds** in carbon dioxide.",
+        "Form **four O–H bonds** across the two water molecules."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the energy change for H₂ + Cl₂ → 2HCl. Bond energies: H–H 436, Cl–Cl 243, H–Cl 431 kJ/mol.",
+      "back": [
+        "Bonds broken: 436 + 243 = **679 kJ**.",
+        "Bonds formed: 2 × 431 = **862 kJ**.",
+        "Change = 679 − 862 = **−183 kJ** for the molar quantities in the equation."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A best-fit line on a highest-temperature versus solid-mass graph passes through (0.50 g, 24.0 °C) and (2.00 g, 36.0 °C). Calculate its gradient and state the unit.",
+      "back": [
+        "Temperature difference = 36.0 − 24.0 = **12.0 °C**.",
+        "Mass difference = 2.00 − 0.50 = **1.50 g**.",
+        "Gradient = 12.0/1.50 = **8.0 °C/g**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A student changes the test metal electrode while measuring cell voltage. State three conditions to control: one for the electrolyte, one for temperature and one for the reference electrode.",
+      "back": [
+        "Keep the **electrolyte type and concentration** the same.",
+        "Keep the **electrolyte temperature** the same.",
+        "Use the **same reference electrode and lead connections** throughout."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "With a fixed copper reference and lead convention, a more positive reading means the test metal is more reactive than copper. Metals A, B and C give +1.2 V, +0.4 V and −0.2 V. Order A, B, C and copper by reactivity and explain.",
+      "back": [
+        "**A > B > copper > C**.",
+        "A and B are more reactive than copper; A has the larger positive reading under the stated convention.",
+        "C has reversed polarity and is **less reactive than copper**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Give the balanced overall equation for a hydrogen fuel cell and identify what is oxidised and reduced.",
+      "back": [
+        "**2H₂ + O₂ → 2H₂O**.",
+        "Hydrogen is **oxidised**, losing electrons.",
+        "Oxygen is **reduced**, gaining electrons."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Balance this alkaline fuel-cell half-equation: O₂ + __H₂O + __e⁻ → __OH⁻. Explain whether it is oxidation or reduction.",
+      "back": [
+        "**O₂ + 2H₂O + 4e⁻ → 4OH⁻**.",
+        "Four electrons are gained, so it is **reduction**.",
+        "Both sides contain four O atoms and four H atoms and have total charge −4."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "For H₂ + Br₂ → 2HBr, the energy change is −103 kJ for the molar quantities in the equation. H–H bond energy is 436 and Br–Br is 193 kJ/mol. Calculate H–Br bond energy.",
+      "back": [
+        "Energy to break reactant bonds = 436 + 193 = **629 kJ**.",
+        "Let H–Br bond energy = x; two bonds form, releasing **2x**.",
+        "629 − 2x = −103, so 2x = 732.",
+        "**x = 366 kJ/mol**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Draw an exothermic reaction profile. Label the axes, reactants, products, activation energy and overall energy change.",
+      "back": [
+        "Vertical axis: **energy**; horizontal: **progress of reaction**.",
+        "Products are **lower than reactants**, joined by a curved peak.",
+        "Activation energy runs **from reactant level to the peak**.",
+        "Overall change runs **between reactant and product levels**. The left-hand profile below shows this."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Calculate the energy change for CH₄ + 2O₂ → CO₂ + 2H₂O and explain its sign. Bond energies in kJ/mol: C–H 413, O=O 498, C=O 805, O–H 464.",
+      "back": [
+        "Breaking: (4 × 413) + (2 × 498) = **2,648 kJ**.",
+        "Forming: (2 × 805) + (4 × 464) = **3,466 kJ**.",
+        "Change = 2,648 − 3,466 = **−818 kJ** for the molar equation quantities.",
+        "It is **exothermic**: forming bonds releases more energy than breaking bonds requires."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A student uses an uninsulated beaker, does not stir and takes only one temperature reading long after mixing. Suggest improvements and explain why they help.",
+      "back": [
+        "Use an **insulated cup and lid** to reduce energy transfer to the surroundings.",
+        "**Stir consistently** to make mixture temperature more uniform.",
+        "Record promptly at regular intervals to detect the **maximum or minimum**, rather than missing it.",
+        "Repeat and average to reduce the effect of random variation, keeping the starting conditions the same."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Write both acidic hydrogen fuel-cell half-equations, using four electrons in each, and show how they give the overall equation.",
+      "back": [
+        "Oxidation: **2H₂ → 4H⁺ + 4e⁻**.",
+        "Reduction: **O₂ + 4H⁺ + 4e⁻ → 2H₂O**.",
+        "Add and **cancel 4H⁺ and 4e⁻** from both sides.",
+        "Overall: **2H₂ + O₂ → 2H₂O**."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Where is reverse activation energy measured on a reaction profile?",
+      "back": [
+        "From the product energy level up to the same reaction peak."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a reaction be exothermic despite needing a spark?",
+      "back": [
+        "Yes. Activation energy is needed to start it, while the overall reaction transfers energy to the surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does counting formed and broken bonds alone not determine energy change?",
+      "back": [
+        "Different bonds have different energies. The totals of those energies must be compared."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many O–H bonds form in CH₄ + 2O₂ → CO₂ + 2H₂O?",
+      "back": [
+        "Four, because each of the two water molecules has two O–H bonds."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why balance an equation before doing a bond-energy calculation?",
+      "back": [
+        "Its coefficients determine how many complete molecules and therefore how many bonds are involved."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is the largest temperature rise not necessarily the largest energy change per mole?",
+      "back": [
+        "Reacting amounts and the mass being warmed may differ. A fair comparison needs a common basis."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do repeats not correct heat loss from a reaction cup?",
+      "back": [
+        "The same loss can occur systematically in every trial. Insulation and prompt measurement address its cause."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does reversing voltmeter leads do to a cell reading?",
+      "back": [
+        "It reverses the sign, indicating opposite measurement polarity rather than negative stored energy."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does using more electrode material necessarily increase cell voltage?",
+      "back": [
+        "No. It may extend operating time, while voltage depends on the electrode and electrolyte chemistry."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "In which direction do electrons flow through the external circuit of a working cell?",
+      "back": [
+        "From the negative electrode towards the positive electrode."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What reaction always defines an anode?",
+      "back": [
+        "Oxidation: loss of electrons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the electrode signs in a working hydrogen fuel cell?",
+      "back": [
+        "The hydrogen anode is negative; the oxygen cathode is positive."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the anode sign differ between a fuel cell and electrolysis?",
+      "back": [
+        "A fuel cell supplies electrical energy from a reaction, whereas electrolysis is driven by an external supply. Anode still means oxidation in both."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a water-only exhaust insufficient evidence that hydrogen is carbon-free overall?",
+      "back": [
+        "Hydrogen production, electricity supply, equipment manufacture and transport may cause emissions."
+      ]
+    }
+  ]
+}

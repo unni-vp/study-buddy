@@ -1,0 +1,73 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.5",
+  "sections_refined": [
+    "Reaction profiles and activation energy",
+    "Bond energies",
+    "Required practical: temperature changes",
+    "Cells and batteries",
+    "Hydrogen fuel cells"
+  ],
+  "pmt_references": [
+    {
+      "title": "5.1. Exothermic and endothermic reactions",
+      "topic": "energy-changes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/5-Energy-Changes/Summary/5.1. Exothermic and endothermic reactions.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/energy-changes/",
+      "selection": "Summary Notes",
+      "file": "energy-changes-5-1-exothermic-and-endothermic-reactions.pdf",
+      "pages": 3,
+      "sha256": "8901c3c256e5af1f011ef640e93f7c5b38aa26b0a85d77f49d3aebeb14d4df99",
+      "local_path": "Reference Materials\\PMT - Summary 5.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed both PMT summaries and SR energy content, preserving all profiles, calculations, calorimetry and fuel-cell diagrams. Added reverse activation energy, bond-count reasoning, thermal comparison limits and cell-polarity explanation. Rejected SR energy-destroyed wording, bond-number shortcut and wrong ion-travel direction; clarified fuel-cell electrode signs rather than importing the confused annotations in PMT."
+        }
+      ]
+    },
+    {
+      "title": "5.2. Chemical cells and fuel cells (chemistry only)",
+      "topic": "energy-changes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/5-Energy-Changes/Summary/5.2. Chemical cells and fuel cells (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/energy-changes/",
+      "selection": "Summary Notes",
+      "file": "energy-changes-5-2-chemical-cells-and-fuel-cells-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "f9196eacd2499d163062c69c947e7e64667ca9cde563921198c9acb49304f061",
+      "local_path": "Reference Materials\\PMT - Summary 5.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed both PMT summaries and SR energy content, preserving all profiles, calculations, calorimetry and fuel-cell diagrams. Added reverse activation energy, bond-count reasoning, thermal comparison limits and cell-polarity explanation. Rejected SR energy-destroyed wording, bond-number shortcut and wrong ion-travel direction; clarified fuel-cell electrode signs rather than importing the confused annotations in PMT."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Energy Changes",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-energy-changes/energy-changes",
+      "file": "energy-changes.txt",
+      "words": 989
+    }
+  ],
+  "decisions": [
+    "Reviewed both PMT summaries and SR energy content, preserving all profiles, calculations, calorimetry and fuel-cell diagrams. Added reverse activation energy, bond-count reasoning, thermal comparison limits and cell-polarity explanation. Rejected SR energy-destroyed wording, bond-number shortcut and wrong ion-travel direction; clarified fuel-cell electrode signs rather than importing the confused annotations in PMT.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 27,
+    "added": 14,
+    "refined": 0,
+    "after": 41
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -37,6 +37,12 @@ The **activation energy** is the minimum energy that colliding particles need fo
 
 Do not label the full height from the graph baseline as activation energy. Do not confuse the peak with the product energy level.
 
+### Forward and reverse directions
+
+On the same reaction profile, the forward activation energy is measured from the **reactants to the peak**. The reverse activation energy is measured from the **products to that peak**.
+
+If the products are lower in energy, the forward reaction is exothermic and the reverse reaction is endothermic. The reverse direction has the larger activation-energy rise in that profile. A high starting barrier does not prevent the forward reaction transferring energy out overall.
+
 ## Bond energies
 
 **Breaking bonds requires energy.** Energy must be supplied to overcome the attraction holding atoms together.
@@ -81,6 +87,12 @@ For the same reaction, suppose overall change is −183 kJ and H–Cl bond energ
 
 The chemical bonds themselves do not release energy when broken. The release happens when the **new bonds form**.
 
+### Count energy, not just the number of bonds
+
+Breaking two weak bonds can require less energy than breaking one very strong bond. Whether a reaction is exothermic depends on the **total bond energies**, not merely whether more bonds are formed than broken.
+
+First balance the equation, then count bonds in the displayed molecules. For **CH₄ + 2O₂ → CO₂ + 2H₂O**, the reactants contain four C–H bonds and two O=O bonds. The products contain two C=O bonds and four O–H bonds. The coefficients multiply complete molecules and therefore their complete bond counts.
+
 ## Required practical: temperature changes
 
 
@@ -108,6 +120,12 @@ As acid concentration rises, more acid can react and the temperature rise may in
 
 The same principles apply to displacement reactions, acid–metal reactions and acid–carbonate reactions. If gases form, allow them to escape safely; keep flames away from hydrogen. Explain each control in relation to the variable you are investigating.
 
+### Compare temperature rises on the same basis
+
+A temperature rise depends on the quantity reacting and the amount of material being warmed. A larger rise does not automatically mean more energy is transferred per mole if the solution volumes or reacting amounts differ.
+
+Keep volumes and starting temperatures controlled when investigating one variable. Heat transferred to the cup or surrounding air can make the measured rise smaller than the ideal rise. Insulation reduces this problem; repeating trials alone cannot remove it.
+
 ## Cells and batteries
 
 A chemical cell converts energy from a chemical reaction into **electrical energy**. A simple cell uses **two different metals in contact with an electrolyte**, connected through an external circuit.
@@ -130,6 +148,12 @@ In a given series of measurements, the polarity and voltage help order metal rea
 | **Rechargeable** | An external electrical current **reverses the chemical reactions**, restoring reactants |
 
 Compare lifetime cost, capacity, mass, recharge time, replacement frequency and disposal. Do not try to recharge a cell designed for single use.
+
+### Polarity and energy supply
+
+A chemical cell drives electrons around the external circuit from its **negative electrode towards its positive electrode**. A voltmeter reverses sign if its leads are reversed. The changed sign describes the measurement direction, not a negative quantity of stored energy.
+
+Using more electrode material may allow a cell to operate for longer, but it does not necessarily increase voltage. Voltage depends on the chemical system. Connecting cells in series adds their voltages only when their orientations are taken into account.
 
 ## Hydrogen fuel cells
 
@@ -168,3 +192,15 @@ These also sum to 2H₂ + O₂ → 2H₂O. Do not mix an acidic half-equation wi
 | Resources and lifetime | Catalysts and equipment have costs and environmental impacts | Manufacture uses materials and energy; finite lifetime and recycling matter |
 
 A hydrogen fuel cell is **not automatically carbon-free overall** just because it makes only water during use. Evaluate hydrogen production, electricity generation, storage, efficiency and lifespan using the data supplied. Both options have advantages in different situations.
+
+### Electrode names describe reactions, not a fixed sign
+
+**Oxidation occurs at the anode** and **reduction at the cathode**. In a working hydrogen fuel cell, the hydrogen electrode is the **negative anode**, where electrons are released into the external circuit. The oxygen electrode is the **positive cathode**, where electrons are accepted.
+
+This differs from the signs in electrolysis, where an external supply drives the reaction: its anode is positive and cathode negative. Remembering the reaction at each electrode avoids applying an electrolysis sign rule to every cell.
+
+## Sources
+
+- [PMT: 5.1. Exothermic and endothermic reactions](../Reference Materials/PMT - Summary 5.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 5.2. Chemical cells and fuel cells (chemistry only)](../Reference Materials/PMT - Summary 5.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Energy Changes](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-energy-changes/energy-changes). Cross-checked against the project specification.

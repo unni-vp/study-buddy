@@ -228,6 +228,104 @@
         "Add and **cancel 4H⁺ and 4e⁻** from both sides.",
         "Overall: **2H₂ + O₂ → 2H₂O**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Where is reverse activation energy measured on a reaction profile?",
+      "back": [
+        "From the product energy level up to the same reaction peak."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a reaction be exothermic despite needing a spark?",
+      "back": [
+        "Yes. Activation energy is needed to start it, while the overall reaction transfers energy to the surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does counting formed and broken bonds alone not determine energy change?",
+      "back": [
+        "Different bonds have different energies. The totals of those energies must be compared."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many O–H bonds form in CH₄ + 2O₂ → CO₂ + 2H₂O?",
+      "back": [
+        "Four, because each of the two water molecules has two O–H bonds."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why balance an equation before doing a bond-energy calculation?",
+      "back": [
+        "Its coefficients determine how many complete molecules and therefore how many bonds are involved."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is the largest temperature rise not necessarily the largest energy change per mole?",
+      "back": [
+        "Reacting amounts and the mass being warmed may differ. A fair comparison needs a common basis."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do repeats not correct heat loss from a reaction cup?",
+      "back": [
+        "The same loss can occur systematically in every trial. Insulation and prompt measurement address its cause."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does reversing voltmeter leads do to a cell reading?",
+      "back": [
+        "It reverses the sign, indicating opposite measurement polarity rather than negative stored energy."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does using more electrode material necessarily increase cell voltage?",
+      "back": [
+        "No. It may extend operating time, while voltage depends on the electrode and electrolyte chemistry."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "In which direction do electrons flow through the external circuit of a working cell?",
+      "back": [
+        "From the negative electrode towards the positive electrode."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What reaction always defines an anode?",
+      "back": [
+        "Oxidation: loss of electrons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the electrode signs in a working hydrogen fuel cell?",
+      "back": [
+        "The hydrogen anode is negative; the oxygen cathode is positive."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the anode sign differ between a fuel cell and electrolysis?",
+      "back": [
+        "A fuel cell supplies electrical energy from a reaction, whereas electrolysis is driven by an external supply. Anode still means oxidation in both."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a water-only exhaust insufficient evidence that hydrogen is carbon-free overall?",
+      "back": [
+        "Hydrogen production, electricity supply, equipment manufacture and transport may cause emissions."
+      ]
     }
   ]
 }
