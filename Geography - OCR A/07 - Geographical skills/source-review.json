@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: geographical skills, numerical and statistical skills",
+  "sections_refined": [
+    "Cartographic skills",
+    "Graphical skills",
+    "Numerical and statistical skills"
+  ],
+  "pmt_references": [],
+  "studyrocket_pages": [],
+  "decisions": [
+    "Neither selected PMT GCSE index offers a linked standalone skills or fieldwork notes PDF. No substitute is falsely labelled as an OCR skills source.",
+    "Used the OCR skills checklist directly to fill bearings, cross-sections, histogram, radial/dispersion and cumulative-frequency gaps. Existing case-based graph examples retained."
+  ],
+  "flashcards": {
+    "before": 19,
+    "added": 16,
+    "refined": 0,
+    "after": 35
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

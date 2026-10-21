@@ -155,6 +155,118 @@
         "Use calibrated equipment and record units consistently.",
         "Keep the position in the channel or release method consistent where possible."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How should an eastward bearing be written?",
+      "back": [
+        "090°, measured clockwise from north at the starting point."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does 1 cm represent on a 1:25,000 map?",
+      "back": [
+        "250 m, because 25,000 cm equals 250 m."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must gradient measurements use the same units?",
+      "back": [
+        "A ratio compares like quantities. Convert the horizontal distance to the same unit as the vertical change before dividing."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How is a six-figure reference divided into easting and northing?",
+      "back": [
+        "The first three figures are the easting and the last three are the northing. The third figure in each group estimates tenths within the square."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a cross-section exaggerate slopes?",
+      "back": [
+        "Its vertical scale may be enlarged relative to its horizontal scale. The displayed angle is then steeper than the actual slope."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do histogram bars touch?",
+      "back": [
+        "They represent adjacent intervals of a continuous variable, rather than separate categories."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a dispersion diagram show that a mean hides?",
+      "back": [
+        "Individual values, their clustering and spread, and any unusual observations."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Where is the upper quartile read on a cumulative-frequency graph?",
+      "back": [
+        "At three-quarters of the total frequency. Read across to the curve and down to the value axis."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For 40 observations, which cumulative frequencies locate the quartiles?",
+      "back": [
+        "The lower quartile is at 10 and the upper quartile at 30."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a percentile describe?",
+      "back": [
+        "The value below which a specified percentage of observations lies."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a shortened graph axis be misleading?",
+      "back": [
+        "It can make a small numerical difference look visually large. Check the starting value and scale."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the difference between a 10-point rise from 20% to 30% and its percentage increase?",
+      "back": [
+        "The rise is 10 percentage points. Relative to the starting 20%, it is a 50% increase."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Should an anomaly be deleted simply because it does not fit the trend?",
+      "back": [
+        "No. Check for errors and record local conditions. A genuine unusual observation is evidence, not a reason to alter the dataset."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a large sample still be biased?",
+      "back": [
+        "It may repeatedly sample only one location, time or group and exclude other parts of the population."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a median describe a typical value better than a mean?",
+      "back": [
+        "Extreme values can pull the mean upwards or downwards. The median depends on position in the ordered data."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why compare rates rather than totals between unequal populations?",
+      "back": [
+        "A larger population can produce a larger total without a higher individual risk. A rate allows a more comparable measure."
+      ]
     }
   ]
 }
