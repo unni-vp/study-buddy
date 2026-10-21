@@ -1,0 +1,47 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.6.1–3.6.3",
+  "sources": [
+    {
+      "title": "Cyber Security",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/cyber-security"
+    },
+    {
+      "title": "Social Engineering And Malicious Code",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/social-engineering-and-malicious-code"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Pharming and fake destinations",
+    "Social engineering",
+    "Layered protection and penetration testing"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "cyber-security"
+      ],
+      "decision": "Existing required threats and controls retained. Added an original permissions-test lifecycle and focused cards on limits, supported software, reuse, media and recovery. Did not import fixed password-cracking times or the source quiz’s false claim that penetration testing does not find flaws."
+    },
+    {
+      "pages": [
+        "social-engineering-and-malicious-code"
+      ],
+      "decision": "Added targeted-phishing and independent-contact clarification plus HTTPS limits. Did not import a padlock as proof against fraud, a broad-only definition of phishing, or adware as a named revised requirement. Preserved the required virus/trojan/spyware distinction."
+    }
+  ],
+  "flashcards": {
+    "previous": 28,
+    "added": 19,
+    "refined": 2,
+    "total": 47
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

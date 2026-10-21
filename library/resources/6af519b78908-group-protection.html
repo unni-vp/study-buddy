@@ -39,6 +39,16 @@
 <tr><td>Recovery</td><td>A protected backup restores damaged records.</td><td>Restoring files does not undo confidential data already stolen.</td></tr>
 </table>
 <p>An insider-style test can explore what an ordinary account can reach beyond its intended permissions. An external-style test starts without credentials and investigates access from outside. Both need agreed authorisation and scope.</p>
+<h3>From a test finding to a safer system</h3>
+<p>Suppose an authorised tester using an ordinary staff account can delete payroll records:</p>
+<table>
+<tr><th>Stage</th><th>What should happen?</th></tr>
+<tr><td>Agree the test</td><td>Define which systems and actions are permitted so the test is controlled.</td></tr>
+<tr><td>Record the finding</td><td>Explain that the account has excessive permissions and show the possible consequence.</td></tr>
+<tr><td>Correct the weakness</td><td>Restrict deletion rights to the roles that need them. Changing the password alone does not fix this permission.</td></tr>
+<tr><td>Retest</td><td>Check that ordinary staff can no longer delete the records and that authorised payroll work still functions.</td></tr>
+</table>
+<p>A successful test of one route is not proof that every other route is secure. Review the findings, apply fixes and continue maintaining the system.</p>
 <h2>Applying a security explanation</h2>
 <h3>A fake IT-support call</h3>
 <p><strong>Threat:</strong> blagging. The caller invents an identity to obtain a staff password.</p>

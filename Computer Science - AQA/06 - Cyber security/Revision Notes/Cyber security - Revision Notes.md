@@ -98,6 +98,10 @@ It is like replacing a road sign so drivers who chose the right route arrive at 
 
 The result may look similar, but explain the **different mechanism** when comparing these attacks.
 
+### What a secure-connection symbol tells you
+
+An encrypted connection protects traffic to the website you reached. It does **not prove that the organisation behind that site is honest**. A fraudulent site may also use HTTPS. Check the expected destination and treat certificate warnings seriously, rather than accepting a familiar logo or secure-connection symbol as complete proof of legitimacy.
+
 ## Social engineering
 
 **Social engineering** manipulates people into revealing confidential information or taking actions that help an attacker. It targets human trust rather than relying only on a technical weakness.
@@ -134,6 +138,12 @@ An urgent request to transfer money should be checked through a previously known
 For shouldering, the attacker may not need to send any message or install software. A person watching a PIN entry can obtain the secret directly, so shielding the keypad and checking the surroundings address that particular method.
 
 Strong passwords do not prevent a photographed or disclosed password being used. The response must address how the information is obtained.
+
+### Recognising the mechanism
+
+Phishing is not defined by the number of recipients. A fraudulent message may be sent widely or tailored to one person. A claim such as “your account will close today” creates pressure to act before checking.
+
+An urgent tone is a warning sign, but professional wording does not make a message safe. Check a sensitive request through a contact route you already trust. Do not use the telephone number supplied in the suspicious message to verify that same message.
 
 ## Malware
 
@@ -216,6 +226,19 @@ A test report identifies weaknesses, their consequences and recommended fixes. T
 
 An insider-style test can explore what an ordinary account can reach beyond its intended permissions. An external-style test starts without credentials and investigates access from outside. Both need agreed authorisation and scope.
 
+### From a test finding to a safer system
+
+Suppose an authorised tester using an ordinary staff account can delete payroll records:
+
+| Stage | What should happen? |
+|---|---|
+| Agree the test | Define which systems and actions are permitted so the test is controlled. |
+| Record the finding | Explain that the account has excessive permissions and show the possible consequence. |
+| Correct the weakness | Restrict deletion rights to the roles that need them. Changing the password alone does not fix this permission. |
+| Retest | Check that ordinary staff can no longer delete the records and that authorised payroll work still functions. |
+
+A successful test of one route is not proof that every other route is secure. Review the findings, apply fixes and continue maintaining the system.
+
 ## Applying a security explanation
 
 ### A fake IT-support call
@@ -236,3 +259,5 @@ An insider-style test can explore what an ordinary account can reach beyond its 
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Cyber Security](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/cyber-security). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Social Engineering And Malicious Code](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/social-engineering-and-malicious-code). Coverage reference; checked against the current AQA specification.

@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "basis": "Original revision-note retrieval practice, reviewed against AQA 8525 first exams 2027. Study Rocket used as a coverage reference, not a source of verbatim questions.",
+  "updates": [
+    {
+      "front": "What is penetration testing?",
+      "back": [
+        "An authorised, controlled attempt to find weaknesses by testing how an attacker could gain access. It needs agreed scope, documented findings, corrective action and retesting; the test itself does not repair the weaknesses."
+      ]
+    },
+    {
+      "front": "Explain how checking an email confirmation link can help with account registration.",
+      "back": [
+        "The link or code demonstrates access to the receiving mailbox. This can help confirm registration, but an attacker controlling that mailbox could pass the check too. It is not independent proof of legal identity."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "What is a security vulnerability?",
+      "back": [
+        "A weakness in a system that an attacker could exploit. A patch can fix a known software vulnerability."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can unsupported software remain risky even if all its available updates are installed?",
+      "back": [
+        "The developer may no longer provide fixes for newly discovered weaknesses. Replacing the unsupported software may be necessary."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is reusing one strong password across several accounts risky?",
+      "back": [
+        "If one service exposes that password, an attacker can try it on the other accounts. Strength against guessing does not prevent reuse after theft."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does making a pupil’s password stronger not fix permission to edit everybody’s marks?",
+      "back": [
+        "The excessive access belongs to the account itself. Its permissions must be corrected, regardless of how securely the pupil signs in."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does the principle of giving only necessary access mean in practice?",
+      "back": [
+        "Give each role only the permissions needed for its job. For example, allow a pupil to read their marks without allowing them to change those marks."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What two different data risks can removable media create?",
+      "back": [
+        "It can bring infected files into a system, and it can carry confidential copies out. Lost media can expose those copies if they are readable."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does encrypting a USB drive make a malicious program on it safe to run?",
+      "back": [
+        "No. Encryption protects stored contents if the drive is lost. It does not remove malware or make executing it safe."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a phishing message be written specifically for one person?",
+      "back": [
+        "Yes. Phishing can be targeted or sent widely. Its defining feature is a fraudulent message used to obtain information or provoke an unsafe action."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should you not verify a suspicious request using the number in that request?",
+      "back": [
+        "The number may also belong to the attacker. Use a previously known contact route to check independently."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a familiar logo not prove that a login page is genuine?",
+      "back": [
+        "An attacker can copy the logo and appearance. The expected destination and connection need checking too."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does HTTPS prove that a website’s owner is trustworthy?",
+      "back": [
+        "No. It protects the connection to the reached site. A fraudulent site can still use HTTPS and collect information entered there."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a malicious program be described as both a trojan and spyware?",
+      "back": [
+        "It may disguise itself as useful software, making it a trojan, while secretly collecting activity or keystrokes, which is spyware behaviour."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a trojan have to copy itself like a virus?",
+      "back": [
+        "No. Its defining feature is disguising a malicious purpose as something legitimate. Self-replication is not required."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does passing a CAPTCHA fail to prove?",
+      "back": [
+        "It does not prove the person is the account owner or is trustworthy. It only helps distinguish human activity from automated activity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does an email confirmation actually demonstrate?",
+      "back": [
+        "Access to the mailbox receiving the confirmation link or code. It does not independently establish the person’s legal identity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might biometrics need an alternative access method?",
+      "back": [
+        "Recognition can fail because of conditions or changes affecting the measurement. A usable system needs a suitable recovery route without undermining security."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does an authorised penetration test need agreed limits?",
+      "back": [
+        "The tester must know which systems and actions are permitted so testing remains controlled and within authorisation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should follow a penetration-test report identifying excessive permissions?",
+      "back": [
+        "Correct the permissions and retest. Check that unauthorised actions are blocked while legitimate tasks still work."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do prevention, detection and recovery differ?",
+      "back": [
+        "Prevention reduces an attack route, detection finds a threat, and recovery restores affected data or services. A backup helps recovery but does not undo information already stolen."
+      ]
+    }
+  ]
+}
