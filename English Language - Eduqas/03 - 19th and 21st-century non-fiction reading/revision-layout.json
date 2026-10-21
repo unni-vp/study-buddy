@@ -5,7 +5,7 @@
       "id": "understand",
       "title": "Understand and retrieve",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "Understand the text and the task"
@@ -19,7 +19,7 @@
       "id": "analyse",
       "title": "Analyse and evaluate",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-search",
       "sections": [
         {
           "heading": "Explain how the argument works"
@@ -36,7 +36,7 @@
       "id": "compare",
       "title": "Synthesis and comparison",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-balance",
       "sections": [
         {
           "heading": "Synthesise information from both texts"
