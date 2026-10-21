@@ -5,7 +5,7 @@
       "id": "acts",
       "title": "Story / Acts",
       "description": "Follow the investigation and its final reversal.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "The central idea"
@@ -25,7 +25,7 @@
       "id": "characters",
       "title": "Characters",
       "description": "Connect each person's choices, development and evidence.",
-      "icon": "literature-drama",
+      "icon": "nav-people",
       "sections": [
         {
           "heading": "Arthur Birling"
@@ -51,7 +51,7 @@
       "id": "themes",
       "title": "Themes and dramatic methods",
       "description": "Explore responsibility, power and the audience's response.",
-      "icon": "literature-drama",
+      "icon": "nav-branch",
       "sections": [
         {
           "heading": "Responsibility and social inequality"
@@ -68,7 +68,7 @@
       "id": "writing",
       "title": "Essay writing",
       "description": "Use extract evidence and the wider play to build an argument.",
-      "icon": "literature-pen",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "Building an answer"
