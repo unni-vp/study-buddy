@@ -240,6 +240,104 @@
         "Left total charge is −4; right total charge is also −4 from the four electrons.",
         "Electrons are lost, so this is **oxidation**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What ranking follows if A displaces B but C displaces A?",
+      "back": [
+        "C > A > B, from most to least reactive."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might no visible reaction not fully establish low reactivity?",
+      "back": [
+        "An oxide layer, unsuitable conditions or a slow rate can conceal the expected reaction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does magnesium’s reaction with steam differ from its very slow cold-water reaction?",
+      "back": [
+        "With steam it can form magnesium oxide and hydrogen. Conditions must be stated when comparing observations."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does pH alone identify the total amount of acid in a container?",
+      "back": [
+        "No. It relates to hydrogen-ion concentration; total amount also depends on solution volume."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is H⁺ + OH⁻ → H₂O not a redox equation?",
+      "back": [
+        "It shows neutralisation without a change involving electron gain or loss."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to a titre if the endpoint is overshot?",
+      "back": [
+        "It becomes too large because more titrant than required has been added."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What titre results from readings of 1.20 and 24.80 cm³?",
+      "back": [
+        "23.60 cm³, calculated as final minus initial reading."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must every indicator endpoint be pH 7?",
+      "back": [
+        "No. Choose a suitable indicator for the reaction; its colour-change endpoint need not be exactly pH 7."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the two checks on a balanced half-equation?",
+      "back": [
+        "The atom counts and total charge must balance independently."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are two electrons needed in Cu²⁺ + 2e⁻ → Cu?",
+      "back": [
+        "Their two negative charges cancel the ion’s +2 charge, forming a neutral copper atom."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is the chlorine half-equation written with Cl₂?",
+      "back": [
+        "Elemental chlorine gas is diatomic, so two chloride ions form one Cl₂ molecule while losing two electrons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must electron numbers match before half-equations are combined?",
+      "back": [
+        "The electrons lost by one reaction must equal those gained by the other, allowing them to cancel."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a copper anode change electrolysis predictions for copper sulfate?",
+      "back": [
+        "It can react and dissolve into copper ions, rather than acting as an inert surface producing oxygen."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does cryolite not remove the need for electricity in aluminium extraction?",
+      "back": [
+        "It lowers the operating temperature, reducing heating needs. Electrical energy is still required to drive electrolysis."
+      ]
     }
   ]
 }

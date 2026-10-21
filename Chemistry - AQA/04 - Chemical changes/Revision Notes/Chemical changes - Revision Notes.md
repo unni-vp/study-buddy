@@ -29,6 +29,12 @@ Ionic equation: **Zn + Cu²⁺ → Zn²⁺ + Cu**. Sulfate ions are unchanged **
 
 If A displaces B but C displaces A, the order is **C > A > B**. Use several results, not just a single observation.
 
+### Predicting from several observations
+
+Suppose metal A displaces B from its salt, but cannot displace C. This supports **C > A > B** in reactivity. A missing visible reaction needs care: an oxide coating, unsuitable conditions or a slow rate can hide what the simple ranking predicts.
+
+Magnesium reacts only very slowly with cold water. With **steam**, it can form magnesium oxide and hydrogen. The changed conditions affect the reaction, so do not use a cold-water observation as a universal statement about every reaction with water.
+
 ## Oxidation, reduction and extraction
 
 | Description | Oxidation | Reduction |
@@ -80,6 +86,12 @@ Neutralisation is like matching pairs: hydrogen ions and hydroxide ions combine.
 For comparable solutions at the same concentration, a stronger acid produces more H⁺ ions and has a **lower pH**. Each decrease of one pH unit means **10 times greater H⁺ concentration**.
 
 Going from pH 4 to pH 2 is a decrease of two units, so the H⁺ concentration is 10 × 10 = **100 times greater**.
+
+### Strength, concentration and acid amount
+
+A solution can have low pH because it contains many hydrogen ions, but pH alone does not tell you the **total amount of acid** in the container. Volume matters too. A small volume of concentrated solution can contain fewer moles than a much larger dilute sample.
+
+Neutralisation of an acid by an alkali involves H⁺ and OH⁻ forming water. It is not automatically a redox reaction: no electron gain or loss is shown in **H⁺ + OH⁻ → H₂O**.
 
 ## Acid reactions and salt names
 
@@ -145,6 +157,16 @@ A flask may be rinsed with distilled water because added water does not change i
 
 For pure sodium chloride crystals, repeat using the exact acid and alkali volumes **without indicator**, then concentrate and crystallise. Check the balanced equation: sulfuric acid needs a different ratio.
 
+### Why an extra drop matters
+
+Near the endpoint, a small addition can change the indicator rapidly. Overshooting gives a titre that is too large. Add dropwise, swirl and use a white background so the first permanent change can be judged consistently.
+
+A titre is a **difference**, not simply the final scale reading. For an initial reading of **1.20 cm³** and a final reading of **24.80 cm³**:
+
+**Titre = 24.80 − 1.20 = 23.60 cm³**
+
+The indicator endpoint marks its colour change. It is chosen to be close to the exact reacting point, but the endpoint is not necessarily pH 7 for every acid–alkali combination.
+
 ## Electrolysis and electrode reactions
 
 **Electrolysis uses an electric current to break down an ionic compound.** The electrolyte must be **molten or dissolved** so its ions can move. A solid ionic lattice cannot conduct because its ions are fixed.
@@ -168,6 +190,18 @@ For molten lead bromide:
 
 This is a theoretical example; lead compounds and bromine require particular precautions. Follow the school’s safer practical choice rather than attempting it independently.
 
+### Check atoms and charge independently
+
+For **Cu²⁺ + 2e⁻ → Cu**:
+
+- One copper atom is represented on each side.
+- The left charge is **+2 − 2 = 0**; the right charge is **0**.
+- Electrons are gained, so the reaction is **reduction**.
+
+For **2Cl⁻ → Cl₂ + 2e⁻**, two chlorine atoms occur on each side, and both sides have total charge **−2**. Chlorine forms as a diatomic molecule, so writing Cl as the final gas would be incomplete.
+
+When combining half-equations, multiply them so the electrons lost and gained match, then cancel electrons. They transfer between reactants through the circuit; they do not accumulate as a final product of the overall reaction.
+
 ## Aqueous electrolysis
 
 Water introduces **H⁺ and OH⁻ ions**, so there are competing products. For a solution of one ionic compound using **inert electrodes**:
@@ -190,6 +224,10 @@ Useful half-equations:
 - **4OH⁻ → O₂ + 2H₂O + 4e⁻**.
 
 Do not produce sodium metal from sodium chloride **solution**: hydrogen forms instead. Molten sodium chloride gives sodium and chlorine. The molten/aqueous distinction changes the answer.
+
+### Use the stated electrode conditions
+
+The usual product rules assume **inert electrodes**. An electrode that reacts can change the products. In particular, a copper anode in copper sulfate can dissolve to form copper ions, rather than producing oxygen as an inert anode would. Use any electrode information supplied before applying the simple prediction table.
 
 ## Required practical: aqueous electrolysis
 
@@ -224,3 +262,14 @@ Aluminium is above carbon in the reactivity series. Carbon therefore cannot remo
 **2O²⁻ → O₂ + 4e⁻**
 
 **Why the anodes need replacing:** the oxygen reacts with the hot **carbon anodes**, forming carbon dioxide. Carbon is used up, so the anodes wear away.
+
+## Sources
+
+- [PMT: 4.1. Reactivity of metals](../Reference Materials/PMT - Summary 4.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 4.2. Reactions of acids](../Reference Materials/PMT - Summary 4.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 4.3. Electrolysis](../Reference Materials/PMT - Summary 4.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Acids And Alkalis](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/acids-and-alkalis). Cross-checked against the project specification.
+- [Study Rocket: Electrolysis](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/electrolysis). Cross-checked against the project specification.
+- [Study Rocket: Metal Oxides](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/metal-oxides). Cross-checked against the project specification.
+- [Study Rocket: Metal Reactions](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/metal-reactions). Cross-checked against the project specification.
+- [Study Rocket: More On Acids](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/more-on-acids). Cross-checked against the project specification.

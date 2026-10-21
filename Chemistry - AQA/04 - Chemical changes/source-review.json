@@ -1,0 +1,114 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.4",
+  "sections_refined": [
+    "Reactivity and displacement",
+    "Acids, alkalis and pH",
+    "Required practical: titration",
+    "Electrolysis and electrode reactions",
+    "Aqueous electrolysis"
+  ],
+  "pmt_references": [
+    {
+      "title": "4.1. Reactivity of metals",
+      "topic": "chemical-changes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/4-Chemical-Changes/Summary/4.1. Reactivity of metals.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-changes/",
+      "selection": "Summary Notes",
+      "file": "chemical-changes-4-1-reactivity-of-metals.pdf",
+      "pages": 3,
+      "sha256": "76b33fe5d6c0e7baa3556b76130dad4b82d927d5346feab34b94afe852c7ac45",
+      "local_path": "Reference Materials\\PMT - Summary 4.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and all matching SR pages. Retained full salt, titration and electrolysis methods with diagrams. Developed ranking evidence, steam conditions, acid amount, endpoints, charge balancing and electrode assumptions. Rejected PMT copper-reacts-slowly-with-dilute-acid table, water-final burette rinse, 100 cm³ starting requirement and generic single-halogen half-equation. Standard aqueous product rules remain explicitly scoped to inert electrodes."
+        }
+      ]
+    },
+    {
+      "title": "4.2. Reactions of acids",
+      "topic": "chemical-changes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/4-Chemical-Changes/Summary/4.2. Reactions of acids .pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-changes/",
+      "selection": "Summary Notes",
+      "file": "chemical-changes-4-2-reactions-of-acids.pdf",
+      "pages": 4,
+      "sha256": "60f91b9d707de54e2584dd3f8602c9f07718558a92b422db2e0ab7e5320f0832",
+      "local_path": "Reference Materials\\PMT - Summary 4.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and all matching SR pages. Retained full salt, titration and electrolysis methods with diagrams. Developed ranking evidence, steam conditions, acid amount, endpoints, charge balancing and electrode assumptions. Rejected PMT copper-reacts-slowly-with-dilute-acid table, water-final burette rinse, 100 cm³ starting requirement and generic single-halogen half-equation. Standard aqueous product rules remain explicitly scoped to inert electrodes."
+        }
+      ]
+    },
+    {
+      "title": "4.3. Electrolysis",
+      "topic": "chemical-changes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/4-Chemical-Changes/Summary/4.3. Electrolysis .pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-changes/",
+      "selection": "Summary Notes",
+      "file": "chemical-changes-4-3-electrolysis.pdf",
+      "pages": 3,
+      "sha256": "ba98d688daf94c02806ab54c1ff433dfad85d8fec3d0655de7b77aef89cb68c5",
+      "local_path": "Reference Materials\\PMT - Summary 4.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and all matching SR pages. Retained full salt, titration and electrolysis methods with diagrams. Developed ranking evidence, steam conditions, acid amount, endpoints, charge balancing and electrode assumptions. Rejected PMT copper-reacts-slowly-with-dilute-acid table, water-final burette rinse, 100 cm³ starting requirement and generic single-halogen half-equation. Standard aqueous product rules remain explicitly scoped to inert electrodes."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Acids And Alkalis",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/acids-and-alkalis",
+      "file": "acids-and-alkalis.txt",
+      "words": 1374
+    },
+    {
+      "title": "Electrolysis",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/electrolysis",
+      "file": "electrolysis.txt",
+      "words": 627
+    },
+    {
+      "title": "Metal Oxides",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/metal-oxides",
+      "file": "metal-oxides.txt",
+      "words": 515
+    },
+    {
+      "title": "Metal Reactions",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/metal-reactions",
+      "file": "metal-reactions.txt",
+      "words": 605
+    },
+    {
+      "title": "More On Acids",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-chemical-changes/more-on-acids",
+      "file": "more-on-acids.txt",
+      "words": 649
+    }
+  ],
+  "decisions": [
+    "Reviewed all three PMT subsections and all matching SR pages. Retained full salt, titration and electrolysis methods with diagrams. Developed ranking evidence, steam conditions, acid amount, endpoints, charge balancing and electrode assumptions. Rejected PMT copper-reacts-slowly-with-dilute-acid table, water-final burette rinse, 100 cm³ starting requirement and generic single-halogen half-equation. Standard aqueous product rules remain explicitly scoped to inert electrodes.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 29,
+    "added": 14,
+    "refined": 0,
+    "after": 43
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
