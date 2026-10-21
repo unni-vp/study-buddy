@@ -156,3 +156,10 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
 .reading p:has(>img[src$="/tcp-ip-device-communication.svg"]){width:100%;max-width:740px;margin:22px auto;min-width:0}
 .reading img[src$="/tcp-ip-device-communication.svg"]{display:block;width:100%;max-width:740px;height:auto;margin:0 auto}
 @media screen and (max-width:720px){.reading p:has(>img[src$="/tcp-ip-device-communication.svg"]){overflow-x:auto;overscroll-behavior-x:contain}.reading img[src$="/tcp-ip-device-communication.svg"]{min-width:640px}}
+/* Keep comparison tables readable on narrow science and geography readers. */
+@media screen and (max-width:720px){
+ body:is(.subject-geography,.subject-biology,.subject-chemistry,.subject-physics) .reading table{font-size:14px}
+ body:is(.subject-geography,.subject-biology,.subject-chemistry,.subject-physics) .reading table:not(.energy-choices){display:block;max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;font-size:14px}
+ body:is(.subject-geography,.subject-biology,.subject-chemistry,.subject-physics) .reading th,
+ body:is(.subject-geography,.subject-biology,.subject-chemistry,.subject-physics) .reading td{min-width:6.5rem;max-width:22rem;overflow-wrap:normal;word-break:normal}
+}
