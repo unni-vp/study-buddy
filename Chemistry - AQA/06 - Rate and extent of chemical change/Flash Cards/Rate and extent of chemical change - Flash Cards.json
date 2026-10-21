@@ -265,6 +265,104 @@
         "Reducing pressure favours the side with **more gas moles**, two on the left versus one on the right.",
         "This decreases B’s equilibrium proportion; the two changes oppose each other, so no combined amount can be calculated without more data."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can smaller marble chips react faster but produce the same final gas volume?",
+      "back": [
+        "They expose more surface, increasing collision frequency, while the same limiting reactant amount sets the final product."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can changing acid concentration affect both rate and final amount?",
+      "back": [
+        "Yes. It changes particle concentration and, at fixed volume, the amount of acid. If acid limits the reaction, final product may change too."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What two features distinguish speed and amount on a product–time graph?",
+      "back": [
+        "The gradient gives rate; the final height gives total product measured."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does heating lower activation energy?",
+      "back": [
+        "No. It raises the fraction of particles with sufficient energy. A catalyst lowers activation energy through a different pathway."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a higher concentration increase rate without faster particles?",
+      "back": [
+        "There are more reactant particles per unit volume, so collisions occur more often at the same temperature."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must concentration curves meet when equilibrium is reached?",
+      "back": [
+        "No. They become constant; forward and reverse rates, rather than concentrations, become equal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does equilibrium appear on a rate–time graph?",
+      "back": [
+        "The forward and reverse rates reach the same value and remain equal under unchanged conditions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a closed system have to be thermally insulated?",
+      "back": [
+        "No. It prevents matter escaping but can still exchange energy."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does pressure not shift H₂ + I₂ ⇌ 2HI by gas-mole count?",
+      "back": [
+        "There are equal gas totals: two moles on each side for the equation quantities."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which particles count in pressure reasoning for CaCO₃(s) ⇌ CaO(s) + CO₂(g)?",
+      "back": [
+        "Only CO₂ is gaseous. Solids are not included in the gas-mole count."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does equilibrium adjustment not necessarily restore every original concentration?",
+      "back": [
+        "The system partially opposes the disturbance and reaches a new equilibrium, rather than undoing the change completely."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a light sensor useful in a disappearing-cross experiment?",
+      "back": [
+        "It can apply a consistent light threshold, reducing subjective differences in judging when the cross disappears."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a gas leak affect a curve as well as the final volume?",
+      "back": [
+        "Some product escapes measurement during the reaction, distorting the recorded rate and reducing collected total."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a catalyst improve equilibrium yield?",
+      "back": [
+        "No. It speeds both directions and reaches the same equilibrium sooner under otherwise unchanged conditions."
+      ]
     }
   ]
 }

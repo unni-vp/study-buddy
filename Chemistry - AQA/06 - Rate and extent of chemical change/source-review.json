@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.6",
+  "sections_refined": [
+    "Curves, tangents and final yield",
+    "Collision theory and activation energy",
+    "Dynamic equilibrium",
+    "Temperature and pressure changes"
+  ],
+  "pmt_references": [
+    {
+      "title": "6.1. Rate of reaction",
+      "topic": "rate-and-extent-of-chemical-change",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/6-The-Rate-and-Extent-of-Chemical-Change/Summary/6.1. Rate of reaction.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/rate-and-extent-of-chemical-change/",
+      "selection": "Summary Notes",
+      "file": "rate-and-extent-of-chemical-change-6-1-rate-of-reaction.pdf",
+      "pages": 3,
+      "sha256": "5acdfeb913c6b2877a2e6faebb0a1aba3b0396a834f48d5c6e7ebfd657bb1264",
+      "local_path": "Reference Materials\\PMT - Summary 6.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed both PMT summaries and all three SR pages. Existing two practical methods, tangent diagram, equilibrium diagram and temperature/concentration explanations retained. Added rate-versus-amount comparisons, graph-type distinction and gas-only pressure examples. Rejected claims that a catalyst changes overall reaction energy or that an equilibrium must restore original concentrations or equal product amounts."
+        }
+      ]
+    },
+    {
+      "title": "6.2. Reversible reactions and dynamic equilibrium",
+      "topic": "rate-and-extent-of-chemical-change",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/6-The-Rate-and-Extent-of-Chemical-Change/Summary/6.2. Reversible reactions and dynamic equilibrium.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/rate-and-extent-of-chemical-change/",
+      "selection": "Summary Notes",
+      "file": "rate-and-extent-of-chemical-change-6-2-reversible-reactions-and-dynamic-equilibrium.pdf",
+      "pages": 3,
+      "sha256": "ae9c30110fe74eefd90914ef0653e9a244b77fafedda8936cdfb157ae38f5fd8",
+      "local_path": "Reference Materials\\PMT - Summary 6.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed both PMT summaries and all three SR pages. Existing two practical methods, tangent diagram, equilibrium diagram and temperature/concentration explanations retained. Added rate-versus-amount comparisons, graph-type distinction and gas-only pressure examples. Rejected claims that a catalyst changes overall reaction energy or that an equilibrium must restore original concentrations or equal product amounts."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Analysis Of Rates Of Reaction",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/analysis-of-rates-of-reaction",
+      "file": "analysis-of-rates-of-reaction.txt",
+      "words": 461
+    },
+    {
+      "title": "Rates Of Reaction",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/rates-of-reaction",
+      "file": "rates-of-reaction.txt",
+      "words": 817
+    },
+    {
+      "title": "Reversible Reactions",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/reversible-reactions",
+      "file": "reversible-reactions.txt",
+      "words": 416
+    }
+  ],
+  "decisions": [
+    "Reviewed both PMT summaries and all three SR pages. Existing two practical methods, tangent diagram, equilibrium diagram and temperature/concentration explanations retained. Added rate-versus-amount comparisons, graph-type distinction and gas-only pressure examples. Rejected claims that a catalyst changes overall reaction energy or that an equilibrium must restore original concentrations or equal product amounts.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 32,
+    "added": 14,
+    "refined": 0,
+    "after": 46
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

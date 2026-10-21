@@ -43,6 +43,16 @@ A chord between two curve points gives an interval mean, not an instantaneous ra
 
 ![An accurately drawn tangent and gradient triangle show how to calculate instantaneous gas-production rate.](../Diagrams/rate-tangent.svg)
 
+### Compare speed and amount separately
+
+| Change in a gas-producing reaction | Initial rate | Final gas amount |
+|---|---|---|
+| Use smaller solid pieces, keeping their mass and all other conditions the same. | It usually increases because more surface is exposed. | It is unchanged if the same reactant still limits the reaction. |
+| Add a suitable catalyst to the same starting mixture. | It increases. | It is unchanged for a completed reaction with the same limiting amount. |
+| Increase acid concentration at the same solution volume. | It usually increases. | It may also increase if the acid was limiting, because more acid is now present. |
+
+To compare a curve fairly, read **both its early gradient and its final height**. A faster curve may finish at the same level, a higher level or a lower level depending on the starting amounts and conditions.
+
 ## Collision theory and activation energy
 
 Particles must **collide with sufficient energy** to react. **Activation energy** is the minimum energy needed for a successful reaction. Many collisions do not have enough energy.
@@ -56,6 +66,12 @@ Particles must **collide with sufficient energy** to react. **Activation energy*
 | Suitable catalyst | Alternative pathway with lower activation energy | Larger proportion of collisions succeeds |
 
 Concentration and pressure do **not** make particles individually move faster at the same temperature. Surface area exposes particles; it does not increase the total mass if mass is controlled. Temperature changes both frequency and the fraction with enough energy.
+
+### Explain what changes at particle level
+
+Heating does not lower activation energy: it increases the proportion of collisions with enough energy to overcome the existing barrier. A catalyst lowers that barrier by changing the pathway. Raising concentration increases particle numbers per unit volume, without making each particle move faster at unchanged temperature.
+
+These mechanisms can produce the same observed effect—a faster reaction—while changing different features of the particle behaviour.
 
 ## Catalysts
 
@@ -117,6 +133,12 @@ In a **closed system**, neither reactants nor products escape. A reversible reac
 
 It is like two equally fast escalators moving people in opposite directions: numbers on each floor can stay steady even while people move. The floors need not contain equal numbers.
 
+### Reading a rate graph and a concentration graph
+
+On a **rate–time graph**, equilibrium begins when the forward and reverse rate lines become equal. On a **concentration–time graph**, it is shown by concentrations becoming constant. Those concentration lines do not have to meet.
+
+A closed system prevents matter escaping but can still exchange energy with its surroundings. Keeping it closed is therefore different from keeping its temperature constant.
+
 ## Concentration changes at equilibrium
 
 **Le Chatelier's principle** says that an equilibrium system responds to a change by **opposing that change**. It then establishes a new equilibrium.
@@ -152,6 +174,12 @@ Pressure rules apply to **gases**:
 
 A catalyst speeds both directions and reaches the **same equilibrium sooner**. Industrial conditions must balance rate and yield with energy, cost and safety. The condition giving the highest theoretical yield may be too slow or expensive in practice.
 
+### Count gas particles from the equation
+
+For **H₂(g) + I₂(g) ⇌ 2HI(g)**, there are two gas moles on each side for the equation quantities. Compressing this equilibrium at constant temperature does **not** favour one side by gas-mole count, although collisions can become more frequent.
+
+For **CaCO₃(s) ⇌ CaO(s) + CO₂(g)**, count only the gas: none on the left and one on the right. Higher pressure favours the left under the stated equilibrium conditions. Counting all three formulae as if they were gases would give the wrong reasoning.
+
 ## Common calculation and explanation traps
 
 - Rate is gradient; plateau height is amount.
@@ -164,3 +192,9 @@ A catalyst speeds both directions and reaches the **same equilibrium sooner**. I
 ## Sources
 
 - [AQA Rate and extent of chemical change](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/the-rate-and-extent-of-chemical-change)
+
+- [PMT: 6.1. Rate of reaction](../Reference Materials/PMT - Summary 6.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 6.2. Reversible reactions and dynamic equilibrium](../Reference Materials/PMT - Summary 6.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Analysis Of Rates Of Reaction](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/analysis-of-rates-of-reaction). Cross-checked against the project specification.
+- [Study Rocket: Rates Of Reaction](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/rates-of-reaction). Cross-checked against the project specification.
+- [Study Rocket: Reversible Reactions](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/reversible-reactions). Cross-checked against the project specification.
