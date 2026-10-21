@@ -1,0 +1,116 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 1.3.1–1.3.5",
+  "sections_refined": [
+    "The UK's climate",
+    "Food production",
+    "Water supply",
+    "Changing UK energy supply",
+    "Flooding: Somerset Levels"
+  ],
+  "pmt_references": [
+    {
+      "title": "Energy Resource Management",
+      "topic": "energy-resource-management",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/AQA/The-Challenge-of-Resource-Management/Detailed/Energy%20Resource%20Management.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-aqa/the-challenge-of-resource-management/",
+      "file": "energy-resource-management-detailed-notes.pdf",
+      "pages": 12,
+      "sha256": "12630ee7d95fb4a0b6707afdab3da330c4140d296901af7d3295d6ff08e6febe",
+      "local_path": "Reference Materials\\PMT - Energy resources - AQA.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–7",
+          "decision": "Cross-check renewable/non-renewable, costs, reliability and energy security; reject fixed technology-price rankings and unsupported country generalisations."
+        },
+        {
+          "pages": "8–12",
+          "decision": "Expand demand management and fracking; retain corrected dated UK primary-energy table and named local projects rather than the source’s 2018 mix or outdated coal closure expectation."
+        }
+      ]
+    },
+    {
+      "title": "Water Resource Management",
+      "topic": "water-resource-management",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/6-Resource-Management/Detailed-Notes/Water%20Resource%20Management.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/resource-management/",
+      "file": "water-resource-management-detailed-notes.pdf",
+      "pages": 17,
+      "sha256": "b2d724ad076f62760bae3a7b1b22557d5168a0b29203cf62ffc37e6ef7bf8305",
+      "local_path": "Reference Materials\\PMT - Water resources - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–10",
+          "decision": "Use resource pressures as background only. Reject reversed equator/tropics rainfall, blanket low UK scarcity, radiation-based coastal siting and unsupported consumption claims."
+        },
+        {
+          "pages": "11–17",
+          "decision": "Develop reservoirs, transfers and demand reduction within OCR 1.3.3. Do not import foreign named water projects or all water-management detail as compulsory content."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Attitudes To Renewables",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/attitudes-to-renewables",
+      "file": "attitudes-to-renewables.txt",
+      "words": 517
+    },
+    {
+      "title": "Classification Of Resources",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/classification-of-resources",
+      "file": "classification-of-resources.txt",
+      "words": 666
+    },
+    {
+      "title": "Distribution Of Energy",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/distribution-of-energy",
+      "file": "distribution-of-energy.txt",
+      "words": 312
+    },
+    {
+      "title": "Energy Efficency",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/energy-efficency",
+      "file": "energy-efficency.txt",
+      "words": 336
+    },
+    {
+      "title": "Environmental Impacts",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/environmental-impacts",
+      "file": "environmental-impacts.txt",
+      "words": 139
+    },
+    {
+      "title": "Renewable Energy",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/renewable-energy",
+      "file": "renewable-energy.txt",
+      "words": 340
+    },
+    {
+      "title": "Hydrographs",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/hydrographs",
+      "file": "hydrographs.txt",
+      "words": 549
+    }
+  ],
+  "decisions": [
+    "Kept every Somerset, Hinkley Point C and Dryholme case-study paragraph, numerical figure and diagram. Preserved primary energy use as the requested measure, separate from electricity generation.",
+    "Filled missing explicit fracking coverage and developed food-production and water-management mechanisms. Added linked causes for climate and future energy decisions.",
+    "No blanket biomass-carbon-neutral, renewables-always-costlier or nuclear-operational-output claim imported. No current fracking legal-status assertion is made.",
+    "New hydrograph explanations supplement the flood account without inventing a single-event dataset or school measurements."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 20,
+    "refined": 0,
+    "after": 40
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

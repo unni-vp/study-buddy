@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is an air mass?",
+      "back": [
+        "A large body of air with similar temperature and moisture."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which air mass usually brings mild, wet weather from the Atlantic?",
+      "back": [
+        "Tropical maritime."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is continentality?",
+      "back": [
+        "The effect of distance from the sea on climate."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Give one renewable energy source.",
+      "back": [
+        "Wind power."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What gas makes biogas useful as a fuel?",
+      "back": [
+        "Methane."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the UK flood case study used in this course.",
+      "back": [
+        "Somerset Levels."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how the North Atlantic Drift affects the UK climate.",
+      "back": [
+        "It transfers warm ocean water towards north-west Europe.",
+        "This helps make UK winters milder than places at a similar latitude."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why western uplands are generally wetter than eastern lowlands.",
+      "back": [
+        "Moist Atlantic air is forced to rise over upland relief.",
+        "It cools, condenses and produces rainfall before descending towards the east."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of flooding on people.",
+      "back": [
+        "Homes or businesses may be damaged.",
+        "Roads may be cut off, disrupting travel and services."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one advantage and one disadvantage of a reservoir.",
+      "back": [
+        "Advantage: it stores water for periods of high demand or low rainfall.",
+        "Disadvantage: it floods land and can damage habitats or communities."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why wind power needs support from storage or other energy sources.",
+      "back": [
+        "Wind speed varies, so output is intermittent.",
+        "Supply must still meet demand when turbines generate little electricity."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two products of anaerobic digestion.",
+      "back": [
+        "Biogas.",
+        "Digestate."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how prolonged rainfall can cause river flooding.",
+      "back": [
+        "Rain fills soil stores until the ground becomes saturated.",
+        "More water then flows over the surface or rapidly through the soil into rivers.",
+        "Discharge rises above channel capacity and water spills onto the floodplain."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why the Somerset Levels are vulnerable to flooding.",
+      "back": [
+        "The landscape is very low and flat; about 18% of Somerset lies below average high-tide level.",
+        "Water drains slowly through rivers and artificial channels, especially when the ground is saturated.",
+        "High tides can restrict river outflow, so water spreads widely across the Levels."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one environmental problem caused by intensive food production.",
+      "back": [
+        "Large fertiliser inputs can be washed into rivers.",
+        "Nutrients encourage excessive algal growth.",
+        "Decomposition then reduces oxygen, harming aquatic life."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how anaerobic digestion produces useful energy.",
+      "back": [
+        "Microorganisms break down organic material in a sealed tank without oxygen.",
+        "This releases methane-rich biogas.",
+        "The gas is burned in suitable equipment to produce heat or electricity."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how air masses and continentality create contrasting UK weather.",
+      "back": [
+        "Tropical maritime air crosses the Atlantic and brings mild, moist conditions.",
+        "Polar continental air can bring cold, dry conditions from eastern Europe.",
+        "Coastal places are moderated by the sea because water heats and cools slowly.",
+        "Inland areas have a greater temperature range because land changes temperature faster."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how two long-term strategies reduce flood risk on the Somerset Levels.",
+      "back": [
+        "Dredging selected sections of the Parrett and Tone increases channel capacity; programmes in 2014, 2016 and 2018 removed about 270,500 m³ of silt.",
+        "Raising the Muchelney–Drayton road maintains community access during floods, reducing isolation even when surrounding land stores water."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why the UK's energy mix has changed since 1950.",
+      "back": [
+        "Domestic coal declined as mines closed and pollution and carbon concerns grew.",
+        "Oil and gas became important for transport, heating and electricity.",
+        "Nuclear provided dependable low-operational-carbon electricity.",
+        "Falling costs, technology and climate policy encouraged growth in renewables."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two disadvantages of Hinkley Point C.",
+      "back": [
+        "A very large, lengthy construction project creates traffic, accommodation pressure, cost and local habitat or landscape disturbance.",
+        "Radioactive waste from electricity generation must be securely managed for far longer than the station's planned 60-year operating life."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Why can polar continental air bring snow after crossing the North Sea?",
+      "back": [
+        "It begins cold and relatively dry, but can gain moisture over the sea. That moisture can produce wintry precipitation when it reaches the UK."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does continentality affect the annual temperature range?",
+      "back": [
+        "Land heats and cools faster than sea. Inland places tend to have a greater seasonal range, while coastal water moderates temperature."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are western UK uplands often wetter?",
+      "back": [
+        "Moist Atlantic air is forced upwards by high land. It cools, water vapour condenses and relief rainfall forms."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a rainy national climate mean every UK region has enough water?",
+      "back": [
+        "No. Rainfall, storage and demand vary by place and season. A densely populated region can face pressure despite the national climate being wet."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can heavy farm machinery increase runoff?",
+      "back": [
+        "It can compact soil, reducing infiltration. More rainfall then travels over the surface rather than entering the soil."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can fertiliser runoff harm a river?",
+      "back": [
+        "Extra nutrients can encourage algal growth. Decomposition uses oxygen, which can harm aquatic organisms."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can commercial fishing damage more than the target fish stock?",
+      "back": [
+        "Some methods disturb the seabed or catch unwanted species. Taking breeding fish too quickly also reduces future stock recovery."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the main trade-off in a water-transfer scheme?",
+      "back": [
+        "It can supply an area of high demand, but building and pumping require resources. Excessive removal may harm the source area and its ecosystems."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does energy security differ from simply owning fuel reserves?",
+      "back": [
+        "Secure energy must be dependable and affordable when needed. Extraction, infrastructure, costs and disruptions matter as well as reserves."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can UK gas prices change after decisions made in other countries?",
+      "back": [
+        "The UK trades in interconnected energy markets. Overseas production decisions or disrupted supplies can affect the price of imported fuel."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does OPEC help explain in an energy-supply answer?",
+      "back": [
+        "Oil-producing countries can influence world supply through production decisions, which can affect prices and importing countries."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does fracking do to shale rock?",
+      "back": [
+        "High-pressure fluid creates fractures. Sand helps keep openings available so trapped gas can flow towards the well."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Give two environmental costs of fracking beyond the visual effect.",
+      "back": [
+        "It uses water and produces wastewater needing management. Methane leakage and carbon dioxide from burning the gas contribute to climate effects; induced seismic activity is another concern."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is domestic shale gas not a renewable energy resource?",
+      "back": [
+        "It is a finite fossil fuel formed over geological time. Producing it within the UK changes the source of supply, not whether it is replenished."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does energy efficiency differ from conservation?",
+      "back": [
+        "Efficiency provides a similar service with less energy, such as improved insulation. Conservation reduces unnecessary use, such as switching off unused lights."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should the UK energy-usage table not be read as an electricity-generation table?",
+      "back": [
+        "Primary energy use includes transport, heating and inputs to electricity production. Electricity generation describes only one part of the energy system."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is lag time on a storm hydrograph?",
+      "back": [
+        "The time between peak rainfall and peak river discharge, not the time from the first raindrop to the end of flooding."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did pumping not instantly solve the 2013–14 Somerset flooding?",
+      "back": [
+        "A very large volume of water occupied low-lying land, while high river and tidal levels restricted drainage. Pumps worked within those physical limits."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is Hinkley Point C’s planned output different from a current operating benefit?",
+      "back": [
+        "It remains under construction in this case-study account. Planned generation becomes available only after completion and operation, while construction jobs and disruption occur earlier."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the two useful material and energy routes at Dryholme Farm?",
+      "back": [
+        "Biogas is burned to provide energy, while digestate returns nutrients to farmland. Digestate itself is not the fuel supplied to the engine."
+      ]
+    }
+  ]
+}

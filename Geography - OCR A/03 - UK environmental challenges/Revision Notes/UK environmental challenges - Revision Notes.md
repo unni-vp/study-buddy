@@ -23,6 +23,16 @@ The UK lies where different air masses meet. An **air mass** is a large body of 
 
 UK extremes include strong winds, heatwaves, cold spells, drought and intense rainfall. An event becomes hazardous when it affects people, property, infrastructure or ecosystems.
 
+### Link the air mass to the weather
+
+An air mass gains characteristics from the surface over which it forms, then changes as it travels. **Maritime** air crosses water and can carry moisture. **Continental** air is usually drier, but crossing the North Sea can add moisture before it reaches Britain.
+
+Tropical continental air can bring summer heat, while polar continental air can bring very cold winter weather. The same source direction does not guarantee an identical temperature in every season. A long-lasting high-pressure system can bring settled dry conditions; persistent low-pressure systems can bring repeated fronts, rain and strong winds.
+
+Warm Atlantic water transfers heat to the air above it. Prevailing winds help carry this influence towards Britain. The sea also heats and cools more slowly than land, moderating coastal temperatures. Inland locations usually have a greater annual temperature range.
+
+Western uplands force moist air to rise. As it rises it cools, water vapour condenses and rain falls. The air reaching the sheltered east has often lost some moisture, helping explain the UK's rainfall contrast.
+
 ## Flooding: Somerset Levels
 
 ### Place and physical setting
@@ -79,20 +89,39 @@ No measure removes risk from land below high-tide level during exceptional rainf
 
 Use evidence in a chain: **saturated low-lying land + prolonged rain + restricted drainage → 65 km² flooded and communities cut off → dredging, pumping, raised roads and upstream storage**.
 
+### From rainfall to river response
+
+A **storm hydrograph** shows how discharge changes during and after rainfall. Discharge is the volume passing a point each second, usually measured in **m³/s**. Rainfall and discharge use different units.
+
+| Feature | What to read |
+|---|---|
+| **Rising limb** | Discharge increases as more water reaches the channel. |
+| **Peak discharge** | The highest river flow during the event. |
+| **Lag time** | The interval between peak rainfall and peak discharge. |
+| **Falling limb** | Flow decreases as stored water drains away. |
+
+Saturated ground and impermeable surfaces can increase rapid surface runoff, giving a steeper rise and shorter lag. Soil, vegetation and temporary storage can delay water. The Somerset event involved repeated storms and prolonged restricted drainage, so a single sharp rainfall peak would not describe the whole episode.
+
 ## Food, water and energy
 
 ### Food production
+**Mechanisation** means using machinery for tasks such as ploughing, sowing and harvesting. It increases the area that can be worked and reduces labour needed per unit of output. Larger fields make machinery easier to use, but removing hedgerows reduces habitats and wildlife connections.
 
-- **Mechanisation** uses machinery to raise output and reduce labour needs.
-- Intensive farming can increase yields but may cause soil damage, pollution or habitat loss.
-- **Commercial fishing** supplies food and jobs, but overfishing can reduce stocks and disrupt food webs.
-- Sustainable approaches include quotas, protected areas, careful fertiliser use and restoring soils and habitats.
+Intensive farming raises output through inputs such as fertilisers, pesticides and irrigation. Fertilisers supply nutrients, but runoff can enrich rivers, encouraging algal growth and oxygen depletion. Pesticides can affect non-target organisms. Heavy machinery may compact soil, reducing infiltration and increasing runoff.
+
+**Commercial fishing** uses boats and equipment to catch fish for sale. Powerful vessels, sonar and large nets improve catches, but taking fish faster than stocks reproduce causes overfishing. Some methods also damage the seabed or catch unwanted species. Catch limits, suitable mesh sizes, protected areas and monitoring can help stocks recover, although restrictions affect fishers' short-term income.
 
 ### Water supply
+UK rainfall and demand do not match neatly. Wetter northern and western uplands can have a surplus, while some more densely populated southern and eastern areas face pressure on supplies, especially during dry periods. A wet national climate does not guarantee that every place has enough usable water at the right time.
 
-- **Reservoirs** store water but flood land and alter river ecosystems.
-- **Water transfer** moves water from areas of surplus to areas of demand, but it is costly and can affect donor areas.
-- Reducing leakage and demand may avoid some environmental impacts of new supply schemes.
+| Strategy | How it helps | Environmental and practical trade-off |
+|---|---|---|
+| **Reservoir** | A dam stores water during wetter periods so it can be released when needed. | Flooding the valley changes habitats and may displace land uses. The dam also alters downstream flow and sediment movement. |
+| **Water transfer** | Pipelines, canals or connected rivers move water from a source area to an area of demand. | Construction and pumping cost money and energy. Removing too much water can harm the source river and its users. |
+| **Leak reduction** | Repairing pipes makes more of the treated supply available to consumers. | Finding and replacing damaged infrastructure can be expensive and disruptive. |
+| **Demand management** | Efficient fittings, metering and suitable behaviour reduce the amount required. | Savings depend on uptake, affordability and how people use the equipment. |
+
+These choices can be combined. Reducing unnecessary demand can delay the need for a new reservoir or reduce the amount transferred.
 
 ### Energy choices
 
@@ -147,6 +176,31 @@ Demand also changes with population, industry, transport, household technology a
 | Other fuels: remainder of rounded shares | 3.6% |
 
 The long-term pattern is a move away from coal and towards renewable electricity. Gas still matters because it can provide flexible generation when weather-dependent output is low.
+
+### Energy security and decision making
+
+**Energy security** means having a dependable supply that meets needs at an affordable cost. Producing more energy within the UK can reduce reliance on imported fuels, but domestic production can still depend on weather, equipment, investment or imported components.
+
+| Factor | How it influences the UK's choices |
+|---|---|
+| **Economics** | Construction costs, fuel prices, maintenance and network upgrades affect affordability. A plant with a low running cost may still need expensive investment first. |
+| **Politics** | Planning rules, support payments and agreements influence which projects are built. Producer decisions and conflict abroad can change imported fuel prices. |
+| **Environment** | Carbon emissions, habitat change, visual effects and waste affect whether a project is acceptable. Benefits and costs occur at different scales. |
+| **Reliability** | A varied mix, stronger grid connections, storage and controllable output help meet demand when one source is unavailable. |
+
+Organisations such as **OPEC**, a group of oil-producing countries, can influence world supply through production decisions. International climate agreements encourage lower-carbon choices. These influences affect the UK even when the decisions are made elsewhere.
+
+### Fracking: obtaining gas changes the environment
+
+**Fracking**, or hydraulic fracturing, releases gas trapped in shale. A well is drilled into the rock, and a mixture containing water and sand is pumped in at high pressure. The rock fractures, and sand helps keep openings available so gas can flow towards the well.
+
+Potential benefits include an additional domestic gas supply, jobs and local contracts. Costs include water use, wastewater handling, heavy vehicle movements, noise and changes to the landscape. Poor control can create contamination risks, and operations can trigger small earthquakes. Burning the extracted gas releases carbon dioxide, while methane leakage adds to climate effects. An additional domestic fossil-fuel supply is therefore not the same as a renewable or zero-carbon supply.
+
+### Reduce demand as well as increasing supply
+
+**Energy efficiency** provides a similar service using less energy: insulation reduces the energy needed to maintain a comfortable home temperature. **Conservation** reduces unnecessary use, such as turning off lighting in an empty room.
+
+Local households, businesses and councils can improve buildings and travel choices. National decisions shape building standards, funding, large infrastructure and the energy mix. Upfront costs can prevent some households from making improvements, so the availability of support affects how fairly benefits are shared.
 
 ## Energy case studies
 
@@ -256,3 +310,15 @@ Use four tests:
 - [Council minutes: Kirkby Moor proposal and objection, 2015](https://cumberland.moderngov.co.uk/Data/CuCC%20Development%20Control%20and%20Regulation%20Committee/201506251000/Agenda/Minutes.pdf)
 
 - [DESNZ: UK energy consumption by fuel, DUKES 2026 table 1.1.1](https://www.gov.uk/government/statistics/energy-chapter-1-digest-of-united-kingdom-energy-statistics-dukes)
+
+## Sources
+
+- [PMT: Energy Resource Management](../Reference Materials/PMT - Energy resources - AQA.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Water Resource Management](../Reference Materials/PMT - Water resources - Edexcel A.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Attitudes To Renewables](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/attitudes-to-renewables). Cross-checked against the project specification.
+- [Study Rocket: Classification Of Resources](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/classification-of-resources). Cross-checked against the project specification.
+- [Study Rocket: Distribution Of Energy](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/distribution-of-energy). Cross-checked against the project specification.
+- [Study Rocket: Energy Efficency](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/energy-efficency). Cross-checked against the project specification.
+- [Study Rocket: Environmental Impacts](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/environmental-impacts). Cross-checked against the project specification.
+- [Study Rocket: Renewable Energy](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/energy-resources/renewable-energy). Cross-checked against the project specification.
+- [Study Rocket: Hydrographs](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/hydrographs). Cross-checked against the project specification.
