@@ -5,7 +5,7 @@
       "id": "basics",
       "title": "Waves and measurements",
       "description": "Compare waves, calculate and measure their properties.",
-      "icon": "physics-waves",
+      "icon": "nav-wave",
       "sections": [
         {
           "heading": "What a wave carries"
@@ -22,7 +22,7 @@
       "id": "behaviour",
       "title": "Boundaries and sound",
       "description": "Explain reflection, refraction and hidden structures.",
-      "icon": "physics-waves",
+      "icon": "nav-headphones",
       "sections": [
         {
           "heading": "Reflection, absorption and transmission"
@@ -39,7 +39,7 @@
       "id": "spectrum",
       "title": "Electromagnetic waves",
       "description": "Choose applications and weigh radiation risks.",
-      "icon": "physics-waves",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "The electromagnetic spectrum"
@@ -56,7 +56,7 @@
       "id": "optics",
       "title": "Lenses and colour",
       "description": "Construct images and explain which colours reach the eye.",
-      "icon": "physics-waves",
+      "icon": "nav-lens",
       "sections": [
         {
           "heading": "Lenses and ray diagrams"
@@ -70,7 +70,7 @@
       "id": "thermal",
       "title": "Radiation and practicals",
       "description": "Explain emission, temperature balance and fair comparisons.",
-      "icon": "physics-waves",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Infrared emission and radiation balance"
