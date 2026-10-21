@@ -172,6 +172,104 @@
         "Resistance increases, so current is **not directly proportional** to pd.",
         "It is **not ohmic** across this range; a heating filament is one possible explanation."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much energy transfers when 5 C passes through a 6 V lamp?",
+      "back": [
+        "30 J, using E = QV."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much charge leaves that lamp if 5 C enters?",
+      "back": [
+        "5 C. Charge is conserved; energy is transferred."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does 2 A mean electrons travel at 2 m/s?",
+      "back": [
+        "No. It means 2 coulombs pass a point each second."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to an unchanged branch when another is added across an ideal fixed-voltage supply?",
+      "back": [
+        "Its voltage and current stay the same, while the total supply current increases."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does adding a series resistor reduce current at fixed supply voltage?",
+      "back": [
+        "Total resistance increases, so I = V/R decreases."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the power at 6.0 V and 0.30 A?",
+      "back": [
+        "1.8 W."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much energy does a 1.8 W component transfer in 20 s?",
+      "back": [
+        "36 J."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What must remain fixed when saying doubling current quadruples heating power?",
+      "back": [
+        "The resistance in P = I²R."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does 50 Hz mains frequency count?",
+      "back": [
+        "50 complete alternating cycles each second."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must direct current have a perfectly constant size?",
+      "back": [
+        "No. It flows in one direction, even if its magnitude changes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a live wire be dangerous when no current is initially flowing?",
+      "back": [
+        "Yes. It can have a large potential difference to earth; touching it may complete a path through a person."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does the force on an electron relate to electric-field direction?",
+      "back": [
+        "It is opposite to the field direction because the electron is negatively charged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does an electron move towards a positive sphere despite outward field arrows?",
+      "back": [
+        "The arrows give the force on a positive test charge. A negative electron experiences the opposite force."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do electric field lines show actual electron paths?",
+      "back": [
+        "No. They model the direction and strength of the field."
+      ]
     }
   ]
 }

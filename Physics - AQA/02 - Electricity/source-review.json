@@ -1,0 +1,109 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.2",
+  "sections_refined": [
+    "Charge, current and potential difference",
+    "Series and parallel circuits",
+    "Electrical energy and power",
+    "Mains electricity and safety",
+    "Static charge and electric fields"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "electricity",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/2-Electricity/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/electricity/",
+      "selection": "Summary Notes",
+      "file": "electricity-summary-notes.pdf",
+      "pages": 7,
+      "sha256": "a85105d4011c5e1eb2674be84e58cd40f9d30abeb305eb2c475e169c241958c4",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed PMT summary and all ten SR Electricity pages against 4.2. Added charge/energy distinction, branch changes with fixed supply, conditional power reasoning, complete AC cycles and negative-charge force direction. All circuit symbols, I–V graphs and three practical circuit diagrams retained. Rejected PMT misprinted resistance sum and E = PI, fixed-resistor constant at all temperatures, universal inverse-gradient claim for curved I–V graphs and SR battery-life assertion. Omitted out-of-spec AC power factors, Coulomb-law calculation and reciprocal parallel-resistance formula."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Electricity Circuit Devices",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-circuit-devices",
+      "file": "electricity-circuit-devices.txt",
+      "words": 443
+    },
+    {
+      "title": "Electricity Current And Circuit Symbols",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-current-and-circuit-symbols",
+      "file": "electricity-current-and-circuit-symbols.txt",
+      "words": 385
+    },
+    {
+      "title": "Electricity Electric Fields",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-electric-fields",
+      "file": "electricity-electric-fields.txt",
+      "words": 383
+    },
+    {
+      "title": "Electricity Electricity In The Home",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-electricity-in-the-home",
+      "file": "electricity-electricity-in-the-home.txt",
+      "words": 411
+    },
+    {
+      "title": "Electricity I V Characteristics",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-i-v-characteristics",
+      "file": "electricity-i-v-characteristics.txt",
+      "words": 387
+    },
+    {
+      "title": "Electricity Power Of Electrical Appliances",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-power-of-electrical-appliances",
+      "file": "electricity-power-of-electrical-appliances.txt",
+      "words": 319
+    },
+    {
+      "title": "Electricity Resistance",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-resistance",
+      "file": "electricity-resistance.txt",
+      "words": 376
+    },
+    {
+      "title": "Electricity Series And Parallel Circuits",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-series-and-parallel-circuits",
+      "file": "electricity-series-and-parallel-circuits.txt",
+      "words": 385
+    },
+    {
+      "title": "Electricity Static Electricity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-static-electricity",
+      "file": "electricity-static-electricity.txt",
+      "words": 288
+    },
+    {
+      "title": "Electricity The National Grid",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-the-national-grid",
+      "file": "electricity-the-national-grid.txt",
+      "words": 333
+    }
+  ],
+  "decisions": [
+    "Reviewed PMT summary and all ten SR Electricity pages against 4.2. Added charge/energy distinction, branch changes with fixed supply, conditional power reasoning, complete AC cycles and negative-charge force direction. All circuit symbols, I–V graphs and three practical circuit diagrams retained. Rejected PMT misprinted resistance sum and E = PI, fixed-resistor constant at all temperatures, universal inverse-gradient claim for curved I–V graphs and SR battery-life assertion. Omitted out-of-spec AC power factors, Coulomb-law calculation and reciprocal parallel-resistance formula.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 21,
+    "added": 14,
+    "refined": 0,
+    "after": 35
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -42,6 +42,12 @@ A component has 6.0 V across it and carries 0.20 A.
 
 R = V/I = 6.0 ÷ 0.20 = **30 Ω**
 
+### Separate charge from the energy it transfers
+
+If **5 C** passes through a lamp with **6 V** across it, the energy transferred is **E = QV = 5 × 6 = 30 J**. The charge leaving the lamp is still **5 C**. It has transferred energy, rather than being consumed.
+
+For a constant **2 A**, a point in the circuit passes **2 C every second**. This describes a rate of charge flow, not a speed of 2 metres per second. Current and the speed of an individual electron are different quantities.
+
 ## Circuit symbols and measuring resistance
 
 ![Standard circuit symbols: cell, battery, switch, resistor, variable resistor, lamp, ammeter, voltmeter, diode, LED, thermistor and LDR.](../Diagrams/circuit-symbols.svg)
@@ -82,6 +88,12 @@ Both branches have **6 V** across them.
 Charge is conserved at a junction; it does not collect there.
 
 A household circuit uses parallel branches so appliances receive the same supply voltage and can be switched independently. You do not need a reciprocal-resistance formula to explain why adding a parallel path reduces the total resistance.
+
+### Predict what happens to an existing branch
+
+With an ideal **fixed 6 V supply**, adding another resistor **in parallel** leaves 6 V across the original branch. Its current stays the same if its resistance is unchanged. The supply current increases because it now feeds an extra branch.
+
+Adding a resistor **in series** increases the total resistance and reduces the current through the whole loop. The original resistor then has a smaller share of the same supply voltage. State the supply assumption: a real battery's terminal voltage can fall under a heavy load.
 
 ## Components and I–V graphs
 
@@ -164,6 +176,12 @@ Doubling current at fixed R gives **four times the heating power**.
 
 An electric heater increases thermal stores; a motor transfers energy into movement as well as unwanted heating. For equal running time, greater power means more energy transferred. A high power rating does not alone tell you efficiency.
 
+### State what stays constant before using a relationship
+
+For an unchanged resistance, doubling current makes **P = I²R** four times as large. For a device supplied at unchanged voltage, **P = VI** links power to current. These describe different controlled comparisons, so do not switch between “fixed R” and “fixed V” without checking the circuit.
+
+At **6.0 V and 0.30 A**, a resistor transfers **1.8 W**. After **20 s** it has transferred **36 J**. A reading in watts is a rate, while the joule result is an energy amount.
+
 ## Mains electricity and safety
 
 **Direct potential difference** has one polarity, such as a cell. **Alternating potential difference** repeatedly reverses polarity, making current reverse direction. UK mains is about **230 V at 50 Hz**.
@@ -177,6 +195,12 @@ An electric heater increases thermal stores; a motor transfers energy into movem
 If live touches an earthed metal case, a large fault current flows through the earth path. A correctly fitted fuse melts or circuit breaker opens, disconnecting the supply. A fuse belongs in the **live wire**. Double-insulated appliances use insulating barriers and do not need a metal-case earth connection.
 
 A connection from live to earth through a person can give a dangerous shock. A live wire can still be dangerous when an appliance switch is open, because the supply side remains connected to live. School circuit experiments use **low-voltage supplies**, not mains wiring.
+
+### Frequency counts complete cycles
+
+**50 Hz** means **50 complete alternating cycles each second**. One complete cycle includes both directions, so it is not the same as counting each reversal as a separate cycle. Direct current flows in one direction; its size need not be perfectly constant to count as direct.
+
+A live wire can have a dangerous potential difference relative to earth even before anyone completes a path for current. Touching it can create that path. “No current is currently flowing” does not establish that the wire is safe.
 
 ## The National Grid
 
@@ -202,3 +226,23 @@ Rubbing two suitable insulators transfers **electrons**, not protons. The one ga
 - A sufficiently strong electric field can **ionise air**, making it conducting. Charge suddenly flows through the air as a **spark**, reducing the charge imbalance.
 
 The tiny moving electron and the much larger charged object are different scales. An insulating rod does not become charged because whole atoms travel from one end to the other.
+
+### Direction depends on the test charge
+
+Field arrows show the force on a **positive** test charge. An electron is negative, so its force is **opposite** the field arrow. Around a positive sphere, the field points outwards but an electron is attracted inwards.
+
+The lines represent a field model, not physical strings or electron tracks. Their spacing indicates strength; a charge can experience a force without touching the source.
+
+## Sources
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Electricity Circuit Devices](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-circuit-devices). Cross-checked against the project specification.
+- [Study Rocket: Electricity Current And Circuit Symbols](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-current-and-circuit-symbols). Cross-checked against the project specification.
+- [Study Rocket: Electricity Electric Fields](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-electric-fields). Cross-checked against the project specification.
+- [Study Rocket: Electricity Electricity In The Home](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-electricity-in-the-home). Cross-checked against the project specification.
+- [Study Rocket: Electricity I V Characteristics](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-i-v-characteristics). Cross-checked against the project specification.
+- [Study Rocket: Electricity Power Of Electrical Appliances](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-power-of-electrical-appliances). Cross-checked against the project specification.
+- [Study Rocket: Electricity Resistance](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-resistance). Cross-checked against the project specification.
+- [Study Rocket: Electricity Series And Parallel Circuits](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-series-and-parallel-circuits). Cross-checked against the project specification.
+- [Study Rocket: Electricity Static Electricity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-static-electricity). Cross-checked against the project specification.
+- [Study Rocket: Electricity The National Grid](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-the-national-grid). Cross-checked against the project specification.
