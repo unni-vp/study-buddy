@@ -99,6 +99,16 @@
 <p>A two-place left shift multiplies by <strong>4</strong>, provided no significant bit is lost. For example, <code>00000111</code> (7) becomes <code>00011100</code> (28).</p>
 <p>A logical right shift fills the left positions with zeroes. Shifting <code>00000111</code> right once gives <code>00000011</code> (3): the final 1 is discarded, so the result is whole-number division, not 3.5.</p>
 <p>With a fixed 8-bit width, shifting <code>10000001</code> left once gives <code>00000010</code>. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.</p>
+<h3>Adding three numbers</h3>
+<p>The same column rules work for three inputs. Add 21, 10 and 4 using eight bits:</p>
+<pre class="code-block"><code class="language-text">  00010101
+  00001010
++ 00000100
+----------
+  00100011
+</code></pre>
+<p>Work from right to left, carrying into the next column when needed. The 4s column contains two 1s, so write 0 and carry 1 into the 8s column. That carry combines with the existing 1 in the 8s column, producing another carry. The final result is <strong>35</strong>, which checks against 21 + 10 + 4.</p>
+<p>A logical right shift discards low-order bits and keeps the whole-number result. Shifting 13 right twice gives 3 because <strong>13 DIV 4 = 3</strong>. The discarded remainder is not a fractional value retained elsewhere in the bit pattern.</p>
 <h2>Character encoding</h2>
 <p>A <strong>character set</strong> is the collection of characters that can be represented. A character encoding assigns each character a numeric code.</p>
 <table>
@@ -142,6 +152,9 @@
 <p>These rows form a small cross. To encode a drawing, reverse the process and write the code for every pixel, including white background pixels. The image needs <strong>3 × 3 × 1 = 9 bits</strong> of pixel data.</p>
 <p>At colour depth 2, the four codes <code>00</code>, <code>01</code>, <code>10</code> and <code>11</code> can represent four colours. At depth 8, <strong>2⁸ = 256 colours</strong> are possible. The image need not actually use every available colour.</p>
 <p>At fixed depth, doubling the width doubles the pixel data. Doubling both width and height makes <strong>four times</strong> as many pixels. At fixed dimensions, changing depth from 8 to 24 bits makes the pixel data <strong>three times</strong> as large. More pixels or colours allow more detail to be represented, but do not guarantee that a poor original image becomes detailed.</p>
+<h3>Pixel data and metadata</h3>
+<p><strong>Metadata</strong> describes other data. For a bitmap, the dimensions and colour depth tell software how to interpret its stored pixel bits. The same 24 bits could describe a 4 × 6 image at 1 bit per pixel or a 2 × 6 image at 2 bits per pixel.</p>
+<p>The calculation <code>width × height × colour depth</code> gives the <strong>pixel data</strong>, not necessarily the size of a complete saved file. Headers or other metadata can need additional storage, while compression can reduce the pixel representation. Use the values supplied by the question; do not invent an extra allowance.</p>
 <h2>Digital sound</h2>
 <p>Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave&#x27;s amplitude at regular times.</p>
 <table>
@@ -151,6 +164,7 @@
 </table>
 <p>Both can improve how accurately the digital recording represents the original sound.</p>
 <p><strong>Sound size in bits = sampling rate × sample resolution × duration in seconds</strong></p>
+<p>For a single-channel recording lasting <strong>10 seconds</strong>, sampled at <strong>44,000 Hz</strong> with <strong>16 bits per sample</strong>:</p>
 <ol>
 <li>There are 44,000 × 10 = <strong>440,000 samples</strong>.</li>
 <li>At 16 bits per sample, the data needs 440,000 × 16 = <strong>7,040,000 bits</strong>.</li>
@@ -178,6 +192,14 @@
 <tr><td><strong>File-size trade-off</strong></td><td>The saving depends on the data and method; some data may not become smaller.</td><td>Can often make larger reductions by accepting a loss of detail.</td></tr>
 </table>
 <p><strong>Choose lossless for program code:</strong> losing even one character could change how the program behaves. A smaller music file may justify some loss of sound detail, but that depends on the required quality.</p>
+<h3>Comparing a saving</h3>
+<p>Suppose a file is reduced from <strong>800 kB to 600 kB</strong>:</p>
+<ol>
+<li>Subtract the compressed size from the original: 800 − 600 = <strong>200 kB saved</strong>.</li>
+<li>Compare the saving with the original: 200 ÷ 800 = <strong>0.25</strong>.</li>
+<li>Multiply by 100 to obtain a <strong>25% reduction</strong>.</li>
+</ol>
+<p>The compressed file retains <strong>75% of the original size</strong>. This is not the same statement as saying 75% was saved. A size reduction alone does not tell you whether a method is lossy or lossless; that depends on whether the original data can be recovered exactly.</p>
 <h2>Run-length encoding</h2>
 <p><strong>Run-length encoding (RLE)</strong> is a <strong>lossless</strong> method. It stores each run as a frequency/data pair, so the original sequence can be reconstructed exactly. It works well when data contains long repeated sequences.</p>
 <p><code>0000011100000011</code> becomes:</p>
@@ -273,4 +295,11 @@
 <ul>
 <li><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
 <li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/binary-arithmetic">Study Rocket: Binary Arithmetic</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-binary">Study Rocket: Number Bases Binary</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-hexadecimal">Study Rocket: Number Bases Hexadecimal</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/character-encoding">Study Rocket: Character Encoding</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/data-compression">Study Rocket: Data Compression</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/image-encoding">Study Rocket: Image Encoding</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/representing-sound">Study Rocket: Representing Sound</a>. Coverage reference; checked against the current AQA specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

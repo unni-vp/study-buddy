@@ -1,0 +1,88 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.3.1–3.3.8",
+  "sources": [
+    {
+      "title": "Binary Arithmetic",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/binary-arithmetic"
+    },
+    {
+      "title": "Number Bases Binary",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-binary"
+    },
+    {
+      "title": "Number Bases Hexadecimal",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-hexadecimal"
+    },
+    {
+      "title": "Character Encoding",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/character-encoding"
+    },
+    {
+      "title": "Data Compression",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/data-compression"
+    },
+    {
+      "title": "Image Encoding",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/image-encoding"
+    },
+    {
+      "title": "Representing Sound",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/representing-sound"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Binary arithmetic and shifts",
+    "Bitmap images",
+    "Digital sound",
+    "Why compression is used"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "number-bases-binary",
+        "number-bases-hexadecimal"
+      ],
+      "decision": "Existing complete conversions and decimal-prefix methods retained; expanded recall on context, units, hex equivalence and the unsigned range."
+    },
+    {
+      "pages": [
+        "binary-arithmetic"
+      ],
+      "decision": "Added an original valid three-input addition. Did not copy the inconsistent 106 + 41 worked check or describe discarded right-shift remainders as an underflow error."
+    },
+    {
+      "pages": [
+        "character-encoding"
+      ],
+      "decision": "Retained Unicode codes 0–127 and encoding-dependent storage. Did not import the incorrect four-billion-character implication or first-127 wording."
+    },
+    {
+      "pages": [
+        "image-encoding",
+        "representing-sound"
+      ],
+      "decision": "Added brief metadata context beside the required bitmap formula and supplied missing given values for the existing sound example. Metadata calculation is not represented as an extra requirement; AQA needs pixel count and depth only."
+    },
+    {
+      "pages": [
+        "data-compression"
+      ],
+      "decision": "Preserved detailed RLE/Huffman worked examples, tree and overhead limits. Added an original percentage-saving calculation and focused lossless/lossy retrieval cards."
+    }
+  ],
+  "flashcards": {
+    "previous": 22,
+    "added": 23,
+    "refined": 1,
+    "total": 45
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

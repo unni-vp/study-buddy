@@ -69,8 +69,7 @@
       "category": "Explain and compare",
       "front": "Explain the difference between sampling rate and sample resolution.",
       "back": [
-        "Sampling rate is the number of amplitude measurements taken per second.",
-        "Sample resolution is the number of bits used to store each measurement."
+        "Sampling rate is the number of amplitude measurements each second, measured in Hz. Sample resolution is the bits used per measurement and determines the available amplitude values. They can be changed independently."
       ]
     },
     {
@@ -177,6 +176,167 @@
         "Huffman size is 190 bits.",
         "Bits saved = 280 − 190.",
         "The encoding saves **90 bits**."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does writing a byte in hexadecimal compress the stored data?",
+      "back": [
+        "No. Hexadecimal is a shorter way for people to write the same bit pattern. Two hexadecimal digits still represent eight bits."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the bit pattern 01000001 have more than one meaning?",
+      "back": [
+        "Its meaning depends on the encoding and the program. It can represent the unsigned integer 65 or the ASCII character A."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "Convert 2.5 MB to bytes using decimal prefixes.",
+      "back": [
+        "2.5 × 1,000,000 = 2,500,000 bytes."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "Convert 16,000 bits to kB using decimal prefixes.",
+      "back": [
+        "Divide by 8 to obtain 2,000 bytes. Divide by 1,000 to obtain 2 kB."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the largest unsigned integer stored in eight bits, in decimal and hexadecimal?",
+      "back": [
+        "255 in decimal, or FF in hexadecimal. All eight bits are 1."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "In binary addition, what do you write and carry when a column totals three 1s?",
+      "back": [
+        "Write 1 in the current column and carry 1 into the next column, because three is binary 11."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "Add 00010101, 00001010 and 00000100. Give an eight-bit result.",
+      "back": [
+        "00100011. The decimal check is 21 + 10 + 4 = 35."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "Logically shift 00001101 right by two positions.",
+      "back": [
+        "00000011, which is 3. Whole-number division gives 13 DIV 4 = 3 and discards the remainder."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a left shift not guaranteed to double a fixed-width stored value?",
+      "back": [
+        "A significant bit may leave the left edge. Once that bit is discarded, the remaining stored pattern is not the full multiplied value."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "If ASCII uppercase A is 65, what is uppercase F?",
+      "back": [
+        "70. F is five positions after A, so add 5 to 65."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are the ASCII code for the character \"4\" and the integer 4 the same thing?",
+      "back": [
+        "No. The character \"4\" has ASCII code 52. The integer 4 is a numeric value used in calculations."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does Unicode always store every character using the same number of bits?",
+      "back": [
+        "No. The storage depends on the encoding. Unicode defines a much wider range of characters and keeps ASCII codes 0–127."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "An image uses only three colours. What is the minimum fixed colour depth?",
+      "back": [
+        "2 bits per pixel, because 1 bit allows only 2 colours and 2 bits allow 4."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to uncompressed pixel data if both image width and height double at fixed colour depth?",
+      "back": [
+        "It becomes four times as large, because there are twice as many columns and twice as many rows."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a complete bitmap file be larger than width × height × colour depth predicts?",
+      "back": [
+        "That formula gives pixel data only. Headers or metadata describing the image can require additional storage."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "At 8 bits per sound sample, how many amplitude values can be represented?",
+      "back": [
+        "256 values, because 2⁸ = 256. Sampling rate separately controls how often those values are measured."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a sound duration of 2 minutes 30 seconds become 150 seconds in a size calculation?",
+      "back": [
+        "The sampling rate is samples per second. The time unit must match it: 2 × 60 + 30 = 150 seconds."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should program source code use lossless rather than lossy compression?",
+      "back": [
+        "Every character must be recoverable exactly. Discarding characters could change the program or stop it running."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "Decode RLE pairs (3, 0), (2, 1), (1, 0), where the first value is a count.",
+      "back": [
+        "000110. The counts add to six reconstructed values."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can RLE make an alternating black-and-white bitmap larger?",
+      "back": [
+        "Yes. Many runs of length 1 require a count for every value, which may cost more bits than the original pixels."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are Huffman codes prefix-free?",
+      "back": [
+        "No complete symbol code is the start of another. The decoder can recognise a completed symbol without separators, then restart from the root."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can two valid Huffman trees give different codes for the same message?",
+      "back": [
+        "Tied frequencies and different branch labels can produce different valid trees. Encode and decode using the particular tree provided."
+      ]
+    },
+    {
+      "category": "Calculate and apply",
+      "front": "A file shrinks from 800 kB to 600 kB. How much is saved, as a size and percentage?",
+      "back": [
+        "200 kB is saved. Divide 200 by the original 800 and multiply by 100: a 25% reduction."
       ]
     }
   ]

@@ -16,6 +16,14 @@
 <tr><td><strong>File-size trade-off</strong></td><td>The saving depends on the data and method; some data may not become smaller.</td><td>Can often make larger reductions by accepting a loss of detail.</td></tr>
 </table>
 <p><strong>Choose lossless for program code:</strong> losing even one character could change how the program behaves. A smaller music file may justify some loss of sound detail, but that depends on the required quality.</p>
+<h3>Comparing a saving</h3>
+<p>Suppose a file is reduced from <strong>800 kB to 600 kB</strong>:</p>
+<ol>
+<li>Subtract the compressed size from the original: 800 − 600 = <strong>200 kB saved</strong>.</li>
+<li>Compare the saving with the original: 200 ÷ 800 = <strong>0.25</strong>.</li>
+<li>Multiply by 100 to obtain a <strong>25% reduction</strong>.</li>
+</ol>
+<p>The compressed file retains <strong>75% of the original size</strong>. This is not the same statement as saying 75% was saved. A size reduction alone does not tell you whether a method is lossy or lossless; that depends on whether the original data can be recovered exactly.</p>
 <h2>Run-length encoding</h2>
 <p><strong>Run-length encoding (RLE)</strong> is a <strong>lossless</strong> method. It stores each run as a frequency/data pair, so the original sequence can be reconstructed exactly. It works well when data contains long repeated sequences.</p>
 <p><code>0000011100000011</code> becomes:</p>

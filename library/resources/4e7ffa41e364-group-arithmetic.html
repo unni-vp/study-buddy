@@ -51,4 +51,14 @@
 <h3>Shifts and discarded bits</h3>
 <p>A two-place left shift multiplies by <strong>4</strong>, provided no significant bit is lost. For example, <code>00000111</code> (7) becomes <code>00011100</code> (28).</p>
 <p>A logical right shift fills the left positions with zeroes. Shifting <code>00000111</code> right once gives <code>00000011</code> (3): the final 1 is discarded, so the result is whole-number division, not 3.5.</p>
-<p>With a fixed 8-bit width, shifting <code>10000001</code> left once gives <code>00000010</code>. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-numbers.html"><span>← Previous</span><strong>Number bases and conversions</strong></a><a href="4e7ffa41e364-group-text.html"><span>Next →</span><strong>Character encoding</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>With a fixed 8-bit width, shifting <code>10000001</code> left once gives <code>00000010</code>. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.</p>
+<h3>Adding three numbers</h3>
+<p>The same column rules work for three inputs. Add 21, 10 and 4 using eight bits:</p>
+<pre class="code-block"><code class="language-text">  00010101
+  00001010
++ 00000100
+----------
+  00100011
+</code></pre>
+<p>Work from right to left, carrying into the next column when needed. The 4s column contains two 1s, so write 0 and carry 1 into the 8s column. That carry combines with the existing 1 in the 8s column, producing another carry. The final result is <strong>35</strong>, which checks against 21 + 10 + 4.</p>
+<p>A logical right shift discards low-order bits and keeps the whole-number result. Shifting 13 right twice gives 3 because <strong>13 DIV 4 = 3</strong>. The discarded remainder is not a fractional value retained elsewhere in the bit pattern.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-numbers.html"><span>← Previous</span><strong>Number bases and conversions</strong></a><a href="4e7ffa41e364-group-text.html"><span>Next →</span><strong>Character encoding</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

@@ -138,6 +138,22 @@ A logical right shift fills the left positions with zeroes. Shifting `00000111` 
 
 With a fixed 8-bit width, shifting `10000001` left once gives `00000010`. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.
 
+### Adding three numbers
+
+The same column rules work for three inputs. Add 21, 10 and 4 using eight bits:
+
+```text
+  00010101
+  00001010
++ 00000100
+----------
+  00100011
+```
+
+Work from right to left, carrying into the next column when needed. The 4s column contains two 1s, so write 0 and carry 1 into the 8s column. That carry combines with the existing 1 in the 8s column, producing another carry. The final result is **35**, which checks against 21 + 10 + 4.
+
+A logical right shift discards low-order bits and keeps the whole-number result. Shifting 13 right twice gives 3 because **13 DIV 4 = 3**. The discarded remainder is not a fractional value retained elsewhere in the bit pattern.
+
 ## Character encoding
 
 A **character set** is the collection of characters that can be represented. A character encoding assigns each character a numeric code.
@@ -203,6 +219,12 @@ At colour depth 2, the four codes `00`, `01`, `10` and `11` can represent four c
 
 At fixed depth, doubling the width doubles the pixel data. Doubling both width and height makes **four times** as many pixels. At fixed dimensions, changing depth from 8 to 24 bits makes the pixel data **three times** as large. More pixels or colours allow more detail to be represented, but do not guarantee that a poor original image becomes detailed.
 
+### Pixel data and metadata
+
+**Metadata** describes other data. For a bitmap, the dimensions and colour depth tell software how to interpret its stored pixel bits. The same 24 bits could describe a 4 × 6 image at 1 bit per pixel or a 2 × 6 image at 2 bits per pixel.
+
+The calculation `width × height × colour depth` gives the **pixel data**, not necessarily the size of a complete saved file. Headers or other metadata can need additional storage, while compression can reduce the pixel representation. Use the values supplied by the question; do not invent an extra allowance.
+
 ## Digital sound
 
 Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave's amplitude at regular times.
@@ -216,6 +238,8 @@ Sound waves are analogue. To store sound digitally, an analogue-to-digital conve
 Both can improve how accurately the digital recording represents the original sound.
 
 **Sound size in bits = sampling rate × sample resolution × duration in seconds**
+
+For a single-channel recording lasting **10 seconds**, sampled at **44,000 Hz** with **16 bits per sample**:
 
 1. There are 44,000 × 10 = **440,000 samples**.
 2. At 16 bits per sample, the data needs 440,000 × 16 = **7,040,000 bits**.
@@ -255,6 +279,16 @@ Think of lossless compression as packing the same clothes more efficiently. Loss
 | **File-size trade-off** | The saving depends on the data and method; some data may not become smaller. | Can often make larger reductions by accepting a loss of detail. |
 
 **Choose lossless for program code:** losing even one character could change how the program behaves. A smaller music file may justify some loss of sound detail, but that depends on the required quality.
+
+### Comparing a saving
+
+Suppose a file is reduced from **800 kB to 600 kB**:
+
+1. Subtract the compressed size from the original: 800 − 600 = **200 kB saved**.
+2. Compare the saving with the original: 200 ÷ 800 = **0.25**.
+3. Multiply by 100 to obtain a **25% reduction**.
+
+The compressed file retains **75% of the original size**. This is not the same statement as saying 75% was saved. A size reduction alone does not tell you whether a method is lossy or lossless; that depends on whether the original data can be recovered exactly.
 
 ## Run-length encoding
 
@@ -385,3 +419,10 @@ The compressed message size is the sum of **frequency × code length for every s
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Binary Arithmetic](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/binary-arithmetic). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Number Bases Binary](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-binary). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Number Bases Hexadecimal](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/number-bases-hexadecimal). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Character Encoding](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/character-encoding). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Data Compression](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/data-compression). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Image Encoding](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/image-encoding). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Representing Sound](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/representing-sound). Coverage reference; checked against the current AQA specification.

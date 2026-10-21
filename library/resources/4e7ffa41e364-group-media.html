@@ -27,6 +27,9 @@
 <p>These rows form a small cross. To encode a drawing, reverse the process and write the code for every pixel, including white background pixels. The image needs <strong>3 × 3 × 1 = 9 bits</strong> of pixel data.</p>
 <p>At colour depth 2, the four codes <code>00</code>, <code>01</code>, <code>10</code> and <code>11</code> can represent four colours. At depth 8, <strong>2⁸ = 256 colours</strong> are possible. The image need not actually use every available colour.</p>
 <p>At fixed depth, doubling the width doubles the pixel data. Doubling both width and height makes <strong>four times</strong> as many pixels. At fixed dimensions, changing depth from 8 to 24 bits makes the pixel data <strong>three times</strong> as large. More pixels or colours allow more detail to be represented, but do not guarantee that a poor original image becomes detailed.</p>
+<h3>Pixel data and metadata</h3>
+<p><strong>Metadata</strong> describes other data. For a bitmap, the dimensions and colour depth tell software how to interpret its stored pixel bits. The same 24 bits could describe a 4 × 6 image at 1 bit per pixel or a 2 × 6 image at 2 bits per pixel.</p>
+<p>The calculation <code>width × height × colour depth</code> gives the <strong>pixel data</strong>, not necessarily the size of a complete saved file. Headers or other metadata can need additional storage, while compression can reduce the pixel representation. Use the values supplied by the question; do not invent an extra allowance.</p>
 <h2>Digital sound</h2>
 <p>Sound waves are analogue. To store sound digitally, an analogue-to-digital converter measures the wave&#x27;s amplitude at regular times.</p>
 <table>
@@ -36,6 +39,7 @@
 </table>
 <p>Both can improve how accurately the digital recording represents the original sound.</p>
 <p><strong>Sound size in bits = sampling rate × sample resolution × duration in seconds</strong></p>
+<p>For a single-channel recording lasting <strong>10 seconds</strong>, sampled at <strong>44,000 Hz</strong> with <strong>16 bits per sample</strong>:</p>
 <ol>
 <li>There are 44,000 × 10 = <strong>440,000 samples</strong>.</li>
 <li>At 16 bits per sample, the data needs 440,000 × 16 = <strong>7,040,000 bits</strong>.</li>
