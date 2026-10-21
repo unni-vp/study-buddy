@@ -57,18 +57,19 @@ def systems():
 
 def networks():
  d=Diagram(1000,720,'Communication between two devices through the four TCP/IP layers')
- d.text(220,36,'Sending device',27,True);d.text(780,36,'Receiving device',27,True)
- d.text(220,68,'Data moves down the layers',20);d.text(780,68,'Data moves up the layers',20)
- rows=[('Application','HTTPS','Browser prepares a request.','Service reads the request.'),('Transport','TCP','Manages reliable delivery.','Checks and reassembles data.'),('Internet','IP','Adds IP addresses.','Processes IP addresses.'),('Link','NIC and drivers','Sends on the local connection.','Receives on the local connection.')]
+ d.text(220,36,'Sending device',24,True);d.text(780,36,'Receiving device',24,True)
+ d.text(220,68,'Data moves down the layers',19);d.text(780,68,'Data moves up the layers',19)
+ rows=[('Application','HTTPS','Browser prepares a request.','Service reads the request.'),('Transport','TCP','Manages reliable delivery.','Checks and reassembles data.'),('Internet','IP','Adds IP addresses.','Processes IP addresses.'),('Link','NIC and drivers','Sends on the local link.','Receives from the local link.')]
  for i,(name,protocol,left,right) in enumerate(rows):
-  y=100+i*125
-  for x,desc in [(60,left),(620,right)]:
-   d.parts.append(f'<rect x="{x}" y="{y}" width="320" height="80" rx="10" fill="{["#eaf1fa","#eaf6f0","#fff4dd","#f1eafb"][i]}" stroke="#243b64" stroke-width="2"/>')
-   d.text(x+160,y+30,name+' · '+protocol,24,True);d.text(x+160,y+61,desc,19)
+  y=100+i*127
+  for x,desc in [(80,left),(640,right)]:
+   d.parts.append(f'<rect x="{x}" y="{y}" width="280" height="72" rx="10" fill="{["#eaf1fa","#eaf6f0","#fff4dd","#f1eafb"][i]}" stroke="#243b64" stroke-width="2"/>')
+   d.text(x+140,y+30,name+' · '+protocol,22,True);d.text(x+140,y+58,desc,19)
   if i<3:
-   d.path(f'M220 {y+80}V{y+125}');d.path(f'M780 {y+125}V{y+80}')
- d.path('M220 555V655H350');d.path('M650 655H780V555')
- d.box(350,615,300,80,['Network path','may include routers'])
+   d.path(f'M220 {y+72}V{y+127}');d.path(f'M780 {y+127}V{y+72}')
+ d.path('M220 553V652H380');d.path('M620 652H780V553')
+ d.parts.append('<rect x="380" y="616" width="240" height="72" rx="8" fill="#e8eef6" stroke="#243b64" stroke-width="2"/>')
+ d.text(500,646,'Network path',21,True);d.text(500,674,'may include routers',19)
  d.save(5,'tcp-ip-device-communication','Two devices each show application, transport, internet and link layers. A web request passes down the sender stack, across a network path that may include routers, and up the receiver stack. HTTPS is application, TCP is transport, IP is internet, and NIC/drivers are link.')
 
 if __name__=='__main__':

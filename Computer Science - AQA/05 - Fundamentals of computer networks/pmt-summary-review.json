@@ -97,13 +97,14 @@
     "review": "Rendered and visually inspected; arrows, layer order, protocol assignments and label clearance checked.",
     "spacing_revision": {
       "date": "2026-10-21",
-      "block_width": 320,
-      "block_height": 80,
-      "vertical_gap": 45,
-      "between_stack_gap": 240,
-      "heading_font": 24,
+      "block_width": 280,
+      "block_height": 72,
+      "vertical_gap": 55,
+      "between_stack_gap": 280,
+      "heading_font": 22,
       "body_font": 19,
-      "change": "Reduced blocks from 360 × 90; increased inter-layer gaps from 25 to 45. Direction labels moved above stacks. No font reduction."
+      "change": "Smaller blocks and wider gaps; restrained heading sizes; capped reader width; mobile horizontal scrolling retains readable labels rather than squeezing both stacks.",
+      "display_width_limit": 740
     }
   }
 }

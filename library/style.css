@@ -151,3 +151,8 @@ main:has(.subject-grid) .home-panel-top .intro{margin:0}
  .flashcards-ready .flashcard-answer{font-size:16px}
  .flashcard-side-label,.flashcard-category{font-size:11px;letter-spacing:0}
 }
+
+/* Match this explanatory diagram to the text column without oversized labels. */
+.reading p:has(>img[src$="/tcp-ip-device-communication.svg"]){width:100%;max-width:740px;margin:22px auto;min-width:0}
+.reading img[src$="/tcp-ip-device-communication.svg"]{display:block;width:100%;max-width:740px;height:auto;margin:0 auto}
+@media screen and (max-width:720px){.reading p:has(>img[src$="/tcp-ip-device-communication.svg"]){overflow-x:auto;overscroll-behavior-x:contain}.reading img[src$="/tcp-ip-device-communication.svg"]{min-width:640px}}
