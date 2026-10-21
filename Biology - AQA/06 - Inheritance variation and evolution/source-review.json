@@ -1,0 +1,90 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.6",
+  "sections_refined": [
+    "From base sequence to protein function",
+    "Inherited conditions and family trees",
+    "Genetic engineering",
+    "Classification and evolutionary trees"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "inheritance-variation-evolution",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/6-Inheritance-Variation-and-Evolution/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/inheritance-variation-evolution/",
+      "selection": "Detailed Notes",
+      "file": "inheritance-variation-evolution-detailed-notes.pdf",
+      "pages": 18,
+      "sha256": "a8dc8abb2ed691696017c6aee9eb7eb1e9bf1d02a67e5b4290235e19ccf2071b",
+      "local_path": "Reference Materials\\PMT - Inheritance Variation Evolution - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all reproduction, DNA, inheritance, variation, engineering/cloning, history, evidence and classification. Added mutation comparison, pedigree reasoning, independent probabilities and tree interpretation. Rejected PMT chromosome-count errors in meiosis, gene-as-one-triplet and genome-as-only-coding-genes definitions, and incomplete embryo-splitting description. Kept correct existing meiosis drawing, split-embryo method and AQA protein-synthesis scope; no detailed RNA structures added."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Alleles",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/alleles",
+      "file": "alleles.txt",
+      "words": 563
+    },
+    {
+      "title": "Asexual And Sexual Reproduction",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/asexual-and-sexual-reproduction",
+      "file": "asexual-and-sexual-reproduction.txt",
+      "words": 542
+    },
+    {
+      "title": "Dna",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/dna",
+      "file": "dna.txt",
+      "words": 743
+    },
+    {
+      "title": "Evolution",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/evolution",
+      "file": "evolution.txt",
+      "words": 673
+    },
+    {
+      "title": "Genetic Modification",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/genetic-modification",
+      "file": "genetic-modification.txt",
+      "words": 809
+    },
+    {
+      "title": "Species",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/species",
+      "file": "species.txt",
+      "words": 637
+    },
+    {
+      "title": "Variation",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/variation",
+      "file": "variation.txt",
+      "words": 782
+    }
+  ],
+  "decisions": [
+    "Reviewed all reproduction, DNA, inheritance, variation, engineering/cloning, history, evidence and classification. Added mutation comparison, pedigree reasoning, independent probabilities and tree interpretation. Rejected PMT chromosome-count errors in meiosis, gene-as-one-triplet and genome-as-only-coding-genes definitions, and incomplete embryo-splitting description. Kept correct existing meiosis drawing, split-embryo method and AQA protein-synthesis scope; no detailed RNA structures added.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 51,
+    "added": 16,
+    "refined": 0,
+    "after": 67
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

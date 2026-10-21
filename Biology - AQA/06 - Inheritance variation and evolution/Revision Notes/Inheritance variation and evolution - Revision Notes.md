@@ -78,6 +78,17 @@ A **mutation** is a change in DNA. Mutations occur continuously, but most have n
 
 Not all DNA codes for proteins. Variants in **non-coding DNA** can change whether or how strongly a gene is expressed, altering the **amount of protein made**. Distinguish changing a protein's sequence from changing gene expression. Do not claim every mutation makes a harmful new protein.
 
+### Comparing changes to a DNA sequence
+
+| Change | What happens | Possible consequence |
+|---|---|---|
+| **Substitution** | One base is replaced by another. | A triplet may specify a different amino acid, or still specify the same one. The protein's function may change or remain similar. |
+| **Insertion** | An extra base is added. | Adding one base can change how subsequent bases are grouped into triplets, affecting many later amino acids. |
+| **Deletion** | A base is removed. | Removing one base can also shift the later triplet grouping. |
+| **Non-coding variant** | A sequence controlling gene expression changes. | The amount of protein made may change without altering that protein's amino-acid sequence. |
+
+Think of the code as words read in groups of three. Changing one letter is different from adding a letter and shifting later groups. This model explains a possible effect, not a guarantee that every mutation causes a disease.
+
 ## The language of inheritance
 
 | Term | Meaning |
@@ -150,6 +161,14 @@ For a pedigree, read its key and generation links. In a simple recessive model, 
 **Potential benefits** include reduced suffering and a lower treatment burden.
 
 **Issues to evaluate** include cost, access, decisions about embryos, test accuracy and which traits are selected. Use the information supplied. A test for one disorder does not check every possible future illness.
+
+### Reasoning from a pedigree
+
+In a simple recessive model, two unaffected parents with an affected child must both carry the recessive allele. By contrast, an unaffected person need not be a carrier merely because a relative is affected: work through the possible parental combinations.
+
+For a dominant condition, two affected **heterozygous** parents can have an unaffected child. A dominant phenotype therefore does not identify whether a person is homozygous or heterozygous. Use family evidence or a specified cross to decide.
+
+If a question asks about **two independent conceptions**, multiply their probabilities. For two carrier parents, the probability of two affected children in succession is **1/4 × 1/4 = 1/16**. This does not change the probability for the next individual conception.
 
 ## Sex-chromosome inheritance
 
@@ -238,6 +257,12 @@ Evaluate a particular trait, not “all GM is good/bad”. Benefits may include 
 
 ![A donor gene is inserted into a cut plasmid vector for transfer into target cells.](../Diagrams/gene-vector.svg)
 
+### Gene transfer is different from breeding or cloning
+
+**Selective breeding** chooses parents and mixes many genes through reproduction. **Genetic engineering** introduces a chosen gene using a vector. **Cloning** copies an existing genotype. None of these labels alone tells us whether a particular crop is safe, effective or suitable.
+
+For example, a bacterium with the human insulin gene can express it and produce insulin. It does not become a human cell or acquire the entire human genome. Evaluate the inserted feature and its consequences rather than treating every modified organism as the same product.
+
 ## Plant and embryo cloning
 
 **Tissue culture:** take small groups of plant cells and grow them in a sterile nutrient medium with appropriate growth hormones. Many identical plants can be produced, useful for nurseries and conserving rare varieties.
@@ -320,6 +345,12 @@ An **evolutionary tree** represents inferred relationships using evidence from l
 
 ![An evolutionary tree uses branching joins to show shared ancestors. A and B share a more recent ancestor than A and C.](../Diagrams/evolutionary-relationships.svg)
 
+### Evidence can change the grouping
+
+Similar appearance may reflect similar environmental pressures rather than a very recent shared ancestor. Comparing DNA and biochemical features provides additional evidence. A classification can therefore change when new information reveals a closer relationship.
+
+On a tree, trace each species backwards to the **first shared branch point**. Branch length represents time only if a time scale is supplied. Rotating branches around a join does not change ancestry, so left-to-right position is not a measure of how evolved a species is.
+
 ## Avoid these mistakes
 
 - Meiosis halves chromosome number; fertilisation restores it. DNA copying does not double the number of joined chromosomes.
@@ -336,3 +367,12 @@ An **evolutionary tree** represents inferred relationships using evidence from l
 
 - [AQA Inheritance, variation and evolution](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/inheritance-variation-and-evolution)
 - [NHS: antibiotics and resistance](https://www.nhs.uk/medicines/antibiotics/antibiotic-antimicrobial-resistance/)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Inheritance Variation Evolution - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Alleles](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/alleles). Cross-checked against the project specification.
+- [Study Rocket: Asexual And Sexual Reproduction](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/asexual-and-sexual-reproduction). Cross-checked against the project specification.
+- [Study Rocket: Dna](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/dna). Cross-checked against the project specification.
+- [Study Rocket: Evolution](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/evolution). Cross-checked against the project specification.
+- [Study Rocket: Genetic Modification](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/genetic-modification). Cross-checked against the project specification.
+- [Study Rocket: Species](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/species). Cross-checked against the project specification.
+- [Study Rocket: Variation](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-inheritance/variation). Cross-checked against the project specification.

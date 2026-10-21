@@ -426,6 +426,118 @@
         "Biochemical and genetic evidence revealed deeper relationships.",
         "Woese’s **three-domain system** separates Archaea, Bacteria and Eukaryota using such evidence."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a gene not the same as one triplet of DNA bases?",
+      "back": [
+        "A gene contains a sequence of many bases specifying an amino-acid sequence. One triplet specifies one amino acid in the course model."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can inserting one base affect more than one amino acid?",
+      "back": [
+        "It can shift how later bases are grouped into triplets, changing the later code."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must a substitution change the protein’s function?",
+      "back": [
+        "No. It may code for the same amino acid or cause a change with little effect on folding or function."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a non-coding variant affect phenotype?",
+      "back": [
+        "It can alter gene expression and the amount of protein made, without changing that protein’s sequence."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What can be inferred from two unaffected parents having a child with a simple recessive condition?",
+      "back": [
+        "Both parents must be carriers in that model."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can two parents with a dominant condition have an unaffected child?",
+      "back": [
+        "Yes, if both are heterozygous. Their child can inherit the recessive allele from each parent."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For two carriers, what is the probability of two affected children in two independent conceptions?",
+      "back": [
+        "1/4 × 1/4 = 1/16. Each individual conception still has a 1/4 probability."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a dominant phenotype identify the exact genotype?",
+      "back": [
+        "No. In the simple model it may result from either a homozygous dominant or heterozygous genotype."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is copied before meiosis, and what is halved in the resulting gametes?",
+      "back": [
+        "DNA is copied before division. The two divisions produce gametes with half the original chromosome number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a human insulin gene not turn a bacterium into a human cell?",
+      "back": [
+        "It supplies instructions for that protein, rather than transferring the entire human genome and cell organisation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does cloning differ from genetic engineering?",
+      "back": [
+        "Cloning copies an existing genotype. Genetic engineering changes a genome by introducing a selected gene."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can DNA evidence change a classification based on appearance?",
+      "back": [
+        "Similar appearance can evolve under similar pressures. Molecular comparisons can reveal different ancestry."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does the horizontal position of a species on a tree show how evolved it is?",
+      "back": [
+        "No. Relationships depend on shared branch points, not where the label is placed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When can branch length on an evolutionary tree be interpreted as time?",
+      "back": [
+        "When the tree supplies an appropriate time scale. It should not be assumed for every diagram."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does rearranging branches around a shared join change ancestry?",
+      "back": [
+        "No. The same connections still represent the same common ancestors."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a genetically uniform crop not the same as conserving genetic diversity?",
+      "back": [
+        "Many cloned individuals may all carry the same variants. Their number can increase without increasing the variety of alleles."
+      ]
     }
   ]
 }
