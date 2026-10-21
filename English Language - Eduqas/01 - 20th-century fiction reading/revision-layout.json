@@ -5,7 +5,7 @@
       "id": "evidence",
       "title": "Read and use evidence",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "Read the question and its range"
@@ -22,7 +22,7 @@
       "id": "analysis",
       "title": "Language and structure",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "Analyse words and images"
@@ -39,7 +39,7 @@
       "id": "judgement",
       "title": "Evaluate and organise",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-check",
       "sections": [
         {
           "heading": "Evaluate a statement"
