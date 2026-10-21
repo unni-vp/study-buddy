@@ -5,7 +5,7 @@
       "id": "development",
       "title": "Development",
       "description": "Indicators, uneven development and aid",
-      "icon": "overview",
+      "icon": "nav-graph",
       "sections": [
         {
           "heading": "Understanding development"
@@ -16,7 +16,7 @@
       "id": "ethiopia",
       "title": "Ethiopia",
       "description": "Country development and Oxfam goat aid",
-      "icon": "practical",
+      "icon": "nav-map",
       "sections": [
         {
           "heading": "Country case study: Ethiopia"
@@ -27,7 +27,7 @@
       "id": "urban-world",
       "title": "Urban change",
       "description": "Urbanisation, migration, opportunities and challenges",
-      "icon": "exchange",
+      "icon": "nav-city",
       "sections": [
         {
           "heading": "A changing urban world"
@@ -38,7 +38,7 @@
       "id": "rosario",
       "title": "Rosario",
       "description": "Housing, transport, waste and urban agriculture",
-      "icon": "cells",
+      "icon": "nav-pin",
       "sections": [
         {
           "heading": "Major-city case study: Rosario, Argentina"
