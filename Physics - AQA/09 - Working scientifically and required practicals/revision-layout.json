@@ -5,7 +5,7 @@
       "id": "planning",
       "title": "Planning and evidence",
       "description": "Test ideas fairly, safely and with a clear explanation.",
-      "icon": "science-practical",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Build a testable investigation"
@@ -22,7 +22,7 @@
       "id": "data",
       "title": "Measurements and data",
       "description": "Understand errors, uncertainty and graph choices.",
-      "icon": "physics-motion",
+      "icon": "nav-ruler",
       "sections": [
         {
           "heading": "Measurement quality and errors"
@@ -39,7 +39,7 @@
       "id": "mechanical",
       "title": "Heating and mechanics",
       "description": "Review heating, density, springs and acceleration methods.",
-      "icon": "physics-forces",
+      "icon": "nav-thermometer",
       "sections": [
         {
           "heading": "Practical: specific heat capacity"
@@ -62,7 +62,7 @@
       "id": "circuits",
       "title": "Circuit investigations",
       "description": "Connect meters correctly and compare resistance and I–V graphs.",
-      "icon": "physics-electricity",
+      "icon": "nav-circuit",
       "sections": [
         {
           "heading": "Practical: resistance"
@@ -76,7 +76,7 @@
       "id": "waves",
       "title": "Waves and radiation",
       "description": "Measure waves, trace rays and compare infrared surfaces.",
-      "icon": "physics-waves",
+      "icon": "nav-wave",
       "sections": [
         {
           "heading": "Practical: waves in water and solids"
