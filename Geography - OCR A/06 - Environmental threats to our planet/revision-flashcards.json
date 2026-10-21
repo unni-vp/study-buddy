@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is climate change?",
+      "back": [
+        "A long-term change in average climate conditions."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one source of evidence for past climate.",
+      "back": [
+        "Ice cores."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the greenhouse gas released in large quantities by burning fossil fuels.",
+      "back": [
+        "Carbon dioxide."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What sea temperature is normally needed for a tropical storm to form?",
+      "back": [
+        "About 27°C or above."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is agricultural drought?",
+      "back": [
+        "A shortage of soil moisture for crops and grazing."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the ocean-atmosphere event linked to Australia's 2002–03 drought.",
+      "back": [
+        "El Niño."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how ice cores provide climate evidence.",
+      "back": [
+        "Trapped air bubbles preserve past greenhouse-gas concentrations.",
+        "Oxygen isotopes in the ice indicate past temperature."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two human causes of increased greenhouse-gas emissions.",
+      "back": [
+        "Burning fossil fuels.",
+        "Deforestation, farming, landfill or fertiliser use."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why tropical storms weaken over land.",
+      "back": [
+        "The storm loses its supply of warm ocean water and moisture.",
+        "Friction over land also disrupts its rotating winds."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of climate change on people.",
+      "back": [
+        "Greater heat-related illness or water shortage.",
+        "Damage to homes, food supply or infrastructure from extremes and sea-level rise."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two effects of Australia's 2002–2009 drought.",
+      "back": [
+        "Farm production and income fell.",
+        "Reservoirs and river flows declined, or bushfire risk increased."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two Australian adaptations to drought.",
+      "back": [
+        "Water restrictions or recycling.",
+        "Desalination, efficient irrigation, water trading or changing farm practice."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how volcanic eruptions can cause short-term cooling.",
+      "back": [
+        "Large eruptions send ash and sulphur aerosols high into the atmosphere.",
+        "These reflect part of the Sun's energy back to space.",
+        "Less solar energy reaches the surface, causing temporary cooling."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the enhanced greenhouse effect.",
+      "back": [
+        "Earth gives out long-wave heat radiation.",
+        "Extra greenhouse gases absorb and re-radiate more of this heat.",
+        "Less energy escapes to space, so average temperature rises."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why many hot deserts occur around 30° north and south.",
+      "back": [
+        "Air that rose near the Equator moves poleward and cools.",
+        "It sinks around 30°, creating high pressure.",
+        "Sinking air prevents clouds and rainfall, producing dry conditions."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how El Niño can contribute to Australian drought.",
+      "back": [
+        "Warm Pacific water and rising air shift eastwards.",
+        "Rainfall is displaced away from the western Pacific.",
+        "Eastern and northern Australia therefore face a higher chance of dry winter and spring conditions."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain one strength and one limitation of tree rings as climate evidence.",
+      "back": [
+        "Strength: annual rings can be accurately dated and their width records favourable or difficult growing seasons.",
+        "Limitation: growth is affected by rainfall, disease and local conditions as well as temperature."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two conditions needed for a tropical storm to develop.",
+      "back": [
+        "Sea temperature above about 27°C supplies rapid evaporation and latent heat when water condenses.",
+        "Low wind shear allows a tall rotating storm structure to build instead of being torn apart."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two environmental effects of prolonged drought.",
+      "back": [
+        "Low river flow and shrinking wetlands destroy aquatic habitats and reduce water quality.",
+        "Dry vegetation and exposed soil increase wildfire risk and erosion."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why Australia's Millennium Drought became severe even though not every year was an El Niño year.",
+      "back": [
+        "Repeated failures of cool-season rainfall produced a cumulative shortage in soil, rivers and reservoirs.",
+        "High temperatures and evaporation increased water loss, so occasional rain did not fully restore long-term stores."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "What makes a climate proxy different from a thermometer reading?",
+      "back": [
+        "A proxy records something influenced by climate, such as tree growth or ice composition. It must be interpreted rather than read as a direct temperature measurement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What do bubbles and isotopes in ice cores reveal?",
+      "back": [
+        "Bubbles preserve samples of past atmosphere, including greenhouse gases. Isotopes in the ice help reconstruct temperature."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a wide tree ring not proof of a warm year?",
+      "back": [
+        "Growth also responds to water, species, soil, pests and competition. The relevant climate relationship must be established."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why combine paintings with other climate evidence?",
+      "back": [
+        "Paintings can be local or selective. Agreement with independent records gives stronger support for a wider pattern."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do orbital changes not explain recent rapid warming by themselves?",
+      "back": [
+        "Their main effects unfold over thousands of years, unlike the rapid greenhouse-gas-driven change of recent decades."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a major eruption cool climate temporarily?",
+      "back": [
+        "Stratospheric sulphur aerosols reflect some incoming solar energy. Less energy reaches the surface until the aerosols are removed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can melting ice amplify warming?",
+      "back": [
+        "It exposes darker surfaces with lower reflectivity. They absorb more solar energy, promoting further warming and melting."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the two main causes of sea-level rise?",
+      "back": [
+        "Seawater expands as it warms, and melting land ice adds water to the ocean."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is rising air associated with cloud and rain?",
+      "back": [
+        "It expands and cools. If it cools sufficiently, water vapour condenses to form cloud droplets."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are subtropical high-pressure belts often dry?",
+      "back": [
+        "Air sinks and warms, reducing the likelihood of condensation and rainfall."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does the Coriolis effect deflect winds?",
+      "back": [
+        "To the right of their motion in the Northern Hemisphere and to the left in the Southern Hemisphere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do eye and eyewall conditions differ?",
+      "back": [
+        "The eye has sinking air and relatively calm conditions. The eyewall has intense uplift, rain and strong winds."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a tropical storm’s eye a dangerous false signal of safety?",
+      "back": [
+        "Calmer conditions may be temporary. The far side of the eyewall can bring strong winds and heavy rain again."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a storm surge differ from river flooding?",
+      "back": [
+        "A surge raises coastal sea level, mainly through wind pushing seawater ashore. River flooding occurs when channel capacity is exceeded by river water."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does climate change mean more tropical storms in every ocean basin?",
+      "back": [
+        "No. Intensity, rainfall and surge risk can increase without storm frequency increasing everywhere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does drought differ from aridity?",
+      "back": [
+        "Drought is an unusual water deficit relative to expected conditions. Aridity describes a normally dry climate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did occasional rain not immediately end Australia’s Millennium Drought?",
+      "back": [
+        "Soils, reservoirs and rivers had accumulated large deficits. Brief rainfall did not necessarily restore these stores."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Was Australia’s 2002–2009 drought one continuous El Niño event?",
+      "back": [
+        "No. The account includes El Niño episodes in 2002–03 and 2006–07, alongside other influences and repeated dry seasons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must Melbourne’s storage figures be dated?",
+      "back": [
+        "The fall from 97.5% in October 1996 to 33.0% in June 2010 describes cumulative change across the wider drought, not only 2002–2009."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is desalination a trade-off during drought?",
+      "back": [
+        "It supplies water less dependent on local rainfall, but needs energy, costs money and produces concentrated brine that requires careful disposal."
+      ]
+    }
+  ]
+}

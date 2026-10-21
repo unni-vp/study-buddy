@@ -158,6 +158,146 @@
         "Repeated failures of cool-season rainfall produced a cumulative shortage in soil, rivers and reservoirs.",
         "High temperatures and evaporation increased water loss, so occasional rain did not fully restore long-term stores."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What makes a climate proxy different from a thermometer reading?",
+      "back": [
+        "A proxy records something influenced by climate, such as tree growth or ice composition. It must be interpreted rather than read as a direct temperature measurement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What do bubbles and isotopes in ice cores reveal?",
+      "back": [
+        "Bubbles preserve samples of past atmosphere, including greenhouse gases. Isotopes in the ice help reconstruct temperature."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a wide tree ring not proof of a warm year?",
+      "back": [
+        "Growth also responds to water, species, soil, pests and competition. The relevant climate relationship must be established."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why combine paintings with other climate evidence?",
+      "back": [
+        "Paintings can be local or selective. Agreement with independent records gives stronger support for a wider pattern."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do orbital changes not explain recent rapid warming by themselves?",
+      "back": [
+        "Their main effects unfold over thousands of years, unlike the rapid greenhouse-gas-driven change of recent decades."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a major eruption cool climate temporarily?",
+      "back": [
+        "Stratospheric sulphur aerosols reflect some incoming solar energy. Less energy reaches the surface until the aerosols are removed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can melting ice amplify warming?",
+      "back": [
+        "It exposes darker surfaces with lower reflectivity. They absorb more solar energy, promoting further warming and melting."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the two main causes of sea-level rise?",
+      "back": [
+        "Seawater expands as it warms, and melting land ice adds water to the ocean."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is rising air associated with cloud and rain?",
+      "back": [
+        "It expands and cools. If it cools sufficiently, water vapour condenses to form cloud droplets."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are subtropical high-pressure belts often dry?",
+      "back": [
+        "Air sinks and warms, reducing the likelihood of condensation and rainfall."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does the Coriolis effect deflect winds?",
+      "back": [
+        "To the right of their motion in the Northern Hemisphere and to the left in the Southern Hemisphere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do eye and eyewall conditions differ?",
+      "back": [
+        "The eye has sinking air and relatively calm conditions. The eyewall has intense uplift, rain and strong winds."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a tropical storm’s eye a dangerous false signal of safety?",
+      "back": [
+        "Calmer conditions may be temporary. The far side of the eyewall can bring strong winds and heavy rain again."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a storm surge differ from river flooding?",
+      "back": [
+        "A surge raises coastal sea level, mainly through wind pushing seawater ashore. River flooding occurs when channel capacity is exceeded by river water."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does climate change mean more tropical storms in every ocean basin?",
+      "back": [
+        "No. Intensity, rainfall and surge risk can increase without storm frequency increasing everywhere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does drought differ from aridity?",
+      "back": [
+        "Drought is an unusual water deficit relative to expected conditions. Aridity describes a normally dry climate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did occasional rain not immediately end Australia’s Millennium Drought?",
+      "back": [
+        "Soils, reservoirs and rivers had accumulated large deficits. Brief rainfall did not necessarily restore these stores."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Was Australia’s 2002–2009 drought one continuous El Niño event?",
+      "back": [
+        "No. The account includes El Niño episodes in 2002–03 and 2006–07, alongside other influences and repeated dry seasons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must Melbourne’s storage figures be dated?",
+      "back": [
+        "The fall from 97.5% in October 1996 to 33.0% in June 2010 describes cumulative change across the wider drought, not only 2002–2009."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is desalination a trade-off during drought?",
+      "back": [
+        "It supplies water less dependent on local rainfall, but needs energy, costs money and produces concentrated brine that requires careful disposal."
+      ]
     }
   ]
 }

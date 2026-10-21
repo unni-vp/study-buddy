@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 2.3",
+  "sections_refined": [
+    "Evidence of past climate",
+    "Natural causes",
+    "Why climate changes",
+    "Global circulation and extreme weather"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "weather-hazards-and-climate-change",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/2-Weather-Hazards-and-Climate-Change/Detailed Notes - Topic 2 Weather Hazards & Climate Change - Edexcel A Geography GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/weather-hazards-and-climate-change/",
+      "file": "weather-hazards-and-climate-change-detailed-notes.pdf",
+      "pages": 29,
+      "sha256": "82ab90e65e5d82d129715055e168976988afffdd3fb7e8253deeffb23fee36e0",
+      "local_path": "Reference Materials\\PMT - Weather hazards and climate change - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–29",
+          "decision": "Review circulation, evidence, natural/human causes, consequences, storm formation and drought. Retain existing Australian case and diagrams. Correct storm naming (India uses cyclone), century/millennium wording, precession mechanism, and outdated unqualified warming figures. Reject the idea that all water insecurity is meteorological drought."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Characteristics Of Cyclones",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/characteristics-of-cyclones",
+      "file": "characteristics-of-cyclones.txt",
+      "words": 358
+    },
+    {
+      "title": "Human Causes Climate Change",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/human-causes-climate-change",
+      "file": "human-causes-climate-change.txt",
+      "words": 736
+    },
+    {
+      "title": "Impactof Cyclones",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/impactof-cyclones",
+      "file": "impactof-cyclones.txt",
+      "words": 165
+    },
+    {
+      "title": "Natural Climate Change",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/natural-climate-change",
+      "file": "natural-climate-change.txt",
+      "words": 334
+    },
+    {
+      "title": "The Global Atmospheric System",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/the-global-atmospheric-system",
+      "file": "the-global-atmospheric-system.txt",
+      "words": 1141
+    },
+    {
+      "title": "Theories Of Natural Climate Change",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/theories-of-natural-climate-change",
+      "file": "theories-of-natural-climate-change.txt",
+      "words": 607
+    }
+  ],
+  "decisions": [
+    "Preserved dated Australian case-study evidence, ENSO comparison and both process diagrams.",
+    "Expanded evidence limitations, orbital mechanisms, feedback, circulation and storm structure.",
+    "Avoided old projections presented as current facts and distinguished frequency from intensity and drought from water insecurity."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 20,
+    "refined": 0,
+    "after": 40
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -13,21 +13,28 @@ The **Quaternary** began about 2.6 million years ago. It contains repeated cold 
 - Since the late nineteenth century, global average temperature has risen strongly, with the fastest warming occurring in recent decades.
 
 ### Evidence of past climate
+A climate record is like a collection of clues. Some are direct measurements; others are **proxies**, which record a response to climate rather than temperature itself.
 
-- **Temperature records** directly measure recent change but cover only a short period.
-- **Ice cores** contain trapped air bubbles that reveal past greenhouse-gas concentrations; oxygen isotopes indicate temperature.
-- **Tree rings** are usually wider in favourable warm or wet years and narrower in difficult years.
-- **Paintings, diaries and harvest records** describe frozen rivers, storms or growing seasons, but are local and may be subjective.
+| Evidence | What it can show | Limitation |
+|---|---|---|
+| **Thermometer records** | Instrumental observations show recent temperature change. Long records allow averages and trends to be compared. | Coverage is shorter than geological history, and instruments, sites and methods need checking. |
+| **Ice cores** | Trapped bubbles preserve samples of past air, including greenhouse gases. Isotopes in the ice help reconstruct past temperature. | Dating and interpretation introduce uncertainty. A polar record is not a direct global thermometer. |
+| **Tree rings** | Ring width and density can indicate growing conditions; overlapping records extend the sequence. | Growth also depends on rainfall, species, soil, pests and competition. A wide ring does not always mean a warmer year. |
+| **Diaries and harvest records** | Accounts may identify frost, floods or growing seasons at a known place and time. | They are local, incomplete and influenced by what observers chose to record. |
+| **Paintings** | They can support evidence of particular conditions, such as a frozen river. | Artistic choices and unusual events may be overrepresented. One painting does not establish a long-term trend. |
 
-Scientists gain confidence when different sources show a similar pattern.
+Look for agreement between independent sources and distinguish local change from global averages. The Medieval Warm Period and Little Ice Age describe regional patterns that were not identical everywhere.
 
 ## Why climate changes
 
 ### Natural causes
+| Cause | How it changes climate | Important qualification |
+|---|---|---|
+| **Orbital changes** | Changes in the shape of Earth's orbit, its tilt and the direction of its axis alter the seasonal and geographical distribution of sunlight. | They act over thousands of years and help explain glacial cycles, rather than the rapid warming of recent decades. |
+| **Solar variation** | Changes in the Sun's energy output slightly alter the energy received by Earth. | The approximately 11-year sunspot cycle is a small variation; it does not explain the modern warming trend on its own. |
+| **Major volcanic eruptions** | Sulphur dioxide reaching the stratosphere forms reflective aerosols, reducing incoming sunlight and causing temporary cooling. | Not every eruption has this effect. Ash tends to settle faster, while aerosols can persist longer. |
 
-- **Orbital changes:** slow changes in Earth's orbit, tilt and wobble alter how solar energy is distributed. These help explain glacial cycles.
-- **Solar variation:** changes in solar output can slightly warm or cool climate.
-- **Volcanic eruptions:** ash and sulphur aerosols reflect sunlight, usually producing short-term cooling.
+**Tilt** changes the contrast between seasons. **Precession** is the slow wobble of the axis, which changes the timing of seasons relative to Earth's position in its orbit. It does not mean Earth's daily rotation stops or reverses.
 
 ### Human causes and the enhanced greenhouse effect
 
@@ -53,6 +60,14 @@ Natural factors explain earlier changes, but the rapid modern rise is mainly cau
 - Habitats move or disappear; coral bleaching and species loss increase.
 - Food, water, health, homes and infrastructure face greater pressure.
 - Impacts are unequal: poorer communities often have fewer resources to adapt.
+
+### Feedback and unequal consequences
+
+Melting reflective snow or ice exposes darker surfaces that absorb more solar energy. This can cause further warming and melting: a **positive feedback** amplifies the initial change.
+
+Rising sea level has two major causes: warming seawater **expands**, and melting **land ice** adds water to the ocean. Floating sea ice does not raise sea level in the same way when it melts.
+
+Longer growing seasons may benefit some cooler regions, but heat stress, water shortage and pests can offset this. Low-lying coasts face flooding and saltwater intrusion. The severity of damage depends on exposure, vulnerability and resources for adaptation, so the same physical change does not affect every community equally.
 
 ## Global circulation and extreme weather
 
@@ -111,6 +126,20 @@ Drought can develop because pressure systems block rain, sea-temperature pattern
 **Drought** can occur in many climates when rainfall is unusually low for that place and demand exceeds available water. Dry regions and places with strongly seasonal rain can be especially vulnerable. A dry climate alone does not identify a drought: the comparison is with expected conditions and needs.
 
 Compare frequency using the **same definition, location and time period**. Counts of reported disasters also reflect population, exposure and reporting, so they are not simply counts of weather events. Warming can increase the intensity of heavy rain and strong tropical cyclones, but it does not mean storm numbers rise everywhere. Drought trends differ by region and by whether rainfall, soil moisture or river flow is being measured.
+
+### How the circulation model explains rainfall
+
+As air rises it expands and cools. Water vapour can condense into clouds, making rainfall more likely. As air sinks it warms, making condensation less likely. This helps explain wet equatorial belts and dry subtropical belts.
+
+At the surface, air generally moves from **higher towards lower pressure**. Earth's rotation deflects it to the right in the Northern Hemisphere and left in the Southern Hemisphere. The **Hadley, Ferrel and Polar cells** transfer energy, while their associated winds help redistribute moisture. The model is simplified: continents, mountains, oceans and seasonal shifts alter local weather.
+
+### Storm structure and different hazards
+
+The **eye** has sinking air and relatively calm conditions. The surrounding **eyewall** has strong uplift, the most intense rain and very strong winds. Spiral rain bands extend farther out. A calm eye does not mean the storm has ended; the other side of the eyewall may follow.
+
+Strong winds can damage buildings directly. A **storm surge** is an abnormal rise in sea level, driven mainly by winds pushing water towards the coast, with low pressure contributing. Heavy rainfall can flood rivers and trigger landslides. Damage therefore depends on more than wind speed alone.
+
+Do not confuse drought with permanent aridity. A desert is normally dry; a normally wet region can experience drought when rain stays unusually low. Pollution or unaffordable water can cause water insecurity without being a meteorological drought.
 
 ## Drought case study: Australia, 2002–2009
 
@@ -181,3 +210,13 @@ However, desalination is expensive and energy-intensive, water trading may disad
 - [Murray–Darling Basin Authority annual report 2011–12: population and agriculture](https://www.parliament.nsw.gov.au/tp/files/1382/MDBA-annual-report-2011-12-web.pdf)
 
 - [Sydney Desalination Plant: purpose, completion and supply](https://sydneydesal.com.au/education/our-role-in-supplying-sydneys-water/)
+
+## Sources
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Weather hazards and climate change - Edexcel A.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Characteristics Of Cyclones](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/characteristics-of-cyclones). Cross-checked against the project specification.
+- [Study Rocket: Human Causes Climate Change](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/human-causes-climate-change). Cross-checked against the project specification.
+- [Study Rocket: Impactof Cyclones](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/impactof-cyclones). Cross-checked against the project specification.
+- [Study Rocket: Natural Climate Change](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/natural-climate-change). Cross-checked against the project specification.
+- [Study Rocket: The Global Atmospheric System](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/the-global-atmospheric-system). Cross-checked against the project specification.
+- [Study Rocket: Theories Of Natural Climate Change](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/hazardous-earth/theories-of-natural-climate-change). Cross-checked against the project specification.
