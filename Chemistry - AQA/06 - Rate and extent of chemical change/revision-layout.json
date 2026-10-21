@@ -5,7 +5,7 @@
       "id": "rates",
       "title": "Rates, curves and collision theory",
       "description": "Distinguish reaction speed from product amount.",
-      "icon": "chemistry-atom",
+      "icon": "nav-graph",
       "sections": [
         {
           "heading": "Reaction rates and measuring change"
@@ -25,7 +25,7 @@
       "id": "practicals",
       "title": "Rate investigations",
       "description": "Compare gas production and turbidity methods.",
-      "icon": "chemistry-atom",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Gas-volume rate practical"
@@ -39,7 +39,7 @@
       "id": "equilibrium",
       "title": "Reversibility and equilibrium",
       "description": "Predict condition changes and explain equal rates.",
-      "icon": "chemistry-atom",
+      "icon": "nav-balance",
       "sections": [
         {
           "heading": "Reversible reactions and energy"
