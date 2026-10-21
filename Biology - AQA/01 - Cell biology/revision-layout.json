@@ -4,7 +4,7 @@
     {
       "id": "cells",
       "title": "Cells",
-      "icon": "cells",
+      "icon": "nav-cell",
       "description": "Structures, specialised cells and microscopy",
       "sections": [
         {
@@ -31,7 +31,7 @@
     {
       "id": "cell-processes",
       "title": "Cell processes",
-      "icon": "cell-processes",
+      "icon": "nav-process",
       "description": "Mitosis, growth and stem cells",
       "sections": [
         {
@@ -49,7 +49,7 @@
     {
       "id": "transport",
       "title": "Transport",
-      "icon": "transport",
+      "icon": "nav-transport",
       "description": "Movement into and out of cells",
       "sections": [
         {
@@ -83,7 +83,7 @@
     {
       "id": "practical-investigations",
       "title": "Practical investigations",
-      "icon": "practical",
+      "icon": "nav-microscope",
       "description": "Microscopy, bacteria and potato osmosis",
       "sections": [
         {
