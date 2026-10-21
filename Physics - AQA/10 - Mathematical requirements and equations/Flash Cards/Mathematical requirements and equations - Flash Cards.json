@@ -296,6 +296,104 @@
         "Check that distance was divided by time rather than multiplied.",
         "Recalculate with labelled quantities and units, keeping sensible significant figures."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What rearrangement finds u² from v² − u² = 2as?",
+      "back": [
+        "u² = v² − 2as."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Is √(v² − 2as) equal to v − √(2as)?",
+      "back": [
+        "No. A square root cannot be distributed across a subtraction in that way."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should an impossible negative speed-squared result prompt?",
+      "back": [
+        "Check signs, units, data and the constant-acceleration assumption."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What plot makes a = F/m linear at fixed force?",
+      "back": [
+        "Acceleration vertically against 1/m horizontally."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient of a against 1/m?",
+      "back": [
+        "Resultant force F, in newtons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can changing friction spoil an inverse-mass experiment?",
+      "back": [
+        "It changes the resultant force even when the hanging driving weight is fixed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What displacement follows from +12 m graph area and −8 m graph area?",
+      "back": [
+        "+4 m."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What total distance follows from those same graph areas?",
+      "back": [
+        "20 m, adding their magnitudes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does area under a power–time graph represent?",
+      "back": [
+        "Energy transferred, because W × s = J."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What energy transfers at 100 W for 20 s then 40 W for 30 s?",
+      "back": [
+        "3,200 J."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is average power for 3,200 J over 50 s?",
+      "back": [
+        "64 W."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why not average 100 W and 40 W directly for unequal-duration stages?",
+      "back": [
+        "Average power must account for the time spent at each power."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the same letter have different meanings in equations?",
+      "back": [
+        "Physics reuses symbols. The relationship, context and units identify the intended quantity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep intermediate calculator digits?",
+      "back": [
+        "Early rounding can noticeably alter a later result, particularly in linked calculations."
+      ]
     }
   ]
 }

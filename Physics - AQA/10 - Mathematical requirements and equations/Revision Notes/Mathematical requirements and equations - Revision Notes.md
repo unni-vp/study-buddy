@@ -125,6 +125,15 @@ Divide by 2s to obtain **a = (v² − u²)/(2s)**.
 
 Elastic energy also follows a squared relationship with extension when spring constant is fixed and the spring remains within its proportional region.
 
+### Keep the square until you have isolated it
+
+From **v² − u² = 2as**, finding initial speed gives:
+
+1. Add u² and subtract 2as: **u² = v² − 2as**.
+2. Take the square root: **u = √(v² − 2as)** for the required speed magnitude.
+
+You cannot take square roots term by term: **√(v² − 2as)** is not **v − √(2as)**. If the quantity inside the root is negative in a speed calculation, check your directions, units and whether constant acceleration was a valid assumption.
+
 ## Equations: energy and heating
 
 | Relationship | Use or condition |
@@ -311,6 +320,17 @@ Some questions need two or more relationships. Plan the route before entering nu
 
 Whether an improvement matters depends on the biggest sources of uncertainty, not just adding more decimal places.
 
+### Allow for changing power
+
+A device runs at **100 W for 20 s**, then **40 W for 30 s**.
+
+1. First-stage energy = **100 × 20 = 2,000 J**.
+2. Second-stage energy = **40 × 30 = 1,200 J**.
+3. Total energy = **3,200 J** over **50 s**.
+4. Average power = **3,200 ÷ 50 = 64 W**.
+
+Using the maximum 100 W for all 50 s would overestimate the energy. Averaging 100 and 40 directly would also be wrong here because the stages last different times.
+
 ## Read linear graphs and their units
 
 **y = mx + c**
@@ -340,6 +360,15 @@ The best-fit line passes through **(0.010 m, 2 N)** and **(0.040 m, 8 N)**.
 
 Read values from the fitted line, not a tiny triangle between noisy neighbouring measurements.
 
+### Turn an inverse relationship into a straight line
+
+At fixed resultant force, **a = F/m** can be written **a = F × (1/m)**. Plotting acceleration vertically against **1/m horizontally** gives an ideal straight line through the origin.
+
+- Gradient = **a ÷ (1/m) = F**.
+- Gradient units = **(m/s²) ÷ (1/kg) = kg m/s² = N**.
+
+This is different from plotting a against m, which gives a decreasing curve. If friction changes while mass is added, the driving weight alone may no longer represent the same resultant force.
+
 ## Tangents and area under a graph
 
 On a curved distance–time graph, draw a **tangent at the required time**. Use a large triangle along that straight tangent to calculate **instantaneous speed**. A chord joining two points on the curve gives an average rate over that interval, not necessarily the rate at the chosen point.
@@ -364,6 +393,15 @@ Velocity rises from 0 to 8 m/s over 4 s, then remains at 8 m/s for 3 s.
 3. Displacement = 16 + 24 = **40 m**.
 
 The area under a distance–time graph is not a distance.
+
+### Calculate both distance and displacement
+
+A velocity–time graph has **12 m** of positive area and **8 m** of area magnitude below the time axis.
+
+- Displacement = **12 − 8 = +4 m**.
+- Total distance = **12 + 8 = 20 m**.
+
+Both use the same graph, but answer different questions. For a power–time graph, area instead gives **energy**, because watts multiplied by seconds gives joules. Never assign an area a meaning without checking the axes.
 
 ## Statistics, charts and correlations
 
@@ -422,3 +460,13 @@ In a histogram, adjacent numerical intervals have adjoining bars. With unequal i
 - [AQA Maths requirements](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/mathematical-requirements)
 - [AQA equation-sheet arrangements](https://www.aqa.org.uk/news/gcse-maths-sciences-formulae-equation-sheets-2027-28)
 - [Official equation sheet](../../00 - Specification/AQA-8463-equations-JUN27.pdf)
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Maths reference Energy - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Summary Notes](../Reference Materials/PMT - Maths reference Forces - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Summary Notes](../Reference Materials/PMT - Maths reference Waves - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Summary Notes](../Reference Materials/PMT - Maths reference Magnetism And Electromagnetism - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Energy Conservation Of Energy And Power](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conservation-of-energy-and-power). Cross-checked against the project specification.
+- [Study Rocket: Forces Newtons Second Law](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law). Cross-checked against the project specification.
+- [Study Rocket: Forces Velocity Time Graphs](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-velocity-time-graphs). Cross-checked against the project specification.
+- [Study Rocket: Magnetism Transformers](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-transformers). Cross-checked against the project specification.
+- [Study Rocket: Waves Transverse And Longitudinal Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves). Cross-checked against the project specification.

@@ -1,0 +1,129 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: mathematical requirements, Appendix A and 2027 equation sheet",
+  "sections_refined": [
+    "Rearrange and recognise proportionality",
+    "Read linear graphs and their units",
+    "Tangents and area under a graph",
+    "Linked calculations"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "energy",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/1-Energy/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/energy/",
+      "selection": "Summary Notes",
+      "file": "energy-summary-notes.pdf",
+      "pages": 4,
+      "sha256": "78cfe1bf4cca2795db028e9719e80948718743ff30f6f3c6d81ddf1b900a264f",
+      "local_path": "Reference Materials\\PMT - Maths reference Energy - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Calculation and graph content",
+          "decision": "No standalone PMT Physics maths summary is offered in this index. Used relevant calculation content in Energy, Forces, Waves and Magnetism summaries, SR explanatory pages, AQA mathematical requirements and the existing official 2027 sheet. Preserved all equation tables, units, conversions and worked examples. Added square-root rearrangement, inverse-mass linearisation with units, signed area and time-weighted power. Existing full equation-sheet practice remains unchanged."
+        }
+      ]
+    },
+    {
+      "title": "Summary Notes",
+      "topic": "forces",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/5-Forces/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/forces/",
+      "selection": "Summary Notes",
+      "file": "forces-summary-notes.pdf",
+      "pages": 12,
+      "sha256": "e86589e25fd9929a2d57def6e54db5308eba126c3d42b317917a0e0b3d43c700",
+      "local_path": "Reference Materials\\PMT - Maths reference Forces - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Calculation and graph content",
+          "decision": "No standalone PMT Physics maths summary is offered in this index. Used relevant calculation content in Energy, Forces, Waves and Magnetism summaries, SR explanatory pages, AQA mathematical requirements and the existing official 2027 sheet. Preserved all equation tables, units, conversions and worked examples. Added square-root rearrangement, inverse-mass linearisation with units, signed area and time-weighted power. Existing full equation-sheet practice remains unchanged."
+        }
+      ]
+    },
+    {
+      "title": "Summary Notes",
+      "topic": "waves",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/6-Waves/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/waves/",
+      "selection": "Summary Notes",
+      "file": "waves-summary-notes.pdf",
+      "pages": 9,
+      "sha256": "f34ad400c4cbdc2f0617a6e78909ddf59c7e0e798d9ccbbfc654a8f1e1e76845",
+      "local_path": "Reference Materials\\PMT - Maths reference Waves - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Calculation and graph content",
+          "decision": "No standalone PMT Physics maths summary is offered in this index. Used relevant calculation content in Energy, Forces, Waves and Magnetism summaries, SR explanatory pages, AQA mathematical requirements and the existing official 2027 sheet. Preserved all equation tables, units, conversions and worked examples. Added square-root rearrangement, inverse-mass linearisation with units, signed area and time-weighted power. Existing full equation-sheet practice remains unchanged."
+        }
+      ]
+    },
+    {
+      "title": "Summary Notes",
+      "topic": "magnetism-and-electromagnetism",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/7-Magnetism-and-Electromagnetism/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/magnetism-and-electromagnetism/",
+      "selection": "Summary Notes",
+      "file": "magnetism-and-electromagnetism-summary-notes.pdf",
+      "pages": 6,
+      "sha256": "3943cb2957b12bb102771afda44c8d77477297d67f5f7d9a5d5841f89ea49729",
+      "local_path": "Reference Materials\\PMT - Maths reference Magnetism And Electromagnetism - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Calculation and graph content",
+          "decision": "No standalone PMT Physics maths summary is offered in this index. Used relevant calculation content in Energy, Forces, Waves and Magnetism summaries, SR explanatory pages, AQA mathematical requirements and the existing official 2027 sheet. Preserved all equation tables, units, conversions and worked examples. Added square-root rearrangement, inverse-mass linearisation with units, signed area and time-weighted power. Existing full equation-sheet practice remains unchanged."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Energy Conservation Of Energy And Power",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conservation-of-energy-and-power",
+      "file": "energy-conservation-of-energy-and-power.txt",
+      "words": 444
+    },
+    {
+      "title": "Forces Newtons Second Law",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law",
+      "file": "forces-newtons-second-law.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Velocity Time Graphs",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-velocity-time-graphs",
+      "file": "forces-velocity-time-graphs.txt",
+      "words": 312
+    },
+    {
+      "title": "Magnetism Transformers",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-transformers",
+      "file": "magnetism-transformers.txt",
+      "words": 365
+    },
+    {
+      "title": "Waves Transverse And Longitudinal Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves",
+      "file": "waves-transverse-and-longitudinal-waves.txt",
+      "words": 377
+    }
+  ],
+  "decisions": [
+    "No standalone PMT Physics maths summary is offered in this index. Used relevant calculation content in Energy, Forces, Waves and Magnetism summaries, SR explanatory pages, AQA mathematical requirements and the existing official 2027 sheet. Preserved all equation tables, units, conversions and worked examples. Added square-root rearrangement, inverse-mass linearisation with units, signed area and time-weighted power. Existing full equation-sheet practice remains unchanged.",
+    "All new flashcards are original short recall/application prompts, not copied external questions."
+  ],
+  "flashcards": {
+    "before": 36,
+    "added": 14,
+    "refined": 0,
+    "after": 50
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
