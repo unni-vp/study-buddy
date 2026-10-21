@@ -198,6 +198,104 @@
         "Fractional distillation separates miscible liquids, such as **ethanol and water**, using their different boiling points.",
         "A fractionating column provides **repeated evaporation and condensation**, improving separation."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many oxygen and hydrogen atoms are represented in Ca(OH)₂?",
+      "back": [
+        "Two oxygen atoms and two hydrogen atoms, because the subscript multiplies the complete OH group."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does the coefficient 2 in 2MgO multiply?",
+      "back": [
+        "The whole formula, giving two Mg atoms and two O atoms in total."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does changing a subscript not simply balance an equation?",
+      "back": [
+        "It changes the composition and identity of the substance. Balance using coefficients instead."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do isotopes of an element have very similar chemical reactions?",
+      "back": [
+        "Their neutral atoms have the same electron arrangement, including the same outer electrons."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What denominator is used for a weighted mean from isotope counts?",
+      "back": [
+        "The total number counted. Divide by 100 only when using percentage abundances."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is a useful check on an isotope weighted mean?",
+      "back": [
+        "It should lie between the isotope masses and be closer to the more abundant isotope."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did leaving gaps strengthen Mendeleev’s table?",
+      "back": [
+        "It kept similar elements grouped and generated predictions that later discoveries could test."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a modern periodic-table box not identify just one isotope?",
+      "back": [
+        "It represents the element defined by proton number; its relative atomic mass averages naturally occurring isotope abundances."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How would you recover both sand and solid salt from salty water containing sand?",
+      "back": [
+        "Filter to recover sand, then concentrate and cool the filtrate to crystallise salt."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which method would recover water rather than salt from the filtrate?",
+      "back": [
+        "Simple distillation: evaporate the water and collect it after condensation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can evaporation occur below the boiling point?",
+      "back": [
+        "Yes. It occurs at the surface, whereas boiling occurs throughout the liquid at its boiling temperature."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a white chloride formed by reacting an alkali metal with chlorine not necessarily a precipitate?",
+      "back": [
+        "A precipitate is an insoluble solid formed from solution. Direct combination can form a white solid without precipitation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do Group 1 and Group 7 show opposite reactivity trends?",
+      "back": [
+        "Larger, more shielded atoms lose an outer electron more easily in Group 1, but attract an incoming electron less strongly in Group 7."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are noble gases normally diatomic molecules?",
+      "back": [
+        "No. They exist as individual atoms with stable full outer electron shells."
+      ]
     }
   ]
 }

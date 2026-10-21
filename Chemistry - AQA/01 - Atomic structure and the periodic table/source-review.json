@@ -1,0 +1,137 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.1",
+  "sections_refined": [
+    "Symbols and formulae",
+    "Isotopes and relative atomic mass",
+    "Development of the periodic table",
+    "Separating mixtures"
+  ],
+  "pmt_references": [
+    {
+      "title": "1.1. A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes",
+      "topic": "atomic-structure-and-periodic-table",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/1-Atomic-Structure-and-the-Periodic-Table/Summary/1.1. A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/atomic-structure-and-periodic-table",
+      "selection": "Summary Notes",
+      "file": "atomic-structure-and-periodic-table-1-1-a-simple-model-of-the-atom-symbols-relative-atomic-mass-electronic-charge-and-isotopes.pdf",
+      "pages": 6,
+      "sha256": "b1395eb51b770ba3b31b609cf3d55de07c7920882468697c9f35856654653c96",
+      "local_path": "Reference Materials\\PMT - Summary 1.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and relevant SR pages. Retained detailed scattering interpretation, electron arrangements and group reactions. Improved formula counting, readable symbols, weighted-mean steps and separation choices. Rejected SR Mendeleev 1969 date, universal eight-electron shell capacity, MgO as Group 1 oxide, and PMT chloride-as-precipitate wording. Group 0 terminology and standard AQA trends retained."
+        }
+      ]
+    },
+    {
+      "title": "1.2. The periodic table",
+      "topic": "atomic-structure-and-periodic-table",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/1-Atomic-Structure-and-the-Periodic-Table/Summary/1.2. The periodic table.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/atomic-structure-and-periodic-table",
+      "selection": "Summary Notes",
+      "file": "atomic-structure-and-periodic-table-1-2-the-periodic-table.pdf",
+      "pages": 3,
+      "sha256": "4796c3118a3ca2a1a71f843999f75a056daa408273836897e0b9c0ce069c7bd3",
+      "local_path": "Reference Materials\\PMT - Summary 1.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and relevant SR pages. Retained detailed scattering interpretation, electron arrangements and group reactions. Improved formula counting, readable symbols, weighted-mean steps and separation choices. Rejected SR Mendeleev 1969 date, universal eight-electron shell capacity, MgO as Group 1 oxide, and PMT chloride-as-precipitate wording. Group 0 terminology and standard AQA trends retained."
+        }
+      ]
+    },
+    {
+      "title": "1.3. Properties of transition metals (chemistry only)",
+      "topic": "atomic-structure-and-periodic-table",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/1-Atomic-Structure-and-the-Periodic-Table/Summary/1.3. Properties of transition metals (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/atomic-structure-and-periodic-table",
+      "selection": "Summary Notes",
+      "file": "atomic-structure-and-periodic-table-1-3-properties-of-transition-metals-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "ac333cbd716fb6243a3a3f100b2f46f8b7b17250e10e02dcd5e5ac886be28e82",
+      "local_path": "Reference Materials\\PMT - Summary 1.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT subsections and relevant SR pages. Retained detailed scattering interpretation, electron arrangements and group reactions. Improved formula counting, readable symbols, weighted-mean steps and separation choices. Rejected SR Mendeleev 1969 date, universal eight-electron shell capacity, MgO as Group 1 oxide, and PMT chloride-as-precipitate wording. Group 0 terminology and standard AQA trends retained."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Atoms And Elements",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/atoms-and-elements",
+      "file": "atoms-and-elements.txt",
+      "words": 937
+    },
+    {
+      "title": "Chemical Equations",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/chemical-equations",
+      "file": "chemical-equations.txt",
+      "words": 323
+    },
+    {
+      "title": "Compounds And Mixtures",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/compounds-and-mixtures",
+      "file": "compounds-and-mixtures.txt",
+      "words": 396
+    },
+    {
+      "title": "History Of Atomic Structure",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/history-of-atomic-structure",
+      "file": "history-of-atomic-structure.txt",
+      "words": 786
+    },
+    {
+      "title": "Separating Techniques",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques",
+      "file": "separating-techniques.txt",
+      "words": 1000
+    },
+    {
+      "title": "Group 0 And Transition Elements",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-0-and-transition-elements",
+      "file": "group-0-and-transition-elements.txt",
+      "words": 290
+    },
+    {
+      "title": "Group 1",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-1",
+      "file": "group-1.txt",
+      "words": 624
+    },
+    {
+      "title": "Group 7",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-7",
+      "file": "group-7.txt",
+      "words": 448
+    },
+    {
+      "title": "History Of The Periodic Table",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/history-of-the-periodic-table",
+      "file": "history-of-the-periodic-table.txt",
+      "words": 1508
+    }
+  ],
+  "decisions": [
+    "Reviewed all three PMT subsections and relevant SR pages. Retained detailed scattering interpretation, electron arrangements and group reactions. Improved formula counting, readable symbols, weighted-mean steps and separation choices. Rejected SR Mendeleev 1969 date, universal eight-electron shell capacity, MgO as Group 1 oxide, and PMT chloride-as-precipitate wording. Group 0 terminology and standard AQA trends retained.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 24,
+    "added": 14,
+    "refined": 0,
+    "after": 38
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -11,22 +11,30 @@ Atoms are the tiny building blocks of matter. Think of elements as different typ
 - A chemical reaction forms **new substances** and often transfers energy. Compounds require chemical reactions to separate them into their elements; mixtures can be separated physically.
 
 ### Symbols and formulae
+| Number | Symbol and element | Number | Symbol and element |
+|---|---|---|---|
+| 1 | H: hydrogen | 11 | Na: sodium |
+| 2 | He: helium | 12 | Mg: magnesium |
+| 3 | Li: lithium | 13 | Al: aluminium |
+| 4 | Be: beryllium | 14 | Si: silicon |
+| 5 | B: boron | 15 | P: phosphorus |
+| 6 | C: carbon | 16 | S: sulfur |
+| 7 | N: nitrogen | 17 | Cl: chlorine |
+| 8 | O: oxygen | 18 | Ar: argon |
+| 9 | F: fluorine | 19 | K: potassium |
+| 10 | Ne: neon | 20 | Ca: calcium |
 
-| Elements 1–10 | Elements 11–20 |
-|---|---|
-| H hydrogen; He helium | Na sodium; Mg magnesium |
-| Li lithium; Be beryllium | Al aluminium; Si silicon |
-| B boron; C carbon | P phosphorus; S sulfur |
-| N nitrogen; O oxygen | Cl chlorine; Ar argon |
-| F fluorine; Ne neon | K potassium; Ca calcium |
+A periodic table is supplied. Also recognise **Br: bromine**, **I: iodine**, **Fe: iron**, **Cu: copper**, **Zn: zinc**, **Ag: silver** and **Pb: lead**.
 
-A periodic table is supplied in the exam. Also recognise **Br bromine, I iodine, Fe iron, Cu copper, Zn zinc, Ag silver and Pb lead**, and use the table to identify other symbols.
+A formula describes composition. **CO₂** contains one carbon atom for every two oxygen atoms. **Ca(OH)₂** has one calcium, two oxygen and two hydrogen atoms in its formula ratio: the 2 applies to everything inside the brackets.
 
-- A formula gives the ratio of atoms: CO₂ contains one carbon and two oxygen atoms; Ca(OH)₂ contains one calcium, two oxygen and two hydrogen atoms.
-- Compounds containing two elements often end in **-ide**, such as sodium chloride. Names ending in **-ate** often indicate oxygen is present too, such as sodium sulfate.
-- Word equation: **magnesium + oxygen → magnesium oxide**.
-- Balanced symbol equation: **2Mg + O₂ → 2MgO**. There are two Mg atoms and two O atoms on each side.
-- Balance by changing **coefficients in front of formulae**. Never change a substance's formula to make the equation balance.
+Compounds containing two elements often have names ending in **-ide**, such as sodium chloride. **-ate** often indicates oxygen is also present, such as sodium sulfate.
+
+**Word equation: magnesium + oxygen → magnesium oxide**
+
+**Balanced symbol equation: 2Mg + O₂ → 2MgO**
+
+The coefficient **2** before MgO multiplies the complete formula, giving two Mg atoms and two O atoms in total. Change coefficients to balance an equation; changing a small subscript would change the substance.
 
 ## Separating mixtures
 
@@ -45,6 +53,12 @@ Choose the method from the substances' **physical properties**. Separation does 
 - For chromatography, use a **pencil baseline above the solvent level**. Ink would dissolve, and a submerged sample could wash into the solvent. Mark the solvent front promptly.
 - Do not use filtration to remove dissolved salt: dissolved particles pass through the filter.
 - Wear goggles and handle hot glassware carefully. Keep flammable solvents away from flames.
+
+### Choosing a sequence rather than one method
+
+Suppose a mixture contains sand and dissolved salt in water. **Filtration** first removes sand, but the salt remains in the filtrate. To recover solid salt, concentrate the filtrate and cool it for **crystallisation**. To recover water instead, **distil** the filtrate and collect the condensed liquid.
+
+Evaporation takes place at a liquid's surface and can occur below boiling point. Boiling occurs throughout the liquid at its boiling temperature for that pressure. Distillation uses evaporation and condensation; it does not rely on changing water into new substances.
 
 ## Inside an atom
 
@@ -69,20 +83,21 @@ Example: sodium-23 has atomic number 11. It contains **11 protons, 12 neutrons a
 - A shell drawing is a model: nuclei and electrons cannot both be drawn to true scale on a useful classroom diagram.
 
 ## Isotopes and relative atomic mass
+**Isotopes** are atoms of the same element with **the same proton number but different neutron numbers**. Chlorine-35 and chlorine-37 both have 17 protons, with 18 and 20 neutrons respectively.
 
-**Isotopes** are atoms of the same element with **the same number of protons but different numbers of neutrons**. Their mass numbers differ.
+Neutral atoms of those isotopes have the same electron arrangement, explaining their very similar chemical reactions. Their different masses do not make them different elements.
 
-Chlorine-35 and chlorine-37 both have 17 protons. They have 18 and 20 neutrons respectively. Neutral atoms of both have 17 electrons, so their chemical properties are very similar.
+**Relative atomic mass, Aᵣ**, is a weighted mean that accounts for isotope abundance. It has no unit and need not be a whole number. It is like a class average: the more common score has more influence.
 
-**Relative atomic mass, Aᵣ**, is an average that accounts for the abundance of each isotope. It is not necessarily a whole number and has no unit.
+**Aᵣ = sum of (isotope mass × percentage abundance) ÷ 100**
 
-**Aᵣ = Σ(isotope mass × percentage abundance) ÷ 100**
+For 75% chlorine-35 and 25% chlorine-37:
 
-If a sample contains 75% chlorine-35 and 25% chlorine-37:
+1. Weight chlorine-35: **35 × 75 = 2,625**.
+2. Weight chlorine-37: **37 × 25 = 925**.
+3. Add and divide: **(2,625 + 925) ÷ 100 = 35.5**.
 
-**Aᵣ = [(35 × 75) + (37 × 25)] ÷ 100 = 35.5**
-
-This is like finding a class average when many more students scored 35 than 37: the mean lies closer to the more common value. Do not take a simple halfway average unless the abundances are equal.
+The result lies between 35 and 37, closer to the more abundant isotope. If abundances are given as counts rather than percentages, divide by **the total count**, not automatically by 100.
 
 ## Electrons and the periodic table
 
@@ -126,11 +141,11 @@ A scientific model is an explanation supported by evidence. New evidence can for
 **Very few bounced back:** most of the atom's mass and positive charge must be concentrated in a **tiny, dense nucleus**. Positive charge spread throughout a plum pudding atom could not account for these rare, large deflections.
 
 ### Development of the periodic table
+Early tables arranged elements by **atomic weight**. Newlands noticed repeated properties in his “law of octaves”, but a rigid repeating pattern did not work for all the known elements.
 
-- Early tables followed **atomic weight**. Some chemically similar elements ended up in different groups.
-- **Mendeleev left gaps** for undiscovered elements and sometimes changed the strict mass order to keep similar properties together.
-- He predicted missing elements' properties. Later discoveries matched these predictions, strengthening confidence in his table.
-- Discovery of **isotopes** explained why average atomic mass does not always follow atomic-number order. Modern tables use proton number.
+**Mendeleev** left gaps for undiscovered elements and sometimes reversed the strict mass order to keep similar properties together. He predicted properties of the missing elements. Later discoveries matching those predictions supported his arrangement.
+
+The modern table follows **atomic number**, which counts protons. Isotopes explain why an average atomic mass is not a perfect way to order elements: it depends on both neutron numbers and relative abundances. A modern periodic-table box represents an **element**, not one particular isotope or a literal individual atom.
 
 ## Groups 0, 1 and 7
 
@@ -186,3 +201,18 @@ Many transition metals:
 - Act as **catalysts**, including iron in ammonia manufacture and nickel in hydrogenation.
 
 These are general trends, not rules without exceptions. Use the particular element and evidence in the question.
+
+## Sources
+
+- [PMT: 1.1. A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes](../Reference Materials/PMT - Summary 1.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 1.2. The periodic table](../Reference Materials/PMT - Summary 1.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 1.3. Properties of transition metals (chemistry only)](../Reference Materials/PMT - Summary 1.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Atoms And Elements](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/atoms-and-elements). Cross-checked against the project specification.
+- [Study Rocket: Chemical Equations](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/chemical-equations). Cross-checked against the project specification.
+- [Study Rocket: Compounds And Mixtures](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/compounds-and-mixtures). Cross-checked against the project specification.
+- [Study Rocket: History Of Atomic Structure](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/history-of-atomic-structure). Cross-checked against the project specification.
+- [Study Rocket: Separating Techniques](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques). Cross-checked against the project specification.
+- [Study Rocket: Group 0 And Transition Elements](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-0-and-transition-elements). Cross-checked against the project specification.
+- [Study Rocket: Group 1](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-1). Cross-checked against the project specification.
+- [Study Rocket: Group 7](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/group-7). Cross-checked against the project specification.
+- [Study Rocket: History Of The Periodic Table](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-the-periodic-table/history-of-the-periodic-table). Cross-checked against the project specification.
