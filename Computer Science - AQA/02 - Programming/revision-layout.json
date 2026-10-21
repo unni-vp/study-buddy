@@ -4,7 +4,7 @@
     {
       "id": "foundations",
       "title": "Values and data types",
-      "icon": "computer-code",
+      "icon": "nav-code",
       "description": "Choose types, name values and use assignment.",
       "sections": [
         {
@@ -15,7 +15,7 @@
     {
       "id": "control",
       "title": "Decisions and loops",
-      "icon": "computer-algorithm",
+      "icon": "nav-flow",
       "description": "Follow selection, repetition and nested control structures.",
       "sections": [
         {
@@ -26,7 +26,7 @@
     {
       "id": "operators",
       "title": "Operators and logic",
-      "icon": "computer-code",
+      "icon": "nav-logic",
       "description": "Calculate values and build correct conditions.",
       "sections": [
         {
@@ -37,7 +37,7 @@
     {
       "id": "data",
       "title": "Arrays and records",
-      "icon": "computer-data",
+      "icon": "nav-database",
       "description": "Access, change and process organised data.",
       "sections": [
         {
@@ -48,7 +48,7 @@
     {
       "id": "strings",
       "title": "Input, strings and random values",
-      "icon": "computer-data",
+      "icon": "nav-word",
       "description": "Handle text, conversions, input and generated values.",
       "sections": [
         {
@@ -65,7 +65,7 @@
     {
       "id": "structure",
       "title": "Subroutines",
-      "icon": "computer-structure",
+      "icon": "nav-modules",
       "description": "Pass values, return results and build reusable modules.",
       "sections": [
         {
@@ -76,7 +76,7 @@
     {
       "id": "quality",
       "title": "Validation and testing",
-      "icon": "computer-test",
+      "icon": "nav-check",
       "description": "Check input and find errors using planned test data.",
       "sections": [
         {
