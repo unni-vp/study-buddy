@@ -5,7 +5,7 @@
       "id": "photosynthesis",
       "title": "Photosynthesis & its practical",
       "description": "Glucose, limiting factors and measuring rate",
-      "icon": "practical",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Photosynthesis"
@@ -26,7 +26,7 @@
       "id": "respiration",
       "title": "Respiration, exercise & metabolism",
       "description": "Energy transfer and the reactions of living cells",
-      "icon": "transport",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Aerobic and anaerobic respiration"
