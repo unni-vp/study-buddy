@@ -5,7 +5,7 @@
       "id": "energy",
       "title": "Energy transfers and practicals",
       "description": "Read profiles, calculate bond energies and investigate temperature.",
-      "icon": "practical",
+      "icon": "nav-thermometer",
       "sections": [
         {
           "heading": "Exothermic and endothermic reactions"
@@ -25,7 +25,7 @@
       "id": "cells",
       "title": "Cells, batteries and fuel cells",
       "description": "Explain electricity generation and compare energy sources.",
-      "icon": "transport",
+      "icon": "nav-battery",
       "sections": [
         {
           "heading": "Cells and batteries"
