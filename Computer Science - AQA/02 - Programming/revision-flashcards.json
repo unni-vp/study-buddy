@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "basis": "Original revision-note retrieval practice, reviewed against AQA 8525 first exams 2027. Study Rocket used as a coverage reference, not a source of verbatim questions.",
+  "updates": [
+    {
+      "front": "What is a parameter?",
+      "back": [
+        "A parameter carries data into a subroutine. Its position or name connects the supplied value to the value used by that subroutine."
+      ]
+    },
+    {
+      "front": "State two features of local variables.",
+      "back": [
+        "They normally exist only while their subroutine executes and are accessible only within it. Keeping working values local reduces accidental interference between modules."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Trace and apply",
+      "front": "How many times does the body of `for n in range(2, 6)` run in Python?",
+      "back": [
+        "Four times: n takes the values 2, 3, 4 and 5. The upper endpoint 6 is excluded."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "Two loops are nested: the outer loop runs 3 times and the inner loop runs 4 times per outer repetition. How many times does the inner body run?",
+      "back": [
+        "12 times, because 3 × 4 = 12. The inner loop starts again for every outer repetition."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When can two separate IF statements behave differently from an IF/ELIF chain?",
+      "back": [
+        "Both separate IF conditions can be true and both bodies can run. An IF/ELIF chain takes only its first true branch."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What makes REPEAT UNTIL and DO WHILE use opposite stopping logic?",
+      "back": [
+        "REPEAT UNTIL stops when its condition is true. DO WHILE repeats while its condition is true. Both check after running the body."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "What is the result of `\"6\" + \"4\"`, and how can you obtain the numeric sum instead?",
+      "back": [
+        "The string result is \"64\". Convert both strings first: int(\"6\") + int(\"4\") gives 10."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "For `text = \"BIOLOGY\"`, what does `text[1:4]` return?",
+      "back": [
+        "\"IOL\". Python includes positions 1, 2 and 3, but excludes position 4."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "For `seats = [[\"A\", \"B\"], [\"C\", \"D\"]]`, what does `seats[1][0]` access?",
+      "back": [
+        "\"C\": row 1, column 0, using zero-based indexing."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does choosing a record instead of an array automatically make data permanent?",
+      "back": [
+        "No. Both describe how data is organised. Keeping data after a program closes requires it to be saved to suitable storage."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can an array of pupil records be accessed in two stages?",
+      "back": [
+        "Use an array index to select one pupil, then a named field to select a fact about that pupil."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should a well-documented subroutine interface explain?",
+      "back": [
+        "Its name and purpose, the required parameters and their order, any assumptions, and the meaning of its return value."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "A function subtract(first, second) returns first − second. Compare subtract(9, 2) and subtract(2, 9).",
+      "back": [
+        "The results are 7 and −7. Changing parameter order changes which value is subtracted."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does displaying a result inside a function not replace returning it?",
+      "back": [
+        "Displaying sends information to the screen. Returning passes a value back so the caller can store it or use it in another expression."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a returned value be used without first assigning it to a variable?",
+      "back": [
+        "The call itself supplies the returned value. For example, print(rectangle_area(3, 5)) passes the returned area straight to print."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do local variables reduce accidental interference between subroutines?",
+      "back": [
+        "Each subroutine keeps its working values within its own scope. Another module cannot accidentally change those local values by using the same name."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What makes a code comment useful?",
+      "back": [
+        "It explains purpose, an assumption or a non-obvious choice. It should remain accurate when the code changes, rather than merely repeat an obvious instruction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should a program store a random die roll before displaying and testing it?",
+      "back": [
+        "Storing the result lets both operations use the same throw. Calling the random function again may test a different number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can `random.randint(1, 6)` return 6 twice in succession?",
+      "back": [
+        "Yes. Both endpoints are included and repeated calls can produce the same result. Random does not mean every result must differ."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For a minimum string length of 8, should a length of exactly 8 pass?",
+      "back": [
+        "Yes. Test len(text) >= 8, or repeat input while len(text) < 8. A minimum includes its stated boundary."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a valid-looking age not prove that an age is correct?",
+      "back": [
+        "Validation checks a rule such as a permitted range. A person can enter an untrue age that still lies within that range."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "After correcting a failed test, why should previously working cases be checked again?",
+      "back": [
+        "The correction may affect another branch or boundary. Retesting checks that the fix has not broken earlier behaviour."
+      ]
+    }
+  ]
+}

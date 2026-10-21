@@ -172,6 +172,9 @@ seats[0][1] = &quot;Booked&quot;
 <p>The first index selects the <strong>row</strong>, and the second selects the <strong>column</strong>. The output is <code>F</code>. Updating row 0, column 1 replaces <code>B</code>, leaving the other cells unchanged.</p>
 <p>To visit every seat, use one loop for rows and a nested loop for columns. Keep both indices within their valid ranges.</p>
 <p>A record groups fields describing <strong>one entity</strong>. For example, a pupil record can hold a string name, integer year group and Boolean attendance value. A program could store many pupil records in an array: the array selects the pupil, and the field name selects the fact about that pupil.</p>
+<h3>Structure does not decide whether data is saved</h3>
+<p>An array organises values by <strong>position</strong>. A record organises related values into <strong>named fields</strong>. Neither choice automatically saves its contents when the program closes. Data held only in working memory can be lost; retaining it requires a suitable storage operation.</p>
+<p>An array of pupil records combines both ideas. The array index selects a pupil; a field such as <code>yearGroup</code> selects one fact about that pupil. This is different from using several unrelated variables without a clear connection.</p>
 <h2>Input and output</h2>
 <ul>
 <li>Input collects data, often from the keyboard.</li>
@@ -250,6 +253,19 @@ print(rectangle_area(3, 5))
 <h3>Why structure helps</h3>
 <p>A reusable function can replace several copies of the same calculation. One correction then fixes every call, instead of leaving slightly different copies to maintain. Each module can be tested separately with known inputs and expected outputs.</p>
 <p>Clear parameters and return values state what a module needs and provides. They also let different programmers develop separate modules, provided those interfaces agree.</p>
+<h3>Documenting a clear interface</h3>
+<p>An <strong>interface</strong> tells the caller how to use a subroutine. It is like the order instructions on a takeaway menu: the caller needs to know what to supply and what comes back, without following every step in the kitchen.</p>
+<p>For <code>rectangle_area(width, height)</code>, useful documentation states:</p>
+<table>
+<tr><th>Part of the interface</th><th>What the caller needs to know</th></tr>
+<tr><td>Name and purpose</td><td><code>rectangle_area</code> calculates a rectangle&#x27;s area.</td></tr>
+<tr><td>Parameters and order</td><td>Supply width first, then height, as numeric values in the same length unit.</td></tr>
+<tr><td>Assumptions</td><td>This calculation expects non-negative dimensions. It does not itself validate them.</td></tr>
+<tr><td>Return value</td><td>The returned number is the area in square units. It is not automatically displayed.</td></tr>
+</table>
+<p>Parameter order matters when the calculation is not symmetrical. A function defined as <code>subtract(first, second)</code> and returning <code>first - second</code> gives 6 for <code>subtract(10, 4)</code>, but −6 for <code>subtract(4, 10)</code>.</p>
+<p><strong>Comments</strong> should explain purpose, assumptions or a difficult choice. A comment such as “The upper limit is excluded by range” can clarify a loop. Repeating “add one” beside an obvious addition adds little. Update comments when the code changes.</p>
+<p>Local variables keep a module&#x27;s working data separate. A value that many unrelated modules can change creates a <strong>shared dependency</strong>: a change elsewhere can unexpectedly affect the result. Passing needed values in and returning a result makes that relationship easier to follow.</p>
 <h2>Validation and authentication</h2>
 <p><strong>Validation</strong> checks that input is sensible and follows rules. It does not prove that the input is factually correct.</p>
 <p>Common checks include:</p>
@@ -337,4 +353,7 @@ while len(code) &lt; 8:
 <ul>
 <li><a href="../../Computer%20Science%20-%20AQA/02%20-%20Programming/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
 <li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/data-structures">Study Rocket: Data Structures</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-concepts">Study Rocket: Programming Concepts</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/structured-programming">Study Rocket: Structured Programming</a>. Coverage reference; checked against the current AQA specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

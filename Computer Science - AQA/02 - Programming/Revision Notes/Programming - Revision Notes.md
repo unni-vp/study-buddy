@@ -248,6 +248,12 @@ To visit every seat, use one loop for rows and a nested loop for columns. Keep b
 
 A record groups fields describing **one entity**. For example, a pupil record can hold a string name, integer year group and Boolean attendance value. A program could store many pupil records in an array: the array selects the pupil, and the field name selects the fact about that pupil.
 
+### Structure does not decide whether data is saved
+
+An array organises values by **position**. A record organises related values into **named fields**. Neither choice automatically saves its contents when the program closes. Data held only in working memory can be lost; retaining it requires a suitable storage operation.
+
+An array of pupil records combines both ideas. The array index selects a pupil; a field such as `yearGroup` selects one fact about that pupil. This is different from using several unrelated variables without a clear connection.
+
 ## Input and output
 
 - Input collects data, often from the keyboard.
@@ -357,6 +363,25 @@ The local `area` belongs to the function call. Code outside the function should 
 A reusable function can replace several copies of the same calculation. One correction then fixes every call, instead of leaving slightly different copies to maintain. Each module can be tested separately with known inputs and expected outputs.
 
 Clear parameters and return values state what a module needs and provides. They also let different programmers develop separate modules, provided those interfaces agree.
+
+### Documenting a clear interface
+
+An **interface** tells the caller how to use a subroutine. It is like the order instructions on a takeaway menu: the caller needs to know what to supply and what comes back, without following every step in the kitchen.
+
+For `rectangle_area(width, height)`, useful documentation states:
+
+| Part of the interface | What the caller needs to know |
+|---|---|
+| Name and purpose | `rectangle_area` calculates a rectangle's area. |
+| Parameters and order | Supply width first, then height, as numeric values in the same length unit. |
+| Assumptions | This calculation expects non-negative dimensions. It does not itself validate them. |
+| Return value | The returned number is the area in square units. It is not automatically displayed. |
+
+Parameter order matters when the calculation is not symmetrical. A function defined as `subtract(first, second)` and returning `first - second` gives 6 for `subtract(10, 4)`, but −6 for `subtract(4, 10)`.
+
+**Comments** should explain purpose, assumptions or a difficult choice. A comment such as “The upper limit is excluded by range” can clarify a loop. Repeating “add one” beside an obvious addition adds little. Update comments when the code changes.
+
+Local variables keep a module's working data separate. A value that many unrelated modules can change creates a **shared dependency**: a change elsewhere can unexpectedly affect the result. Passing needed values in and returning a result makes that relationship easier to follow.
 
 ## Validation and authentication
 
@@ -469,3 +494,6 @@ A syntax error prevents the code from being understood correctly, such as a miss
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Data Structures](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/data-structures). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Programming Concepts](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-concepts). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Structured Programming](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/structured-programming). Coverage reference; checked against the current AQA specification.

@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.2.1–3.2.11",
+  "sources": [
+    {
+      "title": "Data Structures",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/data-structures"
+    },
+    {
+      "title": "Programming Concepts",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-concepts"
+    },
+    {
+      "title": "Structured Programming",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/structured-programming"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Arrays and records",
+    "Subroutines and structured programming"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "programming-concepts"
+      ],
+      "decision": "Existing types, named values, operator tables, nested control, input and examples retained. Expanded cards on endpoint, branch and post-condition differences."
+    },
+    {
+      "pages": [
+        "data-structures"
+      ],
+      "decision": "Added structure versus persistence and array-of-record reasoning. Did not import claims that records are inherently permanent or every language starts indexing at zero."
+    },
+    {
+      "pages": [
+        "structured-programming"
+      ],
+      "decision": "Added a documented interface, parameter-order example, comment quality and shared dependencies. Retained direct use of return values; source claim that returns must be assigned is incorrect. Global-state problems are explained through coupling, not a blanket memory-saving claim."
+    }
+  ],
+  "flashcards": {
+    "previous": 26,
+    "added": 20,
+    "refined": 2,
+    "total": 46
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}
