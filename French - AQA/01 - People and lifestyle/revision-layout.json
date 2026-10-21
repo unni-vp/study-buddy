@@ -5,7 +5,7 @@
       "id": "people",
       "title": "Identity and relationships",
       "description": "Describe people, explain relationships and develop opinions.",
-      "icon": "literature-book",
+      "icon": "nav-people",
       "sections": [
         {
           "heading": "Introducing yourself and other people"
@@ -22,7 +22,7 @@
       "id": "health",
       "title": "Healthy living",
       "description": "Discuss habits, problems and improvements in different time frames.",
-      "icon": "literature-pen",
+      "icon": "nav-heart",
       "sections": [
         {
           "heading": "Food and healthy living"
@@ -36,7 +36,7 @@
       "id": "education",
       "title": "Education and work",
       "description": "Explain school life, future ambitions and developed responses.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "School life and opinions"
