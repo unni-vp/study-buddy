@@ -86,6 +86,16 @@ A 2.0 kg object has 36 J of kinetic energy.
 2. Substitute: v = √(2 × 36 ÷ 2.0) = √36.
 3. The speed is **6.0 m/s**.
 
+### Link two stores in one calculation
+
+A **0.50 kg** object falls **2.0 m** from rest. Use **g = 9.8 N/kg** and initially ignore air resistance.
+
+1. Gravitational energy decrease = **mgΔh = 0.50 × 9.8 × 2.0 = 9.8 J**.
+2. That becomes kinetic energy, so **½mv² = 9.8 J**.
+3. Rearrange: **v = √(2 × 9.8 ÷ 0.50) = 6.3 m/s**, to two significant figures.
+
+With air resistance, some energy increases thermal stores instead. The kinetic energy gained and final speed would be smaller. Conservation still holds: the system must include the objects and surroundings receiving energy.
+
 ## Conservation, dissipation and efficiency
 
 **Energy cannot be created or destroyed.** In a closed system, the total energy stays constant. If an object loses energy, another part of the system gains it. Include the surroundings in your system when they receive energy.
@@ -118,6 +128,16 @@ Input energy = useful output ÷ efficiency
 Input energy = 240 ÷ 0.80 = **300 J**
 
 **Improving efficiency:** lubrication reduces friction, so less energy transfers to unwanted thermal stores. Insulation reduces unwanted heating of the surroundings. A more efficient device needs less input energy for the **same useful output**.
+
+### A chain of devices has more than one loss
+
+A charger transfers **80%** of its input to a battery, and the battery-powered motor transfers **75%** of that energy usefully. For **100 J** entering the charger:
+
+1. Energy reaching the battery = **100 × 0.80 = 80 J**.
+2. Useful motor output = **80 × 0.75 = 60 J**.
+3. Overall efficiency = **60 ÷ 100 = 0.60**, or **60%**.
+
+Multiply decimal efficiencies for sequential stages. Adding 80% and 75%, or averaging them, would not track the changing amount available at each stage.
 
 ## Power and work
 
@@ -228,6 +248,16 @@ Energy transfers from hotter to cooler surroundings. **Higher thermal conductivi
 - Thicker insulation usually slows cooling, but each extra layer may give a smaller extra benefit.
 - Compare cost with savings and practicality. Simple **payback time = installation cost ÷ annual saving** when annual savings are assumed constant.
 
+### What the insulation changes
+
+**Conduction:** particles pass energy to neighbouring particles; mobile electrons also transfer energy in metals. A low-conductivity layer reduces the transfer rate for the same thickness, area and temperature difference.
+
+**Convection:** warmer fluid can expand, become less dense and rise, with cooler fluid replacing it. Trapping air in small spaces restricts this circulation. A large open air gap can allow convection, so “more air” alone does not explain better insulation.
+
+**Infrared radiation:** surfaces transfer energy by electromagnetic waves. A suitable shiny surface can reduce absorption and emission compared with a dull black surface under otherwise matching conditions.
+
+Insulation slows energy transfer; it does not generate energy. Comparisons need matching starting temperatures and surroundings because a larger temperature difference usually produces faster cooling.
+
 ## Practical: compare thermal insulators
 
 
@@ -262,3 +292,19 @@ A **renewable resource is replenished as it is used**. Fossil fuels and nuclear 
 When evaluating a choice, use the given data: output, reliability, cost, land use and emissions. State which factor matters most for the situation, then give a justified conclusion. Scientists can measure emissions and risks; policy also depends on **economic, social, ethical and political decisions**.
 
 For trends, distinguish an increase in total energy from an increase in percentage share. New technology, cost, fuel availability and environmental policy can change the mix. Avoid inventing current percentages when the question supplies a graph.
+
+## Sources
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Energy Biofuels And Non Renewable Energies](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-biofuels-and-non-renewable-energies). Cross-checked against the project specification.
+- [Study Rocket: Energy Conduction And Convection](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conduction-and-convection). Cross-checked against the project specification.
+- [Study Rocket: Energy Conservation Of Energy And Power](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conservation-of-energy-and-power). Cross-checked against the project specification.
+- [Study Rocket: Energy Efficiency](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-efficiency). Cross-checked against the project specification.
+- [Study Rocket: Energy Energy Resources And Their Uses](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-energy-resources-and-their-uses). Cross-checked against the project specification.
+- [Study Rocket: Energy Energy Stores Systems](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-energy-stores-systems). Cross-checked against the project specification.
+- [Study Rocket: Energy Hydro Electricity Waves And Tides](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-hydro-electricity-waves-and-tides). Cross-checked against the project specification.
+- [Study Rocket: Energy Kinetic And Potential Energy Stores](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-kinetic-and-potential-energy-stores). Cross-checked against the project specification.
+- [Study Rocket: Energy Reducing Unwanted Energy Transfers](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-reducing-unwanted-energy-transfers). Cross-checked against the project specification.
+- [Study Rocket: Energy Specific Heat Capacity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-specific-heat-capacity). Cross-checked against the project specification.
+- [Study Rocket: Energy Trends In Energy Resource Use](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-trends-in-energy-resource-use). Cross-checked against the project specification.
+- [Study Rocket: Energy Wind Solar And Geothermal](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-wind-solar-and-geothermal). Cross-checked against the project specification.

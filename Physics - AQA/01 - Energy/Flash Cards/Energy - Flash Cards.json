@@ -175,6 +175,104 @@
         "v = **√(2Eₖ/m)** = √(160/2).",
         "**v = 8.94 m/s**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much gravitational energy does a 0.50 kg object lose falling 2.0 m at g = 9.8 N/kg?",
+      "back": [
+        "9.8 J."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is √(2gΔh) only an ideal falling-speed result when air resistance is neglected?",
+      "back": [
+        "It assumes all the gravitational energy decrease becomes kinetic energy rather than warming the object and surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the overall efficiency of sequential 80% and 75% stages?",
+      "back": [
+        "60%, calculated as 0.80 × 0.75."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must sequential efficiencies be multiplied rather than averaged?",
+      "back": [
+        "Each stage receives only the energy passed on by the previous stage."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a metal conduct thermal energy particularly effectively?",
+      "back": [
+        "Mobile electrons transfer energy through the metal as well as interactions between neighbouring particles."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does trapped air help insulate a wall?",
+      "back": [
+        "Air has low thermal conductivity, and small pockets restrict convection currents."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a large open air gap insulate less well than small air pockets?",
+      "back": [
+        "The larger gap can allow air to circulate and transfer energy by convection."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does insulation create thermal energy?",
+      "back": [
+        "No. It reduces unwanted energy transfer."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must insulation tests start at similar temperatures?",
+      "back": [
+        "Cooling rate depends on the temperature difference between the sample and surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can sunlight still produce solar-cell output on a cloudy day?",
+      "back": [
+        "Some light reaches the cells, although output is usually lower than in strong sunlight."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a solar cell require a turbine to generate electricity?",
+      "back": [
+        "No. It converts energy transferred by light directly into electrical energy transfer."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is biofuel not automatically carbon neutral over its whole life cycle?",
+      "back": [
+        "Growing, processing, transport and land-use change can cause additional emissions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does predictable tidal timing not mean continuous tidal generation?",
+      "back": [
+        "Tidal movement varies through the cycle; output is limited at some times."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does doubling speed double kinetic energy?",
+      "back": [
+        "No. At fixed mass it quadruples kinetic energy because speed is squared."
+      ]
     }
   ]
 }

@@ -1,0 +1,119 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.1",
+  "sections_refined": [
+    "Calculating changes in stores",
+    "Conservation, dissipation and efficiency",
+    "Insulation and cooling"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "energy",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/1-Energy/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/energy/",
+      "selection": "Summary Notes",
+      "file": "energy-summary-notes.pdf",
+      "pages": 4,
+      "sha256": "78cfe1bf4cca2795db028e9719e80948718743ff30f6f3c6d81ddf1b900a264f",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed PMT summary and all twelve SR Energy pages against 4.1. Added linked store calculations, sequential efficiency and clear conduction/convection/radiation explanations. Retained equations, energy-budget diagram and both practical diagrams. Corrected SR direct proportionality to speed, automatic biofuel carbon neutrality, solar-cells-all-use-turbines and zero-impact resource claims. Generation engineering and advanced photovoltaic details are not required by 4.1.3."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Energy Biofuels And Non Renewable Energies",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-biofuels-and-non-renewable-energies",
+      "file": "energy-biofuels-and-non-renewable-energies.txt",
+      "words": 390
+    },
+    {
+      "title": "Energy Conduction And Convection",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conduction-and-convection",
+      "file": "energy-conduction-and-convection.txt",
+      "words": 310
+    },
+    {
+      "title": "Energy Conservation Of Energy And Power",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-conservation-of-energy-and-power",
+      "file": "energy-conservation-of-energy-and-power.txt",
+      "words": 444
+    },
+    {
+      "title": "Energy Efficiency",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-efficiency",
+      "file": "energy-efficiency.txt",
+      "words": 341
+    },
+    {
+      "title": "Energy Energy Resources And Their Uses",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-energy-resources-and-their-uses",
+      "file": "energy-energy-resources-and-their-uses.txt",
+      "words": 561
+    },
+    {
+      "title": "Energy Energy Stores Systems",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-energy-stores-systems",
+      "file": "energy-energy-stores-systems.txt",
+      "words": 358
+    },
+    {
+      "title": "Energy Hydro Electricity Waves And Tides",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-hydro-electricity-waves-and-tides",
+      "file": "energy-hydro-electricity-waves-and-tides.txt",
+      "words": 413
+    },
+    {
+      "title": "Energy Kinetic And Potential Energy Stores",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-kinetic-and-potential-energy-stores",
+      "file": "energy-kinetic-and-potential-energy-stores.txt",
+      "words": 479
+    },
+    {
+      "title": "Energy Reducing Unwanted Energy Transfers",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-reducing-unwanted-energy-transfers",
+      "file": "energy-reducing-unwanted-energy-transfers.txt",
+      "words": 331
+    },
+    {
+      "title": "Energy Specific Heat Capacity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-specific-heat-capacity",
+      "file": "energy-specific-heat-capacity.txt",
+      "words": 334
+    },
+    {
+      "title": "Energy Trends In Energy Resource Use",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-trends-in-energy-resource-use",
+      "file": "energy-trends-in-energy-resource-use.txt",
+      "words": 448
+    },
+    {
+      "title": "Energy Wind Solar And Geothermal",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-wind-solar-and-geothermal",
+      "file": "energy-wind-solar-and-geothermal.txt",
+      "words": 481
+    }
+  ],
+  "decisions": [
+    "Reviewed PMT summary and all twelve SR Energy pages against 4.1. Added linked store calculations, sequential efficiency and clear conduction/convection/radiation explanations. Retained equations, energy-budget diagram and both practical diagrams. Corrected SR direct proportionality to speed, automatic biofuel carbon neutrality, solar-cells-all-use-turbines and zero-impact resource claims. Generation engineering and advanced photovoltaic details are not required by 4.1.3.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 21,
+    "added": 14,
+    "refined": 0,
+    "after": 35
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
