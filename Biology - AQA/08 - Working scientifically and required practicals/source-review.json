@@ -1,0 +1,202 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: Working scientifically and all ten required practical activities",
+  "sections_refined": [
+    "Measurements, errors and improvements",
+    "Antibiotics and antiseptics on agar",
+    "Amylase and pH",
+    "Seedling responses to light or gravity",
+    "Ecology sampling"
+  ],
+  "pmt_references": [
+    {
+      "title": "Notes - RP 01 Microscopy - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 01 Microscopy - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-01-microscopy-aqa-biology-gcse.pdf",
+      "pages": 2,
+      "sha256": "fcea3f27c35d8fcb604143ebd2058f9cd777a92538a05c4fd75634d0227b5281",
+      "local_path": "Reference Materials\\PMT - RP 01 Microscopy.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 02 Microbiology - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 02 Microbiology - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-02-microbiology-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "2610a15c1e43b87529ab11f2a038a0f2ba862e7b50c81565393009ef33581796",
+      "local_path": "Reference Materials\\PMT - RP 02 Microbiology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 03 Osmosis - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 03 Osmosis - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-03-osmosis-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "5fb1d57b1732cc655fe50dc7a453c81a22d1c4343af730e39dd6804ca4b7abfb",
+      "local_path": "Reference Materials\\PMT - RP 03 Osmosis.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 04 Food tests - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 04 Food tests - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-04-food-tests-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "1fc1cfa586465e4503bcc8271faca06d6701c54722e15d7a6108eec919187f30",
+      "local_path": "Reference Materials\\PMT - RP 04 Food tests.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 05 Enzymes - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 05 Enzymes - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-05-enzymes-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "99dc855feb4be284013c97f1511dfb507b0fa928aaccabab085743727bb6f953",
+      "local_path": "Reference Materials\\PMT - RP 05 Enzymes.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 06 Photosynthesis - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 06 Photosynthesis - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-06-photosynthesis-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "0a9a5ba2653b55401891af8bacbd59f87e9c168f7b35e3eac00f8b38533b0209",
+      "local_path": "Reference Materials\\PMT - RP 06 Photosynthesis.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 07 Reaction time - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 07 Reaction time - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-07-reaction-time-aqa-biology-gcse.pdf",
+      "pages": 2,
+      "sha256": "676ea93d037345d86952aa4f33ba662cb4517042a65f02fc1d186f87873690ac",
+      "local_path": "Reference Materials\\PMT - RP 07 Reaction time.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 08 Plant responses - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 08 Plant responses - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-08-plant-responses-aqa-biology-gcse.pdf",
+      "pages": 2,
+      "sha256": "a0d657a923a7f69b8960c6e550873b6238d84fe84e61af622e6d1b7ec7a83703",
+      "local_path": "Reference Materials\\PMT - RP 08 Plant responses.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 09 Field investigation - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 09 Field investigation - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-09-field-investigation-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "666918685032e05d4d5beab9440bc077e7faab3c8467bd40acc8679dbcdc716b",
+      "local_path": "Reference Materials\\PMT - RP 09 Field investigation.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    },
+    {
+      "title": "Notes - RP 10 Decay - AQA Biology GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/Practical-Skills/Notes - RP 10 Decay - AQA Biology GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-notes-rp-10-decay-aqa-biology-gcse.pdf",
+      "pages": 3,
+      "sha256": "bc0c6dce68209a4fb869867b0a8645714950533e33d44efac1a47002e9d8422d",
+      "local_path": "Reference Materials\\PMT - RP 10 Decay.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All method pages",
+          "decision": "Cross-check aim, variables, controls, measurement, interpretation and safety against the official AQA activity. Retain original PDF but do not copy unsafe objective-contact instruction, duplicated osmosis step, reversed quadrat scaling, or incomplete direction/drawing coverage in the plant response sheet."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [],
+  "decisions": [
+    "Audited all ten practicals; retained every setup diagram and complete method.",
+    "Added resolution/uncertainty distinction, interval endpoints, independent replication, irregular-zone measurement and a corrected worked quadrat example.",
+    "PMT RP9 reverses the population-scaling ratio; the student explanation uses total habitat area divided by sampled area. PMT microscope advice to touch the slide with the objective is not adopted."
+  ],
+  "flashcards": {
+    "before": 38,
+    "added": 14,
+    "refined": 0,
+    "after": 52
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -31,6 +31,18 @@ Choose equipment appropriate to the quantity and required resolution: balance fo
 
 **Uncertainty:** report variation, such as the range of repeats. Consider both the instrument's resolution and the spread of the readings.
 
+### Resolution and uncertainty are not the same
+
+**Resolution** is the smallest change the instrument can distinguish. **Uncertainty** describes the interval within which the true value is considered likely to lie. A fine display cannot remove a badly calibrated instrument's systematic error.
+
+Suppose repeated endpoint times are **48 s, 52 s and 50 s**.
+
+1. Mean = **(48 + 52 + 50) ÷ 3 = 50 s**.
+2. Range = **52 − 48 = 4 s**.
+3. If the question asks for half-range uncertainty, use **±2 s**.
+
+The half-range describes this observed spread; it is not a universal rule that every instrument has ±2 s uncertainty. Repeats estimate random variation, while a calibration check addresses a consistent offset.
+
 ## Evidence, graphs and conclusions
 
 Use bars for categories and scatter/line graphs for numerical variables. Label axes with quantities and units, use sensible scales and draw a suitable best-fit line/curve rather than forcing it through every point. A histogram represents numerical intervals using touching bars; interpret the frequency and class widths supplied.
@@ -84,6 +96,12 @@ If specifically asked for clear agar excluding the disc, subtract the disc area.
 A larger zone suggests stronger inhibition **under these conditions**. Diffusion through agar also affects size, so it is not automatically proof of the best treatment in a patient.
 
 Keep plates closed after incubation and use approved disposal. Sterilise equipment rather than merely wiping it; aseptic methods prevent contamination and improve validity.
+
+### An irregular inhibition zone
+
+When a zone is not perfectly circular, measure two diameters at right angles and take their mean before estimating a circular area. State that the shape is being approximated. Measure through the closed lid and compare zones that do not overlap or run off the plate.
+
+Do not count two diameters on one zone as two independent plate repeats. They improve the shape estimate, while repeated cultures assess variation between trials.
 
 ## Osmosis in plant tissue
 
@@ -139,6 +157,12 @@ An alternative lipid test mixes the sample with **ethanol**, then adds water: a 
 
 Use fresh wells rather than returning iodine to the reaction tube. Buffers control pH. Extreme pH can change active-site shape, reducing activity. A 30-second sampling interval limits endpoint precision; shorter intervals can improve it if carried out consistently. A no-amylase control checks that starch does not disappear for another reason.
 
+### What does the endpoint actually tell us?
+
+If iodine is blue-black at **60 s** and remains orange-brown at **90 s**, the endpoint occurred somewhere between those observations. Reporting 90 s as an exact moment overstates the method's precision. Shorter, consistently timed samples narrow that interval.
+
+Use enough pH values around the apparent optimum to locate it more closely. A maximum at pH 7 in a coarse set does not prove the optimum is exactly 7.000.
+
 ## Photosynthesis and light intensity
 
 **Aim:** measure photosynthesis rate in an aquatic plant as light intensity changes.
@@ -181,6 +205,12 @@ The ruler distance is the measurement, not time itself. A longer fall generally 
 
 Shoot auxin promotes greater shaded-side elongation, bending towards light. In horizontal roots, more lower-side auxin **inhibits** elongation there, so the root bends down. Do not apply the shoot response unchanged to roots. A rotating clinostat can reduce a constant gravity direction relative to seedlings when appropriately used as an additional comparison.
 
+### Growth length and bending are separate results
+
+Measure growth as **final length − starting length** over the same time. A seedling may be longer without bending more, or bend without the greatest increase in total length. Keep labelled drawings and direction observations alongside the length measurements.
+
+Different light treatments can also change temperature or moisture. Monitor and control those conditions so a growth difference is not automatically attributed to light alone.
+
 ## Ecology sampling
 
 
@@ -197,6 +227,15 @@ Shoot auxin promotes greater shaded-side elongation, bending towards light. In h
 - Repeat parallel transects and consider other factors, such as moisture changing alongside light. Correlation is not proof of a sole cause.
 
 Identify organisms carefully and avoid damaging the habitat. Wash hands after soil contact and choose safe routes. More samples reduce uncertainty but do not correct consistently mistaken species identification.
+
+### Scaling the sample in the correct direction
+
+If ten quadrats each cover **0.25 m²**, the total area sampled is **2.5 m²**. Suppose they contain **50 plants** in total and the habitat is **100 m²**.
+
+1. Density = **50 ÷ 2.5 = 20 plants/m²**.
+2. Population estimate = **20 × 100 = 2,000 plants**.
+
+Multiply the sample count by **total area ÷ sampled area**. Reversing that ratio would make the estimated whole-habitat population smaller than the plants already counted. This is a useful reasonableness check.
 
 ## Milk decay and temperature
 
@@ -230,3 +269,14 @@ When evaluating a result, distinguish **what was measured**, **what it suggests*
 
 - [AQA Biology practical assessment](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/practical-assessment)
 - [AQA Working scientifically](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/working-scientifically)
+
+- [PMT: Notes - RP 01 Microscopy - AQA Biology GCSE](../Reference Materials/PMT - RP 01 Microscopy.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 02 Microbiology - AQA Biology GCSE](../Reference Materials/PMT - RP 02 Microbiology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 03 Osmosis - AQA Biology GCSE](../Reference Materials/PMT - RP 03 Osmosis.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 04 Food tests - AQA Biology GCSE](../Reference Materials/PMT - RP 04 Food tests.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 05 Enzymes - AQA Biology GCSE](../Reference Materials/PMT - RP 05 Enzymes.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 06 Photosynthesis - AQA Biology GCSE](../Reference Materials/PMT - RP 06 Photosynthesis.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 07 Reaction time - AQA Biology GCSE](../Reference Materials/PMT - RP 07 Reaction time.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 08 Plant responses - AQA Biology GCSE](../Reference Materials/PMT - RP 08 Plant responses.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 09 Field investigation - AQA Biology GCSE](../Reference Materials/PMT - RP 09 Field investigation.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Notes - RP 10 Decay - AQA Biology GCSE](../Reference Materials/PMT - RP 10 Decay.pdf). Unmodified reference; its original board is recorded in the review metadata.

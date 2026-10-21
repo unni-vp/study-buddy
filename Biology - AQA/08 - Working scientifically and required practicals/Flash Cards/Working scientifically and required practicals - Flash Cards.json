@@ -310,6 +310,104 @@
         "Soil moisture, minerals, species or plant age could also differ.",
         "A controlled investigation and broader sampling are needed to isolate causes; the correlation alone does not prove light caused every difference."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does instrument resolution differ from measurement uncertainty?",
+      "back": [
+        "Resolution is the smallest distinguishable change. Uncertainty describes the interval associated with a measured value and can include more than display resolution."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For 48, 52 and 50 s, what are the mean and half-range?",
+      "back": [
+        "The mean is 50 s. The range is 4 s, giving a half-range of ±2 s when that method is requested."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a more detailed display remove a systematic calibration error?",
+      "back": [
+        "No. More displayed digits do not correct a consistent offset; calibration or zero correction is needed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why measure two perpendicular inhibition-zone diameters?",
+      "back": [
+        "Their mean better represents a slightly irregular zone when estimating its circular area."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are two diameters from the same zone independent culture repeats?",
+      "back": [
+        "No. They describe the same zone. Separate repeated cultures test variation between trials."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a positive starch test at 60 s and negative test at 90 s establish?",
+      "back": [
+        "The endpoint occurred within that interval. It does not establish an exact endpoint of 90 s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can the apparent enzyme optimum be located more precisely?",
+      "back": [
+        "Test more closely spaced pH values around the observed maximum while keeping the other conditions controlled."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why record seedling drawings as well as lengths?",
+      "back": [
+        "Length measures growth amount; drawings show bending direction and form, which are different features of the response."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is seedling growth if length changes from 8 to 23 mm?",
+      "back": [
+        "15 mm, calculated as final length minus initial length."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Ten 0.25 m² quadrats contain 50 plants. What is the estimated density?",
+      "back": [
+        "20 plants/m²: the total sampled area is 2.5 m², and 50 ÷ 2.5 = 20."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a density of 20 plants/m² scale to a 100 m² habitat?",
+      "back": [
+        "Multiply by habitat area: 20 × 100 = an estimated 2,000 plants."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What reasonableness check catches an inverted population-scaling ratio?",
+      "back": [
+        "An estimate for the larger habitat should not be smaller than the organisms already counted in its sampled areas."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should “no change” in an experiment prompt a method check?",
+      "back": [
+        "The factor may have no detectable effect, but unsuitable conditions, poor measurement or a failed control can also explain the result."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep the indicator endpoint the same in every milk-decay trial?",
+      "back": [
+        "Different endpoints represent different amounts of reaction, so their times would not compare like with like."
+      ]
     }
   ]
 }
