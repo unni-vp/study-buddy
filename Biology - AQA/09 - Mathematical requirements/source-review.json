@@ -1,0 +1,89 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: mathematical requirements and topic-specific applications",
+  "sections_refined": [
+    "Rates, efficiency and inverse relationships",
+    "Probability in inheritance",
+    "Areas, volumes and exchange surfaces",
+    "Averages, spread and frequency tables"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "cell-biology",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/1-Cell-Biology/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/cell-biology/",
+      "selection": "Detailed Notes",
+      "file": "cell-biology-detailed-notes.pdf",
+      "pages": 15,
+      "sha256": "75a47dbf34d642da1e1d85b6a145d8eeed376135dd6eed2e890e5165125e8bb4",
+      "local_path": "Reference Materials\\PMT - Cell Biology - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Mathematical applications throughout",
+          "decision": "Cross-check scaling, growth, circle area, sampling and biomass calculations. Existing microscopy, rates, units, graphs, probability and geometry retained; add missing worked doubling and ring-area examples. The official mathematical requirements control the full skills list."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Notes",
+      "topic": "ecology",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/7-Ecology/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/ecology/",
+      "selection": "Detailed Notes",
+      "file": "ecology-detailed-notes.pdf",
+      "pages": 12,
+      "sha256": "485fc70a86b04a60ff22f6cb457e17fbe27ece072dc1c5a8383f18223712e31a",
+      "local_path": "Reference Materials\\PMT - Ecology - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Mathematical applications throughout",
+          "decision": "Cross-check scaling, growth, circle area, sampling and biomass calculations. Existing microscopy, rates, units, graphs, probability and geometry retained; add missing worked doubling and ring-area examples. The official mathematical requirements control the full skills list."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Photosynthesis",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/photosynthesis",
+      "file": "photosynthesis.txt",
+      "words": 752
+    },
+    {
+      "title": "Microscopes And Bacteria",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/microscopes-and-bacteria",
+      "file": "microscopes-and-bacteria.txt",
+      "words": 625
+    },
+    {
+      "title": "Pyramids Of Biomass",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/pyramids-of-biomass",
+      "file": "pyramids-of-biomass.txt",
+      "words": 686
+    },
+    {
+      "title": "Recyling Materials",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/recyling-materials",
+      "file": "recyling-materials.txt",
+      "words": 795
+    }
+  ],
+  "decisions": [
+    "No standalone PMT Biology maths notes PDF is listed. Used relevant topic PDFs with the official mathematical requirements, without claiming an unavailable source.",
+    "Retained all existing worked examples and added missing bacterial doubling, grouped-data mean and ring-area reasoning. Probability extensions are framed as independent events, not as a claim about guaranteed family outcomes."
+  ],
+  "flashcards": {
+    "before": 35,
+    "added": 12,
+    "refined": 0,
+    "after": 47
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

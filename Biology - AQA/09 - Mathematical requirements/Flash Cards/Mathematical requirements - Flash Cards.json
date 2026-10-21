@@ -294,6 +294,90 @@
         "½ ×4 ×6 = **12**.",
         "Units min ×cm³ min⁻¹ give **12 cm³**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are the two steps before calculating a bacterial doubling population?",
+      "back": [
+        "Convert times into matching units, then divide total time by the division time to find the number of divisions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the result of 25 bacteria doubling six times?",
+      "back": [
+        "25 × 2⁶ = 1,600 bacteria, or 1.6 × 10³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is bacterial doubling not modelled by adding two after each interval?",
+      "back": [
+        "Every bacterium divides, so the whole population is multiplied by two at each interval."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For two independent events with affected probability 1/4, what is the probability neither is affected?",
+      "back": [
+        "3/4 × 3/4 = 9/16."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you find the probability of at least one affected birth in that pair?",
+      "back": [
+        "Subtract the probability of neither from 1: 1 − 9/16 = 7/16."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does exactly one affected birth need two terms?",
+      "back": [
+        "Either the first or the second can be affected. Add the two distinct possibilities: 1/4 × 3/4 and 3/4 × 1/4."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is exactly one different from at least one?",
+      "back": [
+        "At least one includes the outcome where both are affected. Exactly one excludes it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you calculate clear-zone area excluding a circular disc?",
+      "back": [
+        "Calculate πR² for the whole circle and subtract πr² for the disc, using their respective radii."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is subtracting radii before squaring incorrect for a clear ring?",
+      "back": [
+        "It calculates a smaller solid circle, rather than subtracting the disc area from the whole area."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you estimate a mean from grouped continuous data?",
+      "back": [
+        "Multiply each class midpoint by its frequency, add the products and divide by total frequency."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a grouped-data mean an estimate?",
+      "back": [
+        "Exact values within the class intervals are unknown, so midpoints stand in for them."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep extra calculator figures until the final answer?",
+      "back": [
+        "Rounding intermediate results can compound error, especially when results are divided or squared later."
+      ]
     }
   ]
 }

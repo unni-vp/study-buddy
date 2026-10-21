@@ -161,6 +161,25 @@ The intensity is 200 units at 10 cm.
 
 This does not guarantee that photosynthesis rate quarters. Other limiting factors can affect rate.
 
+### Repeated doubling is not a constant increase
+
+For a culture with a fixed division time:
+
+**Number of divisions = total time ÷ division time**
+
+**Final population = starting population × 2ⁿ**
+
+- **n** is the number of complete divisions.
+- Time and division time must use the **same unit**.
+
+For 25 bacteria doubling every 30 minutes over 3 hours:
+
+1. Convert time: **3 hours = 180 minutes**.
+2. Find divisions: **180 ÷ 30 = 6**.
+3. Calculate population: **25 × 2⁶ = 1,600 = 1.6 × 10³**.
+
+The population is multiplied by 2 each time, rather than gaining two cells each time. The model assumes suitable growth conditions and a constant division time.
+
 ## Probability in inheritance
 
 Probability ranges from **0 to 1**.
@@ -179,6 +198,16 @@ This is an average expectation, not a guaranteed result.
 **Each pregnancy is a new event.** For independent events, multiply probabilities. The probability that both children in a specified pair of births are affected is **1/4 × 1/4 = 1/16**.
 
 Distinguish “both”, “at least one” and “exactly one” when interpreting a prompt. Do not turn a ratio of affected to unaffected into a probability without including both groups in the total.
+
+### “At least one” and “exactly one”
+
+For two independent births with an affected probability of **1/4** each:
+
+- Probability neither is affected = **3/4 × 3/4 = 9/16**.
+- Probability at least one is affected = **1 − 9/16 = 7/16**.
+- Probability exactly one is affected = **(1/4 × 3/4) + (3/4 × 1/4) = 6/16**.
+
+The last calculation includes either birth being the affected one. “At least one” also includes both being affected, so the two prompts have different answers.
 
 ## Averages, spread and frequency tables
 
@@ -213,6 +242,20 @@ Mean = (0 + 3 + 10) ÷ 10 = **1.3**.
 Do not average only the three displayed counts.
 
 For grouped continuous data, class midpoints give an **estimated mean**. Retain that it is an estimate.
+
+### An estimated mean from grouped data
+
+| Mass interval / g | Midpoint / g | Frequency | Midpoint × frequency / g |
+|---|---|---|---|
+| 0 to less than 2 | 1 | 3 | 3 |
+| 2 to less than 4 | 3 | 5 | 15 |
+| 4 to less than 6 | 5 | 2 | 10 |
+
+1. Add weighted midpoints: **3 + 15 + 10 = 28 g**.
+2. Add frequencies: **3 + 5 + 2 = 10**.
+3. Estimated mean = **28 ÷ 10 = 2.8 g**.
+
+It is an estimate because the exact measurements within each class are unknown. The most frequent class is not necessarily the class containing every value near the calculated mean.
 
 ## Sampling and population estimates
 
@@ -314,6 +357,16 @@ The larger cube has more total surface, but **less surface per unit volume**. Th
 
 If asked to exclude the disc, subtract the disc area. Keep the requested definition and unit clear.
 
+### Subtracting the disc from a clear circular area
+
+A clear zone has radius **6 mm**, and its paper disc has radius **2 mm**. If the question asks for clear agar **excluding the disc**:
+
+1. Whole circle = **π × 6² = 36π mm²**.
+2. Disc = **π × 2² = 4π mm²**.
+3. Clear agar = **36π − 4π = 32π ≈ 100.5 mm²**.
+
+Subtract **areas**, not radii before squaring. π × (6 − 2)² describes a different circle, not the ring of clear agar.
+
 ## Calculation checks
 
 1. Identify the quantity and choose the appropriate relationship.
@@ -325,3 +378,10 @@ If asked to exclude the disc, subtract the disc area. Keep the requested definit
 ## Sources
 
 - [AQA Biology mathematical requirements](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/mathematical-requirements)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Cell Biology - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: Detailed Notes](../Reference Materials/PMT - Ecology - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Photosynthesis](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/photosynthesis). Cross-checked against the project specification.
+- [Study Rocket: Microscopes And Bacteria](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/microscopes-and-bacteria). Cross-checked against the project specification.
+- [Study Rocket: Pyramids Of Biomass](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/pyramids-of-biomass). Cross-checked against the project specification.
+- [Study Rocket: Recyling Materials](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/recyling-materials). Cross-checked against the project specification.

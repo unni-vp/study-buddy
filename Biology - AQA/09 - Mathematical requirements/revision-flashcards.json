@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "Convert 2 mm to micrometres.",
+      "back": [
+        "2000 µm."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Write 0.000004 m in standard form.",
+      "back": [
+        "4 ×10⁻⁶ m."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the range of 5, 6, 8 and 12?",
+      "back": [
+        "7."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the probability of an impossible event?",
+      "back": [
+        "Zero."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does ∝ mean?",
+      "back": [
+        "Proportional to."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which graph shows paired numerical measurements to identify a correlation?",
+      "back": [
+        "Scatter diagram."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Does magnification have a unit?",
+      "back": [
+        "No."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Convert 0.035 mm to µm and then nm.",
+      "back": [
+        "0.035 ×1000 = **35 µm**.",
+        "35 ×1000 = **35 000 nm**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Convert 3.2 cm² to mm², explaining the factor.",
+      "back": [
+        "Each linear dimension is multiplied by 10, so area is multiplied by **100**.",
+        "3.2 ×100 = **320 mm²**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate (6 ×10⁵)/(2 ×10²).",
+      "back": [
+        "Divide coefficients: 6/2 = 3. Subtract powers: 5−2 = 3.",
+        "Answer = **3 ×10³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Simplify 15:25 and express the first group as a fraction of the total.",
+      "back": [
+        "Ratio = **3:5**.",
+        "Fraction = 3/(3+5) = **3/8**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the percentage represented by 27 successful outcomes out of 90.",
+      "back": [
+        "Percentage = 27/90 ×100.",
+        "Result = **30%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A microscope has ×10 eyepiece and ×40 objective. Determine its total power.",
+      "back": [
+        "Multiply eyepiece by objective: 10 ×40.",
+        "Total = **×400**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An image is 30 mm long at ×500 magnification. Calculate actual size in µm.",
+      "back": [
+        "Actual = 30/500 = **0.060 mm**.",
+        "Convert: 0.060 ×1000 = **60 µm**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A pondweed produces 18 cm³ oxygen in 6 minutes. Calculate rate per minute.",
+      "back": [
+        "Rate = volume/time = 18/6.",
+        "Rate = **3 cm³ min⁻¹**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A reaction reaches a fixed endpoint in 40 s. Calculate reciprocal-time rate.",
+      "back": [
+        "Rate proxy = 1/40.",
+        "**0.025 s⁻¹**, for a comparable endpoint."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A distance doubles in an inverse-square light model. What happens to intensity?",
+      "back": [
+        "Intensity ∝ 1/d².",
+        "New intensity = **1/4** of the original."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why a positive correlation does not prove causation.",
+      "back": [
+        "Values tend to rise together in the data.",
+        "Another variable may affect both, so a controlled comparison is needed to isolate a cause."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Distinguish interpolation from extrapolation.",
+      "back": [
+        "Interpolation estimates **within** the measured range.",
+        "Extrapolation extends **outside** it, where the relationship may change."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A bacterium is 2 µm long and a cell is 20 µm long. Compare their linear scale.",
+      "back": [
+        "20/2 = **10 times**.",
+        "The cell is about **one order of magnitude** larger in length."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate percentage mass change from 2.50 g to 2.10 g.",
+      "back": [
+        "Change = 2.10−2.50 = **−0.40 g**.",
+        "Percentage = −0.40/2.50 ×100.",
+        "**−16%**, a 16% decrease."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A success rate rises from 20% to 30%. Calculate percentage-point change and relative percentage increase.",
+      "back": [
+        "Difference = **10 percentage points**.",
+        "Relative increase = (30−20)/20 ×100.",
+        "Relative increase = **50%**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 4 µm scale bar measures 8 mm on an image. A cell measures 30 mm. Calculate cell size.",
+      "back": [
+        "Cell/bar image-length ratio = 30/8 = 3.75.",
+        "Actual cell size = 3.75 ×4.",
+        "**15 µm**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate biomass-transfer efficiency if 45 kg is gained from 600 kg available.",
+      "back": [
+        "Efficiency = next/previous ×100.",
+        "45/600 ×100.",
+        "**7.5%**, using matching mass units/basis."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For counts 1, 2, 2, 7, calculate mean, median and mode.",
+      "back": [
+        "Mean = 12/4 = **3**.",
+        "Median = (2+2)/2 = **2**.",
+        "Mode = **2**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Counts 0, 1 and 2 occur with frequencies 3, 4 and 3. Calculate the mean.",
+      "back": [
+        "Total count = 0×3 +1×4 +2×3 = **10**.",
+        "Total frequency = 3+4+3 = **10**.",
+        "Mean = 10/10 = **1**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A carrier cross predicts a 1/4 affected probability. Calculate expected affected count in 120 births and explain its limitation.",
+      "back": [
+        "Expected count = 120 ×1/4.",
+        "**30** affected births expected.",
+        "Random variation means an actual sample need not have exactly 30."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A line passes through (2, 6) and (8, 18). Find gradient and intercept.",
+      "back": [
+        "Gradient = (18−6)/(8−2) = **2**.",
+        "Use y = 2x+c: 6 = 4+c, so **c = 2**.",
+        "Equation: **y = 2x+2**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A tangent to a pH-time curve passes through (1 day, pH 7) and (5 days, pH 5). Calculate slope and describe the change.",
+      "back": [
+        "Slope = (5−7)/(5−1).",
+        "**−0.5 per day**.",
+        "At the tangent point, pH decreases at magnitude **0.5 per day**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 2 cm cube exchanges substances through its surface. Calculate surface area, volume and SA:V ratio.",
+      "back": [
+        "Surface area = 6 ×2² = **24 cm²**.",
+        "Volume = 2³ = **8 cm³**.",
+        "SA:V = 24:8 = **3:1**.",
+        "It has less surface per unit volume than a 1 cm cube, making diffusion less effective for meeting internal demand."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Ten 0.25 m² quadrats contain a total of 30 plants. Estimate population in a 150 m² habitat and state a limitation.",
+      "back": [
+        "Mean = 30/10 = **3 per quadrat**.",
+        "Density = 3/0.25 = **12 plants m⁻²**.",
+        "Estimated population = 12 ×150 = **1800**.",
+        "Patchy distribution or biased/limited sampling may make the estimate unrepresentative."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how to calculate the rate at one instant on a curved biological graph.",
+      "back": [
+        "Draw a **tangent at the specified point**.",
+        "Use two well-separated points on that tangent to form a large triangle.",
+        "Calculate change in y divided by change in x using actual axis scales.",
+        "State units/sign meaning; a chord across the curve gives an average rather than instantaneous rate."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 10 mm inhibition zone contains a 4 mm disc. Calculate clear-agar area excluding the disc.",
+      "back": [
+        "Zone radius = 5 mm; total area = **25π mm²**.",
+        "Disc radius = 2 mm; disc area = **4π mm²**.",
+        "Clear area = (25−4)π = **21π mm²**.",
+        "≈ **66.0 mm²**, to three significant figures."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Two independent births each have affected probability 1/4. Find probabilities of both affected and exactly one affected.",
+      "back": [
+        "Both affected = 1/4 ×1/4 = **1/16**.",
+        "First affected, second unaffected = 1/4 ×3/4 = **3/16**.",
+        "First unaffected, second affected also **3/16**.",
+        "Exactly one = 3/16+3/16 = **6/16 = 3/8**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A rate rises linearly from 0 to 6 cm³ min⁻¹ over 4 minutes. Calculate total gas produced from the rate-time graph.",
+      "back": [
+        "Total change is the **area under the rate–time graph**.",
+        "Region is a triangle: ½ ×base ×height.",
+        "½ ×4 ×6 = **12**.",
+        "Units min ×cm³ min⁻¹ give **12 cm³**."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "What are the two steps before calculating a bacterial doubling population?",
+      "back": [
+        "Convert times into matching units, then divide total time by the division time to find the number of divisions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the result of 25 bacteria doubling six times?",
+      "back": [
+        "25 × 2⁶ = 1,600 bacteria, or 1.6 × 10³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is bacterial doubling not modelled by adding two after each interval?",
+      "back": [
+        "Every bacterium divides, so the whole population is multiplied by two at each interval."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For two independent events with affected probability 1/4, what is the probability neither is affected?",
+      "back": [
+        "3/4 × 3/4 = 9/16."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you find the probability of at least one affected birth in that pair?",
+      "back": [
+        "Subtract the probability of neither from 1: 1 − 9/16 = 7/16."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does exactly one affected birth need two terms?",
+      "back": [
+        "Either the first or the second can be affected. Add the two distinct possibilities: 1/4 × 3/4 and 3/4 × 1/4."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is exactly one different from at least one?",
+      "back": [
+        "At least one includes the outcome where both are affected. Exactly one excludes it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you calculate clear-zone area excluding a circular disc?",
+      "back": [
+        "Calculate πR² for the whole circle and subtract πr² for the disc, using their respective radii."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is subtracting radii before squaring incorrect for a clear ring?",
+      "back": [
+        "It calculates a smaller solid circle, rather than subtracting the disc area from the whole area."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you estimate a mean from grouped continuous data?",
+      "back": [
+        "Multiply each class midpoint by its frequency, add the products and divide by total frequency."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a grouped-data mean an estimate?",
+      "back": [
+        "Exact values within the class intervals are unknown, so midpoints stand in for them."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep extra calculator figures until the final answer?",
+      "back": [
+        "Rounding intermediate results can compound error, especially when results are divided or squared later."
+      ]
+    }
+  ]
+}
