@@ -5,7 +5,7 @@
       "id": "stores",
       "title": "Stores and calculations",
       "description": "Track transfers and calculate energy, power and efficiency.",
-      "icon": "physics-energy",
+      "icon": "nav-battery",
       "sections": [
         {
           "heading": "Stores and transfers"
@@ -25,7 +25,7 @@
       "id": "heat",
       "title": "Heating and practicals",
       "description": "Explain warming, insulation and reliable measurements.",
-      "icon": "physics-heat",
+      "icon": "nav-thermometer",
       "sections": [
         {
           "heading": "Heating and specific heat capacity"
@@ -45,7 +45,7 @@
       "id": "resources",
       "title": "Energy resources",
       "description": "Compare supply, reliability and environmental impacts.",
-      "icon": "physics-energy",
+      "icon": "nav-fuel",
       "sections": [
         {
           "heading": "Energy resources and decisions"
