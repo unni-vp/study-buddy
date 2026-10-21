@@ -5,7 +5,7 @@
       "id": "reproduction",
       "title": "Reproduction and meiosis",
       "description": "Compare reproduction and track chromosome information.",
-      "icon": "biology-cells",
+      "icon": "nav-process",
       "sections": [
         {
           "heading": "Sexual and asexual reproduction"
@@ -19,7 +19,7 @@
       "id": "dna",
       "title": "DNA and proteins",
       "description": "Link base sequences, protein shape and genetic variants.",
-      "icon": "biology-cells",
+      "icon": "nav-dna",
       "sections": [
         {
           "heading": "DNA, chromosomes, genes and genome"
@@ -33,7 +33,7 @@
       "id": "inheritance",
       "title": "Inheritance and probability",
       "description": "Use allele terms, crosses, conditions and family trees.",
-      "icon": "biology-cells",
+      "icon": "nav-people",
       "sections": [
         {
           "heading": "The language of inheritance"
@@ -53,7 +53,7 @@
       "id": "selection",
       "title": "Variation and selection",
       "description": "Explain population change and breeding decisions.",
-      "icon": "biology-leaf",
+      "icon": "nav-branch",
       "sections": [
         {
           "heading": "Genetic and environmental variation"
@@ -73,7 +73,7 @@
       "id": "technology",
       "title": "Genetic technologies",
       "description": "Distinguish gene transfer from cloning and evaluate uses.",
-      "icon": "biology-cells",
+      "icon": "nav-medicine",
       "sections": [
         {
           "heading": "Genetic engineering"
@@ -90,7 +90,7 @@
       "id": "evidence",
       "title": "Evidence and classification",
       "description": "Connect historical explanations, fossils and modern relationships.",
-      "icon": "biology-leaf",
+      "icon": "nav-search",
       "sections": [
         {
           "heading": "Darwin, Wallace and changing explanations"
