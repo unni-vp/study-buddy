@@ -354,6 +354,20 @@ Then check:
 
 Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.
 
+### Find the meaning of the mistake
+
+A query can use valid SQL while selecting the wrong data. Check its meaning against the task before changing punctuation at random.
+
+| Intended task | Possible mistake | Why it changes the answer |
+|---|---|---|
+| Retrieve pupils in year 10 or year 11. | `YearGroup = 10 AND YearGroup = 11` | One record cannot have both values in the same field. Use OR for these alternatives. |
+| Show the shortest loans first. | `ORDER BY DaysLoaned DESC` | DESC puts the largest value first. Use ASC for the smallest first. |
+| Show each pupil beside their own loans. | The query names both tables but omits the key-matching condition. | Unrelated pupil and loan rows can be paired together. |
+| Change one pupil's year group. | UPDATE has no WHERE condition. | Every record in the named table is changed, rather than just the intended pupil. |
+| Remove a returned loan, keeping the other loans. | DELETE has no WHERE condition. | Every loan record is removed, although the table structure remains. |
+
+To check a filter, take one record that should qualify and one that should not. Evaluate every condition for both. To check a two-table query, follow one primary-key value to its matching foreign-key values before predicting the result.
+
 ## Sources
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.

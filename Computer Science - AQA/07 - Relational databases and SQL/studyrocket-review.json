@@ -1,0 +1,32 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.7.1–3.7.2",
+  "sources": [],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Planning and checking a query"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [],
+      "decision": "The supplied Study Rocket index has no relational-database or SQL page. This topic was independently checked against current AQA 3.7 and the existing local notes, rather than claiming Study Rocket coverage."
+    },
+    {
+      "pages": [],
+      "decision": "Retained all sixteen worked SQL queries, example tables and relationship diagram. Added an integrated query-error comparison and original short cards for keys, filtering, result multiplicity and required data-changing commands. No beyond-spec aggregation or schema commands introduced."
+    }
+  ],
+  "flashcards": {
+    "previous": 28,
+    "added": 17,
+    "refined": 1,
+    "total": 45
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

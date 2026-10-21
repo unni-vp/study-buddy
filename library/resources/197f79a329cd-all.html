@@ -240,6 +240,17 @@ WHERE LoanID = 502;
 <li><strong>Accuracy:</strong> are names, operators, quotes and values correct?</li>
 </ol>
 <p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p>
+<h3>Find the meaning of the mistake</h3>
+<p>A query can use valid SQL while selecting the wrong data. Check its meaning against the task before changing punctuation at random.</p>
+<table>
+<tr><th>Intended task</th><th>Possible mistake</th><th>Why it changes the answer</th></tr>
+<tr><td>Retrieve pupils in year 10 or year 11.</td><td><code>YearGroup = 10 AND YearGroup = 11</code></td><td>One record cannot have both values in the same field. Use OR for these alternatives.</td></tr>
+<tr><td>Show the shortest loans first.</td><td><code>ORDER BY DaysLoaned DESC</code></td><td>DESC puts the largest value first. Use ASC for the smallest first.</td></tr>
+<tr><td>Show each pupil beside their own loans.</td><td>The query names both tables but omits the key-matching condition.</td><td>Unrelated pupil and loan rows can be paired together.</td></tr>
+<tr><td>Change one pupil&#x27;s year group.</td><td>UPDATE has no WHERE condition.</td><td>Every record in the named table is changed, rather than just the intended pupil.</td></tr>
+<tr><td>Remove a returned loan, keeping the other loans.</td><td>DELETE has no WHERE condition.</td><td>Every loan record is removed, although the table structure remains.</td></tr>
+</table>
+<p>To check a filter, take one record that should qualify and one that should not. Evaluate every condition for both. To check a two-table query, follow one primary-key value to its matching foreign-key values before predicting the result.</p>
 <section class="reference-sources" hidden><h2>Sources</h2>
 <ul>
 <li><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>

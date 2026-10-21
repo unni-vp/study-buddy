@@ -100,8 +100,7 @@
       "category": "Explain and compare",
       "front": "Explain the difference between data redundancy and data inconsistency.",
       "back": [
-        "**Redundancy** is unnecessary duplication of data.",
-        "**Inconsistency** occurs when copies disagree, for example two different addresses for the same pupil."
+        "Redundancy is unnecessary duplication of stored data. Inconsistency occurs when duplicated copies disagree. Separate linked tables reduce repeated descriptive details, while foreign-key values repeat intentionally to provide links."
       ]
     },
     {
@@ -208,6 +207,125 @@
         "Amir appears in **one matching row**.",
         "Mia has **no matching loan**, so does not appear in this matching result.",
         "Matching the keys links each loan to the correct pupil; without a linking condition, unrelated pupil and loan rows could be combined."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a foreign key repeat when a primary key cannot?",
+      "back": [
+        "Several records may link to the same record elsewhere, such as several loans belonging to one pupil. The primary key must identify each record uniquely within its own table."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do repeated pupil IDs in Loans not automatically mean the database is badly designed?",
+      "back": [
+        "The foreign-key values provide necessary links. The unnecessary duplication would be repeatedly storing all the pupil’s descriptive details instead."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "A pupil has three matching loans. Can their name correctly appear on three rows of a two-table result?",
+      "back": [
+        "Yes. There is one output row per matching pupil–loan pairing. Repeated output names do not imply duplicate pupil records."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does SELECT remove unselected fields from the stored table?",
+      "back": [
+        "No. It controls the query result. The stored table retains its fields and records."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can YearGroup = 10 AND YearGroup = 11 not match an ordinary pupil record?",
+      "back": [
+        "A single YearGroup value cannot be both 10 and 11. Use OR when either year group should qualify."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which condition includes loan durations from 7 to 21 days, including both endpoints?",
+      "back": [
+        "DaysLoaned >= 7 AND DaysLoaned <= 21. Both limits must hold."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does ORDER BY DaysLoaned DESC put the shortest loans first?",
+      "back": [
+        "No. DESC puts the largest duration first. Use ASC for the shortest first."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must a field used in WHERE appear in SELECT?",
+      "back": [
+        "No. A field can filter records without appearing as a column in the displayed result."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a primary-key condition useful when changing exactly one record?",
+      "back": [
+        "The key uniquely identifies the intended row. A condition on a repeated name or year group might match several rows."
+      ]
+    },
+    {
+      "category": "Apply SQL",
+      "front": "Write SQL to change only pupil 103 to year group 11 in Pupils.",
+      "back": [
+        "```sql\nUPDATE Pupils\nSET YearGroup = 11\nWHERE PupilID = 103;\n```"
+      ]
+    },
+    {
+      "category": "Apply SQL",
+      "front": "Write SQL to remove only loan 501 from Loans.",
+      "back": [
+        "```sql\nDELETE FROM Loans\nWHERE LoanID = 501;\n```"
+      ]
+    },
+    {
+      "category": "Apply SQL",
+      "front": "Write SQL to show the book titles of loans shorter than 14 days, sorted alphabetically.",
+      "back": [
+        "```sql\nSELECT BookTitle\nFROM Loans\nWHERE DaysLoaned < 14\nORDER BY BookTitle ASC;\n```"
+      ]
+    },
+    {
+      "category": "Apply SQL",
+      "front": "Write SQL to insert pupil 105, Noah, in year group 10.",
+      "back": [
+        "```sql\nINSERT INTO Pupils (PupilID, Name, YearGroup)\nVALUES (105, 'Noah', 10);\n```"
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How should the values in INSERT correspond to its named fields?",
+      "back": [
+        "They must appear in the same order as the explicit field list, with suitable data types. The supplied primary key must be unused."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do UPDATE and DELETE differ when a WHERE condition matches a row?",
+      "back": [
+        "UPDATE changes the specified field values in that row. DELETE removes the whole matching row."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does DELETE FROM Loans without WHERE remove the Loans table itself?",
+      "back": [
+        "No. It removes every record from Loans, while leaving the table and its fields in place."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should text such as Macbeth be quoted in an SQL condition?",
+      "back": [
+        "Quotes identify it as a text value, such as BookTitle = 'Macbeth'. Unquoted names are treated as identifiers rather than the intended literal text."
       ]
     }
   ]
