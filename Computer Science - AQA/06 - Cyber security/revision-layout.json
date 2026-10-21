@@ -5,7 +5,7 @@
       "id": "threats",
       "title": "Threats and weak points",
       "description": "Protect systems, accounts and website access.",
-      "icon": "computer-security",
+      "icon": "nav-shield",
       "sections": [
         {
           "heading": "What cyber security protects"
@@ -25,7 +25,7 @@
       "id": "people",
       "title": "Social engineering and malware",
       "description": "Recognise deception and malicious software.",
-      "icon": "computer-test",
+      "icon": "nav-bacteria",
       "sections": [
         {
           "heading": "Social engineering"
@@ -39,7 +39,7 @@
       "id": "protection",
       "title": "Protection and testing",
       "description": "Choose checks, combine defences and find weaknesses.",
-      "icon": "computer-security",
+      "icon": "nav-check",
       "sections": [
         {
           "heading": "Authentication and automated-abuse checks"
