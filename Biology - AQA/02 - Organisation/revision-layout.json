@@ -5,7 +5,7 @@
       "id": "digestion",
       "title": "Digestion & enzymes",
       "description": "Food molecules, enzymes and practical tests",
-      "icon": "practical",
+      "icon": "nav-food",
       "sections": [
         {
           "heading": "Cells, tissues and digestion"
@@ -28,7 +28,7 @@
       "id": "circulation",
       "title": "Heart, blood & health",
       "description": "Circulation, gas exchange, disease and treatments",
-      "icon": "transport",
+      "icon": "nav-heart",
       "sections": [
         {
           "heading": "The heart and double circulation"
@@ -51,7 +51,7 @@
       "id": "plant-transport",
       "title": "Plant tissues & transport",
       "description": "Leaf structure, transpiration and translocation",
-      "icon": "exchange",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Leaf tissues"
