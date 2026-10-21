@@ -1,0 +1,108 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.7",
+  "sections_refined": [
+    "Carbon compounds and chemical families",
+    "Cracking and demand",
+    "Making ethanol and comparing methods",
+    "Esters and condensation",
+    "Addition polymers and repeat units"
+  ],
+  "pmt_references": [
+    {
+      "title": "7.1. Carbon compounds as fuels and feedstock",
+      "topic": "organic-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/7-Organic-Chemistry/Summary/7.1. Carbon compounds as fuels and feedstock.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/organic-chemistry/",
+      "selection": "Summary Notes",
+      "file": "organic-chemistry-7-1-carbon-compounds-as-fuels-and-feedstock.pdf",
+      "pages": 4,
+      "sha256": "ee072df688d06795442d1cd6858e1684f8da40e19134ce7aba6cbfb40d90348d",
+      "local_path": "Reference Materials\\PMT - Summary 7.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries including the separate-science alcohol, acid and polymer content. Existing displayed alkenes/additions and polymer diagrams retained. Added functional-group comparison, missing cracking product, whole-route fermentation comparison, ester naming and reverse polymer example. Rejected source formula applying alkane formula to all hydrocarbons, methanoic-acid typo, all four alcohols completely miscible, and n = 100 shown as 10. No extra named organic reaction scheme required."
+        }
+      ]
+    },
+    {
+      "title": "7.2. Reactions of alkenes and alcohols (chemistry only)",
+      "topic": "organic-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/7-Organic-Chemistry/Summary/7.2. Reactions of alkenes and alcohols (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/organic-chemistry/",
+      "selection": "Summary Notes",
+      "file": "organic-chemistry-7-2-reactions-of-alkenes-and-alcohols-chemistry-only.pdf",
+      "pages": 5,
+      "sha256": "5d4709dc74345cdd2d0facc9c9ecf2397b13e7a2a3416c808f9f6fc62a23b92f",
+      "local_path": "Reference Materials\\PMT - Summary 7.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries including the separate-science alcohol, acid and polymer content. Existing displayed alkenes/additions and polymer diagrams retained. Added functional-group comparison, missing cracking product, whole-route fermentation comparison, ester naming and reverse polymer example. Rejected source formula applying alkane formula to all hydrocarbons, methanoic-acid typo, all four alcohols completely miscible, and n = 100 shown as 10. No extra named organic reaction scheme required."
+        }
+      ]
+    },
+    {
+      "title": "7.3. Synthetic and naturally occurring polymers (chemistry only)",
+      "topic": "organic-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/7-Organic-Chemistry/Summary/7.3. Synthetic and naturally occurring polymers (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/organic-chemistry/",
+      "selection": "Summary Notes",
+      "file": "organic-chemistry-7-3-synthetic-and-naturally-occurring-polymers-chemistry-only.pdf",
+      "pages": 3,
+      "sha256": "3046105d958a870e4aac8d0871bc4d5eb69bf852d23499ac9c38851840dc6686",
+      "local_path": "Reference Materials\\PMT - Summary 7.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries including the separate-science alcohol, acid and polymer content. Existing displayed alkenes/additions and polymer diagrams retained. Added functional-group comparison, missing cracking product, whole-route fermentation comparison, ester naming and reverse polymer example. Rejected source formula applying alkane formula to all hydrocarbons, methanoic-acid typo, all four alcohols completely miscible, and n = 100 shown as 10. No extra named organic reaction scheme required."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Alcohols And Carboxylic Acids",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/alcohols-and-carboxylic-acids",
+      "file": "alcohols-and-carboxylic-acids.txt",
+      "words": 301
+    },
+    {
+      "title": "Alkenes And Additional Polymerisation",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/alkenes-and-additional-polymerisation",
+      "file": "alkenes-and-additional-polymerisation.txt",
+      "words": 384
+    },
+    {
+      "title": "Condensation And Natural Polymers",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/condensation-and-natural-polymers",
+      "file": "condensation-and-natural-polymers.txt",
+      "words": 225
+    },
+    {
+      "title": "Hydrocarbons And Crude Oil",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/hydrocarbons-and-crude-oil",
+      "file": "hydrocarbons-and-crude-oil.txt",
+      "words": 532
+    }
+  ],
+  "decisions": [
+    "Reviewed all three PMT summaries including the separate-science alcohol, acid and polymer content. Existing displayed alkenes/additions and polymer diagrams retained. Added functional-group comparison, missing cracking product, whole-route fermentation comparison, ester naming and reverse polymer example. Rejected source formula applying alkane formula to all hydrocarbons, methanoic-acid typo, all four alcohols completely miscible, and n = 100 shown as 10. No extra named organic reaction scheme required.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 44,
+    "added": 14,
+    "refined": 0,
+    "after": 58
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

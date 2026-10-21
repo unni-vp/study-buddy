@@ -355,6 +355,104 @@
         "Condensation uses monomers with **two functional groups**.",
         "Groups join while a small molecule, usually **water**, is eliminated."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is an O–H bond alone insufficient to identify an alcohol?",
+      "back": [
+        "A carboxylic acid also has O–H within –COOH. Check the complete functional group."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes an ester link from a carboxylic-acid group?",
+      "back": [
+        "An ester has –C(=O)–O– connecting carbon groups; an acid has –C(=O)–OH."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What missing product balances C₁₂H₂₆ → C₈H₁₈ + unknown?",
+      "back": [
+        "C₄H₈, found by subtracting the known carbon and hydrogen counts."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does fractional distillation change long molecules into short ones?",
+      "back": [
+        "No. It separates molecules by boiling range. Cracking changes molecules chemically."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a fraction not necessarily contain one pure hydrocarbon?",
+      "back": [
+        "It contains molecules with similar boiling ranges and often similar chain lengths."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is fermentation not automatically free of environmental impacts?",
+      "back": [
+        "Crop production, transport and distillation use resources and energy, and land use can affect habitats or food supply."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What comparison matters beyond fermentation’s renewable input?",
+      "back": [
+        "Consider rate, batch versus continuous operation, separation, land use, yield and energy over the whole route."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which reactants form ethyl ethanoate?",
+      "back": [
+        "Ethanol and ethanoic acid, with water also formed in the condensation reaction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Where does “ethyl” in ethyl ethanoate come from?",
+      "back": [
+        "The ethanol reactant. The ethanoate part comes from ethanoic acid."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What monomer produces the repeat unit –CH₂–CHCl–?",
+      "back": [
+        "CH₂=CHCl. Restore the double bond while retaining the chlorine side group."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does n outside polymer brackets mean?",
+      "back": [
+        "The enclosed unit repeats many times along the chain; it is not an element or extra atom."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a diol and a dicarboxylic acid form a long polyester?",
+      "back": [
+        "Each monomer has two reactive groups, allowing further links at both ends."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does addition polymerisation have no small by-product?",
+      "back": [
+        "The alkene monomers join by opening double bonds, retaining their atoms in the polymer."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which monomers distinguish DNA from proteins?",
+      "back": [
+        "DNA uses nucleotides. Proteins use amino acids."
+      ]
     }
   ]
 }

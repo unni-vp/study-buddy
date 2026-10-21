@@ -10,6 +10,18 @@ A **hydrocarbon contains carbon and hydrogen only**. Alcohols and carboxylic aci
 
 A **molecular formula** counts atoms. A **displayed structural formula** shows every atom and bond. Check each atom's bonds: carbon forms four, oxygen two and hydrogen one.
 
+### Recognise the working part of a molecule
+
+| Family | Recognising feature | Useful reaction |
+|---|---|---|
+| Alkane | It is a hydrocarbon with only single carbon–carbon bonds. | Complete combustion forms carbon dioxide and water. |
+| Alkene | It contains a carbon–carbon double bond, C=C. | Addition opens that double bond; bromine water is decolourised. |
+| Alcohol | An –OH group is attached to carbon. | Suitable primary alcohols can be oxidised to carboxylic acids. |
+| Carboxylic acid | It contains –COOH, including a C=O and an O–H. | It reacts with carbonates to produce carbon dioxide. |
+| Ester | It contains a –C(=O)–O– link between carbon groups. | It can be formed from a carboxylic acid and an alcohol. |
+
+Look for the **complete group**, not one isolated atom or bond. A carboxylic acid contains O–H, but the attached C=O makes it a different family from an ordinary alcohol.
+
 ## Crude oil and alkanes
 
 **Crude oil** is a finite mixture, mainly hydrocarbons, formed from ancient biomass such as plankton buried in mud over millions of years. It is **non-renewable on human timescales**. Much of it consists of **alkanes**, saturated hydrocarbons with only single carbon–carbon bonds.
@@ -61,6 +73,16 @@ Insufficient oxygen can produce **carbon monoxide and soot** through incomplete 
 - Products supply high-demand smaller fuels and reactive alkenes for polymers/other chemicals.
 
 Example: **C₁₀H₂₂ → C₈H₁₈ + C₂H₄**. Count each element on both sides. Cracking does not require one unique product pair; use the given formulas and conservation of atoms.
+
+### Work out a missing cracking product
+
+Suppose **C₁₂H₂₆ → C₈H₁₈ + unknown**.
+
+1. Carbon remaining = **12 − 8 = 4 atoms**.
+2. Hydrogen remaining = **26 − 18 = 8 atoms**.
+3. The missing product is **C₄H₈**, consistent with an alkene in this context.
+
+No atoms disappear. A cracking reaction can form different combinations, so the known product and atom balance determine what can be inferred.
 
 ## Alkenes and their displayed structures
 
@@ -130,6 +152,12 @@ Fermentation produces a **dilute aqueous solution**, so distillation is needed f
 
 **Hydration of ethene** reacts ethene with steam using a suitable acid catalyst, high temperature and pressure. It can operate continuously and make a more concentrated product rapidly, but usually uses a finite petroleum feedstock and energy-intensive conditions. Compare renewable input, speed, purity/separation, land use, yield and energy with supplied evidence.
 
+### Renewable feedstock does not mean zero impact
+
+Fermentation can use sugars from crops that can be regrown. Growing, harvesting, transporting and distilling them still require land and energy. Clearing habitats for crop land can add further impacts. The comparison with hydration therefore needs the **whole production route**, not just whether the original feedstock is renewable.
+
+Fermentation is usually a batch process and the ethanol must be separated from water. Hydration can operate continuously, but uses high-temperature, high-pressure equipment and a suitable catalyst. Compare conditions and separation needs alongside yield.
+
 ## Carboxylic acids and weak acidity
 
 Carboxylic acids contain **–COOH**: carbon is double-bonded to one oxygen and single-bonded to an –OH group. The first four are:
@@ -151,6 +179,12 @@ A carboxylic acid reacts with an alcohol to make an **ester and water**, commonl
 
 Esters often have characteristic fruity smells and are useful in perfumes/flavourings and solvents. **Ethyl ethanoate** is the named ester to remember. Its ester link is **–C(=O)–O–**, distinct from an alcohol’s –OH and an acid’s –COOH. Do not confuse a product’s name with the reactant alcohol name.
 
+### Work out where an ester name comes from
+
+For **ethyl ethanoate**, the **ethyl** part comes from ethanol and the **ethanoate** part comes from ethanoic acid. The reaction also forms water. Do not confuse ethanoic acid with ethanol just because both names refer to two carbon atoms.
+
+The ester link is **–C(=O)–O–**. The double-bonded oxygen stays attached to the acid-derived carbon, while the other oxygen connects to the alcohol-derived carbon group.
+
 ## Addition polymers and repeat units
 
 A **monomer** is a small molecule that joins many others.
@@ -169,6 +203,12 @@ To draw a repeat unit:
 4. Put **n** outside the brackets, below the chain.
 
 **No small by-product forms**, so the repeat unit contains **the same atoms as the monomer**. Poly(propene) retains the CH₃ side group: its unit is –CH₂–CH(CH₃)–. Reverse the steps to identify a monomer from a polymer: restore a double bond between the backbone carbons, retaining side groups. Do not strip off chlorine or methyl groups as if they disappeared.
+
+### Reverse a repeat unit without losing side groups
+
+For the repeat unit **–CH₂–CHCl–**, identify the two carbon atoms in the backbone. Remove the outward chain bonds and restore a C=C between those carbons. Keep their attached H and Cl atoms. The monomer is **CH₂=CHCl**, not ethene: the chlorine is part of the original monomer.
+
+The symbol **n** counts repeating units. It does not mean a new element, a fixed chain length or an extra atom.
 
 ## Condensation polymers and polyesters
 
@@ -223,3 +263,11 @@ Proteins contain chains of amino acids. The order of the amino acids affects how
 ## Sources
 
 - [AQA Organic chemistry](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/organic-chemistry)
+
+- [PMT: 7.1. Carbon compounds as fuels and feedstock](../Reference Materials/PMT - Summary 7.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 7.2. Reactions of alkenes and alcohols (chemistry only)](../Reference Materials/PMT - Summary 7.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 7.3. Synthetic and naturally occurring polymers (chemistry only)](../Reference Materials/PMT - Summary 7.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Alcohols And Carboxylic Acids](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/alcohols-and-carboxylic-acids). Cross-checked against the project specification.
+- [Study Rocket: Alkenes And Additional Polymerisation](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/alkenes-and-additional-polymerisation). Cross-checked against the project specification.
+- [Study Rocket: Condensation And Natural Polymers](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/condensation-and-natural-polymers). Cross-checked against the project specification.
+- [Study Rocket: Hydrocarbons And Crude Oil](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-organic-chemistry/hydrocarbons-and-crude-oil). Cross-checked against the project specification.
