@@ -1,0 +1,78 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.1 and linked mathematical requirements",
+  "sections_refined": [
+    "Animal, plant and bacterial cells",
+    "3. Microscopy and size calculations",
+    "4. Culturing bacteria",
+    "6. Stem cells"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "cell-biology",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/1-Cell-Biology/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/cell-biology/",
+      "selection": "Detailed Notes",
+      "file": "cell-biology-detailed-notes.pdf",
+      "pages": 15,
+      "sha256": "75a47dbf34d642da1e1d85b6a145d8eeed376135dd6eed2e890e5165125e8bb4",
+      "local_path": "Reference Materials\\PMT - Cell Biology - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all cell structures, specialisation, scale, culture, mitosis, stem cells and transport. Existing coverage is retained; added scale-bar use, limits of doubling, inhibition interpretation and clone vulnerability. Rejected source claims that all body cells divide, plasmolysis always means death, or equal concentrations stop particle movement. Kept correct copied-chromosome diagram and AQA area calculations."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Cell Division",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/cell-division",
+      "file": "cell-division.txt",
+      "words": 781
+    },
+    {
+      "title": "Cells",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/cells",
+      "file": "cells.txt",
+      "words": 223
+    },
+    {
+      "title": "Diffusion",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/diffusion",
+      "file": "diffusion.txt",
+      "words": 826
+    },
+    {
+      "title": "Microscopes And Bacteria",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/microscopes-and-bacteria",
+      "file": "microscopes-and-bacteria.txt",
+      "words": 625
+    },
+    {
+      "title": "Osmosis Active Transport",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/osmosis-active-transport",
+      "file": "osmosis-active-transport.txt",
+      "words": 437
+    }
+  ],
+  "decisions": [
+    "Reviewed all cell structures, specialisation, scale, culture, mitosis, stem cells and transport. Existing coverage is retained; added scale-bar use, limits of doubling, inhibition interpretation and clone vulnerability. Rejected source claims that all body cells divide, plasmolysis always means death, or equal concentrations stop particle movement. Kept correct copied-chromosome diagram and AQA area calculations.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 54,
+    "added": 12,
+    "refined": 0,
+    "after": 66
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

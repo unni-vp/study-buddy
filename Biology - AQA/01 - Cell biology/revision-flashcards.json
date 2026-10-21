@@ -1,0 +1,552 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Cell structures",
+      "front": "What is the difference between a eukaryotic cell and a prokaryotic cell?",
+      "back": [
+        "A **eukaryotic cell** has its genetic material enclosed inside a nucleus.",
+        "A **prokaryotic cell** is smaller and has no nucleus; its main DNA loop is free in the cytoplasm."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "What are the functions of the nucleus, cytoplasm and cell membrane?",
+      "back": [
+        "**Nucleus:** contains genetic material and controls the cell's activities.",
+        "**Cytoplasm:** where many enzyme-controlled chemical reactions occur.",
+        "**Cell membrane:** controls movement of substances into and out of the cell."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "What are the functions of mitochondria and ribosomes?",
+      "back": [
+        "**Mitochondria** are the site of aerobic respiration, which transfers energy for cell processes.",
+        "**Ribosomes** are the site of protein synthesis."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "Which structures are found in plant cells but not animal cells?",
+      "back": [
+        "A **cellulose cell wall** and a **permanent vacuole**.",
+        "Photosynthetic plant cells also contain **chloroplasts**.",
+        "Root hair cells normally have no chloroplasts because they are underground and do not photosynthesise."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "What are the functions of the cell wall, chloroplasts and permanent vacuole?",
+      "back": [
+        "**Cell wall:** strengthens and supports the plant cell.",
+        "**Chloroplasts:** contain chlorophyll; they are the site of photosynthesis.",
+        "**Permanent vacuole:** contains cell sap and helps keep the cell firm when filled with water."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "Describe the genetic material in a bacterial cell.",
+      "back": [
+        "The main genetic material is a **single circular DNA loop** in the cytoplasm.",
+        "Some bacteria also contain **plasmids**, which are small rings of DNA carrying additional genes."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "Which structures does a bacterial cell contain?",
+      "back": [
+        "Cytoplasm, ribosomes, a cell membrane and a cell wall.",
+        "It has no nucleus, mitochondria or chloroplasts.",
+        "Its cell wall is not made of cellulose."
+      ]
+    },
+    {
+      "category": "Cell structures",
+      "front": "How should you write a clear comparison between two cell types?",
+      "back": [
+        "State both sides of the difference.",
+        "Example: ‘A plant cell has a cellulose cell wall, whereas an animal cell has no cell wall.’"
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "What is differentiation?",
+      "back": [
+        "**Differentiation** is the process by which a cell develops structures that make it suited to a particular function.",
+        "The result is a **specialised cell**."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How is a sperm cell adapted to its function?",
+      "back": [
+        "A tail allows movement towards the egg.",
+        "Many mitochondria transfer energy for movement.",
+        "Acrosome enzymes help the sperm penetrate the egg's outer layers."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How are nerve and muscle cells adapted to their functions?",
+      "back": [
+        "A **nerve cell** has a long fibre to carry impulses over long distances and branched ends to connect with other cells.",
+        "A **muscle cell** has contractile proteins for shortening and many mitochondria to transfer energy for contraction."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How is a root hair cell adapted for uptake from soil?",
+      "back": [
+        "Its long extension gives a **large surface area** for absorbing water and mineral ions.",
+        "It has mitochondria to transfer energy for the **active transport** of mineral ions."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How are xylem cells adapted for their function?",
+      "back": [
+        "Dead, hollow cells join end-to-end to form tubes for transporting water and mineral ions.",
+        "Walls strengthened with **lignin** support the plant and resist collapse."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How are phloem cells adapted for their function?",
+      "back": [
+        "**Sieve tubes** transport dissolved sugars around the plant.",
+        "**Companion cells** supply energy needed to load sugars into the sieve tubes."
+      ]
+    },
+    {
+      "category": "Specialised cells",
+      "front": "How does differentiation differ in animals and plants?",
+      "back": [
+        "Most animal cells differentiate early in development; mature animal cell division mainly repairs or replaces cells.",
+        "Many plant cells can differentiate throughout life, especially cells made in **meristems**."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "What is the difference between magnification and resolution?",
+      "back": [
+        "**Magnification** is how many times larger the image is than the actual object.",
+        "**Resolution** is the ability to distinguish two nearby points as separate."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "Why can an electron microscope reveal more detail than a light microscope?",
+      "back": [
+        "It has greater magnification and greater **resolving power**.",
+        "This allows much smaller structures to be distinguished."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "What is the magnification equation?",
+      "back": [
+        "**Magnification = image size ÷ actual size**.",
+        "Image size and actual size must be in the same units.",
+        "Magnification has no unit."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "How do you convert between millimetres, micrometres and nanometres?",
+      "back": [
+        "mm → µm: multiply by **1,000**.",
+        "µm → nm: multiply by **1,000**.",
+        "Reverse either conversion by dividing by 1,000."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "What are the key steps when using a light microscope?",
+      "back": [
+        "Start with the **lowest-power objective** and centre the specimen.",
+        "Use coarse focus, then fine focus.",
+        "Increase magnification and use fine focus again.",
+        "Total microscope magnification = eyepiece × objective."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "Why should a microscope specimen be thin and stained?",
+      "back": [
+        "A thin sample lets light pass through and avoids overlapping layers.",
+        "A suitable stain improves **contrast**, making structures easier to see."
+      ]
+    },
+    {
+      "category": "Microscopy",
+      "front": "What makes a good biological drawing?",
+      "back": [
+        "Clear pencil outlines with no shading.",
+        "Labels only for structures you can identify.",
+        "A magnification scale or scale bar."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "How do bacteria reproduce, and what shape does their population growth follow?",
+      "back": [
+        "Bacteria reproduce by **binary fission**: one cell divides into two.",
+        "Repeated doubling gives **exponential growth**, such as 1 → 2 → 4 → 8."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "What equation calculates a bacterial population after repeated doubling?",
+      "back": [
+        "**Final population = starting population × 2ⁿ**.",
+        "**n = total time ÷ division time**.",
+        "Convert both times to the same unit first."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "What is aseptic technique, and why is it used?",
+      "back": [
+        "**Aseptic technique** prevents contamination by unwanted microorganisms.",
+        "It protects the culture, the investigator and the surroundings."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "Give four aseptic actions and their reasons.",
+      "back": [
+        "Sterilise equipment and agar to remove unwanted microorganisms.",
+        "Cool a sterilised inoculating loop so it does not kill the transferred bacteria.",
+        "Open the lid briefly to reduce airborne contamination.",
+        "Use small pieces of tape rather than sealing the plate completely, allowing gas exchange."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "Why are school agar plates incubated upside down and at no more than 25°C?",
+      "back": [
+        "Upside down: condensation cannot drip onto the colonies and spread them.",
+        "At a maximum of **25°C**: reduces the risk of growing harmful human pathogens."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "How is an antimicrobial substance tested on an agar plate?",
+      "back": [
+        "Place paper discs containing each substance onto a bacterial lawn.",
+        "Include a **control disc** containing only the solvent.",
+        "Keep bacterial strain, agar, disc size, substance volume, incubation time and temperature the same."
+      ]
+    },
+    {
+      "category": "Culturing microorganisms",
+      "front": "What does a zone of inhibition show, and how can its area be calculated?",
+      "back": [
+        "The clear zone shows where microbial growth was prevented.",
+        "A larger zone suggests greater inhibition under those test conditions.",
+        "For a circular zone, **area = πr²**. Use the radius, not the diameter."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What are chromosomes and genes?",
+      "back": [
+        "**Chromosomes** are made of DNA.",
+        "Each chromosome carries many **genes**.",
+        "Body-cell chromosomes normally occur in pairs."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What happens during the three main stages of the cell cycle?",
+      "back": [
+        "1. The cell grows, increases sub-cellular structures and copies its DNA.",
+        "2. During **mitosis**, chromosome copies separate and the nucleus divides.",
+        "3. The cytoplasm and membrane divide to form two cells."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What does mitosis produce, and why is it useful?",
+      "back": [
+        "Two **genetically identical daughter cells** with the same chromosome number as the parent cell.",
+        "Mitosis supports growth, repair and replacement of cells."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What happens to chromosomes before and during mitosis?",
+      "back": [
+        "DNA is copied **before mitosis**, creating two joined copies of each chromosome.",
+        "During mitosis, the joined copies separate and one complete set moves to each end of the cell.",
+        "The chromosome number is maintained, not halved."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What is a stem cell?",
+      "back": [
+        "An **undifferentiated cell** that can divide and produce cells which differentiate into other cell types."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "Compare embryonic, adult bone-marrow and plant meristem stem cells.",
+      "back": [
+        "Embryonic stem cells can form most types of human cell.",
+        "Adult bone-marrow stem cells form a more limited range, including blood cells.",
+        "Plant meristem cells can form any type of plant cell throughout the plant's life."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What are the possible benefits and risks of human stem-cell treatment?",
+      "back": [
+        "Benefit: damaged cells could be replaced, for example insulin-producing or nerve cells.",
+        "Risks include viral infection and uncontrolled cell division.",
+        "Embryo use raises ethical objections, which should be weighed against possible treatment benefits."
+      ]
+    },
+    {
+      "category": "Cell division and stem cells",
+      "front": "What is therapeutic cloning, and what is its main advantage?",
+      "back": [
+        "An embryo is produced with the patient's genes and used as a source of stem cells.",
+        "The resulting tissue is **genetically matched**, reducing the risk of immune rejection."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Give an exam-ready definition of diffusion.",
+      "back": [
+        "The **net movement of particles from an area of higher concentration to an area of lower concentration**, down a concentration gradient."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Which four factors can increase the rate of diffusion?",
+      "back": [
+        "A steeper concentration gradient.",
+        "A higher temperature.",
+        "A larger surface area.",
+        "A shorter diffusion distance."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Give an exam-ready definition of osmosis.",
+      "back": [
+        "The **net movement of water molecules** from a **dilute solution** to a **more concentrated solution**, through a **partially permeable membrane**."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "What happens to plant and animal cells in very dilute solutions?",
+      "back": [
+        "Water enters a plant cell by osmosis; it becomes **turgid**, and the cell wall prevents bursting.",
+        "An animal cell may swell and burst because it has no cell wall."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "What happens to plant and animal cells in concentrated solutions?",
+      "back": [
+        "Water leaves both cells by osmosis.",
+        "A plant cell becomes flaccid and may become **plasmolysed**.",
+        "An animal cell shrinks."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Give an exam-ready definition of active transport.",
+      "back": [
+        "The movement of substances from lower to higher concentration, **against the concentration gradient**, using energy transferred by respiration."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Give two examples of active transport.",
+      "back": [
+        "Root hair cells absorb mineral ions from dilute soil into the cell.",
+        "Small-intestine cells absorb sugars into the blood when the concentration in the gut is lower than in the blood."
+      ]
+    },
+    {
+      "category": "Transport",
+      "front": "Compare diffusion, osmosis and active transport.",
+      "back": [
+        "**Diffusion:** particles move down a concentration gradient; no respiration energy required.",
+        "**Osmosis:** water moves through a partially permeable membrane from dilute to more concentrated solution; no respiration energy required.",
+        "**Active transport:** substances move against a concentration gradient using energy from respiration."
+      ]
+    },
+    {
+      "category": "Exchange surfaces",
+      "front": "Why do large multicellular organisms need specialised exchange surfaces and transport systems?",
+      "back": [
+        "They have a low **surface-area-to-volume ratio** and long diffusion distances.",
+        "Exchange through the outer surface alone would be too slow to meet the cells' needs."
+      ]
+    },
+    {
+      "category": "Exchange surfaces",
+      "front": "What features make an exchange surface efficient?",
+      "back": [
+        "A **large surface area**.",
+        "A **thin surface** for a short diffusion distance.",
+        "A good blood supply and ventilation to maintain steep concentration gradients."
+      ]
+    },
+    {
+      "category": "Exchange surfaces",
+      "front": "How do you calculate the surface-area-to-volume ratio of a cube?",
+      "back": [
+        "Surface area = **6a²** and volume = **a³**, where a is side length.",
+        "Write the ratio as surface area : volume and simplify it.",
+        "As a cube gets larger, its surface-area-to-volume ratio decreases."
+      ]
+    },
+    {
+      "category": "Exchange surfaces",
+      "front": "How are alveoli adapted for gas exchange?",
+      "back": [
+        "Many tiny alveoli provide a large surface area.",
+        "Thin walls give a short diffusion distance.",
+        "A rich blood supply and ventilation maintain steep oxygen and carbon-dioxide gradients."
+      ]
+    },
+    {
+      "category": "Osmosis practical",
+      "front": "Outline the required practical investigating osmosis in plant tissue.",
+      "back": [
+        "Measure equal-size potato cylinders and record each initial mass.",
+        "Place them in equal volumes of different solution concentrations for the same time and temperature.",
+        "Blot consistently, measure final mass, calculate percentage mass change, repeat and calculate means."
+      ]
+    },
+    {
+      "category": "Osmosis practical",
+      "front": "What is the percentage mass change equation?",
+      "back": [
+        "**Percentage mass change = (final mass − initial mass) ÷ initial mass × 100**.",
+        "Keep the sign: a mass loss gives a negative result."
+      ]
+    },
+    {
+      "category": "Osmosis practical",
+      "front": "What do positive, negative and zero percentage mass changes mean?",
+      "back": [
+        "Positive: net water gain; the surrounding solution was more dilute.",
+        "Negative: net water loss; the surrounding solution was more concentrated.",
+        "Zero: no net movement of water, although water molecules still move both ways."
+      ]
+    },
+    {
+      "category": "Osmosis practical",
+      "front": "How can a graph estimate the concentration inside potato cells?",
+      "back": [
+        "Plot solution concentration against mean percentage mass change.",
+        "Read the x-value where the best-fit line crosses **0% mass change**.",
+        "At this concentration there is no net movement of water."
+      ]
+    },
+    {
+      "category": "Osmosis practical",
+      "front": "Why are percentage change, blotting and repeats important in the osmosis practical?",
+      "back": [
+        "Percentage change allows fair comparison when starting masses differ.",
+        "Blotting removes surface solution that would falsely increase mass.",
+        "Repeats help identify anomalies and allow a mean to be calculated."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Why can a scale bar remain useful after an image is enlarged?",
+      "back": [
+        "It enlarges with the object, so their measured length ratio stays the same. A numerical magnification printed beside the old image may no longer be correct."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "A cell is three times as long as a scale bar marked 10 µm. What is its real length?",
+      "back": [
+        "30 µm. Multiply the measured length ratio, 3, by the actual scale-bar value."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use several features to identify a plant cell?",
+      "back": [
+        "Some specialised plant cells lack chloroplasts. A cellulose wall, vacuole and other features provide stronger evidence than one feature alone."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Is a plasmid a bacterial nucleus?",
+      "back": [
+        "No. It is a small additional ring of DNA in the cytoplasm; bacteria have no nucleus."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do bacteria need mitochondria to carry out respiration?",
+      "back": [
+        "No. They lack mitochondria but still carry out respiration using other cell structures."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a bacterial population not keep doubling at the same rate forever?",
+      "back": [
+        "Nutrients or space become limiting and waste accumulates. The constant-division-time model stops matching the real conditions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a clear inhibition zone prove all bacteria there were killed?",
+      "back": [
+        "No. It shows visible growth was inhibited. An antimicrobial can prevent growth without necessarily killing every cell."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can inhibition-zone sizes be an imperfect comparison between substances?",
+      "back": [
+        "Substances may diffuse through agar at different rates. Disc size, bacterial strain and incubation conditions must also be controlled."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can cloned crops be vulnerable to the same new disease?",
+      "back": [
+        "Their genetic similarity means many may share susceptibility. Cloning does not create genetic diversity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can osmosis and active transport both occur in a root hair cell?",
+      "back": [
+        "Yes. Water can enter by osmosis while mineral ions are absorbed against their concentration gradient using energy from respiration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "At diffusion equilibrium, do particles stop moving?",
+      "back": [
+        "No. Random movement continues in both directions, but there is no overall net movement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a larger organism’s greater total surface area not enough for exchange?",
+      "back": [
+        "Its volume and demand rise faster than its external surface area. Low surface area relative to volume and long diffusion distances make outer-surface exchange insufficient."
+      ]
+    }
+  ]
+}

@@ -28,17 +28,18 @@ A cell is like a factory: instructions guide the work, workers make products, an
 | **Permanent vacuole** | Contains cell sap; helps keep a plant cell firm when filled with water. | Water-filled support |
 
 ### Animal, plant and bacterial cells
+| Feature | Animal cell | Plant cell | Bacterial cell |
+|---|---|---|---|
+| Genetic material | DNA is enclosed in a nucleus. | DNA is enclosed in a nucleus. | The main DNA is a circular loop in the cytoplasm; some cells also have plasmids. |
+| Cell boundary | A membrane controls exchange. There is no cell wall. | A membrane controls exchange. A cellulose wall provides support. | A membrane controls exchange. A wall made from a different material provides support. |
+| Respiration and protein production | Mitochondria carry out aerobic respiration; ribosomes make proteins. | Mitochondria carry out aerobic respiration; ribosomes make proteins. | There are ribosomes but no mitochondria. Respiration does not require a nucleus. |
+| Other structures | Most cells have cytoplasm and the structures listed above. | Many have a large permanent vacuole. Photosynthetic cells have chloroplasts. | Bacteria are usually much smaller and lack chloroplasts. |
 
-- **Animal cells:** usually nucleus, cytoplasm, membrane, mitochondria and ribosomes.
-- **Plant cells:** these structures plus a cellulose wall and usually a permanent vacuole; photosynthetic cells have chloroplasts.
-- **Root hair cells do not normally have chloroplasts:** they are underground and do not photosynthesise.
-- Plant and animal cells are **eukaryotic**: their genetic material is enclosed in a nucleus.
-- Bacterial cells are **prokaryotic**: smaller, with **no nucleus**. Their main DNA is a **single loop** in the cytoplasm. Some also contain **plasmids**, small rings of DNA carrying additional genes.
-- Bacteria have cytoplasm, ribosomes, a membrane and a wall. Their wall is **not cellulose**, and they have no mitochondria or chloroplasts.
+Plant and animal cells are **eukaryotic** because their genetic material is enclosed in a nucleus. Bacteria are **prokaryotic**. A plasmid is an additional small ring of DNA; it is not a bacterial nucleus.
 
-**Comparing cells:** when comparing cells, state both sides: “The plant cell has a cellulose wall, whereas the animal cell has no cell wall.”
+A diagram shows a representative cell, not every exception. For example, underground **root hair cells normally lack chloroplasts**, while mature mammalian red blood cells lack a nucleus. Identify a cell using several features together, rather than assuming every green-looking structure must be a chloroplast.
 
-**Common mistake:** a cell wall supports the cell; the **membrane** controls exchange. They are different structures.
+The **wall supports** the cell; the **membrane controls exchange**. They are separate structures.
 
 ## 2. Specialisation and differentiation
 
@@ -118,6 +119,19 @@ Use **the same units** for image and actual size. Magnification has **no unit**.
 
 **Safety:** handle glass carefully; avoid contact with stains and biological material. Follow the school procedure.
 
+### Using a scale bar after an image is resized
+
+A scale bar is a ruler printed inside the picture. It stays in proportion to the cell when both are enlarged together, whereas a stated magnification may no longer be correct after resizing.
+
+**Actual object size = measured object length ÷ measured scale-bar length × scale-bar value**
+
+For example, a cell measures **36 mm** on the picture. Its scale bar measures **12 mm** and represents **10 µm**.
+
+1. Compare the measured lengths: **36 ÷ 12 = 3**.
+2. Multiply by the bar's actual value: **3 × 10 µm = 30 µm**.
+
+The two measured lengths must use the same units. The answer takes the unit printed on the scale bar. Do not treat the bar's printed value as its measured length on the page.
+
 ## 4. Culturing bacteria
 
 Bacteria reproduce by **binary fission**: one bacterial cell divides into two. They can divide about every 20 minutes under suitable conditions; use the division time given in the question.
@@ -180,6 +194,12 @@ Example: 50 bacteria, doubling every 20 minutes for 2 hours:
 
 Check whether the question wants the whole clear circle or the area excluding the disc; subtract the disc area only when required.
 
+### What a growth model can and cannot predict
+
+Repeated doubling assumes the division time remains constant. A real culture eventually runs short of nutrients or space, or accumulates waste, so its growth cannot continue doubling indefinitely.
+
+A clear inhibition zone shows that visible bacterial growth was prevented. It does not by itself prove that every bacterium there was killed. Keep disc size and culture conditions the same, and remember that substances can diffuse through agar at different rates.
+
 ## 5. Chromosomes, mitosis and the cell cycle
 
 ![Cell cycle: each chromosome is copied into two joined copies, the copies separate during mitosis, and each daughter cell receives one complete set.](Diagrams/02-cell-cycle-stem-cells.png)
@@ -234,6 +254,10 @@ Meristem cells allow rapid, economical production of **clones**:
 - Preserve rare plants threatened with extinction.
 - Produce crops with useful features, such as disease resistance.
 
+### Cloning plants: matching a useful feature
+
+Clones retain the parent's genetic features, which helps multiply a rare plant or a valuable crop. However, a genetically similar crop may share susceptibility to the same new pathogen. Rapid multiplication preserves selected features; it does not create genetic diversity.
+
 ## 7. Diffusion, osmosis and active transport
 
 ![Equal-sized compartments show concentration differences. Diffusion moves particles down their gradient; osmosis moves water across a partially permeable membrane; active transport moves substances against their gradient using energy.](Diagrams/03-transport.png)
@@ -283,6 +307,8 @@ Pushing a trolley uphill needs energy. Active transport moves substances “uphi
 - **Small intestine:** absorbs sugars into blood even when their concentration in the gut is lower than in blood.
 - Membrane transport proteins carry the substances. A cell carrying out much active transport needs energy from respiration.
 
+Water can enter a root hair by **osmosis** at the same time that mineral ions enter by **active transport**. The processes are identified by what moves, its concentration gradient and the need for energy; they are not alternative names for all absorption.
+
 **Common mistake:** “low to high” must specify **concentration**, not height or amount. Osmosis moves water, not sugar or salt.
 
 ## 8. Exchange surfaces and surface area to volume ratio
@@ -291,7 +317,7 @@ Pushing a trolley uphill needs energy. Active transport moves substances “uphi
 
 Small organisms have a **large surface area relative to their volume**. Large organisms have less outside surface for each unit of tissue needing materials.
 
-cutting a large potato into small cubes exposes much more surface. The amount of potato stays the same, but more of it is close to the outside.
+Cutting a large potato into small cubes exposes much more surface. The amount of potato stays the same, but more of it is close to the outside.
 
 ### Worked example: cubes
 
@@ -381,3 +407,10 @@ The negative change shows that water left by osmosis.
 ## Sources
 
 - [AQA Cell biology](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/cell-biology)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Cell Biology - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Cell Division](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/cell-division). Cross-checked against the project specification.
+- [Study Rocket: Cells](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/cells). Cross-checked against the project specification.
+- [Study Rocket: Diffusion](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/diffusion). Cross-checked against the project specification.
+- [Study Rocket: Microscopes And Bacteria](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/microscopes-and-bacteria). Cross-checked against the project specification.
+- [Study Rocket: Osmosis Active Transport](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-cell-biology/osmosis-active-transport). Cross-checked against the project specification.
