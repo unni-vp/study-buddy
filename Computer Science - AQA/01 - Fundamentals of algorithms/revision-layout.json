@@ -4,7 +4,7 @@
     {
       "id": "design",
       "title": "Planning algorithms",
-      "icon": "computer-algorithm",
+      "icon": "nav-flow",
       "description": "Break a problem into tasks and plan a complete solution.",
       "sections": [
         {
@@ -15,7 +15,7 @@
     {
       "id": "represent",
       "title": "Representing and tracing",
-      "icon": "computer-code",
+      "icon": "nav-code",
       "description": "Use pseudocode, Python, flowcharts and trace tables.",
       "sections": [
         {
@@ -29,7 +29,7 @@
     {
       "id": "search",
       "title": "Searching",
-      "icon": "computer-search",
+      "icon": "nav-search",
       "description": "Follow successful and unsuccessful searches and compare their efficiency.",
       "sections": [
         {
@@ -49,7 +49,7 @@
     {
       "id": "sort",
       "title": "Sorting",
-      "icon": "computer-sort",
+      "icon": "nav-sort",
       "description": "Follow complete passes, ordered merges and their trade-offs.",
       "sections": [
         {
