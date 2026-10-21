@@ -26,6 +26,12 @@ Earth formed about **4.6 billion years ago**, so direct evidence of its early at
 
 The model has similarities to the carbon-dioxide-rich atmospheres of Mars and Venus. Similarity is supporting evidence, not proof of identical histories. Ancient rocks have been altered or destroyed, so evidence can be incomplete and interpretations change with new data.
 
+### A change of state is different from a reaction
+
+Cooling water vapour **condensed** to form liquid water. Its molecules were still H₂O: condensation did not split water into hydrogen and oxygen. Carbon dioxide then **dissolved** in the oceans, and reactions helped lock carbon into carbonate sediments. These are different steps, rather than one process called “the gases cooled”.
+
+Oxygen built up as photosynthesis released it over a very long time. Nitrogen accumulated because it is relatively unreactive under ordinary conditions, so it was not removed as readily by processes that removed carbon dioxide.
+
 ## Photosynthesis changes the atmosphere
 
 Early photosynthetic organisms, including algae, produced oxygen about **2.7 billion years ago**. Later plants increased oxygen levels further, supporting the evolution of animals.
@@ -92,6 +98,12 @@ Melting floating sea ice is not the main direct source of sea-level rise; distin
 
 Evaluate a report by checking duration, sample/geographical coverage, reliable measurements, alternative influences, whether all relevant data are shown and whether the work was **peer-reviewed**. Peer review and independent studies help check reasoning. Media reports can oversimplify or select evidence; communicate the trend and its uncertainty together.
 
+### A forecast is not a measurement
+
+Historical measurements show what has already happened. A model uses physical relationships and assumptions, including future emissions, to explore what may happen next. Different emissions assumptions can therefore give different future temperature changes without contradicting the measured historical trend.
+
+When comparing reports, check whether they discuss **global averages or one region**, and **long-term climate or short-term weather**. A global average rise does not mean every place warms equally or every year is warmer than the previous year.
+
 ## Carbon footprints and reducing emissions
 
 A **carbon footprint** is the total greenhouse-gas emissions over the **full life cycle of a product, service or event**, not just carbon dioxide released during use.
@@ -115,6 +127,12 @@ Evaluate full-life-cycle data rather than claiming a product is zero-impact beca
 3. The new footprint is 135 − 20 = **115 kg CO₂e**.
 4. The whole-footprint reduction is 20 ÷ 135 × 100 = **14.8%**, not 25%, because only one stage was reduced.
 
+### Compare like with like
+
+Suppose two journeys each emit **10 kg CO₂e**. One carries one passenger; the other carries four. Their totals match, but the footprints per passenger are **10 kg** and **2.5 kg**. State whether you are comparing the entire journey, each passenger or each passenger-kilometre.
+
+Carbon dioxide equivalent, **CO₂e**, allows the warming effects of different greenhouse gases to be compared. A total labelled “greenhouse gases” must not silently omit methane just because it is not carbon dioxide.
+
 ## Fuel combustion and pollutant formation
 
 Predict pollutants from **fuel composition and combustion conditions**:
@@ -131,6 +149,18 @@ Predict pollutants from **fuel composition and combustion conditions**:
 Nitrogen oxides can form even if the fuel contains no nitrogen, because air supplies it. A sulfur-free fuel does not generate sulfur dioxide from sulfur that is absent. Adequate oxygen reduces carbon monoxide/soot, but still allows carbon dioxide production.
 
 Carbon monoxide reduces blood’s ability to transport oxygen by binding strongly to haemoglobin. It cannot be reliably detected by smell. This explains its toxicity without confusing it with carbon dioxide.
+
+### Predict the products from the information given
+
+For **pure hydrogen burning in pure oxygen**, the chemical product is water. There is no carbon or sulfur in these reactants, so carbon dioxide, carbon monoxide and sulfur dioxide cannot be made from them.
+
+If hydrogen burns in **air at high temperature**, nitrogen and oxygen from the air can also form nitrogen oxides. A fuel can therefore avoid carbon emissions at the point of use while still causing another form of air pollution.
+
+For methane with enough oxygen:
+
+**CH₄ + 2O₂ → CO₂ + 2H₂O**
+
+With insufficient oxygen, carbon monoxide and/or soot may form instead. The fuel's composition sets which atoms are available; the conditions help determine which products form.
 
 ## Acid rain, dimming and control choices
 
@@ -152,3 +182,8 @@ Measures include low-sulfur fuels/removing sulfur dioxide from waste gases, cont
 ## Sources
 
 - [AQA Chemistry of the atmosphere](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/chemistry-of-the-atmosphere)
+
+- [PMT: 9.1. The composition and evolution of the Earth's atmosphere](../Reference Materials/PMT - Summary 9.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 9.2. Carbon dioxide and methane as greenhouse gases](../Reference Materials/PMT - Summary 9.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 9.3. Common atmospheric pollutants and their sources](../Reference Materials/PMT - Summary 9.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Chemistry Of The Atmosphere](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atmospheric-chemistry/chemistry-of-the-atmosphere). Cross-checked against the project specification.

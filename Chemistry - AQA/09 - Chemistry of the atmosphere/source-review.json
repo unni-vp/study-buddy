@@ -1,0 +1,89 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.9",
+  "sections_refined": [
+    "Early atmosphere and oceans",
+    "Climate effects and evaluating evidence",
+    "Fuel combustion and pollutant formation",
+    "Carbon footprints and reducing emissions"
+  ],
+  "pmt_references": [
+    {
+      "title": "9.1. The composition and evolution of the Earth's atmosphere",
+      "topic": "chemistry-of-atmosphere",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/9-Chemistry-of-the-Atmosphere/Summary/9.1. The composition and evolution of the Earth's atmosphere.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemistry-of-atmosphere/",
+      "selection": "Summary Notes",
+      "file": "chemistry-of-atmosphere-9-1-the-composition-and-evolution-of-the-earth-s-atmosphere.pdf",
+      "pages": 3,
+      "sha256": "0cfabc69bf1a8091bfdb696a04cdc3fe72db016d27ecd6cbba89975e4f8c3181",
+      "local_path": "Reference Materials\\PMT - Summary 9.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries and the SR atmosphere page against 4.9. Existing radiation diagram, carbon stores, pollutant table and footprint calculation retained. Added physical versus chemical changes, projections versus observations, composition-based combustion and comparable footprint units. Rejected SR reflection-only greenhouse explanation, footprint restricted to CO2/use, and carbonate skeletons described as the source of crude oil."
+        }
+      ]
+    },
+    {
+      "title": "9.2. Carbon dioxide and methane as greenhouse gases",
+      "topic": "chemistry-of-atmosphere",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/9-Chemistry-of-the-Atmosphere/Summary/9.2. Carbon dioxide and methane as greenhouse gases.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemistry-of-atmosphere/",
+      "selection": "Summary Notes",
+      "file": "chemistry-of-atmosphere-9-2-carbon-dioxide-and-methane-as-greenhouse-gases.pdf",
+      "pages": 3,
+      "sha256": "75face0f09d128121846aad65471502a08622e9072241662b7565b242e9f110d",
+      "local_path": "Reference Materials\\PMT - Summary 9.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries and the SR atmosphere page against 4.9. Existing radiation diagram, carbon stores, pollutant table and footprint calculation retained. Added physical versus chemical changes, projections versus observations, composition-based combustion and comparable footprint units. Rejected SR reflection-only greenhouse explanation, footprint restricted to CO2/use, and carbonate skeletons described as the source of crude oil."
+        }
+      ]
+    },
+    {
+      "title": "9.3. Common atmospheric pollutants and their sources",
+      "topic": "chemistry-of-atmosphere",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/9-Chemistry-of-the-Atmosphere/Summary/9.3. Common atmospheric pollutants and their sources.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemistry-of-atmosphere/",
+      "selection": "Summary Notes",
+      "file": "chemistry-of-atmosphere-9-3-common-atmospheric-pollutants-and-their-sources.pdf",
+      "pages": 2,
+      "sha256": "22726451299539242a6ff092e9fe1c7af56722ec4ca5cc37b3341e069493bd73",
+      "local_path": "Reference Materials\\PMT - Summary 9.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries and the SR atmosphere page against 4.9. Existing radiation diagram, carbon stores, pollutant table and footprint calculation retained. Added physical versus chemical changes, projections versus observations, composition-based combustion and comparable footprint units. Rejected SR reflection-only greenhouse explanation, footprint restricted to CO2/use, and carbonate skeletons described as the source of crude oil."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Chemistry Of The Atmosphere",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atmospheric-chemistry/chemistry-of-the-atmosphere",
+      "file": "chemistry-of-the-atmosphere.txt",
+      "words": 810
+    }
+  ],
+  "decisions": [
+    "Reviewed all three PMT summaries and the SR atmosphere page against 4.9. Existing radiation diagram, carbon stores, pollutant table and footprint calculation retained. Added physical versus chemical changes, projections versus observations, composition-based combustion and comparable footprint units. Rejected SR reflection-only greenhouse explanation, footprint restricted to CO2/use, and carbonate skeletons described as the source of crude oil.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 31,
+    "added": 12,
+    "refined": 0,
+    "after": 43
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

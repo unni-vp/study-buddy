@@ -256,6 +256,90 @@
         "Disposal/recycling and lifetime change the total.",
         "Compare equal transport service, not just exhaust emissions from one trip."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does condensation of water vapour release oxygen gas?",
+      "back": [
+        "No. H₂O changes from gas to liquid without changing its chemical identity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did nitrogen accumulate as carbon dioxide decreased?",
+      "back": [
+        "Nitrogen is relatively unreactive under ordinary conditions and was not removed as readily by the processes taking carbon dioxide out of the atmosphere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a climate projection differ from a historical observation?",
+      "back": [
+        "A projection uses a model and future assumptions; an observation measures conditions that have already occurred."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can different future-emissions assumptions give different temperature projections?",
+      "back": [
+        "Different greenhouse-gas amounts change the energy balance assumed by the model."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does global warming mean every region warms equally?",
+      "back": [
+        "No. The global average can rise while regional changes differ."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What forms when pure hydrogen burns in pure oxygen?",
+      "back": [
+        "Water. The reactants contain no carbon or sulfur."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can hydrogen combustion in air still produce a pollutant?",
+      "back": [
+        "At high temperatures, nitrogen and oxygen in air can react to form nitrogen oxides."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What balanced equation describes complete methane combustion?",
+      "back": [
+        "CH₄ + 2O₂ → CO₂ + 2H₂O."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a particle filter insufficient to remove a fuel’s carbon footprint?",
+      "back": [
+        "It removes particles, while carbon dioxide is a gas and other life-cycle emissions may remain."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does CO₂e allow us to compare?",
+      "back": [
+        "The warming effects of different greenhouse gases on a common carbon-dioxide-equivalent basis."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the footprint per passenger for a 10 kg CO₂e trip with four passengers?",
+      "back": [
+        "2.5 kg CO₂e per passenger."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should reports distinguish weather from climate?",
+      "back": [
+        "A brief local event cannot by itself establish or disprove a long-term climate trend."
+      ]
     }
   ]
 }
