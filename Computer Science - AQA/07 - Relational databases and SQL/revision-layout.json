@@ -5,7 +5,7 @@
       "id": "design",
       "title": "Tables and relationships",
       "description": "Understand records, keys and shared data.",
-      "icon": "computer-data",
+      "icon": "nav-database",
       "sections": [
         {
           "heading": "Tables, records and fields"
@@ -21,7 +21,7 @@
     {
       "id": "retrieve",
       "title": "Selecting and sorting data",
-      "icon": "computer-code",
+      "icon": "nav-search",
       "description": "Use the example tables to filter columns and rows and order results.",
       "sections": [
         {
@@ -41,7 +41,7 @@
     {
       "id": "relations",
       "title": "Queries across two tables",
-      "icon": "computer-data",
+      "icon": "nav-link",
       "description": "Match key values before filtering and displaying linked records.",
       "sections": [
         {
@@ -53,7 +53,7 @@
       "id": "change",
       "title": "Changing data",
       "description": "Use INSERT, UPDATE and DELETE accurately.",
-      "icon": "computer-test",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "INSERT INTO and VALUES"
