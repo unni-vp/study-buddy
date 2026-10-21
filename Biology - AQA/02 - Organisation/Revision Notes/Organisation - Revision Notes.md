@@ -22,6 +22,14 @@ A body is like a team: small units work together on larger jobs.
 
 **Egestion** removes undigested food. **Excretion** removes metabolic waste, such as urea. Do not confuse them.
 
+### Digestion is different from absorption
+
+Chewing and stomach churning physically break or mix food, increasing the area exposed to enzymes. **Chemical digestion** changes large molecules into smaller soluble ones that can cross the gut lining.
+
+Enzymes made by the **pancreas** work after they are released into the small intestine; food does not travel through the pancreas. Bile is also delivered through a duct, rather than food passing through the liver.
+
+After absorption, amino acids can be used to make proteins for growth and repair. Sugars can supply respiration or be used to build larger carbohydrates. Digestion supplies building materials as well as fuel.
+
 ## Enzymes and their products
 
 An enzyme is like a reusable tool shaped for one job. Its **active site** fits a particular substrate.
@@ -52,6 +60,14 @@ Products are used to build new carbohydrates, proteins and lipids. Some glucose 
 - A fall above the optimum temperature is explained by **denaturation**, not by the enzyme being used up.
 - Compare rates only when substrate amount, enzyme concentration and other conditions are controlled.
 - **Rate = amount of product formed ÷ time**, or amount of substrate used ÷ time. Always include the units.
+
+### Specificity and the conditions for a fair comparison
+
+An active site is **complementary** to its substrate: the shapes fit together, like a key fitting a lock, rather than being the same shape. A different substrate may not bind, so one enzyme cannot catalyse every reaction.
+
+More substrate can increase rate while active sites are available. Eventually most sites are occupied and adding more substrate has little effect unless another limiting factor changes. Different enzymes have different optimum conditions; **37 °C and pH 7 are not universal values**.
+
+Amylase breaks starch into sugars, including maltose; it should not be described as directly converting every starch molecule to glucose in one step. **Bile emulsifies** lipid into smaller droplets without chemically splitting the lipid molecules. **Lipase** carries out the chemical breakdown into glycerol and fatty acids.
 
 ## Food tests
 
@@ -161,6 +177,14 @@ Air travels through **trachea → bronchi → smaller airways → alveoli**.
 
 When recognising a blood micrograph, use visible evidence: red cells are numerous and lack nuclei; white cells have a visible nucleus; platelets are much smaller fragments.
 
+### Linking the complete transport route
+
+Oxygen diffuses from alveolar air into the blood and binds to **haemoglobin** in red blood cells. At respiring tissues it is released, allowing oxygen to diffuse into cells. Carbon dioxide produced by respiration is carried back towards the lungs, much of it in plasma.
+
+Elastic artery walls stretch as the heart contracts and recoil as it relaxes, helping maintain blood flow between beats. Thin capillary walls favour exchange, rather than withstanding the highest pressure. Vein valves prevent backflow as low-pressure blood returns to the heart.
+
+The heart muscle needs its own **coronary blood supply** even though blood passes through its chambers. If this supply is reduced, oxygen delivery and aerobic respiration in the muscle fall, weakening its ability to contract.
+
 ## Coronary heart disease and treatments
 
 **Coronary heart disease:** fatty deposits narrow coronary arteries. Less blood reaches heart muscle, so less oxygen is available for aerobic respiration. A blockage can cause a heart attack.
@@ -174,6 +198,12 @@ When recognising a blood micrograph, use visible evidence: red cells are numerou
 | Artificial heart | Supports circulation while awaiting transplant or recovery | Infection/clot risks; power and equipment limitations |
 
 A leaking valve permits backflow; a valve that fails to open fully restricts flow. Both reduce effective pumping. Compare treatments using the **patient’s condition**, expected benefit and risk rather than saying one is always best.
+
+### Treat the cause of the problem
+
+A **stent** supports a narrowed coronary artery; a **replacement valve** corrects faulty one-way flow; an **artificial pacemaker** corrects some rhythm problems. They solve different problems and cannot simply be substituted for one another.
+
+A donor heart may restore effective circulation, but rejection can require long-term **immunosuppressant medicines**. These reduce immune responses and can increase susceptibility to infection. Mechanical devices avoid some biological rejection problems but still carry clot, infection and equipment risks.
 
 ## Health, risk factors and cancer
 
@@ -249,6 +279,20 @@ Here **r** is the capillary radius.
 
 Leaks give misleading results. Repeat measurements and compare means. Stomatal density can be estimated by counting stomata in several randomly selected, measured microscope areas, then calculating a mean per unit area.
 
+### Guard cells balance two needs
+
+When guard cells become **turgid**, their shape opens the stoma. Loss of water can make them less turgid and close the pore, reducing water loss. Closing stomata also restricts carbon dioxide entry, so conserving water can reduce photosynthesis.
+
+Water moves as a liquid through xylem, **evaporates inside the leaf**, then diffuses out as water vapour. Sugar transport is **translocation in phloem**, a different process. A potometer estimates water loss from uptake; uptake is not identical to transpiration because some water is retained or used.
+
 ## Sources
 
 - [AQA Biology specification](../../00%20-%20Specification/AQA-8461-specification.pdf)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Organisation - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Blood](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/blood). Cross-checked against the project specification.
+- [Study Rocket: Enzymes](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/enzymes). Cross-checked against the project specification.
+- [Study Rocket: Heart And Lungs](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/heart-and-lungs). Cross-checked against the project specification.
+- [Study Rocket: Non Communicable Diseases](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/non-communicable-diseases). Cross-checked against the project specification.
+- [Study Rocket: Plant Tissue](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/plant-tissue). Cross-checked against the project specification.
+- [Study Rocket: Transpiration](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/transpiration). Cross-checked against the project specification.

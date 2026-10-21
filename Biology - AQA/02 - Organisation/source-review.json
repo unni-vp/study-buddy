@@ -1,0 +1,85 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.2",
+  "sections_refined": [
+    "Cells, tissues and digestion",
+    "Enzymes and their products",
+    "Blood, vessels and lungs",
+    "Coronary heart disease and treatments",
+    "Transpiration and translocation"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "organisation",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/2-Organisation/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/organisation/",
+      "selection": "Detailed Notes",
+      "file": "organisation-detailed-notes.pdf",
+      "pages": 14,
+      "sha256": "c0c57930b12ce6e230cf8111b122cfc70070f245a4fe466849efbe378f05d8ac",
+      "local_path": "Reference Materials\\PMT - Organisation - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed organisation, digestion/food tests, enzymes, circulation, disease/risk and plant transport. Retained practical diagrams, methods and causal-risk caveats. Developed site of enzyme action, specificity/limitation, bile versus lipase, vessel elasticity, treatment selection and guard-cell trade-offs. Rejected SR universal enzyme optima, amylase-to-glucose simplification, and the suggestion a heart transplant removes ongoing medication needs."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Blood",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/blood",
+      "file": "blood.txt",
+      "words": 717
+    },
+    {
+      "title": "Enzymes",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/enzymes",
+      "file": "enzymes.txt",
+      "words": 657
+    },
+    {
+      "title": "Heart And Lungs",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/heart-and-lungs",
+      "file": "heart-and-lungs.txt",
+      "words": 577
+    },
+    {
+      "title": "Non Communicable Diseases",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/non-communicable-diseases",
+      "file": "non-communicable-diseases.txt",
+      "words": 745
+    },
+    {
+      "title": "Plant Tissue",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/plant-tissue",
+      "file": "plant-tissue.txt",
+      "words": 499
+    },
+    {
+      "title": "Transpiration",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-organisation/transpiration",
+      "file": "transpiration.txt",
+      "words": 509
+    }
+  ],
+  "decisions": [
+    "Reviewed organisation, digestion/food tests, enzymes, circulation, disease/risk and plant transport. Retained practical diagrams, methods and causal-risk caveats. Developed site of enzyme action, specificity/limitation, bile versus lipase, vessel elasticity, treatment selection and guard-cell trade-offs. Rejected SR universal enzyme optima, amylase-to-glucose simplification, and the suggestion a heart transplant removes ongoing medication needs.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 48,
+    "added": 15,
+    "refined": 0,
+    "after": 63
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Organisation and digestion",
+      "front": "What is the order of organisation in a multicellular organism?",
+      "back": [
+        "**Cells → tissues → organs → organ systems → organism**.",
+        "A tissue contains similar cells working together; an organ contains different tissues working together."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "Which tissues are found in the stomach, and what does each do?",
+      "back": [
+        "Muscular tissue mixes food.",
+        "Glandular tissue releases digestive juices.",
+        "Epithelial tissue covers the stomach's surfaces."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "What is the difference between digestion and absorption?",
+      "back": [
+        "**Digestion** breaks large, insoluble food molecules into small, soluble molecules.",
+        "**Absorption** moves digested products through the small-intestine wall into the blood."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "What route does food follow through the digestive system?",
+      "back": [
+        "Mouth → oesophagus → stomach → small intestine → large intestine → rectum → anus."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "What are the main functions of the stomach?",
+      "back": [
+        "Muscular walls churn food.",
+        "Protease digests protein.",
+        "Hydrochloric acid kills many microbes and gives the protease a suitable pH."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "What do the liver, gall bladder and pancreas contribute to digestion?",
+      "back": [
+        "The **liver** makes bile.",
+        "The **gall bladder** stores bile and releases it into the small intestine.",
+        "The **pancreas** releases digestive enzymes into the small intestine."
+      ]
+    },
+    {
+      "category": "Organisation and digestion",
+      "front": "What is the difference between egestion and excretion?",
+      "back": [
+        "**Egestion** removes undigested food from the digestive system.",
+        "**Excretion** removes metabolic waste made by cells, such as urea."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "What is an enzyme?",
+      "back": [
+        "An enzyme is a **protein biological catalyst**.",
+        "It speeds up a reaction without being used up."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "How does the lock-and-key model explain enzyme action?",
+      "back": [
+        "A substrate with a complementary shape binds to the enzyme's **active site**.",
+        "Products form and leave; the enzyme is unchanged and can be reused."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "How does temperature affect enzyme activity?",
+      "back": [
+        "At low temperature, particles have less kinetic energy, so there are fewer successful collisions.",
+        "Rate rises towards an optimum.",
+        "Above the optimum, the active site changes shape and the enzyme becomes **denatured**."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "How does pH affect enzyme activity?",
+      "back": [
+        "Each enzyme has an optimum pH.",
+        "A pH too far from the optimum can change the active site's shape, so the substrate no longer fits as well."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "What does amylase digest, where is it made, and what does it produce?",
+      "back": [
+        "Amylase is made in the salivary glands, pancreas and small intestine.",
+        "It digests **starch into sugars**."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "What do proteases and lipases digest?",
+      "back": [
+        "**Proteases:** proteins → amino acids.",
+        "**Lipases:** lipids → glycerol and fatty acids."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "How does bile help lipid digestion?",
+      "back": [
+        "Bile is alkaline, so it neutralises stomach acid entering the small intestine.",
+        "It **emulsifies fat** into small droplets, increasing the surface area available to lipase.",
+        "Bile is not an enzyme."
+      ]
+    },
+    {
+      "category": "Enzymes",
+      "front": "How is enzyme reaction rate calculated?",
+      "back": [
+        "**Rate = amount of product formed ÷ time** or amount of substrate used ÷ time.",
+        "Include suitable units."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "What is the test for reducing sugars?",
+      "back": [
+        "Add Benedict's solution and heat in a hot water bath.",
+        "A positive result changes from blue through green, yellow or orange to a **brick-red precipitate**."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "What is the test for starch?",
+      "back": [
+        "Add iodine solution.",
+        "A positive result changes from orange-brown to **blue-black**."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "What is the test for protein?",
+      "back": [
+        "Add Biuret reagent.",
+        "A positive result changes from blue to **lilac or purple**."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "What are two tests for lipids?",
+      "back": [
+        "Add Sudan III and shake: a red-stained oil layer separates.",
+        "Alternatively, add ethanol then water: a **milky emulsion** forms.",
+        "Keep flammable ethanol away from flames and hot equipment."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "Why use separate samples and positive and negative controls in food tests?",
+      "back": [
+        "Separate samples prevent one reagent affecting another test.",
+        "A known positive shows the test can produce the expected result.",
+        "Distilled water provides a negative comparison."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "Outline the amylase and pH required practical.",
+      "back": [
+        "Mix measured starch and buffer, then add amylase and start timing.",
+        "Every 30 seconds, place a fresh sample onto a fresh iodine drop.",
+        "Record when iodine stays orange-brown, showing no starch is detected.",
+        "Repeat at several pH values and calculate means."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "What variables should be controlled in the amylase and pH practical?",
+      "back": [
+        "Temperature, enzyme and starch concentrations, solution volumes and sampling interval.",
+        "Only pH should be changed."
+      ]
+    },
+    {
+      "category": "Food tests and practical",
+      "front": "How is relative rate calculated in the amylase practical?",
+      "back": [
+        "For the same starting amount of starch, **relative rate = 1 ÷ time**.",
+        "A shorter time means a faster reaction."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "Give the route from the body through the right side of the heart to the lungs.",
+      "back": [
+        "Body → vena cava → right atrium → right ventricle → pulmonary artery → lungs."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "Give the route from the lungs through the left side of the heart to the body.",
+      "back": [
+        "Lungs → pulmonary vein → left atrium → left ventricle → aorta → body."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "What is double circulation?",
+      "back": [
+        "Blood passes through the heart twice during one complete circuit.",
+        "One circuit goes between heart and lungs; the other goes between heart and the rest of the body."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "What do atria, ventricles, valves and the septum do?",
+      "back": [
+        "Atria receive blood; ventricles pump blood out.",
+        "Valves prevent backflow.",
+        "The septum separates the oxygenated and deoxygenated sides."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "Why is the left ventricle wall thicker than the right ventricle wall?",
+      "back": [
+        "The left ventricle pumps blood around the whole body at higher pressure.",
+        "The right ventricle only pumps blood to the nearby lungs."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "What do the coronary arteries and natural pacemaker do?",
+      "back": [
+        "Coronary arteries supply the heart muscle with oxygen and glucose.",
+        "The natural pacemaker in the right atrium controls the heartbeat; an artificial pacemaker can correct an irregular rhythm."
+      ]
+    },
+    {
+      "category": "Heart and circulation",
+      "front": "What is the cardiac output equation?",
+      "back": [
+        "**Cardiac output = heart rate × stroke volume**.",
+        "Stroke volume is the amount of blood pumped by the heart in each beat."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "How are arteries, veins and capillaries adapted to their functions?",
+      "back": [
+        "Arteries have thick muscular and elastic walls for high pressure.",
+        "Veins have a wide lumen and valves for low-pressure return to the heart.",
+        "Capillaries have one-cell-thick walls and large networks for rapid exchange."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "Why do artery and vein not always mean oxygenated and deoxygenated?",
+      "back": [
+        "Arteries carry blood **away** from the heart; veins carry blood **towards** it.",
+        "The pulmonary artery carries deoxygenated blood and the pulmonary vein carries oxygenated blood."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "How is a red blood cell adapted to carry oxygen?",
+      "back": [
+        "Haemoglobin binds oxygen.",
+        "Its biconcave shape gives a large surface area.",
+        "It has no nucleus, leaving more space for haemoglobin."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "What are the functions of white blood cells, platelets and plasma?",
+      "back": [
+        "White blood cells defend through phagocytosis and antibody or antitoxin production.",
+        "Platelets help blood clot.",
+        "Plasma transports blood cells and dissolved substances such as glucose, hormones, carbon dioxide and urea."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "What route does air follow to the gas-exchange surface?",
+      "back": [
+        "Trachea → bronchi → smaller airways → alveoli."
+      ]
+    },
+    {
+      "category": "Blood vessels and lungs",
+      "front": "How are alveoli adapted for gas exchange?",
+      "back": [
+        "Many alveoli give a large surface area.",
+        "Moist, thin walls give a short diffusion distance.",
+        "Ventilation and blood flow maintain steep concentration gradients.",
+        "Oxygen diffuses into blood; carbon dioxide diffuses into alveoli."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "How does coronary heart disease affect the heart?",
+      "back": [
+        "Fatty deposits narrow coronary arteries.",
+        "Less oxygen reaches heart muscle, reducing aerobic respiration.",
+        "A complete blockage can cause a heart attack."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "Compare stents and statins as treatments for coronary heart disease.",
+      "back": [
+        "A **stent** rapidly holds an artery open but has procedure and clot risks.",
+        "A **statin** lowers cholesterol and slows deposit formation but needs long-term use and may cause side effects."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "What are important benefits and risks of replacement valves, donor hearts and artificial hearts?",
+      "back": [
+        "Replacement valves restore one-way flow but require surgery and may wear out or need anticoagulants.",
+        "Donor hearts can restore pumping but are scarce and risk rejection.",
+        "Artificial hearts support circulation but carry infection, clot and equipment risks."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "What is a risk factor?",
+      "back": [
+        "A **risk factor** increases the chance of disease; it does not guarantee disease.",
+        "Examples include smoking, poor diet and inactivity for cardiovascular disease, and obesity for Type 2 diabetes."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "What is the difference between benign and malignant tumours?",
+      "back": [
+        "**Benign tumours** stay in one place.",
+        "**Malignant tumours** invade nearby tissues, and cells can spread in blood to form secondary tumours."
+      ]
+    },
+    {
+      "category": "Heart disease and health",
+      "front": "Why does correlation not prove causation?",
+      "back": [
+        "Another variable, such as age or another habit, may explain some or all of the association.",
+        "Stronger evidence includes large representative samples, repeated studies and a plausible biological mechanism."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "How are the main leaf tissues adapted to their functions?",
+      "back": [
+        "The epidermis and waxy cuticle protect and reduce water loss.",
+        "Palisade mesophyll contains many chloroplasts.",
+        "Spongy mesophyll has air spaces for gas diffusion.",
+        "Guard cells control stomatal opening."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "What do xylem and phloem transport?",
+      "back": [
+        "**Xylem** carries water and mineral ions from roots towards leaves.",
+        "**Phloem** translocates dissolved sugars from sources such as leaves to growing or storage tissues."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "What is transpiration?",
+      "back": [
+        "Water evaporates from moist mesophyll surfaces and water vapour diffuses out through stomata.",
+        "This water loss helps pull a continuous stream of water up the xylem."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "How do temperature, air movement, humidity and light usually affect transpiration?",
+      "back": [
+        "Higher temperature and more air movement usually increase transpiration.",
+        "Higher humidity decreases it by reducing the water-vapour gradient.",
+        "Greater light often increases it because stomata open for gas exchange."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "What does a potometer measure, and how is bubble movement rate calculated?",
+      "back": [
+        "A potometer measures **water uptake**, which estimates transpiration.",
+        "**Bubble movement rate = distance ÷ time**.",
+        "For volume uptake, use capillary volume **πr² × distance**, then divide by time."
+      ]
+    },
+    {
+      "category": "Plant tissues and transport",
+      "front": "Why must a potometer be airtight, and why is the shoot cut under water?",
+      "back": [
+        "Leaks would make bubble movement unrelated to water uptake.",
+        "Cutting under water prevents air entering and blocking the xylem."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Why does food not need to travel through the pancreas?",
+      "back": [
+        "The pancreas releases enzymes through a duct into the small intestine, where they act on the food."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does mechanical breakdown assist chemical digestion?",
+      "back": [
+        "It increases exposed surface area, allowing enzymes to act on food more quickly."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does complementary mean for an enzyme active site?",
+      "back": [
+        "Its shape fits the substrate, allowing binding. It does not mean the two have identical shapes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does increasing substrate eventually stop increasing enzyme rate?",
+      "back": [
+        "Most active sites become occupied. More substrate cannot increase the number reacting at once unless another limiting factor changes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are pH 7 and 37 °C the optimum conditions for every enzyme?",
+      "back": [
+        "No. Optimum conditions differ between enzymes and organisms."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do bile and lipase affect lipid differently?",
+      "back": [
+        "Bile physically emulsifies it into droplets, increasing area. Lipase chemically breaks lipid into glycerol and fatty acids."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does amylase directly produce only glucose from starch?",
+      "back": [
+        "No. It produces sugars including maltose. The course description “starch to sugars” avoids that inaccurate simplification."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does artery elasticity help between heartbeats?",
+      "back": [
+        "Walls stretch during contraction and recoil during relaxation, helping maintain blood flow."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does heart muscle need coronary arteries?",
+      "back": [
+        "They deliver oxygen and glucose to the muscle cells for respiration, rather than relying on blood inside the chambers."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can immunosuppressants increase infection risk after a transplant?",
+      "back": [
+        "They reduce immune responses to limit rejection, so defence against pathogens can also be weakened."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a pacemaker not the same treatment as a stent?",
+      "back": [
+        "A pacemaker controls electrical rhythm; a stent holds a narrowed artery open to improve blood flow."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does oxygen travel from an alveolus to a respiring tissue?",
+      "back": [
+        "It diffuses into blood, binds haemoglobin, travels in red blood cells, then is released and diffuses into tissue cells."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can closing stomata reduce photosynthesis?",
+      "back": [
+        "It conserves water but also restricts carbon dioxide entry, which can limit photosynthesis."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Where does evaporation occur during transpiration?",
+      "back": [
+        "At moist surfaces inside the leaf. The resulting water vapour then diffuses through stomata."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is water uptake only an estimate of transpiration?",
+      "back": [
+        "Some absorbed water is retained or used in processes such as photosynthesis, instead of being lost as vapour."
+      ]
+    }
+  ]
+}
