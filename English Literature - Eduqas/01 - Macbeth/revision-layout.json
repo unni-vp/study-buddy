@@ -5,7 +5,7 @@
       "id": "acts",
       "title": "Story / Acts",
       "description": "Follow each act through its key events, analysis and quotations.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "The story in five acts"
@@ -31,7 +31,7 @@
       "id": "story",
       "title": "Characters",
       "description": "Explore personalities, motives and relationships.",
-      "icon": "literature-drama",
+      "icon": "nav-people",
       "sections": [
         {
           "heading": "Macbeth: from defender to tyrant"
@@ -63,7 +63,7 @@
       "id": "ideas",
       "title": "Themes and dramatic methods",
       "description": "Connect repeated images, choices and audience effects.",
-      "icon": "literature-drama",
+      "icon": "nav-branch",
       "sections": [
         {
           "heading": "Ambition / Power"
@@ -95,7 +95,7 @@
       "id": "answers",
       "title": "Quotations and essay writing",
       "description": "Turn short evidence into clear, developed arguments.",
-      "icon": "literature-pen",
+      "icon": "nav-quote",
       "sections": [
         {
           "heading": "Useful vocabulary for a precise argument"
