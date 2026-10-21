@@ -291,6 +291,104 @@
         "Check zero and calibration against a reference, or use an independent appropriate instrument.",
         "Compare with the expected or reference value and its uncertainty before concluding accuracy."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a correct zero reading fail to establish calibration over a whole range?",
+      "back": [
+        "The scale may have a proportional error at other values; reference measurements across the range are needed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a common ruler zero offset cancel in an extension calculation?",
+      "back": [
+        "Yes, when extension is the difference of two readings with the same offset. Other errors can remain."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient of energy against temperature rise for a sample?",
+      "back": [
+        "mc, assuming the stated ideal heating model."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient of temperature rise against supplied energy?",
+      "back": [
+        "1/(mc), under the ideal model."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What c follows from mass 0.50 kg and temperature-rise/energy gradient 0.0040°C/J?",
+      "back": [
+        "500 J/(kg°C), using c = 1/(mass × gradient)."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why let a full displacement can drain before collecting displaced water?",
+      "back": [
+        "It establishes the starting level at the spout and prevents initial overflow entering the measurement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What bias occurs if a displacement can starts below its spout?",
+      "back": [
+        "Collected volume is too low, so calculated density is too high."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a light gate measure from card length divided by interruption time?",
+      "back": [
+        "The card’s speed through the gate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do two light-gate speeds need their time separation to find acceleration?",
+      "back": [
+        "Acceleration is change in velocity divided by the time over which that change occurs."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What assumptions allow a = 2s/t² for a trolley?",
+      "back": [
+        "It starts from rest and accelerates approximately constantly over distance s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why not add extra hanging masses when testing force at fixed moving mass?",
+      "back": [
+        "That also increases the moving system’s mass. Transfer masses from the trolley instead."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why fill a Leslie cube rather than heat one outer face separately?",
+      "back": [
+        "Its faces need comparable temperatures so finish is the intended difference."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does an infrared detector reading automatically equal face temperature?",
+      "back": [
+        "No. It detects radiation; surface emission properties and the measurement conditions affect the signal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do emission and absorption investigations use different measurements?",
+      "back": [
+        "Emission compares detector readings at matching temperatures; absorption can compare temperature rises under matching exposure."
+      ]
     }
   ]
 }

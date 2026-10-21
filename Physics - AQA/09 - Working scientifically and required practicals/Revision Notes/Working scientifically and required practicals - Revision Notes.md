@@ -45,11 +45,15 @@ Select **representative samples** when studying a population or a variable mater
 
 **Anomalies:** a result that does not fit the pattern needs investigation. Repeat the measurement and record what happened. Exclude it from a mean only with a reason, such as a documented measurement failure. Do not discard a result just because it is inconvenient.
 
+### Calibration checks the scale, not just zero
+
+A thermometer may read **0°C correctly** but read **48°C when a reference is 50°C**. Resetting its zero alone cannot fix that scale error. Compare with suitable reference measurements over the range to be used.
+
+For two length readings made on a ruler with the same fixed zero offset, subtracting them can cancel that offset. Other errors, such as parallax and an uncertain moving endpoint, still remain. Identify how a quantity was measured before claiming that every zero error changes the final difference.
+
 ## Record and analyse data
 
 Use a table with **quantity and unit in each column heading**, consistent decimal places appropriate to the instrument, and separate repeat readings. Keep raw measurements before calculated quantities.
-
-**Example:** repeated times are 2.4, 2.6 and 2.5 s.
 
 For the readings **2.4, 2.6 and 2.5 s**:
 
@@ -103,6 +107,21 @@ Present the reasoning in a logical order. Use appropriate units, diagrams and ca
 
 Energy also heats equipment and escapes to the room. Treating all electrical input as energy gained by the block generally **overestimates c**. Improve insulation and thermal contact. Handle heaters and hot blocks safely. Other suitable materials and apparatus may be used if their mass, energy input and temperature change are measured.
 
+### Check which way round the graph is drawn
+
+From **E = mcΔθ**:
+
+| Vertical axis | Horizontal axis | Ideal gradient | Finding c |
+|---|---|---|---|
+| Energy E | Temperature rise Δθ | **mc**, in J/°C | Divide the gradient by mass. |
+| Temperature rise Δθ | Energy E | **1/(mc)**, in °C/J | Use **c = 1/(mass × gradient)**. |
+
+For a **0.50 kg** block and a temperature-rise-versus-energy gradient of **0.0040°C/J**:
+
+**c = 1 ÷ (0.50 × 0.0040) = 500 J/(kg°C)**
+
+The axes determine the calculation. A reciprocal cannot be replaced by a division just because both methods mention the same gradient.
+
 ## Practical: thermal insulation
 
 
@@ -129,6 +148,12 @@ Compare cooling in identical containers with the same water mass and starting te
 - Read a measuring-cylinder meniscus at eye level. Convert units consistently: **1 cm³ = 10⁻⁶ m³** and **1 g/cm³ = 1,000 kg/m³**.
 
 Repeated dimension measurements can improve a regular-solid estimate. Do not assume a small millimetre error is harmless: volume multiplies dimensions, so the effect can be substantial for small objects.
+
+### Set the starting level before displacement
+
+For a displacement can, fill it until water reaches the spout, let the excess drain, and only then place the collection vessel underneath and submerge the solid. If the level starts below the spout, part of the displaced volume merely fills that gap, so collected volume is **too small** and calculated density **too large**.
+
+A measuring-cylinder method instead subtracts the initial reading from the final reading. Do not mix the starting instructions for these two methods.
 
 ## Practical: force and extension
 
@@ -165,6 +190,16 @@ Use a low-friction trolley pulled by a string over a pulley by hanging masses. L
 - Plot a against **1/total moving mass** for an approximately straight relationship at fixed force.
 
 Minimise and account for friction; keep track and pulley conditions consistent. Hanging weight is not simply equal to string tension on the accelerating trolley. Take readings before the hanger hits the floor. Secure the pulley, catch the trolley and keep feet clear of masses.
+
+### A light gate first measures speed
+
+With a card of known length passing through a light gate:
+
+**Speed = card length ÷ beam-interruption time**
+
+Two suitable speed readings and their time separation can then give **a = (v − u)/Δt**. The card's length is not the whole track distance, and a single speed reading does not establish acceleration.
+
+If using the alternative **a = 2s/t²**, the trolley must start from rest and accelerate approximately constantly over measured distance s. An initial push breaks the from-rest assumption. Keep the whole moving mass fixed when testing force by transferring masses between trolley and hanger, rather than simply adding extra hanging mass.
 
 ## Practical: resistance
 
@@ -241,6 +276,12 @@ Reflection returns into the original medium. Refraction describes a speed-relate
 
 Do not compare unequal temperatures or detector positions and attribute everything to finish. Keep electrical parts dry and avoid burns from hot lamps or water.
 
+### Measure emission without changing the temperature comparison
+
+Fill a Leslie cube with hot water so its faces have approximately the same temperature. Measure infrared detector readings at matched distances and angles from each finish. Do not pour water over one outer face and compare that hotter, wet surface with the others.
+
+An infrared detector reading compares emitted radiation under those controlled conditions. It is not automatically a direct measurement of the face temperature. A separate absorption test uses equal exposures and compares temperature rises of otherwise matched samples.
+
 ## Write a complete practical answer
 
 Use this flexible route, adding only details relevant to the question:
@@ -258,3 +299,23 @@ Use linked steps for a six-mark method. A disconnected list of apparatus or gene
 
 - [AQA Working scientifically](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/working-scientifically)
 - [AQA Practical assessment](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/practical-assessment)
+
+- [PMT: RP 01 - Specific Heat Capacity](../Reference Materials/PMT - RP 01 - Specific Heat Capacity - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 02 - Thermal Insulation](../Reference Materials/PMT - RP 02 - Thermal Insulation - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 03 - Resistance](../Reference Materials/PMT - RP 03 - Resistance - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 04 - I-V Characteristics](../Reference Materials/PMT - RP 04 - I-V Characteristics - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 05 - Density](../Reference Materials/PMT - RP 05 - Density - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 06 - Force and Extension](../Reference Materials/PMT - RP 06 - Force and Extension - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 07 - Acceleration](../Reference Materials/PMT - RP 07 - Acceleration - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 08 - Waves](../Reference Materials/PMT - RP 08 - Waves - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 09 - Light](../Reference Materials/PMT - RP 09 - Light - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: RP 10 - Radiation and Absorption](../Reference Materials/PMT - RP 10 - Radiation and Absorption - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Electricity I V Characteristics](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-i-v-characteristics). Cross-checked against the project specification.
+- [Study Rocket: Electricity Resistance](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-resistance). Cross-checked against the project specification.
+- [Study Rocket: Energy Specific Heat Capacity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-specific-heat-capacity). Cross-checked against the project specification.
+- [Study Rocket: Forces Newtons Second Law](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law). Cross-checked against the project specification.
+- [Study Rocket: Forces Springs](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-springs). Cross-checked against the project specification.
+- [Study Rocket: Matter Density Of Materials](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-density-of-materials). Cross-checked against the project specification.
+- [Study Rocket: Waves Infrared Radiation And Temperature](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-infrared-radiation-and-temperature). Cross-checked against the project specification.
+- [Study Rocket: Waves Reflection](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-reflection). Cross-checked against the project specification.
+- [Study Rocket: Waves Transverse And Longitudinal Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves). Cross-checked against the project specification.

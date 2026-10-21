@@ -34,9 +34,11 @@
 <p><strong>Zero error:</strong> the instrument does not read zero when it should. Check it before use, then reset it or correct the readings. Repeated readings can be close together yet still be inaccurate if they all contain the same offset.</p>
 <p><strong>Parallax:</strong> a scale is viewed from an unsuitable angle. Read at eye level and, where appropriate, keep a pointer close to the scale.</p>
 <p><strong>Anomalies:</strong> a result that does not fit the pattern needs investigation. Repeat the measurement and record what happened. Exclude it from a mean only with a reason, such as a documented measurement failure. Do not discard a result just because it is inconvenient.</p>
+<h3>Calibration checks the scale, not just zero</h3>
+<p>A thermometer may read <strong>0°C correctly</strong> but read <strong>48°C when a reference is 50°C</strong>. Resetting its zero alone cannot fix that scale error. Compare with suitable reference measurements over the range to be used.</p>
+<p>For two length readings made on a ruler with the same fixed zero offset, subtracting them can cancel that offset. Other errors, such as parallax and an uncertain moving endpoint, still remain. Identify how a quantity was measured before claiming that every zero error changes the final difference.</p>
 <h2>Record and analyse data</h2>
 <p>Use a table with <strong>quantity and unit in each column heading</strong>, consistent decimal places appropriate to the instrument, and separate repeat readings. Keep raw measurements before calculated quantities.</p>
-<p><strong>Example:</strong> repeated times are 2.4, 2.6 and 2.5 s.</p>
 <p>For the readings <strong>2.4, 2.6 and 2.5 s</strong>:</p>
 <ol>
 <li>Mean = (2.4 + 2.6 + 2.5) ÷ 3 = <strong>2.5 s</strong>.</li>
@@ -74,6 +76,16 @@
 <li>Calculate <strong>c = E/(mΔθ)</strong>. Repeat; allow the probe to respond and compare a suitable set of readings.</li>
 </ol>
 <p>Energy also heats equipment and escapes to the room. Treating all electrical input as energy gained by the block generally <strong>overestimates c</strong>. Improve insulation and thermal contact. Handle heaters and hot blocks safely. Other suitable materials and apparatus may be used if their mass, energy input and temperature change are measured.</p>
+<h3>Check which way round the graph is drawn</h3>
+<p>From <strong>E = mcΔθ</strong>:</p>
+<table>
+<tr><th>Vertical axis</th><th>Horizontal axis</th><th>Ideal gradient</th><th>Finding c</th></tr>
+<tr><td>Energy E</td><td>Temperature rise Δθ</td><td><strong>mc</strong>, in J/°C</td><td>Divide the gradient by mass.</td></tr>
+<tr><td>Temperature rise Δθ</td><td>Energy E</td><td><strong>1/(mc)</strong>, in °C/J</td><td>Use <strong>c = 1/(mass × gradient)</strong>.</td></tr>
+</table>
+<p>For a <strong>0.50 kg</strong> block and a temperature-rise-versus-energy gradient of <strong>0.0040°C/J</strong>:</p>
+<p><strong>c = 1 ÷ (0.50 × 0.0040) = 500 J/(kg°C)</strong></p>
+<p>The axes determine the calculation. A reciprocal cannot be replaced by a division just because both methods mention the same gradient.</p>
 <h2>Practical: thermal insulation</h2>
 <p><img src="../../Physics%20-%20AQA/01%20-%20Energy/Diagrams/thermal-insulation-practical.svg" alt="Identical lidded beakers have equal water masses, probes and equal thicknesses of different insulation."></p>
 <p>Compare cooling in identical containers with the same water mass and starting temperature.</p>
@@ -94,6 +106,9 @@
 <li>Read a measuring-cylinder meniscus at eye level. Convert units consistently: <strong>1 cm³ = 10⁻⁶ m³</strong> and <strong>1 g/cm³ = 1,000 kg/m³</strong>.</li>
 </ul>
 <p>Repeated dimension measurements can improve a regular-solid estimate. Do not assume a small millimetre error is harmless: volume multiplies dimensions, so the effect can be substantial for small objects.</p>
+<h3>Set the starting level before displacement</h3>
+<p>For a displacement can, fill it until water reaches the spout, let the excess drain, and only then place the collection vessel underneath and submerge the solid. If the level starts below the spout, part of the displaced volume merely fills that gap, so collected volume is <strong>too small</strong> and calculated density <strong>too large</strong>.</p>
+<p>A measuring-cylinder method instead subtracts the initial reading from the final reading. Do not mix the starting instructions for these two methods.</p>
 <h2>Practical: force and extension</h2>
 <p><img src="../../Physics%20-%20AQA/05%20-%20Forces/Diagrams/spring-extension-practical.svg" alt="Unloaded and loaded spring lengths are read against a ruler with an eye-level pointer. Extension is their difference."></p>
 <ol>
@@ -121,6 +136,11 @@
 <li>Plot a against <strong>1/total moving mass</strong> for an approximately straight relationship at fixed force.</li>
 </ul>
 <p>Minimise and account for friction; keep track and pulley conditions consistent. Hanging weight is not simply equal to string tension on the accelerating trolley. Take readings before the hanger hits the floor. Secure the pulley, catch the trolley and keep feet clear of masses.</p>
+<h3>A light gate first measures speed</h3>
+<p>With a card of known length passing through a light gate:</p>
+<p><strong>Speed = card length ÷ beam-interruption time</strong></p>
+<p>Two suitable speed readings and their time separation can then give <strong>a = (v − u)/Δt</strong>. The card&#x27;s length is not the whole track distance, and a single speed reading does not establish acceleration.</p>
+<p>If using the alternative <strong>a = 2s/t²</strong>, the trolley must start from rest and accelerate approximately constantly over measured distance s. An initial push breaks the from-rest assumption. Keep the whole moving mass fixed when testing force by transferring masses between trolley and hanger, rather than simply adding extra hanging mass.</p>
 <h2>Practical: resistance</h2>
 <p><img src="../../Physics%20-%20AQA/02%20-%20Electricity/Diagrams/resistor-combinations-practical.svg" alt="Series and parallel resistor circuits, each with an ammeter measuring total current and a voltmeter across the whole combination."></p>
 <p><img src="../../Physics%20-%20AQA/02%20-%20Electricity/Diagrams/wire-length-practical.svg" alt="Ammeter in series; voltmeter across the selected wire length between fixed and movable contacts. A ruler measures that length."></p>
@@ -173,6 +193,9 @@
 <p><strong>Emission:</strong> a hot Leslie cube has differently finished faces at approximately the same temperature. Measure IR from each face with a detector at the same distance and angle. Repeat. A <strong>matt black surface</strong> generally emits more than a shiny surface at the same temperature.</p>
 <p><strong>Absorption:</strong> expose matched samples with different finishes to the same IR lamp for the same time and distance. Keep mass, material, starting temperature and surroundings comparable. Compare <strong>temperature rises</strong>, repeat and average. A larger rise indicates more absorption if other transfers are adequately controlled.</p>
 <p>Do not compare unequal temperatures or detector positions and attribute everything to finish. Keep electrical parts dry and avoid burns from hot lamps or water.</p>
+<h3>Measure emission without changing the temperature comparison</h3>
+<p>Fill a Leslie cube with hot water so its faces have approximately the same temperature. Measure infrared detector readings at matched distances and angles from each finish. Do not pour water over one outer face and compare that hotter, wet surface with the others.</p>
+<p>An infrared detector reading compares emitted radiation under those controlled conditions. It is not automatically a direct measurement of the face temperature. A separate absorption test uses equal exposures and compares temperature rises of otherwise matched samples.</p>
 <h2>Write a complete practical answer</h2>
 <p>Use this flexible route, adding only details relevant to the question:</p>
 <ol>
@@ -188,4 +211,25 @@
 <ul>
 <li><a href="https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/working-scientifically">AQA Working scientifically</a></li>
 <li><a href="https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/practical-assessment">AQA Practical assessment</a></li>
+</ul>
+<ul>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2001%20-%20Specific%20Heat%20Capacity%20-%20AQA%20Physics.pdf">PMT: RP 01 - Specific Heat Capacity</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2002%20-%20Thermal%20Insulation%20-%20AQA%20Physics.pdf">PMT: RP 02 - Thermal Insulation</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2003%20-%20Resistance%20-%20AQA%20Physics.pdf">PMT: RP 03 - Resistance</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2004%20-%20I-V%20Characteristics%20-%20AQA%20Physics.pdf">PMT: RP 04 - I-V Characteristics</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2005%20-%20Density%20-%20AQA%20Physics.pdf">PMT: RP 05 - Density</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2006%20-%20Force%20and%20Extension%20-%20AQA%20Physics.pdf">PMT: RP 06 - Force and Extension</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2007%20-%20Acceleration%20-%20AQA%20Physics.pdf">PMT: RP 07 - Acceleration</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2008%20-%20Waves%20-%20AQA%20Physics.pdf">PMT: RP 08 - Waves</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2009%20-%20Light%20-%20AQA%20Physics.pdf">PMT: RP 09 - Light</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="../../Physics%20-%20AQA/09%20-%20Working%20scientifically%20and%20required%20practicals/Reference%20Materials/PMT%20-%20RP%2010%20-%20Radiation%20and%20Absorption%20-%20AQA%20Physics.pdf">PMT: RP 10 - Radiation and Absorption</a>. Unmodified reference; its original board is recorded in the review metadata.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-i-v-characteristics">Study Rocket: Electricity I V Characteristics</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-resistance">Study Rocket: Electricity Resistance</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-specific-heat-capacity">Study Rocket: Energy Specific Heat Capacity</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law">Study Rocket: Forces Newtons Second Law</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-springs">Study Rocket: Forces Springs</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-density-of-materials">Study Rocket: Matter Density Of Materials</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-infrared-radiation-and-temperature">Study Rocket: Waves Infrared Radiation And Temperature</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-reflection">Study Rocket: Waves Reflection</a>. Cross-checked against the project specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves">Study Rocket: Waves Transverse And Longitudinal Waves</a>. Cross-checked against the project specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

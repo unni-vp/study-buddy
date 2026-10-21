@@ -1,0 +1,256 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: working scientifically and all ten required practical activities",
+  "sections_refined": [
+    "Measurement quality and errors",
+    "Practical: specific heat capacity",
+    "Practical: density",
+    "Practical: force, mass and acceleration",
+    "Practical: infrared absorption and emission"
+  ],
+  "pmt_references": [
+    {
+      "title": "RP 01 - Specific Heat Capacity",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 01 - Specific Heat Capacity.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-01-specific-heat-capacity.pdf",
+      "pages": 3,
+      "sha256": "54d8ae936bbc2390c79513791cfcc4a4204d66af9e70f40c1ada1450e2bb8ba4",
+      "local_path": "Reference Materials\\PMT - RP 01 - Specific Heat Capacity - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 02 - Thermal Insulation",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 02 - Thermal Insulation.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-02-thermal-insulation.pdf",
+      "pages": 3,
+      "sha256": "701ed436f018746e79422d759d902e50e2b31f1b86f6ab9af88431c2e7cef974",
+      "local_path": "Reference Materials\\PMT - RP 02 - Thermal Insulation - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 03 - Resistance",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 03 - Resistance.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-03-resistance.pdf",
+      "pages": 5,
+      "sha256": "7c2e5fcbcf097052e92288fec2a1a512cbe1ba9ee4ac203c89a17add3c325463",
+      "local_path": "Reference Materials\\PMT - RP 03 - Resistance - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 04 - I-V Characteristics",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 04 - I-V Characteristics.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-04-i-v-characteristics.pdf",
+      "pages": 3,
+      "sha256": "1aa27ae39ffde1b49924135fe4217b9cc5638a5593193ebc4f93e426d58ae2b8",
+      "local_path": "Reference Materials\\PMT - RP 04 - I-V Characteristics - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 05 - Density",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 05 - Density.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-05-density.pdf",
+      "pages": 3,
+      "sha256": "69c0f83210b210ba7d8412b21b38b17fd6db058e274199472fd53967ec854dbe",
+      "local_path": "Reference Materials\\PMT - RP 05 - Density - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 06 - Force and Extension",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 06 - Force and Extension.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-06-force-and-extension.pdf",
+      "pages": 3,
+      "sha256": "91d6b91456090b4c2d09fdec6e8bc144d1c13af6f998bc9d8dd22d13cc98adad",
+      "local_path": "Reference Materials\\PMT - RP 06 - Force and Extension - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 07 - Acceleration",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 07 - Acceleration.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-07-acceleration.pdf",
+      "pages": 3,
+      "sha256": "4a72bdb53ae99f7227390ae6318f3463c69bb8eb71dc85a5650d1e644492346f",
+      "local_path": "Reference Materials\\PMT - RP 07 - Acceleration - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 08 - Waves",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 08 - Waves.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-08-waves.pdf",
+      "pages": 4,
+      "sha256": "03072463ab5afc8aaf3e094babe6d950ff225575a3f11caec1636beff5b86f01",
+      "local_path": "Reference Materials\\PMT - RP 08 - Waves - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 09 - Light",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 09 - Light.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-09-light.pdf",
+      "pages": 3,
+      "sha256": "2efac988db82f18378c110a1f7df5b723d025dcb3fcce3c93d73766f09495225",
+      "local_path": "Reference Materials\\PMT - RP 09 - Light - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    },
+    {
+      "title": "RP 10 - Radiation and Absorption",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/Practical-Skills/RP 10 - Radiation and Absorption.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/practical-skills/",
+      "selection": "Practical notes",
+      "file": "practical-rp-10-radiation-and-absorption.pdf",
+      "pages": 2,
+      "sha256": "0e059995c258375e8e71753f037e4c334a3c086e394e074748d196d13c4da588",
+      "local_path": "Reference Materials\\PMT - RP 10 - Radiation and Absorption - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "Complete practical method, diagram and safety notes",
+          "decision": "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Electricity I V Characteristics",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-i-v-characteristics",
+      "file": "electricity-i-v-characteristics.txt",
+      "words": 387
+    },
+    {
+      "title": "Electricity Resistance",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/electricity/electricity-resistance",
+      "file": "electricity-resistance.txt",
+      "words": 376
+    },
+    {
+      "title": "Energy Specific Heat Capacity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/energy/energy-specific-heat-capacity",
+      "file": "energy-specific-heat-capacity.txt",
+      "words": 334
+    },
+    {
+      "title": "Forces Newtons Second Law",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law",
+      "file": "forces-newtons-second-law.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Springs",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-springs",
+      "file": "forces-springs.txt",
+      "words": 331
+    },
+    {
+      "title": "Matter Density Of Materials",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-density-of-materials",
+      "file": "matter-density-of-materials.txt",
+      "words": 401
+    },
+    {
+      "title": "Waves Infrared Radiation And Temperature",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-infrared-radiation-and-temperature",
+      "file": "waves-infrared-radiation-and-temperature.txt",
+      "words": 297
+    },
+    {
+      "title": "Waves Reflection",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-reflection",
+      "file": "waves-reflection.txt",
+      "words": 378
+    },
+    {
+      "title": "Waves Transverse And Longitudinal Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves",
+      "file": "waves-transverse-and-longitudinal-waves.txt",
+      "words": 377
+    }
+  ],
+  "decisions": [
+    "Reviewed all ten individual PMT practical PDFs (32 pages), AQA required activities and relevant Study Rocket pages. Retained all ten complete methods and every circuit, ray, wave and thermal diagram. Added calibration beyond zero, axis-sensitive heat-capacity calculation, displacement-start bias, gate timing and controlled Leslie-cube measurement. Rejected PMT force–extension slope as 1/k, contradictory heat-capacity gradient rule, can filled below spout, extra hanging mass labelled constant total mass, current increased in volts, and hot water poured over a single cube face.",
+    "The unmodified source PDFs remain references; the student methods correct their mistakes rather than treating every source sentence as authoritative."
+  ],
+  "flashcards": {
+    "before": 35,
+    "added": 14,
+    "refined": 0,
+    "after": 49
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
