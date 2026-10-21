@@ -1,0 +1,72 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.8",
+  "sections_refined": [
+    "From nebula to a stable star",
+    "Two stellar life-cycle routes",
+    "What red-shift means",
+    "Evidence for the Big Bang"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "space-physics",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/8-Space-Physics/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/space-physics/",
+      "selection": "Summary Notes",
+      "file": "space-physics-summary-notes.pdf",
+      "pages": 4,
+      "sha256": "248dad2286a4d3ef9ee17c8e59cdaae8a5d57395acfc86a6abd1ea866008fa81",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT summary pages, four SR Space pages and 4.8. Existing orbital, stellar life-cycle and spectral diagrams retained. Added energy during protostar collapse, fuel-use rate, matching-line comparison and distinct expansion evidence. A brief CMB paragraph provides supporting explanation, without advanced cosmology calculations. Rejected PMT planetary nebula as a small supernova, CMB from early stars/rocks, SR gravitational potential energy rising during collapse and expanded radius alone determining stellar route. Excluded H-R diagram and orbit derivations not required by 4.8."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Space Physics Big Bang",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-big-bang",
+      "file": "space-physics-big-bang.txt",
+      "words": 408
+    },
+    {
+      "title": "Space Physics Red Shift",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-red-shift",
+      "file": "space-physics-red-shift.txt",
+      "words": 363
+    },
+    {
+      "title": "Space Physics The Life Cycle Of Stars",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-the-life-cycle-of-stars",
+      "file": "space-physics-the-life-cycle-of-stars.txt",
+      "words": 482
+    },
+    {
+      "title": "Space Physics The Solar System And Orbits",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-the-solar-system-and-orbits",
+      "file": "space-physics-the-solar-system-and-orbits.txt",
+      "words": 502
+    }
+  ],
+  "decisions": [
+    "Reviewed all four PMT summary pages, four SR Space pages and 4.8. Existing orbital, stellar life-cycle and spectral diagrams retained. Added energy during protostar collapse, fuel-use rate, matching-line comparison and distinct expansion evidence. A brief CMB paragraph provides supporting explanation, without advanced cosmology calculations. Rejected PMT planetary nebula as a small supernova, CMB from early stars/rocks, SR gravitational potential energy rising during collapse and expanded radius alone determining stellar route. Excluded H-R diagram and orbit derivations not required by 4.8.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 27,
+    "added": 12,
+    "refined": 0,
+    "after": 39
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

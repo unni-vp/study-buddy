@@ -23,6 +23,16 @@ Think of the solar system as one household, the galaxy as a huge city containing
 
 Imagine people pushing on opposite sides of a door with equal forces. Balance does not mean the forces vanish. Similarly, a stable star still has gravity and active fusion. It is not burning hydrogen in oxygen like a fire.
 
+### Match each change to its cause
+
+| Stage | What causes the change | What follows |
+|---|---|---|
+| A cloud contracts. | Gravity pulls gas and dust together. | Gravitational potential energy decreases and internal energy increases. |
+| The protostar heats up. | Energy transfers as material contracts and falls inward. | The core can become hot enough for fusion. |
+| A main-sequence star is stable. | Fusion supplies energy that maintains outward pressure. | Inward gravitational effects and outward pressure balance. |
+
+The protostar does not need hydrogen combustion in oxygen, and fusion does not begin because a whole dust grain joins another grain. It is **light atomic nuclei** that fuse.
+
 ## Two stellar life-cycle routes
 
 A star's **initial mass determines its later life cycle**. Both routes begin with a nebula, protostar and main-sequence star.
@@ -44,6 +54,12 @@ A star's **initial mass determines its later life cycle**. Both routes begin wit
 - The supernova ejects material into space. A black hole has gravity so strong that even light cannot escape from within its event horizon.
 
 Do not decide the route just from how large a star looks at one stage. A red giant has expanded enormously, but initial **mass**, rather than a temporary radius, determines the broad route.
+
+### More fuel does not necessarily mean a longer life
+
+A massive main-sequence star has more fuel, but uses it at a much faster rate. Its main-sequence lifetime is therefore generally **shorter** than that of a lower-mass star. Compare the rate of energy release as well as the amount available.
+
+A Sun-like star shedding outer layers leaves a white dwarf; this is not a small version of a massive star's core-collapse supernova. Keep the two routes distinct when explaining what happens after fuel depletion.
 
 ## Where elements come from
 
@@ -111,6 +127,16 @@ A galaxy simply looking red is not enough. Scientists identify **corresponding s
 
 Imagine spots on a balloon as its surface expands. Most pairs of spots move apart, and more widely separated spots move apart faster. This is a way to picture expansion; it does not put Earth at the centre of the universe or turn the real universe into a balloon surface.
 
+### Compare matching lines rather than overall colour
+
+Suppose a known laboratory line is **500 nm**. In one galaxy it is measured at **525 nm** and in another at **550 nm**.
+
+- First wavelength increase = **25 nm**.
+- Second wavelength increase = **50 nm**.
+- The second has the larger red-shift and, in this comparison, the greater recession speed.
+
+The pattern of several corresponding lines lets scientists identify the shift. A faint galaxy is not automatically more red-shifted, and a red-looking star may simply have a cooler surface.
+
 ## Evidence for the Big Bang
 
 The distance–recession pattern supports the conclusion that **space itself is expanding**. Running this pattern backwards suggests the universe was once far more compact.
@@ -125,6 +151,12 @@ The **Big Bang model** describes the universe beginning in an **extremely hot, d
 4. Implication: its earlier state was hotter, denser and much more compact, supporting the Big Bang model.
 
 Observations **support** models. Scientists test a model's predictions against further evidence and revise it if it cannot explain new observations. One observation is not proof of every detail of the universe's beginning.
+
+### Different observations test different parts of the model
+
+The distance–recession pattern supports **expansion**. Observations of distant supernovae address how that expansion has changed with time. These are related pieces of evidence, but “more distant galaxies recede faster” alone is not the same statement as “expansion is accelerating”.
+
+Another supporting observation is **cosmic microwave background radiation**, detected across the sky. It is radiation left from the hot early universe and stretched to longer wavelengths as space expanded. It did not originate in the first stars or rocks. Several independent observations provide a stronger test than one type of evidence alone.
 
 ## Accelerating expansion and unanswered questions
 
@@ -152,3 +184,9 @@ Science develops by using indirect observations to infer what cannot be seen dir
 ## Sources
 
 - [AQA Space physics specification](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content/space-physics)
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Space Physics Big Bang](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-big-bang). Cross-checked against the project specification.
+- [Study Rocket: Space Physics Red Shift](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-red-shift). Cross-checked against the project specification.
+- [Study Rocket: Space Physics The Life Cycle Of Stars](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-the-life-cycle-of-stars). Cross-checked against the project specification.
+- [Study Rocket: Space Physics The Solar System And Orbits](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/space-physics/space-physics-the-solar-system-and-orbits). Cross-checked against the project specification.

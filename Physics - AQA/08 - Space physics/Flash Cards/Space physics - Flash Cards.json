@@ -218,6 +218,90 @@
         "Reliable evidence that does not fit may require the model to be **modified or replaced**.",
         "For example, accelerating expansion led to further questions about **dark energy** rather than a claim that expansion was already completely explained."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to gravitational potential energy as a protostar contracts?",
+      "back": [
+        "It decreases as material moves inward; internal energy increases and the material heats."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What actually joins during fusion in a star?",
+      "back": [
+        "Light atomic nuclei, rather than whole dust grains or ordinary chemical molecules."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a more massive star have a shorter main-sequence life?",
+      "back": [
+        "It uses its greater fuel supply at a much faster rate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Is a Sun-like star’s loss of outer layers a small core-collapse supernova?",
+      "back": [
+        "No. Its route leaves a white dwarf without the massive-star supernova stage."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What shift changes a laboratory line from 500 to 525 nm?",
+      "back": [
+        "A 25 nm increase in wavelength: a red-shift."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which has greater red-shift for the same 500 nm line: 525 or 550 nm?",
+      "back": [
+        "550 nm, with a 50 nm increase."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a red-looking object not establish recession?",
+      "back": [
+        "Its emitted colour can depend on temperature; recession is inferred by comparing matching spectral lines."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does the distance–recession relationship support?",
+      "back": [
+        "Expansion of space: more distant galaxies generally recede faster."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What additional evidence is relevant to accelerating expansion?",
+      "back": [
+        "Observations of distant supernovae, rather than the distance–recession pattern alone."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is cosmic microwave background radiation?",
+      "back": [
+        "Radiation left from the hot early universe, stretched to long wavelengths as space expanded."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Did the microwave background originate in the first rocks or stars?",
+      "back": [
+        "No. It comes from an earlier stage of the universe."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do several independent observations strengthen a model?",
+      "back": [
+        "They test different predictions and reduce reliance on one possible measurement or interpretation error."
+      ]
     }
   ]
 }
