@@ -7,7 +7,7 @@ import re
 import unittest
 
 from html_utils import render_md, inline
-from flashcards_from_qa import parse_cards
+from flashcards_from_qa import parse_cards, build_cards
 from flashcard_navigation import _answer_html
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -96,7 +96,7 @@ class CodeRenderingTests(unittest.TestCase):
                 continue
             deck = json.loads(decks[0].read_text(encoding='utf-8'))
             source = next((topic/'Questions and Answers').glob('*.md'))
-            regenerated = parse_cards(source.read_text(encoding='utf-8'))
+            regenerated = build_cards(source)
             self.assertEqual(deck['cards'], regenerated, topic.name)
             for card in deck['cards']:
                 for point in card['back']:

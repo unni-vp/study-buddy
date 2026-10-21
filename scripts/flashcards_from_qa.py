@@ -116,6 +116,39 @@ def parse_cards(text: str) -> list[dict[str, object]]:
     return cards
 
 
+
+def build_cards(source: Path) -> list[dict[str, object]]:
+    """Combine Q&A cards with reviewed revision-note additions and refinements.
+
+    Keep this supplement outside Flash Cards so the site builds one deck.
+    Updating Q&A later must not silently discard independently authored cards.
+    """
+    cards = parse_cards(source.read_text(encoding="utf-8"))
+    supplement = source.parent.parent / "revision-flashcards.json"
+    if supplement.exists():
+        data = json.loads(supplement.read_text(encoding="utf-8"))
+        by_front = {card["front"]: card for card in cards}
+        for update in data.get("updates", []):
+            front = update["front"]
+            if front not in by_front:
+                raise ValueError(f"Unknown flashcard update in {supplement}: {front}")
+            by_front[front]["back"] = update["back"]
+        cards.extend(data.get("additions", []))
+    fronts = []
+    for card in cards:
+        if not isinstance(card.get("front"), str) or not card["front"].strip():
+            raise ValueError(f"Missing flashcard prompt in {source}")
+        back = card.get("back")
+        if not isinstance(back, list) or not back or any(not isinstance(p, str) or not p.strip() for p in back):
+            raise ValueError(f"Missing flashcard answer in {source}: {card['front']}")
+        if not isinstance(card.get("category"), str) or not card["category"].strip():
+            raise ValueError(f"Missing flashcard category in {source}: {card['front']}")
+        fronts.append(card["front"].strip().casefold())
+    if len(fronts) != len(set(fronts)):
+        raise ValueError(f"Duplicate flashcard prompts in {source}")
+    return cards
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("source", type=Path)
@@ -123,7 +156,7 @@ def main() -> None:
     parser.add_argument("title")
     args = parser.parse_args()
 
-    cards = parse_cards(args.source.read_text(encoding="utf-8"))
+    cards = build_cards(args.source)
     if not cards:
         raise SystemExit(f"No suitable 1–4 mark cards found in {args.source}")
     fronts = [card["front"] for card in cards]
