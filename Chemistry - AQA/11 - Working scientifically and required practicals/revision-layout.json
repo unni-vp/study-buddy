@@ -5,7 +5,7 @@
       "id": "investigations",
       "title": "Investigations and evidence",
       "description": "Plan valid comparisons and evaluate measurement quality.",
-      "icon": "chemistry-atom",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "From question to fair investigation"
@@ -25,7 +25,7 @@
       "id": "preparation",
       "title": "Salt preparation and titration",
       "description": "Make crystals and determine reacting quantities accurately.",
-      "icon": "chemistry-atom",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Preparing a pure dry soluble salt"
@@ -39,7 +39,7 @@
       "id": "changes",
       "title": "Electrolysis and temperature changes",
       "description": "Predict products and measure energy-transfer effects.",
-      "icon": "chemistry-atom",
+      "icon": "nav-thermometer",
       "sections": [
         {
           "heading": "Electrolysis of aqueous solutions"
@@ -53,7 +53,7 @@
       "id": "rates",
       "title": "Rate investigations",
       "description": "Compare concentration with gas and turbidity methods.",
-      "icon": "chemistry-atom",
+      "icon": "nav-graph",
       "sections": [
         {
           "heading": "Concentration and rate: gas volume"
@@ -67,7 +67,7 @@
       "id": "analysis",
       "title": "Chromatography, ions and water",
       "description": "Separate, identify and purify using valid observations.",
-      "icon": "chemistry-atom",
+      "icon": "nav-search",
       "sections": [
         {
           "heading": "Paper chromatography"
