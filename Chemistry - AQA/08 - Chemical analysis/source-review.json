@@ -1,0 +1,89 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.8",
+  "sections_refined": [
+    "Chromatography practical and Rf",
+    "Sodium hydroxide tests and precipitates",
+    "Identifying an unknown ionic compound",
+    "Instrumental analysis and flame emission"
+  ],
+  "pmt_references": [
+    {
+      "title": "8.1. Purity, formulations and chromatography",
+      "topic": "chemical-analysis",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/8-Chemical-Analysis/Summary/8.1. Purity, formulations and chromatography.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-analysis/",
+      "selection": "Summary Notes",
+      "file": "chemical-analysis-8-1-purity-formulations-and-chromatography.pdf",
+      "pages": 2,
+      "sha256": "fcd3157024fd5268eb7baaf0972beb735fe93d21d35740f4cde2aecedf7bd3d7",
+      "local_path": "Reference Materials\\PMT - Summary 8.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries. Study Rocket has no standalone Chemical analysis topic in this AQA index, so its separation page supplies only overlapping chromatography; official 8462 requirements control gas, ion and instrumental coverage. Retained every gas/flame/hydroxide/anion result and diagram. Added Rf comparison, observation versus inference, combined ion identification and calibrated measurement. Rejected the claim that a pure substance always forms one spot in every possible solvent."
+        }
+      ]
+    },
+    {
+      "title": "8.2. Identification of common gases",
+      "topic": "chemical-analysis",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/8-Chemical-Analysis/Summary/8.2. Identification of common gases.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-analysis/",
+      "selection": "Summary Notes",
+      "file": "chemical-analysis-8-2-identification-of-common-gases.pdf",
+      "pages": 2,
+      "sha256": "e2d426f66004916f63be684aaa871d1aa97e0f6e8e1aed6dd3c7e44286ff406a",
+      "local_path": "Reference Materials\\PMT - Summary 8.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries. Study Rocket has no standalone Chemical analysis topic in this AQA index, so its separation page supplies only overlapping chromatography; official 8462 requirements control gas, ion and instrumental coverage. Retained every gas/flame/hydroxide/anion result and diagram. Added Rf comparison, observation versus inference, combined ion identification and calibrated measurement. Rejected the claim that a pure substance always forms one spot in every possible solvent."
+        }
+      ]
+    },
+    {
+      "title": "8.3. Identification of ions by chemical and spectroscopic means (chemistry only)",
+      "topic": "chemical-analysis",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/8-Chemical-Analysis/Summary/8.3. Identification of ions by chemical and spectroscopic means (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/chemical-analysis/",
+      "selection": "Summary Notes",
+      "file": "chemical-analysis-8-3-identification-of-ions-by-chemical-and-spectroscopic-means-chemistry-only.pdf",
+      "pages": 3,
+      "sha256": "27c67575712bab7f2017faf4e47ffe7092fadb76bd7232bb7e356f79e01307f6",
+      "local_path": "Reference Materials\\PMT - Summary 8.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all three PMT summaries. Study Rocket has no standalone Chemical analysis topic in this AQA index, so its separation page supplies only overlapping chromatography; official 8462 requirements control gas, ion and instrumental coverage. Retained every gas/flame/hydroxide/anion result and diagram. Added Rf comparison, observation versus inference, combined ion identification and calibrated measurement. Rejected the claim that a pure substance always forms one spot in every possible solvent."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Separating Techniques",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques",
+      "file": "separating-techniques.txt",
+      "words": 1000
+    }
+  ],
+  "decisions": [
+    "Reviewed all three PMT summaries. Study Rocket has no standalone Chemical analysis topic in this AQA index, so its separation page supplies only overlapping chromatography; official 8462 requirements control gas, ion and instrumental coverage. Retained every gas/flame/hydroxide/anion result and diagram. Added Rf comparison, observation versus inference, combined ion identification and calibrated measurement. Rejected the claim that a pure substance always forms one spot in every possible solvent.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 38,
+    "added": 12,
+    "refined": 0,
+    "after": 50
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

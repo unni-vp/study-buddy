@@ -49,6 +49,17 @@ To test an uncertain conclusion, try a different solvent or another suitable ana
 
 Keep flammable/toxic solvents away from flames and use appropriate ventilation and eye protection. Repeat measurements and keep spots small to reduce uncertainty in centre position.
 
+### Same Rf does not require the same travel distance
+
+In one experiment a substance moves **3.0 cm** while solvent moves **5.0 cm**. In a longer run under the same conditions it moves **4.8 cm** while solvent moves **8.0 cm**.
+
+- First Rf = **3.0 ÷ 5.0 = 0.60**.
+- Second Rf = **4.8 ÷ 8.0 = 0.60**.
+
+The ratio can match even though the distances differ. Compare Rf values, rather than distances alone, and still check that solvent, stationary phase and other conditions are the same.
+
+A spot remaining at the baseline might be insoluble in the chosen solvent or strongly attracted to the stationary phase. It is not evidence that the original sample contained nothing.
+
 ## Gas tests
 
 | Gas | Test | Positive result |
@@ -112,6 +123,12 @@ Balanced ionic examples:
 
 For a full equation: **CuSO₄(aq) + 2NaOH(aq) → Cu(OH)₂(s) + Na₂SO₄(aq)**. Balance atoms and charge; do not change the hydroxide formula to force balance. You do not need an extra equation for aluminium’s reaction with excess alkali.
 
+### Name the observation before the conclusion
+
+“A **blue precipitate formed** after sodium hydroxide was added” is an observation. “Copper(II) ions are present” is the inference from that observation. Record both, because a sample's original solution colour is not the same as the colour of a newly formed precipitate.
+
+In an ionic precipitation equation, include only ions that form the solid. Sodium and sulfate ions in the copper sulfate example remain dissolved as spectators; writing them on both sides does not explain the insoluble product.
+
 ## Carbonate, halide and sulfate tests
 
 Use **fresh portions** of a dissolved sample for different tests so earlier reagents do not contaminate later ones.
@@ -148,6 +165,12 @@ Wear eye protection and handle corrosive/irritant reagents and soluble barium sa
 
 Example: **lilac flame** and **cream precipitate after nitric acid/silver nitrate** support potassium and bromide, hence **KBr** in a single-compound task. A white precipitate from an unspecified reagent is not enough to name the compound. You may need a second test to distinguish possible ions.
 
+### Combining independent tests
+
+For an unknown giving a **green flame** and a **white precipitate with nitric acid followed by silver nitrate**, the evidence supports copper and chloride ions. A further blue hydroxide precipitate supports **Cu²⁺**, giving **CuCl₂** in a single-compound task.
+
+Use clean, separate portions. Reusing a portion after adding hydrochloric acid would introduce chloride and could manufacture a misleading halide result. When results conflict, check contamination, reagent order and the possibility of a mixture rather than forcing one answer.
+
 ## Instrumental analysis and flame emission
 
 Instrumental methods can be **rapid, sensitive and accurate**. Sensitive means detecting small amounts, not being fragile. They can also provide quantitative concentrations and analyse mixtures more effectively, but equipment cost, calibration and reference data still matter.
@@ -160,6 +183,12 @@ In **flame emission spectroscopy**:
 4. Compare an appropriate signal with calibrated concentration data to measure concentration.
 
 Match **line positions/patterns**, not just overall flame colour. In a mixture, lines from more than one ion can appear. Read supplied axes and reference data; a stronger calibrated signal can indicate greater concentration, but there is no universal conversion without calibration.
+
+### Calibration converts a signal into a concentration
+
+Use known standard solutions to establish a **calibration curve**. Measure the unknown under the same conditions, read its signal on the graph and find the corresponding concentration. A blank checks background signal or contamination from solvent and reagents.
+
+If an unknown falls beyond the calibrated range, dilute it by a known factor and measure again. Multiply the measured concentration by that factor to recover the original concentration. Do not simply extend the line indefinitely or assume twice the signal always means twice the concentration without calibration evidence.
 
 ## Avoid these identification mistakes
 
@@ -174,3 +203,8 @@ Match **line positions/patterns**, not just overall flame colour. In a mixture, 
 ## Sources
 
 - [AQA Chemical analysis](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/chemical-analysis)
+
+- [PMT: 8.1. Purity, formulations and chromatography](../Reference Materials/PMT - Summary 8.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 8.2. Identification of common gases](../Reference Materials/PMT - Summary 8.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 8.3. Identification of ions by chemical and spectroscopic means (chemistry only)](../Reference Materials/PMT - Summary 8.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Separating Techniques](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques). Cross-checked against the project specification.

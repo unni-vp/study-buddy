@@ -311,6 +311,90 @@
         "Compare spot positions and Rf values measured from the baseline.",
         "Matching values support identity but coincident spots can occur, so use another solvent/test if uncertain."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can two spots travel different distances and still have the same Rf?",
+      "back": [
+        "Yes. Their ratios to the corresponding solvent-front distances can be equal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What Rf results from 4.8 cm substance travel and 8.0 cm solvent travel?",
+      "back": [
+        "0.60, with no unit."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a spot at the baseline not mean there was no sample?",
+      "back": [
+        "The substance may be insoluble in that solvent or strongly retained by the stationary phase."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does “blue precipitate” differ from “copper(II) ions present”?",
+      "back": [
+        "The first is an observation; the second is an inference based on the test."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should spectator ions be omitted from an ionic precipitation equation?",
+      "back": [
+        "They remain unchanged in solution. The equation focuses on ions forming the insoluble solid."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What compound is supported by Cu²⁺ evidence and a positive chloride test?",
+      "back": [
+        "CuCl₂, because two chloride ions balance one copper(II) ion."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can using a hydrochloric-acid-treated sample spoil a chloride test?",
+      "back": [
+        "The reagent adds chloride ions, which can produce a false positive with silver nitrate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should conflicting identification results prompt?",
+      "back": [
+        "Check contamination, reagent order, sample handling and whether the unknown is a mixture."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the purpose of standard solutions in instrumental analysis?",
+      "back": [
+        "Their known concentrations establish how the measured signal relates to concentration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a blank check?",
+      "back": [
+        "Background signal or contamination from solvent, reagents or apparatus."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a sample beyond the calibration range be measured?",
+      "back": [
+        "Dilute it by a known factor, remeasure within range and multiply the result by that factor."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a single chromatographic spot not always establish purity?",
+      "back": [
+        "Components may overlap or fail to dissolve and separate under those conditions."
+      ]
     }
   ]
 }
