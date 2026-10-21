@@ -198,6 +198,104 @@
         "Carbon nanotubes have **high tensile strength**, so adding them can strengthen composite materials.",
         "Their useful properties arise from their carbon structures, not simply from being small."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is “solid salt has no charged particles” incorrect?",
+      "back": [
+        "It contains ions. They are fixed in place and cannot move freely to carry current."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does magnesium chloride need two chloride ions per magnesium ion?",
+      "back": [
+        "Mg²⁺ has two positive charges and each Cl⁻ has one negative charge, so a 1:2 ratio balances charge."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many shared pairs are present in O₂ and N₂?",
+      "back": [
+        "O₂ has two shared pairs; N₂ has three."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why count a shared electron pair for both bonded atoms?",
+      "back": [
+        "The pair is shared between them and contributes to each atom’s outer-shell arrangement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is omitted from an ordinary displayed formula but included in a complete outer-shell dot-and-cross diagram?",
+      "back": [
+        "Non-bonding electron pairs and the electron contributions from the original atoms."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does freely moving water not conduct like molten salt?",
+      "back": [
+        "Moving neutral molecules are not effective charge carriers. Molten salt contains freely moving charged ions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which particles carry charge in copper compared with molten sodium chloride?",
+      "back": [
+        "Delocalised electrons carry it in copper. Ions carry it in molten sodium chloride."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can graphite be soft and have a very high melting point?",
+      "back": [
+        "Weak forces allow layers to slide, but strong covalent bonds within the layers require much energy to overcome."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does diamond not conduct electricity like graphite?",
+      "back": [
+        "Its electrons are involved in bonds and there are no freely moving delocalised electrons to carry charge."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does boiling a simple molecular substance split its molecules into atoms?",
+      "back": [
+        "No. It overcomes intermolecular forces while the covalent bonds within the molecules remain."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must every alloy contain only metals?",
+      "back": [
+        "No. It is a mixture containing a metal and other elements; steel includes carbon."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can smaller particles expose more surface without increasing material volume?",
+      "back": [
+        "Dividing the same volume creates more surfaces and increases surface area relative to volume."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a higher surface area to volume ratio mean one nanoparticle has more area than a large particle?",
+      "back": [
+        "No. It has more area per unit volume. A fixed amount divided into nanoparticles has greater total exposed area."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should nanoparticle risks be evaluated product by product?",
+      "back": [
+        "Material, size, dose and exposure route differ. One result cannot establish the risk of all nanoparticle uses."
+      ]
     }
   ]
 }

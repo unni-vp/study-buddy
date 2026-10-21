@@ -1,0 +1,131 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.2",
+  "sections_refined": [
+    "Ionic bonding and lattices",
+    "Covalent molecules",
+    "States and explaining properties",
+    "Carbon structures",
+    "Nanoparticles"
+  ],
+  "pmt_references": [
+    {
+      "title": "2.1 Chemical bonds and types of bonding",
+      "topic": "bonding-structure-properties-of-matter",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/2-Bonding-Structure-and-the-Properties-of-Matter/Summary/2.1 Chemical bonds and types of bonding.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/bonding-structure-properties-of-matter/",
+      "selection": "Summary Notes",
+      "file": "bonding-structure-properties-of-matter-2-1-chemical-bonds-and-types-of-bonding.pdf",
+      "pages": 3,
+      "sha256": "bb5fc68da7c100b01a46347dd29d97966ad2720447a65ced8338cae3c7de9d23",
+      "local_path": "Reference Materials\\PMT - Summary 2.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT subsections, including separate Chemistry nanoparticles. Retained all eight molecular electron diagrams and existing models. Improved electron counting, charge-carrier comparisons, graphite softness versus melting, and fixed-volume surface reasoning. Corrected duplicate cube introduction. Rejected PMT alloys-only-metals definition and SR Na₂ as an ordinary molecular-substance example; distinguished mobile neutral particles from mobile charge."
+        }
+      ]
+    },
+    {
+      "title": "2.2. How bonding and structure are related to the properties of substances",
+      "topic": "bonding-structure-properties-of-matter",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/2-Bonding-Structure-and-the-Properties-of-Matter/Summary/2.2. How bonding and structure are related to the properties of substances.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/bonding-structure-properties-of-matter/",
+      "selection": "Summary Notes",
+      "file": "bonding-structure-properties-of-matter-2-2-how-bonding-and-structure-are-related-to-the-properties-of-substances.pdf",
+      "pages": 3,
+      "sha256": "b37410c1bb6e234dd4479af9b7448afb76af2aab45bad526a04ecf90c8568b2d",
+      "local_path": "Reference Materials\\PMT - Summary 2.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT subsections, including separate Chemistry nanoparticles. Retained all eight molecular electron diagrams and existing models. Improved electron counting, charge-carrier comparisons, graphite softness versus melting, and fixed-volume surface reasoning. Corrected duplicate cube introduction. Rejected PMT alloys-only-metals definition and SR Na₂ as an ordinary molecular-substance example; distinguished mobile neutral particles from mobile charge."
+        }
+      ]
+    },
+    {
+      "title": "2.3. Structure and bonding of carbon",
+      "topic": "bonding-structure-properties-of-matter",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/2-Bonding-Structure-and-the-Properties-of-Matter/Summary/2.3. Structure and bonding of carbon.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/bonding-structure-properties-of-matter/",
+      "selection": "Summary Notes",
+      "file": "bonding-structure-properties-of-matter-2-3-structure-and-bonding-of-carbon.pdf",
+      "pages": 2,
+      "sha256": "e189949d0e5751f7656a9e1f789122a32986420d9149159184ed6a3a08d02691",
+      "local_path": "Reference Materials\\PMT - Summary 2.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT subsections, including separate Chemistry nanoparticles. Retained all eight molecular electron diagrams and existing models. Improved electron counting, charge-carrier comparisons, graphite softness versus melting, and fixed-volume surface reasoning. Corrected duplicate cube introduction. Rejected PMT alloys-only-metals definition and SR Na₂ as an ordinary molecular-substance example; distinguished mobile neutral particles from mobile charge."
+        }
+      ]
+    },
+    {
+      "title": "2.4. Bulk and surface properties of matter including nanoparticles (chemistry only)",
+      "topic": "bonding-structure-properties-of-matter",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/2-Bonding-Structure-and-the-Properties-of-Matter/Summary/2.4. Bulk and surface properties of matter including nanoparticles (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/bonding-structure-properties-of-matter/",
+      "selection": "Summary Notes",
+      "file": "bonding-structure-properties-of-matter-2-4-bulk-and-surface-properties-of-matter-including-nanoparticles-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "7446bcf0e0bb8b28808a68582f3f97c4590bcb993241bf87b68c3b68c3c9360e",
+      "local_path": "Reference Materials\\PMT - Summary 2.4 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT subsections, including separate Chemistry nanoparticles. Retained all eight molecular electron diagrams and existing models. Improved electron counting, charge-carrier comparisons, graphite softness versus melting, and fixed-volume surface reasoning. Corrected duplicate cube introduction. Rejected PMT alloys-only-metals definition and SR Na₂ as an ordinary molecular-substance example; distinguished mobile neutral particles from mobile charge."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Covalent Bonding",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/covalent-bonding",
+      "file": "covalent-bonding.txt",
+      "words": 995
+    },
+    {
+      "title": "Ionic Bonding",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/ionic-bonding",
+      "file": "ionic-bonding.txt",
+      "words": 825
+    },
+    {
+      "title": "Large Covalent Substances",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/large-covalent-substances",
+      "file": "large-covalent-substances.txt",
+      "words": 543
+    },
+    {
+      "title": "Metallic Bonding",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/metallic-bonding",
+      "file": "metallic-bonding.txt",
+      "words": 588
+    },
+    {
+      "title": "Types Of Matter",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/types-of-matter",
+      "file": "types-of-matter.txt",
+      "words": 496
+    }
+  ],
+  "decisions": [
+    "Reviewed all four PMT subsections, including separate Chemistry nanoparticles. Retained all eight molecular electron diagrams and existing models. Improved electron counting, charge-carrier comparisons, graphite softness versus melting, and fixed-volume surface reasoning. Corrected duplicate cube introduction. Rejected PMT alloys-only-metals definition and SR Na₂ as an ordinary molecular-substance example; distinguished mobile neutral particles from mobile charge.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 24,
+    "added": 14,
+    "refined": 0,
+    "after": 38
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

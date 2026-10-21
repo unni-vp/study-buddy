@@ -40,6 +40,12 @@ The total positive and negative charges must balance:
 
 An ionic formula gives an **empirical ratio**, not the number of atoms in one molecule. When drawing ions, include square brackets, charges and the appropriate outer-shell electrons.
 
+### Explaining why a solid salt does not conduct
+
+A solid ionic compound already contains charged ions. It fails to conduct because those ions are **fixed in the lattice**, not because charges are absent. When the compound melts or dissolves, ions can move through the material and carry charge.
+
+For magnesium chloride, one Mg atom supplies two electrons but each Cl atom gains only one. **Two chlorine atoms** are therefore needed for each magnesium atom. The ratio follows charge balance, not the number of drawn circles in a small model.
+
 ## Covalent molecules
 
 A **covalent bond is a shared pair of electrons**. Think of two people holding the same handle: the shared electrons are attracted to both nuclei. This is an analogy for attraction, not a rigid physical stick.
@@ -62,6 +68,12 @@ A **covalent bond is a shared pair of electrons**. Think of two people holding t
 ![Outer-shell dot-and-cross diagrams for hydrogen, chlorine, oxygen, nitrogen, hydrogen chloride, water, ammonia and methane.](../Diagrams/covalent-molecules.svg)
 
 Dots and crosses show which atom contributed an electron; the electrons themselves are identical. Count the shared electrons for **both** bonded atoms when checking full shells. A molecular formula counts the atoms in one molecule; it does not show its shape.
+
+### A shared pair belongs to both outer-shell counts
+
+In H₂O, oxygen supplies one electron to each of two shared pairs and has two non-bonding pairs left. Count each shared pair for oxygen and for its bonded hydrogen. This gives oxygen eight outer-shell electrons and each hydrogen two.
+
+O₂ has a **double bond**, meaning two shared pairs. N₂ has a **triple bond**, meaning three shared pairs. A displayed formula omits lone pairs, while a complete outer-shell dot-and-cross drawing includes them. Neither drawing shows electrons as genuinely different kinds of particle.
 
 ## States and explaining properties
 
@@ -94,6 +106,18 @@ At the stated pressure:
 
 For small molecular substances, **melting or boiling overcomes intermolecular forces, not covalent bonds inside the molecules**. Larger molecules generally have stronger intermolecular forces and higher boiling points.
 
+### Identify the moving charge carrier
+
+| Sample | Can it conduct? | Reason |
+|---|---|---|
+| Solid sodium chloride | No. | Its charged ions cannot move freely through the lattice. |
+| Molten sodium chloride | Yes. | Its ions can move and carry charge. |
+| A piece of copper | Yes. | Delocalised electrons move while the metal ions remain in the structure. |
+| Liquid water in the simplified molecular model | Very poorly when pure. | Water molecules have no overall charge and the pure liquid contains very few mobile ions. |
+| Graphite | Yes. | Delocalised electrons move through its layered structure. |
+
+“The particles can move” is not enough: name the **charged** particles. Molecules in many liquids and gases move freely but do not therefore conduct well.
+
 ## Polymers and giant structures
 
 **Polymers** are very large molecules made from repeating units. Strong covalent bonds hold the atoms together within each chain. The forces **between the large molecules** are relatively strong, so polymers are usually solids at room temperature.
@@ -119,6 +143,12 @@ The same element can form very different materials because its atoms join in dif
 | **Carbon nanotubes** | Cylindrical fullerenes; very large length-to-diameter ratio | High tensile strength and electrical conductivity suit reinforcement and electronics |
 
 Graphite is not held together by weak covalent bonds. The **covalent bonds within each layer are strong**; forces between layers are much weaker. Fullerenes are molecules, whereas diamond is an extended network.
+
+### Softness and melting point ask about different forces
+
+Graphite is soft because layers can slide past one another without breaking the strong covalent bonds **within** a layer. Melting the network involves overcoming those strong bonds, so softness does not imply a low melting point.
+
+Diamond has no separate layers to slide. Its strong bonds connect the network in three dimensions, explaining hardness. It has no freely moving delocalised electrons, so being a form of carbon does not make it an electrical conductor.
 
 ## Metals and alloys
 
@@ -148,8 +178,6 @@ For material choices, compare the properties needed for the job with **cost, den
 
 For a cube of side length **l**:
 
-For a cube of side length l:
-
 - **Surface area = 6l²**
 - **Volume = l³**
 - **SA:V = 6/l**
@@ -168,3 +196,21 @@ Reducing the side by ten makes SA:V **ten times greater**, even though each cube
 Applications include **medicine, electronics, cosmetics, sun creams, deodorants and catalysts**. For the same effect, a smaller quantity of nanoparticle material may be needed because more surface is available.
 
 Possible disadvantages depend on the material, dose and exposure: particles may enter the body or environment, and long-term effects may be uncertain. Evaluate supplied evidence rather than assuming all nanoparticles are harmful or all are safe. Compare benefit, exposure route, effectiveness, cost and evidence about toxicity.
+
+### Compare like amounts of material
+
+Breaking a fixed volume into smaller particles exposes more total surface without adding more material. This can increase contact with reactants and reduce the quantity of a catalyst needed. A single small particle has a smaller area than a large one, but it has **more area per unit volume**.
+
+Risk depends on the actual substance, particle size, dose and route of exposure. Evidence about inhaling one nanoparticle material cannot automatically establish the risk of every nanoparticle in every product.
+
+## Sources
+
+- [PMT: 2.1 Chemical bonds and types of bonding](../Reference Materials/PMT - Summary 2.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 2.2. How bonding and structure are related to the properties of substances](../Reference Materials/PMT - Summary 2.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 2.3. Structure and bonding of carbon](../Reference Materials/PMT - Summary 2.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 2.4. Bulk and surface properties of matter including nanoparticles (chemistry only)](../Reference Materials/PMT - Summary 2.4 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Covalent Bonding](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/covalent-bonding). Cross-checked against the project specification.
+- [Study Rocket: Ionic Bonding](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/ionic-bonding). Cross-checked against the project specification.
+- [Study Rocket: Large Covalent Substances](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/large-covalent-substances). Cross-checked against the project specification.
+- [Study Rocket: Metallic Bonding](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/metallic-bonding). Cross-checked against the project specification.
+- [Study Rocket: Types Of Matter](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-bonding-matter/types-of-matter). Cross-checked against the project specification.
