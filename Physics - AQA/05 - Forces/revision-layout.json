@@ -5,7 +5,7 @@
       "id": "interactions",
       "title": "Forces and deformation",
       "description": "Use vectors, work and spring relationships.",
-      "icon": "physics-forces",
+      "icon": "nav-force",
       "sections": [
         {
           "heading": "Scalars, vectors and interactions"
@@ -25,7 +25,7 @@
       "id": "turning",
       "title": "Turning and pressure",
       "description": "Explain moments, gears, fluids and floating.",
-      "icon": "physics-forces",
+      "icon": "nav-balance",
       "sections": [
         {
           "heading": "Moments, levers and gears"
@@ -39,7 +39,7 @@
       "id": "motion",
       "title": "Motion and Newton’s laws",
       "description": "Read graphs and investigate force and acceleration.",
-      "icon": "physics-motion",
+      "icon": "nav-graph",
       "sections": [
         {
           "heading": "Describing motion"
@@ -59,7 +59,7 @@
       "id": "safety",
       "title": "Stopping and momentum",
       "description": "Calculate collisions and explain safety features.",
-      "icon": "physics-motion",
+      "icon": "nav-car",
       "sections": [
         {
           "heading": "Thinking, braking and stopping"
