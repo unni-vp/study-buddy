@@ -4,7 +4,7 @@
     {
       "id": "logic",
       "title": "Hardware and Boolean logic",
-      "icon": "computer-logic",
+      "icon": "nav-logic",
       "description": "Read gate symbols, combine circuits and construct truth tables.",
       "sections": [
         {
@@ -18,7 +18,7 @@
     {
       "id": "software",
       "title": "System software",
-      "icon": "computer-structure",
+      "icon": "nav-modules",
       "description": "Explain operating-system responsibilities and utility programs.",
       "sections": [
         {
@@ -29,7 +29,7 @@
     {
       "id": "languages",
       "title": "Languages and translators",
-      "icon": "computer-code",
+      "icon": "nav-code",
       "description": "Compare language levels and choose a suitable translator.",
       "sections": [
         {
@@ -43,7 +43,7 @@
     {
       "id": "architecture",
       "title": "CPU and memory",
-      "icon": "computer-cpu",
+      "icon": "nav-cpu",
       "description": "Follow instruction processing and explain performance and memory.",
       "sections": [
         {
@@ -66,7 +66,7 @@
     {
       "id": "storage",
       "title": "Storage and embedded systems",
-      "icon": "computer-storage",
+      "icon": "nav-storage",
       "description": "Understand HDDs, SSDs, tape and removable flash storage, then compare local and cloud storage.",
       "sections": [
         {
