@@ -11,22 +11,44 @@
 Countries are often described as **ACs** (advanced countries), **EDCs** (emerging and developing countries) or **LIDCs** (low-income developing countries). These are broad groups; inequality within a country means an average never describes everyone.
 
 ### Measuring development
+An indicator is like one reading on a dashboard. Income tells us something useful, but it cannot tell us by itself whether people are healthy, educated or safe.
 
-| Indicator | What it measures | Why it is useful | What it misses |
+| Indicator | What it measures | Strength | Limitation |
 |---|---|---|---|
-| **GNI per person** | National income, including net income from abroad, divided by population. | Allows comparison of average economic resources; consistent price measures improve comparisons. | Hides inequality and differences in living costs unless adjusted; does not directly measure health or education. |
-| **HDI** | Combines life expectancy, education and income. | A broader view than income alone; comparisons can show progress through time. | National averages hide regional or social inequalities and do not fully measure environmental sustainability. |
-| **Internet users** | The share of people using the internet. | Indicates access to information, communication and digital opportunities. | Use does not show speed, affordability, skills or whether access is equally shared. |
+| **GNI per person** | Income earned by a country's residents, including net income from abroad, divided by population. | It helps compare average economic resources. Purchasing-power adjustments allow for different price levels. | A high average can conceal very unequal incomes. It does not directly measure health or education. |
+| **Human Development Index (HDI)** | A combined index from 0 to 1 using life expectancy, education and GNI per person. | It combines social and economic dimensions instead of relying on income alone. | It is still an average. HDI does not directly measure inequality or environmental sustainability. |
+| **Internet use** | The proportion of people using the internet. | It indicates access to communication, information and some economic opportunities. | It does not show connection quality, affordability or digital skills. |
 
-Uneven development affects migration, health, education, employment and political influence. Poorer places may lose skilled workers; richer places may attract investment and gain more power in trade decisions.
+HDI's education dimension uses **mean years of schooling for adults** and **expected years of schooling for children**. Its health measure is **life expectancy at birth**. Its income measure is **GNI per person**, rather than simply total GDP.
+
+Use indicators together and compare their dates and definitions. A rise in national income can occur while some regions remain poor. Improvements in safe water or vaccination may raise quality of life before large income increases appear.
 
 ### Why development is uneven
+**Historical links:** Colonial economies often supplied raw materials to overseas markets. Transport routes and ownership could favour exports rather than connections between local communities. These legacies can affect later opportunities, but colonialism does not give every country the same history or future.
 
-- **Colonialism:** borders and economies were often designed to export raw materials rather than benefit local people.
-- **Trade:** primary products may earn low or unstable prices, while manufactured imports cost more.
-- **Natural resources:** resources can fund services and industry, but benefits may be lost through conflict, corruption or foreign control.
-- **Aid:** emergency aid saves lives; development aid funds long-term projects. Aid can build skills and infrastructure but may create dependency or reflect donor priorities.
-- **Landlocked location, climate hazards, conflict and debt** may make trade and public investment harder.
+**Trade and resources:** A country depending on a few primary exports is exposed to changing prices, harvests and demand. Manufacturing and processing can add value, but require power, skills and investment. Valuable minerals can fund services, yet profits may leave the country or be captured by a small group.
+
+**Location and physical conditions:** A landlocked country can trade through neighbouring countries, but longer journeys, border procedures and dependence on another country's port can raise costs. Drought, difficult relief and disease can affect livelihoods. Their effects depend partly on infrastructure and the ability to adapt.
+
+**Politics and investment:** Conflict can destroy roads and interrupt schooling. Debt repayments may reduce money available for services. Stable institutions, education and reliable infrastructure can help firms invest and create jobs. Investment is more beneficial when local people gain skills and income.
+
+These factors can reinforce one another. Low household income may limit education and healthcare, reducing employment opportunities and keeping income low. Breaking this cycle needs more than one isolated project.
+
+### How aid can help or hinder development
+
+**Aid** is assistance intended to meet needs or support development. Different labels describe different features of the same project.
+
+| Type | Meaning and example | Benefit and possible limitation |
+|---|---|---|
+| **Emergency aid** | Food, shelter or medical support following a crisis. | It can save lives quickly, but does not by itself remove the causes of vulnerability. |
+| **Development aid** | Longer-term support, such as training, water systems or livelihood projects. | It can strengthen future independence, but needs maintenance, local skills and continuing access. |
+| **Bilateral aid** | One government provides assistance to another country. | It can fund large programmes, but donor political or commercial interests may influence priorities. |
+| **Multilateral aid** | Countries contribute through an international organisation. | It pools expertise and funding, although coordination and administration can be complex. |
+| **NGO support** | A non-governmental organisation works with communities or local partners. | Local participation can make projects appropriate, but funding and geographical reach may be limited. |
+
+**Top-down projects** are mainly planned by large organisations or authorities. They can provide major infrastructure but may overlook local needs. **Bottom-up projects** involve communities in identifying needs and making decisions. They can fit local conditions, but may be too small to provide national networks.
+
+A **grant** does not need repayment; a **loan** does. **Tied aid** imposes conditions, such as buying goods from the donor. These are separate distinctions from emergency versus development aid. Assess who benefits, whether skills are transferred, and whether benefits continue after outside funding ends.
 
 ## Country case study: Ethiopia
 
@@ -67,14 +89,21 @@ A phone connection can help a farmer compare prices or receive payment. It is mu
 This explains why investment may improve national indicators while remote communities see less change. Development must be assessed through access and quality, not just the arrival of a new company or network.
 
 ### Rostow's model
+Rostow proposed a five-stage development model. Think of it as a suggested staircase rather than a compulsory route every country must follow.
 
-Rostow's model suggests countries pass through five stages: **traditional society**, **preconditions for take-off**, **take-off**, **drive to maturity**, then **high mass consumption**. Ethiopia shows features of the preconditions and take-off stages: large-scale infrastructure and industry are growing, but agriculture still employs many people.
+| Stage | Main idea |
+|---|---|
+| **Traditional society** | Many people depend on agriculture, with limited industrial production and infrastructure. |
+| **Preconditions for take-off** | Investment, transport, education and commercial activity develop, supporting wider economic change. |
+| **Take-off** | Some industries grow rapidly, investment increases and more people move into industrial employment. |
+| **Drive to maturity** | Industry and services become more diverse, with wider use of technology and skills. |
+| **High mass consumption** | Higher incomes support widespread purchase of goods and services, although inequality can remain. |
 
-**Evaluation:** The model is easy to apply, but assumes every country follows the path taken by Western economies. It underplays colonial relationships, conflict, inequality and environmental limits.
+Ethiopia's infrastructure and industrial investment illustrate features associated with **preconditions and take-off**. Its dependence on farming and uneven access to services show why assigning the entire country one simple stage is difficult. Different regions and sectors change at different rates.
+
+The model draws heavily on Western industrial history. It gives too little attention to unequal trade, colonial relationships, conflict and environmental limits. Countries do not necessarily move through all stages in the same order or at the same speed.
 
 ![Five steps showing the sequence proposed in Rostow’s development model](diagrams/rostow-model.svg)
-
-**Apply and question the model:** identify evidence of change in Ethiopia, then explain why regions and sectors do not all move through the same stage together.
 
 ### Aid project: Oxfam goat aid
 
@@ -87,25 +116,35 @@ Rostow's model suggests countries pass through five stages: **traditional societ
 **Limitations:** Goats need water, grazing and veterinary care. Severe drought or disease can kill them, and extra animals can increase pressure on scarce pasture. The scheme can strengthen livelihoods but cannot replace roads, education, healthcare or emergency relief.
 
 ## A changing urban world
+### Size, influence and growth
 
-- A **city** is a large, densely populated urban settlement.
-- A **megacity** has more than **10 million** people.
-- A **world city** has major global influence through finance, business, culture or politics.
-- **Urbanisation** is the increase in the proportion of people living in urban areas.
+| Term | Meaning | Important distinction |
+|---|---|---|
+| **City** | A large, densely populated urban settlement with varied functions. | Official definitions and boundaries differ between countries. |
+| **Megacity** | An urban area with more than 10 million people. | This describes population size, rather than its global influence. |
+| **World city** | A city with major international influence through finance, business, culture or politics. | A world city does not have to be a megacity. |
+| **Urbanisation** | An increase in the proportion of a population living in urban areas. | This is a percentage, not simply an increase in city population. |
+| **Urban growth** | An increase in the number of people living in urban areas. | Numbers can rise without the urban share increasing. |
 
-ACs are highly urbanised but often grow slowly. Many LIDCs and EDCs have faster urban growth because of natural increase and rural-to-urban migration.
+Many ACs already have a high urban share and relatively slow urban growth. Many LIDCs and EDCs have faster growth as migration and births add to city populations. Many of the world's largest cities are in Asia, while rapid growth also occurs across parts of Africa. A fast-growing country is not necessarily the most urbanised one.
 
-### Causes of rapid urbanisation
+### Why people move to cities
 
-- **Push factors:** few rural jobs, low farm income, drought, poor services or conflict.
-- **Pull factors:** jobs, education, healthcare, transport, family links and perceived opportunity.
-- **Natural increase:** a youthful city population produces more births than deaths.
+**Push factors** make rural life difficult. Low farm incomes, fewer jobs, unreliable rainfall and limited services may encourage people to leave. Mechanisation can reduce the number of farm workers needed.
 
-### Effects of rapid urban growth
+**Pull factors** make cities attractive. People may expect paid work, further education, healthcare or support from relatives. These opportunities are not guaranteed: a move can lead to insecure work or poor housing.
 
-**Opportunities:** larger labour force and market; new businesses; improved access to services; cultural exchange.
+**Natural increase** occurs when births exceed deaths. A youthful city population can produce many births, while improvements in healthcare reduce deaths. This increases urban numbers, but does not on its own prove that the country's urban proportion rose.
 
-**Challenges:** housing shortages; informal settlements; congestion; air pollution; pressure on water, sanitation, waste collection, schools and hospitals; unequal access to secure work.
+### Opportunities and pressures
+
+Businesses gain workers and customers when cities grow. A concentrated population can support hospitals, universities, public transport and cultural activities. Workers and firms can exchange ideas, helping new services and industries develop.
+
+If housing and infrastructure grow more slowly than population, informal settlements and overcrowding may expand. Limited drainage, sanitation and waste collection can increase pollution and disease risks. Congestion wastes time, while insecure incomes make services harder to afford.
+
+**Formal employment** is registered and subject to official regulation and taxation. **Informal employment** operates partly or wholly outside these arrangements, often without secure contracts or protection. Self-employment is not automatically informal. Informal work can provide essential livelihoods, but earnings and conditions may be insecure.
+
+The important question is how opportunities and services are shared. A prosperous central district can exist beside poorly serviced settlements, so city averages conceal inequality.
 
 ## Major-city case study: Rosario, Argentina
 
@@ -178,3 +217,15 @@ Vegetation can also provide shade and help water soak into soil. Productive gree
 - [Sher Ethiopia: farms, employment and export routes](https://sherethiopia.com/about-us-sher/our-company/)
 
 - [Afriflora: its Ethiopian rose-growing operations](https://afriflora.nl/over-ons/)
+
+## Sources
+
+- [UNDP: HDI dimensions and limitations](https://hdr.undp.org/data-center/human-development-index).
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Global development - Edexcel A.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Megacities](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/megacities). Cross-checked against the project specification.
+- [Study Rocket: Urbanisation](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/urbanisation). Cross-checked against the project specification.
+- [Study Rocket: Bottom Up Development](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/bottom-up-development). Cross-checked against the project specification.
+- [Study Rocket: Defining Development](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/defining-development). Cross-checked against the project specification.
+- [Study Rocket: Measuring Development](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/measuring-development). Cross-checked against the project specification.
+- [Study Rocket: Theories Of Development](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/theories-of-development). Cross-checked against the project specification.

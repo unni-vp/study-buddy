@@ -1,0 +1,84 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 2.2",
+  "sections_refined": [
+    "Measuring development",
+    "Why development is uneven",
+    "Rostow's model",
+    "A changing urban world"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "global-development",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/5-Global-Development/Detailed Notes - Topic 5 Global Development - Edexcel A Geography GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/global-development/",
+      "file": "global-development-detailed-notes.pdf",
+      "pages": 15,
+      "sha256": "125f212619c191c2b3f5b58e598678b947279f360ee675aa3913502c18e9856e",
+      "local_path": "Reference Materials\\PMT - Global development - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–15",
+          "decision": "Use indicators, uneven development, Rostow and aid as coverage prompts. Correct HDI using UNDP: income is GNI and inequality is not a direct HDI component. Reject the idea that all countries follow one path or landlocked states cannot trade. Retain Ethiopia and Rosario rather than other-board case studies."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Megacities",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/megacities",
+      "file": "megacities.txt",
+      "words": 304
+    },
+    {
+      "title": "Urbanisation",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/urbanisation",
+      "file": "urbanisation.txt",
+      "words": 323
+    },
+    {
+      "title": "Bottom Up Development",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/bottom-up-development",
+      "file": "bottom-up-development.txt",
+      "words": 82
+    },
+    {
+      "title": "Defining Development",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/defining-development",
+      "file": "defining-development.txt",
+      "words": 120
+    },
+    {
+      "title": "Measuring Development",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/measuring-development",
+      "file": "measuring-development.txt",
+      "words": 186
+    },
+    {
+      "title": "Theories Of Development",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/development-dynamics/theories-of-development",
+      "file": "theories-of-development.txt",
+      "words": 225
+    }
+  ],
+  "decisions": [
+    "Preserved every Ethiopia and Rosario case-study paragraph, scoped statistic and existing diagram.",
+    "Expanded aid distinctions and urbanisation mechanisms without replacing the school cases.",
+    "Corrected outdated or inaccurate source definitions of HDI, compulsory Rostow stages and world cities; checked HDI against UNDP."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 22,
+    "refined": 0,
+    "after": 42
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

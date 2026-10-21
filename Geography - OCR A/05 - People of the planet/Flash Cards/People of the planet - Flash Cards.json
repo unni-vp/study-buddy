@@ -158,6 +158,160 @@
         "It combined secure land ownership and basic infrastructure with community participation.",
         "Employment support and selective relocation addressed social needs as well as the physical condition of housing."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which three dimensions make up HDI?",
+      "back": [
+        "Health, measured by life expectancy; education, measured by schooling; and income, measured using GNI per person."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does HDI directly measure inequality?",
+      "back": [
+        "No. It combines national averages, which can conceal differences between regions and social groups."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use purchasing-power-adjusted income?",
+      "back": [
+        "The same amount of money buys different quantities in different countries. The adjustment makes comparisons of living standards more meaningful."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is high national income insufficient evidence of good living conditions for everyone?",
+      "back": [
+        "It is an average. A small wealthy group can raise it while many households lack affordable services."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can dependence on one agricultural export make development vulnerable?",
+      "back": [
+        "Drought can reduce output and changing world prices can reduce earnings. Less income is then available for households and public investment."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a landlocked country have no overseas trade?",
+      "back": [
+        "No. It can use neighbouring countries’ ports, although distance, border procedures and disruption can raise costs."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can limited education reinforce poverty?",
+      "back": [
+        "It can restrict skills and job opportunities, keeping incomes low and making further education or healthcare harder to afford."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do emergency and development aid differ?",
+      "back": [
+        "Emergency aid meets urgent crisis needs. Development aid supports longer-term improvements, such as skills, infrastructure or livelihoods."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes bilateral from multilateral aid?",
+      "back": [
+        "Bilateral aid comes from one government to another country. Multilateral aid is channelled through an international organisation supported by several countries."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is tied aid?",
+      "back": [
+        "Aid with conditions attached, such as requiring purchases from the donor country. Those conditions may reduce the recipient’s choice."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a grant and a loan have different long-term effects?",
+      "back": [
+        "A grant does not need repayment. A loan must be repaid, so future debt servicing may compete with spending on services."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What makes a project bottom-up?",
+      "back": [
+        "Local people help identify needs and make decisions, rather than only receiving a plan designed elsewhere."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What are Rostow’s five stages, in order?",
+      "back": [
+        "Traditional society; preconditions for take-off; take-off; drive to maturity; high mass consumption."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should Ethiopia not simply be labelled as one fixed Rostow stage?",
+      "back": [
+        "Its regions and sectors change unevenly. Infrastructure and industry show some take-off features while many livelihoods remain agricultural."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the main limitation of Rostow’s suggested path?",
+      "back": [
+        "It assumes a broadly Western route and underplays unequal external relationships, conflict, inequality and environmental limits."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does urbanisation differ from urban growth?",
+      "back": [
+        "Urbanisation is a rise in the proportion living in urban areas. Urban growth is an increase in the number living there."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must a world city also be a megacity?",
+      "back": [
+        "No. World-city status concerns international influence; megacity status concerns a population over 10 million."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can urban natural increase occur without urbanisation?",
+      "back": [
+        "Births can raise urban numbers while the rural population also grows. The urban proportion need not increase."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might rural-to-urban migrants not obtain the opportunities they expect?",
+      "back": [
+        "Demand for secure jobs and affordable housing may exceed supply, leaving some migrants in insecure employment or poorly serviced housing."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Is every self-employed worker in the informal economy?",
+      "back": [
+        "No. A self-employed business can be registered and regulated. Informality concerns operation outside formal arrangements."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why did the Kanbi goat project pass offspring between households?",
+      "back": [
+        "It spread benefits through the traditional hirbaa-dabaree sharing system, extending livelihoods without buying a whole new herd for every family."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does Rosario Hábitat combine services and tenure with housing?",
+      "back": [
+        "A house alone does not provide sanitation, drainage, secure ownership or employment opportunities. The linked measures address several causes of poor living conditions."
+      ]
     }
   ]
 }
