@@ -5,7 +5,7 @@
       "id": "infections",
       "title": "Infections & defence",
       "description": "Pathogens, human diseases and immunity",
-      "icon": "cells",
+      "icon": "nav-shield",
       "sections": [
         {
           "heading": "Pathogens and transmission"
@@ -29,7 +29,7 @@
       "id": "medicines",
       "title": "Medicines & antibodies",
       "description": "Drug testing, antibiotics and targeted antibodies",
-      "icon": "practical",
+      "icon": "nav-medicine",
       "sections": [
         {
           "heading": "Antibiotics and other medicines"
@@ -49,7 +49,7 @@
       "id": "plants",
       "title": "Plant health",
       "description": "Infections, deficiencies and protective adaptations",
-      "icon": "exchange",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Plant infections and deficiencies"
