@@ -1,0 +1,163 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 1.1.1–1.1.5",
+  "sections_refined": [
+    "The UK landscape",
+    "Processes that shape landscapes",
+    "River landscapes",
+    "Coastal landscapes"
+  ],
+  "pmt_references": [
+    {
+      "title": "The Changing Landscapes of the UK",
+      "topic": "the-changing-landscapes-of-the-uk",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/1-The-Changing-Landscapes-of-the-UK/Detailed-Notes/The Changing Landscapes of the UK.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/the-changing-landscapes-of-the-uk/",
+      "file": "the-changing-landscapes-of-the-uk-the-changing-landscapes-of-the-uk.pdf",
+      "pages": 9,
+      "sha256": "ac501fabf2955a0afadd24d5ef56ca86af58d8f1055c89840d97331049242354",
+      "local_path": "Reference Materials\\PMT - UK landscape background - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–6",
+          "decision": "Develop rock characteristics, distribution and relief; qualify all-sedimentary-soft and all-igneous-pressure implications."
+        },
+        {
+          "pages": "7–9",
+          "decision": "Retain existing named school examples; use human/physical interaction concepts without substituting Lake District/Weald for Wye and Norfolk."
+        }
+      ]
+    },
+    {
+      "title": "River Landscapes and Processes",
+      "topic": "the-changing-landscapes-of-the-uk",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/1-The-Changing-Landscapes-of-the-UK/Detailed-Notes/River Landscapes and Processes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/the-changing-landscapes-of-the-uk/",
+      "file": "the-changing-landscapes-of-the-uk-river-landscapes-and-processes.pdf",
+      "pages": 23,
+      "sha256": "f54ce36e545a2ac25789b03e7e265a481c3d7ed0e9512e269f60bf8f2f1e0b53",
+      "local_path": "Reference Materials\\PMT - River landscapes - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–9",
+          "decision": "Develop weathering, mass movement, transport, deposition and channel-efficiency explanation."
+        },
+        {
+          "pages": "10–16",
+          "decision": "Expand required OCR landform mechanisms, retaining existing process diagrams; do not imply every gorge is a retreat gorge."
+        },
+        {
+          "pages": "17–23",
+          "decision": "Existing Wye management retained. Flood-hydrograph concepts reviewed again in Topic 03; avoid automatic claims about cost, flood elimination or landforms at every site."
+        }
+      ]
+    },
+    {
+      "title": "Coastal Landscapes in the UK",
+      "topic": "coastal-landscapes",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/AQA/Physical-Landscapes-in-the-UK/Detailed/Coastal%20Landscapes%20in%20the%20UK.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-aqa/physical-landscapes-in-the-uk/",
+      "file": "coastal-landscapes-detailed-notes.pdf",
+      "pages": 14,
+      "sha256": "673369de7cd8508f8e37d41f41bb3f919823d9a40bafcbe437926b0d377ae32f",
+      "local_path": "Reference Materials\\PMT - Coastal landscapes - AQA.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–9",
+          "decision": "Develop waves, fetch, drift and required landforms; no compulsory bars/tombolos or fifth erosion process added."
+        },
+        {
+          "pages": "10–14",
+          "decision": "Weathering and management checked against named Norfolk setting; no blanket hard/soft effectiveness or durability claims."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Characteristics Of Rivers",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/characteristics-of-rivers",
+      "file": "characteristics-of-rivers.txt",
+      "words": 60
+    },
+    {
+      "title": "Climate And Coastal Landscapes Of Erosion",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/climate-and-coastal-landscapes-of-erosion",
+      "file": "climate-and-coastal-landscapes-of-erosion.txt",
+      "words": 209
+    },
+    {
+      "title": "Coastal Management",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/coastal-management",
+      "file": "coastal-management.txt",
+      "words": 325
+    },
+    {
+      "title": "Features And Processes Of Rivers",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/features-and-processes-of-rivers",
+      "file": "features-and-processes-of-rivers.txt",
+      "words": 428
+    },
+    {
+      "title": "Features In Different Courses",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/features-in-different-courses",
+      "file": "features-in-different-courses.txt",
+      "words": 538
+    },
+    {
+      "title": "Geology And Coastal Landscapes Of Erosion",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/geology-and-coastal-landscapes-of-erosion",
+      "file": "geology-and-coastal-landscapes-of-erosion.txt",
+      "words": 331
+    },
+    {
+      "title": "Human Impact On The Coast",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/human-impact-on-the-coast",
+      "file": "human-impact-on-the-coast.txt",
+      "words": 397
+    },
+    {
+      "title": "Human Processes And Landscapes",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/human-processes-and-landscapes",
+      "file": "human-processes-and-landscapes.txt",
+      "words": 444
+    },
+    {
+      "title": "Landforms Of Deposition",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/landforms-of-deposition",
+      "file": "landforms-of-deposition.txt",
+      "words": 415
+    },
+    {
+      "title": "Physical Processes And Landscapes",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/physical-processes-and-landscapes",
+      "file": "physical-processes-and-landscapes.txt",
+      "words": 724
+    },
+    {
+      "title": "Uk Rock Types",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-physical-landscape/uk-rock-types",
+      "file": "uk-rock-types.txt",
+      "words": 879
+    }
+  ],
+  "decisions": [
+    "PMT does not list OCR A GCSE Geography; selected AQA/Edexcel overlap is a conceptual cross-check only. OCR J383 controls scope and school case studies are preserved.",
+    "Corrected a stale flashcard implying a direct Happisburgh-to-Blakeney sediment route; notes and Q&A already distinguish frontages. Qualified the existing deposition answer in both Q&A and cards.",
+    "Did not import detailed glacial-landform sequences, batholith dimensions, exclusive river-course jobs or a blanket slower-downstream claim.",
+    "Separated the substantial Wye and Norfolk case studies into direct pages on the same flat menu. Existing text, source links and diagrams retained."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 18,
+    "refined": 2,
+    "after": 38
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

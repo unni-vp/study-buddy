@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is weathering?",
+      "back": [
+        "The breakdown of rock **in place**."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the process in which pebbles collide and become smaller and rounder.",
+      "back": [
+        "Attrition."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the river-transport process in which large stones roll along the bed.",
+      "back": [
+        "Traction."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is deposited on a floodplain during a flood?",
+      "back": [
+        "Alluvium."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the process that moves beach sediment along a coast in a zigzag.",
+      "back": [
+        "Longshore drift."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which type of wave usually builds a beach?",
+      "back": [
+        "Constructive wave."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two differences between typical upland and lowland landscapes.",
+      "back": [
+        "Uplands have **higher relief and steeper slopes**.",
+        "Lowlands are generally **lower and flatter**, with wider valleys."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how abrasion erodes a river channel.",
+      "back": [
+        "The river carries rock fragments.",
+        "These scrape against the bed and banks, **wearing them away**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why deposition occurs when a river enters flatter land.",
+      "back": [
+        "The gradient and water velocity decrease.",
+        "The river loses energy and can no longer carry as much sediment, so it **deposits its load**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how a river cliff and slip-off slope form on a meander.",
+      "back": [
+        "Faster flow erodes the outside bend, forming a **river cliff**.",
+        "Slower flow deposits sediment on the inside bend, forming a **slip-off slope**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how geology helps create headlands and bays.",
+      "back": [
+        "Softer rock is eroded rapidly to form bays.",
+        "More resistant rock erodes slowly and remains as headlands."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two possible effects of building groynes.",
+      "back": [
+        "They trap sediment and build a wider beach locally.",
+        "Less sediment may reach places further along the coast, increasing erosion there."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain the formation of a V-shaped valley.",
+      "back": [
+        "A river uses vertical erosion to cut down into its bed.",
+        "Weathering and mass movement weaken and lower the valley sides.",
+        "The river removes fallen material, leaving steep sides shaped like a V."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a waterfall retreats to form a gorge.",
+      "back": [
+        "Softer rock beneath resistant rock is eroded faster and a plunge pool forms.",
+        "The resistant overhang collapses because it is unsupported.",
+        "Repetition moves the waterfall upstream, leaving a narrow, steep-sided gorge."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an oxbow lake forms.",
+      "back": [
+        "Erosion narrows the neck of a meander.",
+        "During high flow, the river cuts through the neck and takes a straighter route.",
+        "Deposition seals the ends of the old bend, leaving an oxbow lake."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a spit forms.",
+      "back": [
+        "Longshore drift transports sediment along the coast.",
+        "Where the coastline changes direction, material continues into open water and is deposited as energy falls.",
+        "The ridge grows outward; its end may curve if wave direction changes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how climate and geology can influence a UK river landscape.",
+      "back": [
+        "Heavy or frequent rainfall raises discharge, giving a river more power to erode and transport material.",
+        "Storms can also increase flooding and floodplain deposition.",
+        "Resistant rock erodes slowly and can produce steeper features.",
+        "Softer or less resistant rock erodes more quickly, helping valleys widen."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how erosion and deposition are connected along a coast.",
+      "back": [
+        "Waves erode cliffs and release sediment.",
+        "Longshore drift transports that sediment along the shoreline.",
+        "Where wave energy falls, the sediment is deposited.",
+        "This can build beaches or spits, so erosion in one place supplies landforms elsewhere."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how natural processes and people combine to shape the River Wye landscape.",
+      "back": [
+        "The Wye rises on Plynlimon, where high rainfall and steep slopes produce rapid runoff and energetic erosion.",
+        "Downstream, tributaries raise discharge and gentler relief allows meanders, floodplains and deposition.",
+        "Carboniferous Limestone creates a steep lower gorge around Symonds Yat, showing that geology modifies the usual downstream pattern.",
+        "Farming and building alter runoff, while natural flood-management work with more than 140 landowners slows and stores water upstream."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why managing one part of the North Norfolk coast can affect another part.",
+      "back": [
+        "Soft cliffs at places such as Happisburgh supply sediment to the coastal system.",
+        "Longshore drift moves this material towards beaches and depositional features such as Blakeney Point.",
+        "Groynes at a defended settlement such as Cromer retain beach material locally.",
+        "This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion."
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "front": "Explain why deposition occurs when a river enters flatter land.",
+      "back": [
+        "Where a local reduction in slope causes flow to slow, the river may lose the ability to carry some of its load and deposit it.",
+        "This is not a rule that a river must get slower downstream: increasing discharge and a larger channel can raise average velocity along the whole river."
+      ]
+    },
+    {
+      "front": "Explain why managing one part of the North Norfolk coast can affect another part.",
+      "back": [
+        "Eroding cliffs supply sediment, and longshore drift moves it along particular coastal frontages. Defences such as groynes retain material locally and may reduce supply farther along that route.",
+        "Blakeney Point grows through westward transport along its frontage, while sediment at Happisburgh generally moves south. These are not one simple Happisburgh-to-Blakeney route.",
+        "A narrower beach farther along a local transport route can expose land to more wave energy, so management needs to consider effects beyond the defended site."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "What is the difference between relief and geology?",
+      "back": [
+        "Relief is the height and shape of the land. Geology concerns its rocks and their structure."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is it incorrect to call every sedimentary rock soft?",
+      "back": [
+        "Resistance depends on the particular rock, its cementation, cracks and layers. Limestone can form steep resistant landscapes even though it is sedimentary."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a glaciated landscape have to be separate from an upland landscape?",
+      "back": [
+        "No. Glaciated describes the effect of former ice, while upland describes relief. The same place can be both."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does freeze–thaw weathering require repeated temperature changes?",
+      "back": [
+        "Water freezes and expands in cracks, then thaws so water can enter again. Repeated cycles widen the cracks; continuous freezing alone is not repeated freeze–thaw."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does chemical weathering affect limestone?",
+      "back": [
+        "Weakly acidic water reacts with and dissolves calcium carbonate, gradually changing and removing the rock."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does sliding differ from rotational slumping?",
+      "back": [
+        "Sliding follows a relatively flat failure surface. Slumping rotates along a curved surface and can leave stepped or tilted material."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is attrition different from abrasion?",
+      "back": [
+        "Attrition changes carried particles as they collide with each other. Abrasion wears the bed, banks or cliff as carried material scrapes or strikes it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What separates suspension from transport in solution?",
+      "back": [
+        "Suspension carries fine solid particles within water. Solution carries dissolved minerals."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is a drainage-basin watershed?",
+      "back": [
+        "The boundary separating land draining to one river system from land draining to another. It often follows high ground."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens at a confluence?",
+      "back": [
+        "A tributary joins another river, generally adding water and increasing its discharge below the junction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can average river velocity increase downstream despite a gentler gradient?",
+      "back": [
+        "Tributaries add discharge and the channel becomes wider and deeper. Less of the flowing water is affected by friction relative to its volume, making the channel more efficient."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does every gorge have to form by waterfall retreat?",
+      "back": [
+        "No. Retreat can form a gorge, but river incision into resistant rock can also produce a steep valley, as illustrated by the lower Wye."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is coarser alluvium often deposited beside the channel during a flood?",
+      "back": [
+        "Water slows sharply as it leaves the channel. Coarser particles settle first, while finer particles travel farther across the floodplain."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is fetch, and how can it affect waves?",
+      "back": [
+        "Fetch is the distance of open water over which wind blows. A longer fetch can allow larger waves to develop when other conditions support it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a bay favour deposition while its headlands experience erosion?",
+      "back": [
+        "Wave refraction concentrates energy on projecting headlands, while the bay is relatively sheltered, allowing sediment to settle."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can salt marsh develop behind a spit?",
+      "back": [
+        "The spit shelters the water, allowing fine sediment to settle. Salt-tolerant vegetation traps additional sediment and helps the marsh build."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should Happisburgh not be described as the direct sediment source for Blakeney Point?",
+      "back": [
+        "Transport directions differ along these frontages. Drift at Happisburgh is generally southward, while the Blakeney frontage has westward transport."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which named North Norfolk place illustrates wind deposition and vegetation trapping sand?",
+      "back": [
+        "Holkham. Wind moves dry sand inland, and plants such as marram grass trap it and bind the dunes."
+      ]
+    }
+  ]
+}

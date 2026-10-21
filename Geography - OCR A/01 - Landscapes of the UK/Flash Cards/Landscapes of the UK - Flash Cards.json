@@ -63,8 +63,8 @@
       "category": "Explain and compare",
       "front": "Explain why deposition occurs when a river enters flatter land.",
       "back": [
-        "The gradient and water velocity decrease.",
-        "The river loses energy and can no longer carry as much sediment, so it **deposits its load**."
+        "Where a local reduction in slope causes flow to slow, the river may lose the ability to carry some of its load and deposit it.",
+        "This is not a rule that a river must get slower downstream: increasing discharge and a larger channel can raise average velocity along the whole river."
       ]
     },
     {
@@ -161,10 +161,135 @@
       "category": "Multi-step application",
       "front": "Explain why managing one part of the North Norfolk coast can affect another part.",
       "back": [
-        "Soft cliffs at places such as Happisburgh supply sediment to the coastal system.",
-        "Longshore drift moves this material towards beaches and depositional features such as Blakeney Point.",
-        "Groynes at a defended settlement such as Cromer retain beach material locally.",
-        "This may reduce the sediment reaching another place, narrowing its beach and increasing exposure to erosion."
+        "Eroding cliffs supply sediment, and longshore drift moves it along particular coastal frontages. Defences such as groynes retain material locally and may reduce supply farther along that route.",
+        "Blakeney Point grows through westward transport along its frontage, while sediment at Happisburgh generally moves south. These are not one simple Happisburgh-to-Blakeney route.",
+        "A narrower beach farther along a local transport route can expose land to more wave energy, so management needs to consider effects beyond the defended site."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the difference between relief and geology?",
+      "back": [
+        "Relief is the height and shape of the land. Geology concerns its rocks and their structure."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is it incorrect to call every sedimentary rock soft?",
+      "back": [
+        "Resistance depends on the particular rock, its cementation, cracks and layers. Limestone can form steep resistant landscapes even though it is sedimentary."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a glaciated landscape have to be separate from an upland landscape?",
+      "back": [
+        "No. Glaciated describes the effect of former ice, while upland describes relief. The same place can be both."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does freeze–thaw weathering require repeated temperature changes?",
+      "back": [
+        "Water freezes and expands in cracks, then thaws so water can enter again. Repeated cycles widen the cracks; continuous freezing alone is not repeated freeze–thaw."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does chemical weathering affect limestone?",
+      "back": [
+        "Weakly acidic water reacts with and dissolves calcium carbonate, gradually changing and removing the rock."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does sliding differ from rotational slumping?",
+      "back": [
+        "Sliding follows a relatively flat failure surface. Slumping rotates along a curved surface and can leave stepped or tilted material."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is attrition different from abrasion?",
+      "back": [
+        "Attrition changes carried particles as they collide with each other. Abrasion wears the bed, banks or cliff as carried material scrapes or strikes it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What separates suspension from transport in solution?",
+      "back": [
+        "Suspension carries fine solid particles within water. Solution carries dissolved minerals."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is a drainage-basin watershed?",
+      "back": [
+        "The boundary separating land draining to one river system from land draining to another. It often follows high ground."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens at a confluence?",
+      "back": [
+        "A tributary joins another river, generally adding water and increasing its discharge below the junction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can average river velocity increase downstream despite a gentler gradient?",
+      "back": [
+        "Tributaries add discharge and the channel becomes wider and deeper. Less of the flowing water is affected by friction relative to its volume, making the channel more efficient."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does every gorge have to form by waterfall retreat?",
+      "back": [
+        "No. Retreat can form a gorge, but river incision into resistant rock can also produce a steep valley, as illustrated by the lower Wye."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is coarser alluvium often deposited beside the channel during a flood?",
+      "back": [
+        "Water slows sharply as it leaves the channel. Coarser particles settle first, while finer particles travel farther across the floodplain."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is fetch, and how can it affect waves?",
+      "back": [
+        "Fetch is the distance of open water over which wind blows. A longer fetch can allow larger waves to develop when other conditions support it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a bay favour deposition while its headlands experience erosion?",
+      "back": [
+        "Wave refraction concentrates energy on projecting headlands, while the bay is relatively sheltered, allowing sediment to settle."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can salt marsh develop behind a spit?",
+      "back": [
+        "The spit shelters the water, allowing fine sediment to settle. Salt-tolerant vegetation traps additional sediment and helps the marsh build."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should Happisburgh not be described as the direct sediment source for Blakeney Point?",
+      "back": [
+        "Transport directions differ along these frontages. Drift at Happisburgh is generally southward, while the Blakeney frontage has westward transport."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which named North Norfolk place illustrates wind deposition and vegetation trapping sand?",
+      "back": [
+        "Holkham. Wind moves dry sand inland, and plants such as marram grass trap it and bind the dunes."
       ]
     }
   ]

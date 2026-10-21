@@ -18,12 +18,20 @@
     {
       "id": "rivers",
       "title": "River landscapes",
-      "description": "River landforms and the River Wye case study",
+      "description": "Drainage basins, downstream patterns and landform formation",
       "icon": "nav-river",
       "sections": [
         {
           "heading": "River landscapes"
-        },
+        }
+      ]
+    },
+    {
+      "id": "river-wye",
+      "title": "River Wye case study",
+      "description": "Named landforms, geology, processes and human influences",
+      "icon": "nav-map",
+      "sections": [
         {
           "heading": "River Wye case study"
         }
@@ -32,12 +40,20 @@
     {
       "id": "coasts",
       "title": "Coastal landscapes",
-      "description": "Coastal landforms and the North Norfolk case study",
+      "description": "Waves, sediment movement and landform formation",
       "icon": "nav-coast",
       "sections": [
         {
           "heading": "Coastal landscapes"
-        },
+        }
+      ]
+    },
+    {
+      "id": "north-norfolk",
+      "title": "North Norfolk coast",
+      "description": "Erosion, deposition, habitats and coastal management",
+      "icon": "nav-coast",
+      "sections": [
         {
           "heading": "North Norfolk coast case study"
         },

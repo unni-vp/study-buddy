@@ -46,8 +46,8 @@
 
 **Answer:**
 
-- The gradient and water velocity decrease.
-- The river loses energy and can no longer carry as much sediment, so it **deposits its load**.
+- A local reduction in gradient **can** slow the flow, reducing its ability to transport sediment.
+- Material that can no longer be carried is **deposited**. This does not mean average velocity must fall along the whole river downstream.
 
 **10.** Explain how a river cliff and slip-off slope form on a meander.
 
