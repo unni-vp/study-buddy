@@ -5,7 +5,7 @@
       "id": "nerves",
       "title": "Nervous control",
       "description": "Trace reflexes and identify brain regions.",
-      "icon": "biology-nerve",
+      "icon": "nav-nerve",
       "sections": [
         {
           "heading": "Keeping internal conditions suitable"
@@ -25,7 +25,7 @@
       "id": "senses",
       "title": "Eyes and temperature",
       "description": "Link focusing, light responses and heat regulation to their mechanisms.",
-      "icon": "biology-cells",
+      "icon": "nav-eye",
       "sections": [
         {
           "heading": "Eye structures and light"
@@ -45,7 +45,7 @@
       "id": "hormones",
       "title": "Hormones and glucose",
       "description": "Locate glands and explain feedback and diabetes.",
-      "icon": "biology-health",
+      "icon": "nav-medicine",
       "sections": [
         {
           "heading": "Endocrine glands and hormone messages"
@@ -65,7 +65,7 @@
       "id": "kidneys",
       "title": "Water balance and kidneys",
       "description": "Explain filtration, ADH, urea and treatment choices.",
-      "icon": "biology-transport",
+      "icon": "nav-droplet",
       "sections": [
         {
           "heading": "Water balance and urea production"
@@ -85,7 +85,7 @@
       "id": "reproduction",
       "title": "Reproduction and fertility",
       "description": "Connect hormones, contraception and IVF.",
-      "icon": "biology-cells",
+      "icon": "nav-dna",
       "sections": [
         {
           "heading": "Puberty and the menstrual cycle"
@@ -102,7 +102,7 @@
       "id": "plants",
       "title": "Plant responses",
       "description": "Explain unequal growth and practical evidence.",
-      "icon": "biology-leaf",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Plant responses to light and gravity"
