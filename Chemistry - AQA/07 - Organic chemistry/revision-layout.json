@@ -5,7 +5,7 @@
       "id": "fuels",
       "title": "Crude oil, fuels and cracking",
       "description": "Connect molecular size, separation and useful products.",
-      "icon": "chemistry-atom",
+      "icon": "nav-fuel",
       "sections": [
         {
           "heading": "Carbon compounds and chemical families"
@@ -28,7 +28,7 @@
       "id": "alkenes",
       "title": "Alkenes and addition",
       "description": "Read displayed structures and follow double-bond reactions.",
-      "icon": "chemistry-atom",
+      "icon": "nav-bond",
       "sections": [
         {
           "heading": "Alkenes and their displayed structures"
@@ -42,7 +42,7 @@
       "id": "alcohols",
       "title": "Alcohols, acids and esters",
       "description": "Compare family reactions and ethanol production.",
-      "icon": "chemistry-atom",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Alcohols: structures, reactions and uses"
@@ -62,7 +62,7 @@
       "id": "polymers",
       "title": "Synthetic and natural polymers",
       "description": "Relate monomers, repeat units and functional groups.",
-      "icon": "chemistry-atom",
+      "icon": "nav-chain",
       "sections": [
         {
           "heading": "Addition polymers and repeat units"
