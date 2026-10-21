@@ -5,7 +5,7 @@
       "id": "fields",
       "title": "Magnets and fields",
       "description": "Use field patterns, compasses and electromagnets.",
-      "icon": "physics-magnetism",
+      "icon": "nav-magnet",
       "sections": [
         {
           "heading": "Magnetic poles and materials"
@@ -22,7 +22,7 @@
       "id": "motors",
       "title": "The motor effect",
       "description": "Calculate forces and explain motors and speakers.",
-      "icon": "physics-magnetism",
+      "icon": "nav-motor",
       "sections": [
         {
           "heading": "The motor effect and Fleming's rule"
@@ -36,7 +36,7 @@
       "id": "generators",
       "title": "Generating signals",
       "description": "Explain induction, generators and microphones.",
-      "icon": "physics-magnetism",
+      "icon": "nav-wave",
       "sections": [
         {
           "heading": "The generator effect"
@@ -50,7 +50,7 @@
       "id": "transformers",
       "title": "Transformers and the Grid",
       "description": "Link changing fields, turn ratios and efficient transmission.",
-      "icon": "physics-electricity",
+      "icon": "nav-transformer",
       "sections": [
         {
           "heading": "How a transformer works"
