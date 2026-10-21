@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "basis": "Original revision-note retrieval practice, reviewed against AQA 8525 first exams 2027. Study Rocket used as a coverage reference, not a source of verbatim questions.",
+  "updates": [
+    {
+      "front": "What is personal data?",
+      "back": [
+        "Information relating to an identifiable person. Removing a name does not necessarily prevent identification if other details can still be linked to that person."
+      ]
+    },
+    {
+      "front": "Name one action that can reduce electronic waste.",
+      "back": [
+        "Repair or reuse a working device so it remains useful for longer. When reuse is no longer suitable, responsible recycling can recover some materials; personal data should be removed first."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Who is a stakeholder in a technology decision?",
+      "back": [
+        "Someone affected by the decision, such as a user, employee, business, government or bystander. They need not own or choose the technology."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does “it uses electricity” need development in an environmental answer?",
+      "back": [
+        "Explain what uses electricity, when it is used and the consequence. For example, remote servers and cooling consume energy, which can cause emissions depending on the energy source."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can location tracking raise different issues during work and outside working hours?",
+      "back": [
+        "Tracking during deliveries may help allocate jobs. Continuous tracking outside work can reveal unrelated private routines. The purpose and duration change the balance."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a person whose name has been removed still be identifiable from a record?",
+      "back": [
+        "Other details, such as a unique route or combined health and location information, may link the record back to them."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Distinguish purpose limitation from data minimisation.",
+      "back": [
+        "Purpose limitation keeps use tied to appropriate stated purposes. Data minimisation limits the information collected to what is needed for those purposes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does storage limitation mean for personal information?",
+      "back": [
+        "Keep identifiable information only as long as needed for its justified purpose, rather than retaining it indefinitely by default."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does strong security not by itself justify collecting every possible detail?",
+      "back": [
+        "Security protects collected data from unauthorised use. It does not establish that collecting unnecessary information is fair or appropriate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should a judgement about government access to communications consider proportionality?",
+      "back": [
+        "Access may help investigate threats, but excessive collection exposes innocent people. The judgement must weigh the particular need against the intrusion and safeguards."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Give a safeguard against misuse of access to private communications, and explain its role.",
+      "back": [
+        "Independent oversight and restricted, authorised access help limit who can inspect information and for what purpose. Limited retention reduces how much remains exposed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a wearable camera affect people who never bought or used it?",
+      "back": [
+        "It may record bystanders and their activities. Their privacy interests still matter even though the owner chose to wear the device."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might sharing workplace fitness data not feel like a free choice?",
+      "back": [
+        "Employees may fear disadvantage if they refuse. A meaningful choice needs protection against unfair consequences, not just a tick box."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should an implant discussion not assume every implant has the same cyber risk?",
+      "back": [
+        "The risk depends on its actual connections and functions. Not every implant connects to the internet or permits remote control."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can software support affect the useful life of an implant or other device?",
+      "back": [
+        "It may need fixes and compatible services to remain safe and functional. Unsupported software can leave weaknesses unresolved even when the hardware still works."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should autonomous-vehicle discussions distinguish driver assistance from full automation?",
+      "back": [
+        "A feature may assist only part of driving or work only under limited conditions. Its capabilities and responsibilities cannot be assumed from the label alone."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How could autonomous vehicles affect different workers in different ways?",
+      "back": [
+        "Some driving jobs may shrink or change, while demand for technical maintenance or software work may grow. Retraining and access to the new roles affect the outcome."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Give a technological and a social reason for growth in cloud use.",
+      "back": [
+        "Higher-bandwidth connections make transfers more practical. Remote collaboration and using several devices increase demand for access to shared files."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does remote storage still have an environmental footprint?",
+      "back": [
+        "Servers, network equipment and user devices need manufacture and power. Data-centre cooling also uses resources. Moving files away from a user’s desk does not remove those impacts."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might keeping a working device be better than immediately buying a more efficient replacement?",
+      "back": [
+        "Making the replacement consumes materials and energy. The operating-energy saving must be weighed against those manufacturing impacts."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does recycling not remove the need to repair and reuse devices?",
+      "back": [
+        "Recycling itself needs processing and cannot recover every material. Repair and reuse can avoid some demand for new manufacture."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What makes a conclusion a reasoned judgement rather than a repeated list?",
+      "back": [
+        "It answers the question by weighing the explained benefits, harms and safeguards in that situation, then states why the balance supports the decision."
+      ]
+    }
+  ]
+}

@@ -88,6 +88,14 @@ For an evaluation:
 
 Avoid bare statements such as “it is good”, “it is dangerous” or “it uses electricity”. Explain **how and why** the effect matters.
 
+### Develop the point before moving on
+
+A claim such as “monitoring is bad for privacy” does not yet explain what happens. Develop the link between **the feature, the information collected and the person affected**.
+
+For example, a company phone that records location throughout the day can reveal an employee's movements outside working hours. That creates a privacy concern because information unrelated to the job is being collected. Restricting tracking to a defined work purpose and appropriate times would reduce unnecessary collection.
+
+The employer might need location during deliveries to allocate nearby jobs. That benefit supports limited work-related use, rather than proving that continuous monitoring is justified. A useful judgement weighs the particular benefit against the remaining harm and explains why a safeguard changes the balance.
+
 ## Mobile technologies
 
 Phones and tablets let people use services while moving around.
@@ -136,6 +144,19 @@ Storing data abroad is not automatically illegal. Organisations must meet the ap
 A provider outage or closure can interrupt access even when the user's own device is working. A suitable recovery plan includes an accessible copy and a way to move important files to another service, rather than assuming continued access is guaranteed.
 
 Organisations should understand the provider's access, retention and data-handling arrangements. Storing data remotely does not automatically transfer ownership to the provider or give it unlimited permission to sell the information. The issue is what the relevant agreement and rules allow, and whether users understand the arrangement.
+
+### Why cloud use has grown
+
+Explain the link between a change and the reason it makes remote storage useful:
+
+| Change | Why it can encourage cloud use |
+|---|---|
+| More reliable, higher-bandwidth connections | Users can transfer large files more conveniently and depend on access from more locations. |
+| Several devices per user | A person can reach the same documents from a phone, tablet or computer. |
+| Remote work and collaboration | People in different places can share a central file rather than send separate copies repeatedly. |
+| Capacity supplied as a service | An organisation can obtain more remote storage without first installing all the equipment itself. Ongoing charges still need consideration. |
+
+These changes explain adoption; they do not remove the costs or risks. Remote servers still require physical equipment, electricity and cooling. The user also depends on suitable access, account security and the provider's arrangements.
 
 ## Wearable technologies
 
@@ -221,3 +242,4 @@ The scheme is more defensible if participation and access arrangements are fair 
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Impact Of Digital Technology](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/impact-of-digital-technology). Coverage reference; checked against the current AQA specification.

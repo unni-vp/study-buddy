@@ -1,0 +1,48 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.8",
+  "sources": [
+    {
+      "title": "Impact Of Digital Technology",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/impact-of-digital-technology"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Explaining and evaluating an impact",
+    "Cloud storage"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "impact-of-digital-technology"
+      ],
+      "decision": "Retained all eight current AQA contexts, including autonomous vehicles absent from the source list. Added cloud-adoption causes and a developed stakeholder example instead of a disconnected list of pros and cons."
+    },
+    {
+      "pages": [
+        "impact-of-digital-technology"
+      ],
+      "decision": "Used the source as a discussion-coverage prompt, not legal guidance. Did not import outdated current-law wording, simplistic hacking/cracking definitions, blanket every-essay-three-perspectives rules or detailed copyright-of-algorithms as a required 2027 context."
+    },
+    {
+      "pages": [
+        "impact-of-digital-technology"
+      ],
+      "decision": "Expanded retrieval on privacy principles, indirect stakeholders, proportionality, employment, implants and lifecycle trade-offs. Existing qualified privacy and data-protection explanations retained."
+    }
+  ],
+  "flashcards": {
+    "previous": 28,
+    "added": 20,
+    "refined": 2,
+    "total": 48
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}
