@@ -50,6 +50,12 @@ From 40 g to 50 g is **25% increase**. From 20% to 30% is **10 percentage points
 
 Significant figures start at the first non-zero digit: **0.00340 has three**. Round only at the end; keep intermediate precision. Decimal places and significant figures differ. Follow requested precision and measurement quality: 0.02684 to two significant figures is **0.027**.
 
+### A percentage of a percentage
+
+A 50.0 g sample is **80% pure**. Its mass of the required substance is **50.0 × 0.80 = 40.0 g**. Use that 40.0 g in the mole calculation if the other material does not react in the stated process.
+
+Do not take 80% of the final answer without checking what the percentage describes. Purity concerns the starting sample, percentage yield concerns actual versus theoretical product, and atom economy concerns the balanced reaction.
+
 ## Reading the periodic table
 
 The periodic table arranges elements by increasing **atomic number**, with related properties in columns. Use the key on the actual table supplied.
@@ -322,26 +328,42 @@ Keep time units consistent and do not treat plateau amount as reaction speed.
 For life-cycle totals, sum comparable stages and include the same functional service/lifetime.
 
 ## Energy calculations and signs
+**Reaction energy change = energy needed to break bonds − energy released forming bonds**
 
-**Reaction energy change = energy needed to break bonds − energy released forming bonds**.
+Breaking bonds requires energy. Forming bonds releases energy.
 
-Breaking requires energy; forming releases it.
+- A **negative** result is exothermic.
+- A **positive** result is endothermic.
 
-A negative result is **exothermic**, a positive one **endothermic**.
+Count every bond and equation coefficient using the supplied bond energies.
 
-Count **every bond and equation coefficient** using supplied bond energies.
+### A complete bond-energy example
 
-Example H₂+Cl₂ →2HCl with values H–H436, Cl–Cl243, H–Cl431 kJ mol⁻¹:
+**H₂ + Cl₂ → 2HCl**
 
-- Broken: 436+243 = **679**.
-- Formed: 2×431 = **862**.
-- Change: 679−862 = **−183 kJ mol⁻¹**, exothermic for the stated reaction quantities.
+| Bond | Supplied bond energy |
+|---|---|
+| H–H | 436 kJ/mol |
+| Cl–Cl | 243 kJ/mol |
+| H–Cl | 431 kJ/mol |
 
-For a temperature measurement, **ΔT =final−initial**.
+1. Break one H–H and one Cl–Cl: **436 + 243 = 679 kJ** for the equation amounts.
+2. Form two H–Cl bonds: **2 × 431 = 862 kJ** released.
+3. Energy change: **679 − 862 = −183 kJ** for the equation amounts.
+4. The negative sign shows an **exothermic** change. More energy is released forming bonds than is needed to break them.
 
-Where a question supplies **Q =mcΔT**, use compatible mass/heat-capacity units and distinguish thermal energy gained by solution from reaction energy lost.
+### Temperature change and thermal energy
 
-A supplied calibration or specific heat capacity is needed for a numerical energy calculation; do not invent one.
+**ΔT = final temperature − initial temperature**
+
+Where a question supplies **Q = mcΔT**, use matching units:
+
+- **Q:** thermal energy, in J.
+- **m:** mass being heated, in the mass unit used by the supplied heat capacity.
+- **c:** specific heat capacity, for example J/(g°C).
+- **ΔT:** temperature change, in °C.
+
+Distinguish energy gained by the solution from energy lost by an exothermic reaction. A supplied heat capacity or calibration is needed for a numerical result; do not invent one.
 
 ## Data tables, means and graphs
 
@@ -375,6 +397,16 @@ For a curved rate graph, draw a **tangent at the specified time** and calculate 
 ![A tangent on a gas-production curve gives the rate at its marked point.](../Diagrams/chemical-rate-tangent.svg)
 
 Interpolation uses the measured range. Extrapolation beyond it is less reliable. Correlation does not prove causation. Where relevant, area under a rate–time graph represents total change: check units and axes before assigning meaning.
+
+### Carry gradient units through the calculation
+
+A gas-volume tangent rises from **10 cm³ at 20 s** to **46 cm³ at 50 s**, using two convenient points on the tangent.
+
+1. Change in volume = **46 − 10 = 36 cm³**.
+2. Change in time = **50 − 20 = 30 s**.
+3. Gradient = **36 ÷ 30 = 1.2 cm³/s**.
+
+Those points need not be experimental readings; they lie on the tangent used to estimate rate at the chosen instant. The same numerical slope would have different meaning if the vertical axis were mass rather than gas volume.
 
 ## Algebra, geometry and molecular representations
 
@@ -423,3 +455,14 @@ Molecules are three-dimensional even when displayed on paper. Interpret model ke
 ## Sources
 
 - [AQA Chemistry mathematical requirements](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/mathematical-requirements)
+
+- [PMT: 3.1. Chemical measurements](../Reference Materials/PMT - Maths reference 3.1. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.2. Use of amount of substance in relation to masses of pure substances](../Reference Materials/PMT - Maths reference 3.2. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.3. Yield and atom economy of chemical reactions (chemistry only)](../Reference Materials/PMT - Maths reference 3.3. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.4. Using concentrations of solutions in mol dm3 (chemistry only)](../Reference Materials/PMT - Maths reference 3.4. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.5. Use of amount of substance in relation to volumes of gases (chemistry only)](../Reference Materials/PMT - Maths reference 3.5. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 5.1. Exothermic and endothermic reactions](../Reference Materials/PMT - Maths reference 5.1. - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Amounts Of Substances](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/amounts-of-substances). Cross-checked against the project specification.
+- [Study Rocket: Atom Economy And Yield](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/atom-economy-and-yield). Cross-checked against the project specification.
+- [Study Rocket: Concentrations](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/concentrations). Cross-checked against the project specification.
+- [Study Rocket: Molar Equations](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/molar-equations). Cross-checked against the project specification.

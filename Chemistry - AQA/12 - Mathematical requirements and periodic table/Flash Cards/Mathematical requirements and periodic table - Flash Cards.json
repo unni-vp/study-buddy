@@ -389,6 +389,90 @@
         "Result = **20**.",
         "Units s×cm³ s⁻¹ give **20 cm³**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must 2HCl count as two H–Cl bonds in an energy calculation?",
+      "back": [
+        "Each HCl molecule has one such bond and the coefficient gives two molecules for the equation ratio."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is 679 − 862 = −183 an exothermic result?",
+      "back": [
+        "Forming the new bonds releases more energy than breaking the original bonds requires."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which mass belongs in Q = mcΔT for a warmed solution?",
+      "back": [
+        "The mass of the material whose temperature change and specific heat capacity are being used."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a positive solution temperature change indicate for an insulated exothermic reaction?",
+      "back": [
+        "The solution gains thermal energy while the reaction transfers energy to its surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much desired substance is in 50.0 g of an 80% pure sample?",
+      "back": [
+        "40.0 g, before applying reaction ratios or percentage yield."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do purity and percentage yield differ?",
+      "back": [
+        "Purity is the required substance’s fraction of a sample; yield compares actual product with theoretical product."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient for a tangent rising 36 cm³ over 30 s?",
+      "back": [
+        "1.2 cm³/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must two gradient points be original experimental readings?",
+      "back": [
+        "No. Choose convenient points on the best-fit line or tangent."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a rate answer include the vertical-axis quantity?",
+      "back": [
+        "A mass gradient and a volume gradient describe different measured rates and need different units."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does dividing by a small volume often give a larger concentration?",
+      "back": [
+        "Concentration is amount per unit volume. The same amount in less solution gives more per dm³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is 1 : 1.5 converted to 2 : 3 rather than 1 : 2 in an empirical formula?",
+      "back": [
+        "Both ratio terms must be multiplied by the same factor, preserving their proportions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes relative formula mass from molar mass units?",
+      "back": [
+        "Relative formula mass has no unit; molar mass is usually expressed in g/mol."
+      ]
     }
   ]
 }

@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "Convert 30 cm³ into dm³.",
+      "back": [
+        "0.030 dm³."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Write 0.0006 in standard form.",
+      "back": [
+        "6 ×10⁻⁴."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does an element’s atomic number count?",
+      "back": [
+        "Protons."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the chemical symbol for potassium?",
+      "back": [
+        "K."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the chemical symbol for iron?",
+      "back": [
+        "Fe."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What unit is used for the quantity of substance?",
+      "back": [
+        "Mole, mol."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What volume does one mole of gas occupy at room temperature and pressure in the course approximation?",
+      "back": [
+        "24 dm³."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does ∝ mean?",
+      "back": [
+        "Proportional to."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which graph feature gives instantaneous reaction rate?",
+      "back": [
+        "Tangent gradient."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Convert 0.0025 kg to grams and 500 cm³ to dm³.",
+      "back": [
+        "0.0025 ×1000 = **2.5 g**.",
+        "500/1000 = **0.500 dm³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate (8 ×10⁴)/(2 ×10²).",
+      "back": [
+        "8/2 =4; exponent =4−2 =2.",
+        "**4 ×10²**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A quantity rises from 80 to 100. Calculate percentage increase.",
+      "back": [
+        "(100−80)/80 ×100.",
+        "**25%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Determine protons and electrons in Mg²⁺, atomic number 12.",
+      "back": [
+        "**12 protons**.",
+        "**10 electrons**, after losing two."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An isotope has atomic number 17 and mass number 37. Find neutron count and explain why decimal Ar is not used.",
+      "back": [
+        "Neutrons =37−17 = **20**.",
+        "Ar is a weighted isotope mean, not this individual isotope’s mass number."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Write the formula formed by Al³⁺ and O²⁻.",
+      "back": [
+        "Equal charges require two aluminium ions (+6) and three oxide ions (−6).",
+        "**Al₂O₃**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Write the formula formed by Ca²⁺ and NO₃⁻.",
+      "back": [
+        "Two nitrate ions balance one calcium ion.",
+        "**Ca(NO₃)₂**, retaining the nitrate group."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate Mr of Mg(OH)₂ using Mg=24, O=16 and H=1.",
+      "back": [
+        "24+2×(16+1).",
+        "**58**, with no unit on Mr."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate moles in 7.2 g magnesium, Ar=24.",
+      "back": [
+        "n =7.2/24.",
+        "**0.30 mol**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate mass of 0.15 mol carbon dioxide, Mr=44.",
+      "back": [
+        "Mass =0.15 ×44.",
+        "**6.6 g**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate moles in 240 cm³ gas at room temperature and pressure.",
+      "back": [
+        "n =240/24 000.",
+        "**0.010 mol**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate mass concentration for 3.0 g solute in 200 cm³ solution.",
+      "back": [
+        "Volume = **0.200 dm³**.",
+        "Concentration =3.0/0.200 = **15 g dm⁻³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate percentage yield from actual 6.0 g and theoretical 8.0 g.",
+      "back": [
+        "6.0/8.0 ×100.",
+        "**75%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate Rf from spot distance 18 mm and front distance 30 mm.",
+      "back": [
+        "18/30.",
+        "**0.60**, no unit."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Rearrange c=n/V to make V the subject.",
+      "back": [
+        "Multiply by V: cV=n.",
+        "Divide by c: **V=n/c**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate weighted Ar for 80% isotope mass 10 and 20% isotope mass 11.",
+      "back": [
+        "Weighted total =80×10 +20×11 = **1020**.",
+        "Divide by100.",
+        "**Ar =10.2**; individual atoms still have integer mass numbers."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate nitrogen’s mass percentage in NH₄NO₃, using N=14, H=1, O=16.",
+      "back": [
+        "Mr =2×14 +4×1 +3×16 = **80**.",
+        "Nitrogen contribution = **28**.",
+        "Percentage =28/80 ×100 = **35%**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the number of molecules in 0.20 mol H₂ using 6.02 ×10²³ mol⁻¹, and the number of H atoms.",
+      "back": [
+        "Molecules =0.20 ×6.02 ×10²³ = **1.204 ×10²³**.",
+        "Each molecule contains two atoms.",
+        "H atoms = **2.408 ×10²³** before final requested rounding."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "For 2Mg+O₂ →2MgO, find oxygen moles and MgO mass from 0.10 mol Mg; MgO Mr=40.",
+      "back": [
+        "Oxygen needed =0.10/2 = **0.050 mol**.",
+        "MgO formed = **0.10 mol**.",
+        "Mass =0.10 ×40 = **4.0 g**, if reaction completes with enough oxygen."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Find empirical formula from 2.4 g carbon and 0.6 g hydrogen; Ar values 12 and 1.",
+      "back": [
+        "Carbon moles =2.4/12 = **0.20**. Hydrogen moles =0.6/1 = **0.60**.",
+        "Divide by0.20: ratio **1:3**.",
+        "Empirical formula **CH₃**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An empirical formula is CH₂ and molecular Mr is 56. Determine molecular formula.",
+      "back": [
+        "Empirical mass =12+2 = **14**.",
+        "Multiplier =56/14 = **4**.",
+        "Molecular formula **C₄H₈**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate molar concentration of 2.0 g NaOH in 250 cm³; Mr=40.",
+      "back": [
+        "Moles =2.0/40 = **0.050 mol**.",
+        "Volume = **0.250 dm³**.",
+        "c =0.050/0.250 = **0.200 mol dm⁻³** before rounding to requested precision."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Convert 0.25 mol dm⁻³ sodium carbonate to g dm⁻³, using Na=23, C=12 and O=16.",
+      "back": [
+        "Mr(Na₂CO₃)=46+12+48 = **106**.",
+        "Mass concentration =0.25 ×106.",
+        "**26.5 g dm⁻³**, before final requested rounding."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate atom economy for CaCO₃ →CaO+CO₂ when CaO is desired; masses 100, 56 and 44.",
+      "back": [
+        "Desired contribution = **56**.",
+        "Total product contribution =56+44 = **100**.",
+        "Atom economy =56/100 ×100 = **56%**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A tangent has points (10 s, 8 cm³) and (50 s, 32 cm³). Calculate instantaneous rate.",
+      "back": [
+        "ΔV =32−8 = **24 cm³**.",
+        "Δt =50−10 = **40 s**.",
+        "Rate =24/40 = **0.60 cm³ s⁻¹**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A line passes through (2, 7) and (8, 19). Find gradient and intercept.",
+      "back": [
+        "m =(19−7)/(8−2)= **2**.",
+        "7=2×2+c, so **c=3**.",
+        "y= **2x+3**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Measurements 18.9, 19.0 and 19.1 cm³ are concordant. Calculate their mean and range.",
+      "back": [
+        "Mean =(18.9+19.0+19.1)/3 = **19.0 cm³**.",
+        "Range =19.1−18.9 = **0.2 cm³**.",
+        "Report precision consistently with the measurement resolution."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Counts 1, 2 and 3 have frequencies 2, 5 and 3. Calculate the mean count.",
+      "back": [
+        "Weighted total =1×2 +2×5 +3×3 = **21**.",
+        "Total frequency = **10**.",
+        "Mean =21/10 = **2.1**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate surface area and volume of a cube with side 2 cm.",
+      "back": [
+        "Surface =6×2² = **24 cm²**.",
+        "Volume =2³ = **8 cm³**.",
+        "SA:V =24:8 = **3:1**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "For 2Mg+O₂ →2MgO, a mixture has 0.30 mol Mg and 0.10 mol O₂. Identify limiting reagent and amounts left/formed.",
+      "back": [
+        "Compare moles/coefficient: Mg 0.30/2=0.15; oxygen 0.10/1=0.10.",
+        "**Oxygen limits**.",
+        "It uses **0.20 mol Mg**, leaving **0.10 mol Mg**.",
+        "Forms **0.20 mol MgO**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 25.0 cm³ NaOH sample requires 15.0 cm³ of 0.100 mol dm⁻³ H₂SO₄. Calculate NaOH concentration.",
+      "back": [
+        "Acid moles =0.100×0.0150 = **0.00150 mol**.",
+        "H₂SO₄+2NaOH →Na₂SO₄+2H₂O gives 1:2 ratio.",
+        "NaOH moles = **0.00300 mol**.",
+        "c =0.00300/0.0250 = **0.120 mol dm⁻³**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Use H–H436, Cl–Cl243 and H–Cl431 kJ mol⁻¹ to calculate energy change for H₂+Cl₂ →2HCl.",
+      "back": [
+        "Broken bonds:436+243 = **679 kJ mol⁻¹**.",
+        "Formed bonds:2×431 = **862 kJ mol⁻¹**.",
+        "Change =679−862 = **−183 kJ mol⁻¹**.",
+        "Negative means **exothermic**, for the reaction quantities shown."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 2 cm cube is cut into eight 1 cm cubes. Compare total volume and exposed surface area.",
+      "back": [
+        "Original volume = **8 cm³** and surface = **24 cm²**.",
+        "New total volume =8×1 = **8 cm³**, unchanged.",
+        "New total surface =8×6 = **48 cm²**, doubled.",
+        "More exposed area can increase solid reaction rate without adding substance."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how to extract a rate from a curved chemical graph without confusing it with yield.",
+      "back": [
+        "Draw tangent at the specified time.",
+        "Calculate Δquantity/Δtime on a large triangle using actual scales.",
+        "Give correct rate units.",
+        "Final curve height measures total amount, not instantaneous speed."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Using the same temperature and pressure, determine oxygen needed for 120 cm³ hydrogen in 2H₂+O₂ →2H₂O, and hydrogen moles at room conditions.",
+      "back": [
+        "Gas-volume ratio H₂:O₂ = **2:1**.",
+        "Oxygen required =120/2 = **60 cm³**.",
+        "Hydrogen moles =120/24 000.",
+        "**0.0050 mol**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 10 g 18-carat gold alloy is recycled with 90% of its gold recovered. Calculate gold content and recovery.",
+      "back": [
+        "Gold fraction =18/24 = **0.75**.",
+        "Original gold =10×0.75 = **7.5 g**.",
+        "Recovery =7.5×0.90.",
+        "**6.75 g gold**, before rounding to requested precision."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A gas-production rate rises linearly from 0 to 8 cm³ s⁻¹ over 5 seconds. Calculate gas produced from the rate-time graph.",
+      "back": [
+        "Total amount is the **area under the rate-time graph**.",
+        "Triangle area =½×5×8.",
+        "Result = **20**.",
+        "Units s×cm³ s⁻¹ give **20 cm³**."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Why must 2HCl count as two H–Cl bonds in an energy calculation?",
+      "back": [
+        "Each HCl molecule has one such bond and the coefficient gives two molecules for the equation ratio."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is 679 − 862 = −183 an exothermic result?",
+      "back": [
+        "Forming the new bonds releases more energy than breaking the original bonds requires."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which mass belongs in Q = mcΔT for a warmed solution?",
+      "back": [
+        "The mass of the material whose temperature change and specific heat capacity are being used."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a positive solution temperature change indicate for an insulated exothermic reaction?",
+      "back": [
+        "The solution gains thermal energy while the reaction transfers energy to its surroundings."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How much desired substance is in 50.0 g of an 80% pure sample?",
+      "back": [
+        "40.0 g, before applying reaction ratios or percentage yield."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do purity and percentage yield differ?",
+      "back": [
+        "Purity is the required substance’s fraction of a sample; yield compares actual product with theoretical product."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient for a tangent rising 36 cm³ over 30 s?",
+      "back": [
+        "1.2 cm³/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must two gradient points be original experimental readings?",
+      "back": [
+        "No. Choose convenient points on the best-fit line or tangent."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a rate answer include the vertical-axis quantity?",
+      "back": [
+        "A mass gradient and a volume gradient describe different measured rates and need different units."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does dividing by a small volume often give a larger concentration?",
+      "back": [
+        "Concentration is amount per unit volume. The same amount in less solution gives more per dm³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is 1 : 1.5 converted to 2 : 3 rather than 1 : 2 in an empirical formula?",
+      "back": [
+        "Both ratio terms must be multiplied by the same factor, preserving their proportions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes relative formula mass from molar mass units?",
+      "back": [
+        "Relative formula mass has no unit; molar mass is usually expressed in g/mol."
+      ]
+    }
+  ]
+}
