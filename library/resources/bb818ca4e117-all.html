@@ -47,6 +47,10 @@
 <p>A fixed desktop used for large transfers may benefit from a stable wired connection. A tablet carried around a classroom needs mobility, so wireless access is more practical. Wireless performance can fall when walls weaken the signal or many nearby devices compete for access.</p>
 <p>Copper carries electrical signals and is often economical for shorter connections within a building. Fibre carries light, supports high bandwidth over longer distances and resists electromagnetic interference. Fibre installation and the equipment at its ends may cost more.</p>
 <p>Neither connection automatically makes transmitted information private. Wired access can still be compromised, and wireless signals may be received outside the intended room. Authentication and encryption address risks that a speed comparison alone does not cover.</p>
+<h3>Check the whole connection</h3>
+<p>A connection can only perform as well as its limiting part. Replacing a classroom&#x27;s local cable will not remove a slow internet link outside the school. Many users sending large files can also compete for the same capacity.</p>
+<p><strong>Bandwidth</strong> describes how much data a connection can carry per second. <strong>Latency</strong> is the delay in communication. A video call can suffer from delay even when a connection can transfer a large file quickly. For a fixed workstation, stability may matter most; a moving tablet may need wireless access despite changing signal quality.</p>
+<p>Choose using the actual distance, mobility, cost and workload. A label such as “wired” or “wireless” is not enough to guarantee a particular performance.</p>
 <h2>Protocols</h2>
 <p>A <strong>network protocol</strong> is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.</p>
 <table>
@@ -93,6 +97,16 @@
 <p><strong>IP</strong> identifies destinations and supports routing packets between networks. Different packets may travel by different routes. IP alone does not guarantee that all data arrives in order.</p>
 <p><strong>TCP</strong> manages reliable end-to-end communication. It supports sequencing, detects missing data and arranges retransmission where necessary, helping the receiver reconstruct the data correctly. A destination address answers “where?”, while reliable delivery answers “has the complete data arrived correctly?”.</p>
 <p>An <strong>HTTPS</strong> connection protects web data while it travels and helps authenticate the server connection. That matters when submitting login or payment details. It does not prove that every claim on a website is truthful or that a downloaded file is harmless.</p>
+<h3>Missing and out-of-order data</h3>
+<p>Imagine a file is sent in three numbered parts. The receiver gets part 2, then part 1, while part 3 is missing.</p>
+<table>
+<tr><th>Responsibility</th><th>How it helps in this example</th></tr>
+<tr><td><strong>IP addressing and routing</strong></td><td>Directs packets towards the destination, even when routes differ.</td></tr>
+<tr><td><strong>TCP reliability</strong></td><td>Detects the missing data so it can be sent again.</td></tr>
+<tr><td><strong>TCP ordering</strong></td><td>Reconstructs the data in the intended order rather than arrival order.</td></tr>
+<tr><td><strong>Encryption</strong></td><td>Protects the contents from being read by an interceptor. It solves a different problem from ordering.</td></tr>
+</table>
+<p>Using TCP and IP does <strong>not itself encrypt</strong> the file. Reliable delivery, routing and confidentiality are separate jobs, even when a single application uses all three.</p>
 <h2>Why network security matters</h2>
 <p>Network security protects systems and data from unauthorised access, alteration, damage and disruption. A strong design uses several controls because each deals with different risks.</p>
 <p>Possible consequences of weak security include data theft, changed files, unavailable services, financial loss and damage to reputation.</p>
@@ -160,4 +174,8 @@
 <ul>
 <li><a href="../../Computer%20Science%20-%20AQA/05%20-%20Fundamentals%20of%20computer%20networks/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
 <li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/computer-networks">Study Rocket: Computer Networks</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-protocols">Study Rocket: Network Protocols</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-security">Study Rocket: Network Security</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-topologies">Study Rocket: Network Topologies</a>. Coverage reference; checked against the current AQA specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

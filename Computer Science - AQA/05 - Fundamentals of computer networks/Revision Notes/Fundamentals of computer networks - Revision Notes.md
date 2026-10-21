@@ -70,6 +70,14 @@ Copper carries electrical signals and is often economical for shorter connection
 
 Neither connection automatically makes transmitted information private. Wired access can still be compromised, and wireless signals may be received outside the intended room. Authentication and encryption address risks that a speed comparison alone does not cover.
 
+### Check the whole connection
+
+A connection can only perform as well as its limiting part. Replacing a classroom's local cable will not remove a slow internet link outside the school. Many users sending large files can also compete for the same capacity.
+
+**Bandwidth** describes how much data a connection can carry per second. **Latency** is the delay in communication. A video call can suffer from delay even when a connection can transfer a large file quickly. For a fixed workstation, stability may matter most; a moving tablet may need wireless access despite changing signal quality.
+
+Choose using the actual distance, mobility, cost and workload. A label such as “wired” or “wireless” is not enough to guarantee a particular performance.
+
 ## Protocols
 
 A **network protocol** is an agreed set of rules for communication. Both ends must agree how data is formatted, addressed, sent and received.
@@ -128,6 +136,19 @@ SMTP and IMAP are not alternative names for the same step. One handles sending; 
 **TCP** manages reliable end-to-end communication. It supports sequencing, detects missing data and arranges retransmission where necessary, helping the receiver reconstruct the data correctly. A destination address answers “where?”, while reliable delivery answers “has the complete data arrived correctly?”.
 
 An **HTTPS** connection protects web data while it travels and helps authenticate the server connection. That matters when submitting login or payment details. It does not prove that every claim on a website is truthful or that a downloaded file is harmless.
+
+### Missing and out-of-order data
+
+Imagine a file is sent in three numbered parts. The receiver gets part 2, then part 1, while part 3 is missing.
+
+| Responsibility | How it helps in this example |
+|---|---|
+| **IP addressing and routing** | Directs packets towards the destination, even when routes differ. |
+| **TCP reliability** | Detects the missing data so it can be sent again. |
+| **TCP ordering** | Reconstructs the data in the intended order rather than arrival order. |
+| **Encryption** | Protects the contents from being read by an interceptor. It solves a different problem from ordering. |
+
+Using TCP and IP does **not itself encrypt** the file. Reliable delivery, routing and confidentiality are separate jobs, even when a single application uses all three.
 
 ## Why network security matters
 
@@ -222,3 +243,7 @@ Packets may take different routes. TCP helps the receiving host detect missing d
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Computer Networks](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/computer-networks). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Network Protocols](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-protocols). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Network Security](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-security). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Network Topologies](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-topologies). Coverage reference; checked against the current AQA specification.

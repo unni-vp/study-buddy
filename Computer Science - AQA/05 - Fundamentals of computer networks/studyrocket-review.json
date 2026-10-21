@@ -1,0 +1,66 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.5",
+  "sources": [
+    {
+      "title": "Computer Networks",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/computer-networks"
+    },
+    {
+      "title": "Network Protocols",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-protocols"
+    },
+    {
+      "title": "Network Security",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-security"
+    },
+    {
+      "title": "Network Topologies",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/network-topologies"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Wired and wireless networks",
+    "Protocols"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "computer-networks"
+      ],
+      "decision": "Retained PAN/LAN/WAN, media comparison and conditional security. Added bandwidth versus delay and whole-route bottlenecks. Did not import fixed 10 m Bluetooth ranges, AirDrop-as-Bluetooth-only, or speed-of-light as a complete throughput explanation."
+    },
+    {
+      "pages": [
+        "network-topologies"
+      ],
+      "decision": "Reviewed bus/star source page; these topologies are not named requirements of revised AQA 3.5. Did not add a compulsory topology section or flashcards."
+    },
+    {
+      "pages": [
+        "network-protocols"
+      ],
+      "decision": "Kept the six required protocol names and four layers. Added an original lost/out-of-order data example and routing/reliability/encryption distinction. FTP/UDP and detailed Ethernet/Wi-Fi protocol families were not added as required material."
+    },
+    {
+      "pages": [
+        "network-security"
+      ],
+      "decision": "Retained accurate MAC spoofing and HTTPS limits. Did not import permanent-unchangeable MAC address or blanket encrypted-messaging guarantees. Added focussed cards on each security control’s distinct job."
+    }
+  ],
+  "flashcards": {
+    "previous": 22,
+    "added": 21,
+    "refined": 2,
+    "total": 43
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

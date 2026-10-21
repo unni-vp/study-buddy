@@ -112,9 +112,7 @@
       "category": "Apply and calculate",
       "front": "Explain how MAC address filtering controls network access and give one limitation.",
       "back": [
-        "It compares a device's network-adapter address with an allow/block list.",
-        "The network permits or rejects the device based on the rule.",
-        "A MAC address can be copied or spoofed, so filtering should not be used alone."
+        "Filtering compares an adapter’s MAC address with allow or block rules. It controls devices rather than identifying their current users. An address can be copied or spoofed, so use it with authentication and encryption."
       ]
     },
     {
@@ -130,9 +128,7 @@
       "category": "Apply and calculate",
       "front": "Explain why protocols are needed.",
       "back": [
-        "Devices may use different hardware and software.",
-        "Protocols provide agreed rules for formatting, addressing and transmitting data.",
-        "Following the same rules allows devices to understand one another."
+        "Protocols provide agreed communication rules so different devices can interpret exchanged data. The rules can cover formatting, addressing, transmission and responses to errors; each protocol handles its particular part of the job."
       ]
     },
     {
@@ -180,6 +176,153 @@
         "Each LAN can be owned and managed by the business.",
         "The inter-city connection spans a wide geographical area.",
         "It is likely to use telecommunications infrastructure owned or managed by other organisations."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Expand TCP and name its TCP/IP layer.",
+      "back": [
+        "Transmission Control Protocol; the transport layer. It supports reliable end-to-end communication."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Expand IP and name its TCP/IP layer.",
+      "back": [
+        "Internet Protocol; the internet layer. It supports addressing and routing packets."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Expand HTTP and HTTPS.",
+      "back": [
+        "HTTP means Hypertext Transfer Protocol. HTTPS means Hypertext Transfer Protocol Secure and protects web communication using an encrypted connection."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Expand SMTP and IMAP.",
+      "back": [
+        "SMTP means Simple Mail Transfer Protocol. IMAP means Internet Message Access Protocol."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does reading an email on a phone and seeing its read status on a laptop point to IMAP?",
+      "back": [
+        "IMAP manages a server-held mailbox and synchronises message status and folders across clients. SMTP handles sending instead."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Packets arrive out of order and one is missing. Which protocol supports detecting the loss and reconstructing the ordered data?",
+      "back": [
+        "TCP. It supports retransmission of missing data and reconstruction in the correct order. IP provides addressing and routing."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do TCP and IP alone make the contents of a message unreadable to an interceptor?",
+      "back": [
+        "No. Reliability and routing are different from encryption. A suitable encrypted connection is needed to protect readable contents."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can an HTTPS phishing site still be dangerous?",
+      "back": [
+        "Encryption protects the connection to that site, but does not prove that its owner is trustworthy. A fake site can still request and steal information."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the difference between plaintext and ciphertext?",
+      "back": [
+        "Plaintext is readable original data. Ciphertext is the encrypted form, which requires the appropriate decryption process and key to recover."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does encryption stop someone intercepting network traffic?",
+      "back": [
+        "It aims to stop an interceptor understanding the contents without the appropriate key. Interception itself can still occur."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Expand MAC in MAC address filtering.",
+      "back": [
+        "Media Access Control. Filtering compares network-adapter addresses with configured rules to permit or block devices."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does allowing a device’s MAC address not prove who is using it?",
+      "back": [
+        "The rule identifies an allowed adapter address rather than a person. Someone else may use that device, and addresses can also be spoofed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What can happen if a firewall rule is too permissive or too restrictive?",
+      "back": [
+        "A permissive rule may allow unwanted traffic. An overly restrictive rule may block legitimate work. Rules must suit the intended service."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a PAN differ from a LAN in a phone-and-earbuds example?",
+      "back": [
+        "The Bluetooth connection forms a short-range network around one person. A LAN connects devices across a local area such as a home or school."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a LAN not become a WAN just because it contains many computers?",
+      "back": [
+        "LAN and WAN describe geographical scale and management, rather than a fixed maximum number of devices."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might fibre suit a long link near equipment producing electromagnetic interference?",
+      "back": [
+        "Fibre carries light and resists electromagnetic interference. It also supports high bandwidth over long distances, though installation may cost more."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can replacing a local cable fail to improve internet download speed?",
+      "back": [
+        "Another part of the route may be the bottleneck, such as the internet connection or remote server. The local cable is only one part of the journey."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Distinguish bandwidth from latency.",
+      "back": [
+        "Bandwidth is the amount of data a connection can carry per second. Latency is communication delay. A high-bandwidth connection can still have noticeable delay."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Name the receiving-device TCP/IP layers in the order data passes up to its application.",
+      "back": [
+        "Link, internet, transport, application. The sender processes the layers in the opposite direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the job of the link layer, and which components belong there?",
+      "back": [
+        "It handles the local connection and network hardware. The network interface card and operating-system device drivers operate here."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the local network hardware change without redesigning the email protocol?",
+      "back": [
+        "Layers separate responsibilities behind agreed interfaces. The link layer can change while the application still uses its existing email rules."
       ]
     }
   ]
