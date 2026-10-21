@@ -5,7 +5,7 @@
       "id": "numbers",
       "title": "Units and numerical skills",
       "description": "Convert, estimate, round and compare proportions.",
-      "icon": "biology-cells",
+      "icon": "nav-ruler",
       "sections": [
         {
           "heading": "Units, prefixes and standard form"
@@ -22,7 +22,7 @@
       "id": "calculations",
       "title": "Biological calculations",
       "description": "Work with images, rates, efficiencies and inheritance.",
-      "icon": "biology-cells",
+      "icon": "nav-formula",
       "sections": [
         {
           "heading": "Magnification and scale bars"
@@ -39,7 +39,7 @@
       "id": "data",
       "title": "Data, graphs and algebra",
       "description": "Interpret samples, distributions and relationships.",
-      "icon": "biology-leaf",
+      "icon": "nav-graph",
       "sections": [
         {
           "heading": "Averages, spread and frequency tables"
@@ -62,7 +62,7 @@
       "id": "geometry",
       "title": "Geometry and exchange",
       "description": "Calculate area, volume and ratios with correct units.",
-      "icon": "biology-cells",
+      "icon": "nav-geometry",
       "sections": [
         {
           "heading": "Areas, volumes and exchange surfaces"
