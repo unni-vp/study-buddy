@@ -127,6 +127,10 @@ def build_cards(source: Path) -> list[dict[str, object]]:
     supplement = source.parent.parent / "revision-flashcards.json"
     if supplement.exists():
         data = json.loads(supplement.read_text(encoding="utf-8"))
+        # Some subjects have independently curated decks, rather than Q&A extracts.
+        # Preserve that full base instead of replacing it with a smaller parsed bank.
+        if "base_cards" in data:
+            cards = data["base_cards"]
         by_front = {card["front"]: card for card in cards}
         for update in data.get("updates", []):
             front = update["front"]

@@ -36,5 +36,17 @@ class Supplements(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, 'Missing flashcard answer'):
                 build_cards(source)
 
+    def test_curated_deck_is_preserved_instead_of_replaced_by_qa(self):
+        with tempfile.TemporaryDirectory() as folder:
+            topic = Path(folder)
+            (topic/'Questions and Answers').mkdir()
+            source = topic/'Questions and Answers'/'qa.md'
+            source.write_text('## 1 mark\n\n**1.** A different Q&A prompt\n\n**Answer:** A Q&A answer.\n', encoding='utf-8')
+            original = {'category': 'Recall', 'front': 'A curated prompt', 'back': ['Its original answer.']}
+            addition = {'category': 'Recall', 'front': 'A new prompt', 'back': ['A new answer.']}
+            supplement = {'base_cards': [original], 'additions': [addition]}
+            (topic/'revision-flashcards.json').write_text(json.dumps(supplement), encoding='utf-8')
+            self.assertEqual(build_cards(source), [original, addition])
+
 if __name__ == '__main__':
     unittest.main()
