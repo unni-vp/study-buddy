@@ -4,7 +4,7 @@
     {
       "id": "numbers",
       "title": "Number bases and conversions",
-      "icon": "computer-binary",
+      "icon": "nav-binary",
       "description": "Understand place value and convert using clear worked steps.",
       "sections": [
         {
@@ -18,7 +18,7 @@
     {
       "id": "arithmetic",
       "title": "Units and binary arithmetic",
-      "icon": "computer-binary",
+      "icon": "nav-formula",
       "description": "Compare sizes, follow carries and apply logical shifts.",
       "sections": [
         {
@@ -32,7 +32,7 @@
     {
       "id": "text",
       "title": "Character encoding",
-      "icon": "computer-data",
+      "icon": "nav-word",
       "description": "Use character codes and explain ASCII and Unicode.",
       "sections": [
         {
@@ -43,7 +43,7 @@
     {
       "id": "media",
       "title": "Images and sound",
-      "icon": "computer-media",
+      "icon": "nav-media",
       "description": "Understand digital media and work through file-size calculations.",
       "sections": [
         {
@@ -57,7 +57,7 @@
     {
       "id": "compression",
       "title": "Compression",
-      "icon": "computer-compression",
+      "icon": "nav-compress",
       "description": "Compare methods and encode, decode and calculate savings.",
       "sections": [
         {
