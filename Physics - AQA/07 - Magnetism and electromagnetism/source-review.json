@@ -1,0 +1,90 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.7",
+  "sections_refined": [
+    "Current makes a magnetic field",
+    "The generator effect",
+    "Alternators, dynamos and microphones",
+    "Transformer calculations and the National Grid"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "magnetism-and-electromagnetism",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/7-Magnetism-and-Electromagnetism/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/magnetism-and-electromagnetism/",
+      "selection": "Summary Notes",
+      "file": "magnetism-and-electromagnetism-summary-notes.pdf",
+      "pages": 6,
+      "sha256": "3943cb2957b12bb102771afda44c8d77477297d67f5f7d9a5d5841f89ea49729",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all six PMT summary pages and seven SR magnetism pages against 4.7. Added end-on notation, induced-signal comparison, amplitude versus frequency and consistent transformer-ratio example. Existing field, motor, generator-signal and transformer diagrams retained. Rejected SR AC generator called a dynamo, generators explained as motor-effect devices, and induced current asserted without a closed secondary. Omitted moving magnetic-pole location claims and unrequired lamination/eddy-current details."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Magnetism Electric Motors And Loudspeakers",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-electric-motors-and-loudspeakers",
+      "file": "magnetism-electric-motors-and-loudspeakers.txt",
+      "words": 314
+    },
+    {
+      "title": "Magnetism Electromagnetism",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-electromagnetism",
+      "file": "magnetism-electromagnetism.txt",
+      "words": 467
+    },
+    {
+      "title": "Magnetism Generators And Microphones",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-generators-and-microphones",
+      "file": "magnetism-generators-and-microphones.txt",
+      "words": 329
+    },
+    {
+      "title": "Magnetism Permanent And Induced Magnets",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-permanent-and-induced-magnets",
+      "file": "magnetism-permanent-and-induced-magnets.txt",
+      "words": 396
+    },
+    {
+      "title": "Magnetism The Generator Effect",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-the-generator-effect",
+      "file": "magnetism-the-generator-effect.txt",
+      "words": 399
+    },
+    {
+      "title": "Magnetism The Motor Effect",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-the-motor-effect",
+      "file": "magnetism-the-motor-effect.txt",
+      "words": 365
+    },
+    {
+      "title": "Magnetism Transformers",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-transformers",
+      "file": "magnetism-transformers.txt",
+      "words": 365
+    }
+  ],
+  "decisions": [
+    "Reviewed all six PMT summary pages and seven SR magnetism pages against 4.7. Added end-on notation, induced-signal comparison, amplitude versus frequency and consistent transformer-ratio example. Existing field, motor, generator-signal and transformer diagrams retained. Rejected SR AC generator called a dynamo, generators explained as motor-effect devices, and induced current asserted without a closed secondary. Omitted moving magnetic-pole location claims and unrequired lamination/eddy-current details.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 35,
+    "added": 14,
+    "refined": 0,
+    "after": 49
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

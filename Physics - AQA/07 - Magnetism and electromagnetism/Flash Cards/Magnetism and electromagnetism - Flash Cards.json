@@ -286,6 +286,104 @@
         "The forces act at **different positions** and create moments in the same rotational sense.",
         "In a simple DC motor, a split-ring commutator reverses coil current each half-turn to maintain rotation."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does a dot mean for current viewed end-on?",
+      "back": [
+        "Conventional current coming out of the page."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What field direction surrounds current coming out of the page?",
+      "back": [
+        "Anticlockwise, using the right-hand grip rule."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What field direction surrounds current going into the page?",
+      "back": [
+        "Clockwise."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does the solenoid grip rule follow current around the turns?",
+      "back": [
+        "The wire carries current around the coil, while the thumb gives its axial field and north-pole direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens when a magnet is held still inside a stationary coil?",
+      "back": [
+        "There is no sustained induced potential difference because the linked field is not changing."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does pulling a north pole out compare with pushing it in?",
+      "back": [
+        "It reverses the induced polarity when the meter connections are unchanged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can swapping meter leads complicate induction comparisons?",
+      "back": [
+        "It reverses the displayed sign independently of the magnet’s movement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What usually happens to an induction pulse when the same motion is faster?",
+      "back": [
+        "It becomes larger and briefer."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a stronger generator field at unchanged rotation speed increase frequency?",
+      "back": [
+        "No. It increases peak potential difference; rotation rate determines cycle frequency."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does a louder same-pitch sound affect a microphone signal?",
+      "back": [
+        "It generally increases signal amplitude without changing frequency."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What output comes from 240 V with 600 primary and 150 secondary turns?",
+      "back": [
+        "60 V."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What ideal input current supplies 60 V at 2.0 A from a 240 V primary?",
+      "back": [
+        "0.50 A, since power is 120 W on both sides."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why cannot an ideal transformer increase both voltage and current by the same factor?",
+      "back": [
+        "Their product is power, which must be conserved."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why keep current fixed when comparing solenoid turns?",
+      "back": [
+        "Otherwise a change in field strength could be caused by current as well as turn count."
+      ]
     }
   ]
 }

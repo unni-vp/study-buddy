@@ -48,6 +48,12 @@ Think of several people pushing the same object: a coil arranges many wire secti
 
 Electromagnets are useful because they can be **switched on and off** and their strength can be varied. In an electromagnetic relay, current in a control coil attracts an iron armature, closing a separate contact. When the coil current stops, a spring can reopen the contact. In a scrapyard crane, switching off releases the load.
 
+### Read the pattern before choosing a rule
+
+For a straight wire viewed end-on, **a dot** represents current coming out of the page, like an arrow tip. **A cross** represents current going into the page, like its tail. The right-hand grip rule then gives anticlockwise field lines for current out of the page and clockwise lines for current into it.
+
+For a solenoid, consider current **around the turns**, rather than treating its axis as the current direction. More turns packed into the same length reinforce the internal field. Adding turns while changing the current or coil dimensions is not a fair one-variable comparison.
+
 ## The motor effect and Fleming's rule
 
 A current-carrying conductor in a magnetic field experiences a **force**. The conductor and the magnet exert forces on one another. This is the **motor effect**.
@@ -120,6 +126,18 @@ Imagine pushing a door against a spring: a response pushes back against the chan
 
 Do not say that induction needs a wire to move in every case: a **changing field around a stationary coil** can induce potential difference too.
 
+### Diagnose the signal from the change
+
+| Action in the same magnet-and-coil setup | Expected observation |
+|---|---|
+| Hold the magnet still inside the coil. | There is no sustained induced potential difference. |
+| Push the north pole in. | A pulse occurs with one polarity. |
+| Pull the north pole out. | A pulse occurs with the opposite polarity. |
+| Push the south pole in at the same speed. | The polarity reverses compared with pushing the north pole in. |
+| Move the same pole faster along the same path. | The pulse is generally larger and briefer. |
+
+Keep the meter connections the same when comparing signs. Swapping leads also reverses the reading, so a minus sign by itself does not identify which pole moved.
+
 ## Alternators, dynamos and microphones
 
 | Device | Mechanism | Output or effect |
@@ -135,6 +153,12 @@ For a simple rotating-coil AC generator, potential difference is greatest when t
 Faster rotation generally raises both **peak potential difference and frequency**. Stronger magnets or more turns can raise amplitude without increasing rotation frequency.
 
 **Microphone sequence:** sound pressure changes → diaphragm/coil vibrates → field linked with the coil changes → induced electrical signal. **Speaker sequence:** electrical signal → force on coil → vibrating cone → sound. A microphone uses the generator effect; a speaker uses the motor effect.
+
+### Amplitude and frequency carry different information
+
+A faster rotating coil makes more electrical cycles each second, increasing **frequency** as well as usually increasing peak potential difference. A stronger field at the **same rotation speed** increases the peak without increasing the number of cycles per second.
+
+Similarly, a louder sound can produce a larger microphone signal without a higher pitch. Increasing the sound's frequency changes the signal frequency. Do not use “bigger signal” to describe both effects without naming which measurement changes.
 
 ## How a transformer works
 
@@ -207,6 +231,17 @@ Do not apply the ideal equation unchanged when losses are specified.
 
 Use the full chain: **higher voltage → lower current at the same power → less I²R heating**. A high voltage alone is not a complete explanation of reduced loss. Transmission equipment needs insulation and safe separation because the voltages are hazardous.
 
+### Use one consistent primary–secondary ratio
+
+A transformer has **600 primary turns** and **150 secondary turns**, with **240 V** input.
+
+1. Secondary-to-primary turns ratio = **150 ÷ 600 = 0.25**.
+2. Output potential difference = **240 × 0.25 = 60 V**.
+3. If output current is **2.0 A**, output power = **60 × 2.0 = 120 W**.
+4. For an ideal transformer, input current = **120 ÷ 240 = 0.50 A**.
+
+Voltage falls while available current for the same ideal power rises. If both voltage and current were multiplied by four, output power would be sixteen times greater: that would violate the stated energy balance.
+
 ## Avoid these mistakes
 
 - Attraction alone does not prove both objects are permanent magnets.
@@ -221,3 +256,12 @@ Use the full chain: **higher voltage → lower current at the same power → les
 ## Sources
 
 - [AQA Magnetism and electromagnetism specification](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content/magnetism-and-electromagnetism)
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Magnetism Electric Motors And Loudspeakers](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-electric-motors-and-loudspeakers). Cross-checked against the project specification.
+- [Study Rocket: Magnetism Electromagnetism](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-electromagnetism). Cross-checked against the project specification.
+- [Study Rocket: Magnetism Generators And Microphones](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-generators-and-microphones). Cross-checked against the project specification.
+- [Study Rocket: Magnetism Permanent And Induced Magnets](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-permanent-and-induced-magnets). Cross-checked against the project specification.
+- [Study Rocket: Magnetism The Generator Effect](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-the-generator-effect). Cross-checked against the project specification.
+- [Study Rocket: Magnetism The Motor Effect](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-the-motor-effect). Cross-checked against the project specification.
+- [Study Rocket: Magnetism Transformers](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/magnetism-and-electromagnetism/magnetism-transformers). Cross-checked against the project specification.
