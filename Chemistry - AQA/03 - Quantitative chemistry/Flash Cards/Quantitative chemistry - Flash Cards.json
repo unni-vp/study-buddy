@@ -214,6 +214,104 @@
         "2x = 1.5x + 40.5, so 0.5x = 40.5.",
         "**x = 81.0**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many moles of ions correspond to one mole of NaCl formula units?",
+      "back": [
+        "Two: one mole of Na⁺ and one mole of Cl⁻."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should solid NaCl not be described as separate molecules?",
+      "back": [
+        "It is a giant ionic lattice. Its formula gives an ion ratio rather than a discrete molecule."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many moles of oxygen atoms are in one mole of CO₂ molecules?",
+      "back": [
+        "Two moles of oxygen atoms, because each molecule contains two."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What stays constant when a solution is diluted without loss of solute?",
+      "back": [
+        "The amount of solute. Its concentration falls because the final solution volume increases."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does “dilute to 200 cm³” mean add 200 cm³ of water?",
+      "back": [
+        "No. It means make the final solution volume 200 cm³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What concentration results from diluting 50 cm³ of 0.400 mol/dm³ solution to 200 cm³?",
+      "back": [
+        "0.100 mol/dm³. The volume is four times larger while the solute amount is unchanged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "To collect 8.0 g at 80% yield, what theoretical mass is required?",
+      "back": [
+        "10 g: divide 8.0 by 0.80."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why divide by the yield fraction when working backwards?",
+      "back": [
+        "The collected mass is only that fraction of the theoretical maximum, so division recovers the larger theoretical amount."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does selling a by-product change atom economy for a specified desired product?",
+      "back": [
+        "No. It can improve economics and reduce discarded waste, but the equation-based calculation for that named product is unchanged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a titre have uncertainty from two readings?",
+      "back": [
+        "It is the final reading minus the initial reading, so both contribute uncertainty."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Using additive uncertainties, what follows from two burette readings each uncertain by ±0.05 cm³?",
+      "back": [
+        "The titre has a maximum absolute uncertainty of ±0.10 cm³ under that method."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a larger titre reduce percentage uncertainty for the same reading uncertainty?",
+      "back": [
+        "The same absolute uncertainty is divided by a larger measured volume."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does conservation of mass require the total number of molecules to remain unchanged?",
+      "back": [
+        "No. Atoms are conserved but molecules can be rearranged into different numbers and types."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are equation coefficients not mass ratios?",
+      "back": [
+        "They compare amounts in moles. Different substances have different molar masses, so equal moles need not have equal masses."
+      ]
     }
   ]
 }

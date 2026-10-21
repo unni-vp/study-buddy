@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "How many particles are in one mole of a substance?",
+      "back": [
+        "6.02 × 10²³."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Convert 40.0 cm³ to dm³.",
+      "back": [
+        "0.0400 dm³."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is a limiting reactant?",
+      "back": [
+        "The reactant completely used up, which limits the amount of product."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the volume of one mole of gas at room temperature and pressure.",
+      "back": [
+        "24 dm³."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the relative formula mass of Ca(OH)₂. Aᵣ: Ca = 40, O = 16, H = 1.",
+      "back": [
+        "Mᵣ = 40 + 2 × (16 + 1).",
+        "**Mᵣ = 74**, with no unit."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why magnesium gains mass when it burns in air.",
+      "back": [
+        "Magnesium **reacts with oxygen from the air**.",
+        "The magnesium oxide includes the mass of this oxygen as well as the original magnesium."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why an open flask containing acid and carbonate loses mass during the reaction.",
+      "back": [
+        "**Carbon dioxide gas forms and escapes**.",
+        "Its mass is no longer measured with the flask, although total mass including the gas is conserved."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the amount of substance in 5.6 g iron. Aᵣ: Fe = 56.",
+      "back": [
+        "n = mass ÷ molar mass = 5.6 ÷ 56.",
+        "**0.10 mol**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the mass of 0.15 mol sodium hydroxide, NaOH. Aᵣ: Na = 23, O = 16, H = 1.",
+      "back": [
+        "Mᵣ = 40; mass = 0.15 × 40.",
+        "**6.0 g**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A reaction has theoretical yield 12.0 g and actual yield 9.0 g. Calculate the percentage yield.",
+      "back": [
+        "Yield = (9.0 ÷ 12.0) × 100.",
+        "**75%**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons a reaction may produce less than its theoretical yield.",
+      "back": [
+        "Some product is **lost during transfer or separation**.",
+        "A **reversible reaction may not go to completion**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A solution contains 3.0 g solute in 150 cm³. Calculate its concentration in g/dm³.",
+      "back": [
+        "Volume = 0.150 dm³.",
+        "c = 3.0 ÷ 0.150 = **20 g/dm³**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "The mass of solute is doubled and the final solution volume is halved. How does concentration change? Explain.",
+      "back": [
+        "Concentration becomes **four times greater**.",
+        "c = mass/volume, so the factor is 2 ÷ 0.5 = 4."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the percentage by mass of oxygen in Mg(NO₃)₂. Aᵣ: Mg = 24, N = 14, O = 16.",
+      "back": [
+        "Mᵣ = 24 + 2 × (14 + 3 × 16) = **148**.",
+        "Oxygen contributes 6 × 16 = **96**.",
+        "Percentage = 96/148 × 100 = **64.9%** to 3 significant figures."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the number of molecules in 8.8 g carbon dioxide. Mᵣ: CO₂ = 44.",
+      "back": [
+        "Moles = 8.8 ÷ 44 = **0.20 mol**.",
+        "Molecules = 0.20 × 6.02 × 10²³.",
+        "**1.204 × 10²³ molecules**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Repeated temperature rises are 8.2, 8.4 and 8.6 °C. Calculate the mean and estimate uncertainty as half the range. Explain whether repeating removes an incorrectly calibrated thermometer error.",
+      "back": [
+        "Mean = **8.4 °C**.",
+        "Half-range = (8.6 − 8.2)/2 = **0.2 °C**; report 8.4 ± 0.2 °C.",
+        "Repeating does **not remove systematic calibration error**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the mass of sodium hydroxide in 200 cm³ of 0.250 mol/dm³ solution. Mᵣ: NaOH = 40.",
+      "back": [
+        "Volume = **0.200 dm³**.",
+        "n = cV = 0.250 × 0.200 = **0.0500 mol**.",
+        "Mass = 0.0500 × 40 = **2.00 g**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the volume of 7.0 g nitrogen gas at RTP. Mᵣ: N₂ = 28.",
+      "back": [
+        "n = 7.0/28 = **0.25 mol**.",
+        "V = n × 24.",
+        "**6.0 dm³**, or 6,000 cm³."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calcium carbonate decomposes: CaCO₃ → CaO + CO₂. Calculate the atom economy for producing CaO. Mᵣ: CaCO₃ = 100, CaO = 56, CO₂ = 44.",
+      "back": [
+        "Desired-product formula mass = **56**.",
+        "Total reactant formula mass = **100**.",
+        "Atom economy = 56/100 × 100 = **56%**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Find the mass of aluminium obtained from 20.4 g Al₂O₃. Equation: 2Al₂O₃ → 4Al + 3O₂. Aᵣ: Al = 27, O = 16. Assume complete conversion.",
+      "back": [
+        "Mᵣ Al₂O₃ = 2 × 27 + 3 × 16 = **102**.",
+        "Moles Al₂O₃ = 20.4/102 = **0.200 mol**.",
+        "Ratio 2 : 4 gives **0.400 mol Al**.",
+        "Mass Al = 0.400 × 27 = **10.8 g**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "3.2 g methane reacts with 12.8 g oxygen to produce 8.8 g carbon dioxide and 7.2 g water. Deduce the balanced equation. Mᵣ: CH₄ = 16, O₂ = 32, CO₂ = 44, H₂O = 18.",
+      "back": [
+        "Moles: CH₄ 0.20; O₂ 0.40; CO₂ 0.20; H₂O 0.40.",
+        "Divide by 0.20 to get **1 : 2 : 1 : 2**.",
+        "**CH₄ + 2O₂ → CO₂ + 2H₂O**.",
+        "Atom totals and masses balance: 16.0 g reactants gives 16.0 g products."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Nitrogen and hydrogen react: N₂ + 3H₂ → 2NH₃. Mix 0.20 mol N₂ with 0.30 mol H₂. Identify the limiting reactant and calculate the amount of ammonia and the amount of nitrogen left.",
+      "back": [
+        "0.30 mol H₂ needs 0.30/3 = **0.10 mol N₂**, less than the 0.20 mol available.",
+        "**Hydrogen is limiting**.",
+        "Ammonia formed = 0.30 × 2/3 = **0.20 mol**.",
+        "Nitrogen left = 0.20 − 0.10 = **0.10 mol**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "At the same temperature and pressure, 80 cm³ hydrogen is mixed with 50 cm³ oxygen and ignited. Equation: 2H₂ + O₂ → 2H₂O. Calculate the oxygen volume left after reaction and explain why the equation does not give the volume of liquid water.",
+      "back": [
+        "80 cm³ H₂ needs **40 cm³ O₂**.",
+        "Hydrogen is limiting, so oxygen left = 50 − 40 = **10 cm³**.",
+        "Gas volume ratios equal mole ratios at the **same temperature and pressure**.",
+        "Liquid water is not a gas, so the gas-volume rule cannot give its volume."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A student heats 20.0 g CaCO₃ and collects 8.4 g CaO. Calculate the percentage yield. Equation: CaCO₃ → CaO + CO₂. Mᵣ: CaCO₃ = 100, CaO = 56.",
+      "back": [
+        "CaCO₃ moles = 20.0/100 = **0.200 mol**.",
+        "CaO theoretical moles = 0.200; theoretical mass = 0.200 × 56 = **11.2 g**.",
+        "Yield = 8.4/11.2 × 100.",
+        "**75%**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "For X₂O₃ + 3H₂ → 2X + 3H₂O, the atom economy for X is 75.0%. Calculate Aᵣ of X. Aᵣ: H = 1, O = 16.",
+      "back": [
+        "Let Aᵣ of X = x. Desired mass from equation = **2x**; reactant total = **2x + 54**.",
+        "2x/(2x + 54) = 0.750.",
+        "2x = 1.5x + 40.5, so 0.5x = 40.5.",
+        "**x = 81.0**."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "How many moles of ions correspond to one mole of NaCl formula units?",
+      "back": [
+        "Two: one mole of Na⁺ and one mole of Cl⁻."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should solid NaCl not be described as separate molecules?",
+      "back": [
+        "It is a giant ionic lattice. Its formula gives an ion ratio rather than a discrete molecule."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How many moles of oxygen atoms are in one mole of CO₂ molecules?",
+      "back": [
+        "Two moles of oxygen atoms, because each molecule contains two."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What stays constant when a solution is diluted without loss of solute?",
+      "back": [
+        "The amount of solute. Its concentration falls because the final solution volume increases."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does “dilute to 200 cm³” mean add 200 cm³ of water?",
+      "back": [
+        "No. It means make the final solution volume 200 cm³."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What concentration results from diluting 50 cm³ of 0.400 mol/dm³ solution to 200 cm³?",
+      "back": [
+        "0.100 mol/dm³. The volume is four times larger while the solute amount is unchanged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "To collect 8.0 g at 80% yield, what theoretical mass is required?",
+      "back": [
+        "10 g: divide 8.0 by 0.80."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why divide by the yield fraction when working backwards?",
+      "back": [
+        "The collected mass is only that fraction of the theoretical maximum, so division recovers the larger theoretical amount."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does selling a by-product change atom economy for a specified desired product?",
+      "back": [
+        "No. It can improve economics and reduce discarded waste, but the equation-based calculation for that named product is unchanged."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a titre have uncertainty from two readings?",
+      "back": [
+        "It is the final reading minus the initial reading, so both contribute uncertainty."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Using additive uncertainties, what follows from two burette readings each uncertain by ±0.05 cm³?",
+      "back": [
+        "The titre has a maximum absolute uncertainty of ±0.10 cm³ under that method."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a larger titre reduce percentage uncertainty for the same reading uncertainty?",
+      "back": [
+        "The same absolute uncertainty is divided by a larger measured volume."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does conservation of mass require the total number of molecules to remain unchanged?",
+      "back": [
+        "No. Atoms are conserved but molecules can be rearranged into different numbers and types."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why are equation coefficients not mass ratios?",
+      "back": [
+        "They compare amounts in moles. Different substances have different molar masses, so equal moles need not have equal masses."
+      ]
+    }
+  ]
+}

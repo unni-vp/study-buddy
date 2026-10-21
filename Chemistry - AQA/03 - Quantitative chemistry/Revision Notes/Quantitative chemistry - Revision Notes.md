@@ -60,6 +60,12 @@ The sample contains 11.0 g of CO₂. Its molar mass is 44 g/mol.
 
 Convert kg to g before using a molar mass in g/mol. Keep extra digits during calculations; round the final answer as requested.
 
+### State exactly which particles are counted
+
+One mole of NaCl contains **6.02 × 10²³ formula units**. Each formula unit corresponds to one Na⁺ and one Cl⁻, so it contains one mole of each ion: **two moles of ions in total**. It does not contain separate NaCl molecules in the solid lattice.
+
+Similarly, one mole of CO₂ molecules contains one mole of carbon atoms and two moles of oxygen atoms. The formula tells you how to convert a molecule count into an atom count; the Avogadro constant does not change.
+
 ## Reacting masses and limiting reactants
 
 The balanced equation acts like a recipe. For **2Mg + O₂ → 2MgO**, two moles of magnesium need one mole of oxygen and produce two moles of magnesium oxide.
@@ -149,6 +155,17 @@ A solution contains 5.0 g of NaCl in a final volume of 250 cm³.
 - At fixed volume, doubling the solute doubles concentration.
 - At fixed solute amount, doubling the final solution volume halves concentration. Dilution adds solvent; it does not remove solute.
 
+### Dilution uses the final solution volume
+
+Suppose **50 cm³** of a **0.400 mol/dm³** solution is diluted to a final volume of **200 cm³**.
+
+1. Initial volume = **0.050 dm³**.
+2. Solute amount = **0.400 × 0.050 = 0.0200 mol**.
+3. Final volume = **0.200 dm³**.
+4. New concentration = **0.0200 ÷ 0.200 = 0.100 mol/dm³**.
+
+The amount of solute stays the same while its concentration falls. “Dilute to 200 cm³” means a final solution volume of 200 cm³, not adding 200 cm³ of water.
+
 ## Titration calculations
 
 A titration finds the volume of one solution needed to react exactly with another. Use **concordant titres** to calculate the mean; exclude the rough trial. Follow the tolerance stated in the question.
@@ -217,6 +234,20 @@ Even with a 100% yield, 44% of the reactant mass becomes the other product.
 
 When comparing pathways, use all the supplied evidence: **yield, atom economy, rate, equilibrium position and useful by-products**, as well as costs and energy needs. The highest atom economy is not automatically the best overall choice.
 
+### Working backwards from a yield
+
+A process must provide **8.0 g** of dry product and has an expected yield of **80%**.
+
+**Required theoretical mass = actual mass ÷ (percentage yield ÷ 100)**
+
+1. Convert yield to a fraction: **80 ÷ 100 = 0.80**.
+2. Required theoretical mass = **8.0 ÷ 0.80 = 10 g**.
+3. Use that theoretical mass and the equation ratio to calculate the reactants needed.
+
+Multiplying 8.0 g by 0.80 would predict the collected mass from an 8.0 g theoretical maximum; it would not work backwards to the required starting amount.
+
+Finding a market for a by-product may reduce waste disposal and improve a process economically. It does not change the calculated atom economy **for the specified desired product and equation**.
+
 ## Measurements and uncertainty
 
 Every measurement has uncertainty. Repeats reveal variation; they do not make equipment perfectly accurate.
@@ -234,3 +265,25 @@ Use the uncertainty method requested by the question.
 For this example: 0.2 ÷ 24.4 × 100 = **0.82%**.
 
 Repeating and averaging reduces the effect of **random error**, but not a systematic error such as an incorrectly zeroed balance. Do not discard a result merely because it is inconvenient; investigate a possible anomaly.
+
+### A titre involves two readings
+
+If each burette reading has a stated uncertainty of **±0.05 cm³**, a titre found by subtraction can have a maximum absolute uncertainty of **±0.10 cm³** under the additive method.
+
+For a titre of **20.0 cm³**:
+
+**Percentage uncertainty = 0.10 ÷ 20.0 × 100 = 0.50%**
+
+Use the question's stated method and values. For the same absolute uncertainty, a larger measured titre gives a smaller percentage uncertainty. Averaging repeats does not remove a consistent calibration error.
+
+## Sources
+
+- [PMT: 3.1. Chemical measurements](../Reference Materials/PMT - Summary 3.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.2. Use of amount of substance in relation to masses of pure substances](../Reference Materials/PMT - Summary 3.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.3. Yield and atom economy of chemical reactions (chemistry only)](../Reference Materials/PMT - Summary 3.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.4. Using concentrations of solutions in mol dm3 (chemistry only)](../Reference Materials/PMT - Summary 3.4 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 3.5. Use of amount of substance in relation to volumes of gases (chemistry only)](../Reference Materials/PMT - Summary 3.5 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Amounts Of Substances](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/amounts-of-substances). Cross-checked against the project specification.
+- [Study Rocket: Atom Economy And Yield](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/atom-economy-and-yield). Cross-checked against the project specification.
+- [Study Rocket: Concentrations](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/concentrations). Cross-checked against the project specification.
+- [Study Rocket: Molar Equations](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/molar-equations). Cross-checked against the project specification.

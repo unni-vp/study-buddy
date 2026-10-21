@@ -1,0 +1,141 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.3",
+  "sections_refined": [
+    "Moles and particles",
+    "Concentrations and solution volumes",
+    "Yield and atom economy",
+    "Measurements and uncertainty"
+  ],
+  "pmt_references": [
+    {
+      "title": "3.1. Chemical measurements",
+      "topic": "quantitative-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/3-Quantitative-Chemistry/Summary/3.1. Chemical measurements.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/quantitative-chemistry/",
+      "selection": "Summary Notes",
+      "file": "quantitative-chemistry-3-1-chemical-measurements.pdf",
+      "pages": 2,
+      "sha256": "685f2c1aebcf1a6c634f636522917ee93af712772e4827025a88826d4067a412",
+      "local_path": "Reference Materials\\PMT - Summary 3.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit."
+        }
+      ]
+    },
+    {
+      "title": "3.2. Use of amount of substance in relation to masses of pure substances",
+      "topic": "quantitative-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/3-Quantitative-Chemistry/Summary/3.2. Use of amount of substance in relation to masses of pure substances.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/quantitative-chemistry/",
+      "selection": "Summary Notes",
+      "file": "quantitative-chemistry-3-2-use-of-amount-of-substance-in-relation-to-masses-of-pure-substances.pdf",
+      "pages": 3,
+      "sha256": "505724ae72c1443f0763a4ac716b9173d2a0cfe06f0e58401cc8e6c3df4d9847",
+      "local_path": "Reference Materials\\PMT - Summary 3.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit."
+        }
+      ]
+    },
+    {
+      "title": "3.3. Yield and atom economy of chemical reactions (chemistry only)",
+      "topic": "quantitative-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/3-Quantitative-Chemistry/Summary/3.3. Yield and atom economy of chemical reactions (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/quantitative-chemistry/",
+      "selection": "Summary Notes",
+      "file": "quantitative-chemistry-3-3-yield-and-atom-economy-of-chemical-reactions-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "1b61a8358a2e970dc3b7a58b329f7179749b8411986eb934a183003d7026752e",
+      "local_path": "Reference Materials\\PMT - Summary 3.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit."
+        }
+      ]
+    },
+    {
+      "title": "3.4. Using concentrations of solutions in mol dm3 (chemistry only)",
+      "topic": "quantitative-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/3-Quantitative-Chemistry/Summary/3.4. Using concentrations of solutions in mol dm3 (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/quantitative-chemistry/",
+      "selection": "Summary Notes",
+      "file": "quantitative-chemistry-3-4-using-concentrations-of-solutions-in-mol-dm3-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "1c9d818b49d081ee3e423cdd842027c1bfbe6b3999bb898bc42f69b66e6cd665",
+      "local_path": "Reference Materials\\PMT - Summary 3.4 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit."
+        }
+      ]
+    },
+    {
+      "title": "3.5. Use of amount of substance in relation to volumes of gases (chemistry only)",
+      "topic": "quantitative-chemistry",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/3-Quantitative-Chemistry/Summary/3.5. Use of amount of substance in relation to volumes of gases (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/quantitative-chemistry/",
+      "selection": "Summary Notes",
+      "file": "quantitative-chemistry-3-5-use-of-amount-of-substance-in-relation-to-volumes-of-gases-chemistry-only.pdf",
+      "pages": 2,
+      "sha256": "504ae069a1cd4bbac4eff8f1611856a4eb3d1c8bdb656a1f4fadda3f17e3ec88",
+      "local_path": "Reference Materials\\PMT - Summary 3.5 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Amounts Of Substances",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/amounts-of-substances",
+      "file": "amounts-of-substances.txt",
+      "words": 808
+    },
+    {
+      "title": "Atom Economy And Yield",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/atom-economy-and-yield",
+      "file": "atom-economy-and-yield.txt",
+      "words": 385
+    },
+    {
+      "title": "Concentrations",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/concentrations",
+      "file": "concentrations.txt",
+      "words": 203
+    },
+    {
+      "title": "Molar Equations",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-quantative-chemistry/molar-equations",
+      "file": "molar-equations.txt",
+      "words": 1391
+    }
+  ],
+  "decisions": [
+    "Reviewed all five PMT subsections and retained existing reacting masses, limiting reagent, equation-ratio, titration and gas calculations. Added particle-count meaning, worked dilution, inverse yield and two-reading uncertainty. Rejected SR half-range arithmetic 0.3/2 = 1.5 and incorrect/unbalanced molecule descriptions. Kept molar mass units distinct from unitless relative formula mass, and RTP conditions explicit.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 25,
+    "added": 14,
+    "refined": 0,
+    "after": 39
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
