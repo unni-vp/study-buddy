@@ -62,6 +62,12 @@ If pathogens get through, **white blood cells** defend the body in three main wa
 
 Antibodies and antitoxins are different. Different kinds of white blood cell perform different roles; do not say that every white blood cell performs all three.
 
+### Antigens, antibodies and toxins are different
+
+An **antigen** is a molecule recognised by the immune system, often on a pathogen's surface. An **antibody** is a protein with a binding site complementary to a particular antigen. Binding helps identify or disable the target and supports its destruction.
+
+A **toxin** is a harmful substance released by some bacteria. An **antitoxin** neutralises that substance. Removing a toxin does not necessarily remove the bacteria producing it, which explains why neutralising damage and eliminating its cause are different jobs.
+
 ## Vaccination
 
 A vaccine gives the immune system a safe first encounter with a pathogen's antigens, like showing security staff a photograph before the intruder arrives.
@@ -89,6 +95,15 @@ When evaluating a vaccination programme, compare the reduction in disease and sp
 **Antibiotic resistance:** resistant bacteria survive an antibiotic that previously worked. This makes infections harder to treat. Developing new treatments also takes time and money.
 
 The key distinction is **treating a cause versus relieving a symptom**. An appropriate antibiotic targets a bacterial cause. A painkiller targets a symptom.
+
+### How resistance spreads through a population
+
+1. Bacteria vary. A **random mutation** may make a bacterium resistant before treatment begins.
+2. An antibiotic kills susceptible bacteria or prevents them reproducing.
+3. Resistant bacteria are more likely to survive the treatment and reproduce.
+4. Their offspring inherit resistance, increasing the resistant proportion of the population.
+
+The antibiotic **selects** resistant bacteria; it does not make each bacterium deliberately adapt. It is the **bacteria**, rather than the patient's body, that become resistant. Avoiding unnecessary antibiotic use reduces this selection pressure. Follow the prescribed treatment instructions rather than treating a viral infection with an antibiotic.
 
 ## Developing new drugs
 
@@ -129,6 +144,14 @@ Difference = 60 − 35 = **25 percentage points**.
 
 Consider sample size, side effects and whether the groups were comparable before judging the drug.
 
+### What makes trial evidence convincing?
+
+Random allocation and a large sample reduce the chance that differences such as age or severity explain the result. **Blinding** addresses a different problem: knowledge of the treatment might influence a patient's reporting or a researcher's judgement.
+
+A placebo can still be associated with improvement because of expectations, recovery over time or other care. “No active drug” does not mean no participant can improve. Compare improvements and adverse effects in both groups, using percentages when the group sizes differ.
+
+Peer review checks the reasoning, methods and analysis. It does not mean another scientist automatically repeats every trial or proves that a treatment has no risk.
+
 ## Monoclonal antibodies
 
 **Monoclonal antibodies** come from one clone of cells. They bind to **one specific binding site on one protein antigen**. Think of a batch of identical address labels: each directs a test or treatment to the same target.
@@ -157,6 +180,12 @@ The two parent cells contribute different useful features. A lymphocyte makes th
 Targeted treatment aims to reduce damage to other cells compared with a less selective treatment. However, monoclonal antibodies can still cause **side effects**, and not every cancer has a suitable target. Early expectations of widespread treatment were limited by unexpected side effects. Judge any particular treatment from the evidence supplied.
 
 For an unfamiliar test, identify **the antigen → the antibody that binds it → the visible signal or delivered treatment**. You do not need to memorise a detailed mechanism for every commercial test.
+
+### Following the signal in a pregnancy test
+
+The target is **hCG**, a hormone present at raised levels in urine during pregnancy. Labelled antibodies bind to hCG and move along the strip. If the complexes are captured at a test line, the concentrated label produces a visible signal. A separate control signal checks that liquid moved through the test properly.
+
+The key idea is **specific binding followed by a detectable signal**. The antibody does not itself become a hormone, and the test detects a substance rather than directly detecting an embryo. For any unfamiliar test, use the arrangement supplied in the question.
 
 ## Plant infections and deficiencies
 
@@ -192,3 +221,11 @@ Plants have barriers, chemicals and adaptations that discourage attackers. Think
 | Mechanical adaptations | **Thorns and hairs** deter animals; leaves may **droop or curl when touched**; **mimicry** can trick animals into avoiding a plant. |
 
 Link each feature to how it protects the plant. A thorn deters feeding; it does not make antibodies or kill every pathogen.
+
+## Sources
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Infection And Response - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Defence Systems](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/defence-systems). Cross-checked against the project specification.
+- [Study Rocket: Diseases](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/diseases). Cross-checked against the project specification.
+- [Study Rocket: Drugs](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/drugs). Cross-checked against the project specification.
+- [Study Rocket: Monoclonal Antibodies And Plant Diseases](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/monoclonal-antibodies-and-plant-diseases). Cross-checked against the project specification.

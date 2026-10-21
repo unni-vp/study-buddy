@@ -1,0 +1,72 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.3",
+  "sections_refined": [
+    "Barriers and white blood cells",
+    "Antibiotics and other medicines",
+    "Developing new drugs",
+    "Monoclonal antibodies"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "infection-and-response",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/3-Infection-and-Response/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/infection-and-response/",
+      "selection": "Detailed Notes",
+      "file": "infection-and-response-detailed-notes.pdf",
+      "pages": 11,
+      "sha256": "ac37399a426d503cb8e0e3fc30813131179d990f55a8e83cebaca416c2485ca1",
+      "local_path": "Reference Materials\\PMT - Infection And Response - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed every named infection, transmission route, defence, vaccine, drug-development stage, monoclonal application and plant response. Added resistance selection, evidence quality and the specific-binding test mechanism. Rejected absolute claims that vaccines stop all infection, antibiotics never harm host cells, all viruses lack treatment, or monoclonal targeting has no side effects. Kept existing careful disease and trial comparisons."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Defence Systems",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/defence-systems",
+      "file": "defence-systems.txt",
+      "words": 720
+    },
+    {
+      "title": "Diseases",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/diseases",
+      "file": "diseases.txt",
+      "words": 574
+    },
+    {
+      "title": "Drugs",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/drugs",
+      "file": "drugs.txt",
+      "words": 608
+    },
+    {
+      "title": "Monoclonal Antibodies And Plant Diseases",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-infection-and-response/monoclonal-antibodies-and-plant-diseases",
+      "file": "monoclonal-antibodies-and-plant-diseases.txt",
+      "words": 950
+    }
+  ],
+  "decisions": [
+    "Reviewed every named infection, transmission route, defence, vaccine, drug-development stage, monoclonal application and plant response. Added resistance selection, evidence quality and the specific-binding test mechanism. Rejected absolute claims that vaccines stop all infection, antibiotics never harm host cells, all viruses lack treatment, or monoclonal targeting has no side effects. Kept existing careful disease and trial comparisons.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 47,
+    "added": 14,
+    "refined": 0,
+    "after": 61
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
