@@ -5,7 +5,7 @@
       "id": "ecosystem-basics",
       "title": "Ecosystem basics",
       "description": "Interdependence and global ecosystem patterns",
-      "icon": "overview",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "How ecosystems work"
@@ -19,7 +19,7 @@
       "id": "rainforests",
       "title": "Rainforests & Peru",
       "description": "Processes, threats and sustainable management",
-      "icon": "exchange",
+      "icon": "nav-tree",
       "sections": [
         {
           "heading": "Tropical rainforest processes"
@@ -33,7 +33,7 @@
       "id": "coral-reefs",
       "title": "Coral reefs & Andros",
       "description": "Reef interdependence, value and protection",
-      "icon": "practical",
+      "icon": "nav-fish",
       "sections": [
         {
           "heading": "Coral reef processes"
