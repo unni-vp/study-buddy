@@ -25,6 +25,16 @@ For suitable freshwater sources:
 
 Filtration alone does not reliably remove all dissolved salts or kill all microbes. Groundwater may need less suspended-solid removal than muddy surface water, but source quality still determines treatment. Boiling can kill many microbes but does not remove dissolved salt.
 
+### Match each treatment to the problem
+
+| Problem in the sample | Suitable process | What that step does not establish |
+|---|---|---|
+| Suspended soil particles | Filtration separates insoluble particles. | Clear water may still contain dissolved chemicals and microbes. |
+| Harmful microorganisms | Sterilisation reduces harmful microbes. | It does not remove dissolved salt. |
+| Excess dissolved salt | Distillation or reverse osmosis removes much of the salt. | Collected water still needs appropriate handling and checks. |
+
+A positive sodium or chloride test identifies an ion, not its concentration or whether a drinking-water limit has been exceeded. Likewise, a negative result in one test does not establish that all possible contaminants are absent.
+
 ## Desalination and water analysis
 
 
@@ -87,6 +97,17 @@ Compare equal functions, such as carrying the same shopping load the same number
 
 **Selective LCAs** can omit inconvenient stages to support advertising. Check scope, assumptions, data sources and the number of reuses. A reusable bottle’s production impact may be spread across many uses, but washing and return transport still matter.
 
+### Work out how many reuses make a difference
+
+Consider supplied energy data: a reusable container needs **20 MJ** to manufacture and **0.5 MJ** to wash after each use. A disposable equivalent needs **2 MJ per use**, including its stated production and disposal stages.
+
+1. After n uses, reusable energy = **20 + 0.5n MJ**.
+2. Disposable energy = **2n MJ**.
+3. Set them equal: **20 + 0.5n = 2n**.
+4. This gives **n = 13.3**, so the reusable option uses less energy from the **14th use** under these assumptions.
+
+That calculation compares energy only. Water use, litter, transport and breakage can change the overall judgement. Check that both options provide the same service and that their data include comparable stages.
+
 ## Reduce, reuse and recycle
 
 - **Reduce:** use less material or avoid unnecessary products.
@@ -112,6 +133,12 @@ Control nail type, time and temperature. Boiled water left uncovered can regain 
 Paint, grease and electroplating form **barriers** against air/water. Scratches can expose metal. **Aluminium forms a protective oxide layer**, limiting further corrosion.
 
 **Sacrificial protection** attaches a **more reactive metal** that oxidises preferentially. **Galvanising with zinc** provides both a barrier and sacrificial protection: even a scratch can remain protected while suitable zinc remains connected. Paint cannot sacrifice itself in the same way. A less-reactive copper coating protects as a barrier only while intact and does not sacrificially protect iron.
+
+### Why some corrosion keeps spreading
+
+Rust can flake away, exposing fresh iron to water and oxygen. The reaction can continue deeper into the object. Aluminium oxide forms a more closely attached protective layer, limiting further attack. Both are oxidation processes, but their surface products protect the underlying metal differently.
+
+In a rusting investigation, use **boiled water with an oil layer** to exclude oxygen. The oil stops new air reaching the water; boiling first removes much of the dissolved oxygen. Adding oil to untreated water would leave oxygen already dissolved around the nail.
 
 ## Alloys and their uses
 
@@ -148,6 +175,12 @@ Link a material's property to its use. “Good material” is too vague.
 - **Composite:** a **matrix/binder** surrounds and binds a **reinforcement** such as fibres or fragments. Examples include fibreglass, carbon-fibre composites and reinforced concrete.
 
 Composites combine properties: fibres may provide tensile strength while the matrix holds and protects them. Use supplied density, strength, temperature resistance, corrosion and cost data to select a material. Compare equivalent amounts/functions and explain why each important property suits the application.
+
+### Link both parts of a composite to its use
+
+In **reinforced concrete**, concrete withstands compression well, while steel reinforcement improves resistance to tension. In **fibreglass**, glass fibres reinforce a polymer matrix that holds and protects them. The useful properties depend on **both the reinforcement and the matrix**, not simply the binder.
+
+When using a data table, match the property to the task: low density reduces mass for a given volume, high tensile strength resists pulling, and corrosion resistance improves survival in a damp environment. A material can be strong yet brittle, so “strongest” alone may not settle the choice.
 
 ## Polymers: manufacturing conditions and heating
 
@@ -228,3 +261,12 @@ Several industrial stages integrate feedstock preparation, acid/salt manufacture
 ## Sources
 
 - [AQA Using resources](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/subject-content/using-resources)
+
+- [PMT: 10.1. Using the Earth's resources and obtaining potable water](../Reference Materials/PMT - Summary 10.1 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 10.2. Life cycle assessment and recycling](../Reference Materials/PMT - Summary 10.2 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 10.3. Using materials (chemistry only)](../Reference Materials/PMT - Summary 10.3 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [PMT: 10.4. The Haber process and the use of NPK fertilisers (chemistry only)](../Reference Materials/PMT - Summary 10.4 - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Sustainability Of Resources](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/sustainability-of-resources). Cross-checked against the project specification.
+- [Study Rocket: The Haber Process](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/the-haber-process). Cross-checked against the project specification.
+- [Study Rocket: Using Resources](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/using-resources). Cross-checked against the project specification.
+- [Study Rocket: Water Treatment](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/water-treatment). Cross-checked against the project specification.

@@ -404,6 +404,104 @@
         "Digest sludge **anaerobically**.",
         "Treat effluent **aerobically**, with extra chemical treatment if required by contaminants."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a positive chloride test not by itself show water is unsafe?",
+      "back": [
+        "It identifies chloride but does not measure whether its concentration exceeds a safe limit."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which treatment removes suspended solids but not dissolved salts?",
+      "back": [
+        "Filtration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can sterilised water still require desalination?",
+      "back": [
+        "Killing microbes does not remove dissolved salt."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must an LCA compare equal functions?",
+      "back": [
+        "Otherwise a lower impact may simply reflect less service or a shorter lifetime rather than a better product."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For reusable energy 20 + 0.5n and disposable energy 2n MJ, when does reuse first save energy?",
+      "back": [
+        "From use 14: equality is at n = 13.3, so the first whole number beyond it is 14."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is an energy break-even point not a complete environmental judgement?",
+      "back": [
+        "Water, pollution, transport, waste and durability may differ too."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does rust allow continued corrosion of iron?",
+      "back": [
+        "It can flake away, exposing fresh iron to water and oxygen."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why boil water before adding an oil layer in a rusting test?",
+      "back": [
+        "Boiling removes much dissolved oxygen; oil then limits new oxygen entering."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does aluminium’s surface oxide differ from rust?",
+      "back": [
+        "It forms an attached protective layer that limits further attack."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does steel contribute to reinforced concrete?",
+      "back": [
+        "Resistance to tension, complementing concrete’s resistance to compression."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why do composite properties depend on more than the binder?",
+      "back": [
+        "The reinforcement also supplies properties, such as tensile strength, while the matrix holds and protects it."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does low equilibrium yield per pass not mean all unreacted Haber gases are wasted?",
+      "back": [
+        "Unreacted nitrogen and hydrogen are recycled after ammonia is removed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does phosphate rock supply the potassium in NPK fertiliser?",
+      "back": [
+        "No. It is a phosphorus source; potassium compounds such as potassium chloride are mined separately."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a strong material still be unsuitable for an impact-prone object?",
+      "back": [
+        "It may be brittle and fracture rather than deform safely."
+      ]
     }
   ]
 }

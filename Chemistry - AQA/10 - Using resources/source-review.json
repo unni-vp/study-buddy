@@ -1,0 +1,124 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: 4.10",
+  "sections_refined": [
+    "Potable water and freshwater treatment",
+    "Life-cycle assessments",
+    "Corrosion, rusting and protective layers",
+    "Glass, ceramics and composites"
+  ],
+  "pmt_references": [
+    {
+      "title": "10.1. Using the Earth's resources and obtaining potable water",
+      "topic": "using-resources",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/10-Using-Resources/Summary/10.1. Using the Earth's resources and obtaining potable water.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/using-resources/",
+      "selection": "Summary Notes",
+      "file": "using-resources-10-1-using-the-earth-s-resources-and-obtaining-potable-water.pdf",
+      "pages": 3,
+      "sha256": "020e315c31a111ded9ac21ae4bef618869608aaf72e386000012862d6eb8670e",
+      "local_path": "Reference Materials\\PMT - Summary 10.1 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT summaries and four SR pages. Retained water, alloy, polymer and Haber diagrams, detailed NPK salts and preparation. Added treatment selection, reuse break-even example, corrosion mechanism and composite roles. Rejected source claims that phosphate rock supplies potassium, heating thermoplastics breaks backbone chains, composite properties depend only on binder, sewage treatment is not used in UK, and positive ion tests alone establish potability."
+        }
+      ]
+    },
+    {
+      "title": "10.2. Life cycle assessment and recycling",
+      "topic": "using-resources",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/10-Using-Resources/Summary/10.2. Life cycle assessment and recycling.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/using-resources/",
+      "selection": "Summary Notes",
+      "file": "using-resources-10-2-life-cycle-assessment-and-recycling.pdf",
+      "pages": 2,
+      "sha256": "e69e0f03b229377134e1486ae2cc3a87e19e1ed739267e3f1b80dce73866c121",
+      "local_path": "Reference Materials\\PMT - Summary 10.2 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT summaries and four SR pages. Retained water, alloy, polymer and Haber diagrams, detailed NPK salts and preparation. Added treatment selection, reuse break-even example, corrosion mechanism and composite roles. Rejected source claims that phosphate rock supplies potassium, heating thermoplastics breaks backbone chains, composite properties depend only on binder, sewage treatment is not used in UK, and positive ion tests alone establish potability."
+        }
+      ]
+    },
+    {
+      "title": "10.3. Using materials (chemistry only)",
+      "topic": "using-resources",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/10-Using-Resources/Summary/10.3. Using materials (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/using-resources/",
+      "selection": "Summary Notes",
+      "file": "using-resources-10-3-using-materials-chemistry-only.pdf",
+      "pages": 3,
+      "sha256": "b26d5eb6cc229e4e6380ba48ad34adad4ef290649783e1cb4933889c8620bcea",
+      "local_path": "Reference Materials\\PMT - Summary 10.3 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT summaries and four SR pages. Retained water, alloy, polymer and Haber diagrams, detailed NPK salts and preparation. Added treatment selection, reuse break-even example, corrosion mechanism and composite roles. Rejected source claims that phosphate rock supplies potassium, heating thermoplastics breaks backbone chains, composite properties depend only on binder, sewage treatment is not used in UK, and positive ion tests alone establish potability."
+        }
+      ]
+    },
+    {
+      "title": "10.4. The Haber process and the use of NPK fertilisers (chemistry only)",
+      "topic": "using-resources",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/10-Using-Resources/Summary/10.4. The Haber process and the use of NPK fertilisers (chemistry only).pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/using-resources/",
+      "selection": "Summary Notes",
+      "file": "using-resources-10-4-the-haber-process-and-the-use-of-npk-fertilisers-chemistry-only.pdf",
+      "pages": 3,
+      "sha256": "d9645b9021378460eb65b320123c3f1eb4a7b9f48eb6ee18892f759d9e4c3f8b",
+      "local_path": "Reference Materials\\PMT - Summary 10.4 - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all four PMT summaries and four SR pages. Retained water, alloy, polymer and Haber diagrams, detailed NPK salts and preparation. Added treatment selection, reuse break-even example, corrosion mechanism and composite roles. Rejected source claims that phosphate rock supplies potassium, heating thermoplastics breaks backbone chains, composite properties depend only on binder, sewage treatment is not used in UK, and positive ion tests alone establish potability."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Sustainability Of Resources",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/sustainability-of-resources",
+      "file": "sustainability-of-resources.txt",
+      "words": 485
+    },
+    {
+      "title": "The Haber Process",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/the-haber-process",
+      "file": "the-haber-process.txt",
+      "words": 541
+    },
+    {
+      "title": "Using Resources",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/using-resources",
+      "file": "using-resources.txt",
+      "words": 374
+    },
+    {
+      "title": "Water Treatment",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/water-treatment",
+      "file": "water-treatment.txt",
+      "words": 560
+    }
+  ],
+  "decisions": [
+    "Reviewed all four PMT summaries and four SR pages. Retained water, alloy, polymer and Haber diagrams, detailed NPK salts and preparation. Added treatment selection, reuse break-even example, corrosion mechanism and composite roles. Rejected source claims that phosphate rock supplies potassium, heating thermoplastics breaks backbone chains, composite properties depend only on binder, sewage treatment is not used in UK, and positive ion tests alone establish potability.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 50,
+    "added": 14,
+    "refined": 0,
+    "after": 64
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
