@@ -5,7 +5,7 @@
       "id": "separation",
       "title": "Purity and chromatography",
       "description": "Separate mixtures and calculate comparable Rf values.",
-      "icon": "chemistry-atom",
+      "icon": "nav-search",
       "sections": [
         {
           "heading": "Purity and designed mixtures"
@@ -22,7 +22,7 @@
       "id": "gases",
       "title": "Gas and metal-ion tests",
       "description": "Match reagents to precise observations.",
-      "icon": "chemistry-atom",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Gas tests"
@@ -39,7 +39,7 @@
       "id": "unknowns",
       "title": "Anions, unknowns and instruments",
       "description": "Combine independent tests and interpret spectra.",
-      "icon": "chemistry-atom",
+      "icon": "nav-gauge",
       "sections": [
         {
           "heading": "Carbonate, halide and sulfate tests"
