@@ -5,7 +5,7 @@
       "id": "atoms",
       "title": "Atoms, mixtures & electrons",
       "description": "Particles, separation, isotopes and electronic structure",
-      "icon": "cells",
+      "icon": "nav-atom",
       "sections": [
         {
           "heading": "Atoms, elements and compounds"
@@ -28,7 +28,7 @@
       "id": "patterns",
       "title": "Models & periodic patterns",
       "description": "Changing evidence, groups and transition metals",
-      "icon": "exchange",
+      "icon": "nav-grid",
       "sections": [
         {
           "heading": "How scientific models changed"
