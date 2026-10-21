@@ -1,0 +1,77 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.3",
+  "sections_refined": [
+    "Practical: measure density",
+    "Latent heat and heating curves",
+    "Compressing and expanding gases"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "particle-model-of-matter",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/3-Particle-Model-of-Matter/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/particle-model-of-matter/",
+      "selection": "Summary Notes",
+      "file": "particle-model-of-matter-summary-notes.pdf",
+      "pages": 5,
+      "sha256": "0201a6c3973d9a61d9bbe11a010a3a3b7ded74eae6c0674b3c22e30b51d8ac2c",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed PMT summary and all five SR Matter pages against 4.3. Existing displacement, heating curve and two-stage heating example retained. Added density error direction/graph axes, partial-melt mass and gas-condition comparison. Rejected fixed tenfold particle spacing, compressibility caused merely by free movement, unqualified pressure proportional to Celsius temperature, and compression always increasing temperature. Advanced variable-pressure work integrals are outside this course."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Matter Changes Of State",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-changes-of-state",
+      "file": "matter-changes-of-state.txt",
+      "words": 561
+    },
+    {
+      "title": "Matter Density Of Materials",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-density-of-materials",
+      "file": "matter-density-of-materials.txt",
+      "words": 401
+    },
+    {
+      "title": "Matter Internal Energy",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-internal-energy",
+      "file": "matter-internal-energy.txt",
+      "words": 379
+    },
+    {
+      "title": "Matter Particle Motion In Gases",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-particle-motion-in-gases",
+      "file": "matter-particle-motion-in-gases.txt",
+      "words": 422
+    },
+    {
+      "title": "Matter Specific Latent Heat",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-specific-latent-heat",
+      "file": "matter-specific-latent-heat.txt",
+      "words": 294
+    }
+  ],
+  "decisions": [
+    "Reviewed PMT summary and all five SR Matter pages against 4.3. Existing displacement, heating curve and two-stage heating example retained. Added density error direction/graph axes, partial-melt mass and gas-condition comparison. Rejected fixed tenfold particle spacing, compressibility caused merely by free movement, unqualified pressure proportional to Celsius temperature, and compression always increasing temperature. Advanced variable-pressure work integrals are outside this course.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 14,
+    "refined": 0,
+    "after": 34
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

@@ -75,6 +75,12 @@ A cylinder's mass rises from 45 g to 85 g when 50 cm³ of liquid is added.
 
 Do not include the container's mass.
 
+### Predict the direction of an error
+
+If air bubbles remain attached to a submerged solid, they displace extra water. The measured volume is **too large**, so **m/V is too small**: density is underestimated. A smaller cylinder with clearer divisions may improve resolution, but it will not remove those bubbles.
+
+For several samples of the same material, plot **mass vertically against volume horizontally**. A straight line through the origin has gradient **density**. If the axes are swapped, the gradient is **1/density**. Including the container's mass can create a non-zero intercept.
+
 ## Changes of state conserve mass
 
 - **Melting:** solid → liquid.
@@ -142,6 +148,16 @@ Cooling reverses these changes as energy leaves the material. On a constant-powe
 
 To investigate latent heat of fusion, compare meltwater collected in a fixed time from ice at 0°C with and without an electrical heater. Subtract the unheated melting due to the room, measure input energy and use **L = E/extra mass melted**. Keep conditions alike and electrical connections clear of water.
 
+### Use only the mass that changes state
+
+Suppose a heater transfers **6,000 J** to ice already at its melting point, and **0.018 kg** melts. With other energy transfers neglected:
+
+**L = E/m = 6,000 ÷ 0.018 = 330,000 J/kg**, to two significant figures.
+
+The denominator is the mass that actually melted, not the whole initial ice sample. If some electrical energy heats the room instead, dividing the full input by the melted mass overestimates L.
+
+A level section of a heating curve does not mean zero energy transfer. Temperature stays constant while energy changes the particles' arrangement and their potential energy.
+
 ## Gas pressure and temperature
 
 Gas particles move randomly and collide with container walls. The collisions exert a force; **pressure is force per unit area**. The force on a wall is perpendicular to it.
@@ -179,3 +195,24 @@ A gas at 100 kPa occupies 60 cm³. It is slowly compressed to 40 cm³ at constan
 3. The new pressure is **150 kPa**.
 
 **Rapid compression is different:** pushing a bicycle pump does **work on the gas**, increasing its internal energy and temperature when there is little time for energy to escape. Pressure can then rise for two reasons: smaller volume and higher temperature. Do not use the constant-temperature pV rule if the question says temperature changes.
+
+### Keep the conditions attached to the rule
+
+| Change | Conditions held fixed | Explanation of pressure rise |
+|---|---|---|
+| Heat a sealed rigid container. | Gas mass and volume | Faster particles transfer more momentum in more frequent wall collisions. |
+| Slowly reduce gas volume while keeping temperature constant. | Gas mass and temperature | Particles have unchanged average speed but strike unit wall area more often. |
+| Add gas to a rigid container at the same temperature. | Volume and temperature | More particles produce more collisions per unit time and area. |
+
+Rapidly compressing a gas can also warm it because work is done on it. The constant-temperature relationship **p₁V₁ = p₂V₂** should not be applied unchanged during that warming.
+
+Heating does not automatically increase pressure if the container can expand. A freely moving piston may allow volume to rise instead, so check what the apparatus holds constant.
+
+## Sources
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Matter Changes Of State](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-changes-of-state). Cross-checked against the project specification.
+- [Study Rocket: Matter Density Of Materials](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-density-of-materials). Cross-checked against the project specification.
+- [Study Rocket: Matter Internal Energy](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-internal-energy). Cross-checked against the project specification.
+- [Study Rocket: Matter Particle Motion In Gases](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-particle-motion-in-gases). Cross-checked against the project specification.
+- [Study Rocket: Matter Specific Latent Heat](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/particle-model-of-matter/matter-specific-latent-heat). Cross-checked against the project specification.

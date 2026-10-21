@@ -165,6 +165,104 @@
         "Total energy = **75,200 J**.",
         "t = E/P = 75,200/200 = **376 s**; real heat losses increase the time."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do attached bubbles affect a displacement density measurement?",
+      "back": [
+        "They make measured volume too large, so calculated density is too low."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient of a mass-versus-volume graph for one material?",
+      "back": [
+        "Density, when mass is vertical and volume horizontal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the gradient if volume is vertical and mass horizontal?",
+      "back": [
+        "The reciprocal of density."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a mass–volume line have a positive intercept when liquid density is measured incorrectly?",
+      "back": [
+        "The container’s mass may have been included instead of subtracted."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which mass belongs in L = E/m for partial melting?",
+      "back": [
+        "The mass that actually changes state."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What L results when 6,000 J melts 0.018 kg?",
+      "back": [
+        "Approximately 330,000 J/kg to two significant figures."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a flat heating curve mean internal energy is constant?",
+      "back": [
+        "No. During a state change, potential energy can increase while temperature and average kinetic energy stay constant."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does slow constant-temperature compression increase pressure?",
+      "back": [
+        "Particles have less space and collide with unit wall area more often, without a higher average speed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can rapid compression differ from Boyle’s-law conditions?",
+      "back": [
+        "Work can raise gas temperature, violating the constant-temperature condition."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does adding gas at constant volume have to raise its temperature?",
+      "back": [
+        "No. At controlled constant temperature, the extra particles still increase wall collisions and pressure."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might heating gas beneath a movable piston increase volume rather than pressure?",
+      "back": [
+        "The piston can move, allowing expansion; pressure need not rise as in a rigid container."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is a gas easily compressed?",
+      "back": [
+        "There are large gaps between its particles; the particles themselves are not being compressed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do all solids and liquids have the same density?",
+      "back": [
+        "No. Particle mass and arrangement matter; ice and water also show why solids are not always denser."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a gas-pressure explanation identify fixed variables?",
+      "back": [
+        "Heating, adding particles and reducing volume can change pressure through different mechanisms."
+      ]
     }
   ]
 }
