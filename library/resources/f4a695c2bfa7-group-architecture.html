@@ -45,6 +45,15 @@
 <h3>Why cache size matters</h3>
 <p>A <strong>larger cache</strong> can hold more useful instructions and data. This can reduce the number of slower RAM accesses and improve performance. It does not guarantee a proportional speed increase: the benefit depends on what the program needs and whether that information is already cached.</p>
 <p>Cache is <strong>volatile</strong>, so it loses its contents when power is removed. It is much smaller than RAM and does not replace RAM or provide permanent storage for saved files.</p>
+<h3>Cache, RAM and a saved file</h3>
+<p>These locations can hold related information for different reasons:</p>
+<table>
+<tr><th>Location</th><th>Example while editing a document</th></tr>
+<tr><td>Secondary storage</td><td>The saved document remains here when power is off.</td></tr>
+<tr><td>RAM</td><td>The open document and editing program have active working data here.</td></tr>
+<tr><td>Cache</td><td>Copies of useful instructions or data are kept closer to the CPU to reduce waiting.</td></tr>
+</table>
+<p>Making cache larger does not make unsaved work permanent. Saving to non-volatile storage is still necessary.</p>
 <h2>Memory types</h2>
 <table>
 <tr><th>Type</th><th>Volatile?</th><th>Purpose</th></tr>

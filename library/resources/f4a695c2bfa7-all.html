@@ -65,6 +65,18 @@
 </table>
 <p>Think of the operating system as a school office coordinating shared rooms and equipment. Applications can request resources instead of each having to organise the entire school.</p>
 <p>A utility has a more focused maintenance job. A backup utility copies data so it can be recovered after a failure; anti-malware software detects and deals with malicious files; compression software reduces storage or transfer requirements. These are system-support tasks rather than the end-user task of writing an essay.</p>
+<h3>Multitasking and utility choices</h3>
+<p>When a user edits a document while music plays, the operating system allocates processor time so both tasks can make progress. Rapid switching can make them appear simultaneous on one core. Several cores can also work in parallel when the workload supports it. <strong>Scheduling</strong> and <strong>adding cores</strong> are different ideas.</p>
+<p>Utility programs have specific maintenance jobs:</p>
+<table>
+<tr><th>Utility</th><th>What it does</th><th>What it does not establish</th></tr>
+<tr><td>Backup</td><td>Copies data to a recoverable location so it can be restored after loss or damage.</td><td>A backup does not prevent confidential data from being stolen.</td></tr>
+<tr><td>Compression</td><td>Encodes files using fewer bits when the chosen method suits the data.</td><td>A smaller file is not automatically encrypted.</td></tr>
+<tr><td>Encryption</td><td>Makes stored data unreadable without the appropriate decryption process and key.</td><td>It does not create a replacement copy if the only file is lost.</td></tr>
+<tr><td>Cleanup</td><td>Removes unnecessary temporary files or other unwanted data.</td><td>Freeing storage does not increase the CPU&#x27;s clock speed.</td></tr>
+<tr><td>Software update</td><td>Installs fixes or improvements, including patches for known vulnerabilities.</td><td>An update does not guarantee protection against every future attack.</td></tr>
+</table>
+<p>Some tools are supplied with an operating system; others are installed separately. Classify them by their <strong>purpose</strong>, rather than by whether they came pre-installed.</p>
 <h2>High-level and low-level languages</h2>
 <p>A high-level language expresses a problem in human-readable statements. Low-level languages work much closer to a processor’s instructions.</p>
 <ul>
@@ -147,6 +159,15 @@
 <h3>Why cache size matters</h3>
 <p>A <strong>larger cache</strong> can hold more useful instructions and data. This can reduce the number of slower RAM accesses and improve performance. It does not guarantee a proportional speed increase: the benefit depends on what the program needs and whether that information is already cached.</p>
 <p>Cache is <strong>volatile</strong>, so it loses its contents when power is removed. It is much smaller than RAM and does not replace RAM or provide permanent storage for saved files.</p>
+<h3>Cache, RAM and a saved file</h3>
+<p>These locations can hold related information for different reasons:</p>
+<table>
+<tr><th>Location</th><th>Example while editing a document</th></tr>
+<tr><td>Secondary storage</td><td>The saved document remains here when power is off.</td></tr>
+<tr><td>RAM</td><td>The open document and editing program have active working data here.</td></tr>
+<tr><td>Cache</td><td>Copies of useful instructions or data are kept closer to the CPU to reduce waiting.</td></tr>
+</table>
+<p>Making cache larger does not make unsaved work permanent. Saving to non-volatile storage is still necessary.</p>
 <h2>Memory types</h2>
 <table>
 <tr><th>Type</th><th>Volatile?</th><th>Purpose</th></tr>
@@ -235,4 +256,9 @@
 <li><a href="https://www.ibm.com/docs/en/zos/3.1.0?topic=files-processing-sequential-data-sets">IBM: sequential access on magnetic tape</a>.</li>
 <li><a href="https://research.ibm.com/projects/tape-research">IBM Research: tape use for infrequently accessed data</a>.</li>
 <li><a href="https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html">Intel: memory performance and the cache hierarchy</a>.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/boolean-logic">Study Rocket: Boolean Logic</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-languages">Study Rocket: Programming Languages</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/memory-and-storage">Study Rocket: Memory And Storage</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/software-classification">Study Rocket: Software Classification</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/system-architecture-cpu">Study Rocket: System Architecture Cpu</a>. Coverage reference; checked against the current AQA specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

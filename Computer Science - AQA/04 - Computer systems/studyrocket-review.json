@@ -1,0 +1,76 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.4.1–3.4.5",
+  "sources": [
+    {
+      "title": "Boolean Logic",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/boolean-logic"
+    },
+    {
+      "title": "Programming Languages",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-languages"
+    },
+    {
+      "title": "Memory And Storage",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/memory-and-storage"
+    },
+    {
+      "title": "Software Classification",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/software-classification"
+    },
+    {
+      "title": "System Architecture Cpu",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/system-architecture-cpu"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "System and application software",
+    "Cache memory"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "boolean-logic"
+      ],
+      "decision": "Existing full three-input truth table, intermediate columns and gate diagrams retained. Kept XOR, which the source gate overview omits, because it is explicitly required by revised AQA."
+    },
+    {
+      "pages": [
+        "software-classification"
+      ],
+      "decision": "Expanded multitasking versus parallel cores and the purpose/limits of common utilities. Did not import a claim that a core necessarily completes only one instruction per clock."
+    },
+    {
+      "pages": [
+        "system-architecture-cpu"
+      ],
+      "decision": "Existing FDE, dedicated embedded role and cache explanation retained. Added cache/RAM/saved-file comparison and retrieval cards. Did not import outdated fixed cache sizes, embedded hardware-layout rules or one-cycle-per-instruction equivalence."
+    },
+    {
+      "pages": [
+        "memory-and-storage"
+      ],
+      "decision": "Preserved detailed current HDD/SSD mechanisms and concise tape/USB/card examples. Omitted outdated price/capacity limits and optical storage as mandatory revised content; corrected ROM-only-BIOS and cloud-sync-equals-backup implications."
+    },
+    {
+      "pages": [
+        "programming-languages"
+      ],
+      "decision": "Retained revised-AQA interpreter definition and qualified efficiency/portability comparison. No blanket claim that all firmware requires assembly or that compiled programs cannot be reverse-engineered."
+    }
+  ],
+  "flashcards": {
+    "previous": 22,
+    "added": 21,
+    "refined": 2,
+    "total": 43
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

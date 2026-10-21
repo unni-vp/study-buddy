@@ -88,6 +88,22 @@ Think of the operating system as a school office coordinating shared rooms and e
 
 A utility has a more focused maintenance job. A backup utility copies data so it can be recovered after a failure; anti-malware software detects and deals with malicious files; compression software reduces storage or transfer requirements. These are system-support tasks rather than the end-user task of writing an essay.
 
+### Multitasking and utility choices
+
+When a user edits a document while music plays, the operating system allocates processor time so both tasks can make progress. Rapid switching can make them appear simultaneous on one core. Several cores can also work in parallel when the workload supports it. **Scheduling** and **adding cores** are different ideas.
+
+Utility programs have specific maintenance jobs:
+
+| Utility | What it does | What it does not establish |
+|---|---|---|
+| Backup | Copies data to a recoverable location so it can be restored after loss or damage. | A backup does not prevent confidential data from being stolen. |
+| Compression | Encodes files using fewer bits when the chosen method suits the data. | A smaller file is not automatically encrypted. |
+| Encryption | Makes stored data unreadable without the appropriate decryption process and key. | It does not create a replacement copy if the only file is lost. |
+| Cleanup | Removes unnecessary temporary files or other unwanted data. | Freeing storage does not increase the CPU's clock speed. |
+| Software update | Installs fixes or improvements, including patches for known vulnerabilities. | An update does not guarantee protection against every future attack. |
+
+Some tools are supplied with an operating system; others are installed separately. Classify them by their **purpose**, rather than by whether they came pre-installed.
+
 ## High-level and low-level languages
 
 A high-level language expresses a problem in human-readable statements. Low-level languages work much closer to a processor’s instructions.
@@ -203,6 +219,18 @@ A **larger cache** can hold more useful instructions and data. This can reduce t
 
 Cache is **volatile**, so it loses its contents when power is removed. It is much smaller than RAM and does not replace RAM or provide permanent storage for saved files.
 
+### Cache, RAM and a saved file
+
+These locations can hold related information for different reasons:
+
+| Location | Example while editing a document |
+|---|---|
+| Secondary storage | The saved document remains here when power is off. |
+| RAM | The open document and editing program have active working data here. |
+| Cache | Copies of useful instructions or data are kept closer to the CPU to reduce waiting. |
+
+Making cache larger does not make unsaved work permanent. Saving to non-volatile storage is still necessary.
+
 ## Memory types
 
 | Type | Volatile? | Purpose |
@@ -314,3 +342,8 @@ A general-purpose laptop can instead run unrelated user-selected applications. A
 - [IBM: sequential access on magnetic tape](https://www.ibm.com/docs/en/zos/3.1.0?topic=files-processing-sequential-data-sets).
 - [IBM Research: tape use for infrequently accessed data](https://research.ibm.com/projects/tape-research).
 - [Intel: memory performance and the cache hierarchy](https://www.intel.com/content/www/us/en/developer/articles/technical/memory-performance-in-a-nutshell.html).
+- [Study Rocket: Boolean Logic](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/boolean-logic). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Programming Languages](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/programming-languages). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Memory And Storage](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/memory-and-storage). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Software Classification](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/software-classification). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: System Architecture Cpu](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/written-assessment/system-architecture-cpu). Coverage reference; checked against the current AQA specification.
