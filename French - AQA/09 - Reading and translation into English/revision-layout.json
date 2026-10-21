@@ -5,7 +5,7 @@
       "id": "understanding",
       "title": "Understand and infer",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "Reading for the question"
@@ -22,7 +22,7 @@
       "id": "translation",
       "title": "Translate and check",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-translate",
       "sections": [
         {
           "heading": "Translating meaning into English"
