@@ -1,17 +1,23 @@
 # Ecosystems of the planet
 
 ## How ecosystems work
+An **ecosystem** is a community of living organisms interacting with one another and with their non-living surroundings. Think of it as a web: changing one strand can affect several others.
 
-An **ecosystem** is a community of living organisms interacting with each other and with the non-living environment. Think of it as a web: changing one strand can affect the whole system.
+| Component | Meaning and role |
+|---|---|
+| **Biotic** | Living parts, including plants, animals, microorganisms and people. |
+| **Abiotic** | Non-living conditions, including temperature, rainfall, light, water and soil characteristics. |
+| **Producer** | An organism such as a green plant or alga that makes food using light energy. |
+| **Consumer** | An organism that obtains food by eating other organisms. |
+| **Decomposer** | An organism that breaks down dead material and waste, releasing nutrients that can be used again. |
 
-- **Biotic components** are living: plants, animals, decomposers and microorganisms.
-- **Abiotic components** are non-living: climate, water, soil, sunlight and rocks.
-- **Producers** use sunlight to make food.
-- **Consumers** gain energy by eating plants or animals.
-- **Decomposers** break down dead material and return nutrients to the soil.
-- A **food chain** shows one feeding route; a **food web** shows connected routes.
+Soil contains both non-living material and living organisms. Calling soil conditions abiotic does not mean there are no organisms in soil.
 
-**Interdependence** means that parts of an ecosystem rely on one another. For example, less rainfall may reduce plant growth, leaving herbivores with less food and predators with fewer prey.
+A **food chain** follows one feeding route. A **food web** links several routes, because an organism can have more than one food source or predator. Arrows show the direction in which food and its energy are transferred, from the organism eaten towards the eater.
+
+**Interdependence** means that parts rely on one another. Less rainfall may reduce plant growth, leaving herbivores with less food and predators with fewer prey. Animals can also affect plants through grazing, pollination or seed dispersal.
+
+**Nutrients are recycled**, but energy is transferred through the system and eventually dissipated as heat. Nutrient cycling therefore needs dead material, decomposers, soil and plant uptake; it is not simply another name for a food chain.
 
 ## The world's major ecosystems
 
@@ -29,26 +35,50 @@ Climate is the main control. Temperature and rainfall affect vegetation, and veg
 
 Major rainforest areas include the **Amazon Basin**, **Central America**, the **Congo Basin**, **Madagascar**, **South-East Asia** and **Australasia**. Major warm-water reefs include the **Great Barrier Reef**, **Red Sea reefs**, **New Caledonia**, the **Mesoamerican Reef**, **Florida Reef** and **Andros Barrier Reef**.
 
+### Why the pattern varies
+
+Near the Equator, strong sunlight and frequent rising moist air support hot, wet conditions. Around the subtropical high-pressure belts, sinking air often suppresses rainfall, helping explain many hot deserts. Higher latitudes receive less intense sunlight and have greater seasonal contrasts.
+
+Local conditions modify the broad pattern. Higher land is usually cooler; waterlogged ground supports different plants from well-drained soil. Soil nutrients and acidity also affect growth. A map showing a biome does not mean every part of that region has identical vegetation.
+
+**Polar regions** and **hot deserts** can both have low rainfall, but they have very different temperatures and adaptations. A climate graph should therefore be read using both the temperature line and rainfall bars, including seasonal changes, rather than total rainfall alone.
+
 ## Tropical rainforest processes
+### Structure, light and adaptations
 
-### Structure and adaptations
+Warmth and water support growth throughout much of the year, but plants still compete for light and nutrients. The forest has layers:
 
-- **Emergents** rise above the forest and receive the most sunlight.
-- The **canopy** forms a dense roof where much rainforest life is concentrated.
-- The **understorey** is darker, warm and humid.
-- The **forest floor** receives little light, so vegetation is sparse.
-- **Drip-tip leaves** shed heavy rain; **buttress roots** support tall trees in shallow soil.
-- Lianas climb trees to reach sunlight. Epiphytes grow on branches without rooting in the soil.
+| Layer | Conditions and living things |
+|---|---|
+| **Emergent layer** | Tall trees project above the canopy, receiving strong light and greater exposure to wind. |
+| **Canopy** | Crowns form a dense layer with abundant leaves, fruit and habitats for tree-dwelling animals. |
+| **Understorey** | Less light penetrates. Shade-tolerant plants and young trees grow beneath the canopy. |
+| **Forest floor** | Little light reaches the ground. Dead material is broken down rapidly, and dense low vegetation is limited in deep shade. |
 
-### Nutrient and water cycles
+**Drip tips** help leaves shed rainwater. **Buttress roots** spread around a tall tree's base, helping support it where roots are shallow. **Lianas** root in the ground and climb other plants to reach light. **Epiphytes** use branches as a place to grow; they obtain water and nutrients from rain, debris or material around their roots, rather than normally taking food from the supporting tree.
 
-The rainforest stores most nutrients in its **biomass**, rather than its thin soil. Heat and moisture cause rapid decomposition. Roots absorb released nutrients quickly, so clearing vegetation breaks the cycle and rain can leach nutrients from exposed soil.
+Animals also connect structure and function. A monkey's grasping limbs and tail help movement among branches. Camouflage can reduce detection by predators or prey. An adaptation is useful because of the particular challenge it addresses.
 
-The forest also recycles water. Trees take up water and release vapour through **transpiration**. This adds moisture to the atmosphere, helping clouds and rainfall to form. Clearing trees reduces this recycling and increases surface runoff.
+### Nutrient stores and transfers
 
-![Nutrient cycle linking living biomass, litter and soil through leaf fall, decay and root uptake](diagrams/rainforest-nutrient-cycle.svg)
+Imagine nutrients moving between three containers: living **biomass**, dead **litter** and **soil**. The size of a store is different from the speed at which nutrients pass through it.
 
-**Follow the nutrients:** leaf fall adds litter, decomposition releases nutrients and roots take them up. Heavy rain can remove nutrients quickly when soil is exposed.
+1. Plants take up dissolved nutrients through roots and build new biomass.
+2. Fallen leaves, waste and dead organisms transfer nutrients into litter.
+3. Decomposers work rapidly in warm, moist conditions, releasing nutrients into the soil.
+4. Dense roots quickly absorb them again, maintaining the large living store.
+
+![Nutrient cycle linking living biomass, fallen litter and soil, with uptake, decomposition and losses by leaching](diagrams/rainforest-nutrient-cycle.svg)
+
+Much of the ecosystem's nutrient stock is in living vegetation. Rapid recycling supports rich vegetation even where soil has a relatively small available nutrient store. **Leaching** removes dissolved nutrients as water moves through soil; **erosion** removes soil particles. These are different losses.
+
+Clearing trees removes biomass and reduces future litter inputs. Ash can briefly supply nutrients after burning, but exposed ground is vulnerable to leaching and erosion. Fast growth under intact forest does not prove that cleared land will stay fertile.
+
+### The water cycle depends on trees
+
+Leaves intercept rainfall, delaying its arrival at the ground. Water then reaches soil by dripping from foliage or flowing down trunks. Some infiltrates; roots absorb water and trees release vapour through **transpiration**. Moisture returned to the atmosphere contributes to cloud and rainfall formation.
+
+Removing canopy and roots can increase rapid surface runoff and soil loss, while reduced transpiration weakens moisture recycling. The exact effect depends on replacement vegetation, soil and climate, but the key link remains: vegetation both responds to and influences water availability.
 
 ## Case study: Peruvian Amazon rainforest
 
@@ -93,21 +123,31 @@ The forest also recycles water. Trees take up water and release vapour through *
 **Enforcement and evaluation:** Satellite monitoring can identify clearance, but controls on illegal mining and logging still need enforcement. Secure land rights, community support and reliable sustainable incomes make conservation more practical. Rules alone may fail where enforcement is weak or illegal extraction remains profitable.
 
 ## Coral reef processes
+### Conditions and the coral–algae partnership
 
-**Conditions for reef growth:** Most tropical reef-building corals need water that stays above roughly **18 °C**. **23–25 °C** supports strong growth, although many species grow well across the wider **23–29 °C** range. Shallow, clear, salty water allows sunlight to reach the algae inside coral. Excess sediment blocks light, and freshwater can lower salinity. This helps explain why warm-water reefs are concentrated in tropical and subtropical seas.
+Coral is an **animal**. Reef-building polyps produce hard calcium-carbonate skeletons, creating structures that provide habitats for other organisms. Most warm-water reef builders need temperatures above roughly **18 °C**; the school guide's **23–25 °C** favourable range lies within the wider **23–29 °C** optimum reported for many species.
 
-Coral polyps build hard limestone skeletons. Tiny algae living inside the coral provide food through photosynthesis, while coral gives the algae shelter. This **mutual relationship** explains why reefs need clear, sunlit water.
+| Condition | Why it matters |
+|---|---|
+| Warm water within a suitable range | Supports growth, but prolonged unusual heat can cause stress. Warmer is not always better. |
+| Shallow, clear water | Allows light to reach the photosynthetic algae within coral tissues. Sediment or cloudy water can reduce it. |
+| Suitable salinity | Reef-building organisms are adapted to salty seawater. Large freshwater inputs can disturb conditions. |
 
-Reefs have a tight nutrient cycle. Nutrients released by waste and decomposition are reused quickly by coral, algae and other organisms. There are few spare nutrients in the surrounding water.
-
-- Reef structures provide habitats and nursery grounds.
-- Fish control algae and move nutrients around the reef.
-- Mangroves and seagrass trap sediment and provide connected habitats.
-- If water becomes too warm, coral may expel its algae and turn white: **coral bleaching**.
+The algae make food by photosynthesis and share products with the coral. The coral provides a protected place and useful substances for the algae. Both benefit from this **mutual relationship**.
 
 ![Two-way partnership between coral animals and photosynthetic algae, with heat stress causing bleaching](diagrams/coral-symbiosis.svg)
 
-**The partnership:** algae supply food; coral provides shelter and nutrients. Bleaching can be reversible if stress ends, but prolonged stress can kill coral.
+### Nutrients are retained and reused
+
+Surrounding tropical seawater can contain few available nutrients. A reef remains productive partly because organisms retain and reuse nutrients efficiently. Waste and dead material are broken down, nutrients become available to producers, and feeding transfers them through the community. Exchanges within the coral–algae partnership help keep nutrients in use.
+
+Grazing fish can prevent algae from overwhelming coral. Nearby **mangroves and seagrass** provide nursery and feeding habitats and can trap sediment before it reaches the reef. Damage to one connected habitat can therefore affect organisms using another.
+
+### Bleaching and its consequences
+
+When stressed, coral can lose its algae and become pale or white: **coral bleaching**. The coral loses an important food source and becomes more vulnerable. Bleaching does not mean the animal is already dead; recovery is possible if conditions improve, while prolonged stress can cause death.
+
+Losing living coral reduces habitat quality and can weaken fisheries, tourism and coastal protection. Marine reserves can reduce local fishing or physical damage, but they cannot by themselves stop regional marine heatwaves. Management needs to address both local pressures and wider causes.
 
 ## Case study: Andros Barrier Reef, The Bahamas
 
@@ -174,3 +214,16 @@ Andros is the largest island in The Bahamas. Its barrier reef stretches for abou
 - [Florida Museum: coral habitat and 23–25 °C growth conditions](https://www.floridamuseum.ufl.edu/southflorida/habitats/corals/habitat/)
 
 - [NOAA: coral temperature, light and salinity requirements](https://oceanservice.noaa.gov/facts/coralwaters.html)
+
+## Sources
+
+- [NOAA: reef-building coral conditions](https://oceanservice.noaa.gov/facts/coralwaters.html).
+- [NOAA: bleaching and possible recovery](https://oceanservice.noaa.gov/facts/coral_bleach.html).
+
+- [PMT: Detailed Notes](https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/3-Ecosystems-Biodiversity-and-Management/Detailed Notes - Topic 3 Ecosystems, Biodiversity and Management - Edexcel A Geography GCSE.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Asustainable Future For Rainforests](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/asustainable-future-for-rainforests). Cross-checked against the project specification.
+- [Study Rocket: Nutrient Cycling](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/nutrient-cycling). Cross-checked against the project specification.
+- [Study Rocket: Protecting The Rainforest](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/protecting-the-rainforest). Cross-checked against the project specification.
+- [Study Rocket: Threats To Rainforests](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/threats-to-rainforests). Cross-checked against the project specification.
+- [Study Rocket: What Are Tropical Biomes Like](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/what-are-tropical-biomes-like). Cross-checked against the project specification.
+- [Study Rocket: Global Biomes](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/people-and-the-biosphere/global-biomes). Cross-checked against the project specification.

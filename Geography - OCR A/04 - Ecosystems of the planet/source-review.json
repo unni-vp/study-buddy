@@ -1,0 +1,99 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 2.1.1–2.1.5",
+  "sections_refined": [
+    "How ecosystems work",
+    "The world's major ecosystems",
+    "Tropical rainforest processes",
+    "Coral reef processes"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "ecosystems-biodiversity-and-management",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/3-Ecosystems-Biodiversity-and-Management/Detailed Notes - Topic 3 Ecosystems, Biodiversity and Management - Edexcel A Geography GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/ecosystems-biodiversity-and-management/",
+      "file": "ecosystems-biodiversity-and-management-detailed-notes.pdf",
+      "pages": 42,
+      "sha256": "9d38ee7837c3b28dd8e2c772408afe07d622d88c59a89fb3a8444245266a222f",
+      "distribution": "Unmodified PDF retained locally; exceeds GitHub single-file limit. Public source URL and review are committed.",
+      "publish_url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/3-Ecosystems-Biodiversity-and-Management/Detailed Notes - Topic 3 Ecosystems, Biodiversity and Management - Edexcel A Geography GCSE.pdf",
+      "local_path": "Reference Materials\\PMT - Ecosystems - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–12",
+          "decision": "Use global distribution, climate/local factors and interdependence as overlap. Retain the OCR six-ecosystem comparison; do not import a different board’s full habitat list."
+        },
+        {
+          "pages": "13–16",
+          "decision": "UK habitat and fishing overview checked only where relevant to Topic 03; detailed deciduous woodland studies are not substituted for the coral requirement."
+        },
+        {
+          "pages": "17–34",
+          "decision": "Develop forest layers, adaptations, nutrient stores and water links. Reject inconsistent nutrient-rich-soil wording and the suggestion epiphytes take nutrients from their host."
+        },
+        {
+          "pages": "35–42",
+          "decision": "Detailed temperate woodland case-study material is outside the required rainforest/coral focus. Existing Peru/Andros evidence is retained instead."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Asustainable Future For Rainforests",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/asustainable-future-for-rainforests",
+      "file": "asustainable-future-for-rainforests.txt",
+      "words": 1090
+    },
+    {
+      "title": "Nutrient Cycling",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/nutrient-cycling",
+      "file": "nutrient-cycling.txt",
+      "words": 202
+    },
+    {
+      "title": "Protecting The Rainforest",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/protecting-the-rainforest",
+      "file": "protecting-the-rainforest.txt",
+      "words": 327
+    },
+    {
+      "title": "Threats To Rainforests",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/threats-to-rainforests",
+      "file": "threats-to-rainforests.txt",
+      "words": 674
+    },
+    {
+      "title": "What Are Tropical Biomes Like",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/forests-under-threat/what-are-tropical-biomes-like",
+      "file": "what-are-tropical-biomes-like.txt",
+      "words": 212
+    },
+    {
+      "title": "Global Biomes",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/people-and-the-biosphere/global-biomes",
+      "file": "global-biomes.txt",
+      "words": 280
+    }
+  ],
+  "decisions": [
+    "Kept the complete ecosystem comparison table and every Peru/Andros case-study paragraph, number, date, qualification and existing process diagram.",
+    "Separated nutrients from energy, and stores from transfers. Corrected the source claims that nutrient minerals evaporate, epiphytes normally feed on host plants, and rich forest proves rich soil.",
+    "Kept coral content explicitly in scope despite the selected other-board references lacking a comparable coral section; checked partnership, temperature and bleaching against NOAA.",
+    "The original 139 MB ecosystem reference remains local and unchanged; its public URL, hash and scope decisions are versioned because GitHub cannot store that binary as an ordinary file."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 22,
+    "refined": 1,
+    "after": 42
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
