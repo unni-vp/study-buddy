@@ -5,7 +5,7 @@
       "id": "plan",
       "title": "Purpose, ideas and organisation",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Know what the assessment involves"
@@ -25,7 +25,7 @@
       "id": "deliver",
       "title": "Language, delivery and rehearsal",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-microphone",
       "sections": [
         {
           "heading": "Make language work when spoken"
@@ -42,7 +42,7 @@
       "id": "respond",
       "title": "Listening, questions and discussion",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-headphones",
       "sections": [
         {
           "heading": "Listen and respond thoughtfully"
