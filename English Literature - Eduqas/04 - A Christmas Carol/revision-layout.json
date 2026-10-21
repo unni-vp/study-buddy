@@ -5,7 +5,7 @@
       "id": "staves",
       "title": "Story / Staves",
       "description": "Follow the five stages of Scrooge's transformation.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "The central journey"
@@ -31,7 +31,7 @@
       "id": "characters",
       "title": "Characters",
       "description": "Connect motives, relationships and key evidence.",
-      "icon": "literature-drama",
+      "icon": "nav-people",
       "sections": [
         {
           "heading": "Scrooge: from isolation to responsibility"
@@ -51,7 +51,7 @@
       "id": "themes",
       "title": "Themes, context and methods",
       "description": "Explore social responsibility and Dickens's choices.",
-      "icon": "literature-drama",
+      "icon": "nav-branch",
       "sections": [
         {
           "heading": "Poverty, social responsibility and family"
@@ -68,7 +68,7 @@
       "id": "writing",
       "title": "Quotations and essay writing",
       "description": "Develop clear analysis across the extract and novella.",
-      "icon": "literature-pen",
+      "icon": "nav-quote",
       "sections": [
         {
           "heading": "Writing about an extract and the whole novella"
