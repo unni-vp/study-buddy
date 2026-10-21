@@ -5,38 +5,50 @@
       "id": "enquiry-process",
       "title": "Enquiry process",
       "description": "From question and method to conclusion and evaluation",
-      "icon": "overview",
+      "icon": "nav-plan",
       "sections": [
-        {"heading": "The enquiry process"}
+        {
+          "heading": "The enquiry process"
+        }
       ]
     },
     {
       "id": "liverpool",
       "title": "Liverpool fieldwork",
       "description": "Environmental quality, pedestrian flow and land use",
-      "icon": "exchange",
+      "icon": "nav-city",
       "sections": [
-        {"heading": "Human fieldwork: Liverpool"}
+        {
+          "heading": "Human fieldwork: Liverpool"
+        }
       ]
     },
     {
       "id": "river-alyn",
       "title": "River Alyn fieldwork",
       "description": "Downstream measurements, findings and evaluation",
-      "icon": "transport",
+      "icon": "nav-river",
       "sections": [
-        {"heading": "Physical fieldwork: River Alyn"}
+        {
+          "heading": "Physical fieldwork: River Alyn"
+        }
       ]
     },
     {
       "id": "exam-answers",
       "title": "Comparison & exam answers",
       "description": "Compare enquiries and write precise evaluations",
-      "icon": "practical",
+      "icon": "nav-balance",
       "sections": [
-        {"heading": "Comparing the enquiries"},
-        {"heading": "Writing fieldwork answers"},
-        {"heading": "High-yield checklist"}
+        {
+          "heading": "Comparing the enquiries"
+        },
+        {
+          "heading": "Writing fieldwork answers"
+        },
+        {
+          "heading": "High-yield checklist"
+        }
       ]
     }
   ]
