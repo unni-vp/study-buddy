@@ -12,7 +12,11 @@ A scientific investigation checks an explanation against evidence. Think of test
 
 Choose a suitable range and intervals, enough repeats and an appropriate sample. Explain why each control matters: temperature changes reaction rate, so keep it constant when investigating concentration.
 
+### Use a pilot to choose a workable range
 
+A short trial checks whether a reaction is too fast to time, too slow to finish, or likely to exceed an instrument's range. Use it to select sensible concentrations, intervals and apparatus before collecting the main dataset. Keep the main method consistent once that range is chosen.
+
+A control comparison is useful when it tests a plausible alternative explanation. It is not compulsory to invent an untreated “control group” for every measurement: a titration instead needs known volumes, suitable reagents and a consistent endpoint.
 
 ## Measurements, errors and improvements
 
@@ -33,7 +37,11 @@ Choose equipment appropriate to the quantity and required resolution: balance fo
 
 **Uncertainty:** report how much the readings vary, for example using their range. Consider the instrument's resolution as well as the spread of repeated readings.
 
+### Resolution does not remove other errors
 
+A thermometer reading to **0.1°C** can still lag behind the true maximum temperature. A more finely divided scale does not remove heat loss or slow response. Match the improvement to the problem: insulation limits heat loss, prompt mixing improves consistency, and an appropriate probe can record changes more frequently.
+
+For a difference between two readings, consider uncertainty in **both**. If each burette reading has a stated uncertainty of ±0.05 cm³, a titre has a simple maximum uncertainty of **±0.10 cm³**. At a titre of 20.00 cm³, this is **0.10 ÷ 20.00 × 100 = 0.5%**. Use the uncertainty convention specified in the question.
 
 ## Evidence, graphs and conclusions
 
@@ -120,6 +128,12 @@ Hydrogen: burning splint/pop. Oxygen: glowing splint relights. Chlorine: damp li
 A positive ΔT normally indicates an **exothermic** reaction transferring energy to surroundings; a negative ΔT indicates **endothermic** uptake. Heat exchange with the room, delayed thermometer response and incomplete reaction affect results. Better insulation and consistent mixing reduce some errors. A temperature–time graph can help estimate the change at mixing by an appropriate extrapolation when the question supplies suitable data.
 
 Do not compare different total liquid masses as if equal ΔT always means equal energy transferred. Where relevant data/formula are supplied, **Q = mcΔT** connects mass, heat capacity and temperature change. Use small safe quantities, eye protection, secure cups and appropriate control of gas-producing reactions; do not tightly seal them.
+
+### Estimate the change at the mixing time
+
+If a temperature–time graph shows cooling after an exothermic peak, extend the suitable cooling trend back to the mixing time. Compare that estimated temperature with the initial temperature at mixing. This estimates a change before the measured cooling loss, rather than treating the last recorded temperature as the reaction maximum.
+
+Only extrapolate when the supplied data support a suitable trend. The estimate still depends on the cooling model and does not make all heat exchange disappear.
 
 ## Concentration and rate: gas volume
 
@@ -208,7 +222,23 @@ Connect an improvement to the error it solves: checking leaks limits gas loss; d
 
 Use labelled tables/graphs, SI units and appropriate precision. Support conclusions with data and uncertainty. Reproducible evidence and peer review strengthen claims, but models and experiments still have limits.
 
+### Make evaluation specific to the method
+
+| Observation or limitation | Likely problem | Useful response |
+|---|---|---|
+| Gas volume is consistently low. | Gas may escape before sealing or through a leak. | Check seals and reduce the mixing-to-sealing delay. |
+| Titres often overshoot the endpoint. | Too much solution is added close to the colour change. | Use the rough titre to approach cautiously, then add dropwise. |
+| The cross disappears at different apparent cloudiness. | Judgement or viewing conditions vary. | Fix viewing conditions or use a light sensor with one threshold. |
+| Tiny residue masses vary greatly. | The measured difference is close to balance resolution. | Use a suitable larger known sample and cool the basin before weighing. |
+
+Repeating improves confidence in scattered results. It cannot recover gas lost in every trial or remove an incorrect instrument zero.
+
 ## Sources
 
 - [AQA Chemistry practical assessment](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/practical-assessment)
 - [AQA Working scientifically](https://www.aqa.org.uk/subjects/chemistry/gcse/chemistry-8462/specification/working-scientifically)
+
+- [PMT: Practical Skills - AQA Chemistry GCSE](../Reference Materials/PMT - Summary Practical - AQA Chemistry.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Separating Techniques](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques). Cross-checked against the project specification.
+- [Study Rocket: Analysis Of Rates Of Reaction](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/analysis-of-rates-of-reaction). Cross-checked against the project specification.
+- [Study Rocket: Water Treatment](https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/water-treatment). Cross-checked against the project specification.

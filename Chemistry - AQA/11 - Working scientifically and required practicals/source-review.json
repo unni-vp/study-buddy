@@ -1,0 +1,67 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Chemistry - AQA",
+  "specification": "AQA 8462: working scientifically and all eight required practicals",
+  "sections_refined": [
+    "From question to fair investigation",
+    "Measurements, errors and improvements",
+    "Temperature changes in reacting solutions",
+    "Applying practical skills to new questions"
+  ],
+  "pmt_references": [
+    {
+      "title": "Practical Skills - AQA Chemistry GCSE",
+      "topic": "practical-skills",
+      "url": "https://pmt.physicsandmathstutor.com/download/Chemistry/GCSE/Notes/AQA/Practical-Skills/Practical Skills - AQA Chemistry GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/chemistry-revision/gcse-aqa/practical-skills",
+      "selection": "Practical notes",
+      "file": "practical-skills-practical-skills-aqa-chemistry-gcse.pdf",
+      "pages": 4,
+      "sha256": "50a4b8218005dc66e580d18aef61ad910473b157a92f8a5efb58234cdd590308",
+      "local_path": "Reference Materials\\PMT - Summary Practical - AQA Chemistry.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "PMT offers this general Practical Skills PDF rather than a separate summary for each required chemistry practical in this index. Reviewed it alongside the existing full eight practical methods, AQA practical requirements and SR application pages. Preserved every apparatus diagram. Added pilot choices, two-reading uncertainty, cooling extrapolation and method-specific improvements. Did not copy unqualified discard-anomaly advice or insist every experiment has a control group."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Separating Techniques",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-atomic-structure/separating-techniques",
+      "file": "separating-techniques.txt",
+      "words": 1000
+    },
+    {
+      "title": "Analysis Of Rates Of Reaction",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-rate-of-chemical-change/analysis-of-rates-of-reaction",
+      "file": "analysis-of-rates-of-reaction.txt",
+      "words": 461
+    },
+    {
+      "title": "Water Treatment",
+      "url": "https://studyrocket.co.uk/revision/gcse-chemistry-combined-science-aqa/combined-science-using-resources/water-treatment",
+      "file": "water-treatment.txt",
+      "words": 560
+    }
+  ],
+  "decisions": [
+    "PMT offers this general Practical Skills PDF rather than a separate summary for each required chemistry practical in this index. Reviewed it alongside the existing full eight practical methods, AQA practical requirements and SR application pages. Preserved every apparatus diagram. Added pilot choices, two-reading uncertainty, cooling extrapolation and method-specific improvements. Did not copy unqualified discard-anomaly advice or insist every experiment has a control group.",
+    "Study Rocket labels this course Combined Science, but includes some separate-science pages. The official AQA 8462 Higher specification determines inclusion; material is not removed merely because that source lacks it.",
+    "Preserved all curated cards and existing diagrams, methods, tables and worked examples unless explicitly corrected."
+  ],
+  "flashcards": {
+    "before": 41,
+    "added": 12,
+    "refined": 0,
+    "after": 53
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

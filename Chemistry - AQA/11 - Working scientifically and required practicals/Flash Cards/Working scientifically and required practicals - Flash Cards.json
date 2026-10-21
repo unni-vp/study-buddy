@@ -335,6 +335,90 @@
         "Observe/collect small product samples and use suitable gas/metal tests.",
         "Keep conditions controlled, avoid short circuits and use ventilation/eye protection without inhaling gases."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use a pilot before collecting a rate dataset?",
+      "back": [
+        "To choose a measurable range, suitable intervals and apparatus without exceeding safe or practical limits."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does every practical require an untreated control group?",
+      "back": [
+        "No. Choose comparisons that test an alternative explanation; every method still needs relevant control variables."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a thermometer with finer resolution remove heat loss?",
+      "back": [
+        "No. Resolution concerns reading detail; insulation addresses heat loss."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What maximum titre uncertainty follows from two readings each ±0.05 cm³?",
+      "back": [
+        "±0.10 cm³ using a simple sum of absolute reading uncertainties."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What percentage is a ±0.10 cm³ uncertainty in a 20.00 cm³ titre?",
+      "back": [
+        "0.5%."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why extrapolate a cooling trend back to mixing time?",
+      "back": [
+        "To estimate the temperature change before some heat was lost during measurement."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is an extrapolated temperature still an estimate?",
+      "back": [
+        "It assumes the selected cooling trend represents heat loss over the relevant interval."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What practical change addresses a repeated endpoint overshoot?",
+      "back": [
+        "Use a rough titre to locate the region, then add dropwise near the endpoint while swirling."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What improvement addresses subjective disappearing-cross endpoints?",
+      "back": [
+        "Keep viewing conditions fixed or use a light sensor and consistent threshold."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should an evaporating basin cool before final weighing?",
+      "back": [
+        "Hot apparatus can give unstable readings and must be handled safely."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is repeating a leaking gas collection method insufficient?",
+      "back": [
+        "The same gas loss can bias every trial. Repair the leak before repeating."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What two features should a practical improvement name?",
+      "back": [
+        "The specific source of error and how the proposed change reduces it."
+      ]
     }
   ]
 }
