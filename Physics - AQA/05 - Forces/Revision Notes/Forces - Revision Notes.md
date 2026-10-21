@@ -12,6 +12,10 @@ Forces are interactions between objects, measured in **newtons (N)**. An arrow s
 - **Non-contact forces:** gravitational, magnetic and electrostatic forces.
 - A **free-body diagram** shows only forces acting on the chosen object. Name the source of each force where useful.
 
+### A minus sign does not define a vector
+
+Temperature is a scalar even when reported as **−5°C**. A negative velocity, such as **−3 m/s**, instead indicates motion opposite to a chosen positive direction. Classify the quantity by whether it needs direction, not simply whether its number can be negative.
+
 ## Weight, resultants and components
 
 **Weight is gravitational force.**
@@ -101,6 +105,12 @@ If 30 N acts 0.20 m on one side, a force 0.40 m on the other must be (30 × 0.20
 A fully stationary object also needs balanced forces.
 
 Levers transmit turning effects about a pivot. Meshing gears transmit rotation through forces between teeth; adjacent gears rotate in **opposite directions**. A larger driven gear rotates more slowly and gives a greater turning effect for an ideal system. Mechanical advantage does not create energy.
+
+### Include every turning effect
+
+For a uniform horizontal beam, its own weight acts at its centre. If that line of action does not pass through the pivot, include its moment alongside attached loads. A force through the pivot has **zero perpendicular distance**, so it contributes no moment about that pivot, although it can still help balance the forces.
+
+A larger driven gear can increase turning effect while reducing rotation speed. It does not increase the input power for free. In a real system, friction also dissipates some energy.
 
 ## Pressure, upthrust and the atmosphere
 
@@ -200,6 +210,17 @@ This equation is not for changing acceleration.
 
 Moving in a circle at constant speed still changes **velocity**, because direction changes. A resultant force towards the centre is needed.
 
+### Average speed is not usually the average of two speeds
+
+A cyclist travels **60 m at 3 m/s**, then **60 m at 6 m/s**.
+
+1. First time = **60 ÷ 3 = 20 s**.
+2. Second time = **60 ÷ 6 = 10 s**.
+3. Total distance = **120 m**; total time = **30 s**.
+4. Average speed = **120 ÷ 30 = 4 m/s**, rather than 4.5 m/s.
+
+The slower stage takes longer. A simple average of speeds works only in appropriate circumstances, such as equal time spent at each speed.
+
 ## Reading motion graphs
 
 | Graph | Gradient | Area |
@@ -221,6 +242,16 @@ Moving in a circle at constant speed still changes **velocity**, because directi
 3. Displacement = ½ × 4 × 8 + 3 × 8 = **40 m**.
 
 All velocities are positive, so distance is also 40 m.
+
+### Negative acceleration can mean speeding up
+
+Choose right as positive. A trolley changes from **−2 m/s to −6 m/s in 2 s**.
+
+**a = (−6 − (−2)) ÷ 2 = −2 m/s²**
+
+It is moving left and becoming faster. Both velocity and acceleration point left. Negative acceleration therefore does not always mean slowing down. An object slows when acceleration points opposite to its velocity.
+
+A displacement–time line can slope down as an object moves back towards the chosen origin. A graph of **total distance travelled** cannot decrease. Check exactly what “distance” labels in a question describe.
 
 ## Newton's laws and terminal velocity
 
@@ -333,3 +364,38 @@ Momentum change has magnitude **600 kg m/s**.
 
 - Over **0.20 s**, average force magnitude = 600 ÷ 0.20 = **3,000 N**.
 - Over **0.50 s**, average force magnitude = 600 ÷ 0.50 = **1,200 N**.
+
+### Reversing direction gives a larger momentum change
+
+A **0.20 kg** ball approaches a wall at **5 m/s** and rebounds at **3 m/s**. Choose towards the wall as positive.
+
+1. Initial momentum = **0.20 × 5 = +1.0 kg m/s**.
+2. Final momentum = **0.20 × (−3) = −0.60 kg m/s**.
+3. Change = final − initial = **−1.6 kg m/s**.
+4. If contact lasts **0.040 s**, average force = **−1.6 ÷ 0.040 = −40 N**.
+
+The force has magnitude **40 N away from the wall**. Subtracting speeds without their directions would underestimate the change.
+
+## Sources
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Forces Acceleration](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-acceleration). Cross-checked against the project specification.
+- [Study Rocket: Forces Calculating Forces](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-calculating-forces). Cross-checked against the project specification.
+- [Study Rocket: Forces Contact And Non Contact Forces](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-contact-and-non-contact-forces). Cross-checked against the project specification.
+- [Study Rocket: Forces Distance Displacements Speed And Velocity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-distance-displacements-speed-and-velocity). Cross-checked against the project specification.
+- [Study Rocket: Forces Distance Time Graphs](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-distance-time-graphs). Cross-checked against the project specification.
+- [Study Rocket: Forces Fluid Pressure](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-fluid-pressure). Cross-checked against the project specification.
+- [Study Rocket: Forces Forces And Elasticity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-forces-and-elasticity). Cross-checked against the project specification.
+- [Study Rocket: Forces Inertia Newtons Third Law](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-inertia-newtons-third-law). Cross-checked against the project specification.
+- [Study Rocket: Forces Moments](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-moments). Cross-checked against the project specification.
+- [Study Rocket: Forces Momentum](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-momentum). Cross-checked against the project specification.
+- [Study Rocket: Forces Newtons First Law](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-first-law). Cross-checked against the project specification.
+- [Study Rocket: Forces Newtons Second Law](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law). Cross-checked against the project specification.
+- [Study Rocket: Forces Reaction Time](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-reaction-time). Cross-checked against the project specification.
+- [Study Rocket: Forces Resultant Forces And Work Done](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-resultant-forces-and-work-done). Cross-checked against the project specification.
+- [Study Rocket: Forces Springs](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-springs). Cross-checked against the project specification.
+- [Study Rocket: Forces Stopping Distances](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-stopping-distances). Cross-checked against the project specification.
+- [Study Rocket: Forces Terminal Velocity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-terminal-velocity). Cross-checked against the project specification.
+- [Study Rocket: Forces Upthrust And Atmospheric Pressure](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-upthrust-and-atmospheric-pressure). Cross-checked against the project specification.
+- [Study Rocket: Forces Velocity Time Graphs](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-velocity-time-graphs). Cross-checked against the project specification.
+- [Study Rocket: Forces Weight Mass And Gravity](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-weight-mass-and-gravity). Cross-checked against the project specification.

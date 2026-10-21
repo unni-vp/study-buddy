@@ -254,6 +254,118 @@
         "p = F/A = 120/0.00060.",
         "**200,000 Pa**."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a scalar have a negative value?",
+      "back": [
+        "Yes. Temperature in Celsius can be negative; a scalar does not require direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is average speed for 60 m at 3 m/s followed by 60 m at 6 m/s?",
+      "back": [
+        "4 m/s, because 120 m takes 30 s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does averaging those two speeds give the wrong result?",
+      "back": [
+        "The cyclist spends longer at the slower speed; the times are unequal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does negative acceleration always mean slowing down?",
+      "back": [
+        "No. An object moving in the negative direction can speed up with negative acceleration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What acceleration changes velocity from −2 to −6 m/s in 2 s?",
+      "back": [
+        "−2 m/s²."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When does acceleration make an object slow down?",
+      "back": [
+        "When it acts opposite to the velocity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can total distance travelled decrease on a graph?",
+      "back": [
+        "No. Displacement or distance from a chosen point can decrease, but cumulative distance cannot."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When must a beam’s own weight be included in a moment calculation?",
+      "back": [
+        "When its line of action has a non-zero perpendicular distance from the pivot."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a force through a pivot have no effect at all?",
+      "back": [
+        "It has zero moment about that pivot but can contribute to force balance."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a larger driven gear create extra power?",
+      "back": [
+        "No. Greater turning effect is accompanied by slower rotation, with real energy losses too."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For a 0.20 kg ball changing from +5 to −3 m/s, what is Δp?",
+      "back": [
+        "−1.6 kg m/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What average force produces that momentum change in 0.040 s?",
+      "back": [
+        "−40 N, opposite to the chosen positive direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does rebound usually change momentum more than stopping from the same incoming speed?",
+      "back": [
+        "Momentum first falls to zero and then changes into the opposite direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is stationary floating consistent with zero resultant force?",
+      "back": [
+        "Upthrust balances weight; there is no continuing upward resultant."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does passing the proportionality limit prove permanent deformation?",
+      "back": [
+        "No. Unloading tests elastic recovery separately from whether force and extension are proportional."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use the supplied g instead of automatically substituting 10 N/kg?",
+      "back": [
+        "Gravitational field strength depends on location and the question’s stated value."
+      ]
     }
   ]
 }

@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is a vector quantity?",
+      "back": [
+        "A quantity with magnitude and direction."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name the force opposing motion through air.",
+      "back": [
+        "Air resistance."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the unit of a moment?",
+      "back": [
+        "Newton-metre (Nm)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "State the equation for momentum.",
+      "back": [
+        "p = mv."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does the gradient of a distance–time graph represent?",
+      "back": [
+        "Speed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A person walks 30 m east and 10 m west. State the total distance and displacement.",
+      "back": [
+        "Distance = 30 + 10 = **40 m**.",
+        "Displacement = **20 m east**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Calculate the weight of a 50 kg object where g = 9.8 N/kg.",
+      "back": [
+        "**W = mg** = 50 × 9.8 = **490 N**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Forces of 18 N east and 7 N west act on an object. Find the resultant.",
+      "back": [
+        "18 − 7 = **11 N east**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "A 5 N resultant force acts on a 2.0 kg object. Calculate its acceleration.",
+      "back": [
+        "**a = F/m** = 5/2.0 = **2.5 m/s²** in the direction of the resultant force."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain how an object can move at constant speed but have changing velocity.",
+      "back": [
+        "Velocity includes **direction** as well as speed.",
+        "Motion around a circle changes direction, so velocity changes even at constant speed."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State the difference between elastic and inelastic deformation.",
+      "back": [
+        "Elastic deformation **reverses when the forces are removed**.",
+        "Inelastic deformation leaves a **permanent shape change**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why using a longer spanner can make a nut easier to turn.",
+      "back": [
+        "It increases the **perpendicular distance from the pivot**.",
+        "**M = Fd**, so the same force produces a greater moment."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two factors that can increase thinking distance at the same speed.",
+      "back": [
+        "Tiredness can **increase reaction time**.",
+        "Distraction can **delay the driver’s response**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does atmospheric pressure decrease with height?",
+      "back": [
+        "At higher altitude there is **less air above** a surface.",
+        "The weight of the air above and its density are lower, so atmospheric pressure is lower."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A spring extends from 12.0 cm to 15.0 cm under a force of 9.0 N. Calculate its spring constant within the proportional region.",
+      "back": [
+        "Extension = 15.0 − 12.0 = 3.0 cm = **0.030 m**.",
+        "**k = F/e** = 9.0/0.030.",
+        "**300 N/m**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A force of 25 N moves a box 2.4 m along the force direction. Calculate the work and describe the main energy transfer if the box moves steadily against friction.",
+      "back": [
+        "**W = Fs** = 25 × 2.4 = **60 J**.",
+        "The force does work against friction.",
+        "Energy transfers into **thermal stores** of the surfaces and surroundings."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 40 N force acts 0.15 m from a pivot. A second perpendicular force acts 0.30 m on the other side. Find the force needed for rotational balance.",
+      "back": [
+        "First moment = 40 × 0.15 = **6.0 Nm**.",
+        "Balance requires F × 0.30 = 6.0.",
+        "**F = 20 N**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Calculate the pressure due to water at a depth of 3.0 m. Density is 1,000 kg/m³ and g = 9.8 N/kg.",
+      "back": [
+        "**p = hρg**.",
+        "p = 3.0 × 1,000 × 9.8.",
+        "**29,400 Pa**, above the pressure at the surface."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why an immersed object experiences upthrust.",
+      "back": [
+        "Liquid pressure **increases with depth**.",
+        "Pressure on the bottom is greater than on the top.",
+        "The difference gives an **upward resultant force**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A car accelerates uniformly from 4.0 m/s to 16 m/s in 6.0 s. Calculate its acceleration and state the resultant force if its mass is 1,000 kg.",
+      "back": [
+        "a = (v − u)/t = (16 − 4.0)/6.0 = **2.0 m/s²**.",
+        "**F = ma**.",
+        "F = 1,000 × 2.0 = **2,000 N**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how a falling object reaches terminal velocity.",
+      "back": [
+        "Initially weight exceeds drag, so it accelerates downwards.",
+        "Increasing speed increases **drag**, reducing the resultant force.",
+        "When **drag equals weight**, acceleration is zero and velocity becomes constant."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A book rests on a table. Explain why its weight and the table’s normal force are not a Newton’s third-law pair, and identify the partner to its weight.",
+      "back": [
+        "Both named forces act on the **same object**, the book.",
+        "Third-law partners act on **different objects**.",
+        "The partner to Earth’s gravitational pull on the book is the **book’s gravitational pull on Earth**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A 1,500 kg car at 20 m/s has a driver reaction time of 0.60 s. Calculate its momentum and thinking distance.",
+      "back": [
+        "Momentum = mv = 1,500 × 20 = **30,000 kg m/s**.",
+        "Thinking distance = speed × reaction time.",
+        "20 × 0.60 = **12 m**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how an airbag reduces injury in a collision using momentum.",
+      "back": [
+        "The passenger undergoes the same required **momentum change** to come to rest.",
+        "The airbag increases the **stopping time**.",
+        "**F = Δp/Δt**, so average force is smaller."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "An object accelerates uniformly from rest at 3.0 m/s² over 24 m. Calculate its final speed.",
+      "back": [
+        "**v² − u² = 2as**.",
+        "v² = 0 + 2 × 3.0 × 24 = **144**.",
+        "v = √144.",
+        "**12 m/s**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 3.0 kg trolley moving right at 4.0 m/s sticks to a 1.0 kg trolley moving left at 2.0 m/s. Calculate their shared final velocity, assuming no resultant external force.",
+      "back": [
+        "Choose right positive: initial momentum = 3.0 × 4.0 + 1.0 × (−2.0) = **10 kg m/s**.",
+        "Total mass = **4.0 kg**.",
+        "Conserved momentum gives 4.0v = 10.",
+        "**v = 2.5 m/s right**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A 0.50 kg ball moving right at 6.0 m/s rebounds left at 4.0 m/s in 0.10 s. Find the average force on the ball.",
+      "back": [
+        "Right positive: u = +6.0, v = −4.0 m/s.",
+        "Δp = m(v − u) = 0.50 × (−4.0 − 6.0) = **−5.0 kg m/s**.",
+        "F = Δp/Δt = −5.0/0.10 = **−50 N**.",
+        "The force is **50 N left**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Use the graph to calculate acceleration during the first 4 s and total displacement in 7 s.",
+      "back": [
+        "Acceleration = gradient = (8 − 0)/(4 − 0) = **2 m/s²**.",
+        "Triangle area = ½ × 4 × 8 = **16 m**.",
+        "Rectangle area = 3 × 8 = **24 m**.",
+        "Total displacement = **40 m**."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain the effect of doubling a car’s speed on thinking distance and braking distance, assuming fixed reaction time, mass and braking force.",
+      "back": [
+        "Thinking distance = vt, so it **doubles**.",
+        "Kinetic energy = ½mv², so it **quadruples**.",
+        "Braking work Fs removes that energy; with fixed F, braking distance **quadruples**.",
+        "Total stopping distance is the sum, so its increase depends on the original two distances; it does not simply double."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A piston experiences 120 N over 6.0 cm². Calculate the pressure in pascals.",
+      "back": [
+        "1 cm² = **10⁻⁴ m²**.",
+        "Area = **0.00060 m²**.",
+        "p = F/A = 120/0.00060.",
+        "**200,000 Pa**."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Can a scalar have a negative value?",
+      "back": [
+        "Yes. Temperature in Celsius can be negative; a scalar does not require direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is average speed for 60 m at 3 m/s followed by 60 m at 6 m/s?",
+      "back": [
+        "4 m/s, because 120 m takes 30 s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does averaging those two speeds give the wrong result?",
+      "back": [
+        "The cyclist spends longer at the slower speed; the times are unequal."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does negative acceleration always mean slowing down?",
+      "back": [
+        "No. An object moving in the negative direction can speed up with negative acceleration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What acceleration changes velocity from −2 to −6 m/s in 2 s?",
+      "back": [
+        "−2 m/s²."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When does acceleration make an object slow down?",
+      "back": [
+        "When it acts opposite to the velocity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can total distance travelled decrease on a graph?",
+      "back": [
+        "No. Displacement or distance from a chosen point can decrease, but cumulative distance cannot."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When must a beam’s own weight be included in a moment calculation?",
+      "back": [
+        "When its line of action has a non-zero perpendicular distance from the pivot."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a force through a pivot have no effect at all?",
+      "back": [
+        "It has zero moment about that pivot but can contribute to force balance."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does a larger driven gear create extra power?",
+      "back": [
+        "No. Greater turning effect is accompanied by slower rotation, with real energy losses too."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "For a 0.20 kg ball changing from +5 to −3 m/s, what is Δp?",
+      "back": [
+        "−1.6 kg m/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What average force produces that momentum change in 0.040 s?",
+      "back": [
+        "−40 N, opposite to the chosen positive direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does rebound usually change momentum more than stopping from the same incoming speed?",
+      "back": [
+        "Momentum first falls to zero and then changes into the opposite direction."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is stationary floating consistent with zero resultant force?",
+      "back": [
+        "Upthrust balances weight; there is no continuing upward resultant."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does passing the proportionality limit prove permanent deformation?",
+      "back": [
+        "No. Unloading tests elastic recovery separately from whether force and extension are proportional."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use the supplied g instead of automatically substituting 10 N/kg?",
+      "back": [
+        "Gravitational field strength depends on location and the question’s stated value."
+      ]
+    }
+  ]
+}

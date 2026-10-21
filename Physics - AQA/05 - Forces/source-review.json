@@ -1,0 +1,169 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.5",
+  "sections_refined": [
+    "Scalars, vectors and interactions",
+    "Describing motion",
+    "Reading motion graphs",
+    "Moments, levers and gears",
+    "Momentum and collision safety"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "forces",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/5-Forces/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/forces/",
+      "selection": "Summary Notes",
+      "file": "forces-summary-notes.pdf",
+      "pages": 12,
+      "sha256": "e86589e25fd9929a2d57def6e54db5308eba126c3d42b317917a0e0b3d43c700",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all twelve PMT summary pages, all twenty SR Forces pages and 4.5 Higher/separate content. Preserved force-components, spring, trolley and motion-graph diagrams plus existing stopping examples. Added signed acceleration, unequal-time averages, beam-weight moments and rebound calculations. Rejected PMT scalar-negative rule, nonlinear spring always plastic, gears creating power, incorrect ruler-drop rearrangement, and signed velocity-graph area equated with total distance. Omitted Young modulus, trigonometric resolution and unrelated atmospheric-radiation assumptions."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Forces Acceleration",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-acceleration",
+      "file": "forces-acceleration.txt",
+      "words": 379
+    },
+    {
+      "title": "Forces Calculating Forces",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-calculating-forces",
+      "file": "forces-calculating-forces.txt",
+      "words": 364
+    },
+    {
+      "title": "Forces Contact And Non Contact Forces",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-contact-and-non-contact-forces",
+      "file": "forces-contact-and-non-contact-forces.txt",
+      "words": 567
+    },
+    {
+      "title": "Forces Distance Displacements Speed And Velocity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-distance-displacements-speed-and-velocity",
+      "file": "forces-distance-displacements-speed-and-velocity.txt",
+      "words": 437
+    },
+    {
+      "title": "Forces Distance Time Graphs",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-distance-time-graphs",
+      "file": "forces-distance-time-graphs.txt",
+      "words": 431
+    },
+    {
+      "title": "Forces Fluid Pressure",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-fluid-pressure",
+      "file": "forces-fluid-pressure.txt",
+      "words": 287
+    },
+    {
+      "title": "Forces Forces And Elasticity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-forces-and-elasticity",
+      "file": "forces-forces-and-elasticity.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Inertia Newtons Third Law",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-inertia-newtons-third-law",
+      "file": "forces-inertia-newtons-third-law.txt",
+      "words": 361
+    },
+    {
+      "title": "Forces Moments",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-moments",
+      "file": "forces-moments.txt",
+      "words": 382
+    },
+    {
+      "title": "Forces Momentum",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-momentum",
+      "file": "forces-momentum.txt",
+      "words": 363
+    },
+    {
+      "title": "Forces Newtons First Law",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-first-law",
+      "file": "forces-newtons-first-law.txt",
+      "words": 406
+    },
+    {
+      "title": "Forces Newtons Second Law",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-newtons-second-law",
+      "file": "forces-newtons-second-law.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Reaction Time",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-reaction-time",
+      "file": "forces-reaction-time.txt",
+      "words": 349
+    },
+    {
+      "title": "Forces Resultant Forces And Work Done",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-resultant-forces-and-work-done",
+      "file": "forces-resultant-forces-and-work-done.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Springs",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-springs",
+      "file": "forces-springs.txt",
+      "words": 331
+    },
+    {
+      "title": "Forces Stopping Distances",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-stopping-distances",
+      "file": "forces-stopping-distances.txt",
+      "words": 360
+    },
+    {
+      "title": "Forces Terminal Velocity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-terminal-velocity",
+      "file": "forces-terminal-velocity.txt",
+      "words": 337
+    },
+    {
+      "title": "Forces Upthrust And Atmospheric Pressure",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-upthrust-and-atmospheric-pressure",
+      "file": "forces-upthrust-and-atmospheric-pressure.txt",
+      "words": 283
+    },
+    {
+      "title": "Forces Velocity Time Graphs",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-velocity-time-graphs",
+      "file": "forces-velocity-time-graphs.txt",
+      "words": 312
+    },
+    {
+      "title": "Forces Weight Mass And Gravity",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/forces/forces-weight-mass-and-gravity",
+      "file": "forces-weight-mass-and-gravity.txt",
+      "words": 301
+    }
+  ],
+  "decisions": [
+    "Reviewed all twelve PMT summary pages, all twenty SR Forces pages and 4.5 Higher/separate content. Preserved force-components, spring, trolley and motion-graph diagrams plus existing stopping examples. Added signed acceleration, unequal-time averages, beam-weight moments and rebound calculations. Rejected PMT scalar-negative rule, nonlinear spring always plastic, gears creating power, incorrect ruler-drop rearrangement, and signed velocity-graph area equated with total distance. Omitted Young modulus, trigonometric resolution and unrelated atmospheric-radiation assumptions.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 30,
+    "added": 16,
+    "refined": 0,
+    "after": 46
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
