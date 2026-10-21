@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "What is an import?",
+      "back": [
+        "A good or service bought from another country."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does a population pyramid show?",
+      "back": [
+        "The age and sex structure of a population."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Define immigration.",
+      "back": [
+        "Movement into a country to live."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is suburbanisation?",
+      "back": [
+        "Movement of people or activities from the inner city to the urban edge."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Name one indicator of development within the UK.",
+      "back": [
+        "Income."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which city is the major UK city case study in this course?",
+      "back": [
+        "Leeds."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why using income alone may give a misleading picture of development.",
+      "back": [
+        "Income does not show health, education or access to services.",
+        "An average can hide large differences between people or neighbourhoods."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two reasons why an area with good infrastructure may attract businesses.",
+      "back": [
+        "Transport links make workers, customers and goods easier to reach.",
+        "Reliable broadband helps firms communicate and provide digital services."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain why the UK population is ageing.",
+      "back": [
+        "People live longer because death rates have fallen.",
+        "Lower birth rates mean young people form a smaller share of the population."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one social and one economic benefit of immigration.",
+      "back": [
+        "Social: migrants can add cultural diversity.",
+        "Economic: migrants can fill skills gaps, work and pay taxes."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one possible consequence of counter-urbanisation for a rural settlement.",
+      "back": [
+        "Housing demand may rise as people move in.",
+        "This can increase prices and make homes less affordable for existing residents."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two challenges created by rapid city growth.",
+      "back": [
+        "Increased demand for affordable housing.",
+        "More congestion and pressure on transport."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one reason why development varies across the UK.",
+      "back": [
+        "Areas with poor transport or digital connections are less accessible.",
+        "Firms may invest elsewhere because costs or travel times are lower.",
+        "This reduces job opportunities and income in the less connected area."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain one challenge caused by an ageing population.",
+      "back": [
+        "A larger older population increases demand for healthcare and social care.",
+        "These services require more workers and public spending.",
+        "With fewer workers per dependent person, funding them can become harder."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how migration can change the character of a city.",
+      "back": [
+        "Migrants bring languages, food, beliefs and traditions.",
+        "They may establish businesses and community services.",
+        "These changes make neighbourhoods and the city's workforce more diverse."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain how the decline of the docks affected Salford Quays.",
+      "back": [
+        "Larger container ships and competition from coastal ports reduced dock activity.",
+        "The docks closed in 1982, removing dock and linked industrial jobs.",
+        "Unemployment, polluted water and derelict land damaged the area's environment and image."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how government policy and infrastructure can reduce uneven development.",
+      "back": [
+        "Government can fund regeneration, education or business support in weaker areas.",
+        "These policies can create jobs and improve skills.",
+        "Better roads, rail and broadband connect people and firms to markets.",
+        "Improved accessibility can attract investment and raise incomes."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain two possible impacts of re-urbanisation.",
+      "back": [
+        "Reusing brownfield land can bring homes, jobs and improved public spaces back to an inner city.",
+        "Rising demand may increase rents and house prices, so some lower-income residents may be displaced or excluded."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain how regeneration changed Salford Quays.",
+      "back": [
+        "Public investment reclaimed land, cleaned the waterfront and improved transport and public space.",
+        "The Lowry opened in 2000 and MediaCity in 2011, attracting visitors, broadcasters and creative firms.",
+        "MediaCity now contains major broadcasters and more than 250 creative and technology businesses.",
+        "However, expensive housing and skilled jobs mean benefits are not shared equally with nearby communities."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why Leeds is important at more than one scale.",
+      "back": [
+        "Leeds had about 812,000 residents in 2021 and around 471,000 people work there, making it a major regional employment and service centre.",
+        "Finance, retail, healthcare, universities and culture attract people from across northern England.",
+        "Rail and motorway links connect firms and workers to other UK cities.",
+        "Universities and internationally connected businesses also attract overseas students, skills and investment."
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "front": "Name one indicator of development within the UK.",
+      "back": [
+        "Income, life expectancy, educational attainment, employment or broadband access can help compare opportunities and living conditions. Ethnicity describes diversity, rather than a higher-to-lower development ranking."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Why can the UK import and export cars at the same time?",
+      "back": [
+        "Different firms produce different models and components. Trade is not limited to one country making everything in a broad product category."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which was the UK’s largest individual trading partner for goods and services in 2025?",
+      "back": [
+        "The United States, with about 17.5% of total trade. The scope includes both exports and imports of goods and services."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should a goods-only trade ranking not be treated as a total-trade ranking?",
+      "back": [
+        "Total trade includes services as well as goods. Including finance, consultancy and other services can change the order of partners."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Give an example of a tertiary and a quaternary job.",
+      "back": [
+        "A shop worker provides a tertiary service. A research scientist or software-research specialist performs quaternary, knowledge-based work."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can manufacturing employment fall while a factory’s output stays high?",
+      "back": [
+        "Yes. Automation and productivity improvements can reduce the workers needed to produce the same or a larger amount."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is ethnicity not a measure for ranking how developed a population is?",
+      "back": [
+        "It describes cultural identity and diversity. It does not place ethnic groups on a higher-to-lower development scale."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can average regional income hide local deprivation?",
+      "back": [
+        "A high average can be raised by wealthy residents while other neighbourhoods have low incomes. Living costs and the distribution of income also matter."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a factory closure create a negative multiplier effect?",
+      "back": [
+        "Workers lose earnings and spend less locally. Suppliers and nearby shops lose income too, which can cause further job losses."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might regeneration jobs not automatically benefit former dock workers?",
+      "back": [
+        "The new roles may require different skills, qualifications or access. Training and affordable transport help connect existing residents to opportunities."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When did the docks close at Salford Quays, and why is that useful evidence?",
+      "back": [
+        "They closed in 1982. It anchors the explanation of job loss, dereliction and the later need for regeneration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Were the original MediaCity figures of 10,000 jobs and £1 billion measured completed outcomes?",
+      "back": [
+        "No. They were early projections for economic growth. They should be described as forecasts rather than proof that every outcome had happened."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a country’s total population grow when deaths exceed births?",
+      "back": [
+        "Positive net migration can outweigh natural decrease. Total change combines natural change with migration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is one important difference between a population pyramid and the DTM?",
+      "back": [
+        "A pyramid shows age and sex structure. The DTM describes changes in birth and death rates through broad stages."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is later retirement not equally suitable for every older person?",
+      "back": [
+        "Health, caring responsibilities and the physical demands of work differ. The policy can increase labour supply but may be harder for some groups."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do the 2025 study and work immigration percentages describe every UK immigrant?",
+      "back": [
+        "No. The 47% study and 23% work figures refer to the specified non-EU+ group in that year. They should not be applied to all arrivals."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does re-urbanisation differ from counter-urbanisation?",
+      "back": [
+        "Re-urbanisation brings people and investment back to inner urban areas. Counter-urbanisation moves people from cities to smaller settlements or rural areas."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does Leeds West Indian Carnival illustrate about migration?",
+      "back": [
+        "Migration can shape culture, leisure and the use of public space, as well as population numbers. The carnival began in 1967."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is the Leeds PIPES network more specific evidence than simply saying a city recycles?",
+      "back": [
+        "It uses recovered heat to supply buildings, linking waste treatment to lower-carbon heating. Its value depends on actual connections, operation and who benefits."
+      ]
+    }
+  ]
+}

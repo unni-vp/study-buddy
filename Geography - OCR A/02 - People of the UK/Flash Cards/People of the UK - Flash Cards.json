@@ -33,7 +33,7 @@
       "category": "Quick recall",
       "front": "Name one indicator of development within the UK.",
       "back": [
-        "Income."
+        "Income, life expectancy, educational attainment, employment or broadband access can help compare opportunities and living conditions. Ethnicity describes diversity, rather than a higher-to-lower development ranking."
       ]
     },
     {
@@ -163,6 +163,132 @@
         "Finance, retail, healthcare, universities and culture attract people from across northern England.",
         "Rail and motorway links connect firms and workers to other UK cities.",
         "Universities and internationally connected businesses also attract overseas students, skills and investment."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can the UK import and export cars at the same time?",
+      "back": [
+        "Different firms produce different models and components. Trade is not limited to one country making everything in a broad product category."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which was the UK’s largest individual trading partner for goods and services in 2025?",
+      "back": [
+        "The United States, with about 17.5% of total trade. The scope includes both exports and imports of goods and services."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should a goods-only trade ranking not be treated as a total-trade ranking?",
+      "back": [
+        "Total trade includes services as well as goods. Including finance, consultancy and other services can change the order of partners."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Give an example of a tertiary and a quaternary job.",
+      "back": [
+        "A shop worker provides a tertiary service. A research scientist or software-research specialist performs quaternary, knowledge-based work."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can manufacturing employment fall while a factory’s output stays high?",
+      "back": [
+        "Yes. Automation and productivity improvements can reduce the workers needed to produce the same or a larger amount."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is ethnicity not a measure for ranking how developed a population is?",
+      "back": [
+        "It describes cultural identity and diversity. It does not place ethnic groups on a higher-to-lower development scale."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can average regional income hide local deprivation?",
+      "back": [
+        "A high average can be raised by wealthy residents while other neighbourhoods have low incomes. Living costs and the distribution of income also matter."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can a factory closure create a negative multiplier effect?",
+      "back": [
+        "Workers lose earnings and spend less locally. Suppliers and nearby shops lose income too, which can cause further job losses."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might regeneration jobs not automatically benefit former dock workers?",
+      "back": [
+        "The new roles may require different skills, qualifications or access. Training and affordable transport help connect existing residents to opportunities."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "When did the docks close at Salford Quays, and why is that useful evidence?",
+      "back": [
+        "They closed in 1982. It anchors the explanation of job loss, dereliction and the later need for regeneration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Were the original MediaCity figures of 10,000 jobs and £1 billion measured completed outcomes?",
+      "back": [
+        "No. They were early projections for economic growth. They should be described as forecasts rather than proof that every outcome had happened."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a country’s total population grow when deaths exceed births?",
+      "back": [
+        "Positive net migration can outweigh natural decrease. Total change combines natural change with migration."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is one important difference between a population pyramid and the DTM?",
+      "back": [
+        "A pyramid shows age and sex structure. The DTM describes changes in birth and death rates through broad stages."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is later retirement not equally suitable for every older person?",
+      "back": [
+        "Health, caring responsibilities and the physical demands of work differ. The policy can increase labour supply but may be harder for some groups."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do the 2025 study and work immigration percentages describe every UK immigrant?",
+      "back": [
+        "No. The 47% study and 23% work figures refer to the specified non-EU+ group in that year. They should not be applied to all arrivals."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does re-urbanisation differ from counter-urbanisation?",
+      "back": [
+        "Re-urbanisation brings people and investment back to inner urban areas. Counter-urbanisation moves people from cities to smaller settlements or rural areas."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What does Leeds West Indian Carnival illustrate about migration?",
+      "back": [
+        "Migration can shape culture, leisure and the use of public space, as well as population numbers. The carnival began in 1967."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is the Leeds PIPES network more specific evidence than simply saying a city recycles?",
+      "back": [
+        "It uses recovered heat to supply buildings, linking waste treatment to lower-carbon heating. Its value depends on actual connections, operation and who benefits."
       ]
     }
   ]

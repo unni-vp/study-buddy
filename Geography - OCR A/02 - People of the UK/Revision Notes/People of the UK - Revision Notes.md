@@ -1,36 +1,54 @@
 # People of the UK
 
 ## The UK in the wider world
+### Trade connects the UK to other places
 
-### Trade and connections
+**Exports** are goods and services sold abroad. **Imports** are bought from other countries. Think of trade as a network of exchanges: British firms sell specialised products and services, while households and businesses buy goods that are made elsewhere.
 
-The UK is connected to other countries through trade, investment, migration, transport and communication.
+Goods are physical products. Services include activities such as finance, consultancy, transport and tourism. A country can import and export the same broad product category because firms make different models or components.
 
-- **Exports** are goods and services sold to other countries.
-- **Imports** are goods and services bought from other countries.
-- Important exports include services, medicines, machinery and vehicles.
-- Important imports include manufactured goods, food, fuels and raw materials.
-- Trade patterns change with price, demand, transport costs, political agreements and specialised skills.
+| Trade flow | Important examples |
+|---|---|
+| UK goods exports | Machinery and power-generation equipment, medicines, cars and aircraft. |
+| UK service exports | Business services, financial services and other specialised work for overseas customers. |
+| UK goods imports | Cars, machinery, medicines, fuels, electronics and food. |
 
-**Analogy:** Trade is like a huge swap system. The UK sells what it can produce competitively and buys products that other places supply more cheaply or in greater quantities.
+### Major trading partners
 
-### Measuring development within the UK
+This **2025 snapshot** combines exports and imports of **goods and services**. A goods-only ranking would be different.
 
-One indicator never tells the whole story. Use several:
+| Partner | Share of total UK trade in 2025 |
+|---|---:|
+| United States | 17.5% |
+| Germany | 8.0% |
+| Netherlands | 6.2% |
+| China | 5.5% |
+| France | 5.5% |
 
-- **Employment:** the number and type of jobs available.
-- **Income:** earnings and household wealth.
-- **Life expectancy:** average length of life.
-- **Educational attainment:** qualifications and achievement.
-- **Ethnicity:** the cultural diversity of a population.
-- **Broadband access:** connection to digital services and opportunities.
+The United States was the largest individual partner, while nearby European economies also remained important. Distance, major ports, transport links, demand, specialist skills and trading arrangements help explain these connections. Global links create markets and jobs, but can also expose firms to overseas price changes or disrupted supply chains.
 
-### Why development is uneven
+### Compare diversity and inequality carefully
 
-- **Location:** accessibility and distance from major markets affect investment.
-- **Economic change:** the decline of an industry can remove many linked jobs.
-- **Infrastructure:** good transport and broadband attract firms and workers.
-- **Government policy:** investment, tax decisions and regeneration can help selected areas.
+One measure cannot describe every aspect of a place. Use several, and check whether the data cover a whole region or a small neighbourhood.
+
+| Measure | What it can reveal | What it can hide |
+|---|---|---|
+| Employment and job type | Availability of work and the balance of different industries. | A job may be insecure, poorly paid or difficult to reach. |
+| Average income | Differences in earnings or household resources. | An average can hide high inequality and different living costs. |
+| Life expectancy | Broad differences in health and living conditions. | Neighbourhoods within one city may differ greatly. |
+| Educational attainment | Differences in qualifications and access to opportunities. | Qualifications alone do not guarantee a suitable local job. |
+| Broadband access | Ability to use digital services, study and work online. | A connection does not guarantee that a household can afford equipment or has suitable skills. |
+| Ethnicity | Patterns of cultural diversity and community identity. | Ethnicity is not a scale on which one population is more developed than another. |
+
+### Why economic development is uneven
+
+**Location and infrastructure:** Firms need access to workers, customers and suppliers. Good transport and digital connections reduce delays and make a place more attractive for investment. A remote location with poor connections may struggle to compete.
+
+**Economic change:** Primary work extracts resources, secondary work manufactures products, tertiary work provides services, and quaternary work uses research and knowledge. The decline of mining or manufacturing can remove jobs and reduce spending in nearby businesses. Automation can also reduce employment even when a factory continues producing goods.
+
+**Government policy and investment:** Infrastructure, skills training and regeneration can attract employers. New investment may create a positive multiplier: firms provide jobs, employees spend locally, and that spending supports other businesses. The reverse can follow closure.
+
+Regional patterns are broad tendencies. Prosperous and deprived neighbourhoods can exist in the same region, so “the North is poor and the South is rich” is too simple.
 
 ## Economic change: Salford Quays
 
@@ -89,28 +107,33 @@ Since 1900, death rates have fallen and people generally live longer. Birth rate
 **Read the shape:** identify the age group and side, then use bar length. This model illustrates the skill; it is not a UK census dataset.
 
 ### Demographic Transition Model
+The **Demographic Transition Model (DTM)** links changes in birth and death rates with changes in population. It is like two taps affecting a tank: births add people and deaths remove them. The gap between the rates determines **natural change**, not the size of the population by itself.
 
-| Stage | Birth rate | Death rate | Population change |
-|---|---|---|---|
-| 1 | High | High | Small, fluctuating growth |
-| 2 | High | Falls rapidly | Rapid growth |
-| 3 | Falls | Low | Growth slows |
-| 4 | Low | Low | Stable or slow growth |
-| 5 | Very low | Low | Possible natural decrease |
+| Stage | Typical change | Effect on population |
+|---|---|---|
+| 1 | Birth and death rates are both high and fluctuate. | Natural growth is generally small. |
+| 2 | Death rates fall while birth rates remain high. | The large gap produces rapid natural increase. |
+| 3 | Birth rates fall while death rates remain low. | Natural increase continues but slows. |
+| 4 | Both rates are low. | Natural change is small, although total population may still change through migration. |
+| 5 | Birth rates can fall below death rates. | Natural decrease becomes possible. Migration can offset it. |
 
-The model is useful for showing a broad pattern, but countries do not all change at the same speed.
+Since 1900, the UK has moved from a pattern of falling death rates and later falling birth rates towards low rates and an older age structure. Better healthcare, sanitation and living conditions helped reduce deaths; changing family choices and access to contraception contributed to smaller families. Recent natural change can be very small or negative, but this does not by itself prove that the total population is falling.
 
 ![Schematic five-stage birth-rate and death-rate model](diagrams/demographic-transition.svg)
 
-**Natural change:** population grows when births exceed deaths. The model does not include migration.
+The model simplifies reality. Countries do not follow identical timings, wars or disease can interrupt trends, and **migration is not included**. A population pyramid shows the resulting age structure; the DTM instead focuses on birth and death rates.
 
 ### Ageing population
+A population **ages** when older people make up a greater proportion of the total. Longer life expectancy, lower birth rates and large generations reaching retirement all contribute.
 
-Causes include lower birth rates, longer life expectancy and the ageing of large generations.
+| Effect | Why it matters | Possible response |
+|---|---|---|
+| More demand for health and social care | A larger older population can increase the need for treatment, carers and accessible services. Needs vary between individuals. | Train care workers, coordinate services and adapt housing so people can live independently. |
+| Pressure on pensions and public spending | More pensioners relative to workers can make funding harder. | Encourage saving, review pension arrangements and support people who want to work longer. |
+| Demand for workers | Some sectors may face shortages as experienced staff retire. | Training, flexible employment and working-age migration can help fill gaps. |
+| Economic and social contributions | Older people spend money, volunteer, provide childcare and may remain in paid work. | Design accessible services and avoid treating every older person as dependent. |
 
-- **Benefits:** experienced workers, volunteering, spending by retired people and family support.
-- **Challenges:** greater demand for healthcare, pensions and social care; fewer workers per dependent person.
-- **Responses:** later retirement, workplace pensions, adapting homes and services, and encouraging working-age migration.
+A response has limits. Later retirement may be difficult for someone with ill health or a physically demanding job. Migration can support the workforce, but migrants also need housing and services and will themselves age. A combination of measures is more realistic than one permanent solution.
 
 ## Migration and ways of life
 
@@ -127,6 +150,14 @@ People migrate because of **push factors** such as unemployment or conflict and 
 - Effects vary by place, time and the age and skills of migrants.
 
 Avoid one-sided claims. A strong answer considers **social and economic benefits and challenges**.
+
+### Migration flows change over time
+
+The UK has received migrants from European countries and from other regions through work, study, family and humanitarian routes. European movement was particularly important after EU enlargement in the 2000s. The end of free movement and new arrangements from 2021 changed that context; work and study have been major reasons for non-EU immigration in recent years.
+
+In the ONS estimate for **2025**, study-related arrivals represented **47%** and work-related arrivals **23%** of non-EU+ immigration. These percentages describe that particular group and year, not every person arriving in Britain. People also leave: immigration alone is not net migration.
+
+Impacts depend on **where people settle**, their needs and the pace of investment. An extra worker may fill a vacancy and pay tax, while a rapidly growing neighbourhood may need additional school places. These effects can occur together. Demand pressure does not mean every migrant uses more public resources than they contribute.
 
 ## Urban change
 
@@ -221,3 +252,18 @@ Organise a developed answer as **challenge → named response → number showing
 - [MediaCity: original jobs and economic projections](https://www.placenorthwest.co.uk/mediacityuk-braces-for-bbc-expansion/)
 
 - [MediaCity supplier: five BBC departments and projected growth](https://www.cableflow.com/mediacityuk-manchester/)
+
+## Sources
+
+- [DBT/ONS: UK trade, 2025 tables](https://www.gov.uk/government/statistics/trade-and-investment-core-statistics-book/trade-and-investment-core-statistics-book).
+- [ONS: long-term international migration, latest release](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/latest).
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Changing cities - Edexcel A.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Migration](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/migration). Cross-checked against the project specification.
+- [Study Rocket: Population Growth](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/population-growth). Cross-checked against the project specification.
+- [Study Rocket: Docklands Decline](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/docklands-decline). Cross-checked against the project specification.
+- [Study Rocket: Economic Structure Of The Uk](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/economic-structure-of-the-uk). Cross-checked against the project specification.
+- [Study Rocket: Rural And Urban Areas](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/rural-and-urban-areas). Cross-checked against the project specification.
+- [Study Rocket: The Impact Of Globalisation](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/the-impact-of-globalisation). Cross-checked against the project specification.
+- [Study Rocket: Urban Rural Dependence](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/urban-rural-dependence). Cross-checked against the project specification.
+- [Study Rocket: Who Lives Where](https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/who-lives-where). Cross-checked against the project specification.

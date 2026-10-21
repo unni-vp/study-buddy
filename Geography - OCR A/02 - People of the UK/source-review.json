@@ -1,0 +1,101 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Geography - OCR A",
+  "specification": "OCR A J383: 1.2.1–1.2.6",
+  "sections_refined": [
+    "The UK in the wider world",
+    "Demographic Transition Model",
+    "Ageing population",
+    "Migration and ways of life"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "changing-cities",
+      "url": "https://pmt.physicsandmathstutor.com/download/Geography/GCSE/Notes/Edexcel-A/4-Changing-Cities/Detailed Notes - Topic 4 Changing Cities - Edexcel A Geography GCSE.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/geography-revision/gcse-edexcel-a/changing-cities/",
+      "file": "changing-cities-detailed-notes.pdf",
+      "pages": 11,
+      "sha256": "748acc0a5719d556f9435e7f925836fb82e5403841b3104283138d4643c87287",
+      "local_path": "Reference Materials\\PMT - Changing cities - Edexcel A.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "2–7",
+          "decision": "Compare urban processes and employment; correct urbanisation to rising urban proportion, not simply people moving. Do not equate all self-employment or temporary work with informal work."
+        },
+        {
+          "pages": "8–11",
+          "decision": "Use broad uneven-development and urban-challenge concepts; retain Salford and Leeds instead of adopting source cities or outdated city-status/population claims."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Migration",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/migration",
+      "file": "migration.txt",
+      "words": 188
+    },
+    {
+      "title": "Population Growth",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/an-urbanising-world/population-growth",
+      "file": "population-growth.txt",
+      "words": 366
+    },
+    {
+      "title": "Docklands Decline",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/docklands-decline",
+      "file": "docklands-decline.txt",
+      "words": 660
+    },
+    {
+      "title": "Economic Structure Of The Uk",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/economic-structure-of-the-uk",
+      "file": "economic-structure-of-the-uk.txt",
+      "words": 407
+    },
+    {
+      "title": "Rural And Urban Areas",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/rural-and-urban-areas",
+      "file": "rural-and-urban-areas.txt",
+      "words": 305
+    },
+    {
+      "title": "The Impact Of Globalisation",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/the-impact-of-globalisation",
+      "file": "the-impact-of-globalisation.txt",
+      "words": 338
+    },
+    {
+      "title": "Urban Rural Dependence",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/urban-rural-dependence",
+      "file": "urban-rural-dependence.txt",
+      "words": 318
+    },
+    {
+      "title": "Who Lives Where",
+      "url": "https://studyrocket.co.uk/revision/gcse-geography-b-edexcel/uk-human-landscape/who-lives-where",
+      "file": "who-lives-where.txt",
+      "words": 244
+    }
+  ],
+  "decisions": [
+    "OCR A controls coverage; other-board examples and old programme claims were not imported. Preserved every Salford and Leeds case-study paragraph, dated statistic and diagram.",
+    "Filled the specification gap for named UK trading partners using a verified DBT/ONS 2025 total-trade snapshot; distinguished goods/services and imports/exports.",
+    "Expanded economic-change, inequality and DTM reasoning, and distinguished ethnicity from development ranking. Added dated migration evidence with the correct population scope.",
+    "Kept existing flat three-group menu; revised material remains with related explanations."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 18,
+    "refined": 1,
+    "after": 38
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}
