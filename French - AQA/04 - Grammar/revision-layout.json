@@ -5,7 +5,7 @@
       "id": "building",
       "title": "Build and describe",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-word",
       "sections": [
         {
           "heading": "Nouns and articles"
@@ -19,7 +19,7 @@
       "id": "verbs",
       "title": "Verbs and time frames",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-clock",
       "sections": [
         {
           "heading": "Present verbs and verb families"
@@ -36,7 +36,7 @@
       "id": "connecting",
       "title": "Connect and control meaning",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-link",
       "sections": [
         {
           "heading": "Pronouns and connected clauses"
