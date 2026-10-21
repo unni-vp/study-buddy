@@ -5,7 +5,7 @@
       "id": "leisure",
       "title": "Free time and experiences",
       "description": "Describe preferences, frequency and a recent activity.",
-      "icon": "literature-book",
+      "icon": "nav-music",
       "sections": [
         {
           "heading": "Free-time activities"
@@ -22,7 +22,7 @@
       "id": "celebrations",
       "title": "Customs and celebrations",
       "description": "Explain traditions and compare past and future celebrations.",
-      "icon": "literature-book",
+      "icon": "nav-celebration",
       "sections": [
         {
           "heading": "Customs, festivals and celebrations"
@@ -36,7 +36,7 @@
       "id": "fame",
       "title": "Celebrity culture",
       "description": "Explain admiration, weigh fame and develop your response.",
-      "icon": "literature-pen",
+      "icon": "nav-star",
       "sections": [
         {
           "heading": "Describing a celebrity"
