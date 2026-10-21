@@ -113,6 +113,31 @@ When tracing a decision, evaluate its condition using the **current values**. Fo
 
 To explain a program's purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.
 
+### Separate stored values from displayed output
+
+This algorithm keeps a running total, but displays it only when the current number is even:
+
+```text
+total ← 0
+FOR number ← 1 TO 4
+    total ← total + number
+    IF number MOD 2 = 0 THEN
+        OUTPUT total
+    ENDIF
+ENDFOR
+```
+
+| number | total after addition | Is the number even? | Output at this step |
+|---|---|---|---|
+| 1 | 1 | No. | No output. |
+| 2 | 3 | Yes. | 3 |
+| 3 | 6 | No. | No output. |
+| 4 | 10 | Yes. | 10 |
+
+The displayed values are **3, then 10**. The intermediate totals 1 and 6 are stored, but never displayed. A blank output cell means nothing was output; it does not mean the program printed a blank line.
+
+The position of an instruction matters. Moving `OUTPUT total` outside the loop would display only the final total. Moving `total ← 0` inside the loop would reset the accumulated total on every repetition.
+
 ## Comparing efficiency
 
 More than one algorithm may solve the same problem. For this course, compare **time efficiency**: how the number of steps or time taken changes for the same input.
@@ -216,6 +241,12 @@ def binary_search(items, target):
 
 The final `return -1` runs only when the loop ends without a match. The input list must already be sorted in ascending order for this version.
 
+### Keeping the final candidate
+
+If `low` and `high` are equal, **one candidate still remains**. Check that item before reporting failure. For the one-item list `[12]`, both boundaries begin at 0: target 12 must be found, while target 9 must be rejected after checking it.
+
+Setting a boundary to `middle + 1` or `middle − 1` excludes an item already proved wrong. Leaving the boundary at `middle` can repeat the same unsuccessful check. For an empty list, `high` begins at −1, so the loop makes no array access and returns −1.
+
 ## Comparing searching methods
 
 | Feature | Linear search | Binary search |
@@ -277,6 +308,12 @@ To merge `3, 8` with `1, 6`, compare the first unused value in each list:
 
 The result is `1, 3, 6, 8`. Each selected value is removed from consideration, so it is not copied twice. If one list becomes empty, its partner's remaining values are already in order and can be appended.
 
+### An odd number of items
+
+The two parts do not have to contain exactly the same number of items. A list such as `7, 2, 5` can split into `7` and `2, 5`. Split the pair into single values, merge it as `2, 5`, then merge that with `7` to obtain **`2, 5, 7`**.
+
+The essential rule is that the two lists being merged are **already sorted**. Their first unused items are therefore the next candidates for the smallest remaining value.
+
 ## Comparing sorting methods
 
 | Feature | Bubble sort | Merge sort |
@@ -297,3 +334,6 @@ When explaining an algorithm, state the **starting condition**, the **repeated a
 
 - [PMT Education: original Summary Notes](../Reference Materials/PMT - Summary Notes.pdf). Unmodified source retained with its printed attribution and licence.
 - [AQA specification for first exams in 2027](../../00 - Specification/AQA-8525-specification-2027.pdf).
+- [Study Rocket: Fundamentals Of Algorithms](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/fundamentals-of-algorithms). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Searching Algorithms](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/searching-algorithms). Coverage reference; checked against the current AQA specification.
+- [Study Rocket: Sorting Algorithms](https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/sorting-algorithms). Coverage reference; checked against the current AQA specification.

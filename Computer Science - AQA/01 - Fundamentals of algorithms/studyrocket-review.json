@@ -1,0 +1,63 @@
+{
+  "review_date": "2026-10-21",
+  "specification": "3.1.1–3.1.4",
+  "sources": [
+    {
+      "title": "Fundamentals Of Algorithms",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/fundamentals-of-algorithms"
+    },
+    {
+      "title": "Searching Algorithms",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/searching-algorithms"
+    },
+    {
+      "title": "Sorting Algorithms",
+      "url": "https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/sorting-algorithms"
+    }
+  ],
+  "review_method": "Read each linked page, compared its concepts with existing notes and the revised local AQA specification. Retained existing worked examples, tables and diagrams. Additions use original wording and examples.",
+  "sections_refined": [
+    "Inputs, processing, outputs and trace tables",
+    "Binary search",
+    "Merge sort"
+  ],
+  "coverage_decisions": [
+    {
+      "pages": [
+        "fundamentals-of-algorithms"
+      ],
+      "decision": "Existing decomposition, abstraction, inputs/process/output, representations and efficiency were already developed. Added a selective-output trace and the effects of moving initialisation/output."
+    },
+    {
+      "pages": [
+        "searching-algorithms"
+      ],
+      "decision": "Retained correct current binary-search implementation. Added last-candidate and empty-list reasoning. Did not import source bounds that can miss the last item or unsafe REPEAT linear search."
+    },
+    {
+      "pages": [
+        "sorting-algorithms"
+      ],
+      "decision": "Existing passes, flags, comparisons and illustrated merges retained. Added an odd-length merge example; equal-sized input is not a requirement."
+    },
+    {
+      "pages": [
+        "fundamentals-of-algorithms"
+      ],
+      "decision": "Did not import advice to prefer pseudocode regardless of the question. Current AQA explicitly requires the requested response form."
+    }
+  ],
+  "flashcards": {
+    "previous": 22,
+    "added": 16,
+    "refined": 1,
+    "total": 38
+  },
+  "checks": {
+    "source_mapping": true,
+    "card_prompts_unique": true,
+    "complete_answers": true,
+    "browser_review": "Passed all topic reading groups and expanded deck at 1366, 390 and 320 pixels. Checked print visibility, hidden sources, focus, keyboard controls, long prose and code answers.",
+    "code_and_regeneration": "Passed code-rendering and supplement-preservation checks."
+  }
+}

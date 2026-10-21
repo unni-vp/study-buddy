@@ -82,6 +82,25 @@ OUTPUT total
 <p>The initial assignment sets <code>total</code> to <strong>0</strong> before the loop. After each addition, the new total replaces the previous value. At the end, <code>number</code> has taken the values 1, 2 and 3, and the output is the final total rather than every intermediate total.</p>
 <p>When tracing a decision, evaluate its condition using the <strong>current values</strong>. Follow only the selected branch. When tracing a loop, return to the condition at the correct point instead of assuming the loop repeats a fixed number of times.</p>
 <p>To explain a program&#x27;s purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.</p>
+<h3>Separate stored values from displayed output</h3>
+<p>This algorithm keeps a running total, but displays it only when the current number is even:</p>
+<pre class="code-block"><code class="language-text">total ← 0
+FOR number ← 1 TO 4
+    total ← total + number
+    IF number MOD 2 = 0 THEN
+        OUTPUT total
+    ENDIF
+ENDFOR
+</code></pre>
+<table>
+<tr><th>number</th><th>total after addition</th><th>Is the number even?</th><th>Output at this step</th></tr>
+<tr><td>1</td><td>1</td><td>No.</td><td>No output.</td></tr>
+<tr><td>2</td><td>3</td><td>Yes.</td><td>3</td></tr>
+<tr><td>3</td><td>6</td><td>No.</td><td>No output.</td></tr>
+<tr><td>4</td><td>10</td><td>Yes.</td><td>10</td></tr>
+</table>
+<p>The displayed values are <strong>3, then 10</strong>. The intermediate totals 1 and 6 are stored, but never displayed. A blank output cell means nothing was output; it does not mean the program printed a blank line.</p>
+<p>The position of an instruction matters. Moving <code>OUTPUT total</code> outside the loop would display only the final total. Moving <code>total ← 0</code> inside the loop would reset the accumulated total on every repetition.</p>
 <h2>Comparing efficiency</h2>
 <p>More than one algorithm may solve the same problem. For this course, compare <strong>time efficiency</strong>: how the number of steps or time taken changes for the same input.</p>
 <ul>
@@ -162,6 +181,9 @@ ENDWHILE
     return -1
 </code></pre>
 <p>The final <code>return -1</code> runs only when the loop ends without a match. The input list must already be sorted in ascending order for this version.</p>
+<h3>Keeping the final candidate</h3>
+<p>If <code>low</code> and <code>high</code> are equal, <strong>one candidate still remains</strong>. Check that item before reporting failure. For the one-item list <code>[12]</code>, both boundaries begin at 0: target 12 must be found, while target 9 must be rejected after checking it.</p>
+<p>Setting a boundary to <code>middle + 1</code> or <code>middle − 1</code> excludes an item already proved wrong. Leaving the boundary at <code>middle</code> can repeat the same unsuccessful check. For an empty list, <code>high</code> begins at −1, so the loop makes no array access and returns −1.</p>
 <h2>Comparing searching methods</h2>
 <table>
 <tr><th>Feature</th><th>Linear search</th><th>Binary search</th></tr>
@@ -208,6 +230,9 @@ ENDWHILE
 <li>The right list is empty, so append the remaining <strong>8</strong>.</li>
 </ol>
 <p>The result is <code>1, 3, 6, 8</code>. Each selected value is removed from consideration, so it is not copied twice. If one list becomes empty, its partner&#x27;s remaining values are already in order and can be appended.</p>
+<h3>An odd number of items</h3>
+<p>The two parts do not have to contain exactly the same number of items. A list such as <code>7, 2, 5</code> can split into <code>7</code> and <code>2, 5</code>. Split the pair into single values, merge it as <code>2, 5</code>, then merge that with <code>7</code> to obtain <strong><code>2, 5, 7</code></strong>.</p>
+<p>The essential rule is that the two lists being merged are <strong>already sorted</strong>. Their first unused items are therefore the next candidates for the smallest remaining value.</p>
 <h2>Comparing sorting methods</h2>
 <table>
 <tr><th>Feature</th><th>Bubble sort</th><th>Merge sort</th></tr>
@@ -225,4 +250,7 @@ ENDWHILE
 <ul>
 <li><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/Reference%20Materials/PMT%20-%20Summary%20Notes.pdf">PMT Education: original Summary Notes</a>. Unmodified source retained with its printed attribution and licence.</li>
 <li><a href="../../Computer%20Science%20-%20AQA/00%20-%20Specification/AQA-8525-specification-2027.pdf">AQA specification for first exams in 2027</a>.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/fundamentals-of-algorithms">Study Rocket: Fundamentals Of Algorithms</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/searching-algorithms">Study Rocket: Searching Algorithms</a>. Coverage reference; checked against the current AQA specification.</li>
+<li><a href="https://studyrocket.co.uk/revision/gcse-computer-science-aqa/computational-thinking-and-problem-solving/sorting-algorithms">Study Rocket: Sorting Algorithms</a>. Coverage reference; checked against the current AQA specification.</li>
 </ul></section></article><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

@@ -79,6 +79,9 @@ ENDWHILE
     return -1
 </code></pre>
 <p>The final <code>return -1</code> runs only when the loop ends without a match. The input list must already be sorted in ascending order for this version.</p>
+<h3>Keeping the final candidate</h3>
+<p>If <code>low</code> and <code>high</code> are equal, <strong>one candidate still remains</strong>. Check that item before reporting failure. For the one-item list <code>[12]</code>, both boundaries begin at 0: target 12 must be found, while target 9 must be rejected after checking it.</p>
+<p>Setting a boundary to <code>middle + 1</code> or <code>middle − 1</code> excludes an item already proved wrong. Leaving the boundary at <code>middle</code> can repeat the same unsuccessful check. For an empty list, <code>high</code> begins at −1, so the loop makes no array access and returns −1.</p>
 <h2>Comparing searching methods</h2>
 <table>
 <tr><th>Feature</th><th>Linear search</th><th>Binary search</th></tr>

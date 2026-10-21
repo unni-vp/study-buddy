@@ -37,6 +37,9 @@
 <li>The right list is empty, so append the remaining <strong>8</strong>.</li>
 </ol>
 <p>The result is <code>1, 3, 6, 8</code>. Each selected value is removed from consideration, so it is not copied twice. If one list becomes empty, its partner&#x27;s remaining values are already in order and can be appended.</p>
+<h3>An odd number of items</h3>
+<p>The two parts do not have to contain exactly the same number of items. A list such as <code>7, 2, 5</code> can split into <code>7</code> and <code>2, 5</code>. Split the pair into single values, merge it as <code>2, 5</code>, then merge that with <code>7</code> to obtain <strong><code>2, 5, 7</code></strong>.</p>
+<p>The essential rule is that the two lists being merged are <strong>already sorted</strong>. Their first unused items are therefore the next candidates for the smallest remaining value.</p>
 <h2>Comparing sorting methods</h2>
 <table>
 <tr><th>Feature</th><th>Bubble sort</th><th>Merge sort</th></tr>

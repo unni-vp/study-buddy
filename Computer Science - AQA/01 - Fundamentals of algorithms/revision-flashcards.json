@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "basis": "Original revision-note retrieval practice, reviewed against AQA 8525 first exams 2027. Study Rocket used as a coverage reference, not a source of verbatim questions.",
+  "updates": [
+    {
+      "front": "Explain how a trace table helps determine the purpose of an unfamiliar algorithm.",
+      "back": [
+        "A trace table records changing variable values as instructions run. Include conditions or output when needed, and record output only when an output instruction executes. This helps expose logic errors without guessing from variable names."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "A running total is updated on every loop, but OUTPUT runs only inside an IF. What should the output column of a trace table contain?",
+      "back": [
+        "Record a value only when the OUTPUT instruction runs. A stored intermediate value is not automatically displayed."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "A total starts at 0. Add 1, 2, 3 and 4 in order, displaying the total only when the current number is even. What is displayed?",
+      "back": [
+        "3, then 10. The totals after each addition are 1, 3, 6 and 10, but only the even-number steps display them."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must a running total normally be initialised before its loop?",
+      "back": [
+        "Initialising before the loop preserves the accumulated value between repetitions. Resetting it inside the loop discards earlier additions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "In binary search, does low = high mean the target is absent?",
+      "back": [
+        "No. One candidate remains and must be checked. The search area is empty only when low > high."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "An ascending binary search checks index 4 and finds a value smaller than the target. How should low change?",
+      "back": [
+        "Set low to 5, which is middle + 1. The middle item and every smaller item can be excluded."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "An ascending binary search checks index 4 and finds a value larger than the target. How should high change?",
+      "back": [
+        "Set high to 3, which is middle − 1. The middle item and every larger item can be excluded."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What should a safe binary search do with an empty list?",
+      "back": [
+        "Return not found without reading any item. With zero-based indexing, low is 0 and high is −1, so the search loop is skipped."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is sorting an unsorted list just to search it once not always a good choice?",
+      "back": [
+        "Sorting also takes time. For one search in a small unsorted list, a linear search may do less total work."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to the largest remaining item after a full left-to-right pass of ascending bubble sort?",
+      "back": [
+        "It reaches the right-hand end of the unsorted part and is in its final position."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why should the swapped flag be reset before each bubble-sort pass?",
+      "back": [
+        "It must record whether a swap happens in the current pass. If the whole pass makes no swaps, an early-stop version can finish."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can swapping two variables require a temporary variable?",
+      "back": [
+        "The first value must be preserved before it is overwritten. Otherwise both variables may end up containing the same original value."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does merge sort require an even number of items?",
+      "back": [
+        "No. A split can have unequal sizes. Keep splitting until the parts contain single items, then merge sorted parts."
+      ]
+    },
+    {
+      "category": "Trace and apply",
+      "front": "Merge the sorted lists 2, 8 and 3, 5, 9.",
+      "back": [
+        "Compare the first unused values and take the smaller each time: 2, 3, 5, 8, 9. Append the remaining 9 when the left list is empty."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does splitting a list into smaller parts not complete a merge sort?",
+      "back": [
+        "Splitting alone does not put the values in order. Ordered merging builds the final sorted list."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is the difference between an index and the number of search checks?",
+      "back": [
+        "An index identifies an item’s position. The check count records how many candidates were inspected. With zero-based indexing, the first item has index 0 but requires one check."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do decomposition and abstraction contribute differently to a route planner?",
+      "back": [
+        "Decomposition separates jobs such as entering a destination and finding a route. Abstraction keeps relevant roads and connections while leaving out details such as building colours."
+      ]
+    }
+  ]
+}

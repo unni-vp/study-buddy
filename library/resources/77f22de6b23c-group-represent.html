@@ -55,4 +55,23 @@ OUTPUT total
 <h3>Following values accurately</h3>
 <p>The initial assignment sets <code>total</code> to <strong>0</strong> before the loop. After each addition, the new total replaces the previous value. At the end, <code>number</code> has taken the values 1, 2 and 3, and the output is the final total rather than every intermediate total.</p>
 <p>When tracing a decision, evaluate its condition using the <strong>current values</strong>. Follow only the selected branch. When tracing a loop, return to the condition at the correct point instead of assuming the loop repeats a fixed number of times.</p>
-<p>To explain a program&#x27;s purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="77f22de6b23c-group-design.html"><span>← Previous</span><strong>Planning algorithms</strong></a><a href="77f22de6b23c-group-search.html"><span>Next →</span><strong>Searching</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>To explain a program&#x27;s purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.</p>
+<h3>Separate stored values from displayed output</h3>
+<p>This algorithm keeps a running total, but displays it only when the current number is even:</p>
+<pre class="code-block"><code class="language-text">total ← 0
+FOR number ← 1 TO 4
+    total ← total + number
+    IF number MOD 2 = 0 THEN
+        OUTPUT total
+    ENDIF
+ENDFOR
+</code></pre>
+<table>
+<tr><th>number</th><th>total after addition</th><th>Is the number even?</th><th>Output at this step</th></tr>
+<tr><td>1</td><td>1</td><td>No.</td><td>No output.</td></tr>
+<tr><td>2</td><td>3</td><td>Yes.</td><td>3</td></tr>
+<tr><td>3</td><td>6</td><td>No.</td><td>No output.</td></tr>
+<tr><td>4</td><td>10</td><td>Yes.</td><td>10</td></tr>
+</table>
+<p>The displayed values are <strong>3, then 10</strong>. The intermediate totals 1 and 6 are stored, but never displayed. A blank output cell means nothing was output; it does not mean the program printed a blank line.</p>
+<p>The position of an instruction matters. Moving <code>OUTPUT total</code> outside the loop would display only the final total. Moving <code>total ← 0</code> inside the loop would reset the accumulated total on every repetition.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="77f22de6b23c-group-design.html"><span>← Previous</span><strong>Planning algorithms</strong></a><a href="77f22de6b23c-group-search.html"><span>Next →</span><strong>Searching</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
