@@ -5,7 +5,7 @@
       "id": "history",
       "title": "Atmosphere and its history",
       "description": "Connect early gases, photosynthesis and carbon stores.",
-      "icon": "chemistry-atom",
+      "icon": "nav-globe",
       "sections": [
         {
           "heading": "Today’s atmosphere"
@@ -25,7 +25,7 @@
       "id": "climate",
       "title": "Greenhouse effect and climate",
       "description": "Explain radiation, emissions and evidence.",
-      "icon": "chemistry-atom",
+      "icon": "nav-weather",
       "sections": [
         {
           "heading": "The greenhouse effect"
@@ -42,7 +42,7 @@
       "id": "impacts",
       "title": "Footprints and pollutants",
       "description": "Compare full-life-cycle choices and specific pollution mechanisms.",
-      "icon": "chemistry-atom",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Carbon footprints and reducing emissions"
