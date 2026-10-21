@@ -5,7 +5,7 @@
       "id": "investigation",
       "title": "Investigations and evidence",
       "description": "Plan fair tests and evaluate data, uncertainty and explanations.",
-      "icon": "biology-cells",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "From question to fair investigation"
@@ -25,7 +25,7 @@
       "id": "cells",
       "title": "Cells, cultures and osmosis",
       "description": "Observe cells and measure growth or water movement.",
-      "icon": "biology-cells",
+      "icon": "nav-microscope",
       "sections": [
         {
           "heading": "Microscopy and biological drawings"
@@ -42,7 +42,7 @@
       "id": "reactions",
       "title": "Food tests, enzymes and photosynthesis",
       "description": "Choose reagents and measure rates under controlled conditions.",
-      "icon": "biology-leaf",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Food tests"
@@ -59,7 +59,7 @@
       "id": "responses",
       "title": "Human and plant responses",
       "description": "Control response investigations and record suitable observations.",
-      "icon": "biology-leaf",
+      "icon": "nav-nerve",
       "sections": [
         {
           "heading": "Human reaction time"
@@ -73,7 +73,7 @@
       "id": "environment",
       "title": "Sampling and milk decay",
       "description": "Investigate distribution and compare pH-change rates.",
-      "icon": "biology-leaf",
+      "icon": "nav-bacteria",
       "sections": [
         {
           "heading": "Ecology sampling"
