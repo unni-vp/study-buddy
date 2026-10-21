@@ -5,7 +5,7 @@
       "id": "nature",
       "title": "Nature and childhood",
       "description": "Freedom, pleasure, memory and disappointment.",
-      "icon": "literature-book",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "The Schoolboy — William Blake"
@@ -22,7 +22,7 @@
       "id": "relationships",
       "title": "Love and relationships",
       "description": "Longing, power and the pull of family bonds.",
-      "icon": "literature-drama",
+      "icon": "nav-heart",
       "sections": [
         {
           "heading": "Sonnet 29 — Elizabeth Barrett Browning"
@@ -42,7 +42,7 @@
       "id": "war",
       "title": "War and its aftermath",
       "description": "Loss, memory, responsibility and exclusion.",
-      "icon": "literature-drama",
+      "icon": "nav-conflict",
       "sections": [
         {
           "heading": "Drummer Hodge — Thomas Hardy"
@@ -65,7 +65,7 @@
       "id": "identity",
       "title": "Place and identity",
       "description": "Home, human dignity and family origins.",
-      "icon": "literature-book",
+      "icon": "nav-map",
       "sections": [
         {
           "heading": "I Shall Return — Claude McKay"
@@ -82,7 +82,7 @@
       "id": "comparison",
       "title": "Comparing poems",
       "description": "Find useful connections and build a clear argument.",
-      "icon": "literature-pen",
+      "icon": "nav-balance",
       "sections": [
         {
           "heading": "Comparing poems and writing answers"
