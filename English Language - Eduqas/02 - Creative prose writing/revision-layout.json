@@ -5,7 +5,7 @@
       "id": "story",
       "title": "Plan and develop the story",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Choose a story you can control"
@@ -25,7 +25,7 @@
       "id": "craft",
       "title": "Voice, description and structure",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-eye",
       "sections": [
         {
           "heading": "Control time and viewpoint"
@@ -42,7 +42,7 @@
       "id": "editing",
       "title": "Sentences and editing",
       "description": "Key ideas, worked examples and practical choices.",
-      "icon": "literature-book",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "Control sentences and punctuation"
