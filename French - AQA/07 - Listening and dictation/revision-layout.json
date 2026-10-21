@@ -5,7 +5,7 @@
       "id": "meaning",
       "title": "Understand the message",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-headphones",
       "sections": [
         {
           "heading": "Listening for the requested detail"
@@ -22,7 +22,7 @@
       "id": "dictation",
       "title": "Dictation and sound practice",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "How dictation works"
