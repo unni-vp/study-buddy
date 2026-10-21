@@ -5,7 +5,7 @@
       "id": "compose",
       "title": "Plan and develop",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "What each writing task needs"
@@ -22,7 +22,7 @@
       "id": "models",
       "title": "Worked writing models",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-article",
       "sections": [
         {
           "heading": "A 90-word response"
@@ -36,7 +36,7 @@
       "id": "accuracy",
       "title": "Translate and check",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-translate",
       "sections": [
         {
           "heading": "Translating into French"
