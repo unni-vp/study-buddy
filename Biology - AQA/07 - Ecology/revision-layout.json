@@ -5,7 +5,7 @@
       "id": "communities",
       "title": "Communities and adaptations",
       "description": "Connect environmental factors to survival and distribution.",
-      "icon": "biology-leaf",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "Ecosystems and interdependence"
@@ -25,7 +25,7 @@
       "id": "sampling",
       "title": "Sampling and distribution",
       "description": "Use random quadrats, transects and valid estimates.",
-      "icon": "biology-leaf",
+      "icon": "nav-ruler",
       "sections": [
         {
           "heading": "Random quadrats: estimating population size"
@@ -39,7 +39,7 @@
       "id": "cycles",
       "title": "Cycles and decomposition",
       "description": "Follow matter, decay conditions and milk-pH measurements.",
-      "icon": "biology-leaf",
+      "icon": "nav-recycle",
       "sections": [
         {
           "heading": "The carbon cycle"
@@ -59,7 +59,7 @@
       "id": "biodiversity",
       "title": "Biodiversity and human impacts",
       "description": "Explain habitat threats and evaluate protection.",
-      "icon": "biology-leaf",
+      "icon": "nav-globe",
       "sections": [
         {
           "heading": "Biodiversity and human impacts"
@@ -76,7 +76,7 @@
       "id": "food",
       "title": "Biomass and food production",
       "description": "Calculate transfer and compare sustainable supply methods.",
-      "icon": "biology-leaf",
+      "icon": "nav-food",
       "sections": [
         {
           "heading": "Biomass pyramids and transfer efficiency"
