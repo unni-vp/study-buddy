@@ -5,7 +5,7 @@
       "id": "core",
       "title": "Useful words and phrases",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "Words as useful phrases"
@@ -22,7 +22,7 @@
       "id": "detail",
       "title": "Details and word families",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-branch",
       "sections": [
         {
           "heading": "Numbers, dates and practical details"
