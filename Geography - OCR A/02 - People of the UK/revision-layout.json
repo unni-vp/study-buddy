@@ -5,31 +5,45 @@
       "id": "connections-development",
       "title": "Connections & development",
       "description": "Trade, indicators, uneven development and Salford Quays",
-      "icon": "overview",
+      "icon": "nav-globe",
       "sections": [
-        {"heading": "The UK in the wider world"},
-        {"heading": "Economic change: Salford Quays"}
+        {
+          "heading": "The UK in the wider world"
+        },
+        {
+          "heading": "Economic change: Salford Quays"
+        }
       ]
     },
     {
       "id": "population-migration",
       "title": "Population & migration",
       "description": "Population structure, ageing and migration impacts",
-      "icon": "transport",
+      "icon": "nav-people",
       "sections": [
-        {"heading": "Population change"},
-        {"heading": "Migration and ways of life"}
+        {
+          "heading": "Population change"
+        },
+        {
+          "heading": "Migration and ways of life"
+        }
       ]
     },
     {
       "id": "urban-change",
       "title": "Urban change & Leeds",
       "description": "Urban trends, city challenges and sustainable living",
-      "icon": "exchange",
+      "icon": "nav-city",
       "sections": [
-        {"heading": "Urban change"},
-        {"heading": "Leeds city case study"},
-        {"heading": "High-yield checklist"}
+        {
+          "heading": "Urban change"
+        },
+        {
+          "heading": "Leeds city case study"
+        },
+        {
+          "heading": "High-yield checklist"
+        }
       ]
     }
   ]
