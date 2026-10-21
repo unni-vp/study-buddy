@@ -1,0 +1,61 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.4",
+  "sections_refined": [
+    "Photosynthesis",
+    "Limiting factors",
+    "Aerobic and anaerobic respiration",
+    "Exercise and oxygen debt",
+    "Metabolism"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "bioenergetics",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/4-Bioenergetics/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/bioenergetics/",
+      "selection": "Detailed Notes",
+      "file": "bioenergetics-detailed-notes.pdf",
+      "pages": 6,
+      "sha256": "451d20f83e011259801ce63fd7eea005c75a47af4a308c42535d44bf17bcf440",
+      "local_path": "Reference Materials\\PMT - Bioenergetics - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all photosynthesis, limiting-factor, respiration, exercise and metabolism content. Existing equations, graph, practical and profit calculation already cover much of the specification. Added source-of-biomass, comparison reasoning, concurrent respiration and recovery interpretation. Corrected SR claims that light is not used as energy, all light except green works categorically, photosynthesis always follows inverse square rate, or muscle anaerobic respiration produces water. No obsolete ATP-count detail added."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Cellular Respiration",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/cellular-respiration",
+      "file": "cellular-respiration.txt",
+      "words": 624
+    },
+    {
+      "title": "Photosynthesis",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/photosynthesis",
+      "file": "photosynthesis.txt",
+      "words": 752
+    }
+  ],
+  "decisions": [
+    "Reviewed all photosynthesis, limiting-factor, respiration, exercise and metabolism content. Existing equations, graph, practical and profit calculation already cover much of the specification. Added source-of-biomass, comparison reasoning, concurrent respiration and recovery interpretation. Corrected SR claims that light is not used as energy, all light except green works categorically, photosynthesis always follows inverse square rate, or muscle anaerobic respiration produces water. No obsolete ATP-count detail added.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 48,
+    "added": 12,
+    "refined": 0,
+    "after": 60
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

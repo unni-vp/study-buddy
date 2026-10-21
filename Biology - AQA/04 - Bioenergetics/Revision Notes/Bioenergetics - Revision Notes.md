@@ -26,6 +26,12 @@ Photosynthesis lets a plant use light to make glucose from simple substances. Th
 
 Glucose is both a fuel and a building material. A plant needs minerals as well as light, carbon dioxide and water to grow normally.
 
+### Where new plant material comes from
+
+Much of the carbon in a plant's new organic material comes from **carbon dioxide in the air**. Water supplies hydrogen, while mineral ions supply elements needed in smaller amounts. Soil is not the main source of the carbon making up a growing tree.
+
+Light supplies **energy**, not atoms for glucose. Chlorophyll absorbs light and helps transfer that energy into chemical processes; it does not turn sunlight into matter. Plants also need to respire to make energy available for their cells.
+
 ## Limiting factors
 
 A **limiting factor** is the factor currently preventing the rate from increasing. Imagine a sandwich shop with plenty of bread but very little filling: delivering more bread will not increase production until the filling shortage is fixed.
@@ -80,6 +86,12 @@ The crop earns an extra **£240**.
 - If lighting costs **£270**, profit falls by **£30**.
 
 Maximum photosynthesis rate and maximum profit are not always achieved at the same settings.
+
+### A plateau needs evidence, not a guess
+
+Suppose two plants receive the same light and temperature, but one receives more carbon dioxide. If the higher-carbon-dioxide plant has a higher rate, this supports carbon dioxide being limiting in the lower condition. If both curves remain identical at low light, adding carbon dioxide has not helped there because light is limiting.
+
+One curve can show several limiting conditions in different regions. The number of curves is not a count of the number of limiting factors. Similarly, doubling light intensity does not guarantee double the rate if carbon dioxide, temperature or chlorophyll restricts the response.
 
 ## Investigating light and photosynthesis
 
@@ -158,6 +170,12 @@ Anaerobic respiration in yeast is called **fermentation**.
 - In **alcoholic drink production**, ethanol is the useful product.
 - Yeast needs a sugar source and suitable temperature. Excessive heat can denature its enzymes; low temperatures slow reactions.
 
+### Comparing energy transfer fairly
+
+Compare the energy transferred **per glucose molecule**, rather than simply per second. Anaerobic respiration transfers less per molecule because the breakdown is incomplete. Cells can increase its rate when oxygen delivery cannot meet demand, while aerobic respiration may continue too.
+
+Energy is not an extra substance made by the reaction. In a balanced chemical equation, the same atoms appear on both sides. For muscles, the required word equation is **glucose → lactic acid**; do not add water as a product of that simplified reaction.
+
 ## Exercise and oxygen debt
 
 Muscles need more energy during exercise because they contract more frequently or forcefully.
@@ -185,6 +203,12 @@ To compare different activities, measure resting pulse, perform each activity fo
 - A pulse counted for 15 seconds is multiplied by **4** to estimate beats/minute. Delays after exercise underestimate the immediate response because recovery has begun.
 - Choose safe, moderate activities and account for participants' health; stop if someone feels unwell.
 
+### Interpreting recovery data
+
+A raised pulse after activity shows that the body has not immediately returned to its resting state. Compare recovery using the same measurement method and starting point. A person with a higher resting pulse is not necessarily using more anaerobic respiration: intensity, fitness and other factors affect the readings.
+
+The course links lactic acid accumulation with fatigue during vigorous exercise. It should not be used as a simple explanation for every cramp or for soreness several days later. Keep the measured pulse result separate from an inference about what is happening inside muscle cells.
+
 ## Metabolism
 
 **Metabolism** is the sum of all chemical reactions in a cell or the body. It includes both building molecules and breaking them down.
@@ -202,3 +226,15 @@ Think of a factory with assembly lines and recycling lines. **Enzymes** control 
 | Breakdown of excess proteins/amino acids → **urea** | Removes excess nitrogen; urea is excreted in urine. |
 
 Digestion and metabolism are connected: digestion supplies small molecules that cells absorb and use to build their own materials. **Respiration is one part of metabolism**, not another name for the whole of metabolism.
+
+### Linking the building and breakdown reactions
+
+Animals can store glucose as **glycogen**, then break that store down when glucose is needed. Plants can make **starch** for storage and **cellulose** for cell walls. These substances are different products made from glucose units, rather than alternative names for glucose.
+
+Excess amino acids cannot simply be stored as an unlimited amino-acid reserve. Their breakdown in the liver produces **urea**, which travels in blood to the kidneys for excretion. The liver makes the urea; the kidneys remove it from blood.
+
+## Sources
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Bioenergetics - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Cellular Respiration](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/cellular-respiration). Cross-checked against the project specification.
+- [Study Rocket: Photosynthesis](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-bioenergetics/photosynthesis). Cross-checked against the project specification.
