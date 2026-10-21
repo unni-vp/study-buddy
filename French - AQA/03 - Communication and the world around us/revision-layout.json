@@ -5,7 +5,7 @@
       "id": "travel",
       "title": "Travel and holidays",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-suitcase",
       "sections": [
         {
           "heading": "Travel and places"
@@ -19,7 +19,7 @@
       "id": "technology",
       "title": "Media and technology",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-cpu",
       "sections": [
         {
           "heading": "Media and technology"
@@ -33,7 +33,7 @@
       "id": "environment",
       "title": "Home and environment",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-home",
       "sections": [
         {
           "heading": "Where you live"
