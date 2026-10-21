@@ -5,7 +5,7 @@
       "id": "principles",
       "title": "Privacy, law and evaluation",
       "description": "Separate the issues and build a reasoned judgement.",
-      "icon": "computer-data",
+      "icon": "nav-shield",
       "sections": [
         {
           "heading": "Ethical, legal and environmental questions"
@@ -28,7 +28,7 @@
       "id": "connected",
       "title": "Connected devices and services",
       "description": "Weigh mobile, wireless, cloud and wearable technologies.",
-      "icon": "computer-network",
+      "icon": "nav-network",
       "sections": [
         {
           "heading": "Mobile technologies"
@@ -47,7 +47,7 @@
     {
       "id": "systems",
       "title": "Implants and autonomous vehicles",
-      "icon": "computer-test",
+      "icon": "nav-car",
       "description": "Consider safety, responsibility, choice and privacy.",
       "sections": [
         {
@@ -61,7 +61,7 @@
     {
       "id": "environment",
       "title": "Environment and a worked judgement",
-      "icon": "computer-storage",
+      "icon": "nav-leaf",
       "description": "Consider lifecycle impacts and build a balanced conclusion.",
       "sections": [
         {
