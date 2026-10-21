@@ -1,0 +1,79 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.7",
+  "sections_refined": [
+    "Ecosystems and interdependence",
+    "Random quadrats: estimating population size",
+    "Biodiversity and human impacts",
+    "Biomass pyramids and transfer efficiency",
+    "Food security and farming"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "ecology",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/7-Ecology/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/ecology/",
+      "selection": "Detailed Notes",
+      "file": "ecology-detailed-notes.pdf",
+      "pages": 12,
+      "sha256": "485fc70a86b04a60ff22f6cb457e17fbe27ece072dc1c5a8383f18223712e31a",
+      "local_path": "Reference Materials\\PMT - Ecology - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed every ecosystem, sampling, cycle, decay, biodiversity, biomass and food-production section. Developed sampling measures, nutrient-pollution chain, mass versus energy and access to food. Rejected PMT reversed biomass-pyramid statement and SR biomass-in-kJ table, indiscriminate increased-water-decay claim, random-versus-systematic transect confusion, and rainfall-requires-desalination claim. Retained diagrams and full practical methods."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Availability Of Food",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/availability-of-food",
+      "file": "availability-of-food.txt",
+      "words": 833
+    },
+    {
+      "title": "Changes In The Environment",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/changes-in-the-environment",
+      "file": "changes-in-the-environment.txt",
+      "words": 1020
+    },
+    {
+      "title": "Ecosystem",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/ecosystem",
+      "file": "ecosystem.txt",
+      "words": 806
+    },
+    {
+      "title": "Pyramids Of Biomass",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/pyramids-of-biomass",
+      "file": "pyramids-of-biomass.txt",
+      "words": 686
+    },
+    {
+      "title": "Recyling Materials",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/recyling-materials",
+      "file": "recyling-materials.txt",
+      "words": 795
+    }
+  ],
+  "decisions": [
+    "Reviewed every ecosystem, sampling, cycle, decay, biodiversity, biomass and food-production section. Developed sampling measures, nutrient-pollution chain, mass versus energy and access to food. Rejected PMT reversed biomass-pyramid statement and SR biomass-in-kJ table, indiscriminate increased-water-decay claim, random-versus-systematic transect confusion, and rainfall-requires-desalination claim. Retained diagrams and full practical methods.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 42,
+    "added": 16,
+    "refined": 0,
+    "after": 58
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

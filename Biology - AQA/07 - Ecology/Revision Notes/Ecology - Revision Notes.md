@@ -13,6 +13,12 @@ An **ecosystem** is a community of organisms interacting with the **non-living e
 
 **Competition** occurs when resources are limited. Plants compete for **light, space, water and mineral ions**. Animals compete for **food, mates and territory**. Name the actual resource rather than simply saying “survival”.
 
+### Changes can travel through a food web
+
+Suppose insect numbers fall. Insect-eating birds may have less food and produce fewer young. If some insects are pollinators, plants may set fewer seeds, affecting other animals later. These are different connections in the same community, so an effect can spread beyond the species directly affected.
+
+A stable community is **dynamic**: births, deaths and seasonal changes continue. Stability means populations remain within broadly balanced ranges, not that every count stays identical.
+
 ## Living and non-living factors
 
 **Abiotic factors** are non-living conditions:
@@ -79,6 +85,12 @@ A **quadrat** samples a known area. Random positions help avoid choosing only pl
 3. Estimated population = 5 × 400 = **2000 plants**.
 
 This assumes that the sampled areas represent the habitat. More well-spread samples improve representativeness, but the result remains an estimate rather than an exact census. Quadrats suit plants and slow-moving organisms. They are unsuitable for animals constantly moving in and out of the sample area.
+
+### Count, frequency and cover answer different questions
+
+**Abundance** can be measured by counting individuals where they can be distinguished. **Frequency** is the proportion of sampled quadrats containing a species. **Percentage cover** estimates the fraction of ground covered, useful when individual plants overlap or cannot be separated easily.
+
+Choose the measure before sampling and apply it consistently. A species can occur in every quadrat but cover little of each one, so high frequency does not necessarily mean high cover. Increasing the number of random samples helps a patchy habitat be represented; throwing a quadrat towards convenient-looking vegetation is not random selection.
 
 ## Transects: investigating distribution
 
@@ -175,6 +187,16 @@ Growing population and higher living standards increase **resource use and waste
 
 Building, quarrying, farming and waste disposal reduce available habitat. **Peat-bog destruction** removes a specialist habitat and biodiversity. Peat contains stored carbon: drainage encourages decay and burning releases carbon dioxide. Peat-free compost can reduce these impacts, although cost and availability matter.
 
+### Why nutrient pollution can remove oxygen
+
+1. Fertiliser runoff adds nutrients to water, allowing rapid **algal growth**.
+2. The algae shade submerged plants, reducing their photosynthesis.
+3. Plants and algae die, providing material for decomposers.
+4. Microorganisms respire aerobically as they break down the material, using **dissolved oxygen**.
+5. Fish and other animals may die when oxygen becomes insufficient for their respiration.
+
+The fertiliser does not directly “use up” oxygen. The change occurs through a chain involving growth, death and microbial respiration.
+
 ## Deforestation and climate change
 
 Tropical forests are cleared for **cattle, rice fields and biofuel crops**. Habitat loss reduces biodiversity. Burning and decomposition release carbon dioxide, while fewer trees remove less carbon dioxide by photosynthesis.
@@ -211,6 +233,14 @@ Producers transfer about **1% of incident light energy** through photosynthesis.
 
 Example: 80 kg transferred from 1000 kg gives **8%**. More biomass is needed at lower levels to support upper levels, so long chains usually support fewer top predators. Numbers also depend on organism size; biomass and head count are different.
 
+### Keep biomass and energy separate
+
+Biomass is measured in a **mass unit**, such as g or kg. Energy is measured in **joules**, such as kJ. An energy value cannot simply be labelled as kilograms of biomass, even when both are used to describe feeding transfers.
+
+Respiration uses organic molecules and transfers energy; it does not turn their atoms into energy. Carbon dioxide and water carry material away, while heating transfers energy to the surroundings. Both help explain why less consumed material remains as new biomass.
+
+The approximate 10% transfer is a general pattern. If a question supplies measured masses, calculate the actual percentage rather than forcing the answer to 10%.
+
 ## Food security and farming
 
 **Food security** means having enough food to feed a population. Threats include population growth, changing diets and global transport demands, pests/pathogens, failed rainfall, agricultural input costs and conflict affecting food/water access.
@@ -218,6 +248,14 @@ Example: 80 kg transferred from 1000 kg gives **8%**. More biomass is needed at 
 **Increasing useful biomass:** intensive farming can limit animal movement and maintain a suitable temperature. Animals then use less energy for movement or keeping warm, leaving more of the consumed material available for growth. High-protein feed can also support growth.
 
 **Trade-offs:** confinement can cause welfare concerns, increase disease risk and create waste problems. Heating and feed also cost money and resources. Evaluate measured yield alongside animal health, costs and environmental effects.
+
+### Increasing supply while maintaining access
+
+Removing competing weeds and crop pests can increase yield. Fertilisers replace mineral ions, helping plants build new material. However, excess fertiliser can enter water, and pesticides can harm non-target organisms. Producing more food therefore needs to be considered alongside environmental effects.
+
+Shortening a food chain can make more biomass available for people: eating a suitable crop directly avoids some losses associated with feeding it to livestock first. This is not a claim that all land can grow human food or that every food source has the same nutritional value.
+
+Food can be available nationally while households cannot afford or reach it. Conflict, transport disruption and poverty can restrict access even when crops have been grown successfully.
 
 ## Sustainable fishing and biotechnology
 
@@ -234,3 +272,10 @@ Assess benefits against cost, resource use, effects on ecosystems and local acce
 ## Sources
 
 - [AQA Ecology](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/ecology)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Ecology - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Availability Of Food](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/availability-of-food). Cross-checked against the project specification.
+- [Study Rocket: Changes In The Environment](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/changes-in-the-environment). Cross-checked against the project specification.
+- [Study Rocket: Ecosystem](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/ecosystem). Cross-checked against the project specification.
+- [Study Rocket: Pyramids Of Biomass](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/pyramids-of-biomass). Cross-checked against the project specification.
+- [Study Rocket: Recyling Materials](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-ecology/recyling-materials). Cross-checked against the project specification.

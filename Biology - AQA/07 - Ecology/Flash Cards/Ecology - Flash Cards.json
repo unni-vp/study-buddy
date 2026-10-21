@@ -344,6 +344,118 @@
         "Competitors, pollinators and seed dispersal also affect whether new sites are occupied.",
         "Compare actual time-series and habitat data; suitable climate alone does not guarantee successful colonisation."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a stable community still have seasonal population changes?",
+      "back": [
+        "Yes. Stability means broadly balanced populations over time, not an identical count at every moment."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can loss of pollinators affect insect-eating birds indirectly?",
+      "back": [
+        "Reduced pollination can lower plant reproduction and food supplies, changing the organisms that support the wider food web."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does quadrat frequency differ from percentage cover?",
+      "back": [
+        "Frequency is the proportion of quadrats containing the species. Cover estimates the proportion of ground occupied within samples."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can high frequency occur with low percentage cover?",
+      "back": [
+        "Yes. A species may occur in every sample but occupy only a small area in each."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is throwing a quadrat not a reliable random method?",
+      "back": [
+        "People may favour accessible or interesting vegetation. Generated coordinates reduce that selection bias."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What links fertiliser runoff to low oxygen in a river?",
+      "back": [
+        "Extra nutrients promote algae; shaded plants and algae die; decomposer respiration uses dissolved oxygen as the dead material is broken down."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does fertiliser itself directly consume the river’s oxygen?",
+      "back": [
+        "No. Oxygen is consumed mainly by aerobic respiration during the resulting decomposition."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Which units distinguish biomass from energy?",
+      "back": [
+        "Biomass uses mass units such as kg. Energy uses units such as J or kJ."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Should every biomass-efficiency answer be 10%?",
+      "back": [
+        "No. Use the supplied masses. About 10% is an approximate general pattern, not a fixed value."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does respiration convert the atoms in food into energy?",
+      "back": [
+        "No. Atoms remain in substances such as carbon dioxide and water. Energy is transferred as reactions occur."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can eating a crop directly avoid some food-chain losses?",
+      "back": [
+        "It avoids transfers through livestock, where some consumed material would be lost rather than retained as food for people."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why may a country grow enough food while some households remain food insecure?",
+      "back": [
+        "Poverty, conflict or poor transport may stop people affording or reaching the food."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can applying more fertiliser create a trade-off?",
+      "back": [
+        "It can improve crop yield, but excess nutrients entering water can trigger harmful algal growth and oxygen depletion."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a suitable fishing mesh allow small fish to escape?",
+      "back": [
+        "It gives juveniles a chance to grow and reproduce, helping maintain future stocks."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is turning compost not appropriate for a methane-producing digester?",
+      "back": [
+        "Turning adds oxygen for aerobic decay. A methane-producing digester requires anaerobic conditions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can waterlogging slow aerobic decomposition?",
+      "back": [
+        "Water fills spaces that would otherwise contain air, reducing oxygen available for microbial respiration."
+      ]
     }
   ]
 }
