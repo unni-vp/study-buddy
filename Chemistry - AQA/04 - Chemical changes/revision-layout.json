@@ -5,7 +5,7 @@
       "id": "reactivity",
       "title": "Reactivity and redox",
       "description": "Predict displacement and explain electron transfer.",
-      "icon": "cells",
+      "icon": "nav-transport",
       "sections": [
         {
           "heading": "Reactivity and displacement"
@@ -19,7 +19,7 @@
       "id": "acids",
       "title": "Acids, salts and titration",
       "description": "Choose reactions and prepare pure salts.",
-      "icon": "practical",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Acids, alkalis and pH"
@@ -39,7 +39,7 @@
       "id": "electrolysis",
       "title": "Electrolysis",
       "description": "Follow ions, predict products and explain extraction.",
-      "icon": "transport",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Electrolysis and electrode reactions"
