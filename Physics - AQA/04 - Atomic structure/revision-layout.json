@@ -5,7 +5,7 @@
       "id": "atoms",
       "title": "Atoms and evidence",
       "description": "Count particles and understand changing atomic models.",
-      "icon": "physics-atom",
+      "icon": "nav-atom",
       "sections": [
         {
           "heading": "Atoms, isotopes and ions"
@@ -19,7 +19,7 @@
       "id": "decay",
       "title": "Radiation and half-life",
       "description": "Compare emissions, balance equations and calculate decay.",
-      "icon": "physics-atom",
+      "icon": "nav-wave",
       "sections": [
         {
           "heading": "Radioactive decay and types of radiation"
@@ -36,7 +36,7 @@
       "id": "uses",
       "title": "Uses, risks and nuclear energy",
       "description": "Distinguish exposure routes and explain nuclear reactions.",
-      "icon": "physics-energy",
+      "icon": "nav-shield",
       "sections": [
         {
           "heading": "Contamination, irradiation and protection"
