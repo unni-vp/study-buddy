@@ -110,6 +110,12 @@ Pupil size controls the **amount of light**. Lens shape controls **focusing**. T
 
 Compare alternatives using effectiveness, reversibility, maintenance, cost and specific risks. Glasses do not change the eye surgically; surgery can reduce reliance on external lenses but has risks and is not suitable for every condition. The extra lens must correct the direction of the focusing error.
 
+### Why the focus misses the retina
+
+Short-sightedness can result from an eyeball being **too long** or from excessive refraction, so rays from a distant object meet too soon. Long-sightedness can result from an eyeball being **too short** or insufficient refraction for a near object.
+
+Locate the focus first, then choose the correction. A **diverging** lens moves an excessively early focus back; a **converging** lens moves a focus that would be behind the retina forward. Pupil size changes light entry, not the length of the eyeball.
+
 ## Controlling body temperature
 
 The **thermoregulatory centre in the brain** monitors blood temperature. Temperature receptors in the skin send impulses about the surroundings.
@@ -145,6 +151,17 @@ Compared with nervous responses, hormonal effects are **generally slower and lon
 | **Testes**, scrotum | Testosterone |
 
 The pituitary is called a **master gland** because some of its hormones stimulate other endocrine glands. Not all hormones come from the pituitary, and not all its hormones work through another gland.
+
+### Comparing the two communication systems
+
+| Feature | Nervous communication | Hormonal communication |
+|---|---|---|
+| Signal and route | Electrical impulses travel along neurones; chemical transmitters cross synapses. | Hormones travel in blood after release from endocrine glands. |
+| Target | A connected muscle, gland or other nerve cell receives the signal. | Cells respond only if they have suitable receptors, even though blood carries the hormone widely. |
+| Usual timing | Responses are rapid and often brief. | Responses generally develop more slowly and last longer. |
+| Example | A withdrawal reflex rapidly contracts a muscle. | Insulin changes glucose uptake and storage after a meal. |
+
+A hormone does not act on every cell merely because blood reaches it. **Receptor specificity** explains why a widely circulated message produces particular effects.
 
 ## Blood glucose: insulin and glucagon
 
@@ -216,6 +233,17 @@ Think of sorting a recycling collection: the initial collection takes many small
 
 If data show glucose in the filtered fluid but normally none in urine, the difference is evidence of **selective reabsorption**. Compare amounts or concentrations using the given volumes; concentration alone is not total mass.
 
+### Reading a blood–filtrate–urine comparison
+
+| Substance | After initial filtration | After selective reabsorption |
+|---|---|---|
+| Glucose | Small glucose molecules enter the filtered fluid. | Normally all are returned to the blood, so none remains in final urine. |
+| Water and ions | They enter the filtered fluid. | Appropriate amounts return to the blood; excess is excreted. |
+| Urea | It enters the filtered fluid. | It is removed in urine rather than retained as a useful nutrient. |
+| Blood cells and large proteins | They remain in blood because they do not pass the filter. | They should not normally appear in urine. |
+
+If a solution becomes more concentrated as water is removed, that does not prove the mass of solute increased. Calculate **mass = concentration × volume**, with consistent units, before comparing total amounts.
+
 ## ADH and urine concentration
 
 **ADH is released by the pituitary gland** and changes the **water permeability of kidney tubules**.
@@ -260,6 +288,12 @@ The **menstrual cycle** prepares for possible pregnancy. A 28-day cycle is a use
 If pregnancy does not occur, progesterone and oestrogen levels fall. The lining is no longer maintained and menstruation follows; FSH can rise to support the next cycle.
 
 For a hormone graph, identify the **LH peak just before ovulation**, the earlier oestrogen rise and the later progesterone rise. Do not assume all four peaks occur on the same day or that every cycle releases an egg precisely on day 14.
+
+### Following the sequence rather than memorising four peaks
+
+FSH stimulates egg maturation and oestrogen release. Oestrogen helps rebuild the uterine lining and reduces further FSH release. A sufficiently high oestrogen level near mid-cycle stimulates the **LH surge**, which triggers ovulation. Progesterone rises afterwards and maintains the lining while suppressing further FSH and LH.
+
+If no pregnancy develops, progesterone falls and the lining breaks down. These events form a linked sequence, not four independent hormone lists. On a supplied graph, use its actual timings; an example 28-day cycle is not a fixed timetable for every person.
 
 ## Contraception: how methods work
 
@@ -312,6 +346,10 @@ Plants use hormones to coordinate growth. **Auxin** is made in growing tips and 
 ![One-sided light produces greater auxin-driven elongation on the shaded side of a shoot, bending it towards the light.](../Diagrams/shoot-phototropism.svg)
 
 Think of one side of a flexible strip becoming longer: the strip bends towards the shorter side. Auxin is not a signal telling the whole plant to walk towards light; **unequal growth creates the curve**.
+
+### Interpreting a tip experiment
+
+If removing a shoot tip prevents a response, this supports a role for the tip but also changes growth. An opaque cap blocks light reaching the tip; it does not automatically prove that no auxin is produced. Compare it with a transparent cap and an intact control to separate light detection from the physical effect of covering the tip.
 
 ## Practical: seedling growth responses
 
@@ -367,3 +405,12 @@ For a use, link **hormone → effect → benefit**. Rooting powder promotes root
 - [AQA Homeostasis and response specification](https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/subject-content/homeostasis-and-response)
 - [NHS: copper IUD](https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/what-is-it/)
 - [NHS: IVF embryo transfer](https://www.guysandstthomas.nhs.uk/health-information/ivf-treatment/step-5-embryo-transfer-womb)
+
+- [PMT: Detailed Notes](../Reference Materials/PMT - Homeostasis And Response - AQA Biology.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Body Regulation](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/body-regulation). Cross-checked against the project specification.
+- [Study Rocket: Endocrine System](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/endocrine-system). Cross-checked against the project specification.
+- [Study Rocket: Eyes And The Menstrual Cycle](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/eyes-and-the-menstrual-cycle). Cross-checked against the project specification.
+- [Study Rocket: Getting Pregnant](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/getting-pregnant). Cross-checked against the project specification.
+- [Study Rocket: Nervous System](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/nervous-system). Cross-checked against the project specification.
+- [Study Rocket: Plant And Animal Hormones](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/plant-and-animal-hormones). Cross-checked against the project specification.
+- [Study Rocket: Urinary System](https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/urinary-system). Cross-checked against the project specification.

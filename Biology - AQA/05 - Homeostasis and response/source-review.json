@@ -1,0 +1,91 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Biology - AQA",
+  "specification": "AQA 8461: 4.5",
+  "sections_refined": [
+    "Endocrine glands and hormone messages",
+    "Correcting eyesight",
+    "Kidney filtration and selective reabsorption",
+    "Puberty and the menstrual cycle",
+    "Plant responses to light and gravity"
+  ],
+  "pmt_references": [
+    {
+      "title": "Detailed Notes",
+      "topic": "homeostasis-and-response",
+      "url": "https://pmt.physicsandmathstutor.com/download/Biology/GCSE/Notes/AQA/5-Homeostasis-and-Response/Detailed Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/biology-revision/gcse-aqa/homeostasis-and-response/",
+      "selection": "Detailed Notes",
+      "file": "homeostasis-and-response-detailed-notes.pdf",
+      "pages": 15,
+      "sha256": "e8a65629cb6b8613e9319cfc4903bd419460251e425e1442a2e0e98174a60b2f",
+      "local_path": "Reference Materials\\PMT - Homeostasis And Response - AQA Biology.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all nervous, brain/eye, thermoregulation, endocrine, renal, reproductive and plant content. Existing methods and detailed mechanisms retained. Added neural/hormonal comparison, eyeball-length explanation, kidney-data interpretation and controlled tip experiments. Rejected SR claim that liver cells produce insulin, that all reflexes exclude the brain, that a tip cap stops auxin production, and undated IVF percentages. Kept AQA scope: no detailed nephron or extra hormone pathways required."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Body Regulation",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/body-regulation",
+      "file": "body-regulation.txt",
+      "words": 663
+    },
+    {
+      "title": "Endocrine System",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/endocrine-system",
+      "file": "endocrine-system.txt",
+      "words": 701
+    },
+    {
+      "title": "Eyes And The Menstrual Cycle",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/eyes-and-the-menstrual-cycle",
+      "file": "eyes-and-the-menstrual-cycle.txt",
+      "words": 773
+    },
+    {
+      "title": "Getting Pregnant",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/getting-pregnant",
+      "file": "getting-pregnant.txt",
+      "words": 723
+    },
+    {
+      "title": "Nervous System",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/nervous-system",
+      "file": "nervous-system.txt",
+      "words": 694
+    },
+    {
+      "title": "Plant And Animal Hormones",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/plant-and-animal-hormones",
+      "file": "plant-and-animal-hormones.txt",
+      "words": 639
+    },
+    {
+      "title": "Urinary System",
+      "url": "https://studyrocket.co.uk/revision/gcse-biology-triple-aqa/triple-homeostasis/urinary-system",
+      "file": "urinary-system.txt",
+      "words": 604
+    }
+  ],
+  "decisions": [
+    "Reviewed all nervous, brain/eye, thermoregulation, endocrine, renal, reproductive and plant content. Existing methods and detailed mechanisms retained. Added neural/hormonal comparison, eyeball-length explanation, kidney-data interpretation and controlled tip experiments. Rejected SR claim that liver cells produce insulin, that all reflexes exclude the brain, that a tip cap stops auxin production, and undated IVF percentages. Kept AQA scope: no detailed nephron or extra hormone pathways required.",
+    "Retained the curated deck and all existing practical/biological diagrams. New cards test explanatory gaps and application, rather than replacing prior recall."
+  ],
+  "flashcards": {
+    "before": 53,
+    "added": 15,
+    "refined": 0,
+    "after": 68
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

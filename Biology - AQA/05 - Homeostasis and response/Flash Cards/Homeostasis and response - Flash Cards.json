@@ -438,6 +438,111 @@
         "Condoms prevent sperm reaching an egg and **reduce STI transmission**, but correct use is important.",
         "Compare evidence on effectiveness, duration and individual priorities; there is no single biological measurement that decides every personal choice."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a circulating hormone affect only certain cells?",
+      "back": [
+        "Only cells with suitable receptors respond to that hormone."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What carries a nervous signal along a neurone and across a synapse?",
+      "back": [
+        "An electrical impulse travels along the neurone; a chemical transmitter diffuses across the synaptic gap."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How can eyeball length cause short-sightedness?",
+      "back": [
+        "If the eyeball is too long, rays from a distant object focus in front of the retina."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a diverging lens correct an early retinal focus?",
+      "back": [
+        "It spreads incoming rays so they converge farther back, onto the retina."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does glucose in initial kidney filtrate not normally mean glucose in urine?",
+      "back": [
+        "Glucose is normally selectively reabsorbed into the blood before the remaining fluid becomes urine."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can solute concentration rise without its mass increasing?",
+      "back": [
+        "Water may be removed, leaving the same solute mass in a smaller volume."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How do you compare solute amounts if both concentration and volume differ?",
+      "back": [
+        "Calculate mass = concentration × volume using consistent units, rather than comparing concentration alone."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must dialysis fluid contain suitable glucose and ion concentrations?",
+      "back": [
+        "This avoids unwanted net loss of useful substances while allowing urea and excess substances to be removed."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What links a high oestrogen level to ovulation?",
+      "back": [
+        "Near mid-cycle it stimulates an LH surge, and LH triggers release of the egg."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does the uterine lining break down when progesterone falls?",
+      "back": [
+        "Progesterone normally maintains it. When support falls and no pregnancy develops, menstruation follows."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does an opaque shoot-tip cap prove that auxin production stopped?",
+      "back": [
+        "No. It blocks light detection and may affect other conditions. Transparent-cap and intact controls help interpret the result."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does higher auxin on the lower side bend a root down but a shoot up?",
+      "back": [
+        "It inhibits elongation on the lower side of the root but promotes elongation there in a shoot. Unequal growth therefore bends them in opposite directions."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does ADH add new water to the body?",
+      "back": [
+        "No. It increases water reabsorption from kidney tubules, reducing loss in urine."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is vasoconstriction different from shivering?",
+      "back": [
+        "Vasoconstriction reduces heat loss by reducing surface blood flow. Shivering increases heat release through muscle activity."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why is maximum IVF pregnancy rate not the same as live-birth rate?",
+      "back": [
+        "Not every pregnancy results in a live birth. The outcome definition and denominator must be checked."
+      ]
     }
   ]
 }
