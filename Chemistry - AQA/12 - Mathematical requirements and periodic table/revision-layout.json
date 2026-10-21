@@ -5,7 +5,7 @@
       "id": "numbers",
       "title": "Units and numerical skills",
       "description": "Convert, estimate, round and compare quantities.",
-      "icon": "chemistry-atom",
+      "icon": "nav-ruler",
       "sections": [
         {
           "heading": "Units, standard form and estimates"
@@ -19,7 +19,7 @@
       "id": "table",
       "title": "Periodic-table skills",
       "description": "Read element data, charges, formulas and isotope averages.",
-      "icon": "chemistry-atom",
+      "icon": "nav-grid",
       "sections": [
         {
           "heading": "Reading the periodic table"
@@ -39,7 +39,7 @@
       "id": "amounts",
       "title": "Moles, solutions and gases",
       "description": "Use equation ratios and compatible units.",
-      "icon": "chemistry-atom",
+      "icon": "nav-scale",
       "sections": [
         {
           "heading": "Moles, particles and equation ratios"
@@ -59,7 +59,7 @@
       "id": "analysis",
       "title": "Yield, energy and mathematical reasoning",
       "description": "Compare results and interpret graphs or structures.",
-      "icon": "chemistry-atom",
+      "icon": "nav-formula",
       "sections": [
         {
           "heading": "Yield, atom economy and rates"
