@@ -5,7 +5,7 @@
       "id": "circuits",
       "title": "Circuits and components",
       "description": "Connect charge flow, resistance and circuit behaviour.",
-      "icon": "physics-circuit",
+      "icon": "nav-circuit",
       "sections": [
         {
           "heading": "Charge, current and potential difference"
@@ -25,7 +25,7 @@
       "id": "practicals",
       "title": "Circuit practicals",
       "description": "Measure resistance and investigate component graphs.",
-      "icon": "physics-circuit",
+      "icon": "nav-plan",
       "sections": [
         {
           "heading": "Practical: resistance of a wire and resistor combinations"
@@ -39,7 +39,7 @@
       "id": "power",
       "title": "Power, mains and static",
       "description": "Explain energy transfer, safety, the Grid and electric fields.",
-      "icon": "physics-energy",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Electrical energy and power"
