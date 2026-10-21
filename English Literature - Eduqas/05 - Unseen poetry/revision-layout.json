@@ -5,7 +5,7 @@
       "id": "meaning",
       "title": "Understanding the poem",
       "description": "Find the speaker, situation, deeper meaning and changes.",
-      "icon": "literature-book",
+      "icon": "nav-book",
       "sections": [
         {
           "heading": "Finding a poem's meaning"
@@ -22,7 +22,7 @@
       "id": "analysis",
       "title": "Language, structure and form",
       "description": "Turn precise evidence into a developed interpretation.",
-      "icon": "literature-pen",
+      "icon": "nav-pen",
       "sections": [
         {
           "heading": "Language and imagery"
@@ -42,7 +42,7 @@
       "id": "comparison",
       "title": "Comparison and exam approach",
       "description": "Connect both poems and organise the two tasks.",
-      "icon": "literature-drama",
+      "icon": "nav-balance",
       "sections": [
         {
           "heading": "Comparing two unseen poems"
