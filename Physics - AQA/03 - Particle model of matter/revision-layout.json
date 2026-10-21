@@ -5,7 +5,7 @@
       "id": "matter",
       "title": "States and density",
       "description": "Explain particle arrangements and measure mass per volume.",
-      "icon": "physics-particles",
+      "icon": "nav-particles",
       "sections": [
         {
           "heading": "Particles, states and density"
@@ -22,7 +22,7 @@
       "id": "heating",
       "title": "Heating and changes of state",
       "description": "Read heating curves and choose the right energy equation.",
-      "icon": "physics-heat",
+      "icon": "nav-thermometer",
       "sections": [
         {
           "heading": "Internal energy and temperature"
@@ -36,7 +36,7 @@
       "id": "gas",
       "title": "Gas pressure",
       "description": "Connect particle collisions, temperature and volume.",
-      "icon": "physics-particles",
+      "icon": "nav-gauge",
       "sections": [
         {
           "heading": "Gas pressure and temperature"
