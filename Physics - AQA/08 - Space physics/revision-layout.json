@@ -5,7 +5,7 @@
       "id": "stars",
       "title": "Stars and elements",
       "description": "Explain formation, balance and the two life-cycle routes.",
-      "icon": "physics-space",
+      "icon": "nav-star",
       "sections": [
         {
           "heading": "Our place in space"
@@ -25,7 +25,7 @@
       "id": "orbits",
       "title": "Orbits and satellites",
       "description": "Separate force, speed, velocity and orbital radius.",
-      "icon": "physics-motion",
+      "icon": "nav-orbit",
       "sections": [
         {
           "heading": "Why objects stay in orbit"
@@ -39,7 +39,7 @@
       "id": "universe",
       "title": "The expanding universe",
       "description": "Use red-shift evidence and recognise unanswered questions.",
-      "icon": "physics-space",
+      "icon": "nav-expand",
       "sections": [
         {
           "heading": "What red-shift means"
