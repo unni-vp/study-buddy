@@ -1,0 +1,132 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.6",
+  "sections_refined": [
+    "Describing and calculating waves",
+    "Lenses and ray diagrams",
+    "Colour and filters",
+    "Infrared emission and radiation balance"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "waves",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/6-Waves/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/waves/",
+      "selection": "Summary Notes",
+      "file": "waves-summary-notes.pdf",
+      "pages": 9,
+      "sha256": "f34ad400c4cbdc2f0617a6e78909ddf59c7e0e798d9ccbbfc654a8f1e1e76845",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all nine PMT summary pages and all SR Waves pages against 4.6. Added fixed-medium versus boundary changes, multi-cycle oscilloscope reading, real/virtual construction checks, colour sequences and radiative power balance. Existing seven explanatory/practical diagrams retained. Rejected PMT frequency increase automatically increasing speed and object colour determined by absorbed wavelength; SR echo distance lacking /2, reversed total-internal-reflection condition and concave virtual image projected on screen. Omitted out-of-spec Snell law, lens equation, Wien and Stefan–Boltzmann laws and speculative radio-health statements."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Waves Black Body Radiation",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-black-body-radiation",
+      "file": "waves-black-body-radiation.txt",
+      "words": 375
+    },
+    {
+      "title": "Waves Concave Lenses And Magnification",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-concave-lenses-and-magnification",
+      "file": "waves-concave-lenses-and-magnification.txt",
+      "words": 440
+    },
+    {
+      "title": "Waves Electromagnetic Waves And Refraction",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-electromagnetic-waves-and-refraction",
+      "file": "waves-electromagnetic-waves-and-refraction.txt",
+      "words": 325
+    },
+    {
+      "title": "Waves Exploring Structures Using Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-exploring-structures-using-waves",
+      "file": "waves-exploring-structures-using-waves.txt",
+      "words": 518
+    },
+    {
+      "title": "Waves Images And Ray Diagrams",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-images-and-ray-diagrams",
+      "file": "waves-images-and-ray-diagrams.txt",
+      "words": 529
+    },
+    {
+      "title": "Waves Infrared Radiation And Temperature",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-infrared-radiation-and-temperature",
+      "file": "waves-infrared-radiation-and-temperature.txt",
+      "words": 297
+    },
+    {
+      "title": "Waves Lenses",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-lenses",
+      "file": "waves-lenses.txt",
+      "words": 364
+    },
+    {
+      "title": "Waves Light",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-light",
+      "file": "waves-light.txt",
+      "words": 396
+    },
+    {
+      "title": "Waves Radio Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-radio-waves",
+      "file": "waves-radio-waves.txt",
+      "words": 350
+    },
+    {
+      "title": "Waves Reflection",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-reflection",
+      "file": "waves-reflection.txt",
+      "words": 378
+    },
+    {
+      "title": "Waves Sound Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-sound-waves",
+      "file": "waves-sound-waves.txt",
+      "words": 364
+    },
+    {
+      "title": "Waves Transverse And Longitudinal Waves",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves",
+      "file": "waves-transverse-and-longitudinal-waves.txt",
+      "words": 377
+    },
+    {
+      "title": "Waves Ultrasound",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-ultrasound",
+      "file": "waves-ultrasound.txt",
+      "words": 339
+    },
+    {
+      "title": "Waves Visible Light",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-visible-light",
+      "file": "waves-visible-light.txt",
+      "words": 403
+    }
+  ],
+  "decisions": [
+    "Reviewed all nine PMT summary pages and all SR Waves pages against 4.6. Added fixed-medium versus boundary changes, multi-cycle oscilloscope reading, real/virtual construction checks, colour sequences and radiative power balance. Existing seven explanatory/practical diagrams retained. Rejected PMT frequency increase automatically increasing speed and object colour determined by absorbed wavelength; SR echo distance lacking /2, reversed total-internal-reflection condition and concave virtual image projected on screen. Omitted out-of-spec Snell law, lens equation, Wien and Stefan–Boltzmann laws and speculative radio-health statements.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 37,
+    "added": 14,
+    "refined": 0,
+    "after": 51
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

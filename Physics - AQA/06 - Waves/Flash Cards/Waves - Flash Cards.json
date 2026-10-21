@@ -299,6 +299,104 @@
         "Use faces at the **same temperature**, for example on one hot Leslie cube.",
         "Keep **detector distance and angle fixed**, repeat, and compare readings."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What happens to wavelength if source frequency doubles while wave speed stays fixed?",
+      "back": [
+        "Wavelength halves."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "At 340 m/s, what wavelength corresponds to 170 Hz?",
+      "back": [
+        "2.0 m."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What period follows from four complete cycles in 8.0 ms?",
+      "back": [
+        "2.0 ms, or 0.0020 s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What frequency corresponds to a 0.0020 s period?",
+      "back": [
+        "500 Hz."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why must both construction rays start from the same object point?",
+      "back": [
+        "Their intersection locates the image of that particular point."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Do dashed virtual-image extensions show actual light travelling backwards?",
+      "back": [
+        "No. They show where diverging rays appear to originate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why cannot a screen capture a concave lens’s virtual image of a real object?",
+      "back": [
+        "Actual emerging rays do not converge at the apparent image location."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Can a convex lens produce a virtual image?",
+      "back": [
+        "Yes, when the object is closer to it than its focal length."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why can a yellow object appear red in red illumination?",
+      "back": [
+        "It can reflect the available red component; green light is not present."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does a cyan filter transmit little red-only light?",
+      "back": [
+        "It mainly transmits green and blue and absorbs most red; it cannot create missing colours."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What is net radiative gain for 100 W absorbed and 80 W emitted?",
+      "back": [
+        "20 W, or 20 J each second."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does constant temperature imply zero infrared emission?",
+      "back": [
+        "No. Emission can balance absorption at a non-zero rate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why use the wave speed for the material in an ultrasound question?",
+      "back": [
+        "Sound speed depends on the medium; an air value is not suitable for body tissue or water."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What must be halved when converting a returning echo time into boundary distance?",
+      "back": [
+        "The total out-and-back travel distance, giving d = vt/2."
+      ]
     }
   ]
 }

@@ -49,6 +49,18 @@ Using the supplied speeds:
 - In air: λ = 340 ÷ 500 = **0.68 m**.
 - In water: λ = 1,500 ÷ 500 = **3.0 m**.
 
+### Which quantity is being changed?
+
+| Situation | What stays fixed | What changes |
+|---|---|---|
+| Increase source frequency in the same medium under unchanged conditions. | Wave speed stays approximately the same. | Wavelength decreases because λ = v/f. |
+| A wave crosses into a medium where it travels more slowly. | Frequency stays the same. | Wavelength decreases. |
+| Increase sound amplitude without changing frequency. | Pitch stays the same. | The sound is generally louder. |
+
+For example, if sound speed is **340 m/s**, raising frequency from **170 Hz to 340 Hz** changes wavelength from **2.0 m to 1.0 m**. It does not double the speed.
+
+On an oscilloscope, if four complete cycles occupy **8.0 ms**, one period is **2.0 ms = 0.0020 s**. Frequency is **1 ÷ 0.0020 = 500 Hz**. Count the intervals between matching points, not simply the number of peaks.
+
 ## Practical: measuring waves
 
 
@@ -223,6 +235,12 @@ A 24 mm image of an 8 mm object has magnification **3**.
 
 Magnification less than 1 means reduced size. Ray diagrams show inversion separately.
 
+### Check the construction against the image
+
+The two rays must start from the **same object point**, usually the tip of its arrow. Where actual emerging rays meet gives a real image. Where their **backward dashed extensions** meet gives a virtual image. Dashed extensions are construction lines, not light travelling backwards through the lens.
+
+A concave lens with an ordinary real object produces diverging rays. Moving a screen around will not capture its virtual image, even though an eye can see the image by receiving the emerging light. A convex lens also makes a virtual image when the object is closer than its focal length.
+
 ## Colour and filters
 
 Colour depends on which wavelengths reach the eye.
@@ -235,6 +253,12 @@ Colour depends on which wavelengths reach the eye.
 - **Transparent:** transmits light with little scattering, allowing a clear view. **Translucent:** transmits but scatters light, blurring the view.
 
 Do not confuse absorption with reflection. A red object appears red because red is **reflected**, while a red transparent filter appears red because red is **transmitted**.
+
+### Follow the available colours in order
+
+A **yellow opaque object** reflects red and green components of white light more strongly and absorbs most blue. Under **red light**, it can look red because red is available to reflect. Under **blue light**, it looks dark because most available light is absorbed.
+
+A **cyan filter** transmits mainly green and blue. If red light alone reaches it, little light emerges. The filter cannot create wavelengths missing from the incoming beam. Decide first what light arrives, then what the object reflects or the filter transmits.
 
 ## Infrared emission and radiation balance
 
@@ -249,6 +273,12 @@ A **perfect black body** absorbs **all radiation incident on it**, reflecting an
 Think of a bath: the water level stays steady if water enters as fast as it leaves. Here the balance is **energy per second**, not water. Objects may also exchange energy by conduction or convection; include these if the question involves them.
 
 **Earth:** some sunlight is reflected into space; the rest is absorbed by the surface and atmosphere. Earth emits infrared. Greenhouse gases absorb and emit some of this IR, affecting transfer to space. Increased absorption of outgoing IR initially changes the balance, so the surface and lower atmosphere warm until a new balance is reached. Greater reflection of incoming sunlight generally reduces absorbed power. Do not describe greenhouse gases as simply reflecting all heat back.
+
+### A steady temperature can have large energy transfers
+
+An object absorbing **80 W** and emitting **80 W** has zero net radiative energy gain, but still transfers **80 J in each direction every second**. If absorbed power rises to **100 W** while emission is initially 80 W, the net gain is **20 J each second** and the object warms.
+
+As temperature changes, emitted power also changes. A new steady temperature requires balance again. This explains why a temperature plateau or steady reading must not automatically be described as “no energy transfer”.
 
 ## Practical: infrared surfaces
 
@@ -285,3 +315,19 @@ Use a heatproof surface. Handle hot water and lamps carefully. Keep mains equipm
 
 - [AQA Waves specification](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content/waves)
 - [AQA practical resources](https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/teaching-resources)
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Waves Black Body Radiation](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-black-body-radiation). Cross-checked against the project specification.
+- [Study Rocket: Waves Concave Lenses And Magnification](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-concave-lenses-and-magnification). Cross-checked against the project specification.
+- [Study Rocket: Waves Electromagnetic Waves And Refraction](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-electromagnetic-waves-and-refraction). Cross-checked against the project specification.
+- [Study Rocket: Waves Exploring Structures Using Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-exploring-structures-using-waves). Cross-checked against the project specification.
+- [Study Rocket: Waves Images And Ray Diagrams](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-images-and-ray-diagrams). Cross-checked against the project specification.
+- [Study Rocket: Waves Infrared Radiation And Temperature](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-infrared-radiation-and-temperature). Cross-checked against the project specification.
+- [Study Rocket: Waves Lenses](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-lenses). Cross-checked against the project specification.
+- [Study Rocket: Waves Light](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-light). Cross-checked against the project specification.
+- [Study Rocket: Waves Radio Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-radio-waves). Cross-checked against the project specification.
+- [Study Rocket: Waves Reflection](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-reflection). Cross-checked against the project specification.
+- [Study Rocket: Waves Sound Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-sound-waves). Cross-checked against the project specification.
+- [Study Rocket: Waves Transverse And Longitudinal Waves](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-transverse-and-longitudinal-waves). Cross-checked against the project specification.
+- [Study Rocket: Waves Ultrasound](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-ultrasound). Cross-checked against the project specification.
+- [Study Rocket: Waves Visible Light](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/waves/waves-visible-light). Cross-checked against the project specification.
