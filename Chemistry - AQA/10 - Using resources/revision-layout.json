@@ -5,7 +5,7 @@
       "id": "water",
       "title": "Resources and water",
       "description": "Compare sustainable use, treatment and analysis methods.",
-      "icon": "chemistry-atom",
+      "icon": "nav-droplet",
       "sections": [
         {
           "heading": "Resources and sustainable development"
@@ -25,7 +25,7 @@
       "id": "recovery",
       "title": "Recovery and life-cycle choices",
       "description": "Assess extraction, recycling and full environmental impacts.",
-      "icon": "chemistry-atom",
+      "icon": "nav-recycle",
       "sections": [
         {
           "heading": "Phytomining and bioleaching"
@@ -42,7 +42,7 @@
       "id": "materials",
       "title": "Materials and protection",
       "description": "Link structures and properties to practical uses.",
-      "icon": "chemistry-atom",
+      "icon": "nav-shield",
       "sections": [
         {
           "heading": "Corrosion, rusting and protective layers"
@@ -62,7 +62,7 @@
       "id": "fertilisers",
       "title": "Ammonia and fertilisers",
       "description": "Explain industrial conditions and nutrient formulations.",
-      "icon": "chemistry-atom",
+      "icon": "nav-leaf",
       "sections": [
         {
           "heading": "The Haber process"
