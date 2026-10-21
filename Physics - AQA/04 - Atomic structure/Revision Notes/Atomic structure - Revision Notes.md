@@ -71,6 +71,16 @@ Some nuclei are unstable. **Radioactive decay is a random nuclear change** that 
 
 Beta electrons come from a nuclear change, **not the electron shells**. Alpha emission changes the nucleus; losing an ordinary outer electron does not.
 
+### Activity, count rate and dose answer different questions
+
+| Quantity | What it describes | Important limitation |
+|---|---|---|
+| Activity, in Bq | How many nuclei decay per second in the source | It does not say how much radiation reaches a person. |
+| Count rate, in counts/s or counts/min | What the detector records | Distance, shielding, efficiency and background affect it. |
+| Dose, in Sv or mSv when supplied | A measure used to assess biological effects of exposure | Radiation type, absorption and exposed tissue matter. |
+
+Moving the detector farther away reduces its count rate without changing the source's activity. Removing shielding can increase exposure without making the source decay faster.
+
 ## Balancing nuclear equations
 
 Both **mass numbers and atomic numbers balance** across a nuclear equation. The nucleus may become a different element when its proton number changes.
@@ -115,6 +125,18 @@ Remaining fraction = ½ × ½ × ½ = **1/8**.
 
 Keep detector distance and shielding constant. Measure over a longer time and repeat to reduce the effect of random count fluctuations. Average counts, not a prediction of when an individual nucleus will decay.
 
+### Convert counts into comparable rates first
+
+A sample gives **540 counts in 60 s**. Background gives **60 counts in 60 s**.
+
+1. Total rate = **540 ÷ 60 = 9 counts/s**.
+2. Background rate = **60 ÷ 60 = 1 count/s**.
+3. Corrected source rate = **9 − 1 = 8 counts/s**.
+4. After two half-lives, source rate = **8 ÷ 2 ÷ 2 = 2 counts/s**.
+5. With unchanged background, the detector records **3 counts/s**, or **180 counts in 60 s**.
+
+If background and sample were counted for different times, convert both to rates before subtracting. Do not subtract a 30-second count directly from a 60-second count.
+
 ## Contamination, irradiation and protection
 
 - **Irradiation:** exposure to radiation from a source. Once the source is removed or shielded, exposure stops. The irradiated object does not become radioactive in these uses.
@@ -145,6 +167,14 @@ For the same initial number of radioactive nuclei, **shorter half-life means gre
 
 When comparing benefits and risks, use the dose, expected benefit and available alternatives supplied in the question. Published research and **peer review** let other scientists check evidence about radiation effects.
 
+### Choose a half-life for the job
+
+For an investigation lasting several hours, a tracer with a half-life of a few seconds may lose activity before measurements can be completed. One lasting many years may cause avoidable continuing exposure. Choose a half-life that allows transport and detection while limiting the period of exposure afterwards.
+
+Half-life alone does not determine safety: amount, activity, emission type, location and exposure time also matter. Radioactive decay and removal of material from the body are separate ways of reducing continuing exposure.
+
+Using radiation to destroy unwanted tissue is **radiotherapy**. Chemotherapy uses drugs. Both can affect healthy tissue, but they are different treatments.
+
 ## Fission, fusion and chain reactions
 
 **Fission splits a large unstable nucleus**. It usually begins when the nucleus absorbs a neutron. The nucleus splits into two smaller nuclei and releases **two or three neutrons, gamma radiation and energy**. The products carry kinetic energy.
@@ -156,3 +186,15 @@ Some emitted neutrons cause further fissions, producing a **chain reaction**. A 
 **Fusion joins two light nuclei into a heavier nucleus**. Some mass is converted into energy of radiation. Very high temperatures help positively charged nuclei overcome their mutual repulsion. Fusion powers stars.
 
 Do not confuse fusion with melting: melting rearranges particles without changing nuclei. Fission and fusion both change nuclei and can release energy, but they do so in opposite structural ways.
+
+## Sources
+
+- [PMT: Summary Notes](../Reference Materials/PMT - Summary - AQA Physics.pdf). Unmodified reference; its original board is recorded in the review metadata.
+- [Study Rocket: Atomic Structure Background Radiation And Contamination](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-background-radiation-and-contamination). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Developing The Model Of The Atom](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-developing-the-model-of-the-atom). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Half Life](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-half-life). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Isotopes](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-isotopes). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Nuclear Fission](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-fission). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Nuclear Fusion](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-fusion). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Nuclear Radiation And Equations](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-radiation-and-equations). Cross-checked against the project specification.
+- [Study Rocket: Atomic Structure Uses And Risks Of Radiation](https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-uses-and-risks-of-radiation). Cross-checked against the project specification.

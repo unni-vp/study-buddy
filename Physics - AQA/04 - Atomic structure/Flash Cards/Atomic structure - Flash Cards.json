@@ -167,6 +167,104 @@
         "Count for longer or repeat to reduce relative random variation.",
         "Keep distance and shielding fixed so geometry does not change the detection rate."
       ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does moving a detector away change a radioactive source’s activity?",
+      "back": [
+        "No. It reduces the fraction of emissions detected, not the source’s decay rate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does activity differ from radiation dose?",
+      "back": [
+        "Activity counts decays per second; dose concerns biological effects of absorbed exposure."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What rate is 540 counts in 60 seconds?",
+      "back": [
+        "9 counts/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What corrected source rate follows from 9 counts/s total and 1 count/s background?",
+      "back": [
+        "8 counts/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "After two half-lives, what total rate follows from an initial corrected 8 counts/s and constant 1 count/s background?",
+      "back": [
+        "3 counts/s: the source falls to 2 and background adds 1."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why convert unequal-duration counts to rates before subtracting background?",
+      "back": [
+        "Only counts for the same duration or equivalent rates are directly comparable."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a seconds-long half-life be unsuitable for a several-hour tracer study?",
+      "back": [
+        "Too little activity may remain when measurements need to be made."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a years-long tracer half-life be unsuitable?",
+      "back": [
+        "It may cause unnecessary continuing exposure after the investigation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does radioactive material leaving the body mean all its nuclei have decayed?",
+      "back": [
+        "No. Excretion and radioactive decay are different processes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes radiotherapy from chemotherapy?",
+      "back": [
+        "Radiotherapy uses radiation to damage unwanted cells; chemotherapy uses drugs."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are all isotopes radioactive?",
+      "back": [
+        "No. Some are stable; isotope means the same proton number with a different neutron number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must a short-lived sample have a higher activity than every long-lived sample?",
+      "back": [
+        "No. Comparing activity also requires the number of radioactive nuclei present."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does gamma emission have to change the element?",
+      "back": [
+        "No. It changes nuclear energy without changing proton number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does shielding not make a source’s half-life longer?",
+      "back": [
+        "It intercepts emissions after decay; it does not change the nuclear decay process."
+      ]
     }
   ]
 }

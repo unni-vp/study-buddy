@@ -1,0 +1,95 @@
+{
+  "review_date": "2026-10-21",
+  "subject": "Physics - AQA",
+  "specification": "AQA 8463: 4.4",
+  "sections_refined": [
+    "Radioactive decay and types of radiation",
+    "Half-life and background correction",
+    "Background radiation and uses"
+  ],
+  "pmt_references": [
+    {
+      "title": "Summary Notes",
+      "topic": "atomic-structure",
+      "url": "https://pmt.physicsandmathstutor.com/download/Physics/GCSE/Notes/AQA/4-Atomic-Structure/Summary Notes.pdf",
+      "page_url": "https://www.physicsandmathstutor.com/physics-revision/gcse-aqa/atomic-structure/",
+      "selection": "Summary Notes",
+      "file": "atomic-structure-summary-notes.pdf",
+      "pages": 7,
+      "sha256": "29ad7b63d2fe2adbb3a8a2da9c1e9567402fe484606155e2fc066e05409633ee",
+      "local_path": "Reference Materials\\PMT - Summary - AQA Physics.pdf",
+      "coverage_decisions": [
+        {
+          "pages": "All content pages",
+          "decision": "Reviewed all PMT summary pages and eight SR Atomic Structure pages against 4.4. Added activity/count-rate/dose comparison, unequal-duration counting, half-life choice and correct radiotherapy terminology. Existing nuclear equations, half-life curve and fission/fusion diagram retained. Rejected PMT beta stopped by paper, radiotherapy called chemotherapy, absolute short-life safety, and smoke-detector source dispersed into surrounding air. Did not import SR all isotopes unstable or all instability caused by excess neutrons; avoided outdated current fusion-record claims."
+        }
+      ]
+    }
+  ],
+  "studyrocket_pages": [
+    {
+      "title": "Atomic Structure Background Radiation And Contamination",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-background-radiation-and-contamination",
+      "file": "atomic-structure-background-radiation-and-contamination.txt",
+      "words": 385
+    },
+    {
+      "title": "Atomic Structure Developing The Model Of The Atom",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-developing-the-model-of-the-atom",
+      "file": "atomic-structure-developing-the-model-of-the-atom.txt",
+      "words": 395
+    },
+    {
+      "title": "Atomic Structure Half Life",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-half-life",
+      "file": "atomic-structure-half-life.txt",
+      "words": 301
+    },
+    {
+      "title": "Atomic Structure Isotopes",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-isotopes",
+      "file": "atomic-structure-isotopes.txt",
+      "words": 259
+    },
+    {
+      "title": "Atomic Structure Nuclear Fission",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-fission",
+      "file": "atomic-structure-nuclear-fission.txt",
+      "words": 304
+    },
+    {
+      "title": "Atomic Structure Nuclear Fusion",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-fusion",
+      "file": "atomic-structure-nuclear-fusion.txt",
+      "words": 333
+    },
+    {
+      "title": "Atomic Structure Nuclear Radiation And Equations",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-nuclear-radiation-and-equations",
+      "file": "atomic-structure-nuclear-radiation-and-equations.txt",
+      "words": 411
+    },
+    {
+      "title": "Atomic Structure Uses And Risks Of Radiation",
+      "url": "https://studyrocket.co.uk/revision/gcse-physics-triple-aqa/atomic-structure/atomic-structure-uses-and-risks-of-radiation",
+      "file": "atomic-structure-uses-and-risks-of-radiation.txt",
+      "words": 341
+    }
+  ],
+  "decisions": [
+    "Reviewed all PMT summary pages and eight SR Atomic Structure pages against 4.4. Added activity/count-rate/dose comparison, unequal-duration counting, half-life choice and correct radiotherapy terminology. Existing nuclear equations, half-life curve and fission/fusion diagram retained. Rejected PMT beta stopped by paper, radiotherapy called chemotherapy, absolute short-life safety, and smoke-detector source dispersed into surrounding air. Did not import SR all isotopes unstable or all instability caused by excess neutrons; avoided outdated current fusion-record claims.",
+    "AQA 8463 separate Higher content controls coverage. External resources are checked for mistakes and unnecessary advanced content, not copied verbatim. All original curated cards and useful diagrams are retained."
+  ],
+  "flashcards": {
+    "before": 20,
+    "added": 14,
+    "refined": 0,
+    "after": 34
+  },
+  "checks": {
+    "original_cards_retained": true,
+    "existing_note_images_retained": true,
+    "source_pdfs_unmodified": true,
+    "browser": "Passed all topic revision groups and deck at 1366, 390 and 320 pixels, with loaded diagrams, complete print view, local links, hidden sources, initial focus and keyboard reveal/navigation."
+  }
+}

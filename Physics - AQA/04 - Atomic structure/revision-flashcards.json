@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "basis": "Independently curated original deck retained in full, with original note-based additions reviewed against the subject specification. External notes supply coverage prompts, not verbatim cards.",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "Which particle has no electric charge and is found in the nucleus?",
+      "back": [
+        "Neutron."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the atomic number?",
+      "back": [
+        "The number of protons in a nucleus."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the SI unit of activity?",
+      "back": [
+        "Becquerel (Bq)."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is an alpha particle?",
+      "back": [
+        "A helium nucleus: two protons and two neutrons."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain what is meant by isotopes of an element.",
+      "back": [
+        "Atoms with the **same number of protons** but **different numbers of neutrons**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "An atom has atomic number 11 and mass number 23. State its neutron number and the number of electrons in its singly positive ion.",
+      "back": [
+        "Neutrons = 23 − 11 = **12**.",
+        "The ion has lost one electron: 11 − 1 = **10 electrons**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Describe what happens when an electron absorbs radiation and then returns to its original energy level.",
+      "back": [
+        "It moves to a **higher energy level** after absorption.",
+        "It **emits electromagnetic radiation** when returning to a lower level."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "State how the mass number and atomic number change during beta-minus decay.",
+      "back": [
+        "Mass number **does not change**.",
+        "Atomic number **increases by 1** because a neutron becomes a proton."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does irradiation differ from contamination?",
+      "back": [
+        "**Irradiation** is exposure to radiation from a source.",
+        "**Contamination** is radioactive material being present where it is unwanted."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give one natural source and one human-made source of background radiation.",
+      "back": [
+        "Natural: **rocks/radon gas**.",
+        "Human-made: **fallout from nuclear weapons tests**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is radioactive decay described as random even though a sample has a predictable half-life?",
+      "back": [
+        "The decay time of an **individual nucleus cannot be predicted**.",
+        "Large numbers follow a predictable overall halving pattern."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An isotope has activity 960 Bq and half-life 4 hours. Calculate its activity after 12 hours.",
+      "back": [
+        "12/4 = **3 half-lives**.",
+        "960 → 480 → 240 → 120.",
+        "Activity = **120 Bq**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "An isotope undergoes four half-lives. State the fraction remaining, the fraction decayed and the ratio of decline to initial activity.",
+      "back": [
+        "Remaining = (½)⁴ = **1/16**.",
+        "Decayed = 1 − 1/16 = **15/16**.",
+        "Decline : initial = **15 : 16**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A detector reads 110 counts/s with a source present and 10 counts/s without it. What total reading is expected after two half-lives?",
+      "back": [
+        "Initial source count rate = 110 − 10 = **100 counts/s**.",
+        "After two half-lives, source rate = 100/4 = **25 counts/s**.",
+        "Add unchanged background: **35 counts/s**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "A nucleus with mass number 226 and atomic number 88 emits an alpha particle. Find both numbers for the daughter nucleus and explain the change.",
+      "back": [
+        "Daughter mass number = 226 − 4 = **222**.",
+        "Daughter atomic number = 88 − 2 = **86**.",
+        "An alpha particle removes **two protons and two neutrons**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why most alpha particles pass through thin metal foil but very few are deflected backwards.",
+      "back": [
+        "Most of the atom is **empty space**.",
+        "Positive alpha particles near the **positive nucleus** are repelled.",
+        "Very large deflections are rare because the dense nucleus occupies a **tiny fraction of the atom**."
+      ]
+    },
+    {
+      "category": "Apply and calculate",
+      "front": "Explain why a gamma-emitting isotope with a suitable short half-life can be useful as a medical tracer.",
+      "back": [
+        "Gamma can **leave the body** and reach an external detector.",
+        "The source lasts long enough to complete the investigation.",
+        "A suitably short half-life reduces continuing activity and exposure afterwards."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Explain why an alpha-emitting contaminant can be much more dangerous inside the body than outside it.",
+      "back": [
+        "Alpha has **low penetrating power** and is largely stopped by outer skin.",
+        "Inside the body it is close to living cells without that protection.",
+        "It is **highly ionising**, depositing energy over a short distance.",
+        "This can damage cells and DNA, increasing the risk of mutations and cancer."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "Compare nuclear fission and nuclear fusion.",
+      "back": [
+        "Fission **splits a large unstable nucleus**, usually after neutron absorption.",
+        "It releases smaller nuclei, neutrons, gamma radiation and energy; neutrons can continue a chain reaction.",
+        "Fusion **joins light nuclei** into a heavier one.",
+        "Fusion also releases energy as some mass is converted; it needs conditions allowing positive nuclei to overcome repulsion."
+      ]
+    },
+    {
+      "category": "Multi-step application",
+      "front": "A detector measures a source for 60 s and records 3,600 counts. A background test records 300 counts in 60 s. Calculate the corrected source count rate and give two ways to improve the measurement.",
+      "back": [
+        "Background rate = 300/60 = **5 counts/s**.",
+        "Corrected rate = 3,600/60 − 5 = **55 counts/s**.",
+        "Count for longer or repeat to reduce relative random variation.",
+        "Keep distance and shielding fixed so geometry does not change the detection rate."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Focused recall",
+      "front": "Does moving a detector away change a radioactive source’s activity?",
+      "back": [
+        "No. It reduces the fraction of emissions detected, not the source’s decay rate."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "How does activity differ from radiation dose?",
+      "back": [
+        "Activity counts decays per second; dose concerns biological effects of absorbed exposure."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What rate is 540 counts in 60 seconds?",
+      "back": [
+        "9 counts/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What corrected source rate follows from 9 counts/s total and 1 count/s background?",
+      "back": [
+        "8 counts/s."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "After two half-lives, what total rate follows from an initial corrected 8 counts/s and constant 1 count/s background?",
+      "back": [
+        "3 counts/s: the source falls to 2 and background adds 1."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why convert unequal-duration counts to rates before subtracting background?",
+      "back": [
+        "Only counts for the same duration or equivalent rates are directly comparable."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a seconds-long half-life be unsuitable for a several-hour tracer study?",
+      "back": [
+        "Too little activity may remain when measurements need to be made."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why might a years-long tracer half-life be unsuitable?",
+      "back": [
+        "It may cause unnecessary continuing exposure after the investigation."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does radioactive material leaving the body mean all its nuclei have decayed?",
+      "back": [
+        "No. Excretion and radioactive decay are different processes."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "What distinguishes radiotherapy from chemotherapy?",
+      "back": [
+        "Radiotherapy uses radiation to damage unwanted cells; chemotherapy uses drugs."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Are all isotopes radioactive?",
+      "back": [
+        "No. Some are stable; isotope means the same proton number with a different neutron number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Must a short-lived sample have a higher activity than every long-lived sample?",
+      "back": [
+        "No. Comparing activity also requires the number of radioactive nuclei present."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Does gamma emission have to change the element?",
+      "back": [
+        "No. It changes nuclear energy without changing proton number."
+      ]
+    },
+    {
+      "category": "Focused recall",
+      "front": "Why does shielding not make a source’s half-life longer?",
+      "back": [
+        "It intercepts emissions after decay; it does not change the nuclear decay process."
+      ]
+    }
+  ]
+}
