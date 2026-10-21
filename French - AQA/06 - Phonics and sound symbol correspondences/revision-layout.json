@@ -5,7 +5,7 @@
       "id": "vowels",
       "title": "Vowels and nasal sounds",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-headphones",
       "sections": [
         {
           "heading": "From letters to sounds"
@@ -22,7 +22,7 @@
       "id": "connected",
       "title": "Consonants and connected speech",
       "description": "Key language, examples and common mistakes.",
-      "icon": "literature-book",
+      "icon": "nav-speech",
       "sections": [
         {
           "heading": "Consonant groups"
