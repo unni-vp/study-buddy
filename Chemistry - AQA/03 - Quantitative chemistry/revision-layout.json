@@ -5,7 +5,7 @@
       "id": "amounts",
       "title": "Masses and moles",
       "description": "Build equation ratios and find the limiting reactant.",
-      "icon": "cells",
+      "icon": "nav-scale",
       "sections": [
         {
           "heading": "Mass, formulae and equations"
@@ -28,7 +28,7 @@
       "id": "applications",
       "title": "Solutions, gases and efficiency",
       "description": "Apply mole ratios, compare yields and judge measurements.",
-      "icon": "practical",
+      "icon": "nav-flask",
       "sections": [
         {
           "heading": "Concentrations and solution volumes"
