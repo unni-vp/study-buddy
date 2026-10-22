@@ -3,13 +3,21 @@
   "groups": [
     {
       "id": "building",
-      "title": "Build and describe",
-      "description": "Key language, examples and common mistakes.",
+      "title": "Nouns & articles",
+      "description": "Gender, number and choosing the correct article",
       "icon": "nav-word",
       "sections": [
         {
           "heading": "Nouns and articles"
-        },
+        }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "title": "Adjectives & comparisons",
+      "description": "Agreement, descriptions and comparing people or things",
+      "icon": "nav-pen",
+      "sections": [
         {
           "heading": "Adjectives and comparisons"
         }
@@ -17,16 +25,32 @@
     },
     {
       "id": "verbs",
-      "title": "Verbs and time frames",
-      "description": "Key language, examples and common mistakes.",
+      "title": "Present-tense verbs",
+      "description": "Regular families and important present forms",
       "icon": "nav-clock",
       "sections": [
         {
           "heading": "Present verbs and verb families"
-        },
+        }
+      ]
+    },
+    {
+      "id": "modals-reflexives",
+      "title": "Modal & reflexive verbs",
+      "description": "Follow a modal with an infinitive and use reflexive pronouns",
+      "icon": "nav-process",
+      "sections": [
         {
           "heading": "Modals and reflexives"
-        },
+        }
+      ]
+    },
+    {
+      "id": "past-future",
+      "title": "Past & future time frames",
+      "description": "Completed events, past habits and future plans",
+      "icon": "nav-clock",
+      "sections": [
         {
           "heading": "Past and future"
         }
@@ -34,18 +58,26 @@
     },
     {
       "id": "connecting",
-      "title": "Connect and control meaning",
-      "description": "Key language, examples and common mistakes.",
+      "title": "Pronouns & linking ideas",
+      "description": "Replace repeated nouns and connect clauses clearly",
       "icon": "nav-link",
       "sections": [
         {
           "heading": "Pronouns and connected clauses"
         },
         {
-          "heading": "Negatives, questions and instructions"
-        },
-        {
           "heading": "Useful linking patterns"
+        }
+      ]
+    },
+    {
+      "id": "negatives-questions",
+      "title": "Negatives, questions & instructions",
+      "description": "Control what a sentence means and ask for information",
+      "icon": "nav-speech",
+      "sections": [
+        {
+          "heading": "Negatives, questions and instructions"
         }
       ]
     }
