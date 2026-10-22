@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Language - Eduqas",
+  "topic": "04 - Transactional and persuasive writing",
+  "official_basis": "English Language - Eduqas/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Effective Ordering",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/effective-ordering"
+    },
+    {
+      "title": "Audience & Purpose",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/audience-purpose"
+    },
+    {
+      "title": "Appropriate Format",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/appropriate-format"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use PMT/SR transferable writing decisions only; retain two compulsory Eduqas 20-mark tasks.",
+    "Keep existing complete article and Q&A answer/reasoning separator."
+  ],
+  "note_sections_refined": [
+    "Change the form without losing the purpose",
+    "Persuasion that grows from the idea"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "a08be1eeac1aa99f5fc9b3c23933c00266dc56bd76d155e8b7865eefa4fd0f92",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 0,
+    "added": 15,
+    "total": 15,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

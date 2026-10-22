@@ -166,6 +166,16 @@ A **counterargument** is a reasonable objection. A **concession** admits where i
 
 That is stronger than “Some people disagree, but they are wrong.” Not every advice piece needs a formal opposing argument; use one when it improves the task you are writing.
 
+### Answer a reasonable objection
+
+**Claim:** A quiet lunchtime room would help pupils who need a break from noise.
+
+**Objection:** The school may not have staff available every day.
+
+**Developed response:** Start with two supervised lunchtimes each week, using an existing room. This limits the demand on staff while allowing the school to see whether pupils use it.
+
+The objection changes the proposal into something more workable. This is **reasoned persuasion**, rather than adding an opposing view only to dismiss it. Use a hypothetical example as a possibility, not as a fabricated survey result or invented expert quotation.
+
 ## Change the form without losing the purpose
 
 An article is only one possible form. **Recognisable conventions help the reader, but developed prose does most of the work.**
@@ -198,6 +208,18 @@ Write the words you would actually say. A class talk can be warm and humorous; a
 A useful review combines **detail + judgement + reason**: “The clear beginners’ instructions make the game easy to learn, although experienced players may want a harder challenge.” End by explaining **who would enjoy it and why**.
 
 Useful advice combines **action + how + why**: “Choose a club you can reach at lunchtime. That removes the need for another journey and makes a first visit easier to fit into your week.”
+
+### Choose conventions that serve the task
+
+| Form | Useful conventions | Keep the main focus on |
+|---|---|---|
+| Article | A relevant headline and a clear opening that introduces the issue. | Ideas developed for the stated readership. |
+| Formal letter | An appropriate greeting, clear reason for writing and suitable closing. | A precise request or argument in a consistent register. |
+| Speech | Direct address, clear signposting and sentences that work aloud. | Leading listeners through a reasoned case. |
+| Review | Identification of what is reviewed, specific evidence and a judgement. | Helping the audience decide whether it suits them. |
+| Report | A clear purpose and organised findings, with headings where useful. | Evidence, explanation and relevant recommendations. |
+
+These conventions orient the reader; they do not replace developed content. A headline alone does not make a piece a successful article. Avoid spending time drawing a newspaper layout when clear prose will communicate the ideas.
 
 ## Control sentences and vocabulary
 
@@ -250,3 +272,9 @@ The rewrite fixes **agreement** and the **comma splice**, removes an unsupported
 - **Device collecting:** endless questions and exclamation marks → use a few choices with a clear purpose.
 - **Memorised answer:** forcing a prepared piece onto a new task → adapt the plan and details to the actual reader.
 - **One polished response, one rushed response:** protect time for both tasks, including checking.
+
+## Sources
+
+- [Effective Ordering](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/effective-ordering).
+- [Audience & Purpose](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/audience-purpose).
+- [Appropriate Format](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-writing/appropriate-format).

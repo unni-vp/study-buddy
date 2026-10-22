@@ -31,5 +31,23 @@
     "02-articles-and-persuasion",
     "03-forms-and-audiences",
     "04-style-and-editing"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Transactional and persuasive writing - Flash Cards.json",
+    "count": 15,
+    "categories": [
+      "Writing decisions",
+      "Argument",
+      "Application",
+      "Evidence",
+      "Forms",
+      "Development",
+      "Organisation",
+      "Editing",
+      "Audience",
+      "Exam format"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

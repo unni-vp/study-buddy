@@ -1,0 +1,113 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "No previous deck; self-contained original skill cards",
+  "base_cards": [],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Writing decisions",
+      "front": "What is register?",
+      "back": [
+        "Register is the level and style of language suited to the audience, purpose and relationship. Keep it consistent unless a change serves the task."
+      ]
+    },
+    {
+      "category": "Writing decisions",
+      "front": "Why is a headline insufficient for an article?",
+      "back": [
+        "It identifies a form convention, but the article still needs developed ideas, clear organisation and suitable language."
+      ]
+    },
+    {
+      "category": "Argument",
+      "front": "What makes an objection useful?",
+      "back": [
+        "It addresses a real difficulty and leads to a reasoned response or a more workable proposal."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "How can a school proposal respond to limited staffing?",
+      "back": [
+        "Offer a realistic smaller trial or timetable and explain how it reduces the demand while testing the benefit."
+      ]
+    },
+    {
+      "category": "Evidence",
+      "front": "How should a made-up example be framed?",
+      "back": [
+        "Present it as a hypothetical situation or possibility. Do not pass invented survey findings or expert quotations off as facts."
+      ]
+    },
+    {
+      "category": "Forms",
+      "front": "What should a review help its audience do?",
+      "back": [
+        "Make a judgement about whether the subject suits their interests or needs, using specific examples rather than only praise."
+      ]
+    },
+    {
+      "category": "Forms",
+      "front": "How can a speech be organised for listeners?",
+      "back": [
+        "Use clear signposting, purposeful repetition and sentences that can be followed aloud. Listeners cannot easily reread an earlier line."
+      ]
+    },
+    {
+      "category": "Forms",
+      "front": "What distinguishes a report from an emotional personal appeal?",
+      "back": [
+        "A report organises relevant findings and explains recommendations through evidence and purpose."
+      ]
+    },
+    {
+      "category": "Development",
+      "front": "What turns a point into a developed paragraph?",
+      "back": [
+        "Explain the reason, add a concrete example or consequence, and connect it to the argument."
+      ]
+    },
+    {
+      "category": "Organisation",
+      "front": "What should an ending do beyond repeating every point?",
+      "back": [
+        "Resolve the argument with a clear judgement, recommendation or appropriate call to action."
+      ]
+    },
+    {
+      "category": "Editing",
+      "front": "Why should content be checked before decorative language?",
+      "back": [
+        "Missing or undeveloped task points limit communication. Accurate, relevant ideas matter before extra devices."
+      ]
+    },
+    {
+      "category": "Audience",
+      "front": "How does a letter to a headteacher differ from a message to a friend?",
+      "back": [
+        "The relationship calls for a respectful register and a precise request, while a message to a friend may use more conversational language."
+      ]
+    },
+    {
+      "category": "Argument",
+      "front": "When can a rhetorical question strengthen persuasion?",
+      "back": [
+        "When it focuses attention on a meaningful issue and the surrounding argument develops the implied answer."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "How many transactional writing tasks are compulsory in Eduqas Component 2?",
+      "back": [
+        "There are two compulsory tasks, worth 20 marks each."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "How are the 20 marks for each transactional task divided?",
+      "back": [
+        "There are 12 marks for communication and organisation, and 8 for vocabulary, sentences, spelling and punctuation."
+      ]
+    }
+  ]
+}
