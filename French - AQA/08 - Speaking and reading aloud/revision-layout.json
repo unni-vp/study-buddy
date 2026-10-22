@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "short",
-      "title": "Role-play and reading aloud",
-      "description": "Key language, examples and common mistakes.",
+      "title": "Speaking tasks & role-play",
+      "description": "Understand the tasks and communicate each requested point",
       "icon": "nav-speech",
       "sections": [
         {
@@ -12,21 +12,37 @@
         },
         {
           "heading": "Role-play: communicate exactly"
-        },
+        }
+      ]
+    },
+    {
+      "id": "reading-aloud",
+      "title": "Reading aloud",
+      "description": "Use spelling, phrasing and meaning to guide pronunciation",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Reading aloud with meaning"
         }
       ]
     },
     {
-      "id": "conversation",
-      "title": "Photos and conversation",
-      "description": "Key language, examples and common mistakes.",
+      "id": "photos",
+      "title": "Describing photos",
+      "description": "Notice details and describe both photographs clearly",
       "icon": "nav-camera",
       "sections": [
         {
           "heading": "Describing both photos"
-        },
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Conversation & recovery",
+      "description": "Develop responses, listen carefully and handle difficulties",
+      "icon": "nav-people",
+      "sections": [
         {
           "heading": "Developing the conversation"
         },
