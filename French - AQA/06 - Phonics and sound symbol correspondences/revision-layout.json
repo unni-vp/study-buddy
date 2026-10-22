@@ -3,16 +3,24 @@
   "groups": [
     {
       "id": "vowels",
-      "title": "Vowels and nasal sounds",
-      "description": "Key language, examples and common mistakes.",
-      "icon": "nav-headphones",
+      "title": "Vowels & spelling patterns",
+      "description": "Link letters to sounds and practise clear vowel contrasts",
+      "icon": "nav-word",
       "sections": [
         {
           "heading": "From letters to sounds"
         },
         {
           "heading": "Clear vowel contrasts"
-        },
+        }
+      ]
+    },
+    {
+      "id": "nasal",
+      "title": "Nasal vowels",
+      "description": "Recognise and practise the main nasal sound patterns",
+      "icon": "nav-headphones",
+      "sections": [
         {
           "heading": "Nasal vowels"
         }
@@ -20,13 +28,21 @@
     },
     {
       "id": "connected",
-      "title": "Consonants and connected speech",
-      "description": "Key language, examples and common mistakes.",
-      "icon": "nav-speech",
+      "title": "Consonant groups",
+      "description": "Recognise the sounds made by common letter combinations",
+      "icon": "nav-music",
       "sections": [
         {
           "heading": "Consonant groups"
-        },
+        }
+      ]
+    },
+    {
+      "id": "liaison",
+      "title": "Silent endings & liaison",
+      "description": "Know when final letters are silent and when words link",
+      "icon": "nav-link",
+      "sections": [
         {
           "heading": "Silent endings and liaison"
         }
