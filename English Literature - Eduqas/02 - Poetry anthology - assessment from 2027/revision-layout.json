@@ -3,16 +3,32 @@
   "groups": [
     {
       "id": "nature",
-      "title": "Nature and childhood",
-      "description": "Freedom, pleasure, memory and disappointment.",
+      "title": "The Schoolboy",
+      "description": "William Blake · Nature and childhood",
       "icon": "nav-leaf",
       "sections": [
         {
           "heading": "The Schoolboy — William Blake"
-        },
+        }
+      ]
+    },
+    {
+      "id": "i-wandered-lonely-as-a-cloud",
+      "title": "I Wandered Lonely as a Cloud",
+      "description": "William Wordsworth · Nature and childhood",
+      "icon": "nav-leaf",
+      "sections": [
         {
           "heading": "I Wandered Lonely as a Cloud — William Wordsworth"
-        },
+        }
+      ]
+    },
+    {
+      "id": "blackberry-picking",
+      "title": "Blackberry Picking",
+      "description": "Seamus Heaney · Nature and childhood",
+      "icon": "nav-leaf",
+      "sections": [
         {
           "heading": "Blackberry Picking — Seamus Heaney"
         }
@@ -20,19 +36,43 @@
     },
     {
       "id": "relationships",
-      "title": "Love and relationships",
-      "description": "Longing, power and the pull of family bonds.",
+      "title": "Sonnet 29",
+      "description": "Elizabeth Barrett Browning · Love and relationships",
       "icon": "nav-heart",
       "sections": [
         {
           "heading": "Sonnet 29 — Elizabeth Barrett Browning"
-        },
+        }
+      ]
+    },
+    {
+      "id": "cousin-kate",
+      "title": "Cousin Kate",
+      "description": "Christina Rossetti · Love and relationships",
+      "icon": "nav-heart",
+      "sections": [
         {
           "heading": "Cousin Kate — Christina Rossetti"
-        },
+        }
+      ]
+    },
+    {
+      "id": "catrin",
+      "title": "Catrin",
+      "description": "Gillian Clarke · Love and relationships",
+      "icon": "nav-heart",
+      "sections": [
         {
           "heading": "Catrin — Gillian Clarke"
-        },
+        }
+      ]
+    },
+    {
+      "id": "dusting-the-phone",
+      "title": "Dusting the Phone",
+      "description": "Jackie Kay · Love and relationships",
+      "icon": "nav-heart",
+      "sections": [
         {
           "heading": "Dusting the Phone — Jackie Kay"
         }
@@ -40,22 +80,54 @@
     },
     {
       "id": "war",
-      "title": "War and its aftermath",
-      "description": "Loss, memory, responsibility and exclusion.",
+      "title": "Drummer Hodge",
+      "description": "Thomas Hardy · War and its aftermath",
       "icon": "nav-conflict",
       "sections": [
         {
           "heading": "Drummer Hodge — Thomas Hardy"
-        },
+        }
+      ]
+    },
+    {
+      "id": "disabled",
+      "title": "Disabled",
+      "description": "Wilfred Owen · War and its aftermath",
+      "icon": "nav-conflict",
+      "sections": [
         {
           "heading": "Disabled — Wilfred Owen"
-        },
+        }
+      ]
+    },
+    {
+      "id": "kamikaze",
+      "title": "Kamikaze",
+      "description": "Beatrice Garland · War and its aftermath",
+      "icon": "nav-conflict",
+      "sections": [
         {
           "heading": "Kamikaze — Beatrice Garland"
-        },
+        }
+      ]
+    },
+    {
+      "id": "war-photographer",
+      "title": "War Photographer",
+      "description": "Carol Ann Duffy · War and its aftermath",
+      "icon": "nav-conflict",
+      "sections": [
         {
           "heading": "War Photographer — Carol Ann Duffy"
-        },
+        }
+      ]
+    },
+    {
+      "id": "remains",
+      "title": "Remains",
+      "description": "Simon Armitage · War and its aftermath",
+      "icon": "nav-conflict",
+      "sections": [
         {
           "heading": "Remains — Simon Armitage"
         }
@@ -63,16 +135,32 @@
     },
     {
       "id": "identity",
-      "title": "Place and identity",
-      "description": "Home, human dignity and family origins.",
+      "title": "I Shall Return",
+      "description": "Claude McKay · Place and identity",
       "icon": "nav-map",
       "sections": [
         {
           "heading": "I Shall Return — Claude McKay"
-        },
+        }
+      ]
+    },
+    {
+      "id": "decomposition",
+      "title": "Decomposition",
+      "description": "Zulfikar Ghose · Place and identity",
+      "icon": "nav-map",
+      "sections": [
         {
           "heading": "Decomposition — Zulfikar Ghose"
-        },
+        }
+      ]
+    },
+    {
+      "id": "origin-story",
+      "title": "Origin Story",
+      "description": "Eve L. Ewing · Place and identity",
+      "icon": "nav-map",
+      "sections": [
         {
           "heading": "Origin Story — Eve L. Ewing"
         }
