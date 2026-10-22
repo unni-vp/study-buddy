@@ -3,13 +3,21 @@
   "groups": [
     {
       "id": "connections-development",
-      "title": "Connections & development",
-      "description": "Trade, indicators, uneven development and Salford Quays",
+      "title": "The UK in the wider world",
+      "description": "Development, trade and international connections",
       "icon": "nav-globe",
       "sections": [
         {
           "heading": "The UK in the wider world"
-        },
+        }
+      ]
+    },
+    {
+      "id": "salford-quays",
+      "title": "Salford Quays",
+      "description": "Economic change and regeneration at MediaCityUK",
+      "icon": "nav-city",
+      "sections": [
         {
           "heading": "Economic change: Salford Quays"
         }
@@ -31,13 +39,21 @@
     },
     {
       "id": "urban-change",
-      "title": "Urban change & Leeds",
-      "description": "Urban trends, city challenges and sustainable living",
+      "title": "Urban change",
+      "description": "Urban patterns, challenges and regeneration",
       "icon": "nav-city",
       "sections": [
         {
           "heading": "Urban change"
-        },
+        }
+      ]
+    },
+    {
+      "id": "leeds",
+      "title": "Leeds city",
+      "description": "Named evidence about urban change in Leeds",
+      "icon": "nav-pin",
+      "sections": [
         {
           "heading": "Leeds city case study"
         },
