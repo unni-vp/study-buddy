@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "photosynthesis",
-      "title": "Photosynthesis & its practical",
-      "description": "Glucose, limiting factors and measuring rate",
+      "title": "Photosynthesis & limiting factors",
+      "description": "Glucose, plant growth and factors affecting rate",
       "icon": "nav-leaf",
       "sections": [
         {
@@ -12,7 +12,19 @@
         },
         {
           "heading": "Limiting factors"
-        },
+        }
+      ],
+      "maps": [
+        "01-photosynthesis-and-limiting-factors",
+        "02-photosynthesis-practical"
+      ]
+    },
+    {
+      "id": "photosynthesis-practical",
+      "title": "Photosynthesis practical",
+      "description": "Investigate light intensity and measure the rate",
+      "icon": "nav-flask",
+      "sections": [
         {
           "heading": "Investigating light and photosynthesis"
         }
