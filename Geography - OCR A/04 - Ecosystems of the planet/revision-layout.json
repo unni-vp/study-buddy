@@ -17,13 +17,21 @@
     },
     {
       "id": "rainforests",
-      "title": "Rainforests & Peru",
-      "description": "Processes, threats and sustainable management",
+      "title": "Tropical rainforests",
+      "description": "Climate, nutrient cycling and adaptations",
       "icon": "nav-tree",
       "sections": [
         {
           "heading": "Tropical rainforest processes"
-        },
+        }
+      ]
+    },
+    {
+      "id": "peru",
+      "title": "Peruvian Amazon rainforest",
+      "description": "Named evidence, threats and management",
+      "icon": "nav-map",
+      "sections": [
         {
           "heading": "Case study: Peruvian Amazon rainforest"
         }
@@ -31,13 +39,21 @@
     },
     {
       "id": "coral-reefs",
-      "title": "Coral reefs & Andros",
-      "description": "Reef interdependence, value and protection",
+      "title": "Coral reef ecosystems",
+      "description": "Conditions, food webs and coral bleaching",
       "icon": "nav-fish",
       "sections": [
         {
           "heading": "Coral reef processes"
-        },
+        }
+      ]
+    },
+    {
+      "id": "andros",
+      "title": "Andros Barrier Reef",
+      "description": "Uses, threats and protection in the Bahamas",
+      "icon": "nav-pin",
+      "sections": [
         {
           "heading": "Case study: Andros Barrier Reef, The Bahamas"
         },
