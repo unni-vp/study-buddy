@@ -14,13 +14,21 @@
     },
     {
       "id": "graphs-numbers",
-      "title": "Graphs & calculations",
-      "description": "Presentations, averages, spread and percentages",
+      "title": "Graphs & charts",
+      "description": "Choose, read and interpret geographical graphs",
       "icon": "nav-graph",
       "sections": [
         {
           "heading": "Graphical skills"
-        },
+        }
+      ]
+    },
+    {
+      "id": "calculations",
+      "title": "Calculations & statistics",
+      "description": "Percentages, averages, spread and data calculations",
+      "icon": "nav-formula",
+      "sections": [
         {
           "heading": "Numerical and statistical skills"
         }
