@@ -20,8 +20,8 @@
     },
     {
       "id": "analysis",
-      "title": "Language, structure and form",
-      "description": "Turn precise evidence into a developed interpretation.",
+      "title": "Language, structure & form",
+      "description": "Recognise choices and explain how they shape meaning",
       "icon": "nav-pen",
       "sections": [
         {
@@ -29,7 +29,15 @@
         },
         {
           "heading": "Structure and form"
-        },
+        }
+      ]
+    },
+    {
+      "id": "worked-analysis",
+      "title": "Worked quotation analysis",
+      "description": "Use the practice poem to select evidence and develop a paragraph",
+      "icon": "nav-quote",
+      "sections": [
         {
           "heading": "A short poem to practise with"
         },
