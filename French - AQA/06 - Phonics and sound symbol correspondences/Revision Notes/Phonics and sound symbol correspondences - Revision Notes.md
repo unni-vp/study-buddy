@@ -30,6 +30,12 @@ Keep vowels steady rather than sliding between two sounds. French rhythm groups 
 
 **É and è differ:** the vowel in été is closer; the vowel in mère is more open. An accent can change pronunciation and spelling.
 
+### Practise a contrast as a mouth movement
+
+For **u /y/**, keep the tongue position of French **i** while rounding the lips. For **ou /u/**, the tongue is farther back. Compare **tu** and **tout** slowly, then use each in a phrase. The two words are not interchangeable sounds.
+
+For **é /e/** and **è /ɛ/**, keep the vowel steady. The mouth is more open for è. A written **-er**, a past participle in **-é** and the ending **-ez** can sound alike, so pronunciation alone cannot choose the spelling in dictation.
+
 ## Nasal vowels
 
 A nasal vowel sends some air through the nose. Do not add a separate strong n or m after it. The spelling is a guide to the vowel, rather than another consonant to pronounce.
@@ -45,6 +51,12 @@ A nasal vowel sends some air through the nose. Do not add a separate strong n or
 These combinations are commonly nasal before a consonant or at the end of a word. A following vowel or doubled consonant can change the pattern: **bon** has a nasal vowel; **bonne** has a pronounced n and a different vowel.
 
 Avoid confusing **an, on and in**. The final sounds in grand, bon and matin are different.
+
+### Notice when the consonant returns
+
+In **bon**, the written on represents a nasal vowel; do not add a separate final n. In **bonne**, the n is pronounced and the vowel is no longer the same nasal sound. Learn the whole pair with its spelling.
+
+Before a vowel-starting word, liaison can make a normally silent consonant audible: **un ami** includes a linking n. This does not mean pronouncing every written n in every nasal vowel. Listen to the complete phrase in the sound bank.
 
 ## Consonant groups
 
@@ -101,3 +113,13 @@ Do not add liaison everywhere. There is **no liaison after et**. A silent h may 
 - Omitting written agreement because the ending cannot be heard.
 
 Sound helps you read aloud; grammar helps you choose the correct silent letters in dictation.
+
+### Sound and spelling need different checks
+
+**Je parle**, **tu parles** and **ils parlent** have similar-sounding verb endings, but their written forms match different subjects. Read the subject before choosing an ending. In dictation, a silent letter may need grammatical evidence rather than a separate sound.
+
+**Les amis** has a linking /z/. **Et** does not take liaison before the next vowel. First identify the word combination, then decide whether liaison belongs there; adding a linking sound everywhere makes speech less accurate.
+
+## Sources
+
+- Official local specification and sample assessment materials; see source-review.json for availability decisions.

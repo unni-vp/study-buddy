@@ -125,7 +125,8 @@
       "category": "Meaning and grammar",
       "front": "Explain why a single s differs in maison and chanson.",
       "back": [
-        "In maison it lies between vowel sounds and is usually /z/. In chanson it is followed by a consonant and is /s/."
+        "In maison, the single s is between vowels and represents /z/.",
+        "In chanson, the s follows the consonant n and represents /s/. It is not followed by a consonant."
       ]
     },
     {
@@ -210,6 +211,111 @@
         "Separate liaison sounds from the next word's spelling.",
         "Use the subject to recover silent verb endings.",
         "Check noun/adjective number and gender, including silent endings."
+      ]
+    },
+    {
+      "category": "Sound contrast",
+      "front": "How do you make French u differently from ou?",
+      "back": [
+        "For u, keep the tongue forward as for i and round the lips. For ou, move the tongue farther back with rounded lips."
+      ]
+    },
+    {
+      "category": "Sound and spelling",
+      "front": "Why can hearing /e/ be insufficient to choose -er, -é or -ez?",
+      "back": [
+        "These spellings can share that sound. The verb’s grammatical role and subject determine which is needed."
+      ]
+    },
+    {
+      "category": "Nasal vowels",
+      "front": "What is the main sound difference between bon and bonne?",
+      "back": [
+        "Bon has a nasal vowel without a separate final n. Bonne has a pronounced n and a different, non-nasal vowel."
+      ]
+    },
+    {
+      "category": "Liaison",
+      "front": "What linking sound appears in les amis?",
+      "back": [
+        "A /z/ sound links les to amis."
+      ]
+    },
+    {
+      "category": "Liaison",
+      "front": "Should liaison be added after et?",
+      "back": [
+        "No. Et does not take liaison."
+      ]
+    },
+    {
+      "category": "Sound and spelling",
+      "front": "Why are parle, parles and parlent spelled differently despite sounding similar?",
+      "back": [
+        "Their endings agree with different subjects: je/il, tu, and ils/elles."
+      ]
+    },
+    {
+      "category": "Sound contrast",
+      "front": "How does French è differ from é?",
+      "back": [
+        "The vowel in è is more open. Keep both vowels steady rather than sliding into an English-style diphthong."
+      ]
+    },
+    {
+      "category": "Consonants",
+      "front": "What sound does French th normally represent?",
+      "back": [
+        "It represents /t/, as in théâtre, rather than the English th sounds."
+      ]
+    },
+    {
+      "category": "Consonants",
+      "front": "What sound does ç preserve before a, o or u?",
+      "back": [
+        "It preserves /s/, as in français or garçon."
+      ]
+    },
+    {
+      "category": "Liaison",
+      "front": "Why is a linking n in un ami not a rule to pronounce all nasal n letters?",
+      "back": [
+        "Liaison depends on the word combination. An n within a nasal-vowel spelling is not automatically a separate consonant."
+      ]
+    },
+    {
+      "category": "Listening practice",
+      "front": "How should the sound bank be used for a difficult contrast?",
+      "back": [
+        "Listen to both words, repeat them carefully, then practise them in complete phrases while checking their spelling."
+      ]
+    },
+    {
+      "category": "Spelling",
+      "front": "Can every silent gender ending be recovered from sound alone?",
+      "back": [
+        "No. Use the sentence context and grammatical information as well as the sound."
+      ]
+    },
+    {
+      "category": "Pronunciation",
+      "front": "Why read in meaningful phrases rather than stress every word?",
+      "back": [
+        "French rhythm groups words together. Phrasing makes the message clearer and helps place pauses appropriately."
+      ]
+    },
+    {
+      "category": "Consonants",
+      "front": "Why is ville a useful exception when revising -ille?",
+      "back": [
+        "Its ending has an /l/ sound, whereas many -ille spellings have a /j/ sound."
+      ]
+    },
+    {
+      "category": "Apply phonics",
+      "front": "What should you check before adding a liaison sound?",
+      "back": [
+        "Check whether the next word begins with a vowel sound and whether that particular word combination permits liaison."
       ]
     }
   ]

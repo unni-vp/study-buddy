@@ -1,0 +1,39 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "06 - Phonics and sound symbol correspondences",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "No matching unit in the reviewed index; official material used instead."
+  },
+  "coverage_decisions": [
+    "StudyRocket older French index does not offer the new sound-symbol appendix as a matching course unit; use the official AQA appendix and sound bank.",
+    "Phonetic examples support prescribed correspondences; do not pretend text flashcards provide listening audio.",
+    "Correct the existing chanson flashcard: s is preceded by the consonant n, not followed by a consonant."
+  ],
+  "note_sections_refined": [
+    "Clear vowel contrasts",
+    "Nasal vowels",
+    "Silent endings and liaison"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "7fbba62eb843485580ff13a7cdb843ffbe31c3776b8ac1c2b809f5e9147d3363",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 28,
+    "added": 15,
+    "total": 43,
+    "corrected": 1
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
