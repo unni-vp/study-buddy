@@ -86,6 +86,25 @@ Social media is useful because it lets people communicate. However, some comment
 
 The relative **où** connects a place to what happens there. Use concrete local details, not just c'est bien.
 
+### Describe a place through useful detail
+
+**J'habite dans une maison près du centre-ville. Ma chambre est petite, mais elle est calme. Pour aller au collège, je prends le bus.**
+
+I live in a house near the town centre. My bedroom is small, but it is quiet. To go to school, I take the bus.
+
+Connect a facility to its value: **Il y a une bibliothèque où je peux travailler après les cours.** This means there is a library where I can work after lessons. The relative clause with **où** explains what the place allows you to do.
+
+Directions need a complete instruction:
+
+| French | Meaning |
+|---|---|
+| Tournez à gauche. | Turn left. |
+| Allez tout droit. | Go straight ahead. |
+| La gare est en face du parc. | The station is opposite the park. |
+| Le magasin est à côté de l'hôtel. | The shop is next to the hotel. |
+
+Distinguish **an instruction to move** from **the position of a place**. A response about where the station is may need a location rather than a journey.
+
 ## Environment and action
 
 | Problem or action | Meaning |
@@ -114,3 +133,20 @@ To protect the environment, I walk and recycle. We should also use less plastic.
 - Pas assez **de** magasins, not pas assez des magasins.
 - Keep the negative: je **ne** partage **jamais** mon adresse.
 - Distinguish an intention, **je vais recycler**, from a finished action, **j'ai recyclé**.
+
+### Match an action to its effect
+
+**Je prends les transports en commun pour utiliser moins la voiture. Je ferme le robinet pour économiser l'eau.**
+
+I use public transport to use the car less. I turn off the tap to save water.
+
+**Pour + infinitive** explains the purpose. Add a practical limit when relevant: **Je voudrais prendre le bus, mais il n'y en a pas assez.** This means I would like to take the bus, but there are not enough of them. The short phrase **il n'y en a pas assez** refers back to the buses.
+
+For travel problems, make the requested help clear: **La chambre est trop bruyante. Je voudrais une autre chambre.** The problem and request now form one connected message.
+
+## Sources
+
+- [Local, National, International & Global Areas of Interest 3](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-3).
+- [Local, National, International & Global Areas of Interest 2](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-2).
+- [Local, National, International & Global Areas of Interest 1](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-1).
+- [Identity & Culture Topic 2 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary).

@@ -215,6 +215,113 @@
         "---",
         "The first vais means go; **vais recycler** is a future construction. Pour introduces purpose; mes agrees with déchets."
       ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I live in a house near the town centre.",
+      "back": [
+        "J’habite dans une maison près du centre-ville."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: My bedroom is small, but it is quiet.",
+      "back": [
+        "Ma chambre est petite, mais elle est calme."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: There is a library where I can work after lessons.",
+      "back": [
+        "Il y a une bibliothèque où je peux travailler après les cours."
+      ]
+    },
+    {
+      "category": "Directions",
+      "front": "What does “Allez tout droit” instruct someone to do?",
+      "back": [
+        "Go straight ahead."
+      ]
+    },
+    {
+      "category": "Directions",
+      "front": "Translate: The station is opposite the park.",
+      "back": [
+        "La gare est en face du parc."
+      ]
+    },
+    {
+      "category": "Directions",
+      "front": "Translate: The shop is next to the hotel.",
+      "back": [
+        "Le magasin est à côté de l’hôtel."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: Turn left.",
+      "back": [
+        "Tournez à gauche.",
+        "Tourne à gauche is the informal singular instruction."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I turn off the tap to save water.",
+      "back": [
+        "Je ferme le robinet pour économiser l’eau."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "What does “pour économiser” explain?",
+      "back": [
+        "It gives a purpose: in order to save. The verb after pour stays in the infinitive."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "In a discussion of buses, what does “il n’y en a pas assez” mean?",
+      "back": [
+        "There are not enough of them. En refers back to the buses."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: The room is too noisy. I would like another room.",
+      "back": [
+        "La chambre est trop bruyante. Je voudrais une autre chambre."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: J’utilise mon téléphone pour cherche des informations.",
+      "back": [
+        "J’utilise mon téléphone pour chercher des informations.",
+        "Use the infinitive after pour."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "How do “trop bruyante” and “très bruyante” differ?",
+      "back": [
+        "Trop bruyante means too noisy; très bruyante means very noisy. Preserve the judgement that the noise is excessive."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I would like to take the bus, but there are not enough buses.",
+      "back": [
+        "Je voudrais prendre le bus, mais il n’y a pas assez de bus."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "How can an environmental answer move beyond a list?",
+      "back": [
+        "Name an action and explain its purpose or effect. Add a relevant practical limitation if the question calls for evaluation."
+      ]
     }
   ]
 }

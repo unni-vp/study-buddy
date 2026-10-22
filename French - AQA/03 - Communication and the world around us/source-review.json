@@ -1,0 +1,54 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "03 - Communication and the world around us",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Local, National, International & Global Areas of Interest 3",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-3"
+    },
+    {
+      "title": "Local, National, International & Global Areas of Interest 2",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-2"
+    },
+    {
+      "title": "Local, National, International & Global Areas of Interest 1",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-1"
+    },
+    {
+      "title": "Identity & Culture Topic 2 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use overlapping StudyRocket home/travel/environment vocabulary but retain the current three-topic theme.",
+    "Preserve distinctions between directions, location, request and opinion; add practical application rather than compressed word lists."
+  ],
+  "note_sections_refined": [
+    "Where you live",
+    "Environment and action"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "ca10fc991d430452906a0bcf6656c8769e3a590f103ca5492c548ed22701a114",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 28,
+    "added": 15,
+    "total": 43,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
