@@ -1,0 +1,54 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Language - Eduqas",
+  "topic": "02 - Creative prose writing",
+  "official_basis": "English Language - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "A Guide to AQA English Language Paper 1 Section B",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Language/GCSE/Notes/AQA/Paper-1/A%20Guide%20to%20AQA%20English%20Language%20Paper%201%20Section%20B.pdf",
+      "local_pdf": "English Language - Eduqas/02 - Creative prose writing/Reference Materials/A Guide to AQA English Language Paper 1 Section B.pdf",
+      "sha256": "0b6b2fae12110afcb1342ab941ab2c57e20c0de982ff4cdd8286e40b3b6d57d3",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [
+    {
+      "title": "Structural Composition",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-writing/structural-composition"
+    },
+    {
+      "title": "Narrative Writing",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-writing/narrative-writing"
+    }
+  ],
+  "availability": {
+    "pmt": "Overlapping AQA skills/poems only; not the project examination format",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use shared narrative craft from PMT/SR; reject AQA picture/description choice and imported question numbering.",
+    "Keep the Eduqas four-prompt narrative/recount task and current mark split."
+  ],
+  "note_sections_refined": [
+    "Give characters choices",
+    "Control sentences and punctuation"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "83ebd623f7a15bcab63c579051ff4deda5f4e8202d974b7d657baa4bc0a0bbd1",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 0,
+    "added": 15,
+    "total": 15,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

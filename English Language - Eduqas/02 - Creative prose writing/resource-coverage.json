@@ -26,5 +26,22 @@
   "sources": [
     "../00 - Specification/Eduqas-C700QS-specification.pdf",
     "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Creative prose writing - Flash Cards.json",
+    "count": 15,
+    "categories": [
+      "Narrative craft",
+      "Application",
+      "Sentence control",
+      "Viewpoint",
+      "Dialogue",
+      "Planning",
+      "Editing",
+      "Description",
+      "Exam application"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

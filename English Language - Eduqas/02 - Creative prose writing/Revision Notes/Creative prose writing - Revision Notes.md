@@ -44,6 +44,16 @@ The convenient drawer makes the easy option visible. The reader understands the 
 
 Use dialogue when it changes the situation or reveals character. Avoid a long conversation in which characters explain things both already know. Actions can qualify speech: a person may say they are fine while repeatedly checking a pocket.
 
+### Show a change through action
+
+An emotion is easier to understand when it affects a choice. Instead of saying **I felt guilty**, show the worker placing the glasses in the drawer, pausing, then taking them out again. The altered action makes hesitation visible.
+
+**Before:** I was a very kind person, so I decided to help the man.
+
+**After:** My hand was already on the drawer. Then I pictured him searching the pavement, and put the glasses in my pocket instead.
+
+The second version gives the reader something to interpret. It also leaves room for the character to be tired or impatient; believable people can have competing motives. Use direct telling to bridge routine events, then give the important choice more space.
+
 ## Control time and viewpoint
 
 Choose **first person** or **third person** and keep the viewpoint clear. A first-person narrator can report another person's expression and infer feelings; they cannot automatically know that person's unspoken thoughts.
@@ -99,6 +109,16 @@ For dialogue, place punctuation inside the speech marks where it belongs, and st
 
 Dialogue punctuation should help the reader hear and follow the exchange.
 
+### Change the sentence for a reason
+
+| Purpose | Example | What the choice achieves |
+|---|---|---|
+| Connect action with an obstacle. | Although the bus was waiting, I turned back. | The subordinate clause makes the cost of the decision clear. |
+| Slow down a small discovery. | Under the chair, caught against one leg, lay the missing glasses. | The detail is revealed after the setting and position. |
+| Isolate a change. | I left them there. | A short complete sentence gives the decision prominence. |
+
+Sentence variety means choosing structures that fit the event. It does not require using all three patterns in every paragraph. Check that each sentence is complete before adding more complex punctuation.
+
 ## Edit for meaning, then accuracy
 
 Check the whole story first:
@@ -111,3 +131,9 @@ Check the whole story first:
 Then check **sentence boundaries, tense, agreement, spelling, apostrophes and dialogue punctuation**. Remove a repeated idea or an image that does not fit. Replace an imprecise word rather than automatically choosing a longer one.
 
 Use a short plan and leave checking time. The sample paper's writing allowance is about 45 minutes, including planning. Practice producing a complete, controlled episode within that time rather than memorising a story that may not fit the exam prompt.
+
+## Sources
+
+- [A Guide to AQA English Language Paper 1 Section B](https://pmt.physicsandmathstutor.com/download/English-Language/GCSE/Notes/AQA/Paper-1/A%20Guide%20to%20AQA%20English%20Language%20Paper%201%20Section%20B.pdf).
+- [Structural Composition](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-writing/structural-composition).
+- [Narrative Writing](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-writing/narrative-writing).
