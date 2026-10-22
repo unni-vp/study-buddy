@@ -32,6 +32,14 @@ You can also refer accurately to an action or sequence without quoting every sen
 
 For **impressions**, name the quality and support it: the father initially seems intimidating because Ada recognises his heavy approach and thinks there is nowhere to hide. Later evidence complicates this impression.
 
+### Embed and unpack evidence
+
+**Basic:** The writer uses the quotation “hard, quick beats”. This is effective.
+
+**Improved:** The father's “hard, quick beats” make his approach sound forceful and urgent. Because Ada hears him before she knows why he has come, the sound strengthens her expectation of confrontation.
+
+The improved version **embeds a short quotation**, explains the particular description and connects it to the sequence of information. It does not need a separate sentence announcing every technical label.
+
 ## Analyse words and images
 
 Start with the meaning, then identify a method if the term helps explain it.
@@ -61,6 +69,19 @@ Start with the meaning, then identify a method if the term helps explain it.
 The **third-person narration stays close to Ada's perceptions**. We know her expectations before we know the father's intentions. Do not claim that every third-person narrator reveals everyone's thoughts.
 
 Sentence length can affect pace, but explain the particular use. **“She turned.”** isolates the action at the moment of uncertainty. Longer descriptive sentences earlier slow our progress and keep us waiting with her. There is no rule that every short sentence creates tension.
+
+### Track what the reader knows
+
+Think of the writer as controlling a camera and a microphone. The narrative can stay close to one person's fears while withholding another person's intention. **Limited knowledge** can make an ordinary sound feel threatening because the reader interprets it through that person's expectations.
+
+| Narrative choice | Question to ask |
+|---|---|
+| A detail is introduced before its explanation. | What do we expect, and how does the later information change that expectation? |
+| The focus moves from a room to one small object. | Why does that object matter to the character at this point? |
+| Dialogue replaces private thought. | What becomes shared, and what remains concealed? |
+| The ending echoes an earlier action. | Has its meaning changed because of what we have learned? |
+
+Keep **structure connected to meaning**. Saying that the writer uses a beginning, middle and end is true of many passages; explaining why the parcel is delayed until after the footsteps is specific to this one.
 
 ## Build an analytical paragraph
 
@@ -93,3 +114,9 @@ The sample paper recommends roughly **an hour for reading and its questions**, l
 - Claiming all readers must feel exactly the same thing.
 - Importing another board's fixed question numbers, marks or paragraph formulas.
 - Writing about structure as a disconnected checklist rather than changes in this passage.
+
+## Sources
+
+- [A Guide to AQA English Language Paper 1 Section A](https://pmt.physicsandmathstutor.com/download/English-Language/GCSE/Notes/AQA/Paper-1/A%20Guide%20to%20AQA%20English%20Language%20Paper%201%20Section%20A.pdf).
+- [Question 4: Response Guidance](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-reading/question-4-response-guidance).
+- [What to Include](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-reading/what-to-include).

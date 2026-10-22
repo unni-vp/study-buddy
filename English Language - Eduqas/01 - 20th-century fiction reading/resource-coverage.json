@@ -23,5 +23,20 @@
   "sources": [
     "../00 - Specification/Eduqas-C700QS-specification.pdf",
     "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/20th-century fiction reading - Flash Cards.json",
+    "count": 15,
+    "categories": [
+      "Reading skills",
+      "Application",
+      "Evidence",
+      "Methods",
+      "Evaluation",
+      "Exam application",
+      "Structure"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

@@ -1,0 +1,54 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Language - Eduqas",
+  "topic": "01 - 20th-century fiction reading",
+  "official_basis": "English Language - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "A Guide to AQA English Language Paper 1 Section A",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Language/GCSE/Notes/AQA/Paper-1/A%20Guide%20to%20AQA%20English%20Language%20Paper%201%20Section%20A.pdf",
+      "local_pdf": "English Language - Eduqas/01 - 20th-century fiction reading/Reference Materials/A Guide to AQA English Language Paper 1 Section A.pdf",
+      "sha256": "2222c4f4fe3cf26e0b6ae093eb50408a489eeaa795f5c682651d4f72f98c7433",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [
+    {
+      "title": "Question 4: Response Guidance",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-reading/question-4-response-guidance"
+    },
+    {
+      "title": "What to Include",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-1-reading/what-to-include"
+    }
+  ],
+  "availability": {
+    "pmt": "Overlapping AQA skills/poems only; not the project examination format",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "PMT and StudyRocket English Language guides are AQA, not Eduqas; transfer evidence and narrative-analysis skills only.",
+    "Retain Eduqas timings, task range, original Ada stimulus and question-bank structure."
+  ],
+  "note_sections_refined": [
+    "Analyse structure and viewpoint",
+    "Select evidence that does a job"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "c246a9e72700258eccecb43d76c2196a8bf91051dc9f9e04c6003ce74c8030d4",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 0,
+    "added": 15,
+    "total": 15,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
