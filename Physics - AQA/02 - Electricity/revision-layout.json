@@ -37,8 +37,8 @@
     },
     {
       "id": "power",
-      "title": "Power, mains and static",
-      "description": "Explain energy transfer, safety, the Grid and electric fields.",
+      "title": "Power, mains & the Grid",
+      "description": "Electrical energy, domestic safety and efficient transmission",
       "icon": "nav-energy",
       "sections": [
         {
@@ -49,7 +49,15 @@
         },
         {
           "heading": "The National Grid"
-        },
+        }
+      ]
+    },
+    {
+      "id": "static",
+      "title": "Static charge & electric fields",
+      "description": "Electron transfer, attraction, repulsion and sparks",
+      "icon": "nav-particles",
+      "sections": [
         {
           "heading": "Static charge and electric fields"
         }
