@@ -3,36 +3,52 @@
   "groups": [
     {
       "id": "atoms",
-      "title": "Atoms, mixtures & electrons",
-      "description": "Particles, separation, isotopes and electronic structure",
+      "title": "Atoms, elements & isotopes",
+      "description": "Particles, formulae, atomic structure and relative mass",
       "icon": "nav-atom",
       "sections": [
         {
           "heading": "Atoms, elements and compounds"
         },
         {
-          "heading": "Separating mixtures"
-        },
-        {
           "heading": "Inside an atom"
         },
         {
           "heading": "Isotopes and relative atomic mass"
-        },
+        }
+      ]
+    },
+    {
+      "id": "mixtures",
+      "title": "Separating mixtures",
+      "description": "Filtration, crystallisation, distillation and chromatography",
+      "icon": "nav-flask",
+      "sections": [
+        {
+          "heading": "Separating mixtures"
+        }
+      ]
+    },
+    {
+      "id": "models",
+      "title": "Electrons & atomic models",
+      "description": "Electron arrangements and the evidence behind atomic models",
+      "icon": "nav-particles",
+      "sections": [
         {
           "heading": "Electrons and the periodic table"
+        },
+        {
+          "heading": "How scientific models changed"
         }
       ]
     },
     {
       "id": "patterns",
-      "title": "Models & periodic patterns",
-      "description": "Changing evidence, groups and transition metals",
+      "title": "Groups & periodic patterns",
+      "description": "Groups 0, 1 and 7, and transition metals",
       "icon": "nav-grid",
       "sections": [
-        {
-          "heading": "How scientific models changed"
-        },
         {
           "heading": "Groups 0, 1 and 7"
         },
