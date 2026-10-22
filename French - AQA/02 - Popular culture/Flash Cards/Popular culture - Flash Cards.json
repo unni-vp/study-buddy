@@ -237,6 +237,114 @@
         "**Demain, je vais regarder un concert:** the verb must fit the future time.",
         "**Mes amis sont gentils:** a plural subject needs sont."
       ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: Before the concert, I was excited.",
+      "back": [
+        "Avant le concert, j’étais impatient(e)."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: During the concert, I sang with my friends.",
+      "back": [
+        "Pendant le concert, j’ai chanté avec mes amis."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "Why can an experience combine “j’étais” and “j’ai chanté”?",
+      "back": [
+        "J’étais gives a background state. J’ai chanté gives a completed action within the account."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I found the film moving.",
+      "back": [
+        "J’ai trouvé le film émouvant."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I would like to go back there.",
+      "back": [
+        "J’aimerais y retourner."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "What does y replace in “J’aimerais y retourner”?",
+      "back": [
+        "It replaces a previously identified place: I would like to go back there."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I prefer concerts to films.",
+      "back": [
+        "Je préfère les concerts aux films."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Elle peut aide une association.",
+      "back": [
+        "Elle peut aider une association.",
+        "Use an infinitive after peut."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: They must take care of their private life.",
+      "back": [
+        "Ils doivent faire attention à leur vie privée.",
+        "Elles doivent faire attention à leur vie privée is correct for an all-female group."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "How do “avant”, “pendant” and “après” organise an event?",
+      "back": [
+        "They mean before, during and after, and place details in a clear sequence."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: We talked about our favourite songs.",
+      "back": [
+        "Nous avons parlé de nos chansons préférées."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why does “préférées” end in -ées with chansons?",
+      "back": [
+        "Chansons is feminine plural, so the adjective takes feminine plural agreement."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "How can an opinion about fame be developed?",
+      "back": [
+        "Explain a specific advantage, its consequence and a relevant difficulty, rather than repeating that fame is good or bad."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: J’ai jouer du piano.",
+      "back": [
+        "J’ai joué du piano.",
+        "After ai, the perfect tense needs the past participle joué."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: Usually I celebrate at home, but this year I am going to organise a picnic.",
+      "back": [
+        "D’habitude, je fais la fête à la maison, mais cette année, je vais organiser un pique-nique."
+      ]
     }
   ]
 }

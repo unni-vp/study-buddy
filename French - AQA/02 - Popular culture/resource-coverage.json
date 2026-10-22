@@ -19,8 +19,21 @@
     "assessment_review": "Theme 2 applies across all four papers. Writing sample Q2.1 includes leisure, celebration and future plans; Q3.2 includes celebrity culture. This bank uses new wording and original models with the same 90-word/three-bullet and 150-word/two-bullet task structures. All short marks are practice allocations, not a count of isolated official marking points."
   },
   "flashcards": {
-    "count": 30,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Popular culture - Flash Cards.json",
+    "count": 45,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Apply French",
+      "Meaning",
+      "Grammar in context",
+      "Repair",
+      "Develop an answer"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",

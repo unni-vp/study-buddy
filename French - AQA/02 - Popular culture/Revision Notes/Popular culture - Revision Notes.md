@@ -62,6 +62,22 @@ For aller, use **être** in the perfect: **je suis allé** for a male speaker; *
 
 Add a reaction and a reason, rather than a list of activities: **J'ai aimé le concert parce que les chansons étaient intéressantes.**
 
+### Tell an experience in three connected stages
+
+**Avant le concert, j'étais impatient(e). Pendant le concert, j'ai chanté avec mes amis. Après, nous avons parlé de nos chansons préférées.**
+
+Before the concert, I was excited. During the concert, I sang with my friends. Afterwards, we talked about our favourite songs.
+
+The **imperfect** sets the background feeling. The **perfect tense** gives completed events. Time links organise the account, so the reader can follow the experience instead of receiving a list of tense examples.
+
+| What to add | French example | Meaning |
+|---|---|---|
+| A reaction | J'ai trouvé le film émouvant. | I found the film moving. |
+| A comparison | Je préfère les concerts aux films. | I prefer concerts to films. |
+| A future wish | J'aimerais y retourner. | I would like to go back there. |
+
+In the last example, **y** replaces the place already mentioned. It avoids repeating the location while keeping the meaning clear.
+
 ## Customs, festivals and celebrations
 
 Useful vocabulary:
@@ -153,6 +169,14 @@ Being famous can be interesting, but I prefer a quieter life.
 
 **On peut + infinitive** explains a possibility. A celebrity is not automatically a good role model: explain the behaviour you admire or question.
 
+### Explain the consequence of an advantage
+
+**Une personne célèbre peut aider une association parce que beaucoup de gens l'écoutent. Cependant, elle doit faire attention à sa vie privée.**
+
+A famous person can help an organisation because many people listen to them. However, they must take care of their private life.
+
+The reason explains how fame can be useful, and the contrast adds a limitation. **Peut** and **doit** each take an infinitive. Do not make a specific claim about a real celebrity's actions unless you know it is accurate; a general example can express the idea clearly.
+
 ## Building a developed cultural answer
 
 Choose detail, evidence and reaction, like a short review rather than a publicity poster.
@@ -173,3 +197,8 @@ The **relative clause with où** adds information about the setting. The reason 
 - Repeating c'est bien without explaining what is good and why.
 
 Keep your response tied to the requested activity, celebration or person. A flexible bank of accurate phrases adapts better than one memorised paragraph.
+
+## Sources
+
+- [Identity & Culture Topic 3 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-3-vocabulary).
+- [Identity & Culture Topic 2 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary).

@@ -1,0 +1,46 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "02 - Popular culture",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Identity & Culture Topic 3 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-3-vocabulary"
+    },
+    {
+      "title": "Identity & Culture Topic 2 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Keep the current customs/fame/free-time scope, rather than importing the older examination themes.",
+    "Retain existing accurate cultural dates; additions develop narrative and explanation, not celebrity biographies."
+  ],
+  "note_sections_refined": [
+    "Describing a recent experience",
+    "Fame: advantages and difficulties"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "6553d584ff819890f9480c0327946d86d399391177a5bf26dbaf56f2b174fac6",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 30,
+    "added": 15,
+    "total": 45,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
