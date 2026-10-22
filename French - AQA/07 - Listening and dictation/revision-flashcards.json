@@ -1,0 +1,306 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing independently curated deck",
+  "base_cards": [
+    {
+      "category": "Vocabulary",
+      "front": "In listening comprehension, how many times is each item played?",
+      "back": [
+        "Twice."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "In dictation, what language should you write?",
+      "back": [
+        "French."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "How many times is each dictation sentence played?",
+      "back": [
+        "Three times."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: maintenant.",
+      "back": [
+        "Now."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: sauf.",
+      "back": [
+        "Except."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: trop cher.",
+      "back": [
+        "Too expensive."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: moins souvent.",
+      "back": [
+        "Less often."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ne...jamais.",
+      "back": [
+        "Never."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Write cinquante as a number.",
+      "back": [
+        "50."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Write quinze as a number.",
+      "back": [
+        "15."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "For this written listening-skills example, identify the current preference: Je voulais sortir, mais maintenant je préfère lire à la maison.",
+      "back": [
+        "Reading at home.",
+        "Mais maintenant moves from the earlier wish to the current preference."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Mon frère aime le foot, mais moi, je préfère le tennis. Which sport belongs to each person?",
+      "back": [
+        "Brother: football.",
+        "Speaker: tennis."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: La chambre était petite, mais propre. Give the drawback and positive detail.",
+      "back": [
+        "It was small.",
+        "It was clean."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Le train part à huit heures, pardon, à huit heures et demie. Give the final departure time and the clue that it changes.",
+      "back": [
+        "8:30; **pardon** introduces a correction."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Il n'y a pas assez de bus. Why is 'there are no buses' inaccurate?",
+      "back": [
+        "The speaker says there are **not enough** buses. It does not mean there are none."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct the final word: J'ai regarde un film.",
+      "back": [
+        "J'ai **regardé** un film.",
+        "The avoir perfect needs a past participle."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct the final word: Je vais regardé un film.",
+      "back": [
+        "Je vais **regarder** un film.",
+        "Aller + infinitive gives the future plan."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct: Les enfants joue.",
+      "back": [
+        "Les enfants **jouent**.",
+        "The plural subject takes -ent, even when it is silent."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain two useful checks on the second play of a comprehension item.",
+      "back": [
+        "Confirm the requested detail and who says it.",
+        "Check a negative, contrast, correction or time reference that could change the answer."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "What are the two parts of the dictation assessment?",
+      "back": [
+        "Communication of meaning: 5 marks.",
+        "Transcription and grammatical accuracy: 5 marks.",
+        "Both are assessed across the extracts as a whole."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Read: Hier, nous avons visité un musée. Demain, nous allons aller au parc parce qu'il fera beau. Give yesterday's activity, tomorrow's place and the reason.",
+      "back": [
+        "Visited a museum.",
+        "The park.",
+        "The weather will be nice."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain the three dictation plays and what to do during each.",
+      "back": [
+        "Full sentence: establish the meaning.",
+        "Short sections: write words and order.",
+        "Full sentence again: check missing words and grammar."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Correct: Mes amis est arrivé hier. (male or mixed group)",
+      "back": [
+        "Mes amis **sont arrivés** hier.",
+        "Amis is plural; use sont; arrivé takes plural -s after être."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain how a learner should handle an unfamiliar word in dictation.",
+      "back": [
+        "Listen for its sound groups.",
+        "Use those sounds to attempt a plausible spelling.",
+        "Check how the word fits the sentence rather than abandoning the whole extract."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Read: D'habitude, je voyage en voiture. L'année dernière, j'ai pris le train parce que c'était moins cher. Demain, je vais prendre le bus. Give the usual transport, last year's transport, its advantage and tomorrow's transport.",
+      "back": [
+        "Usually: car.",
+        "Last year: train.",
+        "It was cheaper.",
+        "Tomorrow: bus."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Explain why translating dictation into English and counting one mark per word are both mistakes.",
+      "back": [
+        "Dictation requires the **French heard**.",
+        "English translation does not fulfil that task.",
+        "The meaning is assessed holistically for 5 marks.",
+        "Spelling and grammatical accuracy are assessed holistically for a further 5, not one per word."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Listening",
+      "front": "What should you predict during the five-minute reading time?",
+      "back": [
+        "Predict the kind of information required, such as a reason, price or activity. Do not decide the actual answer before hearing the recording."
+      ]
+    },
+    {
+      "category": "Listening",
+      "front": "Why can the first familiar word be a distractor?",
+      "back": [
+        "It may refer to a rejected plan, a previous opinion or another person rather than the requested answer."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Complete: Nous avons ___ le musée. Choose visité or visiter.",
+      "back": [
+        "Nous avons visité le musée.",
+        "Avons forms the perfect tense with a past participle."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Complete: Nous allons ___ le musée. Choose visité or visiter.",
+      "back": [
+        "Nous allons visiter le musée.",
+        "Aller in the near future takes an infinitive."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Why does “Elles sont arrivées” take -ées?",
+      "back": [
+        "Elles identifies a feminine plural subject, and the participle agrees after être."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Can the sound ami alone establish whether to write ami or amie?",
+      "back": [
+        "No. The gender ending is silent; use the context and other grammatical information."
+      ]
+    },
+    {
+      "category": "Listening",
+      "front": "What must you track when two speakers like different activities?",
+      "back": [
+        "Match each opinion to its owner. Do not give the first person’s preference as the second person’s answer."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "A speaker says “Je voulais sortir, mais je vais rester”. What is the plan now?",
+      "back": [
+        "They are going to stay. Voulais gives the earlier wish; mais introduces the changed plan."
+      ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "Why is “not enough buses” different from “no buses”?",
+      "back": [
+        "Not enough means some may exist but the number is insufficient. No buses means there are none."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "What should you do after missing one unfamiliar word?",
+      "back": [
+        "Attempt a sound-based spelling if possible, leave an identifiable gap if needed, and keep following the sentence."
+      ]
+    },
+    {
+      "category": "Practice",
+      "front": "What should be checked after attempting real listening audio?",
+      "back": [
+        "Identify whether the missed clue was a sound, vocabulary item, negative, time frame, speaker or qualifier, then replay that phrase."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "What is Section B in the current French 8652 listening paper?",
+      "back": [
+        "It is dictation: writing the French heard. It is not the older course’s French-language comprehension section."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "What is a useful two-pass check?",
+      "back": [
+        "First preserve the words and overall message. Then check the grammar, silent endings, accents and small words."
+      ]
+    }
+  ]
+}

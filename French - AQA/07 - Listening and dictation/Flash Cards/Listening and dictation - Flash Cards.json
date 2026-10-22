@@ -204,6 +204,99 @@
         "The meaning is assessed holistically for 5 marks.",
         "Spelling and grammatical accuracy are assessed holistically for a further 5, not one per word."
       ]
+    },
+    {
+      "category": "Listening",
+      "front": "What should you predict during the five-minute reading time?",
+      "back": [
+        "Predict the kind of information required, such as a reason, price or activity. Do not decide the actual answer before hearing the recording."
+      ]
+    },
+    {
+      "category": "Listening",
+      "front": "Why can the first familiar word be a distractor?",
+      "back": [
+        "It may refer to a rejected plan, a previous opinion or another person rather than the requested answer."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Complete: Nous avons ___ le musée. Choose visité or visiter.",
+      "back": [
+        "Nous avons visité le musée.",
+        "Avons forms the perfect tense with a past participle."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Complete: Nous allons ___ le musée. Choose visité or visiter.",
+      "back": [
+        "Nous allons visiter le musée.",
+        "Aller in the near future takes an infinitive."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Why does “Elles sont arrivées” take -ées?",
+      "back": [
+        "Elles identifies a feminine plural subject, and the participle agrees after être."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "Can the sound ami alone establish whether to write ami or amie?",
+      "back": [
+        "No. The gender ending is silent; use the context and other grammatical information."
+      ]
+    },
+    {
+      "category": "Listening",
+      "front": "What must you track when two speakers like different activities?",
+      "back": [
+        "Match each opinion to its owner. Do not give the first person’s preference as the second person’s answer."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "A speaker says “Je voulais sortir, mais je vais rester”. What is the plan now?",
+      "back": [
+        "They are going to stay. Voulais gives the earlier wish; mais introduces the changed plan."
+      ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "Why is “not enough buses” different from “no buses”?",
+      "back": [
+        "Not enough means some may exist but the number is insufficient. No buses means there are none."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "What should you do after missing one unfamiliar word?",
+      "back": [
+        "Attempt a sound-based spelling if possible, leave an identifiable gap if needed, and keep following the sentence."
+      ]
+    },
+    {
+      "category": "Practice",
+      "front": "What should be checked after attempting real listening audio?",
+      "back": [
+        "Identify whether the missed clue was a sound, vocabulary item, negative, time frame, speaker or qualifier, then replay that phrase."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "What is Section B in the current French 8652 listening paper?",
+      "back": [
+        "It is dictation: writing the French heard. It is not the older course’s French-language comprehension section."
+      ]
+    },
+    {
+      "category": "Dictation",
+      "front": "What is a useful two-pass check?",
+      "back": [
+        "First preserve the words and overall message. Then check the grammar, silent endings, accents and small words."
+      ]
     }
   ]
 }

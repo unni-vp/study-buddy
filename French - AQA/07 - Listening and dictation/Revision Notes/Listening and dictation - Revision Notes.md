@@ -10,6 +10,12 @@ Before an item, identify the question's target: a **reason**, an **activity**, a
 
 On the first play, establish the message and note a possible answer. On the second, check the precise detail, speaker and any negative or contrast. Do not keep rewriting an earlier answer while the next item starts.
 
+### Use reading time without deciding the answer in advance
+
+Underline the **kind of information** each question requests. For a reason, prepare to listen for because or a consequence. For a price, leave space for a number and check its unit. Note two spaces when two details are required.
+
+Predicting the kind of answer can direct attention, but a plausible guess is not evidence. If the recording contradicts your expectation, follow the recording. **The first familiar topic word may belong to a rejected plan or another speaker.**
+
 ## Changes, opinions and distractors
 
 The first familiar word is not always the answer. A speaker can change their plan or contrast past and present.
@@ -86,6 +92,14 @@ Sound and grammar work together like two clues to the same answer.
 - Plural and feminine endings, including after être.
 - Word order and any omitted small words.
 
+### A sound does not reveal every ending
+
+**Elles sont arrivées** needs a feminine plural participle because elles supplies that information. By contrast, an isolated sound such as ami/amie does not tell you the gender in writing. Use the surrounding words and any supplied context, rather than claiming that silent letters can all be heard.
+
+Work in two passes: first preserve the words and message; then check grammar. For **Nous avons visité le musée**, the conjugated auxiliary shows that visité is a participle. For **Nous allons visiter le musée**, allons requires the infinitive visiter.
+
+If one word is unfamiliar, attempt its spelling from the sound pattern and continue. A single uncertain word should not make you miss the rest of the sentence.
+
 ## Practice with real audio
 
 The [AQA sound bank](https://www.aqa.org.uk/subjects/french/gcse/french-8652/soundbank) provides recorded vocabulary for sound–spelling practice. The [assessment resources](https://www.aqa.org.uk/subjects/french/gcse/french-8652/assessment-resources) provide listening papers and available recordings. Select the matching recording and paper; keep the transcript hidden until after attempting an item.
@@ -93,3 +107,9 @@ The [AQA sound bank](https://www.aqa.org.uk/subjects/french/gcse/french-8652/sou
 The [sample question paper](../../00%20-%20Past%20papers/Sample%20assessment%20materials/AQA-8652LH-SQP.PDF) and [answer scheme](../../00%20-%20Past%20papers/Sample%20assessment%20materials/AQA-8652LH-SMS.PDF) are saved locally. The audio links require internet access.
 
 After a difficult item, identify the missed clue: **sound, word meaning, negative, time frame or speaker**. Replay the phrase and connect it to its spelling. Reading a transcript helps explain a mistake, but hearing the phrase is what trains listening.
+
+## Sources
+
+- [Wordy Questions](https://studyrocket.co.uk/revision/gcse-french-aqa/listening-exam/wordy-questions).
+- [Using the Reading Time](https://studyrocket.co.uk/revision/gcse-french-aqa/listening-exam/using-the-reading-time).
+- [Listening Exam](https://studyrocket.co.uk/revision/gcse-french-aqa/listening-exam/listening-exam).

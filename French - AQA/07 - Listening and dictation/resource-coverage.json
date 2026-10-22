@@ -17,8 +17,22 @@
     "assessment_review": "Original listening-strategy and transcription questions; printed excerpts are explicitly written skills examples, not recordings or a simulated audio paper. Practice connects to official recorded vocabulary and sample listening materials. Dictation uses holistic AO1 meaning (5) and AO3 transcription/grammar (5), not a per-word tally."
   },
   "flashcards": {
-    "count": 26,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Listening and dictation - Flash Cards.json",
+    "count": 39,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Listening",
+      "Dictation",
+      "Application",
+      "Precise meaning",
+      "Practice",
+      "Exam format"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",
