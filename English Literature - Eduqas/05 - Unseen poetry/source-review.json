@@ -1,0 +1,59 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Literature - Eduqas",
+  "topic": "05 - Unseen poetry",
+  "official_basis": "English Literature - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "A Guide to Structure, Form, Rhythm, Meter - English Literature GCSE",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Unseen-Poetry/A%20Guide%20to%20Structure,%20Form,%20Rhythm,%20Meter%20-%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/05 - Unseen poetry/Reference Materials/A Guide to Structure, Form, Rhythm, Meter - English Literature GCSE.pdf",
+      "sha256": "8080f8b642972da17c7c0d78371a1ddb2c7f7d7cc79b205cbd05b0099255ce2f",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [
+    {
+      "title": "War Photographer",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/war-photographer"
+    },
+    {
+      "title": "Remains",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/remains"
+    },
+    {
+      "title": "Kamikaze",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/kamikaze"
+    }
+  ],
+  "availability": {
+    "pmt": "Overlapping AQA skills/poems only; not the project examination format",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use PMT’s general form/structure explanation, not its AQA unseen question marks or advanced taxonomy.",
+    "Retain Eduqas 15-mark and 25-mark unseen tasks and original practice poems.",
+    "StudyRocket poetry pages used only for transferable analysis of speaker, pattern and development."
+  ],
+  "note_sections_refined": [
+    "Structure and form",
+    "Comparing two unseen poems"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "85dfacdadc1257c7fa943b8ed2ddef38e52f0cb6410c29c90ab311d93511fc84",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 27,
+    "added": 12,
+    "total": 39,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

@@ -30,7 +30,19 @@
     "assessment_review": "Eduqas official SAMs Component 2 Questions 17–18 and the current specification verify a 15-mark single-poem task followed by a 25-mark comparison, assessing AO1/AO2. The official sample uses A Gull and Considering the Snail. Waiting and Departure are original practice poems created for this project; all questions and model answers are original. Short marks are quick-revision allocations, not examination formats. Suggested timing follows the official 20/40-minute advice; no invented poet context is taught."
   },
   "flashcards": {
-    "count": 27,
-    "source": "Short paired retrieval/application questions"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Unseen poetry - Flash Cards.json",
+    "count": 39,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Multi-step application",
+      "Poetry methods",
+      "Interpretation",
+      "Comparison",
+      "Application",
+      "Exam application"
+    ],
+    "source": "revision-flashcards.json"
   }
 }

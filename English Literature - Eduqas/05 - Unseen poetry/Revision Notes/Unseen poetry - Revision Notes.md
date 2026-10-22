@@ -84,6 +84,21 @@ A sonnet usually has **14 lines**, but identify its organisation and features be
 
 If a specialist form is unclear, analyse the features you can see accurately. **The speaker's movement from confidence to doubt** is more useful than an incorrect label.
 
+### Hear the pattern, then explain a change
+
+**Rhythm** is the movement of stresses you hear. **Metre** is a recurring arrangement of those stresses. **Rhyme** is a relationship between sounds, usually at line endings. They are connected choices, but they are not synonyms.
+
+Read the sentence aloud in your head. If a regular movement changes, ask what word or idea is made prominent. You do not need to label every metrical foot to explain a convincing contrast between flowing recollection and an abrupt ending.
+
+| Observation | An explanation to test against the poem |
+|---|---|
+| A rhyme returns after intervening lines. | Does its return connect ideas or create a sense of expectation? |
+| A sentence crosses a stanza break. | Does the thought continue despite the visual division? |
+| A pause interrupts a line. | What competing feelings or ideas are separated by the pause? |
+| The last line repeats an earlier image. | Does its new position confirm, question or change the earlier meaning? |
+
+Write about the **specific effect supported by the poem**. A regular pattern can frame distress, and free verse can still be carefully controlled.
+
 ## A short poem to practise with
 
 ### Waiting
@@ -140,6 +155,12 @@ Use shared ideas as paragraph topics:
 
 Bring the poems together throughout. Two separate mini-essays followed by one comparison sentence do not sustain a comparison.
 
+### Compare a shared idea through different choices
+
+Begin with a precise shared concern, such as how an everyday object preserves a relationship. Then ask what each speaker does with it. One might keep it in place as a sign of hope; another might put it away as a step towards accepting loss.
+
+Connect **evidence from the first poem, evidence from the second and the difference in meaning**. A contrast in ending or voice may be more useful than finding the same technique in both. There is no need to invent context for a poet you do not know.
+
 ## A contrasting poem and comparison
 
 ### Departure
@@ -187,3 +208,10 @@ The single-poem task is worth **15 marks** and the comparison **25 marks**. The 
 Have you answered the actual task? Is the speaker distinct from the poet? Are your claims supported? Have you explained the ending? In the comparison, have you developed similarities **and relevant differences**?
 
 There is no need to invent historical context for unseen poems. The task assesses understanding and analysis of the texts in front of you.
+
+## Sources
+
+- [A Guide to Structure, Form, Rhythm, Meter - English Literature GCSE](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Unseen-Poetry/A%20Guide%20to%20Structure,%20Form,%20Rhythm,%20Meter%20-%20English%20Literature%20GCSE.pdf).
+- [War Photographer](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/war-photographer).
+- [Remains](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/remains).
+- [Kamikaze](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/kamikaze).
