@@ -227,5 +227,31 @@
     "04-war-and-exclusion",
     "05-witnessing-and-trauma",
     "06-home-and-belonging"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Poetry anthology - assessment from 2027 - Flash Cards.json",
+    "count": 64,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "The Schoolboy",
+      "I Wandered Lonely as a Cloud",
+      "Blackberry Picking",
+      "Sonnet 29",
+      "Catrin",
+      "Dusting the Phone",
+      "Drummer Hodge",
+      "Disabled",
+      "Kamikaze",
+      "War Photographer",
+      "Remains",
+      "I Shall Return",
+      "Decomposition",
+      "Origin Story",
+      "Cousin Kate",
+      "Comparison"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

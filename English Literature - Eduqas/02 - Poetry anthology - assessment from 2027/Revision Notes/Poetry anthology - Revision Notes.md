@@ -1091,3 +1091,29 @@ For example: both Wordsworth and McKay connect landscape with relief. Wordsworth
 **Must know:** compare meanings and methods throughout. Two separate mini-essays joined by one final sentence rarely show the relationships clearly. Avoid automatic claims such as “enjambment makes it fast” or “regular rhyme means happiness”; test the effect against the words around it.
 
 Read the poems in the [official anthology](../../00 - Specification/Eduqas-poetry-anthology-first-assessment-2027.pdf).
+
+### Compare the poets' choices, not just the subject
+
+Sharing a subject gives you a starting point. A useful comparison explains **what each poem suggests about that subject and how its choices produce the difference**.
+
+| Pair | Shared concern | Difference to develop |
+|---|---|---|
+| The Schoolboy and Blackberry Picking | Childhood pleasure meets restriction or loss. | Blake turns towards an argument about children's development. Heaney revisits disappointment that knowledge does not prevent. |
+| Catrin and Origin Story | Family helps shape identity. | Clarke presents intimacy alongside a child's growing independence. Ewing uses the comic book to find value in the relationship from which the speaker was born. |
+| Sonnet 29 and Dusting the Phone | An absent loved person occupies the speaker's thoughts. | Barrett Browning turns from imaginative substitutes towards real presence. Kay leaves the speaker caught in waiting and uncertainty. |
+| Remains and War Photographer | War continues to affect a person after the immediate event. | Armitage gives the troubled participant a direct voice. Duffy follows a witness whose careful work contrasts with distant readers' brief attention. |
+| Kamikaze and Drummer Hodge | War shapes death, memory and belonging. | Garland explores a survivor's rejection by his family. Hardy gives a dead soldier a lasting place in an unfamiliar landscape. |
+| I Shall Return and I Wandered Lonely as a Cloud | Remembered nature offers emotional connection. | McKay's return is a repeated future hope. Wordsworth describes comfort already recovered through memory. |
+
+For example, a paragraph on **memory after war** can first identify how an experience remains present, then compare the voices and endings. Remains moves from a shared military episode into private torment. War Photographer moves from the darkroom towards the limited response of an editor and readers. The first centres on an individual unable to escape; the second also questions how others receive suffering.
+
+These are flexible pairings. Select a poem that answers the question's particular focus, and keep the **specified poem** involved throughout the comparison. A shared keyword is less valuable than a connection you can explain with evidence from both poems.
+
+## Sources
+
+- [Kamikaze - Beatrice Garland](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/Kamikaze%20-%20Beatrice%20Garland.pdf).
+- [Remains - Simon Armitage](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/Remains%20-%20Simon%20Armitage.pdf).
+- [War Photographer - Carol Ann Duffy](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/War%20Photographer%20-%20Carol%20Ann%20Duffy.pdf).
+- [War Photographer](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/war-photographer).
+- [Remains](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/remains).
+- [Kamikaze](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/kamikaze).

@@ -1,0 +1,74 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Literature - Eduqas",
+  "topic": "02 - Poetry anthology - assessment from 2027",
+  "official_basis": "English Literature - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "Kamikaze - Beatrice Garland",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/Kamikaze%20-%20Beatrice%20Garland.pdf",
+      "local_pdf": "English Literature - Eduqas/02 - Poetry anthology - assessment from 2027/Reference Materials/Kamikaze - Beatrice Garland.pdf",
+      "sha256": "dbf3c8534855d454967bd83073871a3aebc47ce4120719eca9cb4ba258607199",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Remains - Simon Armitage",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/Remains%20-%20Simon%20Armitage.pdf",
+      "local_pdf": "English Literature - Eduqas/02 - Poetry anthology - assessment from 2027/Reference Materials/Remains - Simon Armitage.pdf",
+      "sha256": "2b1f70b27f660136d9447f78da41f4006871ab24c5148938f3b89931bd76851d",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "War Photographer - Carol Ann Duffy",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/Poetry/Power-and-Conflict-Anthology/War%20Photographer%20-%20Carol%20Ann%20Duffy.pdf",
+      "local_pdf": "English Literature - Eduqas/02 - Poetry anthology - assessment from 2027/Reference Materials/War Photographer - Carol Ann Duffy.pdf",
+      "sha256": "6418c3c85764db0905f769063d72b2da25cd1b3ba24bf325c2886ebf6bd73c13",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [
+    {
+      "title": "War Photographer",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/war-photographer"
+    },
+    {
+      "title": "Remains",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/remains"
+    },
+    {
+      "title": "Kamikaze",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/power-and-conflict-poetry-anthology/kamikaze"
+    }
+  ],
+  "availability": {
+    "pmt": "Overlapping AQA skills/poems only; not the project examination format",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "The current official 15-poem Eduqas anthology controls the set list; PMT/SR AQA coverage overlaps only on some poems.",
+    "Retain each poem’s six-part notes, 5–6 quotation selections, relevant context and major theme tags.",
+    "PMT structure guide includes advanced material; do not turn its full taxonomy into a GCSE requirement.",
+    "No fixed equation between enjambment and speed, or regular stanzas and emotional control."
+  ],
+  "note_sections_refined": [
+    "Comparing poems and writing answers"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "b3156497585b2f06df4e99bcc0a5804e3006ed23a8652021b5693195d7476426",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 30,
+    "added": 34,
+    "total": 64,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  },
+  "anthology_audit": "All 15 current poems retain the six requested note areas, 5–6 key quotations and major theme tags; each has new interpretation/method cards."
+}

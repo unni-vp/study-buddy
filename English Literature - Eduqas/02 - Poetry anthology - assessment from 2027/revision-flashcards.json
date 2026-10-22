@@ -1,0 +1,472 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing short self-contained Q&A prompts, checked alongside new original topic cards",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "In The Schoolboy, what trapped creature is used to suggest the child’s lack of freedom?",
+      "back": [
+        "A caged bird."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which flowers does the speaker encounter in I Wandered Lonely as a Cloud?",
+      "back": [
+        "Daffodils."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What happens to the collected fruit in Blackberry Picking?",
+      "back": [
+        "It rots."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "In Sonnet 29, the speaker’s thoughts are compared to vines. What does the tree represent?",
+      "back": [
+        "The beloved."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does the speaker reveal she has at the end of Cousin Kate?",
+      "back": [
+        "A son."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which family relationship is explored in Catrin?",
+      "back": [
+        "Mother and daughter."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the speaker waiting for in Dusting the Phone?",
+      "back": [
+        "A call from an absent lover."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which war provides the setting for Drummer Hodge?",
+      "back": [
+        "The Second Boer War."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who wrote Disabled?",
+      "back": [
+        "Wilfred Owen."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "In Kamikaze, does the pilot return home from his mission?",
+      "back": [
+        "Yes."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Where does the photographer develop the photographs in War Photographer?",
+      "back": [
+        "A darkroom."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Does Remains establish for certain whether the man who is shot is armed?",
+      "back": [
+        "No."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What poetic form does McKay use in I Shall Return?",
+      "back": [
+        "A Shakespearean sonnet."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Is the photographed man in Decomposition described as asleep or dead?",
+      "back": [
+        "Asleep."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What kind of book connects the parents’ meeting with the central imagery in Origin Story?",
+      "back": [
+        "A comic book."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the caged-bird image develop Blake’s argument in The Schoolboy?",
+      "back": [
+        "A cage prevents a bird from expressing its natural freedom and song.",
+        "The comparison suggests that fearful schooling restricts a child’s **joy and curiosity**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the final stanza change the significance of the daffodils in I Wandered Lonely as a Cloud?",
+      "back": [
+        "The speaker recalls them later while alone at home.",
+        "Nature becomes a lasting source of pleasure through **memory**, rather than only a momentary encounter."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What is the effect of the change between the two stanzas of Blackberry Picking?",
+      "back": [
+        "Excited gathering gives way to the stored berries’ decay.",
+        "The contrast reveals the limits of trying to **preserve pleasure** and turns desire into disappointment."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How do the vines and tree develop the idea of longing in Sonnet 29?",
+      "back": [
+        "The vines represent thoughts that grow around and obscure the beloved.",
+        "The speaker wants the real person’s **presence**, rather than imagination as a substitute."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the ending of Cousin Kate challenge the speaker’s apparent powerlessness?",
+      "back": [
+        "She has a son who matters as a possible **heir**.",
+        "Her pride in him challenges the social judgement that treats her only as a disgraced woman."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the movement from childbirth to a later disagreement develop Catrin?",
+      "back": [
+        "It links the struggle of physical separation at birth with a daughter’s later wish for **independence**.",
+        "Love remains, but the tension between attachment and freedom continues."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does personifying the telephone develop the speaker’s feelings in Dusting the Phone?",
+      "back": [
+        "The phone seems to demand attention and service, as if it could respond to the speaker’s efforts.",
+        "This reveals **dependence and anxiety**: waiting for contact dominates the speaker’s life."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two ways Hardy presents the loss of an ordinary soldier in Drummer Hodge.",
+      "back": [
+        "The hurried burial without a coffin suggests a lack of personal care.",
+        "The unfamiliar foreign landscape makes his **permanent separation from home** clear."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How do shifts between past and present affect the reader in Disabled?",
+      "back": [
+        "Memories of sport, attraction and public excitement contrast with present isolation.",
+        "This exposes the gap between the **promises of military life** and the neglect experienced afterwards."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does Kamikaze present survival as more complicated than simply returning alive?",
+      "back": [
+        "The pilot survives physically, but his family and community treat him as absent.",
+        "Their rejection makes survival a form of **social isolation**, challenging the value placed on military honour."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the controlled structure of War Photographer contrast with its subject?",
+      "back": [
+        "Its regular stanzas and rhyme create a sense of **order**.",
+        "This contrasts with violent suffering and distress that the photographer cannot fully contain."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is uncertainty about the man’s weapon important in Remains?",
+      "back": [
+        "It leaves the speaker unsure whether the shooting was justified.",
+        "The unresolved doubt returns in memory, contributing to lasting **guilt and distress**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What can the repeated promise in the title I Shall Return suggest?",
+      "back": [
+        "It expresses determination and hope of returning home.",
+        "Repetition can also sound like **self-reassurance**, revealing the pain beneath the confidence."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the speaker’s attitude to the photograph change in Decomposition?",
+      "back": [
+        "The speaker moves from pride in a striking image towards questioning that pride.",
+        "This raises **ethical responsibility**: the subject is a person experiencing hardship, not just material for art."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the comic-book imagery help create the ending of Origin Story?",
+      "back": [
+        "A worn comic can have value because it has been loved and used, rather than perfectly preserved.",
+        "Similarly, the parents’ relationship can end yet still create something worthwhile, including the speaker’s life."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "The Schoolboy",
+      "front": "The Schoolboy: How do the natural images support the argument about education?",
+      "back": [
+        "Birds, plants and seasonal growth connect children with living things that need freedom to develop. Confinement threatens future flourishing."
+      ]
+    },
+    {
+      "category": "The Schoolboy",
+      "front": "The Schoolboy: How does the poem develop beyond a complaint about school?",
+      "back": [
+        "It moves from the boy’s immediate feelings towards questions about the damage restriction may cause later in life."
+      ]
+    },
+    {
+      "category": "I Wandered Lonely as a Cloud",
+      "front": "I Wandered Lonely as a Cloud: Why does the final stanza change the meaning of the encounter?",
+      "back": [
+        "It occurs later, when remembered flowers bring pleasure in solitude. Nature has a continuing imaginative value beyond the original walk."
+      ]
+    },
+    {
+      "category": "I Wandered Lonely as a Cloud",
+      "front": "I Wandered Lonely as a Cloud: What contrast should an answer make between the opening and ending?",
+      "back": [
+        "Initial loneliness becomes rewarding solitude. Being alone does not carry the same emotional meaning throughout."
+      ]
+    },
+    {
+      "category": "Blackberry Picking",
+      "front": "Blackberry Picking: How do the unequal stanzas develop the meaning?",
+      "back": [
+        "The longer first stanza builds desire and collecting. The shorter second stanza overturns that excitement through decay and disappointment."
+      ]
+    },
+    {
+      "category": "Blackberry Picking",
+      "front": "Blackberry Picking: Why is the adult speaker’s knowledge important?",
+      "back": [
+        "The speaker recognises a repeated pattern, yet remembers hoping it would change. Knowledge and desire remain in conflict."
+      ]
+    },
+    {
+      "category": "Sonnet 29",
+      "front": "Sonnet 29: How does the plant metaphor develop the speaker’s longing?",
+      "back": [
+        "Thoughts grow around the absent lover like climbing vegetation. The speaker then wants actual presence to replace these imaginative substitutes."
+      ]
+    },
+    {
+      "category": "Sonnet 29",
+      "front": "Sonnet 29: How does the sonnet’s turn develop the argument?",
+      "back": [
+        "The speaker moves away from describing thoughts of the lover towards urgently seeking his presence. Explain that change rather than only counting fourteen lines."
+      ]
+    },
+    {
+      "category": "Catrin",
+      "front": "Catrin: What does the movement between birth and the present reveal?",
+      "back": [
+        "The struggle for physical separation at birth continues as a struggle over independence. Love and conflict coexist."
+      ]
+    },
+    {
+      "category": "Catrin",
+      "front": "Catrin: Why should mother and daughter not be described as simply enemies?",
+      "back": [
+        "The imagery combines connection with resistance. The relationship is intimate, but closeness does not remove the child’s wish for freedom."
+      ]
+    },
+    {
+      "category": "Dusting the Phone",
+      "front": "Dusting the Phone: How do ordinary actions communicate longing?",
+      "back": [
+        "Repeated attention to the telephone shows how waiting takes over everyday life. Small routines become signs of absence and uncertainty."
+      ]
+    },
+    {
+      "category": "Dusting the Phone",
+      "front": "Dusting the Phone: Why does the ending matter to the speaker’s emotional situation?",
+      "back": [
+        "It leaves longing unresolved rather than providing a simple reunion. Track how the speaker’s thoughts return to the absent person."
+      ]
+    },
+    {
+      "category": "Drummer Hodge",
+      "front": "Drummer Hodge: How does the landscape challenge the soldier’s anonymity?",
+      "back": [
+        "The unfamiliar stars and earth surround his unnamed grave, giving his body a lasting connection with the place where he died."
+      ]
+    },
+    {
+      "category": "Drummer Hodge",
+      "front": "Drummer Hodge: What does calling him a drummer suggest about war?",
+      "back": [
+        "It draws attention to a young ordinary participant rather than a celebrated commander. The poem restores attention to someone easily overlooked."
+      ]
+    },
+    {
+      "category": "Disabled",
+      "front": "Disabled: How does moving between past and present shape the poem?",
+      "back": [
+        "Memories of sport, attraction and enlistment contrast with present dependence and neglect. The shifts show how much of his social identity has been lost."
+      ]
+    },
+    {
+      "category": "Disabled",
+      "front": "Disabled: Why is it too simple to say the poem concerns physical injury alone?",
+      "back": [
+        "The soldier also loses status, intimacy and imagined possibilities. Other people’s reactions deepen his isolation."
+      ]
+    },
+    {
+      "category": "Kamikaze",
+      "front": "Kamikaze: Why does the layered narration matter?",
+      "back": [
+        "The pilot’s daughter reconstructs his experience, and the account reaches another generation. The pilot does not give a direct explanation himself."
+      ]
+    },
+    {
+      "category": "Kamikaze",
+      "front": "Kamikaze: How does the ending complicate the idea of survival?",
+      "back": [
+        "He returns alive but is treated as absent by his community. The poem contrasts physical survival with social rejection."
+      ]
+    },
+    {
+      "category": "War Photographer",
+      "front": "War Photographer: How can regular stanzas contribute to the poem’s meaning?",
+      "back": [
+        "Their ordered shape can reflect the photographer’s attempt to organise distressing experience. Explain that tension alongside the disturbing memories."
+      ]
+    },
+    {
+      "category": "War Photographer",
+      "front": "War Photographer: What contrast does the reader response introduce?",
+      "back": [
+        "The photographer’s sustained distress is set against a brief, comfortable response at home. The poem questions the distance between seeing suffering and acting on it."
+      ]
+    },
+    {
+      "category": "Remains",
+      "front": "Remains: What does the shift from “we” to “I” reveal?",
+      "back": [
+        "The initial action is shared, but the speaker later carries the memory alone. Shared involvement does not prevent private guilt."
+      ]
+    },
+    {
+      "category": "Remains",
+      "front": "Remains: Why does the return to uncertainty about the victim matter?",
+      "back": [
+        "The speaker cannot settle whether the killing was justified. Repetition keeps the moral uncertainty active after the event."
+      ]
+    },
+    {
+      "category": "I Shall Return",
+      "front": "I Shall Return: How does repeated future language develop identity?",
+      "back": [
+        "The speaker repeatedly promises a return to a cherished homeland. The declaration makes hope persistent while revealing present separation."
+      ]
+    },
+    {
+      "category": "I Shall Return",
+      "front": "I Shall Return: What comparison can you make with Wordsworth’s treatment of memory?",
+      "back": [
+        "Both connect natural beauty with emotional restoration. Wordsworth describes comfort recovered in memory; McKay also longs for a future physical return."
+      ]
+    },
+    {
+      "category": "Decomposition",
+      "front": "Decomposition: Why must an answer follow the speaker’s changing judgement?",
+      "back": [
+        "The speaker first frames the sleeping man as an appealing image, then recognises the limits of that response. The poem questions the observer as well as poverty."
+      ]
+    },
+    {
+      "category": "Decomposition",
+      "front": "Decomposition: How should you discuss the form without making an unsupported stanza claim?",
+      "back": [
+        "Identify reflective free verse and explain the movement towards self-criticism. Check the official layout before making a numerical claim about stanzas."
+      ]
+    },
+    {
+      "category": "Origin Story",
+      "front": "Origin Story: How does the comic-book frame explore identity?",
+      "back": [
+        "The comic book connects the parents’ meeting with the speaker’s origins. Its handling becomes an extended comparison for love and the value of an imperfect relationship."
+      ]
+    },
+    {
+      "category": "Origin Story",
+      "front": "Origin Story: How does the ending reassess the parents’ relationship?",
+      "back": [
+        "The romance did not last, but it helped create the speaker. The positive ending challenges the assumption that permanence is the only measure of a relationship’s value."
+      ]
+    },
+    {
+      "category": "Cousin Kate",
+      "front": "Cousin Kate: how does direct address shape the poem?",
+      "back": [
+        "The speaker addresses her cousin and challenges the contrast between their social positions. The voice makes resentment and a claim to personal worth immediate."
+      ]
+    },
+    {
+      "category": "Cousin Kate",
+      "front": "Cousin Kate: how does the ending challenge social respectability?",
+      "back": [
+        "The speaker values her child despite social shame. That personal source of pride complicates the status apparently secured by the cousin’s marriage."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "What turns a shared poetry theme into a developed comparison?",
+      "back": [
+        "Explain how each poem presents the theme differently, using evidence and a relevant language, form or structural choice from each."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "Why is the poet not automatically the speaker?",
+      "back": [
+        "A poet can construct a voice and perspective that differ from their own. Biographical context must be relevant and supported."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "How can a quotation be linked to structure?",
+      "back": [
+        "Explain its position: it may mark a turn, echo an earlier image or change the meaning of the ending. Naming structure without explaining the development adds little."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "Why should a comparison keep returning to the specified poem?",
+      "back": [
+        "The task concerns the relationship between two poems. Writing a complete separate essay about the chosen poem can lose that relationship."
+      ]
+    }
+  ]
+}
