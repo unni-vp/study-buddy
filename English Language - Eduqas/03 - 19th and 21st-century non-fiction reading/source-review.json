@@ -45,6 +45,7 @@
   },
   "validation": {
     "partition": "All teaching blocks assigned exactly once; no missing blocks.",
-    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed.",
+    "preservation_audit": "Passed against 28d3f7ff564976caf73b461f1f1ac75634eed4a4: all original Markdown teaching blocks retained in order; regenerated deck matches preserved base, explicit corrections and additions; retained PDF hashes verified."
   }
 }
