@@ -1,0 +1,303 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing independently curated deck",
+  "base_cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: actuellement.",
+      "back": [
+        "Currently."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: une librairie.",
+      "back": [
+        "A bookshop."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ne...que.",
+      "back": [
+        "Only."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: malgré.",
+      "back": [
+        "Despite."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: sauf.",
+      "back": [
+        "Except."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: trop cher.",
+      "back": [
+        "Too expensive."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: rapidement.",
+      "back": [
+        "Quickly."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: la semaine dernière.",
+      "back": [
+        "Last week."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à l'avenir.",
+      "back": [
+        "In future."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: je voudrais.",
+      "back": [
+        "I would like."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Ma sœur adore la musique, mais mon frère préfère lire. Give each person's preference.",
+      "back": [
+        "Sister: music.",
+        "Brother: reading."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Avant, je détestais le sport. Maintenant, je joue au tennis tous les jours. Give the earlier opinion and present activity.",
+      "back": [
+        "Used to hate sport.",
+        "Now plays tennis every day."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Le village est calme, mais il manque des magasins. Give an advantage and a disadvantage.",
+      "back": [
+        "It is quiet.",
+        "There is a lack of shops."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Les billets ne sont pas chers, mais le voyage est long. Give the positive and negative.",
+      "back": [
+        "Tickets are not expensive.",
+        "The journey is long."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je viens de finir mes devoirs.",
+      "back": [
+        "I have just finished my homework."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: J'habite ici depuis deux ans.",
+      "back": [
+        "I have lived here for two years.",
+        "The action still continues."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je ne regarde plus la télévision.",
+      "back": [
+        "I no longer watch television."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain what les refers to in Les livres sont chers, mais je les achète.",
+      "back": [
+        "The books. Les is a direct object pronoun replacing les livres."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Infer the meaning of impossible in Cette solution est impossible, and identify the word-family clue.",
+      "back": [
+        "Impossible; im- gives the opposite of possible."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Infer consommateur from consommer and a shopping context.",
+      "back": [
+        "A consumer. The agent ending refers to a person who consumes/buys products."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Hier, nous avons pris le bus parce que les billets étaient moins chers.",
+      "back": [
+        "Yesterday, we took the bus because the tickets were cheaper.",
+        "Keep the past event, reason and comparison."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Je voudrais travailler dans une librairie, mais ma sœur préfère la bibliothèque.",
+      "back": [
+        "I would like to work in a bookshop, but my sister prefers the library.",
+        "Do not confuse librairie and bibliothèque."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Il n'y a pas assez de bus, donc je vais à pied au collège.",
+      "back": [
+        "There are not enough buses, so I walk to school.",
+        "Not enough does not mean no buses."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Les amis que je retrouve au parc sont très gentils.",
+      "back": [
+        "The friends whom/that I meet in the park are very kind.",
+        "Que introduces the people met; très modifies kind."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate: L'année dernière, j'ai passé une semaine en France. La ville était belle, mais il pleuvait souvent. À l'avenir, je vais voyager en train.",
+      "back": [
+        "Last year, I spent a week in France. The town/city was beautiful, but it often rained / was often raining. In future, I am going to travel by train.",
+        "---",
+        "Preserve the completed visit, background weather, frequency and future plan."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Explain four checks to make after translating a passage into English.",
+      "back": [
+        "Every phrase is included.",
+        "Subjects and pronoun references are correct.",
+        "Time frames and negatives are preserved.",
+        "Numbers, comparisons and qualifiers retain their precise meanings."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Precise translation",
+      "front": "Translate: Elle ne travaille plus ici.",
+      "back": [
+        "She no longer works here."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Il n’a que deux euros.",
+      "back": [
+        "He only has two euros."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Nous n’avons pas encore fini.",
+      "back": [
+        "We have not finished yet."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Je dois partir.",
+      "back": [
+        "I must leave."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Mes amis veulent visiter le musée.",
+      "back": [
+        "My friends want to visit the museum."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Je préfère rester chez moi.",
+      "back": [
+        "I prefer to stay at home."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: J’ai trop de devoirs.",
+      "back": [
+        "I have too much homework."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "Why must you track a subject change after mais?",
+      "back": [
+        "The next opinion or action may belong to a different person. Otherwise you may attribute the wrong preference."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "May natural English use a different word order from French?",
+      "back": [
+        "Yes, provided it preserves the complete meaning, including time, negatives, comparisons and who does what."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "What is lost by translating “ne travaille plus” as simply “does not work”?",
+      "back": [
+        "The meaning no longer: it signals that the earlier situation has changed."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "What is a pronoun-reference check?",
+      "back": [
+        "Identify exactly which earlier person or thing a pronoun replaces, then keep that reference clear in the answer."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "What should be checked after writing a natural English version?",
+      "back": [
+        "Compare it phrase by phrase with the French to find omitted or changed meaning."
+      ]
+    },
+    {
+      "category": "Inference",
+      "front": "Why should a cognate be checked in context?",
+      "back": [
+        "A familiar-looking word may be a false friend or may have a different meaning in that particular sentence."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "Translate: elle répond rapidement.",
+      "back": [
+        "She answers quickly."
+      ]
+    }
+  ]
+}

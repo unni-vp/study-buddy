@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "09 - Reading and translation into English",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Wordy Questions",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/reading-exam/wordy-questions"
+    },
+    {
+      "title": "Translation Into English",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/reading-exam/translation-into-english"
+    },
+    {
+      "title": "Reading Exam",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/reading-exam/reading-exam"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use StudyRocket translation techniques, but keep current AQA8652 English-answer and translation requirements.",
+    "Retain the existing full worked translation and add a separate short subject/qualifier walkthrough."
+  ],
+  "note_sections_refined": [
+    "Translating meaning into English",
+    "Worked translation"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "6b1e1eb3062dd61aae09bfa72ba2aa4420a2888b41c2bffd684ea4baf8e92ae2",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 26,
+    "added": 14,
+    "total": 40,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

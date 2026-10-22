@@ -196,6 +196,104 @@
         "Time frames and negatives are preserved.",
         "Numbers, comparisons and qualifiers retain their precise meanings."
       ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Elle ne travaille plus ici.",
+      "back": [
+        "She no longer works here."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Il n’a que deux euros.",
+      "back": [
+        "He only has two euros."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Nous n’avons pas encore fini.",
+      "back": [
+        "We have not finished yet."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Je dois partir.",
+      "back": [
+        "I must leave."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Mes amis veulent visiter le musée.",
+      "back": [
+        "My friends want to visit the museum."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: Je préfère rester chez moi.",
+      "back": [
+        "I prefer to stay at home."
+      ]
+    },
+    {
+      "category": "Precise translation",
+      "front": "Translate: J’ai trop de devoirs.",
+      "back": [
+        "I have too much homework."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "Why must you track a subject change after mais?",
+      "back": [
+        "The next opinion or action may belong to a different person. Otherwise you may attribute the wrong preference."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "May natural English use a different word order from French?",
+      "back": [
+        "Yes, provided it preserves the complete meaning, including time, negatives, comparisons and who does what."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "What is lost by translating “ne travaille plus” as simply “does not work”?",
+      "back": [
+        "The meaning no longer: it signals that the earlier situation has changed."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "What is a pronoun-reference check?",
+      "back": [
+        "Identify exactly which earlier person or thing a pronoun replaces, then keep that reference clear in the answer."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "What should be checked after writing a natural English version?",
+      "back": [
+        "Compare it phrase by phrase with the French to find omitted or changed meaning."
+      ]
+    },
+    {
+      "category": "Inference",
+      "front": "Why should a cognate be checked in context?",
+      "back": [
+        "A familiar-looking word may be a false friend or may have a different meaning in that particular sentence."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "Translate: elle répond rapidement.",
+      "back": [
+        "She answers quickly."
+      ]
     }
   ]
 }

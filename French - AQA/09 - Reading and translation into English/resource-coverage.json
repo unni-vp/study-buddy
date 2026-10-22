@@ -16,8 +16,22 @@
     "assessment_review": "Original comprehension, inference and translation practice checked against Paper 3. Short practice allocations are independent of official question numbers. The 10-mark original translation contains at least 50 French words; official schemes divide their own passages into ten meaning sections, and this original model is not an official mark scheme."
   },
   "flashcards": {
-    "count": 26,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Reading and translation into English - Flash Cards.json",
+    "count": 40,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Precise translation",
+      "Reading skills",
+      "Translation",
+      "Repair",
+      "Inference",
+      "Meaning"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",
