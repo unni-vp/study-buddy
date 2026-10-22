@@ -3,9 +3,9 @@
   "groups": [
     {
       "id": "energy",
-      "title": "Energy transfers and practicals",
-      "description": "Read profiles, calculate bond energies and investigate temperature.",
-      "icon": "nav-thermometer",
+      "title": "Reaction energy & bond calculations",
+      "description": "Exothermic changes, reaction profiles and bond energies",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Exothermic and endothermic reactions"
@@ -15,7 +15,15 @@
         },
         {
           "heading": "Bond energies"
-        },
+        }
+      ]
+    },
+    {
+      "id": "temperature-practical",
+      "title": "Temperature-change practical",
+      "description": "Measure, compare and evaluate temperature changes",
+      "icon": "nav-thermometer",
+      "sections": [
         {
           "heading": "Required practical: temperature changes"
         }
