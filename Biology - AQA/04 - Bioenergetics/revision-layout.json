@@ -24,13 +24,24 @@
     },
     {
       "id": "respiration",
-      "title": "Respiration, exercise & metabolism",
-      "description": "Energy transfer and the reactions of living cells",
+      "title": "Respiration",
+      "description": "Aerobic and anaerobic pathways and energy transfer",
       "icon": "nav-energy",
       "sections": [
         {
           "heading": "Aerobic and anaerobic respiration"
-        },
+        }
+      ],
+      "maps": [
+        "03-respiration-exercise-and-metabolism"
+      ]
+    },
+    {
+      "id": "exercise-metabolism",
+      "title": "Exercise & metabolism",
+      "description": "Exercise, recovery and the reactions in living cells",
+      "icon": "nav-heart",
+      "sections": [
         {
           "heading": "Exercise and oxygen debt"
         },
