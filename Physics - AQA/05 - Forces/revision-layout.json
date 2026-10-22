@@ -37,8 +37,8 @@
     },
     {
       "id": "motion",
-      "title": "Motion and Newton’s laws",
-      "description": "Read graphs and investigate force and acceleration.",
+      "title": "Motion & graphs",
+      "description": "Speed, velocity, acceleration and motion graphs",
       "icon": "nav-graph",
       "sections": [
         {
@@ -46,7 +46,15 @@
         },
         {
           "heading": "Reading motion graphs"
-        },
+        }
+      ]
+    },
+    {
+      "id": "newton",
+      "title": "Newton’s laws & acceleration",
+      "description": "Resultant forces, terminal velocity and the trolley practical",
+      "icon": "nav-force",
+      "sections": [
         {
           "heading": "Newton's laws and terminal velocity"
         },
