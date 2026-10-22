@@ -1,0 +1,82 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "05 - Vocabulary",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Question Words",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/question-words"
+    },
+    {
+      "title": "Key Opinion Phrases",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/key-opinion-phrases"
+    },
+    {
+      "title": "Conjunctions & Connectives",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/conjunctions-connectives"
+    },
+    {
+      "title": "Adverbs & Time Phrases",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/adverbs-time-phrases"
+    },
+    {
+      "title": "Local, National, International & Global Areas of Interest 3",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-3"
+    },
+    {
+      "title": "Local, National, International & Global Areas of Interest 2",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-2"
+    },
+    {
+      "title": "Local, National, International & Global Areas of Interest 1",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-1"
+    },
+    {
+      "title": "Current & Future Study & Employment",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/current-future-study-employment"
+    },
+    {
+      "title": "Identity & Culture Topic 3 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-3-vocabulary"
+    },
+    {
+      "title": "Identity & Culture Topic 2 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary"
+    },
+    {
+      "title": "Identity & Culture Topic 1 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-1-vocabulary"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "The local AQA8652 vocabulary appendix controls the complete list; StudyRocket banks are supplementary and follow older topic names.",
+    "Do not imply that a selected flashcard deck replaces all prescribed Higher vocabulary."
+  ],
+  "note_sections_refined": [
+    "Time, amount and opinion",
+    "Similar-looking words and word families"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "7005638dc9203d49cd5a00e753623d3eb8b4054862ae7c07690c93ac3a27bc91",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 28,
+    "added": 14,
+    "total": 42,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

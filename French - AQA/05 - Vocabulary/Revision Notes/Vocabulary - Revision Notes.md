@@ -43,6 +43,18 @@ These small words often decide the meaning of a whole answer.
 
 Useful paired opinions: **amusant / ennuyeux** (fun/boring), **utile / inutile** (useful/useless), **facile / difficile** (easy/difficult), **cher / bon marché** (expensive/cheap).
 
+### Learn oppositions, not isolated words
+
+| Contrast | Meaning | Sentence to test the distinction |
+|---|---|---|
+| toujours / jamais | always / never | Je ne joue jamais le lundi. — I never play on Mondays. |
+| déjà / pas encore | already / not yet | Je n'ai pas encore fini. — I have not finished yet. |
+| assez / trop | enough / too much | Il y a trop de bruit. — There is too much noise. |
+| meilleur / mieux | better as an adjective / better as an adverb | Ce film est meilleur. Elle joue mieux. — This film is better. She plays better. |
+| avant / après | before / after | Après les cours, je rentre. — After lessons, I go home. |
+
+These distinctions change the answer even when the topic noun stays the same. Practise a word inside a sentence, then change one detail and explain how the meaning changes.
+
 ## Topic word banks
 
 Use these as connected starter banks alongside the fuller theme notes.
@@ -101,6 +113,14 @@ Recognise reading families:
 
 Do not assume every similar spelling has the same meaning, or that an ending works on every word. Check the sentence.
 
+### Infer, then check
+
+Suppose you recognise **rapide** in **rapidement**. The ending suggests an adverb, but the sentence tells you what is happening quickly. Use **word family, grammatical role and context together**.
+
+Learn a difficult pair in two directions. Cover the English and recognise the French; then cover the French and produce it. For **une librairie**, give bookshop, then produce **une bibliothèque** for library. This checks whether you know both meanings rather than only spotting a familiar-looking word.
+
+An accent can carry meaning: **ou** means or, while **où** means where. Apostrophes show omitted vowels, as in **j'aime** and **l'école**. Retain them when learning the phrase so that correct spelling is part of the memory.
+
 ## Complete word list and recall
 
 The [complete word list](../../00%20-%20Specification/AQA-8652-specification.pdf#page=61) is available locally, starting at page 61. Higher vocabulary includes the Foundation words as well as the additional Higher entries, irregular forms and listed cultural phrases.
@@ -119,3 +139,17 @@ Alternate recognising French and producing French. If you only recognise the wor
 - Guessing that a familiar-looking word is an English cognate.
 - Memorising one meaning while ignoring other listed meanings.
 - Ignoring negatives and time markers because the topic nouns are easier to recognise.
+
+## Sources
+
+- [Question Words](https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/question-words).
+- [Key Opinion Phrases](https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/key-opinion-phrases).
+- [Conjunctions & Connectives](https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/conjunctions-connectives).
+- [Adverbs & Time Phrases](https://studyrocket.co.uk/revision/gcse-french-aqa/generic-key-vocabulary/adverbs-time-phrases).
+- [Local, National, International & Global Areas of Interest 3](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-3).
+- [Local, National, International & Global Areas of Interest 2](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-2).
+- [Local, National, International & Global Areas of Interest 1](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/local-national-international-global-areas-of-interest-1).
+- [Current & Future Study & Employment](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/current-future-study-employment).
+- [Identity & Culture Topic 3 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-3-vocabulary).
+- [Identity & Culture Topic 2 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-2-vocabulary).
+- [Identity & Culture Topic 1 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-1-vocabulary).

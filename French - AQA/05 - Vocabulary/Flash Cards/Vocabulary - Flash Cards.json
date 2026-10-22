@@ -209,6 +209,106 @@
         "---",
         "Chambre is feminine; petite agrees; elle refers to the room; y means there and precedes étudier."
       ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "Translate: I have not finished yet.",
+      "back": [
+        "Je n’ai pas encore fini."
+      ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "How do “déjà” and “pas encore” differ?",
+      "back": [
+        "Déjà means already. Pas encore means not yet."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: There is too much noise.",
+      "back": [
+        "Il y a trop de bruit."
+      ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "Choose meilleur or mieux: She plays better.",
+      "back": [
+        "Elle joue mieux.",
+        "Mieux describes how she plays."
+      ]
+    },
+    {
+      "category": "Precise meaning",
+      "front": "Choose meilleur or mieux: This film is better.",
+      "back": [
+        "Ce film est meilleur.",
+        "Meilleur describes the film."
+      ]
+    },
+    {
+      "category": "Word families",
+      "front": "What three checks help when inferring a derived word?",
+      "back": [
+        "Use its familiar base, grammatical role and the meaning of the complete sentence."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate both: une librairie; une bibliothèque.",
+      "back": [
+        "Une librairie is a bookshop. Une bibliothèque is a library."
+      ]
+    },
+    {
+      "category": "Spelling",
+      "front": "Why should ou and où be learned separately?",
+      "back": [
+        "Ou means or. Où means where. The accent changes the word’s function and meaning."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I never play on Mondays.",
+      "back": [
+        "Je ne joue jamais le lundi."
+      ]
+    },
+    {
+      "category": "Numbers",
+      "front": "Write 71, 80 and 81 in standard French.",
+      "back": [
+        "Soixante et onze; quatre-vingts; quatre-vingt-un."
+      ]
+    },
+    {
+      "category": "Numbers",
+      "front": "Translate: fifteen euros fifty.",
+      "back": [
+        "Quinze euros cinquante."
+      ]
+    },
+    {
+      "category": "Time",
+      "front": "What time is “neuf heures moins le quart”?",
+      "back": [
+        "8:45."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Why learn a noun with its article?",
+      "back": [
+        "The article records its gender and supports later adjective and pronoun choices."
+      ]
+    },
+    {
+      "category": "Practice",
+      "front": "Why practise producing French as well as recognising it?",
+      "back": [
+        "Recognition alone may not provide the spelling and form needed to write or say the word independently."
+      ]
     }
   ]
 }
