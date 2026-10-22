@@ -4,7 +4,7 @@
     {
       "id": "digestion",
       "title": "Digestion & enzymes",
-      "description": "Food molecules, enzymes and practical tests",
+      "description": "Digestive organs, enzyme action and absorption",
       "icon": "nav-food",
       "sections": [
         {
@@ -12,7 +12,18 @@
         },
         {
           "heading": "Enzymes and their products"
-        },
+        }
+      ],
+      "maps": [
+        "01-digestion-and-enzymes"
+      ]
+    },
+    {
+      "id": "digestion-practicals",
+      "title": "Food tests & the amylase practical",
+      "description": "Test nutrients and investigate the effect of pH",
+      "icon": "nav-flask",
+      "sections": [
         {
           "heading": "Food tests"
         },
@@ -26,8 +37,8 @@
     },
     {
       "id": "circulation",
-      "title": "Heart, blood & health",
-      "description": "Circulation, gas exchange, disease and treatments",
+      "title": "Heart, blood & lungs",
+      "description": "Double circulation, blood vessels and gas exchange",
       "icon": "nav-heart",
       "sections": [
         {
@@ -35,7 +46,18 @@
         },
         {
           "heading": "Blood, vessels and lungs"
-        },
+        }
+      ],
+      "maps": [
+        "02-circulation-and-health"
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Health & disease",
+      "description": "Coronary heart disease, treatments, risk factors and cancer",
+      "icon": "nav-medicine",
+      "sections": [
         {
           "heading": "Coronary heart disease and treatments"
         },
