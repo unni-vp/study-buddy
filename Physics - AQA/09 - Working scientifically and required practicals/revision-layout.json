@@ -36,9 +36,9 @@
       ]
     },
     {
-      "id": "mechanical",
-      "title": "Heating and mechanics",
-      "description": "Review heating, density, springs and acceleration methods.",
+      "id": "thermal",
+      "title": "Heating investigations",
+      "description": "Measure specific heat capacity and compare insulation",
       "icon": "nav-thermometer",
       "sections": [
         {
@@ -46,7 +46,15 @@
         },
         {
           "heading": "Practical: thermal insulation"
-        },
+        }
+      ]
+    },
+    {
+      "id": "mechanical",
+      "title": "Density & mechanics investigations",
+      "description": "Measure density, spring extension and acceleration",
+      "icon": "nav-force",
+      "sections": [
         {
           "heading": "Practical: density"
         },
