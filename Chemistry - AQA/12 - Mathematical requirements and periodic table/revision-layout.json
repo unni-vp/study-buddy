@@ -57,16 +57,24 @@
     },
     {
       "id": "analysis",
-      "title": "Yield, energy and mathematical reasoning",
-      "description": "Compare results and interpret graphs or structures.",
-      "icon": "nav-formula",
+      "title": "Yield & energy calculations",
+      "description": "Yield, atom economy, rates and reaction energy",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Yield, atom economy and rates"
         },
         {
           "heading": "Energy calculations and signs"
-        },
+        }
+      ]
+    },
+    {
+      "id": "graphs-geometry",
+      "title": "Graphs, algebra & geometry",
+      "description": "Read data, rearrange equations and calculate areas and volumes",
+      "icon": "nav-graph",
+      "sections": [
         {
           "heading": "Data tables, means and graphs"
         },
