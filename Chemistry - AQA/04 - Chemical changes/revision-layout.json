@@ -17,16 +17,24 @@
     },
     {
       "id": "acids",
-      "title": "Acids, salts and titration",
-      "description": "Choose reactions and prepare pure salts.",
-      "icon": "nav-flask",
+      "title": "Acids, alkalis & salts",
+      "description": "pH, neutralisation and acid reaction products",
+      "icon": "nav-droplet",
       "sections": [
         {
           "heading": "Acids, alkalis and pH"
         },
         {
           "heading": "Acid reactions and salt names"
-        },
+        }
+      ]
+    },
+    {
+      "id": "salt-titration-practicals",
+      "title": "Salt preparation & titration",
+      "description": "Make pure crystals and measure reacting solution volumes",
+      "icon": "nav-flask",
+      "sections": [
         {
           "heading": "Required practical: pure dry salt crystals"
         },
