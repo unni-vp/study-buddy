@@ -26,9 +26,9 @@
     },
     {
       "id": "applications",
-      "title": "Solutions, gases and efficiency",
-      "description": "Apply mole ratios, compare yields and judge measurements.",
-      "icon": "nav-flask",
+      "title": "Solutions, titrations & gases",
+      "description": "Concentrations, equation ratios and gas-volume calculations",
+      "icon": "nav-droplet",
       "sections": [
         {
           "heading": "Concentrations and solution volumes"
@@ -38,7 +38,15 @@
         },
         {
           "heading": "Gas volumes"
-        },
+        }
+      ]
+    },
+    {
+      "id": "yield-uncertainty",
+      "title": "Yield, atom economy & uncertainty",
+      "description": "Compare actual output, material use and measurement quality",
+      "icon": "nav-scale",
+      "sections": [
         {
           "heading": "Yield and atom economy"
         },
