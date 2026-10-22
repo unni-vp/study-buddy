@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "staves",
-      "title": "Story / Staves",
-      "description": "Follow the five stages of Scrooge's transformation.",
+      "title": "Staves 1–2: Scrooge’s past",
+      "description": "The opening, Marley’s warning and memories of earlier choices",
       "icon": "nav-book",
       "sections": [
         {
@@ -15,7 +15,15 @@
         },
         {
           "heading": "Stave 2: remembering what was lost"
-        },
+        }
+      ]
+    },
+    {
+      "id": "staves-3-5",
+      "title": "Staves 3–5: lessons & change",
+      "description": "Other lives, a possible future and Scrooge’s transformation",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Stave 3: seeing other lives"
         },
