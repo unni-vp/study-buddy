@@ -23,22 +23,54 @@
     },
     {
       "id": "equations",
-      "title": "Equation toolkit",
-      "description": "Use the equation families and their physical conditions.",
-      "icon": "nav-formula",
+      "title": "Energy & heating equations",
+      "description": "Stored energy, temperature changes, latent heat and power",
+      "icon": "nav-energy",
       "sections": [
         {
           "heading": "Equations: energy and heating"
-        },
+        }
+      ]
+    },
+    {
+      "id": "electricity-matter",
+      "title": "Electricity & matter equations",
+      "description": "Charge, resistance, electrical energy, density and gases",
+      "icon": "nav-circuit",
+      "sections": [
         {
           "heading": "Equations: electricity and matter"
-        },
+        }
+      ]
+    },
+    {
+      "id": "forces-motion",
+      "title": "Forces & motion equations",
+      "description": "Weight, work, pressure, acceleration and momentum",
+      "icon": "nav-force",
+      "sections": [
         {
           "heading": "Equations: forces and motion"
-        },
+        }
+      ]
+    },
+    {
+      "id": "waves-electromagnetism",
+      "title": "Waves & electromagnetism equations",
+      "description": "Wave speed, magnification, motor force and transformers",
+      "icon": "nav-wave",
+      "sections": [
         {
           "heading": "Equations: waves and electromagnetism"
-        },
+        }
+      ]
+    },
+    {
+      "id": "linked",
+      "title": "Linked calculations",
+      "description": "Plan multi-step calculations and check their assumptions",
+      "icon": "nav-formula",
+      "sections": [
         {
           "heading": "Linked calculations"
         }
