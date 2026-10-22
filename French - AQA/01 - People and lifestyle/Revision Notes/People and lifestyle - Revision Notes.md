@@ -132,6 +132,24 @@ You have to arrive on time. I find this rule reasonable because it helps us work
 
 **La** replaces the feminine noun règle. A reason is more useful than a long list of unrelated rules.
 
+### Give a reason that belongs to the subject
+
+**J'aime les langues parce que je peux parler avec des personnes d'autres pays.**
+
+I like languages because I can speak with people from other countries.
+
+This reason explains what makes languages useful. **C'est intéressant** is correct, but a more specific reason gives you something to develop. Keep the agreement clear: **les langues sont utiles**, while **le français est utile**.
+
+For rules, distinguish a requirement from an opinion:
+
+| Meaning | French | What the grammar does |
+|---|---|---|
+| We must wear a uniform. | Nous devons porter un uniforme. | Devons agrees with nous; porter stays in the infinitive. |
+| I find the uniform practical. | Je trouve l'uniforme pratique. | The sentence evaluates the requirement. |
+| I would prefer to wear my own clothes. | Je préférerais porter mes vêtements. | The conditional expresses a preference rather than a current fact. |
+
+A balanced answer can explain why a rule is useful and why you dislike it. Those are different ideas, so connect them with **mais** or **cependant**.
+
 ## Work, ambitions and future plans
 
 - **un emploi / un travail** — a job / work.
@@ -152,6 +170,18 @@ After my exams, I am going to continue my studies. Later, I will work abroad.
 **Travaillerai** is the simple future: travailler + -ai. **Je voudrais** expresses a wish; **je vais travailler** expresses a plan. Choose the meaning you intend.
 
 A job title after être or devenir normally has no indefinite article: **Elle est médecin.** — She is a doctor. Follow any noun/adjective agreement needed in the phrase you choose.
+
+### Connect an ambition to a quality
+
+**Je voudrais travailler avec des enfants parce que je suis patient(e).**
+
+I would like to work with children because I am patient.
+
+**Je préfère travailler dehors, mais je voudrais aussi un emploi stable.**
+
+I prefer working outdoors, but I would also like a stable job.
+
+The quality or condition gives the ambition a reason. You can then describe a next step: **Après mes examens, je vais continuer mes études.** A wish, a definite plan and a completed experience have different meanings; choose the form that answers the question.
 
 ## Turning ideas into a developed response
 
@@ -180,3 +210,8 @@ I like my school because the teachers are patient. For example, my French teache
 - After a modal or aller in the near future, use the **infinitive**: je veux travailler, je vais étudier.
 
 For a longer answer, develop the required points. Do not force a memorised health or school paragraph into a question about a different aspect of your life.
+
+## Sources
+
+- [Current & Future Study & Employment](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/current-future-study-employment).
+- [Identity & Culture Topic 1 Vocabulary](https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-1-vocabulary).

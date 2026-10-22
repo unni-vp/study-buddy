@@ -237,6 +237,108 @@
         "---",
         "The reason explains the opinion. The example makes the help specific. The contrast adds a balanced view while staying on school life."
       ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: We must wear a uniform.",
+      "back": [
+        "Nous devons porter un uniforme."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why is it “les langues sont utiles” but “le français est utile”?",
+      "back": [
+        "Les langues is plural, so both the verb and adjective are plural. Le français is singular."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "Give a specific reason for liking languages.",
+      "back": [
+        "J’aime les langues parce que je peux parler avec des personnes d’autres pays.",
+        "I like languages because I can speak with people from other countries."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I would prefer to wear my own clothes.",
+      "back": [
+        "Je préférerais porter mes vêtements."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "Link working with children to a personal quality.",
+      "back": [
+        "Je voudrais travailler avec des enfants parce que je suis patient(e).",
+        "I would like to work with children because I am patient."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why is “porter” unchanged after “nous devons”?",
+      "back": [
+        "The modal verb devons is conjugated for the subject. The following action remains an infinitive."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "How do “je travaille”, “je vais travailler” and “j’ai travaillé” differ?",
+      "back": [
+        "They mean I work, I am going to work, and I worked/have worked. The verb construction changes the time frame."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: My sister listens to me when I have a problem.",
+      "back": [
+        "Ma sœur m’écoute quand j’ai un problème."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Ma matière préférée est intéressant.",
+      "back": [
+        "Ma matière préférée est intéressante.",
+        "Matière is feminine, so intéressante needs the feminine ending."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I get on well with my brother, but he is sometimes impatient.",
+      "back": [
+        "Je m’entends bien avec mon frère, mais il est parfois impatient."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "What does “un emploi stable” mean?",
+      "back": [
+        "A stable job."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I used to eat too much sugar.",
+      "back": [
+        "Je mangeais trop de sucre."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Nous devons portons un uniforme.",
+      "back": [
+        "Nous devons porter un uniforme.",
+        "After devons, use an infinitive."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "How can a school-rule answer be balanced?",
+      "back": [
+        "State the rule, explain a benefit and add a relevant drawback or preference. Connect the ideas instead of giving an unrelated list."
+      ]
     }
   ]
 }

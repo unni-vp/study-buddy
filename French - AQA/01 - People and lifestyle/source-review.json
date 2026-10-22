@@ -1,0 +1,46 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "01 - People and lifestyle",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Current & Future Study & Employment",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/current-future-study-employment"
+    },
+    {
+      "title": "Identity & Culture Topic 1 Vocabulary",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/topic-specific-vocabulary/identity-culture-topic-1-vocabulary"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "StudyRocket older theme vocabulary used as coverage prompts, not as the current prescribed word list.",
+    "Preserve current People and lifestyle topic mapping; integrate specific reasons and controlled grammar application."
+  ],
+  "note_sections_refined": [
+    "School life and opinions",
+    "Work, ambitions and future plans"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "d7f3d26db8437b53c72d6d9b1a9af876957d52820ace51f439deb1eec59046e5",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 30,
+    "added": 14,
+    "total": 44,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

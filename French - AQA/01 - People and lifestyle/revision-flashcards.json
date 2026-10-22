@@ -1,0 +1,348 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing independently curated deck",
+  "base_cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ma sœur.",
+      "back": [
+        "My sister."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: un ami.",
+      "back": [
+        "A friend."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: les devoirs.",
+      "back": [
+        "Homework."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: une matière.",
+      "back": [
+        "A school subject."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: gagner de l'argent.",
+      "back": [
+        "To earn money."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: en bonne santé.",
+      "back": [
+        "In good health."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: parfois.",
+      "back": [
+        "Sometimes."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: hier.",
+      "back": [
+        "Yesterday."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à l'avenir.",
+      "back": [
+        "In future."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: J'___ seize ans.",
+      "back": [
+        "ai."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Write the correct adjective: Ma sœur est ___ (gentil).",
+      "back": [
+        "gentille."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: parce que.",
+      "back": [
+        "Because."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je m'entends bien avec mon frère parce qu'il m'écoute. What is the relationship like, and why?",
+      "back": [
+        "They get on well.",
+        "Their brother listens to them."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Je ne mange jamais de viande, mais je mange du poisson. What does the person never eat, and what do they eat?",
+      "back": [
+        "They never eat meat.",
+        "They eat fish."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Avant, je jouais au tennis. Maintenant, je préfère la natation. Identify the former activity and the current preference.",
+      "back": [
+        "They used to play tennis.",
+        "They now prefer swimming."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Ma matière préférée est le français, car le professeur est patient. Give the subject and the reason.",
+      "back": [
+        "French.",
+        "The teacher is patient."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Après mes examens, je vais continuer mes études et travailler à l'étranger plus tard. Give the two plans.",
+      "back": [
+        "Continue studying after the exams.",
+        "Work abroad later."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain why ma amie should be mon amie.",
+      "back": [
+        "Amie is a feminine singular noun beginning with a vowel.",
+        "Use **mon** before it for smoother pronunciation; the noun remains feminine."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the difference between je suis and j'ai when giving personal details.",
+      "back": [
+        "**Je suis** uses être for descriptions such as nationality or personality.",
+        "**J'ai** uses avoir for age and expressions such as hunger."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Read: Il faut arriver à l'heure, mais cette règle est difficile pour certains élèves. State the rule and the reservation.",
+      "back": [
+        "Pupils must arrive on time.",
+        "Some pupils find that rule difficult."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask your French friend which school subject they prefer.",
+      "back": [
+        "Quelle matière préfères-tu ?",
+        "**Meaning:** Which subject do you prefer? The question uses the second-person verb to address the friend."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give one opinion about your school with a reason, in French.",
+      "back": [
+        "J'aime mon collège parce que les professeurs sont gentils.",
+        "**Meaning:** I like my school because the teachers are kind. The plural adjective agrees with professeurs."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I get on well with my sister because she is patient.",
+      "back": [
+        "Je m'entends bien avec ma sœur parce qu'elle est patiente.",
+        "Use **m'entends** in the reflexive expression.",
+        "**Patiente** agrees with the sister."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: Yesterday, I helped my brother with his homework.",
+      "back": [
+        "Hier, j'ai aidé mon frère à faire ses devoirs.",
+        "**J'ai aidé** gives a completed past action.",
+        "**Ses devoirs** means his homework."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I do not eat meat, but I drink water every day.",
+      "back": [
+        "Je ne mange pas de viande, mais je bois de l'eau tous les jours.",
+        "The negative changes the indefinite amount to **de viande**.",
+        "**Je bois** is the present of boire."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: When I was younger, I used to play football.",
+      "back": [
+        "Quand j'étais plus jeune, je jouais au football.",
+        "**J'étais** and **je jouais** are imperfect forms.",
+        "They describe the earlier state and habit."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: After my exams, I am going to continue my studies.",
+      "back": [
+        "Après mes examens, je vais continuer mes études.",
+        "**Vais + infinitive** gives a future plan.",
+        "Keep **mes** plural to match examens and études."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate into French: I would like to work in a hospital to help others.",
+      "back": [
+        "Je voudrais travailler dans un hôpital pour aider les autres.",
+        "**Voudrais + infinitive** expresses a wish.",
+        "**Pour + infinitive** expresses purpose."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Correct these errors and explain the changes: Je suis seize ans. Ma sœur est patient. Je vais travaille. Je ne mange pas du pain.",
+      "back": [
+        "**J'ai seize ans:** French uses avoir for age.",
+        "**Ma sœur est patiente:** the adjective agrees with sœur.",
+        "**Je vais travailler:** the near future needs an infinitive after vais.",
+        "**Je ne mange pas de pain:** the partitive article normally becomes de after a negative."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Develop this sentence in French with a reason, a relevant example and a contrast: J'aime mon collège.",
+      "back": [
+        "J'aime mon collège parce que les professeurs sont patients. Par exemple, mon professeur de français m'aide quand je ne comprends pas. Cependant, les devoirs sont parfois difficiles.",
+        "---",
+        "The reason explains the opinion. The example makes the help specific. The contrast adds a balanced view while staying on school life."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Apply French",
+      "front": "Translate: We must wear a uniform.",
+      "back": [
+        "Nous devons porter un uniforme."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why is it “les langues sont utiles” but “le français est utile”?",
+      "back": [
+        "Les langues is plural, so both the verb and adjective are plural. Le français is singular."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "Give a specific reason for liking languages.",
+      "back": [
+        "J’aime les langues parce que je peux parler avec des personnes d’autres pays.",
+        "I like languages because I can speak with people from other countries."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I would prefer to wear my own clothes.",
+      "back": [
+        "Je préférerais porter mes vêtements."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "Link working with children to a personal quality.",
+      "back": [
+        "Je voudrais travailler avec des enfants parce que je suis patient(e).",
+        "I would like to work with children because I am patient."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why is “porter” unchanged after “nous devons”?",
+      "back": [
+        "The modal verb devons is conjugated for the subject. The following action remains an infinitive."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "How do “je travaille”, “je vais travailler” and “j’ai travaillé” differ?",
+      "back": [
+        "They mean I work, I am going to work, and I worked/have worked. The verb construction changes the time frame."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: My sister listens to me when I have a problem.",
+      "back": [
+        "Ma sœur m’écoute quand j’ai un problème."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Ma matière préférée est intéressant.",
+      "back": [
+        "Ma matière préférée est intéressante.",
+        "Matière is feminine, so intéressante needs the feminine ending."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I get on well with my brother, but he is sometimes impatient.",
+      "back": [
+        "Je m’entends bien avec mon frère, mais il est parfois impatient."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "What does “un emploi stable” mean?",
+      "back": [
+        "A stable job."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I used to eat too much sugar.",
+      "back": [
+        "Je mangeais trop de sucre."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Nous devons portons un uniforme.",
+      "back": [
+        "Nous devons porter un uniforme.",
+        "After devons, use an infinitive."
+      ]
+    },
+    {
+      "category": "Develop an answer",
+      "front": "How can a school-rule answer be balanced?",
+      "back": [
+        "State the rule, explain a benefit and add a relevant drawback or preference. Connect the ideas instead of giving an unrelated list."
+      ]
+    }
+  ]
+}

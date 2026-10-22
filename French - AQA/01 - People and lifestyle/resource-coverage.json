@@ -19,8 +19,21 @@
     "assessment_review": "Theme 1 applies across all four papers. The extended practice uses the current writing formats: three bullet points and approximately 90 words for 15 marks, two bullet points and approximately 150 words for 25 marks. These are original tasks and models, not copied sample answers. Short translation marks are practice allocations; official full translations are assessed using the whole-response grids."
   },
   "flashcards": {
-    "count": 30,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/People and lifestyle - Flash Cards.json",
+    "count": 44,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Apply French",
+      "Grammar in context",
+      "Develop an answer",
+      "Meaning",
+      "Repair"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",
