@@ -16,6 +16,12 @@ Before each answer, check:
 
 The sample paper includes short retrieval tasks, a **4-mark synthesis** and longer **10-mark responses**. Follow the marks and instructions on the actual paper rather than expecting another board's question pattern.
 
+### Form, purpose and audience work together
+
+A **form** is the kind of text, such as a letter, report or article. **Purpose** is what the writer wants to achieve. **Audience** is the intended readership. The same article form can entertain, advise or challenge an opinion, so identifying its form does not settle its tone.
+
+Read any supplied date and introduction, but test an interpretation against the writing itself. A nineteenth-century writer may use humour or intimacy. A modern writer may sound formal or authoritative. Explain the actual choice rather than assigning attitudes by century.
+
 ## Retrieve information and infer carefully
 
 **Retrieval** means finding what the text states. For several requested details, give several different relevant facts. Repeating the same fact in different words adds nothing.
@@ -78,6 +84,17 @@ Use both sources and make their identities clear. Concise paraphrase is often en
 
 Do not turn *why* into a list of *how*. Knitting stockings is a method; making them last longer is a reason. Keep every selected detail relevant to the shared focus.
 
+### Separate the job of each two-text task
+
+| Task | Main job | What a response needs |
+|---|---|---|
+| Synthesis | Bring together relevant information from both sources. | Clear attribution and the information requested by the shared focus. |
+| Comparison | Explain similarities or differences in ideas and their presentation. | Connected points, evidence from both writers and explanation of relevant methods. |
+
+For a question about **reasons for avoiding waste**, use the reasons in each source. Do not spend that answer explaining every metaphor. For a question about **how attitudes are conveyed**, the absolute commands in one source and the accommodating concession in the other become important.
+
+Use a small plan with one shared issue on each row. If a point can only be supported from one text, either find a relevant connection or choose a better shared issue. Do not manufacture agreement that the sources do not support.
+
 ## Compare ideas and how they are conveyed
 
 **Comparison** explains a meaningful similarity or difference between the writers. Compare both their **ideas or perspectives** and **how they communicate them** when the question asks for both.
@@ -99,3 +116,9 @@ Use a quick plan suited to the task. A 10-mark analysis or evaluation needs deve
 - For comparison, connect the other writer within the same line of argument.
 
 Check that each quotation belongs to the writer named. Avoid claims that every reader must feel the same emotion. Use *invites*, *encourages* or *may suggest* when discussing a plausible effect.
+
+## Sources
+
+- [What to Include](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/what-to-include).
+- [Question 4: Response Guidance](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/question-4-response-guidance).
+- [Question 2: Sourcing Information](https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/question-2-sourcing-information).

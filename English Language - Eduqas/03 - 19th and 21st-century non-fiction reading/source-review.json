@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Language - Eduqas",
+  "topic": "03 - 19th and 21st-century non-fiction reading",
+  "official_basis": "English Language - Eduqas/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "What to Include",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/what-to-include"
+    },
+    {
+      "title": "Question 4: Response Guidance",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/question-4-response-guidance"
+    },
+    {
+      "title": "Question 2: Sourcing Information",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-language-aqa/paper-2-reading/question-2-sourcing-information"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "StudyRocket AQA two-text skills are transferable; preserve Eduqas synthesis/comparison requirements and marks.",
+    "PMT AQA Paper 1 reading guide is a general evidence reference, not a matching Component 2 summary."
+  ],
+  "note_sections_refined": [
+    "Synthesise information from both texts",
+    "Understand the text and the task"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "56c7a6ef956cc3e026141d0597c9fd77647bbfbf3d5323747d19bd91c8ab6441",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 0,
+    "added": 15,
+    "total": 15,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

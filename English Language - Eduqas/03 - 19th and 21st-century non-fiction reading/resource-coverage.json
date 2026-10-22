@@ -27,5 +27,20 @@
   "sources": [
     "../00 - Specification/Eduqas-C700QS-specification.pdf",
     "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/19th and 21st-century non-fiction reading - Flash Cards.json",
+    "count": 15,
+    "categories": [
+      "Two-text reading",
+      "Application",
+      "Reading skills",
+      "Comparison",
+      "Evidence",
+      "Evaluation",
+      "Exam application"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

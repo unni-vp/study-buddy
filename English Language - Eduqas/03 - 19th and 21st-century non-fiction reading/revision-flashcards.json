@@ -1,0 +1,113 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "No previous deck; self-contained original skill cards",
+  "base_cards": [],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Two-text reading",
+      "front": "How do synthesis and comparison differ?",
+      "back": [
+        "Synthesis brings together relevant information. Comparison explains meaningful similarities or differences, including presentation when the question asks for it."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "A question asks why writers avoid waste. Is a list of metaphors enough?",
+      "back": [
+        "No. Give their reasons for avoiding waste. Analyse methods when they are part of the requested task."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "What is the difference between form and purpose?",
+      "back": [
+        "Form is the kind of text. Purpose is what the writer wants it to achieve; one form can serve several purposes."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "What makes a shared-issue plan useful?",
+      "back": [
+        "It places relevant evidence from both texts beside the same idea, helping produce connected comparisons."
+      ]
+    },
+    {
+      "category": "Evidence",
+      "front": "How do you distinguish a writer’s claim from an established fact?",
+      "back": [
+        "Attribute it accurately: the writer argues, reports or suggests. Assess the evidence supplied rather than treating every assertion as proven."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "Can you assume an older text is more formal?",
+      "back": [
+        "No. Tone must be supported by the actual language and presentation, not only the date."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "Why is “whereas” not enough to make a developed comparison?",
+      "back": [
+        "The connection still needs evidence and explanation of what differs and why that difference matters."
+      ]
+    },
+    {
+      "category": "Evaluation",
+      "front": "How can a concession affect an argument?",
+      "back": [
+        "Acknowledging a real limitation can make a proposal seem more considered or realistic. Explain the particular concession."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "How should an unfamiliar word be approached?",
+      "back": [
+        "Read its sentence and neighbours, identify its grammatical role, and test a meaning against the argument."
+      ]
+    },
+    {
+      "category": "Evidence",
+      "front": "Why must the source of each quotation remain clear?",
+      "back": [
+        "A comparison depends on knowing which writer expresses each idea. Misattribution can reverse the interpretation."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "What should an answer about a writer’s attitude explain?",
+      "back": [
+        "State the attitude, support it with relevant words or choices, and explain how the text conveys it."
+      ]
+    },
+    {
+      "category": "Evaluation",
+      "front": "Should you invent statistics to challenge a source?",
+      "back": [
+        "No. Evaluate the evidence and reasoning actually given, using supported observations rather than fabricated counter-evidence."
+      ]
+    },
+    {
+      "category": "Reading skills",
+      "front": "How does a reason differ from a method?",
+      "back": [
+        "A reason explains why an action is worthwhile. A method explains how it is carried out."
+      ]
+    },
+    {
+      "category": "Comparison",
+      "front": "Must two texts express complete opposites to be compared?",
+      "back": [
+        "No. They may share a broad aim while differing in emphasis, flexibility, tone or method."
+      ]
+    },
+    {
+      "category": "Exam application",
+      "front": "What should a final two-text check include?",
+      "back": [
+        "Check the shared focus, use of both sources, accurate attribution and the requested balance of ideas and methods."
+      ]
+    }
+  ]
+}
