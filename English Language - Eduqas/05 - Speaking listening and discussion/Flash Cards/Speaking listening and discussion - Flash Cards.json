@@ -1,0 +1,89 @@
+{
+  "title": "Speaking listening and discussion flash cards",
+  "cards": [
+    {
+      "category": "Speaking",
+      "front": "What should you identify before answering an audience question?",
+      "back": [
+        "Work out whether it asks for a reason, example, clarification or response to an objection."
+      ]
+    },
+    {
+      "category": "Application",
+      "front": "How can you answer a challenge about cost?",
+      "back": [
+        "Acknowledge the concern, explain a realistic limit or trial, and show how that addresses the proposal’s cost."
+      ]
+    },
+    {
+      "category": "Listening",
+      "front": "Why is repeating your conclusion not always a useful response?",
+      "back": [
+        "It may ignore the particular question. Listening requires responding to the point that was actually raised."
+      ]
+    },
+    {
+      "category": "Rehearsal",
+      "front": "What is a useful speaking cue?",
+      "back": [
+        "A brief prompt for an idea, example or transition, rather than a paragraph that must be read aloud."
+      ]
+    },
+    {
+      "category": "Rehearsal",
+      "front": "Why practise recovery as well as fluency?",
+      "back": [
+        "If a phrase is forgotten, you need to return to the argument naturally instead of stopping or restarting the whole talk."
+      ]
+    },
+    {
+      "category": "Speaking",
+      "front": "How should an unknown answer be handled?",
+      "back": [
+        "Acknowledge what you cannot establish and explain what information would help. Do not invent evidence."
+      ]
+    },
+    {
+      "category": "Audience",
+      "front": "What can a practice listener tell you about organisation?",
+      "back": [
+        "Ask them to identify the main claim and the reasons. Their response shows whether the argument can be followed."
+      ]
+    },
+    {
+      "category": "Delivery",
+      "front": "What is the purpose of a deliberate pause?",
+      "back": [
+        "It gives listeners time to process an important point and gives the speaker time to move to the next idea."
+      ]
+    },
+    {
+      "category": "Assessment",
+      "front": "Does the spoken-language endorsement add to the written GCSE grade?",
+      "back": [
+        "No. It is reported separately as a spoken-language endorsement."
+      ]
+    },
+    {
+      "category": "Discussion",
+      "front": "How can you disagree constructively?",
+      "back": [
+        "Refer accurately to the other person’s point, explain your reason and support it with a relevant example."
+      ]
+    },
+    {
+      "category": "Slides",
+      "front": "Why can a slide full of prose weaken delivery?",
+      "back": [
+        "It encourages reading and divides attention. Short prompts or a useful visual can support rather than duplicate the talk."
+      ]
+    },
+    {
+      "category": "Organisation",
+      "front": "What should an audience understand by the end?",
+      "back": [
+        "They should understand the purpose, the developed main ideas and the final conclusion or request."
+      ]
+    }
+  ]
+}

@@ -25,5 +25,23 @@
   "sources": [
     "../00 - Specification/Eduqas-C700QS-specification.pdf",
     "../00 - Past papers/Sample assessment materials/Eduqas-English-Language-SAMs.pdf"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Speaking listening and discussion - Flash Cards.json",
+    "count": 12,
+    "categories": [
+      "Speaking",
+      "Application",
+      "Listening",
+      "Rehearsal",
+      "Audience",
+      "Delivery",
+      "Assessment",
+      "Discussion",
+      "Slides",
+      "Organisation"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

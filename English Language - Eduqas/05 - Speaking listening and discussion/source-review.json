@@ -1,0 +1,37 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Language - Eduqas",
+  "topic": "05 - Speaking listening and discussion",
+  "official_basis": "English Language - Eduqas/00 - Specification",
+  "pmt": [],
+  "studyrocket": [],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "No matching unit in the reviewed index; official material used instead."
+  },
+  "coverage_decisions": [
+    "PMT/SR reviewed indexes do not provide an exact Eduqas spoken-language course; official endorsement criteria control this topic.",
+    "Do not present written-paper paragraph formulas or word counts as speaking requirements."
+  ],
+  "note_sections_refined": [
+    "Listen and respond thoughtfully",
+    "Use notes, slides and rehearsal purposefully"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "e1bb01e2114d4bcc57af32bfc87fb50e5ccbfb0e4f0c861e508232009d4e4181",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 0,
+    "added": 12,
+    "total": 12,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

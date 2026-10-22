@@ -88,6 +88,12 @@ Rehearse aloud with a timer, leaving room for questions. Practise with someone w
 
 After rehearsal, revise an unclear explanation or remove repetition. Do not simply learn to say an overcrowded script faster. You need enough command of the idea to adapt when a listener asks something unexpected.
 
+### Rehearse the decisions, not only the words
+
+Use brief headings and prompts to remind you of the route through the talk. Rehearse the opening, transitions and ending, but also practise recovering after a missed phrase. A cue such as **cost — existing room — trial** can support a natural answer better than a dense paragraph on a slide.
+
+Check audibility and pace with another listener. Ask them to identify your main claim and the reason for it. If they cannot follow the argument, improve the organisation before adding more visual material.
+
 ## Listen and respond thoughtfully
 
 Listen to the whole question. Identify its central concern before replying. If the wording is unclear, briefly check what the questioner means.
@@ -99,6 +105,14 @@ Use **direct answer → reason → example or qualification**. For *Would a quie
 This recognises the risk and develops the proposal. It does not dodge the objection by repeating the original speech.
 
 If you do not know a fact, say so clearly and explain what would be needed to find out: **“I do not have a staffing cost. The next step would be to ask the school before proposing a timetable.”** Honest limits are more convincing than invented certainty.
+
+### Build an answer to an unprepared question
+
+First identify what is being asked: a reason, clarification, example or challenge. Give a **direct response**, then develop it with an example or qualification. You can pause to think; filling the pause with unrelated prepared material is less useful.
+
+For a challenge such as **Would your proposal cost too much?**, acknowledge the concern and explain how the plan handles it. You might propose using an existing room for a short trial, then evaluating demand before spending more.
+
+If you do not know an answer, state the limit honestly and explain what evidence would help. Listening is demonstrated by engaging with the particular question, not simply repeating your final paragraph.
 
 ## Discuss, refine and reflect
 
@@ -115,3 +129,7 @@ Before the final presentation, check:
 - Readiness to explain, qualify and develop ideas in the questions.
 
 The Q&A includes a complete quiet-space speech and model follow-up responses. Use the relationship between its claim, examples and limitations to develop your own topic.
+
+## Sources
+
+- Official local specification and sample assessment materials; see source-review.json for availability decisions.
