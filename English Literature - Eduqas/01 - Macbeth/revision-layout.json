@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "acts",
-      "title": "Story / Acts",
-      "description": "Follow each act through its key events, analysis and quotations.",
+      "title": "Story overview & Act 1",
+      "description": "The play’s overall journey, temptation and Macbeth’s choice",
       "icon": "nav-book",
       "sections": [
         {
@@ -12,16 +12,48 @@
         },
         {
           "heading": "Act 1 — Temptation and choice"
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-2",
+      "title": "Act 2: murder & disorder",
+      "description": "Duncan’s murder, immediate guilt and disrupted order",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Act 2 — Murder and disorder"
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-3",
+      "title": "Act 3: fear & isolation",
+      "description": "Banquo, the banquet and Macbeth’s growing insecurity",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Act 3 — Fear and isolation"
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-4",
+      "title": "Act 4: false confidence & cruelty",
+      "description": "The apparitions, equivocation and violence against Macduff’s family",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Act 4 — False confidence and cruelty"
-        },
+        }
+      ]
+    },
+    {
+      "id": "act-5",
+      "title": "Act 5: collapse & restoration",
+      "description": "Guilt, failed promises and the defeat of Macbeth",
+      "icon": "nav-book",
+      "sections": [
         {
           "heading": "Act 5 — Collapse and restoration"
         }
@@ -29,8 +61,8 @@
     },
     {
       "id": "story",
-      "title": "Characters",
-      "description": "Explore personalities, motives and relationships.",
+      "title": "Macbeth & Lady Macbeth",
+      "description": "Their ambitions, marriage, changing power and guilt",
       "icon": "nav-people",
       "sections": [
         {
@@ -38,13 +70,29 @@
         },
         {
           "heading": "Lady Macbeth and the marriage"
-        },
+        }
+      ]
+    },
+    {
+      "id": "witches-banquo",
+      "title": "The witches & Banquo",
+      "description": "Temptation, deceptive promises and contrasting choices",
+      "icon": "nav-branch",
+      "sections": [
         {
           "heading": "The witches: temptation and deceptive promises"
         },
         {
           "heading": "Banquo: temptation, integrity and a threatening legacy"
-        },
+        }
+      ]
+    },
+    {
+      "id": "loyalty-kingship",
+      "title": "Macduff, Duncan & Malcolm",
+      "description": "Loyalty, resistance and contrasting models of kingship",
+      "icon": "nav-people",
+      "sections": [
         {
           "heading": "Macduff: loyalty, grief and resistance"
         },
@@ -61,8 +109,8 @@
     },
     {
       "id": "ideas",
-      "title": "Themes and dramatic methods",
-      "description": "Connect repeated images, choices and audience effects.",
+      "title": "Ambition, power & kingship",
+      "description": "Desire for power, tyranny and legitimate rule",
       "icon": "nav-branch",
       "sections": [
         {
@@ -70,21 +118,45 @@
         },
         {
           "heading": "Kingship"
-        },
+        }
+      ]
+    },
+    {
+      "id": "violence-guilt",
+      "title": "Violence & guilt",
+      "description": "How violent choices lead to fear, remorse and collapse",
+      "icon": "nav-conflict",
+      "sections": [
         {
           "heading": "Violence"
         },
         {
           "heading": "Guilt"
-        },
+        }
+      ]
+    },
+    {
+      "id": "gender-appearance",
+      "title": "Gender, appearance & reality",
+      "description": "Expectations, deception and the gap between words and motives",
+      "icon": "nav-eye",
+      "sections": [
         {
           "heading": "Gender"
         },
         {
-          "heading": "The supernatural"
-        },
-        {
           "heading": "Appearance and reality"
+        }
+      ]
+    },
+    {
+      "id": "supernatural-methods",
+      "title": "The supernatural & stagecraft",
+      "description": "Witches, visions and the dramatic choices shaping audience response",
+      "icon": "nav-book",
+      "sections": [
+        {
+          "heading": "The supernatural"
         },
         {
           "heading": "How Shakespeare makes the drama work"
@@ -93,8 +165,8 @@
     },
     {
       "id": "answers",
-      "title": "Quotations and essay writing",
-      "description": "Turn short evidence into clear, developed arguments.",
+      "title": "Quotations & analytical vocabulary",
+      "description": "Flexible evidence and precise words for interpretation",
       "icon": "nav-quote",
       "sections": [
         {
@@ -102,7 +174,15 @@
         },
         {
           "heading": "A small quotation bank with many uses"
-        },
+        }
+      ]
+    },
+    {
+      "id": "essay-writing",
+      "title": "Extracts & whole-play essays",
+      "description": "Develop arguments, connect themes and analyse the question",
+      "icon": "nav-pen",
+      "sections": [
         {
           "heading": "Writing about an extract"
         },
