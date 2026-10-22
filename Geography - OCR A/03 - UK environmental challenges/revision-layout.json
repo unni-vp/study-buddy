@@ -3,13 +3,21 @@
   "groups": [
     {
       "id": "climate-flooding",
-      "title": "Climate & flooding",
-      "description": "UK climate controls, extreme weather and Somerset Levels",
+      "title": "The UK’s climate",
+      "description": "Climate controls and changing conditions",
       "icon": "nav-weather",
       "sections": [
         {
           "heading": "The UK's climate"
-        },
+        }
+      ]
+    },
+    {
+      "id": "somerset-levels",
+      "title": "Somerset Levels flooding",
+      "description": "Causes, effects and management of the floods",
+      "icon": "nav-river",
+      "sections": [
         {
           "heading": "Flooding: Somerset Levels"
         }
@@ -17,13 +25,21 @@
     },
     {
       "id": "resources",
-      "title": "Food, water & energy",
-      "description": "Resource pressures, management and energy choices",
+      "title": "Food, water & energy resources",
+      "description": "Demand, supply and choices about resources",
       "icon": "nav-droplet",
       "sections": [
         {
           "heading": "Food, water and energy"
-        },
+        }
+      ]
+    },
+    {
+      "id": "uk-energy-supply",
+      "title": "The UK’s energy supply",
+      "description": "The energy mix, usage shares and changing supply",
+      "icon": "nav-energy",
+      "sections": [
         {
           "heading": "Changing UK energy supply"
         }
