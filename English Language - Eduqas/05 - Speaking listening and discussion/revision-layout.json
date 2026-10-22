@@ -3,16 +3,24 @@
   "groups": [
     {
       "id": "plan",
-      "title": "Purpose, ideas and organisation",
-      "description": "Key ideas, worked examples and practical choices.",
-      "icon": "nav-plan",
+      "title": "Assessment, purpose & audience",
+      "description": "Know the task and choose a focused speaking purpose",
+      "icon": "nav-speech",
       "sections": [
         {
           "heading": "Know what the assessment involves"
         },
         {
           "heading": "Choose a focused purpose and audience"
-        },
+        }
+      ]
+    },
+    {
+      "id": "organisation",
+      "title": "Develop & organise your talk",
+      "description": "Explain each point and give the audience a clear route through it",
+      "icon": "nav-plan",
+      "sections": [
         {
           "heading": "Develop points rather than list them"
         },
