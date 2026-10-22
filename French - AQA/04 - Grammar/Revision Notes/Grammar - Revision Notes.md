@@ -132,6 +132,29 @@ Future endings: **-ai, -as, -a, -ons, -ez, -ont**. Conditional endings are the i
 
 **Depuis + present:** j'habite ici depuis deux ans — I have lived here for two years and still do. **Venir de + infinitive:** je viens de finir — I have just finished. **Être en train de + infinitive:** je suis en train de lire — I am in the process of reading.
 
+### Choose a tense from the meaning
+
+Read the intended message before choosing an ending. **Yesterday** does not always require only the perfect: an account can combine a background state with a completed event.
+
+**Il pleuvait quand nous sommes arrivés.** — It was raining when we arrived.
+
+- **Pleuvait** gives the background weather.
+- **Sommes arrivés** gives the completed arrival. An all-female group writes **arrivées**.
+
+**Je regardais un film quand mon frère est entré.** — I was watching a film when my brother came in. The imperfect frames the ongoing activity; the perfect introduces the event.
+
+| Intended meaning | Form | Example |
+|---|---|---|
+| A repeated past action | Imperfect | Nous jouions dans le parc. |
+| A completed action | Perfect | Nous avons joué samedi. |
+| A plan | Aller + infinitive | Nous allons jouer demain. |
+| What we will do | Simple future of a regular -er verb | Nous jouerons demain. |
+| What we would like to do | A wish or conditional form | Nous aimerions jouer. |
+
+For regular **-er** future forms, add the future ending to the infinitive. For the conditional, add the imperfect endings to the same infinitive. **Nous jouerons** means we will play; **nous jouerions** means we would play. The extra **i** changes the meaning.
+
+Do not assume every verb of movement uses être. **J'ai marché** and **j'ai voyagé** use avoir. Learn the auxiliary with the particular verb and construction.
+
 ## Pronouns and connected clauses
 
 Pronouns replace repetition, like a label on a box you have already identified.
@@ -146,6 +169,19 @@ Pronouns replace repetition, like a label on a box you have already identified.
 - **Où** links a place/time: le parc où je joue.
 
 **Passive present:** le livre **est écrit par** une journaliste — the book is written by a journalist. The thing acted on is the subject; the participle agrees with it.
+
+### Replace the right noun, in the right position
+
+| Starting sentence | Replacement | Reason |
+|---|---|---|
+| Je regarde les photos. | Je les regarde. | Les replaces the direct object, the photos. |
+| Je parle à mes amis. | Je leur parle. | Leur replaces to my friends. |
+| Je vais visiter le musée. | Je vais le visiter. | The object pronoun belongs before its infinitive. |
+| Je ne regarde pas les photos. | Je ne les regarde pas. | The pronoun stays before the verb inside the negative. |
+
+For a relative clause, ask which word does the action. **Une amie qui travaille** means a friend who works: qui is the subject. **Le livre que je lis** means the book that I read: je is the subject, and que replaces the object.
+
+**Y** commonly replaces a place introduced with à: **Je vais à Paris. J'y vais.** **En** can replace a quantity phrase: **Je veux des pommes. J'en veux deux.** Keep the number when it carries information.
 
 ## Negatives, questions and instructions
 
@@ -165,6 +201,16 @@ Wrap the conjugated verb in the negative: je **ne** mange **pas**; je **n'ai pas
 Questions can use intonation (**Tu aimes lire ?**), est-ce que (**Est-ce que tu aimes lire ?**) or inversion (**Aimes-tu lire ?**). Add a question word: **où, quand, pourquoi, comment, combien, qui, que**.
 
 Commands omit the subject: **Regarde ! Regardez !** Regular -er tu commands omit final -s. Plural nous commands: **Parlons !** — Let's speak. Learn **Va ! Allez ! Fais ! Faites ! Sois ! Soyez !**
+
+### Put the negative around the conjugated verb
+
+**Je ne travaille plus.** — I no longer work.
+
+**Je n'ai pas travaillé.** — I did not work.
+
+**Je ne vais pas travailler.** — I am not going to work.
+
+In the last two examples, the negative surrounds the auxiliary or conjugated aller. It does not surround the participle or final infinitive instead. Keep the message precise: **ne...que** means only; **ne...plus** means no longer.
 
 ## Useful linking patterns
 
@@ -189,3 +235,15 @@ For reading, recognise **in-/im-** (opposite), **-able/-eable**, **-ion/-ation**
 The subject is plural and feminine. Sont agrees with it; allées agrees after être; françaises would be wrong because films is masculine plural.
 
 Check **who, when, verb form, noun gender/number, pronoun reference and negative meaning**. Adding a complicated clause helps only when it communicates the right idea.
+
+## Sources
+
+- [Pluperfect Tense](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/pluperfect-tense).
+- [Complex Grammar](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/complex-grammar).
+- [Articles](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/articles).
+- [Using 'Vous'](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/using-vous).
+- [Siclauses](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/siclauses).
+- [Pronouns](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/pronouns).
+- [Perfect Tense](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/perfect-tense).
+- [Modal Verbs & 'ilfaut'](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/modal-verbs-ilfaut).
+- [Adjectives](https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/adjectives).

@@ -1,0 +1,77 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "04 - Grammar",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Pluperfect Tense",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/pluperfect-tense"
+    },
+    {
+      "title": "Complex Grammar",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/complex-grammar"
+    },
+    {
+      "title": "Articles",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/articles"
+    },
+    {
+      "title": "Using 'Vous'",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/using-vous"
+    },
+    {
+      "title": "Siclauses",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/siclauses"
+    },
+    {
+      "title": "Pronouns",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/pronouns"
+    },
+    {
+      "title": "Perfect Tense",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/perfect-tense"
+    },
+    {
+      "title": "Modal Verbs & 'ilfaut'",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/modal-verbs-ilfaut"
+    },
+    {
+      "title": "Adjectives",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/grammar/adjectives"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "AQA8652 Higher list includes Foundation plus defined additional forms. Do not import pluperfect or subjunctive as required grammar from older StudyRocket units.",
+    "Preserve anchor-verb tables and irregular listed forms; expand tense selection, negatives and object placement.",
+    "Correct any implication that all movement verbs take être; no claim that all reflexive participles agree automatically.",
+    "Clarify the existing heureux card by giving both feminine singular and plural, alongside masculine plural."
+  ],
+  "note_sections_refined": [
+    "Past and future",
+    "Pronouns and connected clauses",
+    "Negatives, questions and instructions"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "05a206c1e102d8ba3693793c1f6b7082265435a9438d12a7514da0994c811846",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 28,
+    "added": 22,
+    "total": 50,
+    "corrected": 1
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

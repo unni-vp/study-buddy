@@ -1,0 +1,390 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing independently curated deck",
+  "base_cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Complete: une fille sportif___.",
+      "back": [
+        "sportive."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: nous ___ français (parler, present).",
+      "back": [
+        "parlons."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: je voudrais.",
+      "back": [
+        "I would like."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ne...plus.",
+      "back": [
+        "No longer / not anymore."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: à + les = ___.",
+      "back": [
+        "aux."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Complete: de + le = ___.",
+      "back": [
+        "du."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: je viens de finir.",
+      "back": [
+        "I have just finished."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Give the past participle of faire.",
+      "back": [
+        "fait."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Give the present nous form of choisir.",
+      "back": [
+        "choisissons."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: mieux.",
+      "back": [
+        "Better (as an adverb)."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Correct: Elle est allé. Ils mange. (perfect then present)",
+      "back": [
+        "Elle est **allée**.",
+        "Ils **mangent**."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je n'ai pas encore mangé.",
+      "back": [
+        "I have not eaten yet.",
+        "The negative is **not yet**, not never."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain the difference between je jouais and j'ai joué.",
+      "back": [
+        "Je jouais: I used to play / was playing; past habit or background.",
+        "J'ai joué: I played / have played; completed action."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Replace les livres with a pronoun: Je regarde les livres.",
+      "back": [
+        "Je **les** regarde.",
+        "Les is a direct object pronoun and goes before regarde."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Replace à mes amis with a pronoun: Je parle à mes amis.",
+      "back": [
+        "Je **leur** parle.",
+        "Parler à takes an indirect object; leur here means to them."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: Je n'ai que deux livres.",
+      "back": [
+        "I only have two books.",
+        "**Ne...que** means only."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Why is son used in son amie when the friend is female?",
+      "back": [
+        "The possessive is before a vowel, so **son** replaces sa. It can mean his friend or her friend."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Translate: J'habite ici depuis trois ans.",
+      "back": [
+        "I have lived here for three years.",
+        "The present with depuis describes something still continuing."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Turn tu regardes into a command, then give the vous command.",
+      "back": [
+        "Regarde ! Regardez !",
+        "The regular -er tu command drops -s; vous keeps -ez."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give the feminine and masculine plural of heureux.",
+      "back": [
+        "Heureuse; heureux.",
+        "The masculine plural already ends in -x."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: We are going to visit a town that is very beautiful.",
+      "back": [
+        "Nous allons visiter une ville qui est très belle.",
+        "**Allons + infinitive**; qui is the relative subject; belle agrees with ville."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: After eating, I watched a film.",
+      "back": [
+        "Après avoir mangé, j'ai regardé un film.",
+        "Use **après avoir + participle**, then the perfect."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: Nobody comes because there are no buses.",
+      "back": [
+        "Personne ne vient parce qu'il n'y a pas de bus.",
+        "Personne is the subject; a negative quantity uses de."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: This letter is written by my sister.",
+      "back": [
+        "Cette lettre est écrite par ma sœur.",
+        "Present **passive**, with écrite agreeing with lettre."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Translate: I want some, but I am not going there.",
+      "back": [
+        "J'en veux, mais je n'y vais pas.",
+        "En replaces the quantity; y replaces the place."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Correct: Elles est gentil. Je veux regarde le film. J'ai quinze années.",
+      "back": [
+        "Elles **sont gentilles**. Je veux **regarder** le film. J'ai quinze **ans**.",
+        "Check subject/adjective agreement, the infinitive after a modal and the age expression."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Translate: Next year, I will work in France. I would like to help people because it is important.",
+      "back": [
+        "L'année prochaine, je travaillerai en France. Je voudrais aider les gens parce que c'est important.",
+        "---",
+        "Travaillerai uses the regular future; voudrais aider expresses a wish; en fits France; the final clause supplies a reason."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Explain the grammar in: Les photos que j'ai prises sont belles.",
+      "back": [
+        "Photos is feminine plural.",
+        "Que is the relative direct object of ai prises.",
+        "The direct object comes before the avoir perfect, so prises agrees with photos.",
+        "Sont and belles agree with the plural subject."
+      ]
+    }
+  ],
+  "updates": [
+    {
+      "front": "Give the feminine and masculine plural of heureux.",
+      "back": [
+        "Feminine singular: heureuse. Feminine plural: heureuses. Masculine plural: heureux.",
+        "The masculine form already ends in -x, so it does not add another plural ending."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Tense choice",
+      "front": "Translate: It was raining when we arrived.",
+      "back": [
+        "Il pleuvait quand nous sommes arrivés.",
+        "Write arrivées for an all-female group."
+      ]
+    },
+    {
+      "category": "Tense choice",
+      "front": "Why can “Il pleuvait” and “nous sommes arrivés” occur together?",
+      "back": [
+        "The imperfect gives the ongoing background. The perfect gives a completed event within it."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: I was watching a film when my brother came in.",
+      "back": [
+        "Je regardais un film quand mon frère est entré."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "How do “nous jouerons” and “nous jouerions” differ?",
+      "back": [
+        "Nous jouerons means we will play. Nous jouerions means we would play."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: J’ai allé au parc.",
+      "back": [
+        "Je suis allé(e) au parc.",
+        "Aller uses être in this construction; its participle agrees with the subject."
+      ]
+    },
+    {
+      "category": "Grammar",
+      "front": "Do all movement verbs use être in the perfect tense?",
+      "back": [
+        "No. Marcher and voyager, for example, use avoir: j’ai marché; j’ai voyagé. Learn the particular auxiliary."
+      ]
+    },
+    {
+      "category": "Pronouns",
+      "front": "Replace le musée: Je vais visiter le musée.",
+      "back": [
+        "Je vais le visiter."
+      ]
+    },
+    {
+      "category": "Pronouns",
+      "front": "Make “Je les regarde” negative.",
+      "back": [
+        "Je ne les regarde pas."
+      ]
+    },
+    {
+      "category": "Relative clauses",
+      "front": "Why is qui used in “une amie qui travaille”?",
+      "back": [
+        "Qui replaces the subject of travaille: the friend does the action."
+      ]
+    },
+    {
+      "category": "Relative clauses",
+      "front": "Why is que used in “le livre que je lis”?",
+      "back": [
+        "Je is the subject of lis. Que replaces its direct object, the book."
+      ]
+    },
+    {
+      "category": "Pronouns",
+      "front": "Replace the place: Je vais à Paris.",
+      "back": [
+        "J’y vais."
+      ]
+    },
+    {
+      "category": "Pronouns",
+      "front": "Replace des pommes while preserving the number: Je veux deux pommes.",
+      "back": [
+        "J’en veux deux."
+      ]
+    },
+    {
+      "category": "Negation",
+      "front": "Translate: I am not going to work.",
+      "back": [
+        "Je ne vais pas travailler."
+      ]
+    },
+    {
+      "category": "Negation",
+      "front": "Translate: I did not work.",
+      "back": [
+        "Je n’ai pas travaillé."
+      ]
+    },
+    {
+      "category": "Negation",
+      "front": "Translate: I only have one brother.",
+      "back": [
+        "Je n’ai qu’un frère."
+      ]
+    },
+    {
+      "category": "Negation",
+      "front": "Translate: I no longer play football.",
+      "back": [
+        "Je ne joue plus au football."
+      ]
+    },
+    {
+      "category": "Grammar",
+      "front": "How do you build the regular -er conditional?",
+      "back": [
+        "Add the imperfect endings to the infinitive, for example parler + ais gives je parlerais."
+      ]
+    },
+    {
+      "category": "Passive",
+      "front": "Translate: The book is written by a journalist.",
+      "back": [
+        "Le livre est écrit par un journaliste.",
+        "Une journaliste is correct for a female journalist."
+      ]
+    },
+    {
+      "category": "Negation",
+      "front": "Translate: Nobody comes.",
+      "back": [
+        "Personne ne vient."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "Translate: I have just finished.",
+      "back": [
+        "Je viens de finir."
+      ]
+    },
+    {
+      "category": "Meaning",
+      "front": "Why does “J’habite ici depuis deux ans” use the present?",
+      "back": [
+        "The action began earlier and still continues: I have lived here for two years."
+      ]
+    },
+    {
+      "category": "Apply French",
+      "front": "Translate: After eating, I am going to work.",
+      "back": [
+        "Après avoir mangé, je vais travailler."
+      ]
+    }
+  ]
+}

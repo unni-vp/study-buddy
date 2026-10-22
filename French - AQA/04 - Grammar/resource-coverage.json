@@ -17,8 +17,25 @@
     "assessment_review": "Original retrieval, grammar and application practice. Short mark groups are practice allocations. Official Higher writing uses a minimum-50-word translation (10 marks), a roughly 90-word response to three bullets (15 marks) and a roughly 150-word response to two bullets (25 marks)."
   },
   "flashcards": {
-    "count": 28,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Grammar - Flash Cards.json",
+    "count": 50,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Tense choice",
+      "Apply French",
+      "Meaning",
+      "Repair",
+      "Grammar",
+      "Pronouns",
+      "Relative clauses",
+      "Negation",
+      "Passive"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",
