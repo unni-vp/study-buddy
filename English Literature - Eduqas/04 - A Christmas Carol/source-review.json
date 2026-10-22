@@ -1,0 +1,74 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Literature - Eduqas",
+  "topic": "04 - A Christmas Carol",
+  "official_basis": "English Literature - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "Overview",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Overview%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/04 - A Christmas Carol/Reference Materials/Overview - A Christmas Carol - Eduqas English Literature GCSE.pdf",
+      "sha256": "ecdd2b57c8c1d9cfebaa7827a551ab1a63f1e52c87bf7ff78e08487953baa240",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Context",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Context%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/04 - A Christmas Carol/Reference Materials/Context - A Christmas Carol - Eduqas English Literature GCSE.pdf",
+      "sha256": "2527f98d5bc9986a3f51ac9722f55a2ffee6fea2cd8939d2da683be232a50032",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Glossary of Key Terms",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Glossary%20of%20Definitions%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/04 - A Christmas Carol/Reference Materials/Glossary of Definitions - A Christmas Carol - Eduqas English Literature GCSE.pdf",
+      "sha256": "61654685c88824a749e5f01be8994dae90bfa9b5773add8c8834b727c5ba568d",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Poverty and Social Injustice",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Themes/Poverty%20and%20Social%20Injustice.pdf",
+      "local_pdf": "English Literature - Eduqas/04 - A Christmas Carol/Reference Materials/Poverty and Social Injustice.pdf",
+      "sha256": "92b57e8700633030fb7799d47eb45062deedfc3ea570f2f10b93b20fb9fae5da",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "The Supernatural",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Themes/The%20Supernatural.pdf",
+      "local_pdf": "English Literature - Eduqas/04 - A Christmas Carol/Reference Materials/The Supernatural.pdf",
+      "sha256": "ef468634e444c21bc63d368308b35e2307121fc0b3144e7dd47e37bb62314cd1",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [],
+  "availability": {
+    "pmt": "Matching Eduqas text references",
+    "studyrocket": "No matching unit in the reviewed index; official material used instead."
+  },
+  "coverage_decisions": [
+    "PMT context, poverty and supernatural coverage used to prompt explanation of narration, allegory and social responsibility.",
+    "StudyRocket’s reviewed AQA Literature index has no matching Christmas Carol unit; record the gap rather than inventing one.",
+    "Retain qualified oyster interpretation, conditional future and all existing stave quotations."
+  ],
+  "note_sections_refined": [
+    "Context, form and imagery",
+    "Marley and the three spirits"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "4cfa53e8c3c5dcae6467bcfddfe5b70d0a657d18b0e938615e0b7e9aaedcd57f",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 26,
+    "added": 12,
+    "total": 38,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

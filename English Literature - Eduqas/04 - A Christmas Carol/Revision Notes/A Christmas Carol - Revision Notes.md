@@ -110,6 +110,17 @@ Abundance, warmth and generosity offer an alternative to hoarding. The spirit re
 
 Darkness, silence and the pointing hand create a frightening contrast with the talkative earlier guides. The spirit teaches through **scenes and withheld explanation**, making Scrooge confront the consequences himself.
 
+### Why their methods are different
+
+| Visitor | How the lesson works | Why it matters to the change |
+|---|---|---|
+| Marley | His self-made chain makes the consequences of selfish choices visible. | He warns that business success alone is not a fulfilled life. |
+| Christmas Past | Familiar places and people revive memories and feelings. | Scrooge can recognise both suffering and the kindness he once valued. |
+| Christmas Present | The spirit shows lives continuing beyond Scrooge's narrow experience. | Particular people replace the distant categories through which he dismisses poverty. |
+| Christmas Yet to Come | Silence and unanswered questions make Scrooge interpret possible consequences. | Fear becomes a decision to act because the future may still change. |
+
+The visitors are therefore not interchangeable decorations. Their **sequence** builds regret, empathy and urgency, preparing the practical changes of the final stave.
+
 ## Bob, Tiny Tim and the Cratchits
 
 **Bob:** a caring father and poorly treated employee. His generosity towards Scrooge at the meal contrasts with the employer's lack of care. **“the Founder of the Feast”** is an ironic toast because Scrooge's low wage makes the meal difficult to provide.
@@ -176,6 +187,14 @@ Scrooge's population language echoes arguments that poor relief could worsen ove
 
 Explain what an image does **at its particular point in the story**. Darkness does not mean exactly the same thing in every passage.
 
+### The narrator helps deliver the lesson
+
+The narrator moves between **humour, direct conversation with the reader and distressing description**. This makes the moral argument more than a sequence of frightening visits. The opening insistence that Marley is dead prepares the ghost story, while playful commentary helps readers engage with Scrooge before judging his choices.
+
+**Allegory** presents an abstract idea through a character or event. Ignorance and Want are not simply two individual children with unusual names. They give education and deprivation a human form, connecting Scrooge's private lesson with wider social duties.
+
+The novella's Christian language of generosity and redemption supports that social argument. **Charity includes everyday relationships**, not only a donation: the final salary increase changes Bob's working life. Do not confuse the historical attitudes Dickens challenges with facts that the narrative endorses.
+
 ## Writing about an extract and the whole novella
 
 Read the task's focus first. Use the extract as part of a wider argument about how Dickens develops the character or idea.
@@ -204,3 +223,10 @@ Use relevant context where it helps explain the chosen evidence. Finish with the
 - Adding a technique name without explaining its effect.
 - Retelling the story instead of answering the task.
 
+## Sources
+
+- [Overview](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Overview%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Context](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Context%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Glossary of Key Terms](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Glossary%20of%20Definitions%20-%20A%20Christmas%20Carol%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Poverty and Social Injustice](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Themes/Poverty%20and%20Social%20Injustice.pdf).
+- [The Supernatural](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/A-Christmas-Carol/Themes/The%20Supernatural.pdf).

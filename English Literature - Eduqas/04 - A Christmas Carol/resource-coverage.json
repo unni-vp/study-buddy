@@ -36,7 +36,21 @@
     "assessment_review": "Eduqas official SAMs Component 2 Question 11 and the current specification verify the 40-mark extract-and-whole-novella response, assessing AO1/AO2/AO3 without a separate AO4 allocation. The two long practice tasks name a starting moment rather than reproducing an exam extract; use the printed passage in the examination. All Dickens quotations are short anchors from the public-domain primary text. The short mark groups are retrieval and analysis practice; no frequency claim is made from one specimen."
   },
   "flashcards": {
-    "count": 26,
-    "source": "Short paired retrieval/application questions"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/A Christmas Carol - Flash Cards.json",
+    "count": 38,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Multi-step application",
+      "Narrative methods",
+      "Structure",
+      "Character",
+      "Context",
+      "Interpretation",
+      "Methods",
+      "Exam application"
+    ],
+    "source": "revision-flashcards.json"
   }
 }
