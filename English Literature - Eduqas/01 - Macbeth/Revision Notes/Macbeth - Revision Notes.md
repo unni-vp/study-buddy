@@ -171,6 +171,12 @@ The prophecies are fulfilled through meanings Macbeth did not expect. His final 
 
 **Turning point:** Macbeth loses both the crown and the future he tried to force into existence. Lady Macbeth's death is reported rather than shown; Malcolm says she is thought to have taken her own life.
 
+### What the doctor can and cannot establish
+
+The doctor observes Lady Macbeth's sleepwalking and repeated actions. He recognises a disturbance that his ordinary medical skills cannot cure. His religious language connects conscience with suffering, but **he does not establish that she is possessed**. Her words return to the crimes the audience already knows, making the scene a revelation of concealed guilt.
+
+Malcolm's final speech promises political repair. Because the play ends before his reign is shown, describe **the prospect of restored order**, rather than claiming that the audience witnesses a successful reign.
+
 ## Macbeth: from defender to tyrant
 
 Macbeth's central conflict is between **ambition and conscience**. He knows murder is wrong but increasingly puts his own power and security ahead of other people's lives.
@@ -610,6 +616,14 @@ Much of the play uses **blank verse**, usually unrhymed iambic pentameter. Do no
 
 Duncan's murder happens **offstage**, focusing attention on anticipation and aftermath. The attack on Macduff's family is brought onto the stage, confronting the audience with innocent suffering. Those choices are part of **dramatic structure**, not merely plot information.
 
+### Hearing a change in control
+
+**Blank verse** is unrhymed verse usually organised around five iambic beats. A beat is a pattern of stress, not simply a count of written words. Listen for how a sentence fits or interrupts its line, then explain the particular effect. An irregular line alone does not prove that a character has lost control.
+
+The witches' **rhyming couplets** can give a speech an enclosed, chant-like ending. In contrast, a **soliloquy** lets an audience follow an argument that is still unfolding. Macbeth's questions and competing reasons in Act 1 make his decision feel like a moral struggle, rather than an instruction he cannot resist.
+
+The **Porter scene** briefly changes the tone after Duncan's murder. Its jokes about admitting sinners to hell make Macbeth's castle seem morally corrupted. The knocking also brings the outside world closer to discovering the crime. Comic relief can therefore increase the significance of the surrounding horror.
+
 ## Useful vocabulary for a precise argument
 
 Use a term when it expresses the idea clearly. The explanation and evidence matter more than an impressive label.
@@ -712,3 +726,11 @@ The essay question is worth **25 marks: 20 for the literary response and 5 for s
 Write connected paragraphs in the exam. A useful paragraph does more than name a technique: it explains why that choice matters here. **An interpretation, evidence and a developed explanation** work together.
 
 For Shakespeare, the assessed focus is your understanding, analysis and writing accuracy. Context can illuminate a reading, but a detached history paragraph takes space away from close analysis. Avoid diagnosing a character or stating Shakespeare's purpose as a proven fact when it is an interpretation.
+
+## Sources
+
+- [Brief Overview](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Brief%20Overview%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Context](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Context%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Glossary of Key Terms](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Glossary%20of%20Key%20Terms%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Gender](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Themes/Gender.pdf).
+- [Guilt, Innocence and Paranoia](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Themes/Guilt,%20Innocence%20and%20Paranoia.pdf).

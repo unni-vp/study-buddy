@@ -71,5 +71,21 @@
     "02-power-and-guilt",
     "03-deception-and-gender",
     "04-drama-and-exam-writing"
-  ]
+  ],
+  "flashcards": {
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Macbeth - Flash Cards.json",
+    "count": 72,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Story and choice",
+      "Methods",
+      "Character",
+      "Quotation analysis",
+      "Exam application",
+      "Interpretation"
+    ],
+    "source": "revision-flashcards.json"
+  }
 }

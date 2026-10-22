@@ -1,0 +1,543 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing short self-contained Q&A prompts, checked alongside new original topic cards",
+  "base_cards": [
+    {
+      "category": "Quick recall",
+      "front": "Who is King of Scotland when the play begins?",
+      "back": [
+        "Duncan."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which new title does Macbeth receive soon after meeting the witches?",
+      "back": [
+        "Thane of Cawdor."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Whose descendants do the witches predict will become kings?",
+      "back": [
+        "Banquo’s."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who escapes when Banquo is murdered?",
+      "back": [
+        "Fleance."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who discovers Duncan’s body?",
+      "back": [
+        "Macduff."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who becomes king at the end of the play?",
+      "back": [
+        "Malcolm."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who describes his own motive as “vaulting ambition”?",
+      "back": [
+        "Macbeth."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who says “Out, damned spot”?",
+      "back": [
+        "Lady Macbeth."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which wood appears to move towards Dunsinane?",
+      "back": [
+        "Birnam Wood."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Whose ghost does Macbeth see at the banquet?",
+      "back": [
+        "Banquo’s."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who kills Macbeth?",
+      "back": [
+        "Macduff."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the term for a speech in which a character speaks private thoughts aloud, usually while alone?",
+      "back": [
+        "Soliloquy."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is the term for a situation in which the audience knows something a character does not?",
+      "back": [
+        "Dramatic irony."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Complete Lady Macbeth’s image: look like the “innocent flower”, but be the what beneath it?",
+      "back": [
+        "Serpent."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Does the audience see Duncan being murdered onstage?",
+      "back": [
+        "No. The murder happens offstage."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who warns Macbeth about the “instruments of darkness”?",
+      "back": [
+        "Banquo."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Who says “Turn, hellhound, turn!”?",
+      "back": [
+        "Macduff."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which apparition gives the promise about “none of woman born”?",
+      "back": [
+        "The Second Apparition."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is regicide?",
+      "back": [
+        "The murder of a king."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is usurpation?",
+      "back": [
+        "Taking power without a legitimate right."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What does hubris mean?",
+      "back": [
+        "Excessive pride or overconfidence."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "What is hamartia?",
+      "back": [
+        "A tragic error or flaw contributing to downfall."
+      ]
+    },
+    {
+      "category": "Quick recall",
+      "front": "Which title does Duncan give Malcolm when naming his successor?",
+      "back": [
+        "Prince of Cumberland."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Give two duties Macbeth has towards Duncan before the murder.",
+      "back": [
+        "As Duncan’s **subject**, Macbeth owes him loyalty.",
+        "As Duncan’s **host**, Macbeth should protect him.",
+        "He is also Duncan’s relative, giving him a further reason to protect him."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does “Stars, hide your fires” suggest about Macbeth’s desires?",
+      "back": [
+        "He wants darkness to **conceal** his ambition.",
+        "Wanting to hide it suggests that he recognises it is **morally wrong**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the image “vaulting ambition”.",
+      "back": [
+        "Ambition is compared to **leaping too far**, like a rider overshooting.",
+        "It suggests that excessive ambition can cause a **fall**, anticipating Macbeth’s destruction."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does Lady Macbeth use Macbeth’s ideas about manhood to influence him?",
+      "back": [
+        "“When you durst do it, then you were a man” makes murder a test of **masculinity**.",
+        "She pressures him to prove his courage instead of following his moral objections."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How do Macbeth’s “ocean” and Lady Macbeth’s “little water” present different responses to Duncan’s murder?",
+      "back": [
+        "Macbeth imagines an entire ocean cannot remove his **guilt**.",
+        "Lady Macbeth treats it as a small, practical problem of washing away the **evidence**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does Macbeth mean by a “fruitless crown”?",
+      "back": [
+        "He fears that his kingship will not produce a lasting **dynasty** for his family.",
+        "Banquo’s predicted descendants make the crown feel insecure and unfulfilling."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain one effect of “full of scorpions is my mind”.",
+      "back": [
+        "The **metaphor** fills Macbeth’s mind with painful, poisonous creatures.",
+        "It makes his anxiety seem like torment from which he cannot escape."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does the banquet scene expose the weakness of Macbeth’s authority?",
+      "back": [
+        "His response to Banquo’s ghost makes him lose control in front of his guests.",
+        "The public display of fear undermines the appearance of a confident, secure king."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does “Be innocent of the knowledge, dearest chuck” show a change in the Macbeths’ relationship?",
+      "back": [
+        "Macbeth withholds the details of the murder plan from Lady Macbeth.",
+        "This contrasts with their earlier **partnership** and shows her growing exclusion."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is the attack on Macduff’s family important to the presentation of Macbeth?",
+      "back": [
+        "It shows his violence targeting **innocent, vulnerable people**.",
+        "The audience sees the human cost of his **tyranny**, beyond his own fears."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What alternative view of masculinity does Macduff express in “I must also feel it as a man”?",
+      "back": [
+        "Being a man includes feeling **grief and love**, not hiding them.",
+        "His response challenges the idea that courage requires emotional hardness."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How is the prophecy about Birnam Wood fulfilled?",
+      "back": [
+        "Malcolm’s soldiers carry branches to **conceal their numbers**.",
+        "Their advance makes the wood appear to move towards Dunsinane."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does the promise about “none of woman born” fail to protect Macbeth from Macduff?",
+      "back": [
+        "Macduff reveals that he was cut from his mother’s womb: “Untimely ripped”.",
+        "This fulfils the prophecy in a way Macbeth did not expect, exposing its **misleading reassurance**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does Lady Macbeth’s hand-rubbing connect with her earlier response to guilt?",
+      "back": [
+        "It echoes her earlier claim that “A little water” could clear the deed.",
+        "Her inability to remove the imagined stain shows that **guilt cannot simply be washed away**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does “Life’s but a walking shadow” suggest about Macbeth near the end?",
+      "back": [
+        "A shadow has little substance and does not last.",
+        "The **metaphor** expresses his feeling that life and his achievements have become empty."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does Banquo mean by keeping his “allegiance clear”?",
+      "back": [
+        "He wants to keep his **loyalty untainted**.",
+        "He will not gain honour by sacrificing his **conscience**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why does Banquo’s question about his own “oracles” complicate his character?",
+      "back": [
+        "He hopes the witches’ promise for his descendants will be true.",
+        "He is **tempted**, although he does not commit murder to make it happen."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does calling Macbeth “wicked” change his opening reputation?",
+      "back": [
+        "It contrasts with the Captain’s praise of “brave Macbeth”.",
+        "Even a witch now identifies the former defender as a source of **evil**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the contrast between “innocent flower” and “serpent”.",
+      "back": [
+        "The flower suggests a harmless **appearance**.",
+        "The serpent represents the concealed **danger and betrayal** underneath."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does Lady Macbeth’s reference to her father reveal?",
+      "back": [
+        "Duncan’s resemblance to her father stops her from killing him herself.",
+        "It reveals an emotional limit to the **cruelty** she tries to perform."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does “king-becoming graces” suggest about good leadership?",
+      "back": [
+        "A king needs **moral qualities**, such as justice and mercy.",
+        "Holding a royal title is not enough to make someone a **worthy ruler**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does “blood will have blood” develop the violence theme?",
+      "back": [
+        "The repeated word suggests that bloodshed produces further **bloodshed and consequences**.",
+        "Macbeth fears retaliation, but continues the violence that creates it."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How do regicide and usurpation describe different parts of Macbeth’s rise?",
+      "back": [
+        "**Regicide** names the killing of Duncan.",
+        "**Usurpation** names Macbeth’s seizure of the crown without a legitimate right."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Explain the religious metaphor “The Lord’s anointed temple” in Act 2, Scene 3.",
+      "back": [
+        "Macduff compares Duncan’s body to a **sacred building**.",
+        "Its violation presents the murder as an attack on sacred authority, as well as a political crime."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "Why is it useful to call the witches catalysts rather than the sole cause of Duncan’s murder?",
+      "back": [
+        "Their predictions **encourage Macbeth’s ambition** and speed up events.",
+        "They do not command the murder: Macbeth understands the objections and **chooses** to act."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "What does Macbeth’s “full of scorpions” metaphor reveal after he becomes king?",
+      "back": [
+        "The poisonous creatures make his thoughts seem **painful and dangerous**.",
+        "Gaining power has produced **insecurity**, which encourages further violence, rather than peace."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How does Malcolm’s test of Macduff differ from Duncan’s earlier judgement?",
+      "back": [
+        "Duncan trusts men who betray him, while Malcolm **tests loyalty** before accepting it.",
+        "Macduff’s distress at the prospect of another bad ruler shows that he puts **Scotland before personal allegiance**."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "When answering the 15-mark extract question, how should you use evidence?",
+      "back": [
+        "Select words, actions or shifts from **across the printed passage**.",
+        "Explain their meanings and effects while keeping the answer focused on that passage."
+      ]
+    },
+    {
+      "category": "Explain and compare",
+      "front": "How can you connect violence to a question about Macbeth’s ambition?",
+      "back": [
+        "Explain how the desire for the crown leads to **Duncan’s murder**.",
+        "Then show that fear of losing power drives further killing; keep the violence linked to the question’s focus."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Story and choice",
+      "front": "Why does Duncan naming Malcolm matter to Macbeth?",
+      "back": [
+        "Malcolm becomes the named heir. Macbeth sees a new obstacle between his desire and the crown, so his response exposes ambition beneath outward loyalty."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "How does the Porter scene contribute beyond comic relief?",
+      "back": [
+        "The imagined gate of hell connects the castle to moral corruption. The knocking also increases the threat that the hidden crime will be discovered."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "What is blank verse?",
+      "back": [
+        "It is unrhymed verse, usually using iambic pentameter: five beats built around an unstressed–stressed pattern."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "Why is naming blank verse alone insufficient analysis?",
+      "back": [
+        "You must explain how the actual rhythm, wording or line arrangement shapes meaning in that passage. Not every line follows a perfectly regular pattern."
+      ]
+    },
+    {
+      "category": "Character",
+      "front": "How does Macbeth change between his first and second visits to the witches?",
+      "back": [
+        "At first he encounters them while returning from battle. Later he actively seeks their predictions, showing a growing dependence on supposed certainty."
+      ]
+    },
+    {
+      "category": "Quotation analysis",
+      "front": "Analyse “false face must hide what the false heart doth know”.",
+      "back": [
+        "The repeated “false” links outward performance with inward dishonesty. Macbeth deliberately chooses concealment, so the line preserves his responsibility for the crime."
+      ]
+    },
+    {
+      "category": "Quotation analysis",
+      "front": "What does “To be thus is nothing, but to be safely thus” reveal?",
+      "back": [
+        "The repeated “thus” refers to kingship, but “safely” makes security the new demand. Gaining the crown has intensified fear instead of ending ambition."
+      ]
+    },
+    {
+      "category": "Character",
+      "front": "How does excluding Lady Macbeth from the Banquo plot develop their relationship?",
+      "back": [
+        "Macbeth begins directing violence without sharing his full plans. Their earlier cooperation gives way to secrecy and emotional separation."
+      ]
+    },
+    {
+      "category": "Story and choice",
+      "front": "Why does Fleance escaping matter?",
+      "back": [
+        "Macbeth cannot secure the future he wants. The escape leaves Banquo’s promised line a threat and prevents the murder from giving Macbeth lasting reassurance."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "Why should the dagger and Banquo’s ghost not be treated as identical stage events?",
+      "back": [
+        "The dagger belongs to a private speech before the murder. The ghost interrupts a public banquet after Banquo’s death, exposing Macbeth’s disturbance to his guests."
+      ]
+    },
+    {
+      "category": "Character",
+      "front": "Why is Banquo a foil rather than simply Macbeth’s opposite?",
+      "back": [
+        "Both are interested in the predictions, but Banquo voices caution and does not murder to fulfil them. Their shared temptation makes their different choices significant."
+      ]
+    },
+    {
+      "category": "Quotation analysis",
+      "front": "How does “Bleed, bleed, poor country!” develop kingship?",
+      "back": [
+        "Repetition and personification make Scotland seem like an injured body. The focus moves from Macbeth’s private security to suffering under his rule."
+      ]
+    },
+    {
+      "category": "Quotation analysis",
+      "front": "How does Macduff challenge a violent definition of manhood?",
+      "back": [
+        "He insists “I must also feel it as a man”. The line joins masculine identity with grief and compassion, rather than treating emotion as weakness."
+      ]
+    },
+    {
+      "category": "Character",
+      "front": "What can we safely conclude from the doctor’s response to Lady Macbeth?",
+      "back": [
+        "He observes disturbed behaviour and recognises the limits of medicine. The scene links her suffering to conscience, but does not prove supernatural possession."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "How does the sleepwalking scene reverse Lady Macbeth’s earlier control?",
+      "back": [
+        "Earlier she directs Macbeth and treats washing as a practical solution. Later her repeated actions and broken speech cannot remove the imagined stain."
+      ]
+    },
+    {
+      "category": "Story and choice",
+      "front": "What distinction matters when discussing Malcolm’s ending?",
+      "back": [
+        "He promises restoration and invites the nobles to his coronation. The play does not show the results of his reign."
+      ]
+    },
+    {
+      "category": "Exam application",
+      "front": "How should evidence differ between the extract and whole-play tasks?",
+      "back": [
+        "The extract answer analyses the printed passage closely. The whole-play essay selects relevant moments from across the play to develop its argument."
+      ]
+    },
+    {
+      "category": "Quotation analysis",
+      "front": "How does clothing imagery present insecure authority?",
+      "back": [
+        "Images of borrowed or badly fitting clothing suggest that possessing a title does not make Macbeth fit for the role. Link the particular image to its speaker and moment."
+      ]
+    },
+    {
+      "category": "Methods",
+      "front": "What is the difference between an aside and a soliloquy?",
+      "back": [
+        "An aside is spoken so that other characters are conventionally not hearing it. A soliloquy presents an extended private train of thought; both give the audience privileged access."
+      ]
+    },
+    {
+      "category": "Interpretation",
+      "front": "Why should the witches not remove Macbeth’s responsibility in an essay?",
+      "back": [
+        "Their predictions influence his expectations, but they do not command Duncan’s murder. His debates, concealment and later independent plots show repeated choices."
+      ]
+    }
+  ]
+}

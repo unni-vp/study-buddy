@@ -1,0 +1,73 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Literature - Eduqas",
+  "topic": "01 - Macbeth",
+  "official_basis": "English Literature - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "Brief Overview",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Brief%20Overview%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/01 - Macbeth/Reference Materials/Brief Overview - Macbeth - Eduqas English Literature GCSE.pdf",
+      "sha256": "50bbdf782e98fc10d8a62e13c8f3edf5e7bb240c02143a7306eae2ef89944f87",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Context",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Context%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/01 - Macbeth/Reference Materials/Context - Macbeth - Eduqas English Literature GCSE.pdf",
+      "sha256": "3ddd0f2ce4034a99eee0fa928099ded68ea69bcd5d91c8fbddba9a91b10550af",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Glossary of Key Terms",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Glossary%20of%20Key%20Terms%20-%20Macbeth%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/01 - Macbeth/Reference Materials/Glossary of Key Terms - Macbeth - Eduqas English Literature GCSE.pdf",
+      "sha256": "268ea714c2901ae65c6805d3ece003f0cb2813dbe21cac58c53ab163c19e5c69",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Gender",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Themes/Gender.pdf",
+      "local_pdf": "English Literature - Eduqas/01 - Macbeth/Reference Materials/Gender.pdf",
+      "sha256": "053fafafdf756aa2367c7c4d5cd64c194f86f5ba695ebab2666e27b6a39a2f96",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Guilt, Innocence and Paranoia",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/Macbeth/Themes/Guilt,%20Innocence%20and%20Paranoia.pdf",
+      "local_pdf": "English Literature - Eduqas/01 - Macbeth/Reference Materials/Guilt, Innocence and Paranoia.pdf",
+      "sha256": "479211182854c748dbfbf74b461050153c52aad38eee2fc22acd0276e56367b8",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [],
+  "availability": {
+    "pmt": "Matching Eduqas text references",
+    "studyrocket": "No matching unit in the reviewed index; official material used instead."
+  },
+  "coverage_decisions": [
+    "PMT overview contains overconfident claims about possession and the final coronation; use the observed scene and the prospect of restoration instead.",
+    "Retain existing seven-theme organisation, concise character notes, all quotations and extract/whole-play distinction.",
+    "StudyRocket AQA Literature index has no matching Macbeth unit; do not invent an exact-board source."
+  ],
+  "note_sections_refined": [
+    "How Shakespeare makes the drama work",
+    "Act 5 — Collapse and restoration"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "ff64c64b627b830539f118dbdd066083eee48305b1a6cf3c15ab868539bd6ee1",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": true,
+    "base_count": 52,
+    "added": 20,
+    "total": 72
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
