@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "bonds",
-      "title": "Bonding & particle models",
-      "description": "Ionic and covalent bonding, states and properties",
+      "title": "Chemical bonding",
+      "description": "Ionic, covalent and metallic bonding",
       "icon": "nav-bond",
       "sections": [
         {
@@ -15,7 +15,15 @@
         },
         {
           "heading": "Covalent molecules"
-        },
+        }
+      ]
+    },
+    {
+      "id": "states",
+      "title": "States & particle models",
+      "description": "Explain state changes and physical properties",
+      "icon": "nav-particles",
+      "sections": [
         {
           "heading": "States and explaining properties"
         }
@@ -24,7 +32,7 @@
     {
       "id": "materials",
       "title": "Structures & materials",
-      "description": "Carbon, metals, polymers and nanoparticles",
+      "description": "Polymers, carbon structures, metals and alloys",
       "icon": "nav-molecule",
       "sections": [
         {
@@ -35,7 +43,15 @@
         },
         {
           "heading": "Metals and alloys"
-        },
+        }
+      ]
+    },
+    {
+      "id": "nanoparticles",
+      "title": "Nanoparticles",
+      "description": "Size, surface area, uses and risks",
+      "icon": "nav-microscope",
+      "sections": [
         {
           "heading": "Nanoparticles"
         }
