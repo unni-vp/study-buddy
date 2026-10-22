@@ -27,8 +27,8 @@
     },
     {
       "id": "medicines",
-      "title": "Medicines & antibodies",
-      "description": "Drug testing, antibiotics and targeted antibodies",
+      "title": "Medicines & drug development",
+      "description": "Antibiotics, drug discovery and clinical testing",
       "icon": "nav-medicine",
       "sections": [
         {
@@ -36,7 +36,18 @@
         },
         {
           "heading": "Developing new drugs"
-        },
+        }
+      ],
+      "maps": [
+        "03-medicines-and-antibodies"
+      ]
+    },
+    {
+      "id": "antibodies",
+      "title": "Monoclonal antibodies",
+      "description": "Production, uses and limitations of targeted antibodies",
+      "icon": "nav-shield",
+      "sections": [
         {
           "heading": "Monoclonal antibodies"
         }
