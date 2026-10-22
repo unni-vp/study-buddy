@@ -3,8 +3,8 @@
   "groups": [
     {
       "id": "stores",
-      "title": "Stores and calculations",
-      "description": "Track transfers and calculate energy, power and efficiency.",
+      "title": "Energy stores & calculations",
+      "description": "Identify stores and calculate changes in stored energy",
       "icon": "nav-battery",
       "sections": [
         {
@@ -12,7 +12,15 @@
         },
         {
           "heading": "Calculating changes in stores"
-        },
+        }
+      ]
+    },
+    {
+      "id": "efficiency-power",
+      "title": "Conservation, efficiency & power",
+      "description": "Follow energy transfers and calculate efficiency and power",
+      "icon": "nav-energy",
+      "sections": [
         {
           "heading": "Conservation, dissipation and efficiency"
         },
