@@ -1,0 +1,297 @@
+{
+  "reviewed": "2026-10-22",
+  "base_origin": "Existing independently curated deck",
+  "base_cards": [
+    {
+      "category": "Vocabulary",
+      "front": "Translate: où ?",
+      "back": [
+        "Where?"
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: quand ?",
+      "back": [
+        "When?"
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: pourquoi ?",
+      "back": [
+        "Why?"
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: combien ?",
+      "back": [
+        "How much / how many?"
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: au premier plan.",
+      "back": [
+        "In the foreground."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: à l'arrière-plan.",
+      "back": [
+        "In the background."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "How many photos are on the photo card?",
+      "back": [
+        "Two."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Is reading the text aloud allowed in supervised preparation?",
+      "back": [
+        "No."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: ils ont l'air contents.",
+      "back": [
+        "They look happy."
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "front": "Translate: je voudrais.",
+      "back": [
+        "I would like."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask in French where the station is.",
+      "back": [
+        "Où est la gare ?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask in French how much a ticket costs.",
+      "back": [
+        "Combien coûte le billet ?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask in French when the train leaves.",
+      "back": [
+        "À quelle heure part le train ?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Request a room for two people in French.",
+      "back": [
+        "Je voudrais une chambre pour deux personnes."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Say in French that you prefer the train because it is comfortable.",
+      "back": [
+        "Je préfère le train parce que c'est confortable."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Say in French that yesterday you visited a museum.",
+      "back": [
+        "Hier, j'ai visité un musée."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Say in French that tomorrow you are going to play tennis.",
+      "back": [
+        "Demain, je vais jouer au tennis."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Ask politely in French for repetition.",
+      "back": [
+        "Vous pouvez répéter, s'il vous plaît ?"
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "For a written scene prompt showing people playing in a park, give one accurate photo-description sentence.",
+      "back": [
+        "Sur la photo, les personnes jouent dans un parc.",
+        "Describe the supplied action and setting without inventing identities."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Explain why ils ont l'air contents is safer than stating the people's exact feelings as facts.",
+      "back": [
+        "It means they **look** happy, so it presents an inference from their appearance rather than claiming certain knowledge of their feelings."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Why does a reply to pourquoi need more than j'aime le sport?",
+      "back": [
+        "Pourquoi asks **why**. Add a reason, such as parce que c'est amusant."
+      ]
+    },
+    {
+      "category": "Meaning and grammar",
+      "front": "Give two sound checks before reading aloud.",
+      "back": [
+        "Check u/ou and nasal vowels; check silent endings and possible liaison."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Answer in French: Qu'est-ce que tu as fait le week-end dernier ? Include an activity and a reaction with a reason.",
+      "back": [
+        "Le week-end dernier, j'ai joué au tennis avec mon ami. C'était amusant parce que nous avons gagné notre match.",
+        "---",
+        "The completed activity answers the past question; the reaction is developed with a reason."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Answer in French: Qu'est-ce que tu vas faire pendant les vacances ? Include a plan and a reason.",
+      "back": [
+        "Je vais visiter ma grand-mère pendant les vacances parce que j'aime passer du temps avec elle. Nous allons préparer un repas ensemble.",
+        "---",
+        "Vais visiter fits the future; the reason and shared activity develop the answer."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "Explain three useful actions in the 15-minute preparation.",
+      "back": [
+        "Read each role-play instruction and prepare the exact information or question.",
+        "Read the aloud text silently and identify sound groups/phrasing.",
+        "Prepare relevant visible details for both photos."
+      ]
+    },
+    {
+      "category": "Apply the language",
+      "front": "For two written scene prompts—people playing in a park; people eating inside—give one statement about each and a supported contrast.",
+      "back": [
+        "Sur la première photo, les personnes jouent dans un parc. Sur la deuxième photo, les personnes mangent à l'intérieur. La première scène est dehors, tandis que la deuxième est dedans.",
+        "---",
+        "Both scenes are addressed; the contrast follows the supplied locations."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Answer in French: Que penses-tu de ton quartier ? Give a view, a reason, a local detail and a drawback.",
+      "back": [
+        "J'aime mon quartier parce qu'il est calme. Il y a un parc où je retrouve mes amis. Cependant, il n'y a pas assez de bus.",
+        "---",
+        "The opinion answers directly; a reason, an example and a contrast add relevant detail."
+      ]
+    },
+    {
+      "category": "Develop a response",
+      "front": "Correct four problems in this speaking plan: describe one photo only; read the text aloud in preparation; answer an 'ask a price' prompt with a price; memorise only one theme.",
+      "back": [
+        "Describe **both** photos.",
+        "Read silently in supervised preparation.",
+        "Ask **Combien coûte... ?** when instructed to ask a price.",
+        "Prepare to communicate across all three themes."
+      ]
+    }
+  ],
+  "updates": [],
+  "additions": [
+    {
+      "category": "Role-play",
+      "front": "State that the room is too noisy.",
+      "back": [
+        "La chambre est trop bruyante."
+      ]
+    },
+    {
+      "category": "Role-play",
+      "front": "Why can a short accurate sentence be better than a long prepared speech?",
+      "back": [
+        "It completes the precise instruction clearly. Extra unrelated material can obscure the requested message."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "What time frame does “Qu’est-ce que tu as fait le week-end dernier ?” require?",
+      "back": [
+        "A completed past account: what you did last weekend."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "Give a developed reply about playing tennis last weekend.",
+      "back": [
+        "J’ai joué au tennis avec mes amis. C’était agréable parce qu’il faisait beau.",
+        "I played tennis with my friends. It was pleasant because the weather was nice."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "What should come before a reason or extra detail?",
+      "back": [
+        "A direct answer to the actual question."
+      ]
+    },
+    {
+      "category": "Reading aloud",
+      "front": "What should you identify during silent preparation?",
+      "back": [
+        "Identify phrase groups, difficult sound spellings, silent endings and permitted liaison, while checking the text’s meaning."
+      ]
+    },
+    {
+      "category": "Photos",
+      "front": "Why should “ils ont l’air contents” be treated as an impression?",
+      "back": [
+        "It means they look happy. An image may suggest a feeling, but does not prove what the people think."
+      ]
+    },
+    {
+      "category": "Photos",
+      "front": "What must a description include across the two photographs?",
+      "back": [
+        "Include relevant detail about both photographs. Do not spend the entire description on only one."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "How much supervised preparation does Higher French speaking have?",
+      "back": [
+        "Fifteen minutes."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "Can the reading-aloud text be rehearsed aloud during supervised preparation?",
+      "back": [
+        "No. Preparation is silent."
+      ]
+    },
+    {
+      "category": "Preparation",
+      "front": "Why must all three current themes be prepared?",
+      "back": [
+        "Unprepared questions are not preselected personal topics. You need flexible language across the course."
+      ]
+    }
+  ]
+}

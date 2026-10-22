@@ -210,6 +210,84 @@
         "Ask **Combien coûte... ?** when instructed to ask a price.",
         "Prepare to communicate across all three themes."
       ]
+    },
+    {
+      "category": "Role-play",
+      "front": "State that the room is too noisy.",
+      "back": [
+        "La chambre est trop bruyante."
+      ]
+    },
+    {
+      "category": "Role-play",
+      "front": "Why can a short accurate sentence be better than a long prepared speech?",
+      "back": [
+        "It completes the precise instruction clearly. Extra unrelated material can obscure the requested message."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "What time frame does “Qu’est-ce que tu as fait le week-end dernier ?” require?",
+      "back": [
+        "A completed past account: what you did last weekend."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "Give a developed reply about playing tennis last weekend.",
+      "back": [
+        "J’ai joué au tennis avec mes amis. C’était agréable parce qu’il faisait beau.",
+        "I played tennis with my friends. It was pleasant because the weather was nice."
+      ]
+    },
+    {
+      "category": "Conversation",
+      "front": "What should come before a reason or extra detail?",
+      "back": [
+        "A direct answer to the actual question."
+      ]
+    },
+    {
+      "category": "Reading aloud",
+      "front": "What should you identify during silent preparation?",
+      "back": [
+        "Identify phrase groups, difficult sound spellings, silent endings and permitted liaison, while checking the text’s meaning."
+      ]
+    },
+    {
+      "category": "Photos",
+      "front": "Why should “ils ont l’air contents” be treated as an impression?",
+      "back": [
+        "It means they look happy. An image may suggest a feeling, but does not prove what the people think."
+      ]
+    },
+    {
+      "category": "Photos",
+      "front": "What must a description include across the two photographs?",
+      "back": [
+        "Include relevant detail about both photographs. Do not spend the entire description on only one."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "How much supervised preparation does Higher French speaking have?",
+      "back": [
+        "Fifteen minutes."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "Can the reading-aloud text be rehearsed aloud during supervised preparation?",
+      "back": [
+        "No. Preparation is silent."
+      ]
+    },
+    {
+      "category": "Preparation",
+      "front": "Why must all three current themes be prepared?",
+      "back": [
+        "Unprepared questions are not preselected personal topics. You need flexible language across the course."
+      ]
     }
   ]
 }

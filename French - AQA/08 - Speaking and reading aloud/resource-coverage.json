@@ -16,8 +16,22 @@
     "assessment_review": "Original speaking phrase practice and one five-task, 10-mark role-play. Short 1–4 mark groups are practice allocations. The two scene prompts are written contexts, not substitutes for the official two-photo card. Current assessment is role-play 10; reading aloud 5 plus holistic four-question conversation 10; photo description 5 plus unprepared conversation communication 15/language 5. No old-course prepared general-conversation model is used."
   },
   "flashcards": {
-    "count": 28,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Speaking and reading aloud - Flash Cards.json",
+    "count": 39,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Role-play",
+      "Conversation",
+      "Reading aloud",
+      "Photos",
+      "Exam format",
+      "Preparation"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",

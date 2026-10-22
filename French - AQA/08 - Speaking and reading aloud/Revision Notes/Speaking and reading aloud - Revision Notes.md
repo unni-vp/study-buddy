@@ -31,6 +31,16 @@ Each role-play task is worth **2 marks**. Follow its English instruction and giv
 
 If asked about yesterday, use a past form. If asked to request something, **je voudrais + noun/infinitive** is useful. Include all details in the prompt: a room **for two people** needs **pour deux personnes**.
 
+### Let the instruction decide how much to say
+
+| Instruction | Response that does the job | Why it fits |
+|---|---|---|
+| Ask how much the ticket costs. | Combien coûte le billet ? | It is a question about the specified price. |
+| Say what the problem is. | La chambre est trop bruyante. | It identifies a clear problem. |
+| Ask for a room for two people. | Je voudrais une chambre pour deux personnes. | It includes the required number of people. |
+
+A role-play request does not need an unrelated account of your last holiday. Longer conversation answers do need development, but the **purpose of this short task is precise communication**.
+
 ## Reading aloud with meaning
 
 The Higher text has **at least 50 words**. Pronunciation is worth **5 marks**. The following four compulsory questions form a conversation marked **as a whole for 10 marks**, rather than separate identical marks per reply.
@@ -89,6 +99,16 @@ Useful time frames:
 - **Demain, je vais...** — tomorrow, I am going to...
 - **À l'avenir, j'aimerais...** — in future, I would like...
 
+### Respond to the question before expanding
+
+**Question:** Qu'est-ce que tu as fait le week-end dernier ?
+
+**Response:** J'ai joué au tennis avec mes amis. C'était agréable parce qu'il faisait beau. Normalement, nous jouons dans un parc près de chez moi.
+
+I played tennis with my friends. It was pleasant because the weather was nice. Normally, we play in a park near my home.
+
+The first sentence answers the past-tense question. The later details develop the experience without losing the focus. A memorised present-tense opinion would not answer what you did last weekend.
+
 ## Listening and recovering
 
 Question clues: **Qu'est-ce que tu as fait ?** asks what you did; **Qu'est-ce que tu vas faire ?** asks what you are going to do; **Pourquoi ?** needs a reason.
@@ -105,3 +125,10 @@ If a word disappears from memory, simplify: **c'est utile**, **je peux aider**, 
 - Using yesterday with a present-tense account throughout.
 - Reading the text aloud during the supervised preparation period.
 - Speaking so quickly that otherwise correct sounds become unclear.
+
+## Sources
+
+- [Photo Card](https://studyrocket.co.uk/revision/gcse-french-aqa/speaking-exam/photo-card).
+- [General Conversation](https://studyrocket.co.uk/revision/gcse-french-aqa/speaking-exam/general-conversation).
+- [Speaking Exam](https://studyrocket.co.uk/revision/gcse-french-aqa/speaking-exam/speaking-exam).
+- [Role Play](https://studyrocket.co.uk/revision/gcse-french-aqa/speaking-exam/role-play).
