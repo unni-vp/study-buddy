@@ -38,7 +38,19 @@
     "assessment_review": "Eduqas official SAMs Component 2 Question 8 verifies the source-based extract-and-whole-play format: 40 marks including 5 for AO4, with AO1/AO2 assessing the literature. The two long practice prompts use named moments rather than reproducing a copyrighted extract; in the examination use the printed extract. Short practice marks are not examiner allocations. No recurrence claims are made from a single specimen."
   },
   "flashcards": {
-    "count": 26,
-    "source": "Short paired retrieval/application questions"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/An Inspector Calls - Flash Cards.json",
+    "count": 38,
+    "categories": [
+      "Quick recall",
+      "Explain and compare",
+      "Multi-step application",
+      "Methods",
+      "Interpretation",
+      "Character",
+      "Context",
+      "Exam application"
+    ],
+    "source": "revision-flashcards.json"
   }
 }

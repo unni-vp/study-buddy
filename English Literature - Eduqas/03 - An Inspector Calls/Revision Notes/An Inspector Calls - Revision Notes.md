@@ -91,6 +91,12 @@ Eva never appears on stage. The audience learns about her through others, which 
 
 She seeks fair pay, loses work, experiences unequal relationships and refuses stolen money. These details give her moral agency; she is not simply a passive object of pity. The common surname can suggest that her situation represents many ordinary people.
 
+### The photograph and control of the story
+
+The Inspector shows the photograph to **one person at a time**. This lets him control the order of the investigation and prevents the family from checking everything together. Later doubts about whether the same photograph was shown create uncertainty, but **uncertainty does not erase the conduct each person admits**.
+
+Eva's absence from the stage matters. Other people explain her life, often using descriptions that defend their own actions. An answer can examine the difference between those accounts and the choices the audience can establish. She asks for fair pay and refuses stolen money, so she has principles as well as vulnerability.
+
 ## Responsibility and social inequality
 
 **Responsibility:** the Inspector links decisions made at different times. Sheila and Eric accept the moral lesson; others focus on avoiding consequences. The final call forces the issue back into view.
@@ -123,6 +129,14 @@ Use a specific action to explain each theme. Do not replace the play with a gene
 
 The 1912 setting foregrounds class divisions, limited opportunities and complacency before major conflict. Writing after two world wars gave Priestley a perspective from which to challenge that confidence. Use context to illuminate a particular choice, rather than adding unrelated history.
 
+### Two audiences separated by history
+
+The **1912 setting** makes Arthur's confident predictions vulnerable to dramatic irony. The first audiences knew that the Titanic sank and that Europe had experienced two world wars. His failure to foresee events encourages them to question the certainty with which he lectures his family.
+
+Priestley's argument concerns **social responsibility**: people with security and influence should recognise how their decisions affect others. This does not require claiming that every character is a simple political label. Gerald's assistance helps Daisy while leaving him with greater power; Sheila's change begins with an admission of genuine wrongdoing.
+
+The final telephone call works like a trap closing again. The family briefly thinks the threat has passed, then faces a renewed investigation. This **reversal** tests whether responsibility depends on being exposed. The uncertainty over Goole's identity leaves his moral challenge in place.
+
 ## Building an answer
 
 The source-based task asks you to discuss the printed extract **and the play as a whole**. Read the wording carefully. An answer focused only on the extract misses the wider development; a memorised essay may miss the task.
@@ -145,3 +159,23 @@ Priestley makes Sheila's willingness to admit wrongdoing a source of hope. Her d
 - Discussing language without explaining its meaning or stage effect.
 - Excusing Eric's conduct because he later regrets it.
 - Adding historical facts without using them to clarify the play.
+
+### Develop a stage-method point
+
+**Basic:** The lighting changes when the Inspector arrives.
+
+**Developed:** The warm opening lighting helps make the dining room seem protected and comfortable. Its harsher replacement changes how the same room is seen. Priestley makes exposure visible on stage before the full investigation has unfolded, preparing the audience to question the family's respectable appearance.
+
+The developed explanation connects **stage direction, change and meaning**. Add a short accurate quotation from the printed extract when available; then connect a relevant later response, such as the parents' relief or Sheila's continued concern.
+
+## Sources
+
+- [Overview and Key Scenes](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Overview%20and%20Key%20Scenes%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Context](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Context%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Glossary of Definitions](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Glossary%20of%20Definitions%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf).
+- [Gender](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Gender.pdf).
+- [Social Class](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Social%20Class.pdf).
+- [Social Responsibility](https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Social%20Responsibility.pdf).
+- [Historical](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/historical).
+- [Sheila](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/sheila).
+- [Inspector](https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/inspector).

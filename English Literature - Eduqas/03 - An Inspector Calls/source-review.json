@@ -1,0 +1,95 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "English Literature - Eduqas",
+  "topic": "03 - An Inspector Calls",
+  "official_basis": "English Literature - Eduqas/00 - Specification",
+  "pmt": [
+    {
+      "title": "Overview and Key Scenes",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Overview%20and%20Key%20Scenes%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Overview and Key Scenes - An Inspector Calls - Eduqas English Literature GCSE.pdf",
+      "sha256": "b42139c03aab746e94c930b7f88b152a89aec196460e333ed0f56322557ba4bc",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Context",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Context%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Context - An Inspector Calls - Eduqas English Literature GCSE.pdf",
+      "sha256": "839fbb777996465ff5289f189f695999e4a641ff4e3d7d3027954591ddb73ff5",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Glossary of Definitions",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Glossary%20of%20Definitions%20-%20An%20Inspector%20Calls%20-%20Eduqas%20English%20Literature%20GCSE.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Glossary of Definitions - An Inspector Calls - Eduqas English Literature GCSE.pdf",
+      "sha256": "d4a634a87b3faa0006c07fe796cb94512c687f28a51e78e6e1c80133d9bab06f",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Gender",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Gender.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Gender.pdf",
+      "sha256": "080799b549ee199de36e3bcf2c4bb54dbe48d3b63c00ce40840150d715092408",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Social Class",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Social%20Class.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Social Class.pdf",
+      "sha256": "d5838864412ebc3ae4bc4538386a8d45d93a34330c529b27c2a15367b6ba07ea",
+      "use": "Coverage reference; original preserved without modification."
+    },
+    {
+      "title": "Social Responsibility",
+      "url": "https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/Eduqas/An-Inspector-Calls/Themes/Social%20Responsibility.pdf",
+      "local_pdf": "English Literature - Eduqas/03 - An Inspector Calls/Reference Materials/Social Responsibility.pdf",
+      "sha256": "737123fc0f4e7e5decac902b62c2794ef8102418fd47f5c78c29846d4b2659e2",
+      "use": "Coverage reference; original preserved without modification."
+    }
+  ],
+  "studyrocket": [
+    {
+      "title": "Historical",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/historical"
+    },
+    {
+      "title": "Sheila",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/sheila"
+    },
+    {
+      "title": "Inspector",
+      "url": "https://studyrocket.co.uk/revision/gcse-english-literature-aqa/an-inspector-calls/inspector"
+    }
+  ],
+  "availability": {
+    "pmt": "Matching Eduqas text references",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "Use PMT exact-text notes and StudyRocket AQA text analysis, but retain Eduqas source-based task structure.",
+    "Do not import StudyRocket’s claim that the 1912 miners’ legislation established a national minimum wage for every worker.",
+    "Do not present an uncertain Inspector identity as established fact; preserve moral and legal distinctions."
+  ],
+  "note_sections_refined": [
+    "Inspector Goole and Eva Smith",
+    "Dramatic methods and context",
+    "Building an answer"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "ef92cce7da4d60cef72e674e5a6a05d973292a21db9e92c00c89f16a23feed59",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 26,
+    "added": 12,
+    "total": 38,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}
