@@ -34,18 +34,26 @@
     },
     {
       "id": "education",
-      "title": "Education and work",
-      "description": "Explain school life, future ambitions and developed responses.",
+      "title": "School life & developed answers",
+      "description": "School vocabulary, opinions, rules and a worked response",
       "icon": "nav-book",
       "sections": [
         {
           "heading": "School life and opinions"
         },
         {
-          "heading": "Work, ambitions and future plans"
-        },
-        {
           "heading": "Turning ideas into a developed response"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Work, ambitions & future plans",
+      "description": "Jobs, reasons for career choices and plans after school",
+      "icon": "nav-suitcase",
+      "sections": [
+        {
+          "heading": "Work, ambitions and future plans"
         }
       ]
     }
