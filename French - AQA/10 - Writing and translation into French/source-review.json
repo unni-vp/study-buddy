@@ -1,0 +1,50 @@
+{
+  "reviewed": "2026-10-22",
+  "subject": "French - AQA",
+  "topic": "10 - Writing and translation into French",
+  "official_basis": "French - AQA/00 - Specification",
+  "pmt": [],
+  "studyrocket": [
+    {
+      "title": "Writing Exam",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/writing-exam"
+    },
+    {
+      "title": "Translations Into French",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/translations-into-french"
+    },
+    {
+      "title": "Higher - 150 Word Task",
+      "url": "https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/higher-150-word-task"
+    }
+  ],
+  "availability": {
+    "pmt": "No matching topic summary located in reviewed PMT indexes.",
+    "studyrocket": "Relevant text or transferable skills; course and scope differences reviewed"
+  },
+  "coverage_decisions": [
+    "StudyRocket writing guidance belongs to the older course; retain current three-bullet 90-word and two-bullet 150-word tasks.",
+    "Use original repair/translation examples and current Higher criteria; do not add pluperfect or subjunctive as compulsory devices."
+  ],
+  "note_sections_refined": [
+    "Translating into French",
+    "Choosing accurate language"
+  ],
+  "preservation": {
+    "original_markdown_sha256": "d1b2d4b4d7c5e6598d09eb63d5960378907b8b56070c2cf014de47d69589a2fd",
+    "original_teaching_content_retained": true,
+    "qa_and_mindmaps": "Unchanged",
+    "all_existing_flashcards_preserved": true
+  },
+  "flashcards": {
+    "new_deck": false,
+    "base_count": 26,
+    "added": 14,
+    "total": 40,
+    "corrected": 0
+  },
+  "validation": {
+    "partition": "All teaching blocks assigned exactly once; no missing blocks.",
+    "browser": "Passed: every direct note reader at 1366/390/320 px, navigation, all local links/images, hidden sources and complete print notes. Deck count, initial focus, keyboard flip/previous/next, longest answer at 1366×768,390×844,320×700 and unrestricted print passed."
+  }
+}

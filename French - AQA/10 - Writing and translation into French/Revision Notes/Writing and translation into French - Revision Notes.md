@@ -56,6 +56,17 @@ Keep the **time phrase and verb** together: hier, j'ai joué; normalement, je jo
 
 If you forget a word, simplify without abandoning the bullet. **Un travail où je peux aider les autres** can communicate a useful work ambition without a specialised job title.
 
+### Repair the error that changes the message
+
+| Draft | Repair | Why |
+|---|---|---|
+| Hier, je vais au parc. | Hier, je suis allé(e) au parc. | The completed past event needs a past form. |
+| Je veux travaille. | Je veux travailler. | The verb after veux is an infinitive. |
+| Mes amies sont gentil. | Mes amies sont gentilles. | The adjective agrees with a feminine plural noun. |
+| Je n'ai pas des frères. | Je n'ai pas de frères. | After this negative, des normally becomes de. |
+
+When editing, identify **the subject and intended time** before changing an ending. Correcting one error should not introduce another by changing the sentence's meaning.
+
 ## A 90-word response
 
 Task: describe your normal healthy habits; explain a recent activity; give a plan for improving your lifestyle.
@@ -93,6 +104,18 @@ Translation is about **the full message**, not replacing each English word separ
 
 The translation is assessed across the response: **5 for meaning and 5 for vocabulary/grammar**. It is not simply one mark for every translated word. Preserve each meaning element, even when a natural French sentence changes the English order.
 
+### Build the message in layers
+
+**English:** Last Saturday, my friends and I visited a museum because we like history.
+
+1. **When:** Samedi dernier gives the time.
+2. **Who and completed action:** mes amis et moi avons visité un musée. Mes amis et moi takes the nous form avons.
+3. **Reason:** parce que nous aimons l’histoire. The present aimons expresses an ongoing interest that explains the visit.
+
+**French:** Samedi dernier, mes amis et moi avons visité un musée parce que nous aimons l’histoire.
+
+A shorter construction is preferable to an incorrect ambitious one, but a translation must still preserve the message given. You cannot replace the museum with a cinema merely because you remember cinéma more easily.
+
 ## Checking and using time
 
 One workable 75-minute plan is about **15 minutes translation, 25 minutes the shorter response, 30 minutes the longer response and 5 minutes final checking**. Adjust to your pace and include planning/checking within each task.
@@ -109,3 +132,9 @@ Then check **verb endings, adjective agreement, auxiliaries, infinitives, articl
 Common traps: **j'ai joué / je vais jouer**; **je suis allé(e)**; **j'aime lire**; **beaucoup de**; **à Paris / en France**; **a / à**, **ou / où**, **et / est**.
 
 Keep a useful phrase flexible. Change the person, activity, time or reason so it fits the actual question. A perfectly memorised paragraph cannot answer a bullet it does not address.
+
+## Sources
+
+- [Writing Exam](https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/writing-exam).
+- [Translations Into French](https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/translations-into-french).
+- [Higher - 150 Word Task](https://studyrocket.co.uk/revision/gcse-french-aqa/writing-exam/higher-150-word-task).

@@ -17,8 +17,23 @@
     "assessment_review": "Original short writing/grammar practice plus original 10-mark minimum-50-word translation, 15-mark roughly-90-word three-bullet response and 25-mark roughly-150-word two-bullet response. These models are not official marked scripts. 90 words: AO2 10/AO3 5. 150 words: AO2 15/AO3 range 5 plus accuracy 5. Translation: holistic meaning 5 and vocabulary/grammar 5."
   },
   "flashcards": {
-    "count": 26,
-    "type": "Short bilingual retrieval and application; no category selector"
+    "reviewed": "2026-10-22",
+    "deck": "Flash Cards/Writing and translation into French - Flash Cards.json",
+    "count": 40,
+    "categories": [
+      "Vocabulary",
+      "Meaning and grammar",
+      "Apply the language",
+      "Develop a response",
+      "Translate into French",
+      "Grammar in context",
+      "Repair",
+      "Translation",
+      "Writing",
+      "Editing",
+      "Exam format"
+    ],
+    "source": "revision-flashcards.json"
   },
   "sources": [
     "../00 - Specification/AQA-8652-specification.pdf",

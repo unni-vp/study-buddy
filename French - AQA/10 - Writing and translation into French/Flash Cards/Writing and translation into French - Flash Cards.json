@@ -196,6 +196,108 @@
         "---",
         "The improvement directly addresses the stated problem. Pour + infinitive explains its purpose."
       ]
+    },
+    {
+      "category": "Translate into French",
+      "front": "Translate: Last Saturday, my friends and I visited a museum.",
+      "back": [
+        "Samedi dernier, mes amis et moi avons visité un musée."
+      ]
+    },
+    {
+      "category": "Grammar in context",
+      "front": "Why does “mes amis et moi” take avons?",
+      "back": [
+        "The group includes the speaker, so it takes the nous verb form."
+      ]
+    },
+    {
+      "category": "Translate into French",
+      "front": "Translate: because we like history.",
+      "back": [
+        "Parce que nous aimons l’histoire."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Hier, je vais au parc.",
+      "back": [
+        "Hier, je suis allé(e) au parc.",
+        "Use the completed past form for this message."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Je veux travaille.",
+      "back": [
+        "Je veux travailler.",
+        "The following verb is an infinitive."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Mes amies sont gentil.",
+      "back": [
+        "Mes amies sont gentilles.",
+        "The adjective agrees with the feminine plural subject."
+      ]
+    },
+    {
+      "category": "Repair",
+      "front": "Correct: Je n’ai pas des frères.",
+      "back": [
+        "Je n’ai pas de frères.",
+        "Des normally becomes de after this negative."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "Can you replace an unfamiliar museum with a cinema in a translation?",
+      "back": [
+        "No. Simplify the construction if necessary, but preserve the given message rather than changing the facts."
+      ]
+    },
+    {
+      "category": "Writing",
+      "front": "What should be checked for every compulsory bullet?",
+      "back": [
+        "Check that it has been answered with relevant development and an appropriate time reference."
+      ]
+    },
+    {
+      "category": "Writing",
+      "front": "Why is complexity not the same as length?",
+      "back": [
+        "A useful relative clause, reason or contrast adds a relationship between ideas. Extra words without meaning do not develop communication."
+      ]
+    },
+    {
+      "category": "Editing",
+      "front": "What should you establish before changing a verb ending?",
+      "back": [
+        "Identify the subject and the intended time frame."
+      ]
+    },
+    {
+      "category": "Exam format",
+      "front": "What are the current Higher French writing tasks?",
+      "back": [
+        "English-to-French translation, an approximately 90-word response covering three bullets, and an approximately 150-word response covering two bullets."
+      ]
+    },
+    {
+      "category": "Writing",
+      "front": "Why should a memorised paragraph be adapted?",
+      "back": [
+        "Its person, topic, purpose and time frame must match the actual task. Accurate but irrelevant material cannot answer a missing bullet."
+      ]
+    },
+    {
+      "category": "Translate into French",
+      "front": "Translate: I would like to improve my town.",
+      "back": [
+        "Je voudrais améliorer ma ville."
+      ]
     }
   ]
 }
