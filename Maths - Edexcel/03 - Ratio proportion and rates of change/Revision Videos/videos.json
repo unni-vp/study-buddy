@@ -1,0 +1,32 @@
+{
+  "title": "Ratio proportion and rates of change revision videos",
+  "videos": [
+    {
+      "title": "Direct proportion",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/direct-proportion/",
+      "video_id": "kcOwC7uqJNE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/kcOwC7uqJNE",
+      "watch_url": "https://www.youtube.com/watch?v=kcOwC7uqJNE",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Inverse proportion",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/inverse-proportion/",
+      "video_id": "uZ6l-loSdRs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/uZ6l-loSdRs",
+      "watch_url": "https://www.youtube.com/watch?v=uZ6l-loSdRs",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Compound interest",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2012/08/21/compound-interest/",
+      "video_id": "FBCs95Co_oU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FBCs95Co_oU",
+      "watch_url": "https://www.youtube.com/watch?v=FBCs95Co_oU",
+      "checked": "2026-10-29"
+    }
+  ]
+}
