@@ -1,0 +1,171 @@
+{
+  "title": "Probability flash cards",
+  "cards": [
+    {
+      "category": "Scale",
+      "front": "An event has probability 0. Which word describes it? An event has probability 1. Which word describes it?",
+      "back": [
+        "Probability 0 means impossible; probability 1 means certain."
+      ]
+    },
+    {
+      "category": "Complement",
+      "front": "P(A) = 0.37. Find P(A′).",
+      "back": [
+        "P(A′) = 1 − 0.37 = 0.63."
+      ]
+    },
+    {
+      "category": "Fair outcomes",
+      "front": "A fair six-sided die is rolled. Find the probability of a prime number.",
+      "back": [
+        "The primes are 2, 3 and 5. Probability = 3/6 = 1/2."
+      ]
+    },
+    {
+      "category": "Relative frequency",
+      "front": "A spinner lands on blue 36 times in 120 spins. Estimate the probability of blue and the expected number of blues in another 500 spins under the same conditions.",
+      "back": [
+        "Estimated probability = 36/120 = 0.3.",
+        "Expected number = 500 × 0.3 = 150. This is a prediction, not a guaranteed count."
+      ]
+    },
+    {
+      "category": "Exhaustive outcomes",
+      "front": "A biased spinner has four outcomes with probabilities 0.15, 0.28, 0.32 and x. Find x.",
+      "back": [
+        "Probabilities of these exhaustive, disjoint outcomes sum to 1.",
+        "x = 1 − (0.15 + 0.28 + 0.32) = 0.25."
+      ]
+    },
+    {
+      "category": "Sample space",
+      "front": "A fair coin and a fair six-sided die are used independently. Find the probability of a head and a number greater than 4.",
+      "back": [
+        "There are 2 × 6 = 12 equally likely pairs.",
+        "H5 and H6 are favourable, so probability = 2/12 = 1/6."
+      ]
+    },
+    {
+      "category": "Independent events",
+      "front": "P(A) = 0.4 and P(B) = 0.3. A and B are independent. Find P(A and B).",
+      "back": [
+        "For independent events, multiply their probabilities.",
+        "P(A and B) = 0.4 × 0.3 = 0.12."
+      ]
+    },
+    {
+      "category": "Union",
+      "front": "P(A) = 0.6, P(B) = 0.5 and P(A and B) = 0.2. Find P(A or B).",
+      "back": [
+        "P(A or B) = P(A) + P(B) − P(A and B).",
+        "0.6 + 0.5 − 0.2 = 0.9. The overlap must not be counted twice."
+      ]
+    },
+    {
+      "category": "Large samples",
+      "front": "A fair coin gives 7 heads in 10 tosses. Explain why this does not establish that the coin is biased and how a larger experiment would help.",
+      "back": [
+        "Small random samples can differ substantially from the theoretical probability 1/2.",
+        "A much larger unbiased sample tends to give a more stable relative frequency. It still does not guarantee exactly half heads."
+      ]
+    },
+    {
+      "category": "Venn condition",
+      "front": "In a group of 20 people, 6 are in A only, 4 are in both A and B, 8 are in B only, and 2 are in neither. Find P(A | B) and P(A′).",
+      "back": [
+        "There are 4 + 8 = 12 people in B. Of them, 4 are also in A.",
+        "P(A | B) = 4/12 = 1/3.",
+        "There are 10 people not in A, so P(A′) = 10/20 = 1/2."
+      ]
+    },
+    {
+      "category": "At least one",
+      "front": "Two independent components each fail with probability 0.1. Find the probability that at least one fails.",
+      "back": [
+        "Use the complement: neither fails means both work.",
+        "P(both work) = 0.9² = 0.81.",
+        "P(at least one fails) = 1 − 0.81 = 0.19."
+      ]
+    },
+    {
+      "category": "Unordered selection",
+      "front": "A teacher chooses 2 students from 12. How many different pairs are possible? Explain why 12 × 11 is too large.",
+      "back": [
+        "There are 12 × 11 ordered choices.",
+        "Each pair is counted twice: choosing A then B is the same pair as B then A.",
+        "The number of pairs is (12 × 11)/2 = 66."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "How do mutually exclusive events differ from independent events?",
+      "back": [
+        "Mutually exclusive events cannot occur together. Independence means one event does not change the probability of the other."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "Can two mutually exclusive events with positive probabilities be independent?",
+      "back": [
+        "No. Their intersection probability is zero, but the product of their positive probabilities is not zero."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "When do you add paths and when do you multiply branches on a tree?",
+      "back": [
+        "Multiply along a complete path. Add mutually exclusive successful paths."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "What changes on a without-replacement tree?",
+      "back": [
+        "The total falls after each draw, and the count of the colour drawn also falls."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "What does conditional probability do to the sample space?",
+      "back": [
+        "It restricts it to the outcomes satisfying the condition."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "What does A′ mean?",
+      "back": [
+        "The complement: outcomes in the universal set that are not in A."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "What do A ∩ B and A ∪ B mean?",
+      "back": [
+        "Intersection means in both. Union means in A or B or both."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "Why is an expected frequency not a guaranteed result?",
+      "back": [
+        "It is a long-run prediction based on probability; individual experiments vary randomly."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "How do you find P(A | B) when P(B) > 0?",
+      "back": [
+        "P(A | B) = P(A ∩ B)/P(B). The denominator represents the restricted group."
+      ]
+    },
+    {
+      "category": "Probability methods",
+      "front": "What assumption allows probabilities to be multiplied as P(A)P(B)?",
+      "back": [
+        "A and B must be independent. In general use P(A)P(B | A)."
+      ]
+    }
+  ]
+}

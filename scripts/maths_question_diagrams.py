@@ -74,14 +74,14 @@ def diagrams():
  d['circle-segment']=('Minor circular segment shaded',s,380)
  s=circle(270,210,150)+poly([(120,210),(420,210),(345,80.096)],'#f0f5fc')+line(270,210,345,80.096)+txt(103,231,'A')+txt(439,231,'B')+txt(351,64,'C')+txt(270,233,'O')+txt(167,193,'α')+txt(377,193,'β')
  d['semicircle-proof']=('Diameter AB and radius OC for a circle proof',s,380)
- s=rect(55,45,490,280,'#fff')+circle(240,185,100,'#e4effc')+circle(360,185,100,'#fff5d8')+txt(178,71,'A')+txt(422,71,'B')+txt(195,191,'6')+txt(300,191,'4')+txt(405,191,'8')+txt(500,294,'2')+txt(82,72,'ξ')
+ s=rect(55,45,490,280,'#fff')+circle(240,185,100,'#e4effc')+circle(360,185,100,'#fff5d8')+circle(240,185,100)+txt(178,71,'A')+txt(422,71,'B')+txt(195,191,'6')+txt(300,191,'4')+txt(405,191,'8')+txt(500,294,'2')+txt(82,72,'ξ')
  d['venn-counts']=('Venn diagram of twenty people',s,355)
  def tree(root,leftlabel,rightlabel,branches,prob=False):
   s=txt(65,191,root,size=15)
   for y,label,leaves in [(105,leftlabel,branches[0]),(275,rightlabel,branches[1])]:
-   s+=line(95,185,230,y)+txt(170,(185+y)/2-12,label,size=15)
+   s+=line(95,185,230,y)+txt(160,105 if y==105 else 285,label,size=15)
    for dy,leaf in [(-45,leaves[0]),(45,leaves[1])]:
-    s+=line(230,y,460,y+dy)+txt(357,y+dy/2-10,leaf,size=15)
+    s+=line(230,y,460,y+dy)+txt(357,y+dy/2-22,leaf,size=15)
   return s
  s=tree('Start','Red: 5/8','Blue: 3/8',[['Red: 4/7','Blue: 3/7'],['Red: 5/7','Blue: 2/7']])+txt(300,30,'Two draws without replacement')
  d['counter-tree']=('Counter probabilities on each branch',s,365)

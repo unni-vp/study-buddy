@@ -1,0 +1,23 @@
+{
+  "title": "Probability revision videos",
+  "videos": [
+    {
+      "title": "Tree diagrams",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/05/07/tree-diagrams/",
+      "video_id": "PYEvSuz1Dxo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/PYEvSuz1Dxo",
+      "watch_url": "https://www.youtube.com/watch?v=PYEvSuz1Dxo",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Conditional probability",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/06/18/conditional-probability/",
+      "video_id": "xhFDlmQUAZo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/xhFDlmQUAZo",
+      "watch_url": "https://www.youtube.com/watch?v=xhFDlmQUAZo",
+      "checked": "2026-10-29"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "subject": "Maths - Edexcel",
+  "topic": "Probability",
+  "qualification": "1MA1",
+  "tier": "Higher",
+  "exam_year": 2027,
+  "revision_notes": [],
+  "mindmaps": [],
+  "questions": [
+    {
+      "question": 1,
+      "marks": 1,
+      "specification_codes": [
+        "P3"
+      ],
+      "skill": "scale",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 2,
+      "marks": 1,
+      "specification_codes": [
+        "P4"
+      ],
+      "skill": "complement",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 3,
+      "marks": 1,
+      "specification_codes": [
+        "P2"
+      ],
+      "skill": "fair outcomes",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 4,
+      "marks": 2,
+      "specification_codes": [
+        "P1",
+        "P3"
+      ],
+      "skill": "relative frequency",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 5,
+      "marks": 2,
+      "specification_codes": [
+        "P4"
+      ],
+      "skill": "exhaustive outcomes",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 6,
+      "marks": 2,
+      "specification_codes": [
+        "P7"
+      ],
+      "skill": "sample space",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 7,
+      "marks": 2,
+      "specification_codes": [
+        "P8"
+      ],
+      "skill": "independent events",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 8,
+      "marks": 2,
+      "specification_codes": [
+        "P4",
+        "P8"
+      ],
+      "skill": "union",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 9,
+      "marks": 2,
+      "specification_codes": [
+        "P5"
+      ],
+      "skill": "large samples",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 10,
+      "marks": 2,
+      "specification_codes": [
+        "P6"
+      ],
+      "skill": "set notation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 11,
+      "marks": 3,
+      "specification_codes": [
+        "P9"
+      ],
+      "skill": "conditional table",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 12,
+      "marks": 3,
+      "specification_codes": [
+        "P8"
+      ],
+      "skill": "without replacement",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 13,
+      "marks": 3,
+      "specification_codes": [
+        "P8"
+      ],
+      "skill": "exactly one",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 14,
+      "marks": 3,
+      "specification_codes": [
+        "P9",
+        "P6"
+      ],
+      "skill": "Venn condition",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 15,
+      "marks": 3,
+      "specification_codes": [
+        "P8"
+      ],
+      "skill": "at least one",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 16,
+      "marks": 3,
+      "specification_codes": [
+        "P6",
+        "P7"
+      ],
+      "skill": "unordered selection",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 17,
+      "marks": 4,
+      "specification_codes": [
+        "P1",
+        "P9"
+      ],
+      "skill": "frequency tree",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 18,
+      "marks": 4,
+      "specification_codes": [
+        "P8",
+        "P9"
+      ],
+      "skill": "check independence",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 19,
+      "marks": 4,
+      "specification_codes": [
+        "P8"
+      ],
+      "skill": "three trials",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 20,
+      "marks": 5,
+      "specification_codes": [
+        "P9",
+        "P6"
+      ],
+      "skill": "overlapping sets",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 21,
+      "marks": 5,
+      "specification_codes": [
+        "P8",
+        "P9"
+      ],
+      "skill": "reverse probability",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 22,
+      "marks": 6,
+      "specification_codes": [
+        "P8",
+        "A18"
+      ],
+      "skill": "unknown counters",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    }
+  ],
+  "flashcards": 22,
+  "videos": 2,
+  "diagram_purposes": {
+    "counter-tree": "Supports the adjacent without replacement question or worked answer.",
+    "frequency-tree": "Supports the adjacent frequency tree question or worked answer.",
+    "venn-counts": "Supports the adjacent set notation question or worked answer."
+  }
+}
