@@ -1,0 +1,306 @@
+{
+  "title": "Number flash cards",
+  "cards": [
+    {
+      "category": "Order",
+      "front": "Put these numbers in ascending order: −0.6, −2/3, −0.65.",
+      "back": [
+        "−2/3, −0.65, −0.6. Since −2/3 = −0.666…, it is the smallest."
+      ]
+    },
+    {
+      "category": "Reciprocal",
+      "front": "Write the reciprocal of −5/8.",
+      "back": [
+        "−8/5. A number multiplied by its reciprocal equals 1."
+      ]
+    },
+    {
+      "category": "Roots",
+      "front": "Find the cube root of −125.",
+      "back": [
+        "−5, because (−5)³ = −125."
+      ]
+    },
+    {
+      "category": "Standard form",
+      "front": "Write 0.000072 in standard form.",
+      "back": [
+        "7.2 × 10⁻⁵."
+      ]
+    },
+    {
+      "category": "Rounding",
+      "front": "Round 0.004786 to 2 significant figures.",
+      "back": [
+        "0.0048. The first significant digit is 4, and the next retained digit rounds up."
+      ]
+    },
+    {
+      "category": "Order of operations",
+      "front": "Work out −3² + 2(5 − 8).",
+      "back": [
+        "The power is evaluated first: −3² = −9.",
+        "2(5 − 8) = −6, so the answer is −15. Brackets would be needed for (−3)² = 9."
+      ]
+    },
+    {
+      "category": "Decimal calculation",
+      "front": "Without a calculator, work out 0.84 ÷ 0.035.",
+      "back": [
+        "Multiply both numbers by 1000 to obtain 840 ÷ 35.",
+        "840 ÷ 35 = 24."
+      ]
+    },
+    {
+      "category": "Fractions",
+      "front": "Work out 3/4 − 5/6. Give a fraction in its simplest form.",
+      "back": [
+        "Use denominator 12: 9/12 − 10/12.",
+        "The answer is −1/12."
+      ]
+    },
+    {
+      "category": "Mixed numbers",
+      "front": "Work out 2 1/4 ÷ 3/5.",
+      "back": [
+        "2 1/4 = 9/4. Dividing by 3/5 means multiplying by 5/3.",
+        "(9/4) × (5/3) = 15/4 = 3 3/4."
+      ]
+    },
+    {
+      "category": "Prime factors",
+      "front": "Express 360 as a product of prime factors.",
+      "back": [
+        "360 = 36 × 10 = (2² × 3²) × (2 × 5).",
+        "360 = 2³ × 3² × 5."
+      ]
+    },
+    {
+      "category": "Hcf and lcm",
+      "front": "Find the HCF and LCM of 84 and 126.",
+      "back": [
+        "84 = 2² × 3 × 7 and 126 = 2 × 3² × 7.",
+        "HCF = 2 × 3 × 7 = 42. LCM = 2² × 3² × 7 = 252."
+      ]
+    },
+    {
+      "category": "Fractional indices",
+      "front": "Evaluate 27^(2/3) and 16^(−3/4).",
+      "back": [
+        "27^(2/3) = (∛27)² = 3² = 9.",
+        "16^(−3/4) = 1/(⁴√16)³ = 1/2³ = 1/8."
+      ]
+    },
+    {
+      "category": "Surds",
+      "front": "Simplify √72 − √8.",
+      "back": [
+        "√72 = 6√2 and √8 = 2√2.",
+        "6√2 − 2√2 = 4√2."
+      ]
+    },
+    {
+      "category": "Rationalise",
+      "front": "Rationalise 5/√3.",
+      "back": [
+        "Multiply numerator and denominator by √3.",
+        "5/√3 = 5√3/3."
+      ]
+    },
+    {
+      "category": "Standard form operations",
+      "front": "Calculate (6 × 10⁷) ÷ (2.5 × 10³). Give the answer in standard form.",
+      "back": [
+        "6 ÷ 2.5 = 2.4 and 10⁷ ÷ 10³ = 10⁴.",
+        "The answer is 2.4 × 10⁴."
+      ]
+    },
+    {
+      "category": "Fraction conversion",
+      "front": "Express 0.375 as a fraction in its simplest form.",
+      "back": [
+        "0.375 = 375/1000.",
+        "Divide numerator and denominator by 125 to obtain 3/8."
+      ]
+    },
+    {
+      "category": "Percentage operator",
+      "front": "Find 135% of £240.",
+      "back": [
+        "135% = 1.35.",
+        "1.35 × £240 = £324."
+      ]
+    },
+    {
+      "category": "Units",
+      "front": "Convert 2 hours 18 minutes to hours, and 0.065 kg to grams.",
+      "back": [
+        "18 minutes = 18/60 = 0.3 hours, so the time is 2.3 hours.",
+        "0.065 × 1000 = 65 g."
+      ]
+    },
+    {
+      "category": "Estimation",
+      "front": "Estimate (49.2 × 0.198) ÷ 0.051 by rounding each number to 1 significant figure.",
+      "back": [
+        "Use (50 × 0.2) ÷ 0.05.",
+        "10 ÷ 0.05 = 200. This is an estimate, not the exact value."
+      ]
+    },
+    {
+      "category": "Error interval",
+      "front": "A length x is 8.4 cm when rounded to the nearest 0.1 cm. Write its error interval.",
+      "back": [
+        "Half of 0.1 cm is 0.05 cm.",
+        "8.35 ≤ x < 8.45 cm. The upper endpoint is excluded because it would round to 8.5 cm."
+      ]
+    },
+    {
+      "category": "Truncation",
+      "front": "A positive number y is truncated to 1 decimal place to give 3.7. Write the error interval.",
+      "back": [
+        "Truncation removes the later digits rather than rounding.",
+        "3.7 ≤ y < 3.8."
+      ]
+    },
+    {
+      "category": "Counting",
+      "front": "A code has two different letters chosen from A, B, C, D, followed by a digit from 0 to 9. How many different codes are possible?",
+      "back": [
+        "There are 4 choices for the first letter and 3 for the second.",
+        "There are 10 choices for the digit, including 0.",
+        "The total is 4 × 3 × 10 = 120 codes."
+      ]
+    },
+    {
+      "category": "Recurring decimal",
+      "front": "Let x = 0.2777…, where only the 7 repeats. Express x as a fraction.",
+      "back": [
+        "10x = 2.777… and 100x = 27.777….",
+        "Subtract to remove the recurring tail: 90x = 25.",
+        "x = 25/90 = 5/18."
+      ]
+    },
+    {
+      "category": "Conjugate surd",
+      "front": "Simplify 4/(√5 − 1). Give an exact answer.",
+      "back": [
+        "Multiply top and bottom by the conjugate √5 + 1.",
+        "The denominator becomes (√5)² − 1² = 4.",
+        "The result is 4(√5 + 1)/4 = √5 + 1."
+      ]
+    },
+    {
+      "category": "Fraction and ratio",
+      "front": "Red and blue beads are in the ratio 3:5. There are 64 beads. One quarter of the red beads are removed. What fraction of the remaining beads are red?",
+      "back": [
+        "There are 64 × 3/8 = 24 red beads and 40 blue beads.",
+        "One quarter of 24 is 6, leaving 18 red and 58 beads in total.",
+        "The required fraction is 18/58 = 9/29."
+      ]
+    },
+    {
+      "category": "Hcf application",
+      "front": "A florist has 96 roses and 144 tulips. She makes the greatest possible number of identical bunches, using every flower. How many bunches are made, and what does each contain?",
+      "back": [
+        "The number of bunches must divide both totals. HCF(96,144) = 48.",
+        "Each bunch contains 96 ÷ 48 = 2 roses.",
+        "Each also contains 144 ÷ 48 = 3 tulips. There are 48 bunches."
+      ]
+    },
+    {
+      "category": "Root bounds",
+      "front": "Without using a calculator, show that √50 lies between 7 and 8. Then decide whether it is nearer 7 or 8.",
+      "back": [
+        "7² = 49 < 50 < 64 = 8², so 7 < √50 < 8.",
+        "The midpoint is 7.5, and 7.5² = 56.25.",
+        "Since 50 < 56.25, √50 < 7.5, so it is nearer 7."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "Why must a standard-form coefficient be at least 1 and less than 10?",
+      "back": [
+        "That convention gives a consistent representation A × 10ⁿ. Renormalise after multiplication or division."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "How do you add fractions with different denominators?",
+      "back": [
+        "Express both with a common denominator, combine the numerators, and simplify."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "What does a negative index mean?",
+      "back": [
+        "It means take the reciprocal: a⁻ⁿ = 1/aⁿ for a ≠ 0."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "What does a fractional index m/n mean for a positive number?",
+      "back": [
+        "a^(m/n) means take the nth root and raise it to power m."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "How do HCF and LCM use prime powers?",
+      "back": [
+        "HCF uses common primes at their lowest powers. LCM uses every prime at its highest power."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "How do you simplify a surd such as √48?",
+      "back": [
+        "Extract a square factor: √48 = √(16 × 3) = 4√3."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "Why use a conjugate when rationalising a two-term denominator?",
+      "back": [
+        "Multiplying (a + b)(a − b) gives a² − b², removing the surd cross terms."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "Which bounds give the largest positive value of distance/time?",
+      "back": [
+        "Use the upper distance bound divided by the lower positive time bound."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "How do rounding and truncation intervals differ for positive values?",
+      "back": [
+        "Rounding gives half a step on each side. Truncation starts at the stated value and ends one step above it."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "Why is a calculator decimal not always an exact answer?",
+      "back": [
+        "A displayed decimal may be rounded. Keep fractions, surds or π when an exact answer is requested."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "What is the product rule for counting?",
+      "back": [
+        "Multiply the choices at each stage, adjusting later choices when earlier selections restrict them."
+      ]
+    },
+    {
+      "category": "Methods and checks",
+      "front": "How can you check a division without repeating it?",
+      "back": [
+        "Multiply your proposed answer by the divisor and compare it with the original dividend."
+      ]
+    }
+  ]
+}

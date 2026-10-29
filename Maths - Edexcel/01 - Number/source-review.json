@@ -1,0 +1,71 @@
+{
+  "reviewed": "2026-10-29",
+  "qualification": "Edexcel GCSE Mathematics 1MA1 Higher",
+  "official_specification": "../00 - Specification/Edexcel-1MA1-specification.pdf",
+  "paper_sample": "June 2024, 1H/2H/3H question papers and mark schemes. Six unmodified PDFs retained in ../00 - Past papers with SHA256 manifest.",
+  "past_paper_formats_reviewed": [
+    "1H Q2: fraction calculation and correcting a method",
+    "1H Q5: estimation and the direction of an error",
+    "2H Q2: prime factorisation",
+    "2H Q9: upper/lower bounds",
+    "2H Q15: rationalising a denominator"
+  ],
+  "practice_origin": "All prompts, data and worked answers are original practice. Mark groups are suggested task totals, not copied official allocations. No frequency ranking or most-common claim is made from this one-series sample.",
+  "assessment": "All content may be assessed on any of Papers 1, 2 and 3. Paper 1 is non-calculator; Papers 2 and 3 permit calculators.",
+  "video_review": "Video IDs and embeds read from the provider’s own pages. Online playback requires an internet connection and may depend on provider/browser restrictions. Each embed has a direct watch link.",
+  "videos": [
+    {
+      "title": "Surds",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/05/11/surds/",
+      "video_id": "ndU_cCbPAm4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/ndU_cCbPAm4",
+      "watch_url": "https://www.youtube.com/watch?v=ndU_cCbPAm4",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Standard form",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/28/standard-form/",
+      "video_id": "cxGyZ3Yx9ow",
+      "embed_url": "https://www.youtube-nocookie.com/embed/cxGyZ3Yx9ow",
+      "watch_url": "https://www.youtube.com/watch?v=cxGyZ3Yx9ow",
+      "checked": "2026-10-29"
+    }
+  ],
+  "decisions": [
+    "No written revision notes or mindmaps, as requested. Optional revision videos accompany the two practice categories.",
+    "Equation substitutions and conclusions use separate worked steps. Diagram-dependent prompts are excluded from text-only flashcards.",
+    "StudyRocket’s quadratic note implies every quadratic has two x-intercepts; this was rejected. The bank correctly includes quadratics with no real roots."
+  ],
+  "question_specification_codes": [
+    "N1",
+    "N10",
+    "N11",
+    "N12",
+    "N13",
+    "N14",
+    "N15",
+    "N16",
+    "N2",
+    "N3",
+    "N4",
+    "N5",
+    "N6",
+    "N7",
+    "N8",
+    "N9"
+  ],
+  "codes_not_in_question_bank": [],
+  "question_total": 32,
+  "mark_groups": {
+    "1": 5,
+    "2": 16,
+    "3": 6,
+    "4": 3,
+    "5": 1,
+    "6": 1
+  },
+  "flashcard_total": 39,
+  "diagrams": []
+}

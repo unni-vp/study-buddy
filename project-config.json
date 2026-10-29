@@ -207,6 +207,11 @@
             3
           ]
         }
+      ],
+      "resource_kinds": [
+        "Revision Videos",
+        "Flash Cards",
+        "Questions and Answers"
       ]
     },
     "Geography - OCR A": {

@@ -11,6 +11,7 @@ from revision_navigation import build_revision_pages
 from qa_navigation import build_qa_pages
 from flashcard_navigation import build_flashcard_page
 from exam_timetable import render_timetable
+from revision_videos import build_video_page
 
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'library'
@@ -35,6 +36,7 @@ def subject_icon(name):
 
 def resource_icon(kind):
  paths={
+  'Revision Videos':'<rect x="2" y="4" width="20" height="16" rx="3"/><path d="m10 8 6 4-6 4Z"/>',
   'Revision Notes':'<rect x="5" y="3" width="15" height="18" rx="2"/><path d="M9 7h7M9 11h7M9 15h5M3 7h4M3 12h4M3 17h4"/>',
   'Mind Maps':'<circle cx="12" cy="12" r="3"/><path d="M10 10 6 6m8 4 4-4m-8 8-4 4m8-4 4 4"/><circle cx="4" cy="4" r="2"/><circle cx="20" cy="4" r="2"/><circle cx="4" cy="20" r="2"/><circle cx="20" cy="20" r="2"/>',
   'Flash Cards':'<rect x="4" y="5" width="14" height="16" rx="2"/><path d="M8 9h6M8 13h4M8 17h5M8 2h12v16"/>',
@@ -102,6 +104,8 @@ def resource_reader(source,subject,topic,topicpage):
  return target,title
 
 def resources(folder,subject,topic,topicpage,kind):
+ if kind=='Revision Videos':
+  return [build_video_page(p,READERS/(slug(subject+'-'+topic)+'-revision-videos.html'),subject,topic,topicpage,write,link) for p in sorted(folder.glob('*.json'))]
  if kind=='Flash Cards':
   decks=sorted(folder.glob('*.json'))
   return [build_flashcard_page(deck,READERS/(slug(subject+'-'+topic)+'-flash-cards.html'),subject,topic,topicpage,write,link) for deck in decks]
@@ -141,7 +145,9 @@ for subject,course in subjects.items():
  for i,topic in enumerate(course['topics'],1):
   title=topic['title']; folder=ROOT/subject/f'{i:02d} - {title}'; page=folder/'index.html'
   sections=[]; count=0
-  for kind,label in KINDS:
+  labels=dict(KINDS+[('Revision Videos','Revision videos')])
+  course_kinds=[(kind,labels[kind]) for kind in course['resource_kinds']] if 'resource_kinds' in course else KINDS
+  for kind,label in course_kinds:
    if kind=='Flash Cards' and not (folder/kind).exists():continue
    if kind=='Mind Maps' and (folder/'resource-coverage.json').exists():
     coverage=json.loads((folder/'resource-coverage.json').read_text(encoding='utf-8'))

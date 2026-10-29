@@ -1,0 +1,56 @@
+[
+  {
+    "paper": "1MA1/1H",
+    "series": "June 2024",
+    "kind": "QP",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-1H/QP/June%202024%20QP.pdf",
+    "file": "June-2024-1H-QP.pdf",
+    "pages": 24,
+    "sha256": "00f166bfdfd392b7e8ade2ed9598ac18f680039a34a884de3d17d85deee23d76"
+  },
+  {
+    "paper": "1MA1/1H",
+    "series": "June 2024",
+    "kind": "MS",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-1H/MS/June%202024%20MS.pdf",
+    "file": "June-2024-1H-MS.pdf",
+    "pages": 25,
+    "sha256": "e79144743f0f31358ec95a93bf0ba25cb7e335c5184164a972c27cf29ac96335"
+  },
+  {
+    "paper": "1MA1/2H",
+    "series": "June 2024",
+    "kind": "QP",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-2H/QP/June%202024%20QP.pdf",
+    "file": "June-2024-2H-QP.pdf",
+    "pages": 24,
+    "sha256": "7fa8f924df7f79315294992cf857bad30dfd8f9b1c9625b72b0f8791cd569ea4"
+  },
+  {
+    "paper": "1MA1/2H",
+    "series": "June 2024",
+    "kind": "MS",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-2H/MS/June%202024%20MS.pdf",
+    "file": "June-2024-2H-MS.pdf",
+    "pages": 28,
+    "sha256": "b29292c32d2c9a0b4442a24e37fc1c02bfb1ec922c596cc58d3e52f2e847099d"
+  },
+  {
+    "paper": "1MA1/3H",
+    "series": "June 2024",
+    "kind": "QP",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-3H/QP/June%202024%20QP.pdf",
+    "file": "June-2024-3H-QP.pdf",
+    "pages": 24,
+    "sha256": "ae84cfdcfb0343a61920ce1b30ec084e6a043ec7eb355bb8315ebf6e092b1849"
+  },
+  {
+    "paper": "1MA1/3H",
+    "series": "June 2024",
+    "kind": "MS",
+    "url": "https://pmt.physicsandmathstutor.com/download/Maths/GCSE/Past-Papers/Edexcel/Paper-3H/MS/June%202024%20MS.pdf",
+    "file": "June-2024-3H-MS.pdf",
+    "pages": 24,
+    "sha256": "3591d9b7f1450a69aea27ca21d61060afe2e51dad4159d0a716afcc29a8a290c"
+  }
+]

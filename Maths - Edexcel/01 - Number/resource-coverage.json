@@ -1,0 +1,313 @@
+{
+  "subject": "Maths - Edexcel",
+  "topic": "Number",
+  "qualification": "1MA1",
+  "tier": "Higher",
+  "exam_year": 2027,
+  "revision_notes": [],
+  "mindmaps": [],
+  "questions": [
+    {
+      "question": 1,
+      "marks": 1,
+      "specification_codes": [
+        "N1"
+      ],
+      "skill": "order",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 2,
+      "marks": 1,
+      "specification_codes": [
+        "N3"
+      ],
+      "skill": "reciprocal",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 3,
+      "marks": 1,
+      "specification_codes": [
+        "N6"
+      ],
+      "skill": "roots",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 4,
+      "marks": 1,
+      "specification_codes": [
+        "N9"
+      ],
+      "skill": "standard form",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 5,
+      "marks": 1,
+      "specification_codes": [
+        "N15"
+      ],
+      "skill": "rounding",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 6,
+      "marks": 2,
+      "specification_codes": [
+        "N2",
+        "N3"
+      ],
+      "skill": "order of operations",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 7,
+      "marks": 2,
+      "specification_codes": [
+        "N2",
+        "N3"
+      ],
+      "skill": "decimal calculation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 8,
+      "marks": 2,
+      "specification_codes": [
+        "N2"
+      ],
+      "skill": "fractions",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 9,
+      "marks": 2,
+      "specification_codes": [
+        "N2"
+      ],
+      "skill": "mixed numbers",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 10,
+      "marks": 2,
+      "specification_codes": [
+        "N4"
+      ],
+      "skill": "prime factors",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 11,
+      "marks": 2,
+      "specification_codes": [
+        "N4"
+      ],
+      "skill": "HCF and LCM",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 12,
+      "marks": 2,
+      "specification_codes": [
+        "N7"
+      ],
+      "skill": "fractional indices",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 13,
+      "marks": 2,
+      "specification_codes": [
+        "N8"
+      ],
+      "skill": "surds",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 14,
+      "marks": 2,
+      "specification_codes": [
+        "N8"
+      ],
+      "skill": "rationalise",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 15,
+      "marks": 2,
+      "specification_codes": [
+        "N9"
+      ],
+      "skill": "standard form operations",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 16,
+      "marks": 2,
+      "specification_codes": [
+        "N10"
+      ],
+      "skill": "fraction conversion",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 17,
+      "marks": 2,
+      "specification_codes": [
+        "N12"
+      ],
+      "skill": "percentage operator",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 18,
+      "marks": 2,
+      "specification_codes": [
+        "N13"
+      ],
+      "skill": "units",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 19,
+      "marks": 2,
+      "specification_codes": [
+        "N14"
+      ],
+      "skill": "estimation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 20,
+      "marks": 2,
+      "specification_codes": [
+        "N15"
+      ],
+      "skill": "error interval",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 21,
+      "marks": 2,
+      "specification_codes": [
+        "N15"
+      ],
+      "skill": "truncation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 22,
+      "marks": 3,
+      "specification_codes": [
+        "N5"
+      ],
+      "skill": "counting",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 23,
+      "marks": 3,
+      "specification_codes": [
+        "N10"
+      ],
+      "skill": "recurring decimal",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 24,
+      "marks": 3,
+      "specification_codes": [
+        "N8"
+      ],
+      "skill": "conjugate surd",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 25,
+      "marks": 3,
+      "specification_codes": [
+        "N11",
+        "N12"
+      ],
+      "skill": "fraction and ratio",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 26,
+      "marks": 3,
+      "specification_codes": [
+        "N4"
+      ],
+      "skill": "HCF application",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 27,
+      "marks": 3,
+      "specification_codes": [
+        "N6",
+        "N8"
+      ],
+      "skill": "root bounds",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 28,
+      "marks": 4,
+      "specification_codes": [
+        "N2",
+        "N12",
+        "N14"
+      ],
+      "skill": "money problem",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 29,
+      "marks": 4,
+      "specification_codes": [
+        "N8"
+      ],
+      "skill": "exact area",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 30,
+      "marks": 4,
+      "specification_codes": [
+        "N16"
+      ],
+      "skill": "upper and lower bounds",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 31,
+      "marks": 5,
+      "specification_codes": [
+        "N9",
+        "N12",
+        "N16"
+      ],
+      "skill": "bounds and standard form",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 32,
+      "marks": 6,
+      "specification_codes": [
+        "N2",
+        "N3",
+        "N11",
+        "N16"
+      ],
+      "skill": "linked problem",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    }
+  ],
+  "flashcards": 39,
+  "videos": 2,
+  "diagram_purposes": {}
+}
