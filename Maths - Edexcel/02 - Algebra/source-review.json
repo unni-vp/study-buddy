@@ -1,0 +1,88 @@
+{
+  "reviewed": "2026-10-29",
+  "qualification": "Edexcel GCSE Mathematics 1MA1 Higher",
+  "official_specification": "../00 - Specification/Edexcel-1MA1-specification.pdf",
+  "paper_sample": "June 2024, 1H/2H/3H question papers and mark schemes. Six unmodified PDFs retained in ../00 - Past papers with SHA256 manifest.",
+  "past_paper_formats_reviewed": [
+    "1H Q1: nth term",
+    "1H Q6: straight and parallel lines",
+    "1H Q10: simultaneous equations",
+    "2H Q5: quadratic graph (6 marks)",
+    "2H Q13: inequality region",
+    "2H Q14: velocity-time interpretation (6 marks)",
+    "2H Q16: quadratic inequality",
+    "2H Q20: completed square",
+    "3H Q20: linked sequence reasoning (7 marks)"
+  ],
+  "practice_origin": "All prompts, data and worked answers are original practice. Mark groups are suggested task totals, not copied official allocations. No frequency ranking or most-common claim is made from this one-series sample.",
+  "assessment": "All content may be assessed on any of Papers 1, 2 and 3. Paper 1 is non-calculator; Papers 2 and 3 permit calculators.",
+  "video_review": "Video IDs and embeds read from the provider’s own pages. Online playback requires an internet connection and may depend on provider/browser restrictions. Each embed has a direct watch link.",
+  "videos": [
+    {
+      "title": "Completing the square",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/12/29/completing-the-square-video-10/",
+      "video_id": "VS6apvTv2Rc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/VS6apvTv2Rc",
+      "watch_url": "https://www.youtube.com/watch?v=VS6apvTv2Rc",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Quadratic formula",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/24/quadratic-formula/",
+      "video_id": "3J0ccr74LcU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/3J0ccr74LcU",
+      "watch_url": "https://www.youtube.com/watch?v=3J0ccr74LcU",
+      "checked": "2026-10-29"
+    }
+  ],
+  "decisions": [
+    "No written revision notes or mindmaps, as requested. Optional revision videos accompany the two practice categories.",
+    "Equation substitutions and conclusions use separate worked steps. Diagram-dependent prompts are excluded from text-only flashcards.",
+    "StudyRocket’s quadratic note implies every quadratic has two x-intercepts; this was rejected. The bank correctly includes quadratics with no real roots."
+  ],
+  "question_specification_codes": [
+    "A1",
+    "A10",
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15",
+    "A16",
+    "A17",
+    "A18",
+    "A19",
+    "A2",
+    "A20",
+    "A21",
+    "A22",
+    "A23",
+    "A24",
+    "A25",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9"
+  ],
+  "codes_not_in_question_bank": [],
+  "question_total": 39,
+  "mark_groups": {
+    "1": 4,
+    "2": 13,
+    "3": 10,
+    "4": 7,
+    "5": 3,
+    "6": 1,
+    "7": 1
+  },
+  "flashcard_total": 42,
+  "diagrams": [
+    "inequality-region",
+    "velocity-graph"
+  ]
+}

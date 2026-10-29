@@ -1,13 +1,9 @@
 # Algebra
 
-**Specification reference:** 2
+Edexcel GCSE Mathematics 1MA1 Higher, summer 2027.
 
-**Course:** 1MA1 | **Exam year:** 2027 | **Tier:** Higher
+- 39 original practice questions, grouped by increasing marks, with worked answers.
+- 42 flashcards, including calculation practice and method checks.
+- 2 publisher-embedded revision videos with direct watch links.
 
-Use the full official specification in ../00 - Specification. Match every resource to the exact sub-section and applicable tier.
-
-- Revision Notes: plain English explanations, everyday analogies and must-know facts.
-- Mind Maps: links between ideas in large or complex topics.
-- Questions and Answers: one combined document with each question, its answer and marking points together.
-
-Resources have not yet been authored. Follow the project AGENTS.md and RESOURCE_GUIDELINES.md.
+No written revision notes or mindmaps were requested. Internal specification mapping, paper review and provenance are in source-review.json and resource-coverage.json.

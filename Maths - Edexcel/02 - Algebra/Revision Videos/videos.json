@@ -1,0 +1,23 @@
+{
+  "title": "Algebra revision videos",
+  "videos": [
+    {
+      "title": "Completing the square",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/12/29/completing-the-square-video-10/",
+      "video_id": "VS6apvTv2Rc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/VS6apvTv2Rc",
+      "watch_url": "https://www.youtube.com/watch?v=VS6apvTv2Rc",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Quadratic formula",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/24/quadratic-formula/",
+      "video_id": "3J0ccr74LcU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/3J0ccr74LcU",
+      "watch_url": "https://www.youtube.com/watch?v=3J0ccr74LcU",
+      "checked": "2026-10-29"
+    }
+  ]
+}
