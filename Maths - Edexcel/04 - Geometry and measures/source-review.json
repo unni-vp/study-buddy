@@ -1,0 +1,104 @@
+{
+  "reviewed": "2026-10-29",
+  "qualification": "Edexcel GCSE Mathematics 1MA1 Higher",
+  "official_specification": "../00 - Specification/Edexcel-1MA1-specification.pdf",
+  "paper_sample": "June 2024, 1H/2H/3H question papers and mark schemes. Six unmodified PDFs retained in ../00 - Past papers with SHA256 manifest.",
+  "past_paper_formats_reviewed": [
+    "1H Q11: combined transformations",
+    "2H Q1: Pythagoras",
+    "2H Q7: angle reasoning",
+    "2H Q8: scale drawing",
+    "2H Q10: similarity",
+    "2H Q19: vector proof",
+    "2H Q22: circle theorem",
+    "3H Q3: elevations",
+    "3H Q18: trigonometry"
+  ],
+  "practice_origin": "All prompts, data and worked answers are original practice. Mark groups are suggested task totals, not copied official allocations. No frequency ranking or most-common claim is made from this one-series sample.",
+  "assessment": "All content may be assessed on any of Papers 1, 2 and 3. Paper 1 is non-calculator; Papers 2 and 3 permit calculators.",
+  "video_review": "Video IDs and embeds read from the provider’s own pages. Online playback requires an internet connection and may depend on provider/browser restrictions. Each embed has a direct watch link.",
+  "videos": [
+    {
+      "title": "Circle theorems",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/circle-theorems-theorems/",
+      "video_id": "vgMSLsos7Ew",
+      "embed_url": "https://www.youtube-nocookie.com/embed/vgMSLsos7Ew",
+      "watch_url": "https://www.youtube.com/watch?v=vgMSLsos7Ew",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Cosine rule: missing sides",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/cosine-rule-missing-sides/",
+      "video_id": "3H3u92WJAjw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/3H3u92WJAjw",
+      "watch_url": "https://www.youtube.com/watch?v=3H3u92WJAjw",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Sine rule: missing sides",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/05/03/sine-rule-missing-sides/",
+      "video_id": "An_kU2n_3RY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/An_kU2n_3RY",
+      "watch_url": "https://www.youtube.com/watch?v=An_kU2n_3RY",
+      "checked": "2026-10-29"
+    }
+  ],
+  "decisions": [
+    "No written revision notes or mindmaps, as requested. Optional revision videos accompany the two practice categories.",
+    "Equation substitutions and conclusions use separate worked steps. Diagram-dependent prompts are excluded from text-only flashcards.",
+    "StudyRocket’s quadratic note implies every quadratic has two x-intercepts; this was rejected. The bank correctly includes quadratics with no real roots."
+  ],
+  "question_specification_codes": [
+    "G1",
+    "G10",
+    "G11",
+    "G12",
+    "G13",
+    "G14",
+    "G15",
+    "G16",
+    "G17",
+    "G18",
+    "G19",
+    "G2",
+    "G20",
+    "G21",
+    "G22",
+    "G23",
+    "G24",
+    "G25",
+    "G3",
+    "G4",
+    "G5",
+    "G6",
+    "G7",
+    "G8",
+    "G9"
+  ],
+  "codes_not_in_question_bank": [],
+  "question_total": 38,
+  "mark_groups": {
+    "1": 4,
+    "2": 14,
+    "3": 10,
+    "4": 7,
+    "5": 1,
+    "6": 1,
+    "7": 1
+  },
+  "flashcard_total": 44,
+  "diagrams": [
+    "circle-segment",
+    "cube-elevation",
+    "cube-plan",
+    "cyclic-quadrilateral",
+    "ladder",
+    "perpendicular-bisector",
+    "semicircle-proof",
+    "triangle-angle-proof",
+    "two-tangents"
+  ]
+}

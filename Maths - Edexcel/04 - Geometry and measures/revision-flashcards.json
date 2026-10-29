@@ -1,0 +1,350 @@
+{
+  "title": "Geometry and measures",
+  "base_origin": "Independently curated original 1MA1 Higher practice and methods.",
+  "base_cards": [
+    {
+      "category": "Solid properties",
+      "front": "State the number of faces, edges and vertices of a triangular prism.",
+      "back": [
+        "5 faces, 9 edges and 6 vertices."
+      ]
+    },
+    {
+      "category": "Quadrilateral",
+      "front": "Name a quadrilateral whose diagonals bisect each other at right angles but need not be equal.",
+      "back": [
+        "A rhombus. Its diagonals need not have equal lengths."
+      ]
+    },
+    {
+      "category": "Circle vocabulary",
+      "front": "What is the difference between a chord and a tangent?",
+      "back": [
+        "A chord joins two points on the circle. A tangent touches the circle at one point."
+      ]
+    },
+    {
+      "category": "Exact trigonometry",
+      "front": "Give the exact values of sin 30° and tan 45°.",
+      "back": [
+        "sin 30° = 1/2 and tan 45° = 1."
+      ]
+    },
+    {
+      "category": "Polygon angles",
+      "front": "Each exterior angle of a regular polygon is 24°. Find its number of sides and an interior angle.",
+      "back": [
+        "The number of sides is 360/24 = 15.",
+        "An interior angle is 180° − 24° = 156°."
+      ]
+    },
+    {
+      "category": "Parallel angles",
+      "front": "Two co-interior angles between parallel lines are (3x + 10)° and (2x + 20)°. Find x.",
+      "back": [
+        "Co-interior angles sum to 180°: 3x + 10 + 2x + 20 = 180.",
+        "5x = 150, so x = 30."
+      ]
+    },
+    {
+      "category": "Congruence",
+      "front": "Two triangles each have sides of lengths 5 cm and 7 cm. Their included angle is 40°. Explain why they are congruent.",
+      "back": [
+        "They have two corresponding sides and the included angle equal.",
+        "This is the SAS congruence criterion. An angle not included between the sides would not establish SAS."
+      ]
+    },
+    {
+      "category": "Translation",
+      "front": "A point P(−2,3) is translated by a vector with horizontal component 5 and vertical component −4. Find its image.",
+      "back": [
+        "Add the vector components to the coordinates.",
+        "P maps to (−2 + 5, 3 − 4) = (3,−1)."
+      ]
+    },
+    {
+      "category": "Negative enlargement",
+      "front": "Enlarge A(2,−1) by scale factor −2 about the origin. Find its image and explain the negative sign.",
+      "back": [
+        "Multiply both coordinates by −2 to obtain A′(−4,2).",
+        "The image lies on the opposite side of the centre, twice as far from it."
+      ]
+    },
+    {
+      "category": "Centre angle",
+      "front": "Points A, B and C lie on a circle with centre O. C lies on the major arc AB. The smaller angle AOB is 126°. Find angle ACB.",
+      "back": [
+        "The angle at the centre is twice the angle at the circumference standing on the same arc.",
+        "Angle ACB = 126°/2 = 63°."
+      ]
+    },
+    {
+      "category": "Bearings",
+      "front": "The bearing of B from A is 074°. Find the bearing of A from B.",
+      "back": [
+        "Reverse bearings differ by 180°.",
+        "074° + 180° = 254°."
+      ]
+    },
+    {
+      "category": "Trapezium area",
+      "front": "A trapezium has parallel sides 8 cm and 14 cm and perpendicular height 5 cm. Find its area.",
+      "back": [
+        "Area = 1/2 × (8 + 14) × 5.",
+        "The area is 55 cm². Use perpendicular height, not a sloping side."
+      ]
+    },
+    {
+      "category": "Prism volume",
+      "front": "A right prism has cross-sectional area 18 cm² and length 7 cm. Find its volume.",
+      "back": [
+        "Volume = cross-sectional area × length.",
+        "18 × 7 = 126 cm³."
+      ]
+    },
+    {
+      "category": "Circle measures",
+      "front": "A circle has radius 5 cm. Find its exact circumference and area.",
+      "back": [
+        "Circumference = 2πr = 10π cm.",
+        "Area = πr² = 25π cm²."
+      ]
+    },
+    {
+      "category": "Coordinate distance",
+      "front": "Find the distance between (−1,2) and (5,10).",
+      "back": [
+        "The horizontal and vertical differences are 6 and 8.",
+        "Distance = √(6² + 8²) = √100 = 10 units."
+      ]
+    },
+    {
+      "category": "Rotation",
+      "front": "Rotate P(3,−2) by 90° anticlockwise about the origin. Give its image.",
+      "back": [
+        "A 90° anticlockwise rotation maps (x,y) to (−y,x).",
+        "The image is P′(2,3)."
+      ]
+    },
+    {
+      "category": "Locus",
+      "front": "A garden plan has points A and B. Describe the region that is within 4 m of A and closer to A than to B. State how the boundaries are constructed.",
+      "back": [
+        "Draw a circle centred at A with radius representing 4 m. The required points are inside or on it.",
+        "Construct the perpendicular bisector of AB and choose the side containing A.",
+        "Take the overlap of these regions. The bisector itself is excluded because points on it are equally close, not closer to A."
+      ]
+    },
+    {
+      "category": "Combined transformations",
+      "front": "Reflect a shape in the y-axis, then in the x-axis. Describe the equivalent single transformation and name two properties it preserves.",
+      "back": [
+        "The coordinates change (x,y) to (−x,y), then to (−x,−y).",
+        "This is a rotation of 180° about the origin.",
+        "It preserves lengths and angles, so the image is congruent to the original."
+      ]
+    },
+    {
+      "category": "Sector",
+      "front": "A sector has radius 9 cm and angle 80°. Find its exact area and arc length.",
+      "back": [
+        "Area = (80/360) × π × 9² = 18π cm².",
+        "Arc length = (80/360) × 2π × 9 = 4π cm.",
+        "If its perimeter were needed, add both radii to the arc length."
+      ]
+    },
+    {
+      "category": "Sine rule",
+      "front": "In triangle ABC, A = 35°, B = 70° and side a = 8 cm. Find side b to 3 significant figures.",
+      "back": [
+        "a and b are opposite angles A and B respectively.",
+        "b/sin 70° = 8/sin 35°, so b = 8 sin 70°/sin 35°.",
+        "b = 13.1 cm to 3 significant figures."
+      ]
+    },
+    {
+      "category": "Cosine rule",
+      "front": "Two sides of a triangle are 7 cm and 9 cm and their included angle is 60°. Find the third side exactly.",
+      "back": [
+        "Use the cosine rule with the unknown side opposite the known angle.",
+        "a² = 7² + 9² − 2(7)(9)cos 60° = 49 + 81 − 63 = 67.",
+        "a = √67 cm."
+      ]
+    },
+    {
+      "category": "Triangle area",
+      "front": "A triangle has sides 10 cm and 8 cm enclosing an angle of 30°. Find its area.",
+      "back": [
+        "Use area = 1/2 ab sin C.",
+        "Area = 1/2 × 10 × 8 × sin 30°.",
+        "The area is 20 cm²."
+      ]
+    },
+    {
+      "category": "Vector arithmetic",
+      "front": "Let a = (2,−1) and b = (−3,4), where the components are horizontal then vertical. Find 2a − b and its magnitude.",
+      "back": [
+        "2a = (4,−2).",
+        "2a − b = (4 − (−3), −2 − 4) = (7,−6).",
+        "Magnitude = √(7² + (−6)²) = √85."
+      ]
+    },
+    {
+      "category": "Area scale",
+      "front": "Two similar triangles have areas 36 cm² and 81 cm². A side of the smaller triangle is 8 cm. Find the corresponding larger side.",
+      "back": [
+        "Area factor = 81/36 = 9/4.",
+        "Length factor = √(9/4) = 3/2.",
+        "The larger side is 8 × 3/2 = 12 cm."
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "category": "Geometry methods",
+      "front": "What is the shortest distance from a point to a line?",
+      "back": [
+        "The perpendicular distance."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "How is an angle bisector constructed with compasses?",
+      "back": [
+        "Draw an arc from the vertex cutting both arms. From those intersection points draw equal-radius arcs that cross. Join the vertex to their crossing."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What is the locus of points a fixed distance from a point?",
+      "back": [
+        "A circle with that point as centre and the fixed distance as radius."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What is the locus of points equidistant from two intersecting lines?",
+      "back": [
+        "The two angle bisectors of the lines."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "Which facts define a parallelogram?",
+      "back": [
+        "Opposite sides are parallel and equal. Opposite angles are equal, and its diagonals bisect each other."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What information fully describes a rotation?",
+      "back": [
+        "Its centre, angle and direction."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What information fully describes an enlargement?",
+      "back": [
+        "Its centre and scale factor, including the sign."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "State the alternate-segment theorem.",
+      "back": [
+        "The angle between a tangent and a chord equals the angle in the opposite segment standing on that chord."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What angle does a diameter subtend at the circumference?",
+      "back": [
+        "A right angle, when the third point lies on the circle."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What do angles in the same segment have in common?",
+      "back": [
+        "They are equal because they stand on the same chord and the same side of it."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "How does the perpendicular from a circle’s centre meet a chord?",
+      "back": [
+        "It bisects the chord."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "How do the sine rule and cosine rule differ in use?",
+      "back": [
+        "The sine rule uses an opposite side–angle pair. The cosine rule is useful with three sides or two sides and their included angle."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What is the ambiguous case of the sine rule?",
+      "back": [
+        "Given two sides and a non-included angle, two different triangles can sometimes satisfy the data; check the supplementary angle and angle sum."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "Give sin and cos for 0°, 30°, 45°, 60° and 90°.",
+      "back": [
+        "Use angles in the order 0°, 30°, 45°, 60°, 90°.",
+        "Sin values: 0, 1/2, √2/2, √3/2, 1.",
+        "Cos values: 1, √3/2, √2/2, 1/2, 0."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "Give tan for 0°, 30°, 45° and 60°.",
+      "back": [
+        "0, √3/3, 1, √3."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What is the difference between a sector and a segment?",
+      "back": [
+        "A sector is bounded by two radii and an arc. A segment is bounded by a chord and an arc."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "How do you prove two vectors represent parallel directions?",
+      "back": [
+        "Show that one non-zero vector is a scalar multiple of the other."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "Why do parallel direction vectors alone not prove three points are collinear?",
+      "back": [
+        "The relevant vectors must also lie on a shared line, for example because both start at the same point."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What are the volume formulae for a cone, pyramid and sphere?",
+      "back": [
+        "Cone volume = πr²h/3.",
+        "Pyramid volume = base area × perpendicular height/3.",
+        "Sphere volume = 4πr³/3.",
+        "r is the radius and h is the perpendicular height."
+      ]
+    },
+    {
+      "category": "Geometry methods",
+      "front": "What does congruent mean?",
+      "back": [
+        "Same shape and size; corresponding lengths and angles are equal. Similar figures may have a different scale."
+      ]
+    }
+  ],
+  "updates": []
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Geometry and measures revision videos",
+  "videos": [
+    {
+      "title": "Circle theorems",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/circle-theorems-theorems/",
+      "video_id": "vgMSLsos7Ew",
+      "embed_url": "https://www.youtube-nocookie.com/embed/vgMSLsos7Ew",
+      "watch_url": "https://www.youtube.com/watch?v=vgMSLsos7Ew",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Cosine rule: missing sides",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/04/04/cosine-rule-missing-sides/",
+      "video_id": "3H3u92WJAjw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/3H3u92WJAjw",
+      "watch_url": "https://www.youtube.com/watch?v=3H3u92WJAjw",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Sine rule: missing sides",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2013/05/03/sine-rule-missing-sides/",
+      "video_id": "An_kU2n_3RY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/An_kU2n_3RY",
+      "watch_url": "https://www.youtube.com/watch?v=An_kU2n_3RY",
+      "checked": "2026-10-29"
+    }
+  ]
+}
