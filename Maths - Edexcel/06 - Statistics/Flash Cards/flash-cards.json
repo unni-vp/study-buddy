@@ -1,0 +1,187 @@
+{
+  "title": "Statistics flash cards",
+  "cards": [
+    {
+      "category": "Data type",
+      "front": "State whether shoe size is discrete or continuous.",
+      "back": [
+        "Discrete: the recorded values occur in separate allowed steps, not any real value in an interval."
+      ]
+    },
+    {
+      "category": "Mode",
+      "front": "Find the mode of 3, 5, 5, 7, 8, 8, 8, 10.",
+      "back": [
+        "8."
+      ]
+    },
+    {
+      "category": "Averages",
+      "front": "For 4, 7, 7, 10, 12, find the mean and median.",
+      "back": [
+        "Mean = (4 + 7 + 7 + 10 + 12)/5 = 40/5 = 8.",
+        "The ordered middle value is 7, so the median is 7."
+      ]
+    },
+    {
+      "category": "Pie chart",
+      "front": "A survey of 120 people has 35 choosing cycling. Find the angle for cycling in a pie chart.",
+      "back": [
+        "The fraction is 35/120.",
+        "Sector angle = (35/120) × 360° = 105°."
+      ]
+    },
+    {
+      "category": "Stratified sample",
+      "front": "A school has 600 students, including 150 in Year 11. A proportional stratified sample contains 80 students. How many should be from Year 11?",
+      "back": [
+        "Year 11 forms 150/600 = 1/4 of the population.",
+        "Select 80 × 1/4 = 20 Year 11 students randomly within that stratum."
+      ]
+    },
+    {
+      "category": "Bias",
+      "front": "A student estimates the whole school’s favourite sport by questioning only the football team. Explain the problem and suggest an improvement.",
+      "back": [
+        "The team is not representative of the school; football is likely to be overrepresented.",
+        "Use a random sample from the whole school or appropriate randomly sampled strata."
+      ]
+    },
+    {
+      "category": "Iqr",
+      "front": "A data set has lower quartile 18, median 24 and upper quartile 31. Find its interquartile range and interpret it.",
+      "back": [
+        "IQR = 31 − 18 = 13.",
+        "The middle 50% of the data span 13 units."
+      ]
+    },
+    {
+      "category": "Interpolation",
+      "front": "A line of best fit uses data for ages 10 to 16. Explain why predicting a value at age 14 is generally safer than at age 30.",
+      "back": [
+        "Age 14 is within the observed range, so the estimate is interpolation.",
+        "Age 30 is extrapolation far beyond the data; the relationship may not continue."
+      ]
+    },
+    {
+      "category": "Frequency density",
+      "front": "A histogram class 10 < x ≤ 15 has frequency 18. Another class 15 < x ≤ 25 has frequency 24. Find their frequency densities and explain which bar is taller.",
+      "back": [
+        "First class width = 5, so density = 18/5 = 3.6.",
+        "Second class width = 10, so density = 24/10 = 2.4.",
+        "The first bar is taller even though it contains fewer values. In a histogram, area represents frequency."
+      ]
+    },
+    {
+      "category": "Combined means",
+      "front": "Eight parcels have mean mass 2.5 kg. Three of them have mean mass 1.5 kg. Find the mean mass of the other five parcels.",
+      "back": [
+        "Mass of all eight = 8 × 2.5 = 20 kg.",
+        "Mass of the three = 3 × 1.5 = 4.5 kg.",
+        "The other five total 15.5 kg, so their mean is 15.5/5 = 3.1 kg."
+      ]
+    },
+    {
+      "category": "Appropriate averages",
+      "front": "Salaries in a small business are £20000, £22000, £23000, £25000 and £150000. Find the mean and median. Explain which better describes a typical salary here.",
+      "back": [
+        "Mean = £240000/5 = £48000.",
+        "The median is £23000.",
+        "The very high salary pulls up the mean, so the median better describes the typical employee in this set."
+      ]
+    },
+    {
+      "category": "Misleading chart",
+      "front": "A bar chart compares values 90 and 100, but its vertical axis starts at 80. Explain why it may exaggerate the difference and how to improve it.",
+      "back": [
+        "The visible bar heights are proportional to 10 and 20, making one appear twice the other.",
+        "The actual values are 90 and 100, so the second is only about 11.1% greater.",
+        "Use a zero baseline for bars, or display the values and any axis break clearly without implying bar-length proportionality."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "How do you choose a median from an ordered list with an even number of values?",
+      "back": [
+        "Average the two middle values."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "What is frequency density?",
+      "back": [
+        "Frequency divided by class width. Histogram bar area, rather than height alone, represents frequency."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "Why plot cumulative frequency at upper class boundaries?",
+      "back": [
+        "Each plotted total counts values up to that boundary. Start at the first lower boundary with cumulative frequency zero."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "What does a box plot show?",
+      "back": [
+        "The minimum, lower quartile, median, upper quartile and maximum, using the convention in the question."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "How should two distributions be compared?",
+      "back": [
+        "Compare a suitable measure of centre and a measure of spread, using numerical evidence in context."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "What is the difference between a bar chart and a histogram?",
+      "back": [
+        "Bar charts show categories or discrete values, usually with gaps. Histograms use adjacent intervals for grouped numerical data, with frequency represented by area."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "How should a line of best fit be drawn?",
+      "back": [
+        "Follow the overall trend with points roughly balanced around it. Do not join every point or force it through the origin."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "Why use midpoints when estimating a grouped mean?",
+      "back": [
+        "Individual values are unknown, so a representative value is needed for each interval; this makes the resulting mean an estimate."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "How can an outlier affect the mean and median?",
+      "back": [
+        "An extreme value can strongly change the mean. The median depends on position and is usually less affected."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "What distinguishes a census from a sample?",
+      "back": [
+        "A census attempts to collect data from the whole population. A sample uses only part of it."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "What makes a random sample different from choosing whoever is convenient?",
+      "back": [
+        "A defined random selection procedure gives members the intended chance of selection; convenience can systematically exclude groups."
+      ]
+    },
+    {
+      "category": "Statistics methods",
+      "front": "When is a pictogram key essential?",
+      "back": [
+        "When each symbol represents a specified number of items. Interpret partial symbols using that key."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "subject": "Maths - Edexcel",
+  "topic": "Statistics",
+  "qualification": "1MA1",
+  "tier": "Higher",
+  "exam_year": 2027,
+  "revision_notes": [],
+  "mindmaps": [],
+  "questions": [
+    {
+      "question": 1,
+      "marks": 1,
+      "specification_codes": [
+        "S2"
+      ],
+      "skill": "data type",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 2,
+      "marks": 1,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "mode",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 3,
+      "marks": 1,
+      "specification_codes": [
+        "S6"
+      ],
+      "skill": "causation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 4,
+      "marks": 2,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "averages",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 5,
+      "marks": 2,
+      "specification_codes": [
+        "S2"
+      ],
+      "skill": "pie chart",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 6,
+      "marks": 2,
+      "specification_codes": [
+        "S1"
+      ],
+      "skill": "stratified sample",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 7,
+      "marks": 2,
+      "specification_codes": [
+        "S1",
+        "S5"
+      ],
+      "skill": "bias",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 8,
+      "marks": 2,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "IQR",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 9,
+      "marks": 2,
+      "specification_codes": [
+        "S6"
+      ],
+      "skill": "interpolation",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 10,
+      "marks": 2,
+      "specification_codes": [
+        "S2"
+      ],
+      "skill": "time series",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 11,
+      "marks": 3,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "mean from frequencies",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 12,
+      "marks": 3,
+      "specification_codes": [
+        "S3"
+      ],
+      "skill": "frequency density",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 13,
+      "marks": 3,
+      "specification_codes": [
+        "S3"
+      ],
+      "skill": "histogram reading",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 14,
+      "marks": 3,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "combined means",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 15,
+      "marks": 3,
+      "specification_codes": [
+        "S2",
+        "S4"
+      ],
+      "skill": "appropriate averages",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 16,
+      "marks": 3,
+      "specification_codes": [
+        "S2"
+      ],
+      "skill": "misleading chart",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 17,
+      "marks": 4,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "grouped mean",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 18,
+      "marks": 4,
+      "specification_codes": [
+        "S4"
+      ],
+      "skill": "box plots",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 19,
+      "marks": 4,
+      "specification_codes": [
+        "S6"
+      ],
+      "skill": "scatter graph",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 20,
+      "marks": 5,
+      "specification_codes": [
+        "S1",
+        "S5"
+      ],
+      "skill": "population estimate",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 21,
+      "marks": 5,
+      "specification_codes": [
+        "S3",
+        "S4"
+      ],
+      "skill": "grouped median",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    },
+    {
+      "question": 22,
+      "marks": 7,
+      "specification_codes": [
+        "S3",
+        "S4"
+      ],
+      "skill": "cumulative frequency",
+      "origin": "Original practice; suggested allocation, not an official question or mark scheme."
+    }
+  ],
+  "flashcards": 24,
+  "videos": 2,
+  "diagram_purposes": {
+    "box-plots": "Supports the adjacent box plots question or worked answer.",
+    "cumulative-frequency": "Supports the adjacent cumulative frequency question or worked answer.",
+    "histogram": "Supports the adjacent histogram reading question or worked answer.",
+    "scatter": "Supports the adjacent scatter graph question or worked answer."
+  }
+}

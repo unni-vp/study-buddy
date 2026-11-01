@@ -1,0 +1,23 @@
+{
+  "title": "Statistics revision videos",
+  "videos": [
+    {
+      "title": "Reading histograms",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2012/08/19/finding-frequencies-from-histograms/",
+      "video_id": "vhcikRsrdJo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/vhcikRsrdJo",
+      "watch_url": "https://www.youtube.com/watch?v=vhcikRsrdJo",
+      "checked": "2026-10-29"
+    },
+    {
+      "title": "Cumulative frequency",
+      "provider": "Corbettmaths",
+      "source_url": "https://corbettmaths.com/2012/08/09/reading-cumulative-frequency-graphs/",
+      "video_id": "DwM6MrGq1h4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/DwM6MrGq1h4",
+      "watch_url": "https://www.youtube.com/watch?v=DwM6MrGq1h4",
+      "checked": "2026-10-29"
+    }
+  ]
+}
