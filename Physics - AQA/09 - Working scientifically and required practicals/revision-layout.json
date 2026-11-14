@@ -16,6 +16,35 @@
         {
           "heading": "Evaluate explanations and evidence"
         }
+      ],
+      "subsections": [
+        {
+          "id": "build-a-testable-investigation",
+          "title": "Build a testable investigation",
+          "sections": [
+            {
+              "heading": "Build a testable investigation"
+            }
+          ]
+        },
+        {
+          "id": "safe-methods-and-representative-samples",
+          "title": "Safe methods and representative samples",
+          "sections": [
+            {
+              "heading": "Safe methods and representative samples"
+            }
+          ]
+        },
+        {
+          "id": "evaluate-explanations-and-evidence",
+          "title": "Evaluate explanations and evidence",
+          "sections": [
+            {
+              "heading": "Evaluate explanations and evidence"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,6 +62,35 @@
         {
           "heading": "Write a complete practical answer"
         }
+      ],
+      "subsections": [
+        {
+          "id": "measurement-quality-and-errors",
+          "title": "Measurement quality and errors",
+          "sections": [
+            {
+              "heading": "Measurement quality and errors"
+            }
+          ]
+        },
+        {
+          "id": "record-and-analyse-data",
+          "title": "Record and analyse data",
+          "sections": [
+            {
+              "heading": "Record and analyse data"
+            }
+          ]
+        },
+        {
+          "id": "write-a-complete-practical-answer",
+          "title": "Write a complete practical answer",
+          "sections": [
+            {
+              "heading": "Write a complete practical answer"
+            }
+          ]
+        }
       ]
     },
     {
@@ -46,6 +104,26 @@
         },
         {
           "heading": "Practical: thermal insulation"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "practical-specific-heat-capacity",
+          "title": "Practical: specific heat capacity",
+          "sections": [
+            {
+              "heading": "Practical: specific heat capacity"
+            }
+          ]
+        },
+        {
+          "id": "practical-thermal-insulation",
+          "title": "Practical: thermal insulation",
+          "sections": [
+            {
+              "heading": "Practical: thermal insulation"
+            }
+          ]
         }
       ]
     },
@@ -64,6 +142,35 @@
         {
           "heading": "Practical: force, mass and acceleration"
         }
+      ],
+      "subsections": [
+        {
+          "id": "practical-density",
+          "title": "Practical: density",
+          "sections": [
+            {
+              "heading": "Practical: density"
+            }
+          ]
+        },
+        {
+          "id": "practical-force-and-extension",
+          "title": "Practical: force and extension",
+          "sections": [
+            {
+              "heading": "Practical: force and extension"
+            }
+          ]
+        },
+        {
+          "id": "practical-force-mass-and-acceleration",
+          "title": "Practical: force, mass and acceleration",
+          "sections": [
+            {
+              "heading": "Practical: force, mass and acceleration"
+            }
+          ]
+        }
       ]
     },
     {
@@ -77,6 +184,26 @@
         },
         {
           "heading": "Practical: current–voltage characteristics"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "practical-resistance",
+          "title": "Practical: resistance",
+          "sections": [
+            {
+              "heading": "Practical: resistance"
+            }
+          ]
+        },
+        {
+          "id": "practical-current-voltage-characteristics",
+          "title": "Practical: current–voltage characteristics",
+          "sections": [
+            {
+              "heading": "Practical: current–voltage characteristics"
+            }
+          ]
         }
       ]
     },
@@ -95,7 +222,37 @@
         {
           "heading": "Practical: infrared absorption and emission"
         }
+      ],
+      "subsections": [
+        {
+          "id": "practical-waves-in-water-and-solids",
+          "title": "Practical: waves in water and solids",
+          "sections": [
+            {
+              "heading": "Practical: waves in water and solids"
+            }
+          ]
+        },
+        {
+          "id": "practical-reflection-and-refraction",
+          "title": "Practical: reflection and refraction",
+          "sections": [
+            {
+              "heading": "Practical: reflection and refraction"
+            }
+          ]
+        },
+        {
+          "id": "practical-infrared-absorption-and-emission",
+          "title": "Practical: infrared absorption and emission",
+          "sections": [
+            {
+              "heading": "Practical: infrared absorption and emission"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
