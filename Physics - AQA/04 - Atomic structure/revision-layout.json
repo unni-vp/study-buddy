@@ -13,6 +13,26 @@
         {
           "heading": "Electron energy levels and changing models"
         }
+      ],
+      "subsections": [
+        {
+          "id": "atoms-isotopes-and-ions",
+          "title": "Atoms, isotopes and ions",
+          "sections": [
+            {
+              "heading": "Atoms, isotopes and ions"
+            }
+          ]
+        },
+        {
+          "id": "electron-energy-levels-and-changing-models",
+          "title": "Electron energy levels and changing models",
+          "sections": [
+            {
+              "heading": "Electron energy levels and changing models"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +49,35 @@
         },
         {
           "heading": "Half-life and background correction"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "radioactive-decay-and-types-of-radiation",
+          "title": "Radioactive decay and types of radiation",
+          "sections": [
+            {
+              "heading": "Radioactive decay and types of radiation"
+            }
+          ]
+        },
+        {
+          "id": "balancing-nuclear-equations",
+          "title": "Balancing nuclear equations",
+          "sections": [
+            {
+              "heading": "Balancing nuclear equations"
+            }
+          ]
+        },
+        {
+          "id": "half-life-and-background-correction",
+          "title": "Half-life and background correction",
+          "sections": [
+            {
+              "heading": "Half-life and background correction"
+            }
+          ]
         }
       ]
     },
@@ -47,7 +96,37 @@
         {
           "heading": "Fission, fusion and chain reactions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "contamination-irradiation-and-protection",
+          "title": "Contamination, irradiation and protection",
+          "sections": [
+            {
+              "heading": "Contamination, irradiation and protection"
+            }
+          ]
+        },
+        {
+          "id": "background-radiation-and-uses",
+          "title": "Background radiation and uses",
+          "sections": [
+            {
+              "heading": "Background radiation and uses"
+            }
+          ]
+        },
+        {
+          "id": "fission-fusion-and-chain-reactions",
+          "title": "Fission, fusion and chain reactions",
+          "sections": [
+            {
+              "heading": "Fission, fusion and chain reactions"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
