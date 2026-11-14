@@ -13,6 +13,26 @@
         {
           "heading": "Retrieve information and infer carefully"
         }
+      ],
+      "subsections": [
+        {
+          "id": "understand-the-text-and-the-task",
+          "title": "Understand the text and the task",
+          "sections": [
+            {
+              "heading": "Understand the text and the task"
+            }
+          ]
+        },
+        {
+          "id": "retrieve-information-and-infer-carefully",
+          "title": "Retrieve information and infer carefully",
+          "sections": [
+            {
+              "heading": "Retrieve information and infer carefully"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +49,35 @@
         },
         {
           "heading": "Evaluate a view with evidence"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "explain-how-the-argument-works",
+          "title": "Explain how the argument works",
+          "sections": [
+            {
+              "heading": "Explain how the argument works"
+            }
+          ]
+        },
+        {
+          "id": "analyse-language-tone-and-organisation",
+          "title": "Analyse language, tone and organisation",
+          "sections": [
+            {
+              "heading": "Analyse language, tone and organisation"
+            }
+          ]
+        },
+        {
+          "id": "evaluate-a-view-with-evidence",
+          "title": "Evaluate a view with evidence",
+          "sections": [
+            {
+              "heading": "Evaluate a view with evidence"
+            }
+          ]
         }
       ]
     },
@@ -47,7 +96,37 @@
         {
           "heading": "Build a complete response"
         }
+      ],
+      "subsections": [
+        {
+          "id": "synthesise-information-from-both-texts",
+          "title": "Synthesise information from both texts",
+          "sections": [
+            {
+              "heading": "Synthesise information from both texts"
+            }
+          ]
+        },
+        {
+          "id": "compare-ideas-and-how-they-are-conveyed",
+          "title": "Compare ideas and how they are conveyed",
+          "sections": [
+            {
+              "heading": "Compare ideas and how they are conveyed"
+            }
+          ]
+        },
+        {
+          "id": "build-a-complete-response",
+          "title": "Build a complete response",
+          "sections": [
+            {
+              "heading": "Build a complete response"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
