@@ -19,6 +19,44 @@
         {
           "heading": "Give characters choices"
         }
+      ],
+      "subsections": [
+        {
+          "id": "choose-a-story-you-can-control",
+          "title": "Choose a story you can control",
+          "sections": [
+            {
+              "heading": "Choose a story you can control"
+            }
+          ]
+        },
+        {
+          "id": "build-a-meaningful-plot",
+          "title": "Build a meaningful plot",
+          "sections": [
+            {
+              "heading": "Build a meaningful plot"
+            }
+          ]
+        },
+        {
+          "id": "open-with-a-useful-focus",
+          "title": "Open with a useful focus",
+          "sections": [
+            {
+              "heading": "Open with a useful focus"
+            }
+          ]
+        },
+        {
+          "id": "give-characters-choices",
+          "title": "Give characters choices",
+          "sections": [
+            {
+              "heading": "Give characters choices"
+            }
+          ]
+        }
       ]
     },
     {
@@ -36,6 +74,35 @@
         {
           "heading": "Shape paragraphs and endings"
         }
+      ],
+      "subsections": [
+        {
+          "id": "control-time-and-viewpoint",
+          "title": "Control time and viewpoint",
+          "sections": [
+            {
+              "heading": "Control time and viewpoint"
+            }
+          ]
+        },
+        {
+          "id": "make-description-serve-the-story",
+          "title": "Make description serve the story",
+          "sections": [
+            {
+              "heading": "Make description serve the story"
+            }
+          ]
+        },
+        {
+          "id": "shape-paragraphs-and-endings",
+          "title": "Shape paragraphs and endings",
+          "sections": [
+            {
+              "heading": "Shape paragraphs and endings"
+            }
+          ]
+        }
       ]
     },
     {
@@ -50,7 +117,28 @@
         {
           "heading": "Edit for meaning, then accuracy"
         }
+      ],
+      "subsections": [
+        {
+          "id": "control-sentences-and-punctuation",
+          "title": "Control sentences and punctuation",
+          "sections": [
+            {
+              "heading": "Control sentences and punctuation"
+            }
+          ]
+        },
+        {
+          "id": "edit-for-meaning-then-accuracy",
+          "title": "Edit for meaning, then accuracy",
+          "sections": [
+            {
+              "heading": "Edit for meaning, then accuracy"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
