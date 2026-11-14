@@ -19,6 +19,44 @@
         {
           "heading": "Applying practical skills to new questions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "from-question-to-fair-investigation",
+          "title": "From question to fair investigation",
+          "sections": [
+            {
+              "heading": "From question to fair investigation"
+            }
+          ]
+        },
+        {
+          "id": "measurements-errors-and-improvements",
+          "title": "Measurements, errors and improvements",
+          "sections": [
+            {
+              "heading": "Measurements, errors and improvements"
+            }
+          ]
+        },
+        {
+          "id": "evidence-graphs-and-conclusions",
+          "title": "Evidence, graphs and conclusions",
+          "sections": [
+            {
+              "heading": "Evidence, graphs and conclusions"
+            }
+          ]
+        },
+        {
+          "id": "applying-practical-skills-to-new-questions",
+          "title": "Applying practical skills to new questions",
+          "sections": [
+            {
+              "heading": "Applying practical skills to new questions"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Acid–alkali titration"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "preparing-a-pure-dry-soluble-salt",
+          "title": "Preparing a pure dry soluble salt",
+          "sections": [
+            {
+              "heading": "Preparing a pure dry soluble salt"
+            }
+          ]
+        },
+        {
+          "id": "acid-alkali-titration",
+          "title": "Acid–alkali titration",
+          "sections": [
+            {
+              "heading": "Acid–alkali titration"
+            }
+          ]
         }
       ]
     },
@@ -47,6 +105,26 @@
         {
           "heading": "Temperature changes in reacting solutions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "electrolysis-of-aqueous-solutions",
+          "title": "Electrolysis of aqueous solutions",
+          "sections": [
+            {
+              "heading": "Electrolysis of aqueous solutions"
+            }
+          ]
+        },
+        {
+          "id": "temperature-changes-in-reacting-solutions",
+          "title": "Temperature changes in reacting solutions",
+          "sections": [
+            {
+              "heading": "Temperature changes in reacting solutions"
+            }
+          ]
+        }
       ]
     },
     {
@@ -60,6 +138,26 @@
         },
         {
           "heading": "Concentration and rate: turbidity or colour"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "concentration-and-rate-gas-volume",
+          "title": "Concentration and rate: gas volume",
+          "sections": [
+            {
+              "heading": "Concentration and rate: gas volume"
+            }
+          ]
+        },
+        {
+          "id": "concentration-and-rate-turbidity-or-colour",
+          "title": "Concentration and rate: turbidity or colour",
+          "sections": [
+            {
+              "heading": "Concentration and rate: turbidity or colour"
+            }
+          ]
         }
       ]
     },
@@ -78,7 +176,37 @@
         {
           "heading": "Water analysis and purification"
         }
+      ],
+      "subsections": [
+        {
+          "id": "paper-chromatography",
+          "title": "Paper chromatography",
+          "sections": [
+            {
+              "heading": "Paper chromatography"
+            }
+          ]
+        },
+        {
+          "id": "identifying-unknown-ionic-compounds",
+          "title": "Identifying unknown ionic compounds",
+          "sections": [
+            {
+              "heading": "Identifying unknown ionic compounds"
+            }
+          ]
+        },
+        {
+          "id": "water-analysis-and-purification",
+          "title": "Water analysis and purification",
+          "sections": [
+            {
+              "heading": "Water analysis and purification"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
