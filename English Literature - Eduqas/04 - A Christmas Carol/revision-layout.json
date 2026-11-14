@@ -16,6 +16,35 @@
         {
           "heading": "Stave 2: remembering what was lost"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-central-journey",
+          "title": "The central journey",
+          "sections": [
+            {
+              "heading": "The central journey"
+            }
+          ]
+        },
+        {
+          "id": "stave-1-a-closed-heart",
+          "title": "Stave 1: a closed heart",
+          "sections": [
+            {
+              "heading": "Stave 1: a closed heart"
+            }
+          ]
+        },
+        {
+          "id": "stave-2-remembering-what-was-lost",
+          "title": "Stave 2: remembering what was lost",
+          "sections": [
+            {
+              "heading": "Stave 2: remembering what was lost"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +61,35 @@
         },
         {
           "heading": "Stave 5: change made visible"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "stave-3-seeing-other-lives",
+          "title": "Stave 3: seeing other lives",
+          "sections": [
+            {
+              "heading": "Stave 3: seeing other lives"
+            }
+          ]
+        },
+        {
+          "id": "stave-4-a-future-that-can-change",
+          "title": "Stave 4: a future that can change",
+          "sections": [
+            {
+              "heading": "Stave 4: a future that can change"
+            }
+          ]
+        },
+        {
+          "id": "stave-5-change-made-visible",
+          "title": "Stave 5: change made visible",
+          "sections": [
+            {
+              "heading": "Stave 5: change made visible"
+            }
+          ]
         }
       ]
     },
@@ -53,6 +111,44 @@
         {
           "heading": "Fred, Fezziwig, Fan and Belle"
         }
+      ],
+      "subsections": [
+        {
+          "id": "scrooge-from-isolation-to-responsibility",
+          "title": "Scrooge: from isolation to responsibility",
+          "sections": [
+            {
+              "heading": "Scrooge: from isolation to responsibility"
+            }
+          ]
+        },
+        {
+          "id": "marley-and-the-three-spirits",
+          "title": "Marley and the three spirits",
+          "sections": [
+            {
+              "heading": "Marley and the three spirits"
+            }
+          ]
+        },
+        {
+          "id": "bob-tiny-tim-and-the-cratchits",
+          "title": "Bob, Tiny Tim and the Cratchits",
+          "sections": [
+            {
+              "heading": "Bob, Tiny Tim and the Cratchits"
+            }
+          ]
+        },
+        {
+          "id": "fred-fezziwig-fan-and-belle",
+          "title": "Fred, Fezziwig, Fan and Belle",
+          "sections": [
+            {
+              "heading": "Fred, Fezziwig, Fan and Belle"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,6 +166,35 @@
         {
           "heading": "Context, form and imagery"
         }
+      ],
+      "subsections": [
+        {
+          "id": "poverty-social-responsibility-and-family",
+          "title": "Poverty, social responsibility and family",
+          "sections": [
+            {
+              "heading": "Poverty, social responsibility and family"
+            }
+          ]
+        },
+        {
+          "id": "redemption-christmas-and-the-supernatural",
+          "title": "Redemption, Christmas and the supernatural",
+          "sections": [
+            {
+              "heading": "Redemption, Christmas and the supernatural"
+            }
+          ]
+        },
+        {
+          "id": "context-form-and-imagery",
+          "title": "Context, form and imagery",
+          "sections": [
+            {
+              "heading": "Context, form and imagery"
+            }
+          ]
+        }
       ]
     },
     {
@@ -81,7 +206,19 @@
         {
           "heading": "Writing about an extract and the whole novella"
         }
+      ],
+      "subsections": [
+        {
+          "id": "writing-about-an-extract-and-the-whole-novella",
+          "title": "Writing about an extract and the whole novella",
+          "sections": [
+            {
+              "heading": "Writing about an extract and the whole novella"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
