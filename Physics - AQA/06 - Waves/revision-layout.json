@@ -16,6 +16,35 @@
         {
           "heading": "Practical: measuring waves"
         }
+      ],
+      "subsections": [
+        {
+          "id": "what-a-wave-carries",
+          "title": "What a wave carries",
+          "sections": [
+            {
+              "heading": "What a wave carries"
+            }
+          ]
+        },
+        {
+          "id": "describing-and-calculating-waves",
+          "title": "Describing and calculating waves",
+          "sections": [
+            {
+              "heading": "Describing and calculating waves"
+            }
+          ]
+        },
+        {
+          "id": "practical-measuring-waves",
+          "title": "Practical: measuring waves",
+          "sections": [
+            {
+              "heading": "Practical: measuring waves"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +61,35 @@
         },
         {
           "heading": "Sound, ultrasound and seismic waves"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "reflection-absorption-and-transmission",
+          "title": "Reflection, absorption and transmission",
+          "sections": [
+            {
+              "heading": "Reflection, absorption and transmission"
+            }
+          ]
+        },
+        {
+          "id": "refraction-and-the-wavefront-explanation",
+          "title": "Refraction and the wavefront explanation",
+          "sections": [
+            {
+              "heading": "Refraction and the wavefront explanation"
+            }
+          ]
+        },
+        {
+          "id": "sound-ultrasound-and-seismic-waves",
+          "title": "Sound, ultrasound and seismic waves",
+          "sections": [
+            {
+              "heading": "Sound, ultrasound and seismic waves"
+            }
+          ]
         }
       ]
     },
@@ -50,6 +108,35 @@
         {
           "heading": "Radiation hazards and dose"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-electromagnetic-spectrum",
+          "title": "The electromagnetic spectrum",
+          "sections": [
+            {
+              "heading": "The electromagnetic spectrum"
+            }
+          ]
+        },
+        {
+          "id": "choosing-electromagnetic-waves",
+          "title": "Choosing electromagnetic waves",
+          "sections": [
+            {
+              "heading": "Choosing electromagnetic waves"
+            }
+          ]
+        },
+        {
+          "id": "radiation-hazards-and-dose",
+          "title": "Radiation hazards and dose",
+          "sections": [
+            {
+              "heading": "Radiation hazards and dose"
+            }
+          ]
+        }
       ]
     },
     {
@@ -63,6 +150,26 @@
         },
         {
           "heading": "Colour and filters"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "lenses-and-ray-diagrams",
+          "title": "Lenses and ray diagrams",
+          "sections": [
+            {
+              "heading": "Lenses and ray diagrams"
+            }
+          ]
+        },
+        {
+          "id": "colour-and-filters",
+          "title": "Colour and filters",
+          "sections": [
+            {
+              "heading": "Colour and filters"
+            }
+          ]
         }
       ]
     },
@@ -81,7 +188,37 @@
         {
           "heading": "Avoid these mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "infrared-emission-and-radiation-balance",
+          "title": "Infrared emission and radiation balance",
+          "sections": [
+            {
+              "heading": "Infrared emission and radiation balance"
+            }
+          ]
+        },
+        {
+          "id": "practical-infrared-surfaces",
+          "title": "Practical: infrared surfaces",
+          "sections": [
+            {
+              "heading": "Practical: infrared surfaces"
+            }
+          ]
+        },
+        {
+          "id": "avoid-these-mistakes",
+          "title": "Avoid these mistakes",
+          "sections": [
+            {
+              "heading": "Avoid these mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
