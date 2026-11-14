@@ -19,6 +19,44 @@
         {
           "heading": "Practical: reaction time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "keeping-internal-conditions-suitable",
+          "title": "Keeping internal conditions suitable",
+          "sections": [
+            {
+              "heading": "Keeping internal conditions suitable"
+            }
+          ]
+        },
+        {
+          "id": "nervous-signals-and-reflexes",
+          "title": "Nervous signals and reflexes",
+          "sections": [
+            {
+              "heading": "Nervous signals and reflexes"
+            }
+          ]
+        },
+        {
+          "id": "the-brain-and-investigating-it",
+          "title": "The brain and investigating it",
+          "sections": [
+            {
+              "heading": "The brain and investigating it"
+            }
+          ]
+        },
+        {
+          "id": "practical-reaction-time",
+          "title": "Practical: reaction time",
+          "sections": [
+            {
+              "heading": "Practical: reaction time"
+            }
+          ]
+        }
       ]
     },
     {
@@ -38,6 +76,44 @@
         },
         {
           "heading": "Controlling body temperature"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "eye-structures-and-light",
+          "title": "Eye structures and light",
+          "sections": [
+            {
+              "heading": "Eye structures and light"
+            }
+          ]
+        },
+        {
+          "id": "accommodation-and-pupil-responses",
+          "title": "Accommodation and pupil responses",
+          "sections": [
+            {
+              "heading": "Accommodation and pupil responses"
+            }
+          ]
+        },
+        {
+          "id": "correcting-eyesight",
+          "title": "Correcting eyesight",
+          "sections": [
+            {
+              "heading": "Correcting eyesight"
+            }
+          ]
+        },
+        {
+          "id": "controlling-body-temperature",
+          "title": "Controlling body temperature",
+          "sections": [
+            {
+              "heading": "Controlling body temperature"
+            }
+          ]
         }
       ]
     },
@@ -59,6 +135,44 @@
         {
           "heading": "Adrenaline, thyroxine and feedback"
         }
+      ],
+      "subsections": [
+        {
+          "id": "endocrine-glands-and-hormone-messages",
+          "title": "Endocrine glands and hormone messages",
+          "sections": [
+            {
+              "heading": "Endocrine glands and hormone messages"
+            }
+          ]
+        },
+        {
+          "id": "blood-glucose-insulin-and-glucagon",
+          "title": "Blood glucose: insulin and glucagon",
+          "sections": [
+            {
+              "heading": "Blood glucose: insulin and glucagon"
+            }
+          ]
+        },
+        {
+          "id": "diabetes-and-interpreting-data",
+          "title": "Diabetes and interpreting data",
+          "sections": [
+            {
+              "heading": "Diabetes and interpreting data"
+            }
+          ]
+        },
+        {
+          "id": "adrenaline-thyroxine-and-feedback",
+          "title": "Adrenaline, thyroxine and feedback",
+          "sections": [
+            {
+              "heading": "Adrenaline, thyroxine and feedback"
+            }
+          ]
+        }
       ]
     },
     {
@@ -79,6 +193,44 @@
         {
           "heading": "Kidney failure: dialysis and transplant"
         }
+      ],
+      "subsections": [
+        {
+          "id": "water-balance-and-urea-production",
+          "title": "Water balance and urea production",
+          "sections": [
+            {
+              "heading": "Water balance and urea production"
+            }
+          ]
+        },
+        {
+          "id": "kidney-filtration-and-selective-reabsorption",
+          "title": "Kidney filtration and selective reabsorption",
+          "sections": [
+            {
+              "heading": "Kidney filtration and selective reabsorption"
+            }
+          ]
+        },
+        {
+          "id": "adh-and-urine-concentration",
+          "title": "ADH and urine concentration",
+          "sections": [
+            {
+              "heading": "ADH and urine concentration"
+            }
+          ]
+        },
+        {
+          "id": "kidney-failure-dialysis-and-transplant",
+          "title": "Kidney failure: dialysis and transplant",
+          "sections": [
+            {
+              "heading": "Kidney failure: dialysis and transplant"
+            }
+          ]
+        }
       ]
     },
     {
@@ -95,6 +247,35 @@
         },
         {
           "heading": "Fertility hormones and IVF"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "puberty-and-the-menstrual-cycle",
+          "title": "Puberty and the menstrual cycle",
+          "sections": [
+            {
+              "heading": "Puberty and the menstrual cycle"
+            }
+          ]
+        },
+        {
+          "id": "contraception-how-methods-work",
+          "title": "Contraception: how methods work",
+          "sections": [
+            {
+              "heading": "Contraception: how methods work"
+            }
+          ]
+        },
+        {
+          "id": "fertility-hormones-and-ivf",
+          "title": "Fertility hormones and IVF",
+          "sections": [
+            {
+              "heading": "Fertility hormones and IVF"
+            }
+          ]
         }
       ]
     },
@@ -116,7 +297,46 @@
         {
           "heading": "Avoid these mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "plant-responses-to-light-and-gravity",
+          "title": "Plant responses to light and gravity",
+          "sections": [
+            {
+              "heading": "Plant responses to light and gravity"
+            }
+          ]
+        },
+        {
+          "id": "practical-seedling-growth-responses",
+          "title": "Practical: seedling growth responses",
+          "sections": [
+            {
+              "heading": "Practical: seedling growth responses"
+            }
+          ]
+        },
+        {
+          "id": "useful-plant-hormones",
+          "title": "Useful plant hormones",
+          "sections": [
+            {
+              "heading": "Useful plant hormones"
+            }
+          ]
+        },
+        {
+          "id": "avoid-these-mistakes",
+          "title": "Avoid these mistakes",
+          "sections": [
+            {
+              "heading": "Avoid these mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
