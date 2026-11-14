@@ -13,6 +13,26 @@
         {
           "heading": "The world's major ecosystems"
         }
+      ],
+      "subsections": [
+        {
+          "id": "components",
+          "title": "How ecosystems work",
+          "sections": [
+            {
+              "heading": "How ecosystems work"
+            }
+          ]
+        },
+        {
+          "id": "global-patterns",
+          "title": "Global distribution & characteristics",
+          "sections": [
+            {
+              "heading": "The world's major ecosystems"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +43,35 @@
       "sections": [
         {
           "heading": "Tropical rainforest processes"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "layers-adaptations",
+          "title": "Forest layers & adaptations",
+          "sections": [
+            {
+              "heading": "Structure, light and adaptations"
+            }
+          ]
+        },
+        {
+          "id": "nutrient-cycle",
+          "title": "Rainforest nutrient cycling",
+          "sections": [
+            {
+              "heading": "Nutrient stores and transfers"
+            }
+          ]
+        },
+        {
+          "id": "water-cycle",
+          "title": "Trees & the water cycle",
+          "sections": [
+            {
+              "heading": "The water cycle depends on trees"
+            }
+          ]
         }
       ]
     },
@@ -35,6 +84,44 @@
         {
           "heading": "Case study: Peruvian Amazon rainforest"
         }
+      ],
+      "subsections": [
+        {
+          "id": "setting-value",
+          "title": "Place & importance",
+          "sections": [
+            {
+              "heading": "Place and importance"
+            }
+          ]
+        },
+        {
+          "id": "interdependence",
+          "title": "Interdependence",
+          "sections": [
+            {
+              "heading": "Interdependence"
+            }
+          ]
+        },
+        {
+          "id": "threats",
+          "title": "Threats & consequences",
+          "sections": [
+            {
+              "heading": "Threats and consequences"
+            }
+          ]
+        },
+        {
+          "id": "management",
+          "title": "Sustainable management",
+          "sections": [
+            {
+              "heading": "Sustainable management"
+            }
+          ]
+        }
       ]
     },
     {
@@ -45,6 +132,29 @@
       "sections": [
         {
           "heading": "Coral reef processes"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "conditions",
+          "title": "Reef conditions & the coral–algae partnership",
+          "sections": [
+            {
+              "heading": "Conditions and the coral–algae partnership"
+            }
+          ]
+        },
+        {
+          "id": "nutrients-bleaching",
+          "title": "Nutrient cycling & bleaching",
+          "sections": [
+            {
+              "heading": "Nutrients are retained and reused"
+            },
+            {
+              "heading": "Bleaching and its consequences"
+            }
+          ]
         }
       ]
     },
@@ -63,7 +173,43 @@
         {
           "heading": "Sources for the named case studies"
         }
+      ],
+      "subsections": [
+        {
+          "id": "setting-value",
+          "title": "Setting, interdependence & value",
+          "sections": [
+            {
+              "heading": "Place and importance"
+            },
+            {
+              "heading": "Interdependence and value"
+            }
+          ]
+        },
+        {
+          "id": "threats",
+          "title": "Threats to the reef",
+          "sections": [
+            {
+              "heading": "Threats"
+            }
+          ]
+        },
+        {
+          "id": "protection",
+          "title": "Protection & sustainable use",
+          "sections": [
+            {
+              "heading": "Protection and sustainable use"
+            },
+            {
+              "heading": "Exam links to remember"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
