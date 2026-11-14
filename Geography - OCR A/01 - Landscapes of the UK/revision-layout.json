@@ -13,6 +13,53 @@
         {
           "heading": "Processes that shape landscapes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "uk-patterns",
+          "title": "UK landscape patterns",
+          "sections": [
+            {
+              "heading": "The broad pattern"
+            }
+          ]
+        },
+        {
+          "id": "rocks-and-people",
+          "title": "Rock types & human influences",
+          "sections": [
+            {
+              "heading": "Rock type and resistance"
+            },
+            {
+              "heading": "People change the physical system"
+            }
+          ]
+        },
+        {
+          "id": "weathering-mass-movement",
+          "title": "Weathering & mass movement",
+          "sections": [
+            {
+              "heading": "Weathering breaks rock down in place"
+            },
+            {
+              "heading": "Gravity causes mass movement"
+            }
+          ]
+        },
+        {
+          "id": "erosion-transport-deposition",
+          "title": "Erosion, transport & deposition",
+          "sections": [
+            {
+              "heading": "Moving water erodes and transports"
+            },
+            {
+              "heading": "Deposition lays material down"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +70,41 @@
       "sections": [
         {
           "heading": "River landscapes"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "drainage-profiles",
+          "title": "Drainage basins & river profiles",
+          "sections": [
+            {
+              "heading": "The drainage basin and river profiles"
+            }
+          ]
+        },
+        {
+          "id": "valleys-waterfalls",
+          "title": "Valleys, waterfalls & gorges",
+          "sections": [
+            {
+              "heading": "V-shaped valleys"
+            },
+            {
+              "heading": "Waterfalls and gorges"
+            }
+          ]
+        },
+        {
+          "id": "meanders-floodplains",
+          "title": "Meanders, floodplains & levees",
+          "sections": [
+            {
+              "heading": "Meanders and oxbow lakes"
+            },
+            {
+              "heading": "Floodplains and natural levees"
+            }
+          ]
         }
       ]
     },
@@ -35,6 +117,50 @@
         {
           "heading": "River Wye case study"
         }
+      ],
+      "subsections": [
+        {
+          "id": "setting-geology",
+          "title": "Setting, geology & relief",
+          "sections": [
+            {
+              "heading": "Place and context"
+            },
+            {
+              "heading": "Geology and relief"
+            }
+          ]
+        },
+        {
+          "id": "processes-landforms",
+          "title": "River processes & landforms",
+          "sections": [
+            {
+              "heading": "River processes and landforms"
+            }
+          ]
+        },
+        {
+          "id": "human-pressure",
+          "title": "Human uses & pressures",
+          "sections": [
+            {
+              "heading": "Human use and pressure"
+            }
+          ]
+        },
+        {
+          "id": "flood-management",
+          "title": "Flood risk & management",
+          "sections": [
+            {
+              "heading": "Flood risk and management"
+            },
+            {
+              "heading": "Evaluation"
+            }
+          ]
+        }
       ]
     },
     {
@@ -45,6 +171,41 @@
       "sections": [
         {
           "heading": "Coastal landscapes"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "waves-drift",
+          "title": "Waves & longshore drift",
+          "sections": [
+            {
+              "heading": "Waves supply energy"
+            },
+            {
+              "heading": "Longshore drift connects places"
+            }
+          ]
+        },
+        {
+          "id": "erosional-landforms",
+          "title": "Coastal erosion landforms",
+          "sections": [
+            {
+              "heading": "Headlands and bays"
+            },
+            {
+              "heading": "Caves, arches and stacks"
+            }
+          ]
+        },
+        {
+          "id": "beaches-spits",
+          "title": "Beaches & spits",
+          "sections": [
+            {
+              "heading": "Beaches and spits"
+            }
+          ]
         }
       ]
     },
@@ -60,7 +221,52 @@
         {
           "heading": "High-yield checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "setting-risk",
+          "title": "Setting & coastal vulnerability",
+          "sections": [
+            {
+              "heading": "Place and context"
+            },
+            {
+              "heading": "Why the coast is vulnerable"
+            }
+          ]
+        },
+        {
+          "id": "sediment-landforms",
+          "title": "Sediment movement & landforms",
+          "sections": [
+            {
+              "heading": "Sediment movement and depositional landforms"
+            }
+          ]
+        },
+        {
+          "id": "local-management",
+          "title": "Cromer & Happisburgh management",
+          "sections": [
+            {
+              "heading": "Management at Cromer"
+            },
+            {
+              "heading": "Adaptation at Happisburgh"
+            }
+          ]
+        },
+        {
+          "id": "shoreline-planning",
+          "title": "Shoreline planning & evaluation",
+          "sections": [
+            {
+              "heading": "Shoreline planning and evaluation"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }

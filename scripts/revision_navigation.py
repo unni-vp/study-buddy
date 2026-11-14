@@ -69,8 +69,14 @@ def revision_sidebar(page, topic, groups, targets, menu, full, current, link):
         attributes=' aria-current="page"' if selected else ''
         classes=('selected ' if selected else '')+extra_class
         return f'<a class="{classes.strip()}" href="{escape(href,quote=True)}"{attributes}>{escape(title)}</a>'
-    sections=''.join(item(link(page,targets[g['id']]),g['title'],g['id']) for g in groups)
-    selected=next((g['title'] for g in groups if g['id']==current),None)
+    def subsection_item(group):
+        if not group.get('subsections'):
+            return item(link(page,targets[group['id']]),group['title'],group['id'])
+        children=''.join(item(link(page,targets[sub['id']]),sub['title'],sub['id']) for sub in group['subsections'])
+        return '<div class="revision-nav-group"><p class="revision-nav-group-title">'+escape(group['title'])+'</p>'+children+'</div>'
+    sections=''.join(subsection_item(g) for g in groups)
+    entries=[entry for g in groups for entry in (g.get('subsections') or [g])]
+    selected=next((g['title'] for g in entries if g['id']==current),None)
     mobile_title=f'<span class="revision-current-section">{escape(selected)}</span>' if selected else ''
     return ('<aside class="revision-sidebar" aria-label="Revision contents">'
             +item(link(page,menu),topic,'menu','revision-side-topic')
@@ -82,6 +88,9 @@ def revision_sidebar(page, topic, groups, targets, menu, full, current, link):
 
 def build_revision_pages(source, layout_path, target, subject, topic, topicpage, write, link, slug):
     layout=json.loads(layout_path.read_text(encoding='utf-8'))
+    if layout.get('subsection_navigation'):
+        from revision_subsections import build_subsection_pages
+        return build_subsection_pages(source,layout,target,subject,topic,topicpage,write,link,slug)
     raw=source.read_text(encoding='utf-8')
     contents=partition(raw,layout)
     prefix=target.stem

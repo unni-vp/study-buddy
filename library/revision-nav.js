@@ -11,6 +11,14 @@
   if(!active)return;
   const scroller=narrow.matches?list:sidebar;
   const row=active.getBoundingClientRect(),box=scroller.getBoundingClientRect();
+  const group=active.closest(".revision-nav-group");
+  if(group){
+   const parent=group.getBoundingClientRect();
+   if(parent.height<=box.height-24){
+    if(parent.top<box.top||parent.bottom>box.bottom)scroller.scrollTop+=parent.top-box.top-12;
+    return;
+   }
+  }
   if(row.top<box.top||row.bottom>box.bottom)scroller.scrollTop+=row.top-box.top-(box.height-row.height)/2;
  }
  function resize() {
