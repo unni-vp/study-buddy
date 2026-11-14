@@ -13,6 +13,26 @@
         {
           "heading": "Ratios, percentages and precision"
         }
+      ],
+      "subsections": [
+        {
+          "id": "units-standard-form-and-estimates",
+          "title": "Units, standard form and estimates",
+          "sections": [
+            {
+              "heading": "Units, standard form and estimates"
+            }
+          ]
+        },
+        {
+          "id": "ratios-percentages-and-precision",
+          "title": "Ratios, percentages and precision",
+          "sections": [
+            {
+              "heading": "Ratios, percentages and precision"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +52,44 @@
         },
         {
           "heading": "Relative masses and isotope averages"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "reading-the-periodic-table",
+          "title": "Reading the periodic table",
+          "sections": [
+            {
+              "heading": "Reading the periodic table"
+            }
+          ]
+        },
+        {
+          "id": "first-20-elements-and-useful-symbols",
+          "title": "First 20 elements and useful symbols",
+          "sections": [
+            {
+              "heading": "First 20 elements and useful symbols"
+            }
+          ]
+        },
+        {
+          "id": "groups-periods-and-ion-formulas",
+          "title": "Groups, periods and ion formulas",
+          "sections": [
+            {
+              "heading": "Groups, periods and ion formulas"
+            }
+          ]
+        },
+        {
+          "id": "relative-masses-and-isotope-averages",
+          "title": "Relative masses and isotope averages",
+          "sections": [
+            {
+              "heading": "Relative masses and isotope averages"
+            }
+          ]
         }
       ]
     },
@@ -53,6 +111,44 @@
         {
           "heading": "Gases at room temperature and pressure"
         }
+      ],
+      "subsections": [
+        {
+          "id": "moles-particles-and-equation-ratios",
+          "title": "Moles, particles and equation ratios",
+          "sections": [
+            {
+              "heading": "Moles, particles and equation ratios"
+            }
+          ]
+        },
+        {
+          "id": "limiting-reactants-and-empirical-formulas",
+          "title": "Limiting reactants and empirical formulas",
+          "sections": [
+            {
+              "heading": "Limiting reactants and empirical formulas"
+            }
+          ]
+        },
+        {
+          "id": "solutions-and-titration-calculations",
+          "title": "Solutions and titration calculations",
+          "sections": [
+            {
+              "heading": "Solutions and titration calculations"
+            }
+          ]
+        },
+        {
+          "id": "gases-at-room-temperature-and-pressure",
+          "title": "Gases at room temperature and pressure",
+          "sections": [
+            {
+              "heading": "Gases at room temperature and pressure"
+            }
+          ]
+        }
       ]
     },
     {
@@ -66,6 +162,26 @@
         },
         {
           "heading": "Energy calculations and signs"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "yield-atom-economy-and-rates",
+          "title": "Yield, atom economy and rates",
+          "sections": [
+            {
+              "heading": "Yield, atom economy and rates"
+            }
+          ]
+        },
+        {
+          "id": "energy-calculations-and-signs",
+          "title": "Energy calculations and signs",
+          "sections": [
+            {
+              "heading": "Energy calculations and signs"
+            }
+          ]
         }
       ]
     },
@@ -84,7 +200,31 @@
         {
           "heading": "Calculation routine"
         }
+      ],
+      "subsections": [
+        {
+          "id": "data-tables-means-and-graphs",
+          "title": "Data tables, means and graphs",
+          "sections": [
+            {
+              "heading": "Data tables, means and graphs"
+            }
+          ]
+        },
+        {
+          "id": "algebra-geometry-and-molecular-representations",
+          "title": "Algebra, geometry and molecular representations",
+          "sections": [
+            {
+              "heading": "Algebra, geometry and molecular representations"
+            },
+            {
+              "heading": "Calculation routine"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
