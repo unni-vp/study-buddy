@@ -1,0 +1,25 @@
+/* Topic contents stay beside the text; the reading area and print content are unchanged. */
+.revision-sidebar .revision-side-topic { display:block; color:var(--accent-dark,var(--accent)); font-size:17px; font-weight:700; line-height:1.45; text-decoration:none; overflow-wrap:break-word; margin:0 0 22px; }
+.revision-sidebar .revision-side-topic:hover { text-decoration:underline; }
+.revision-sidebar .revision-side-label { margin:0 10px 12px; letter-spacing:1px; }
+.revision-sidebar .revision-sections-list { gap:5px; }
+.revision-sidebar .revision-sections-list a { line-height:1.45; padding:10px 12px; font-size:14px; border-left:3px solid transparent; overflow-wrap:break-word; }
+.revision-sidebar .revision-sections-list a[aria-current="page"] { font-weight:700; border-left-color:var(--accent); background:var(--accent-soft,#e5efeb); color:var(--accent-dark,var(--accent)); }
+.revision-sidebar .revision-side-complete { display:block; color:var(--muted); font-size:13px; line-height:1.5; margin:20px 10px 0; padding-top:14px; border-top:1px solid var(--line); text-decoration:none; }
+.revision-sidebar .revision-side-complete:hover,.revision-sidebar .revision-side-complete[aria-current="page"] { color:var(--accent); font-weight:700; }
+@media screen and (min-width:721px) {
+ .revision-notes-page>header { position:sticky; top:0; z-index:10; }
+ .inner-page .revision-sidebar { position:sticky; top:52px; align-self:start; height:calc(100vh - 52px); height:calc(100dvh - 52px); min-height:0; overflow-y:auto; overscroll-behavior:contain; padding:26px 14px; scrollbar-width:thin; }
+ .revision-toc>summary { display:none; }
+}
+@media screen and (max-width:720px) {
+ .inner-page .revision-sidebar { display:block; min-height:0; padding:14px 18px 0; border:0; }
+ .revision-sidebar .revision-side-topic { display:none; }
+ .revision-toc { border:1px solid var(--accent-line,var(--line)); border-radius:9px; background:#fff; }
+ .revision-toc>summary { cursor:pointer; padding:10px 14px; font-size:14px; font-weight:600; color:var(--accent-dark,var(--accent)); }
+ .revision-current-section { display:block; margin:3px 0 0 18px; font-size:12px; font-weight:400; color:var(--muted); }
+ .revision-sidebar .revision-side-label { display:none; }
+ .revision-sidebar .revision-sections-list { max-height:45vh; max-height:45dvh; overflow-y:auto; overscroll-behavior:contain; padding:0 8px 8px; }
+ .revision-sidebar .revision-side-complete { display:none; }
+}
+@media print { .revision-sidebar { display:none!important; } }

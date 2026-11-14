@@ -62,6 +62,24 @@ def partition(raw, layout):
 def grouped_card(href, group):
     return f'<a class="revision-group" href="{escape(href,quote=True)}">{icon(group["icon"])}<span><strong>{escape(group["title"])}</strong><small>{escape(group["description"])}</small></span><span class="map-arrow" aria-hidden="true">→</span></a>'
 
+def revision_sidebar(page, topic, groups, targets, menu, full, current, link):
+    """A stable topic contents list shared by its menu, readers and print view."""
+    def item(href, title, key, extra_class=''):
+        selected=key==current
+        attributes=' aria-current="page"' if selected else ''
+        classes=('selected ' if selected else '')+extra_class
+        return f'<a class="{classes.strip()}" href="{escape(href,quote=True)}"{attributes}>{escape(title)}</a>'
+    sections=''.join(item(link(page,targets[g['id']]),g['title'],g['id']) for g in groups)
+    selected=next((g['title'] for g in groups if g['id']==current),None)
+    mobile_title=f'<span class="revision-current-section">{escape(selected)}</span>' if selected else ''
+    return ('<aside class="revision-sidebar" aria-label="Revision contents">'
+            +item(link(page,menu),topic,'menu','revision-side-topic')
+            +'<details class="revision-toc" open><summary>Revision sections'+mobile_title+'</summary>'
+            +'<p class="eyebrow revision-side-label">REVISION SECTIONS</p>'
+            +'<nav class="revision-sections-list" aria-label="Revision sections">'+sections+'</nav></details>'
+            +item(link(page,full),'Complete notes','all','revision-side-complete')+'</aside>')
+
+
 def build_revision_pages(source, layout_path, target, subject, topic, topicpage, write, link, slug):
     layout=json.loads(layout_path.read_text(encoding='utf-8'))
     raw=source.read_text(encoding='utf-8')
@@ -80,6 +98,12 @@ def build_revision_pages(source, layout_path, target, subject, topic, topicpage,
     targets={p['id']:target.with_name(prefix+('-group-' if p in groups else '-')+p['id']+'.html') for p in pages}
     full=target.with_name(prefix+'-all.html')
 
+    def write_revision(page, title, content, crumbs, subject, current='menu'):
+        if is_qa:
+            return write(page,title,content,crumbs,subject)
+        sidebar=revision_sidebar(page,topic,groups,targets,target,full,current,link)
+        return write(page,title,content,crumbs,subject,revision_sidebar=sidebar)
+
     def render(page, md):
         content=render_md(md)
         def relocate(m):
@@ -93,7 +117,7 @@ def build_revision_pages(source, layout_path, target, subject, topic, topicpage,
 
     cards=''.join(grouped_card(link(target,targets[g['id']]),g) for g in groups)
     utilities=''.join(f'<a href="{link(target,targets[p["id"]])}">{escape(p["title"])}</a>' for p in layout.get('extras',[]) if not is_reference_heading(p['title']))
-    write(target,topic+' '+label.lower(),f'<div class="reader-tools"><a href="{link(target,topicpage)}">← Back to topic</a><a href="{link(target,full)}">{print_label}</a></div><h1>{escape(topic)}</h1><div class="revision-grid">{cards}</div><nav class="revision-utilities" aria-label="Resource tools">{utilities}</nav>',crumbs[:-1],subject)
+    write_revision(target,topic+' '+label.lower(),f'<div class="reader-tools"><a href="{link(target,topicpage)}">← Back to topic</a><a href="{link(target,full)}">{print_label}</a></div><h1>{escape(topic)}</h1><div class="revision-grid">{cards}</div><nav class="revision-utilities" aria-label="Resource tools">{utilities}</nav>',crumbs[:-1],subject)
     for i,g in enumerate(groups):
         page=targets[g['id']]
         step_links=[]
@@ -115,10 +139,10 @@ def build_revision_pages(source, layout_path, target, subject, topic, topicpage,
             related.append(f'<a href="{link(page,topicpage)}">Questions &amp; answers</a>')
         extras='<nav class="revision-utilities" aria-label="Related resources">'+''.join(related)+'</nav>' if related else ''
         qa_class=' qa-reading' if is_qa else ''
-        write(page,g['title'],f'<div class="reader-tools"><a href="{link(page,target)}">← {back}</a></div><article class="reading section-reading{qa_class}">{render(page,contents[g["id"]])}</article>{extras}{navigation}',crumbs,subject)
+        write_revision(page,g['title'],f'<div class="reader-tools"><a href="{link(page,target)}">← {back}</a></div><article class="reading section-reading{qa_class}">{render(page,contents[g["id"]])}</article>{extras}{navigation}',crumbs,subject,current=g['id'])
     for p in layout.get('extras',[]):
         page=targets[p['id']]
-        write(page,p['title'],f'<div class="reader-tools"><a href="{link(page,target)}">← {back}</a></div><article class="reading">{render(page,contents[p["id"]])}</article>',crumbs,subject)
+        write_revision(page,p['title'],f'<div class="reader-tools"><a href="{link(page,target)}">← {back}</a></div><article class="reading">{render(page,contents[p["id"]])}</article>',crumbs,subject,current=p['id'])
     qa_class=' qa-reading' if is_qa else ''
-    write(full,topic+' — all '+label.lower(),f'<div class="reader-tools"><a href="{link(full,target)}">← {back}</a><button onclick="window.print()">{print_label}</button></div><article class="reading{qa_class}">{render(full,raw)}</article>',crumbs,subject)
+    write_revision(full,topic+' — all '+label.lower(),f'<div class="reader-tools"><a href="{link(full,target)}">← {back}</a><button onclick="window.print()">{print_label}</button></div><article class="reading{qa_class}">{render(full,raw)}</article>',crumbs,subject,current='all')
     return target,topic+' '+label.lower()

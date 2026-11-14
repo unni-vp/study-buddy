@@ -61,7 +61,7 @@ def topic_paper_tags(topic):
 def link(page,target):return quote(os.path.relpath(target,page.parent).replace('\\','/'),safe='/')
 def slug(s):return re.sub(r'[^a-z0-9]+','-',s.lower()).strip('-')
 def short(s):return s.split(' - ')[0]
-def write(page,title,content,crumbs=[],subject=None):
+def write(page,title,content,crumbs=[],subject=None,*,revision_sidebar=None):
  css=link(page,SITE/'style.css')
  viewer=viewer_markup(page,MAP_CATALOGS[page],link) if page in MAP_CATALOGS else ''
  viewer_assets=(f'<link rel="stylesheet" href="{link(page,SITE/"mindmaps.css")}"><script defer src="{link(page,SITE/"mindmaps.js")}"></script>') if viewer else ''
@@ -73,10 +73,13 @@ def write(page,title,content,crumbs=[],subject=None):
  page_class='home-page' if page==ROOT/'index.html' else 'inner-page'
  if page==ROOT/'timetable.html':page_class+=' timetable-view'
  if subject:page_class+=' subject-'+slug(short(subject))
+ if revision_sidebar is not None:page_class+=' revision-notes-page'
+ revision_assets=(f'<link rel="stylesheet" href="{link(page,SITE/"revision-nav.css")}"><script defer src="{link(page,SITE/"revision-nav.js")}"></script>') if revision_sidebar is not None else ''
+ sidebar=revision_sidebar if revision_sidebar is not None else f'<aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside>'
  exam_label = '<span class="exam">Summer 2027</span>'
  if page == ROOT/'index.html':
   exam_label = ''
- page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a>{exam_label}</header><div class="layout"><aside><p class="eyebrow">YOUR SUBJECTS</p><nav aria-label="Subjects">{side}</nav><p class="side-note">Build understanding.<br>Practise precise answers.</p></aside><main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
+ page.write_text(f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{esc(page_title)}</title><link rel="stylesheet" href="{css}">{viewer_assets}{revision_assets}</head><body class="{page_class}"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="{link(page,ROOT/'index.html')}"><span class="brand-mark">G</span><span class="brand-name">{esc(SITE_TITLE)}</span></a>{exam_label}</header><div class="layout">{sidebar}<main id="main">{breadcrumb_html}{content}<footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div>{viewer}</body></html>''',encoding='utf-8')
 
 def resource_reader(source,subject,topic,topicpage):
  key=hashlib.sha1(str(source.relative_to(ROOT)).encode()).hexdigest()[:12]
