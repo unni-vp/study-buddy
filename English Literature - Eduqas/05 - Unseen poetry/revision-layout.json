@@ -16,6 +16,35 @@
         {
           "heading": "Tone, viewpoint and ambiguity"
         }
+      ],
+      "subsections": [
+        {
+          "id": "finding-a-poem-s-meaning",
+          "title": "Finding a poem's meaning",
+          "sections": [
+            {
+              "heading": "Finding a poem's meaning"
+            }
+          ]
+        },
+        {
+          "id": "literal-meaning-and-deeper-ideas",
+          "title": "Literal meaning and deeper ideas",
+          "sections": [
+            {
+              "heading": "Literal meaning and deeper ideas"
+            }
+          ]
+        },
+        {
+          "id": "tone-viewpoint-and-ambiguity",
+          "title": "Tone, viewpoint and ambiguity",
+          "sections": [
+            {
+              "heading": "Tone, viewpoint and ambiguity"
+            }
+          ]
+        }
       ]
     },
     {
@@ -30,6 +59,26 @@
         {
           "heading": "Structure and form"
         }
+      ],
+      "subsections": [
+        {
+          "id": "language-and-imagery",
+          "title": "Language and imagery",
+          "sections": [
+            {
+              "heading": "Language and imagery"
+            }
+          ]
+        },
+        {
+          "id": "structure-and-form",
+          "title": "Structure and form",
+          "sections": [
+            {
+              "heading": "Structure and form"
+            }
+          ]
+        }
       ]
     },
     {
@@ -43,6 +92,26 @@
         },
         {
           "heading": "Selecting evidence and building paragraphs"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "a-short-poem-to-practise-with",
+          "title": "A short poem to practise with",
+          "sections": [
+            {
+              "heading": "A short poem to practise with"
+            }
+          ]
+        },
+        {
+          "id": "selecting-evidence-and-building-paragraphs",
+          "title": "Selecting evidence and building paragraphs",
+          "sections": [
+            {
+              "heading": "Selecting evidence and building paragraphs"
+            }
+          ]
         }
       ]
     },
@@ -61,7 +130,37 @@
         {
           "heading": "Managing the two tasks"
         }
+      ],
+      "subsections": [
+        {
+          "id": "comparing-two-unseen-poems",
+          "title": "Comparing two unseen poems",
+          "sections": [
+            {
+              "heading": "Comparing two unseen poems"
+            }
+          ]
+        },
+        {
+          "id": "a-contrasting-poem-and-comparison",
+          "title": "A contrasting poem and comparison",
+          "sections": [
+            {
+              "heading": "A contrasting poem and comparison"
+            }
+          ]
+        },
+        {
+          "id": "managing-the-two-tasks",
+          "title": "Managing the two tasks",
+          "sections": [
+            {
+              "heading": "Managing the two tasks"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
