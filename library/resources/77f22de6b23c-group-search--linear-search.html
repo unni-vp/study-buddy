@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Linear search · Searching · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="77f22de6b23c.html">Fundamentals of algorithms</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Linear search</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Planning algorithms</p><a class="" href="77f22de6b23c-group-design.html">Algorithms and problem solving</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Representing and tracing</p><a class="" href="77f22de6b23c-group-represent.html">Representing algorithms</a><a class="" href="77f22de6b23c-group-represent--inputs-processing-outputs-and-trace-tables.html">Inputs, processing, outputs and trace tables</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Searching</p><a class="" href="77f22de6b23c-group-search.html">Comparing efficiency</a><a class="selected" href="77f22de6b23c-group-search--linear-search.html" aria-current="page">Linear search</a><a class="" href="77f22de6b23c-group-search--binary-search.html">Binary search</a><a class="" href="77f22de6b23c-group-search--comparing-searching-methods.html">Comparing searching methods</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Sorting</p><a class="" href="77f22de6b23c-group-sort.html">Bubble sort</a><a class="" href="77f22de6b23c-group-sort--merge-sort.html">Merge sort</a><a class="" href="77f22de6b23c-group-sort--comparing-sorting-methods.html">Comparing sorting methods</a></div></nav></details><a class="revision-side-complete" href="77f22de6b23c-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Fundamentals of algorithms</a><span aria-hidden="true"> / </span><a href="77f22de6b23c.html">Revision notes</a><span aria-hidden="true"> / </span><a href="77f22de6b23c-group-search.html">Searching</a></nav><div class="reader-tools"><a href="77f22de6b23c.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Searching</p><h1>Linear search</h1>
+<p>A <strong>linear search</strong> checks items in order until the target is found or every item has been checked.</p>
+<pre class="code-block"><code class="language-text">found ← False
+index ← 0
+WHILE index &lt; LENGTH(items) AND found = False
+    IF items[index] = target THEN
+        found ← True
+    ELSE
+        index ← index + 1
+    ENDIF
+ENDWHILE
+</code></pre>
+<ul>
+<li>Works on <strong>sorted or unsorted</strong> data.</li>
+<li>Simple and suitable for small lists.</li>
+<li>In the worst case, it checks every item.</li>
+</ul>
+<h2>A successful and an unsuccessful search</h2>
+<p>This example uses <strong>zero-based indexing</strong>, so the first position is 0. Search the list <code>11, 5, 14, 2, 9</code> for 14:</p>
+<table>
+<tr><th>Check</th><th>Index and value</th><th>What happens?</th></tr>
+<tr><td>1</td><td>Index 0 holds 11.</td><td>It does not match, so continue.</td></tr>
+<tr><td>2</td><td>Index 1 holds 5.</td><td>It does not match, so continue.</td></tr>
+<tr><td>3</td><td>Index 2 holds 14.</td><td>The target is found, so stop.</td></tr>
+</table>
+<p>The target is at <strong>index 2</strong>, after <strong>three checks</strong>. Position and number of checks are different quantities.</p>
+<p>If the target were 7, all five values would be checked and none would match. The algorithm must then report <strong>not found</strong>. A program might return <code>-1</code> or display a message; follow the behaviour specified in the question.</p>
+<p>In the pseudocode above, <code>found</code> records whether a match has occurred. Increasing <code>index</code> moves to the next candidate. The length check prevents the algorithm from trying to read beyond the final item.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="77f22de6b23c-group-search.html"><span>← Previous</span><strong>Comparing efficiency</strong></a><a href="77f22de6b23c-group-search--binary-search.html"><span>Next →</span><strong>Binary search</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

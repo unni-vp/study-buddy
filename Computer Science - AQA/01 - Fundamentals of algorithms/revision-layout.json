@@ -10,6 +10,17 @@
         {
           "heading": "Algorithms and problem solving"
         }
+      ],
+      "subsections": [
+        {
+          "id": "algorithms-and-problem-solving",
+          "title": "Algorithms and problem solving",
+          "sections": [
+            {
+              "heading": "Algorithms and problem solving"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +34,26 @@
         },
         {
           "heading": "Inputs, processing, outputs and trace tables"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "representing-algorithms",
+          "title": "Representing algorithms",
+          "sections": [
+            {
+              "heading": "Representing algorithms"
+            }
+          ]
+        },
+        {
+          "id": "inputs-processing-outputs-and-trace-tables",
+          "title": "Inputs, processing, outputs and trace tables",
+          "sections": [
+            {
+              "heading": "Inputs, processing, outputs and trace tables"
+            }
+          ]
         }
       ]
     },
@@ -44,6 +75,44 @@
         {
           "heading": "Comparing searching methods"
         }
+      ],
+      "subsections": [
+        {
+          "id": "comparing-efficiency",
+          "title": "Comparing efficiency",
+          "sections": [
+            {
+              "heading": "Comparing efficiency"
+            }
+          ]
+        },
+        {
+          "id": "linear-search",
+          "title": "Linear search",
+          "sections": [
+            {
+              "heading": "Linear search"
+            }
+          ]
+        },
+        {
+          "id": "binary-search",
+          "title": "Binary search",
+          "sections": [
+            {
+              "heading": "Binary search"
+            }
+          ]
+        },
+        {
+          "id": "comparing-searching-methods",
+          "title": "Comparing searching methods",
+          "sections": [
+            {
+              "heading": "Comparing searching methods"
+            }
+          ]
+        }
       ]
     },
     {
@@ -61,7 +130,37 @@
         {
           "heading": "Comparing sorting methods"
         }
+      ],
+      "subsections": [
+        {
+          "id": "bubble-sort",
+          "title": "Bubble sort",
+          "sections": [
+            {
+              "heading": "Bubble sort"
+            }
+          ]
+        },
+        {
+          "id": "merge-sort",
+          "title": "Merge sort",
+          "sections": [
+            {
+              "heading": "Merge sort"
+            }
+          ]
+        },
+        {
+          "id": "comparing-sorting-methods",
+          "title": "Comparing sorting methods",
+          "sections": [
+            {
+              "heading": "Comparing sorting methods"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }

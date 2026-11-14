@@ -1,0 +1,43 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Inputs, processing, outputs and trace tables · Representing and tracing · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="77f22de6b23c.html">Fundamentals of algorithms</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Inputs, processing, outputs and trace tables</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Planning algorithms</p><a class="" href="77f22de6b23c-group-design.html">Algorithms and problem solving</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Representing and tracing</p><a class="" href="77f22de6b23c-group-represent.html">Representing algorithms</a><a class="selected" href="77f22de6b23c-group-represent--inputs-processing-outputs-and-trace-tables.html" aria-current="page">Inputs, processing, outputs and trace tables</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Searching</p><a class="" href="77f22de6b23c-group-search.html">Comparing efficiency</a><a class="" href="77f22de6b23c-group-search--linear-search.html">Linear search</a><a class="" href="77f22de6b23c-group-search--binary-search.html">Binary search</a><a class="" href="77f22de6b23c-group-search--comparing-searching-methods.html">Comparing searching methods</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Sorting</p><a class="" href="77f22de6b23c-group-sort.html">Bubble sort</a><a class="" href="77f22de6b23c-group-sort--merge-sort.html">Merge sort</a><a class="" href="77f22de6b23c-group-sort--comparing-sorting-methods.html">Comparing sorting methods</a></div></nav></details><a class="revision-side-complete" href="77f22de6b23c-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Fundamentals of algorithms</a><span aria-hidden="true"> / </span><a href="77f22de6b23c.html">Revision notes</a><span aria-hidden="true"> / </span><a href="77f22de6b23c-group-represent.html">Representing and tracing</a></nav><div class="reader-tools"><a href="77f22de6b23c.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Representing and tracing</p><h1>Inputs, processing, outputs and trace tables</h1>
+<ul>
+<li><strong>Input:</strong> data supplied to an algorithm.</li>
+<li><strong>Processing:</strong> calculations, comparisons or changes made to the data.</li>
+<li><strong>Output:</strong> information produced by the algorithm.</li>
+</ul>
+<p>A <strong>trace table</strong> records variable values as an algorithm runs. Work one instruction at a time and create a new row whenever a tracked value changes.</p>
+<pre class="code-block"><code class="language-text">total ← 0
+FOR number ← 1 TO 3
+    total ← total + number
+ENDFOR
+OUTPUT total
+</code></pre>
+<table>
+<tr><th>number</th><th>total after addition</th></tr>
+<tr><td>1</td><td>1</td></tr>
+<tr><td>2</td><td>3</td></tr>
+<tr><td>3</td><td>6</td></tr>
+</table>
+<p>The output is <strong>6</strong>. Do not guess the purpose from variable names; prove it from the instructions and trace.</p>
+<h2>Following values accurately</h2>
+<p>The initial assignment sets <code>total</code> to <strong>0</strong> before the loop. After each addition, the new total replaces the previous value. At the end, <code>number</code> has taken the values 1, 2 and 3, and the output is the final total rather than every intermediate total.</p>
+<p>When tracing a decision, evaluate its condition using the <strong>current values</strong>. Follow only the selected branch. When tracing a loop, return to the condition at the correct point instead of assuming the loop repeats a fixed number of times.</p>
+<p>To explain a program&#x27;s purpose, describe what it does with its data. For example, “adds the numbers 1 to 3 and displays their total” is more useful than “uses a FOR loop”.</p>
+<h2>Separate stored values from displayed output</h2>
+<p>This algorithm keeps a running total, but displays it only when the current number is even:</p>
+<pre class="code-block"><code class="language-text">total ← 0
+FOR number ← 1 TO 4
+    total ← total + number
+    IF number MOD 2 = 0 THEN
+        OUTPUT total
+    ENDIF
+ENDFOR
+</code></pre>
+<table>
+<tr><th>number</th><th>total after addition</th><th>Is the number even?</th><th>Output at this step</th></tr>
+<tr><td>1</td><td>1</td><td>No.</td><td>No output.</td></tr>
+<tr><td>2</td><td>3</td><td>Yes.</td><td>3</td></tr>
+<tr><td>3</td><td>6</td><td>No.</td><td>No output.</td></tr>
+<tr><td>4</td><td>10</td><td>Yes.</td><td>10</td></tr>
+</table>
+<p>The displayed values are <strong>3, then 10</strong>. The intermediate totals 1 and 6 are stored, but never displayed. A blank output cell means nothing was output; it does not mean the program printed a blank line.</p>
+<p>The position of an instruction matters. Moving <code>OUTPUT total</code> outside the loop would display only the final total. Moving <code>total ← 0</code> inside the loop would reset the accumulated total on every repetition.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/01%20-%20Fundamentals%20of%20algorithms/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="77f22de6b23c-group-represent.html"><span>← Previous</span><strong>Representing algorithms</strong></a><a href="77f22de6b23c-group-search.html"><span>Next →</span><strong>Searching: Comparing efficiency</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
