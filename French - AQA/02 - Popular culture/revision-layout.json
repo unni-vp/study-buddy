@@ -16,6 +16,35 @@
         {
           "heading": "Describing a recent experience"
         }
+      ],
+      "subsections": [
+        {
+          "id": "free-time-activities",
+          "title": "Free-time activities",
+          "sections": [
+            {
+              "heading": "Free-time activities"
+            }
+          ]
+        },
+        {
+          "id": "preferences-reasons-and-frequency",
+          "title": "Preferences, reasons and frequency",
+          "sections": [
+            {
+              "heading": "Preferences, reasons and frequency"
+            }
+          ]
+        },
+        {
+          "id": "describing-a-recent-experience",
+          "title": "Describing a recent experience",
+          "sections": [
+            {
+              "heading": "Describing a recent experience"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +58,26 @@
         },
         {
           "heading": "Comparing celebrations and planning"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "customs-festivals-and-celebrations",
+          "title": "Customs, festivals and celebrations",
+          "sections": [
+            {
+              "heading": "Customs, festivals and celebrations"
+            }
+          ]
+        },
+        {
+          "id": "comparing-celebrations-and-planning",
+          "title": "Comparing celebrations and planning",
+          "sections": [
+            {
+              "heading": "Comparing celebrations and planning"
+            }
+          ]
         }
       ]
     },
@@ -47,7 +96,37 @@
         {
           "heading": "Building a developed cultural answer"
         }
+      ],
+      "subsections": [
+        {
+          "id": "describing-a-celebrity",
+          "title": "Describing a celebrity",
+          "sections": [
+            {
+              "heading": "Describing a celebrity"
+            }
+          ]
+        },
+        {
+          "id": "fame-advantages-and-difficulties",
+          "title": "Fame: advantages and difficulties",
+          "sections": [
+            {
+              "heading": "Fame: advantages and difficulties"
+            }
+          ]
+        },
+        {
+          "id": "building-a-developed-cultural-answer",
+          "title": "Building a developed cultural answer",
+          "sections": [
+            {
+              "heading": "Building a developed cultural answer"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
