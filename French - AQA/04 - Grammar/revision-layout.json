@@ -10,6 +10,17 @@
         {
           "heading": "Nouns and articles"
         }
+      ],
+      "subsections": [
+        {
+          "id": "nouns-and-articles",
+          "title": "Nouns and articles",
+          "sections": [
+            {
+              "heading": "Nouns and articles"
+            }
+          ]
+        }
       ]
     },
     {
@@ -20,6 +31,17 @@
       "sections": [
         {
           "heading": "Adjectives and comparisons"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "adjectives-and-comparisons",
+          "title": "Adjectives and comparisons",
+          "sections": [
+            {
+              "heading": "Adjectives and comparisons"
+            }
+          ]
         }
       ]
     },
@@ -32,6 +54,17 @@
         {
           "heading": "Present verbs and verb families"
         }
+      ],
+      "subsections": [
+        {
+          "id": "present-verbs-and-verb-families",
+          "title": "Present verbs and verb families",
+          "sections": [
+            {
+              "heading": "Present verbs and verb families"
+            }
+          ]
+        }
       ]
     },
     {
@@ -43,6 +76,17 @@
         {
           "heading": "Modals and reflexives"
         }
+      ],
+      "subsections": [
+        {
+          "id": "modals-and-reflexives",
+          "title": "Modals and reflexives",
+          "sections": [
+            {
+              "heading": "Modals and reflexives"
+            }
+          ]
+        }
       ]
     },
     {
@@ -53,6 +97,17 @@
       "sections": [
         {
           "heading": "Past and future"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "past-and-future",
+          "title": "Past and future",
+          "sections": [
+            {
+              "heading": "Past and future"
+            }
+          ]
         }
       ]
     },
@@ -68,6 +123,26 @@
         {
           "heading": "Useful linking patterns"
         }
+      ],
+      "subsections": [
+        {
+          "id": "pronouns-and-connected-clauses",
+          "title": "Pronouns and connected clauses",
+          "sections": [
+            {
+              "heading": "Pronouns and connected clauses"
+            }
+          ]
+        },
+        {
+          "id": "useful-linking-patterns",
+          "title": "Useful linking patterns",
+          "sections": [
+            {
+              "heading": "Useful linking patterns"
+            }
+          ]
+        }
       ]
     },
     {
@@ -79,7 +154,19 @@
         {
           "heading": "Negatives, questions and instructions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "negatives-questions-and-instructions",
+          "title": "Negatives, questions and instructions",
+          "sections": [
+            {
+              "heading": "Negatives, questions and instructions"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
