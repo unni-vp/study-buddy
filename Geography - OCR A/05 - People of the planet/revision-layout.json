@@ -10,6 +10,39 @@
         {
           "heading": "Understanding development"
         }
+      ],
+      "subsections": [
+        {
+          "id": "measuring",
+          "title": "Understanding & measuring development",
+          "sections": [
+            {
+              "heading": "Understanding development",
+              "intro_only": true
+            },
+            {
+              "heading": "Measuring development"
+            }
+          ]
+        },
+        {
+          "id": "uneven",
+          "title": "Why development is uneven",
+          "sections": [
+            {
+              "heading": "Why development is uneven"
+            }
+          ]
+        },
+        {
+          "id": "aid",
+          "title": "Benefits & limitations of aid",
+          "sections": [
+            {
+              "heading": "How aid can help or hinder development"
+            }
+          ]
+        }
       ]
     },
     {
@@ -21,6 +54,53 @@
         {
           "heading": "Country case study: Ethiopia"
         }
+      ],
+      "subsections": [
+        {
+          "id": "setting-history",
+          "title": "Setting, resources & history",
+          "sections": [
+            {
+              "heading": "Location, environment and resources"
+            },
+            {
+              "heading": "Political and historical influences"
+            }
+          ]
+        },
+        {
+          "id": "trade-technology",
+          "title": "Trade, investment & technology",
+          "sections": [
+            {
+              "heading": "Trade and foreign investment"
+            },
+            {
+              "heading": "Technology"
+            }
+          ]
+        },
+        {
+          "id": "people-development",
+          "title": "People, services & the development model",
+          "sections": [
+            {
+              "heading": "Population, employment and services"
+            },
+            {
+              "heading": "Rostow's model"
+            }
+          ]
+        },
+        {
+          "id": "goat-aid",
+          "title": "Oxfam goat aid",
+          "sections": [
+            {
+              "heading": "Aid project: Oxfam goat aid"
+            }
+          ]
+        }
       ]
     },
     {
@@ -31,6 +111,29 @@
       "sections": [
         {
           "heading": "A changing urban world"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "urban-growth",
+          "title": "City size, influence & growth",
+          "sections": [
+            {
+              "heading": "Size, influence and growth"
+            }
+          ]
+        },
+        {
+          "id": "migration-pressures",
+          "title": "Migration, opportunities & pressures",
+          "sections": [
+            {
+              "heading": "Why people move to cities"
+            },
+            {
+              "heading": "Opportunities and pressures"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +152,49 @@
         {
           "heading": "Sources for the named case studies"
         }
+      ],
+      "subsections": [
+        {
+          "id": "role-migration",
+          "title": "Location, role & migration",
+          "sections": [
+            {
+              "heading": "Location and role"
+            },
+            {
+              "heading": "Migration and ways of life"
+            }
+          ]
+        },
+        {
+          "id": "housing-services",
+          "title": "Housing, transport & waste",
+          "sections": [
+            {
+              "heading": "Housing"
+            },
+            {
+              "heading": "Transport"
+            },
+            {
+              "heading": "Waste"
+            }
+          ]
+        },
+        {
+          "id": "urban-agriculture",
+          "title": "Urban agriculture & the Green Belt",
+          "sections": [
+            {
+              "heading": "Sustainable strategy: urban agriculture and the Green Belt"
+            },
+            {
+              "heading": "Exam links to remember"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
