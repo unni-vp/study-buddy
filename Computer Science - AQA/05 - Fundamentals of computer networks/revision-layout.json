@@ -16,6 +16,35 @@
         {
           "heading": "Wired and wireless networks"
         }
+      ],
+      "subsections": [
+        {
+          "id": "networks-benefits-and-risks",
+          "title": "Networks, benefits and risks",
+          "sections": [
+            {
+              "heading": "Networks, benefits and risks"
+            }
+          ]
+        },
+        {
+          "id": "pan-lan-and-wan",
+          "title": "PAN, LAN and WAN",
+          "sections": [
+            {
+              "heading": "PAN, LAN and WAN"
+            }
+          ]
+        },
+        {
+          "id": "wired-and-wireless-networks",
+          "title": "Wired and wireless networks",
+          "sections": [
+            {
+              "heading": "Wired and wireless networks"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +55,48 @@
       "sections": [
         {
           "heading": "Protocols"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "protocol-names-and-reliable-delivery",
+          "title": "Protocol names and reliable delivery",
+          "sections": [
+            {
+              "heading": "Protocols",
+              "intro_only": true
+            },
+            {
+              "heading": "TCP and IP"
+            },
+            {
+              "heading": "Reliable delivery and addressing"
+            },
+            {
+              "heading": "Missing and out-of-order data"
+            }
+          ]
+        },
+        {
+          "id": "web-protocols-http-and-https",
+          "title": "Web protocols: HTTP and HTTPS",
+          "sections": [
+            {
+              "heading": "HTTP and HTTPS"
+            }
+          ]
+        },
+        {
+          "id": "email-protocols-smtp-and-imap",
+          "title": "Email protocols: SMTP and IMAP",
+          "sections": [
+            {
+              "heading": "SMTP and IMAP"
+            },
+            {
+              "heading": "Following an email"
+            }
+          ]
         }
       ]
     },
@@ -44,6 +115,29 @@
         {
           "heading": "Firewalls and MAC address filtering"
         }
+      ],
+      "subsections": [
+        {
+          "id": "authentication-and-encryption",
+          "title": "Authentication and encryption",
+          "sections": [
+            {
+              "heading": "Why network security matters"
+            },
+            {
+              "heading": "Authentication and encryption"
+            }
+          ]
+        },
+        {
+          "id": "firewalls-and-mac-address-filtering",
+          "title": "Firewalls and MAC address filtering",
+          "sections": [
+            {
+              "heading": "Firewalls and MAC address filtering"
+            }
+          ]
+        }
       ]
     },
     {
@@ -61,7 +155,25 @@
         {
           "heading": "Comparison checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-four-layer-tcp-ip-model",
+          "title": "The four-layer TCP/IP model",
+          "sections": [
+            {
+              "heading": "The four-layer TCP/IP model"
+            },
+            {
+              "heading": "Following a web request"
+            },
+            {
+              "heading": "Comparison checklist"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
