@@ -13,6 +13,26 @@
         {
           "heading": "Role-play: communicate exactly"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-speaking-tasks",
+          "title": "The speaking tasks",
+          "sections": [
+            {
+              "heading": "The speaking tasks"
+            }
+          ]
+        },
+        {
+          "id": "role-play-communicate-exactly",
+          "title": "Role-play: communicate exactly",
+          "sections": [
+            {
+              "heading": "Role-play: communicate exactly"
+            }
+          ]
+        }
       ]
     },
     {
@@ -24,6 +44,17 @@
         {
           "heading": "Reading aloud with meaning"
         }
+      ],
+      "subsections": [
+        {
+          "id": "reading-aloud-with-meaning",
+          "title": "Reading aloud with meaning",
+          "sections": [
+            {
+              "heading": "Reading aloud with meaning"
+            }
+          ]
+        }
       ]
     },
     {
@@ -34,6 +65,17 @@
       "sections": [
         {
           "heading": "Describing both photos"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "describing-both-photos",
+          "title": "Describing both photos",
+          "sections": [
+            {
+              "heading": "Describing both photos"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +91,28 @@
         {
           "heading": "Listening and recovering"
         }
+      ],
+      "subsections": [
+        {
+          "id": "developing-the-conversation",
+          "title": "Developing the conversation",
+          "sections": [
+            {
+              "heading": "Developing the conversation"
+            }
+          ]
+        },
+        {
+          "id": "listening-and-recovering",
+          "title": "Listening and recovering",
+          "sections": [
+            {
+              "heading": "Listening and recovering"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
