@@ -19,6 +19,44 @@
         {
           "heading": "Food chains and population cycles"
         }
+      ],
+      "subsections": [
+        {
+          "id": "ecosystems-and-interdependence",
+          "title": "Ecosystems and interdependence",
+          "sections": [
+            {
+              "heading": "Ecosystems and interdependence"
+            }
+          ]
+        },
+        {
+          "id": "living-and-non-living-factors",
+          "title": "Living and non-living factors",
+          "sections": [
+            {
+              "heading": "Living and non-living factors"
+            }
+          ]
+        },
+        {
+          "id": "adaptations-and-distribution",
+          "title": "Adaptations and distribution",
+          "sections": [
+            {
+              "heading": "Adaptations and distribution"
+            }
+          ]
+        },
+        {
+          "id": "food-chains-and-population-cycles",
+          "title": "Food chains and population cycles",
+          "sections": [
+            {
+              "heading": "Food chains and population cycles"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Transects: investigating distribution"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "random-quadrats-estimating-population-size",
+          "title": "Random quadrats: estimating population size",
+          "sections": [
+            {
+              "heading": "Random quadrats: estimating population size"
+            }
+          ]
+        },
+        {
+          "id": "transects-investigating-distribution",
+          "title": "Transects: investigating distribution",
+          "sections": [
+            {
+              "heading": "Transects: investigating distribution"
+            }
+          ]
         }
       ]
     },
@@ -53,6 +111,44 @@
         {
           "heading": "Milk-decay practical"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-carbon-cycle",
+          "title": "The carbon cycle",
+          "sections": [
+            {
+              "heading": "The carbon cycle"
+            }
+          ]
+        },
+        {
+          "id": "the-water-cycle",
+          "title": "The water cycle",
+          "sections": [
+            {
+              "heading": "The water cycle"
+            }
+          ]
+        },
+        {
+          "id": "decomposition-compost-and-biogas",
+          "title": "Decomposition, compost and biogas",
+          "sections": [
+            {
+              "heading": "Decomposition, compost and biogas"
+            }
+          ]
+        },
+        {
+          "id": "milk-decay-practical",
+          "title": "Milk-decay practical",
+          "sections": [
+            {
+              "heading": "Milk-decay practical"
+            }
+          ]
+        }
       ]
     },
     {
@@ -69,6 +165,29 @@
         },
         {
           "heading": "Maintaining biodiversity"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "biodiversity-and-human-impacts",
+          "title": "Biodiversity and human impacts",
+          "sections": [
+            {
+              "heading": "Biodiversity and human impacts"
+            }
+          ]
+        },
+        {
+          "id": "deforestation-and-climate-change",
+          "title": "Deforestation and climate change",
+          "sections": [
+            {
+              "heading": "Deforestation and climate change"
+            },
+            {
+              "heading": "Maintaining biodiversity"
+            }
+          ]
         }
       ]
     },
@@ -87,7 +206,37 @@
         {
           "heading": "Sustainable fishing and biotechnology"
         }
+      ],
+      "subsections": [
+        {
+          "id": "biomass-pyramids-and-transfer-efficiency",
+          "title": "Biomass pyramids and transfer efficiency",
+          "sections": [
+            {
+              "heading": "Biomass pyramids and transfer efficiency"
+            }
+          ]
+        },
+        {
+          "id": "food-security-and-farming",
+          "title": "Food security and farming",
+          "sections": [
+            {
+              "heading": "Food security and farming"
+            }
+          ]
+        },
+        {
+          "id": "sustainable-fishing-and-biotechnology",
+          "title": "Sustainable fishing and biotechnology",
+          "sections": [
+            {
+              "heading": "Sustainable fishing and biotechnology"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
