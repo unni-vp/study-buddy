@@ -19,6 +19,44 @@
         {
           "heading": "Pharming and fake destinations"
         }
+      ],
+      "subsections": [
+        {
+          "id": "what-cyber-security-protects",
+          "title": "What cyber security protects",
+          "sections": [
+            {
+              "heading": "What cyber security protects"
+            }
+          ]
+        },
+        {
+          "id": "weak-passwords-and-access-rights",
+          "title": "Weak passwords and access rights",
+          "sections": [
+            {
+              "heading": "Weak passwords and access rights"
+            }
+          ]
+        },
+        {
+          "id": "removable-media-and-outdated-software",
+          "title": "Removable media and outdated software",
+          "sections": [
+            {
+              "heading": "Removable media and outdated software"
+            }
+          ]
+        },
+        {
+          "id": "pharming-and-fake-destinations",
+          "title": "Pharming and fake destinations",
+          "sections": [
+            {
+              "heading": "Pharming and fake destinations"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Malware"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "social-engineering",
+          "title": "Social engineering",
+          "sections": [
+            {
+              "heading": "Social engineering"
+            }
+          ]
+        },
+        {
+          "id": "malware",
+          "title": "Malware",
+          "sections": [
+            {
+              "heading": "Malware"
+            }
+          ]
         }
       ]
     },
@@ -50,7 +108,37 @@
         {
           "heading": "Applying a security explanation"
         }
+      ],
+      "subsections": [
+        {
+          "id": "authentication-and-automated-abuse-checks",
+          "title": "Authentication and automated-abuse checks",
+          "sections": [
+            {
+              "heading": "Authentication and automated-abuse checks"
+            }
+          ]
+        },
+        {
+          "id": "layered-protection-and-penetration-testing",
+          "title": "Layered protection and penetration testing",
+          "sections": [
+            {
+              "heading": "Layered protection and penetration testing"
+            }
+          ]
+        },
+        {
+          "id": "applying-a-security-explanation",
+          "title": "Applying a security explanation",
+          "sections": [
+            {
+              "heading": "Applying a security explanation"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
