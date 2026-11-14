@@ -17,6 +17,26 @@
       "maps": [
         "01-photosynthesis-and-limiting-factors",
         "02-photosynthesis-practical"
+      ],
+      "subsections": [
+        {
+          "id": "photosynthesis",
+          "title": "Photosynthesis",
+          "sections": [
+            {
+              "heading": "Photosynthesis"
+            }
+          ]
+        },
+        {
+          "id": "limiting-factors",
+          "title": "Limiting factors",
+          "sections": [
+            {
+              "heading": "Limiting factors"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +52,17 @@
       "maps": [
         "01-photosynthesis-and-limiting-factors",
         "02-photosynthesis-practical"
+      ],
+      "subsections": [
+        {
+          "id": "investigating-light-and-photosynthesis",
+          "title": "Investigating light and photosynthesis",
+          "sections": [
+            {
+              "heading": "Investigating light and photosynthesis"
+            }
+          ]
+        }
       ]
     },
     {
@@ -46,6 +77,17 @@
       ],
       "maps": [
         "03-respiration-exercise-and-metabolism"
+      ],
+      "subsections": [
+        {
+          "id": "aerobic-and-anaerobic-respiration",
+          "title": "Aerobic and anaerobic respiration",
+          "sections": [
+            {
+              "heading": "Aerobic and anaerobic respiration"
+            }
+          ]
+        }
       ]
     },
     {
@@ -63,7 +105,28 @@
       ],
       "maps": [
         "03-respiration-exercise-and-metabolism"
+      ],
+      "subsections": [
+        {
+          "id": "exercise-and-oxygen-debt",
+          "title": "Exercise and oxygen debt",
+          "sections": [
+            {
+              "heading": "Exercise and oxygen debt"
+            }
+          ]
+        },
+        {
+          "id": "metabolism",
+          "title": "Metabolism",
+          "sections": [
+            {
+              "heading": "Metabolism"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
