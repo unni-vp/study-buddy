@@ -16,6 +16,35 @@
         {
           "heading": "Bond energies"
         }
+      ],
+      "subsections": [
+        {
+          "id": "exothermic-and-endothermic-reactions",
+          "title": "Exothermic and endothermic reactions",
+          "sections": [
+            {
+              "heading": "Exothermic and endothermic reactions"
+            }
+          ]
+        },
+        {
+          "id": "reaction-profiles-and-activation-energy",
+          "title": "Reaction profiles and activation energy",
+          "sections": [
+            {
+              "heading": "Reaction profiles and activation energy"
+            }
+          ]
+        },
+        {
+          "id": "bond-energies",
+          "title": "Bond energies",
+          "sections": [
+            {
+              "heading": "Bond energies"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +55,17 @@
       "sections": [
         {
           "heading": "Required practical: temperature changes"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "required-practical-temperature-changes",
+          "title": "Required practical: temperature changes",
+          "sections": [
+            {
+              "heading": "Required practical: temperature changes"
+            }
+          ]
         }
       ]
     },
@@ -41,7 +81,28 @@
         {
           "heading": "Hydrogen fuel cells"
         }
+      ],
+      "subsections": [
+        {
+          "id": "cells-and-batteries",
+          "title": "Cells and batteries",
+          "sections": [
+            {
+              "heading": "Cells and batteries"
+            }
+          ]
+        },
+        {
+          "id": "hydrogen-fuel-cells",
+          "title": "Hydrogen fuel cells",
+          "sections": [
+            {
+              "heading": "Hydrogen fuel cells"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
