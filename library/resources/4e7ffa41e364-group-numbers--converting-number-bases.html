@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Converting number bases · Number bases and conversions · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="4e7ffa41e364.html">Fundamentals of data representation</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Converting number bases</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Number bases and conversions</p><a class="" href="4e7ffa41e364-group-numbers.html">Binary, decimal and hexadecimal</a><a class="selected" href="4e7ffa41e364-group-numbers--converting-number-bases.html" aria-current="page">Converting number bases</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Units and binary arithmetic</p><a class="" href="4e7ffa41e364-group-arithmetic.html">Bits, bytes and prefixes</a><a class="" href="4e7ffa41e364-group-arithmetic--binary-arithmetic-and-shifts.html">Binary arithmetic and shifts</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Character encoding</p><a class="" href="4e7ffa41e364-group-text.html">Character encoding</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Images and sound</p><a class="" href="4e7ffa41e364-group-media.html">Bitmap images</a><a class="" href="4e7ffa41e364-group-media--digital-sound.html">Digital sound</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Compression</p><a class="" href="4e7ffa41e364-group-compression.html">Why compression is used</a><a class="" href="4e7ffa41e364-group-compression--run-length-encoding.html">Run-length encoding</a><a class="" href="4e7ffa41e364-group-compression--huffman-coding.html">Huffman coding</a></div></nav></details><a class="revision-side-complete" href="4e7ffa41e364-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364-group-numbers.html">Number bases and conversions</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Number bases and conversions</p><h1>Converting number bases</h1>
+<p>For an 8-bit binary number, use place values:</p>
+<table>
+<tr><th>128</th><th>64</th><th>32</th><th>16</th><th>8</th><th>4</th><th>2</th><th>1</th></tr>
+</table>
+<p><code>10110110</code> = 128 + 32 + 16 + 4 + 2 = <strong>182</strong>.</p>
+<p>To convert decimal to binary, select place values that add to the number. For 45: 32 + 8 + 4 + 1, so <strong>00101101</strong>.</p>
+<p>For binary ↔ hexadecimal, split binary into groups of four from the right:</p>
+<p><code>1101 0110</code> → D and 6 → <strong>D6</strong>.</p>
+<p>Hexadecimal <code>7B</code> = (7 × 16) + 11 = <strong>123</strong>. Values in this course range from 0 to 255, equal to <code>00000000</code>–<code>11111111</code> or <code>00</code>–<code>FF</code>.</p>
+<h2>Decimal to binary, step by step</h2>
+<p>Convert <strong>73</strong> to an 8-bit binary value. Work from the largest place to the smallest, subtracting only when that place is used.</p>
+<table>
+<tr><th>Place value</th><th>Remaining amount before the decision</th><th>Bit and decision</th></tr>
+<tr><td>128</td><td>73</td><td>Write 0 because 128 is too large.</td></tr>
+<tr><td>64</td><td>73</td><td>Write 1 and subtract 64, leaving 9.</td></tr>
+<tr><td>32</td><td>9</td><td>Write 0 because 32 is too large.</td></tr>
+<tr><td>16</td><td>9</td><td>Write 0 because 16 is too large.</td></tr>
+<tr><td>8</td><td>9</td><td>Write 1 and subtract 8, leaving 1.</td></tr>
+<tr><td>4</td><td>1</td><td>Write 0.</td></tr>
+<tr><td>2</td><td>1</td><td>Write 0.</td></tr>
+<tr><td>1</td><td>1</td><td>Write 1, leaving 0.</td></tr>
+</table>
+<p>The answer is <strong><code>01001001</code></strong>. Check it by adding 64 + 8 + 1 = 73. Leading zeroes preserve a requested width without changing the number&#x27;s value.</p>
+<h2>Converting hexadecimal in either direction</h2>
+<p>The letters <strong>A, B, C, D, E and F</strong> represent decimal 10, 11, 12, 13, 14 and 15.</p>
+<p>To convert <code>9C</code> to binary, convert each digit separately: 9 becomes <code>1001</code>, and C becomes <code>1100</code>. Joining them gives <strong><code>10011100</code></strong>. Keep four bits for each hexadecimal digit, including leading zeroes within a group.</p>
+<p>To convert decimal 156 directly to hexadecimal:</p>
+<ol>
+<li>Divide 156 by 16. The quotient is <strong>9</strong> and the remainder is <strong>12</strong>.</li>
+<li>Write the quotient as the first digit, 9.</li>
+<li>Convert remainder 12 to C. The answer is <strong><code>9C</code></strong>.</li>
+</ol>
+<p>To reverse it, calculate <strong>(9 × 16) + 12 = 156</strong>. This is the same value represented in a different base, not a new quantity.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="4e7ffa41e364-group-numbers.html"><span>← Previous</span><strong>Binary, decimal and hexadecimal</strong></a><a href="4e7ffa41e364-group-arithmetic.html"><span>Next →</span><strong>Units and binary arithmetic: Bits, bytes and prefixes</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

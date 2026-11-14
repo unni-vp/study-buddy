@@ -13,6 +13,26 @@
         {
           "heading": "Converting number bases"
         }
+      ],
+      "subsections": [
+        {
+          "id": "binary-decimal-and-hexadecimal",
+          "title": "Binary, decimal and hexadecimal",
+          "sections": [
+            {
+              "heading": "Binary, decimal and hexadecimal"
+            }
+          ]
+        },
+        {
+          "id": "converting-number-bases",
+          "title": "Converting number bases",
+          "sections": [
+            {
+              "heading": "Converting number bases"
+            }
+          ]
+        }
       ]
     },
     {
@@ -27,6 +47,26 @@
         {
           "heading": "Binary arithmetic and shifts"
         }
+      ],
+      "subsections": [
+        {
+          "id": "bits-bytes-and-prefixes",
+          "title": "Bits, bytes and prefixes",
+          "sections": [
+            {
+              "heading": "Bits, bytes and prefixes"
+            }
+          ]
+        },
+        {
+          "id": "binary-arithmetic-and-shifts",
+          "title": "Binary arithmetic and shifts",
+          "sections": [
+            {
+              "heading": "Binary arithmetic and shifts"
+            }
+          ]
+        }
       ]
     },
     {
@@ -37,6 +77,17 @@
       "sections": [
         {
           "heading": "Character encoding"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "character-encoding",
+          "title": "Character encoding",
+          "sections": [
+            {
+              "heading": "Character encoding"
+            }
+          ]
         }
       ]
     },
@@ -51,6 +102,26 @@
         },
         {
           "heading": "Digital sound"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "bitmap-images",
+          "title": "Bitmap images",
+          "sections": [
+            {
+              "heading": "Bitmap images"
+            }
+          ]
+        },
+        {
+          "id": "digital-sound",
+          "title": "Digital sound",
+          "sections": [
+            {
+              "heading": "Digital sound"
+            }
+          ]
         }
       ]
     },
@@ -72,7 +143,40 @@
         {
           "heading": "Calculation checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "why-compression-is-used",
+          "title": "Why compression is used",
+          "sections": [
+            {
+              "heading": "Why compression is used"
+            }
+          ]
+        },
+        {
+          "id": "run-length-encoding",
+          "title": "Run-length encoding",
+          "sections": [
+            {
+              "heading": "Run-length encoding"
+            }
+          ]
+        },
+        {
+          "id": "huffman-coding",
+          "title": "Huffman coding",
+          "sections": [
+            {
+              "heading": "Huffman coding"
+            },
+            {
+              "heading": "Calculation checklist"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }

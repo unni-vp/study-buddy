@@ -1,0 +1,79 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Huffman coding · Compression · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="4e7ffa41e364.html">Fundamentals of data representation</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Huffman coding</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Number bases and conversions</p><a class="" href="4e7ffa41e364-group-numbers.html">Binary, decimal and hexadecimal</a><a class="" href="4e7ffa41e364-group-numbers--converting-number-bases.html">Converting number bases</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Units and binary arithmetic</p><a class="" href="4e7ffa41e364-group-arithmetic.html">Bits, bytes and prefixes</a><a class="" href="4e7ffa41e364-group-arithmetic--binary-arithmetic-and-shifts.html">Binary arithmetic and shifts</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Character encoding</p><a class="" href="4e7ffa41e364-group-text.html">Character encoding</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Images and sound</p><a class="" href="4e7ffa41e364-group-media.html">Bitmap images</a><a class="" href="4e7ffa41e364-group-media--digital-sound.html">Digital sound</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Compression</p><a class="" href="4e7ffa41e364-group-compression.html">Why compression is used</a><a class="" href="4e7ffa41e364-group-compression--run-length-encoding.html">Run-length encoding</a><a class="selected" href="4e7ffa41e364-group-compression--huffman-coding.html" aria-current="page">Huffman coding</a></div></nav></details><a class="revision-side-complete" href="4e7ffa41e364-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364-group-compression.html">Compression</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Compression</p><h1>Huffman coding</h1>
+<p><strong>Huffman coding</strong> represents symbols using codes of different lengths. Frequently used symbols generally receive shorter codes. Some symbols still share the same code length.</p>
+<p>Huffman coding is <strong>lossless</strong>: the correct tree or code table lets the receiver recover every original symbol.</p>
+<ol>
+<li>Count each symbol&#x27;s frequency.</li>
+<li>Repeatedly combine the two lowest-frequency nodes.</li>
+<li>Label branches 0 and 1.</li>
+<li>Read each symbol&#x27;s code from root to leaf.</li>
+</ol>
+<p>The codes are <strong>prefix-free</strong>: no complete code is the start of another code. This lets the receiver decode the message without needing spaces between codes.</p>
+<p>To calculate compressed size, multiply each symbol&#x27;s frequency by its code length and add the results. Compare with uncompressed ASCII at <strong>7 bits per character</strong> when instructed.</p>
+<h2>Worked example: BANANA</h2>
+<h3>Count the characters</h3>
+<p>The message <strong>BANANA</strong> has six characters:</p>
+<ul>
+<li><strong>A:</strong> 3 occurrences.</li>
+<li><strong>N:</strong> 2 occurrences.</li>
+<li><strong>B:</strong> 1 occurrence.</li>
+</ul>
+<h3>Build the tree</h3>
+<p>Always combine the <strong>two lowest frequencies still available</strong>:</p>
+<ol>
+<li>Combine <strong>B (1)</strong> and <strong>N (2)</strong> to make a node with frequency <strong>3</strong>.</li>
+<li>Combine that node <strong>(3)</strong> with <strong>A (3)</strong> to make the root, frequency <strong>6</strong>.</li>
+</ol>
+<p>In this tree, a <strong>left branch is 0</strong> and a <strong>right branch is 1</strong>.</p>
+<p><img src="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/Diagrams/huffman-banana.svg" alt="Huffman tree for BANANA. The root has frequency 6. Its left branch, 0, leads to A with frequency 3. Its right branch, 1, leads to a node of frequency 3. That node&#x27;s left branch, 0, leads to B with frequency 1; its right branch, 1, leads to N with frequency 2."></p>
+<h3>Read the codes and encode the message</h3>
+<p>Read each path <strong>from the root to the character</strong>:</p>
+<table>
+<tr><th>Character</th><th>Frequency</th><th>Code</th></tr>
+<tr><td>A</td><td>3</td><td><code>0</code></td></tr>
+<tr><td>N</td><td>2</td><td><code>11</code></td></tr>
+<tr><td>B</td><td>1</td><td><code>10</code></td></tr>
+</table>
+<p>Match each character to its code:</p>
+<pre class="code-block"><code class="language-text">B  A  N  A  N  A
+10 0  11 0  11 0
+</code></pre>
+<p>Joining the codes gives <strong><code>100110110</code></strong>. The spaces above only make the groups easier to see.</p>
+<p><strong>To decode</strong>, follow the bits from the root until reaching a character. Write that character, then restart at the root. For example, <code>10</code> gives B, then <code>0</code> gives A.</p>
+<h3>Calculate the compressed message size</h3>
+<p>Multiply each character&#x27;s frequency by its code length:</p>
+<ul>
+<li><strong>A:</strong> 3 × 1 = <strong>3 bits</strong>.</li>
+<li><strong>N:</strong> 2 × 2 = <strong>4 bits</strong>.</li>
+<li><strong>B:</strong> 1 × 2 = <strong>2 bits</strong>.</li>
+</ul>
+<p>Total = 3 + 4 + 2 = <strong>9 bits</strong>.</p>
+<h3>Compare with 7-bit ASCII</h3>
+<p>For the <strong>message data alone</strong>:</p>
+<ul>
+<li><strong>ASCII:</strong> 6 characters × 7 bits = <strong>42 bits</strong>.</li>
+<li><strong>Huffman:</strong> <strong>9 bits</strong>.</li>
+<li><strong>Saving:</strong> 42 − 9 = <strong>33 bits</strong>.</li>
+</ul>
+<p>If a question supplies storage for the code table or tree, include it in the compressed total.</p>
+<p>When frequencies tie, more than one valid tree may be possible. The codes can differ, so follow the tree and branch labels given in the question.</p>
+<h2>RLE and Huffman coding</h2>
+<table>
+<tr><th>Feature</th><th>Run-length encoding</th><th>Huffman coding</th></tr>
+<tr><td>Main idea</td><td>Replaces consecutive repeated values with frequency/data pairs.</td><td>Gives shorter codes to more frequent symbols.</td></tr>
+<tr><td>What matters</td><td>The lengths of consecutive runs.</td><td>How often each symbol appears.</td></tr>
+<tr><td>Example</td><td>Five consecutive zeroes become <code>5 0</code>.</td><td>A common character gets a shorter code than a rare character.</td></tr>
+<tr><td>Checking the saving</td><td>Include the space needed to store each pair; short runs can make data larger.</td><td>Multiply each symbol’s frequency by its code length, then add the results.</td></tr>
+<tr><td>Original data</td><td>Can be recovered exactly when decoded.</td><td>Can be recovered exactly using the correct code tree.</td></tr>
+</table>
+<h2>Checking a supplied tree</h2>
+<p>Read the branch labels actually shown; a tree may use a different left/right convention. Continue until a <strong>leaf</strong>, not merely an internal node. After decoding one symbol, return to the root before reading the next bits.</p>
+<p>When building a tree, put each combined frequency back among the remaining frequencies before choosing the next two smallest. Keep that whole subtree together when combining it again. Equal frequencies may allow different valid trees, but decoding always depends on the chosen tree.</p>
+<p>The compressed message size is the sum of <strong>frequency × code length for every symbol</strong>, including spaces if present. A short message may save few or no bits once the tree or code table also has to be stored. Distinguish a calculation for message bits alone from a calculation that includes this extra information.</p>
+<h2>Calculation checklist</h2>
+<ul>
+<li>Write the formula before substituting values.</li>
+<li>Keep bits and bytes distinct; divide bits by 8 to get bytes.</li>
+<li>Use decimal prefixes of 1,000 for this course.</li>
+<li>Show place values or four-bit groups in base conversions.</li>
+<li>Include units and do not round unless instructed.</li>
+</ul></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="4e7ffa41e364-group-compression--run-length-encoding.html"><span>← Previous</span><strong>Run-length encoding</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

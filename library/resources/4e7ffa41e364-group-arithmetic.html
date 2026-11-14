@@ -1,5 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Units and binary arithmetic · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="4e7ffa41e364.html">Fundamentals of data representation</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Units and binary arithmetic</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><a class="" href="4e7ffa41e364-group-numbers.html">Number bases and conversions</a><a class="selected" href="4e7ffa41e364-group-arithmetic.html" aria-current="page">Units and binary arithmetic</a><a class="" href="4e7ffa41e364-group-text.html">Character encoding</a><a class="" href="4e7ffa41e364-group-media.html">Images and sound</a><a class="" href="4e7ffa41e364-group-compression.html">Compression</a></nav></details><a class="revision-side-complete" href="4e7ffa41e364-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><h1>Units and binary arithmetic</h1>
-<h2>Bits, bytes and prefixes</h2>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Bits, bytes and prefixes · Units and binary arithmetic · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="4e7ffa41e364.html">Fundamentals of data representation</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Bits, bytes and prefixes</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Number bases and conversions</p><a class="" href="4e7ffa41e364-group-numbers.html">Binary, decimal and hexadecimal</a><a class="" href="4e7ffa41e364-group-numbers--converting-number-bases.html">Converting number bases</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Units and binary arithmetic</p><a class="selected" href="4e7ffa41e364-group-arithmetic.html" aria-current="page">Bits, bytes and prefixes</a><a class="" href="4e7ffa41e364-group-arithmetic--binary-arithmetic-and-shifts.html">Binary arithmetic and shifts</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Character encoding</p><a class="" href="4e7ffa41e364-group-text.html">Character encoding</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Images and sound</p><a class="" href="4e7ffa41e364-group-media.html">Bitmap images</a><a class="" href="4e7ffa41e364-group-media--digital-sound.html">Digital sound</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Compression</p><a class="" href="4e7ffa41e364-group-compression.html">Why compression is used</a><a class="" href="4e7ffa41e364-group-compression--run-length-encoding.html">Run-length encoding</a><a class="" href="4e7ffa41e364-group-compression--huffman-coding.html">Huffman coding</a></div></nav></details><a class="revision-side-complete" href="4e7ffa41e364-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Fundamentals of data representation</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364.html">Revision notes</a><span aria-hidden="true"> / </span><a href="4e7ffa41e364-group-arithmetic.html">Units and binary arithmetic</a></nav><div class="reader-tools"><a href="4e7ffa41e364.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Units and binary arithmetic</p><h1>Bits, bytes and prefixes</h1>
 <ul>
 <li>A <strong>bit</strong> is one binary digit, 0 or 1.</li>
 <li>A <strong>byte</strong> is 8 bits.</li>
@@ -13,52 +12,6 @@
 <li>1 TB = 1,000 GB</li>
 </ul>
 <p>To move to a larger unit, divide by 1,000. To move to a smaller unit, multiply by 1,000.</p>
-<h3>Comparing sizes without mixing units</h3>
+<h2>Comparing sizes without mixing units</h2>
 <p>A file of <strong>2.4 MB</strong> contains 2,400,000 bytes. Multiplying by 8 gives <strong>19,200,000 bits</strong>. Converting MB to bits therefore requires both the decimal prefix and the bits-per-byte conversion.</p>
-<p>To compare 900 kB with 1.2 MB, convert 1.2 MB to <strong>1,200 kB</strong>. The second file is larger by <strong>300 kB</strong>. Comparing the numbers 900 and 1.2 without their units would give the wrong result.</p>
-<h2>Binary arithmetic and shifts</h2>
-<p>Binary addition follows these facts:</p>
-<ul>
-<li>0 + 0 = 0</li>
-<li>0 + 1 = 1</li>
-<li>1 + 1 = 10, so write 0 and carry 1</li>
-<li>1 + 1 + 1 = 11, so write 1 and carry 1</li>
-</ul>
-<table>
-<tr><th>Feature</th><th>Logical left shift</th><th>Logical right shift</th></tr>
-<tr><td>Bit movement</td><td>Moves bits left; fills empty positions with zero.</td><td>Moves bits right; fills empty positions with zero.</td></tr>
-<tr><td>One-place effect</td><td>Multiplies an unsigned whole number by 2 <strong>if no significant bit is lost</strong>.</td><td>Performs integer division by 2 on an unsigned whole number.</td></tr>
-<tr><td>What can be lost?</td><td>Bits shifted beyond the left edge are discarded.</td><td>Bits shifted beyond the right edge are discarded, so an odd value loses its remainder.</td></tr>
-</table>
-<p>Example: <code>00010110</code> (22) shifted left once becomes <code>00101100</code> (44).</p>
-<h3>A complete addition</h3>
-<p>Add <code>00001101</code> (13) and <code>00000111</code> (7). Start at the rightmost column and include any carry from the previous column.</p>
-<pre class="code-block"><code class="language-text">  00001101
-+ 00000111
-----------
-  00010100
-</code></pre>
-<table>
-<tr><th>Column, starting at the right</th><th>Values added</th><th>Bit written</th><th>Carry to the next column</th></tr>
-<tr><td>1</td><td>1 + 1</td><td>0</td><td>1</td></tr>
-<tr><td>2</td><td>0 + 1 + carry 1</td><td>0</td><td>1</td></tr>
-<tr><td>4</td><td>1 + 1 + carry 1</td><td>1</td><td>1</td></tr>
-<tr><td>8</td><td>1 + 0 + carry 1</td><td>0</td><td>1</td></tr>
-<tr><td>16</td><td>0 + 0 + carry 1</td><td>1</td><td>0</td></tr>
-</table>
-<p>The remaining leading columns are zero. Check: <strong>13 + 7 = 20</strong>, and <code>00010100</code> is 16 + 4 = 20.</p>
-<p>A column containing three 1s has a total of binary <code>11</code>: write 1 and carry 1. The same rule applies when adding three binary numbers.</p>
-<h3>Shifts and discarded bits</h3>
-<p>A two-place left shift multiplies by <strong>4</strong>, provided no significant bit is lost. For example, <code>00000111</code> (7) becomes <code>00011100</code> (28).</p>
-<p>A logical right shift fills the left positions with zeroes. Shifting <code>00000111</code> right once gives <code>00000011</code> (3): the final 1 is discarded, so the result is whole-number division, not 3.5.</p>
-<p>With a fixed 8-bit width, shifting <code>10000001</code> left once gives <code>00000010</code>. The leading 1 falls outside the available width, so the stored result is not twice the original value. Always show the specified number of positions.</p>
-<h3>Adding three numbers</h3>
-<p>The same column rules work for three inputs. Add 21, 10 and 4 using eight bits:</p>
-<pre class="code-block"><code class="language-text">  00010101
-  00001010
-+ 00000100
-----------
-  00100011
-</code></pre>
-<p>Work from right to left, carrying into the next column when needed. The 4s column contains two 1s, so write 0 and carry 1 into the 8s column. That carry combines with the existing 1 in the 8s column, producing another carry. The final result is <strong>35</strong>, which checks against 21 + 10 + 4.</p>
-<p>A logical right shift discards low-order bits and keeps the whole-number result. Shifting 13 right twice gives 3 because <strong>13 DIV 4 = 3</strong>. The discarded remainder is not a fractional value retained elsewhere in the bit pattern.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="4e7ffa41e364-group-numbers.html"><span>← Previous</span><strong>Number bases and conversions</strong></a><a href="4e7ffa41e364-group-text.html"><span>Next →</span><strong>Character encoding</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>To compare 900 kB with 1.2 MB, convert 1.2 MB to <strong>1,200 kB</strong>. The second file is larger by <strong>300 kB</strong>. Comparing the numbers 900 and 1.2 without their units would give the wrong result.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/03%20-%20Fundamentals%20of%20data%20representation/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="4e7ffa41e364-group-numbers--converting-number-bases.html"><span>← Previous</span><strong>Number bases and conversions: Converting number bases</strong></a><a href="4e7ffa41e364-group-arithmetic--binary-arithmetic-and-shifts.html"><span>Next →</span><strong>Binary arithmetic and shifts</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
