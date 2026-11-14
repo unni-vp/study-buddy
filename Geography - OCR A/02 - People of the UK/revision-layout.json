@@ -10,6 +10,32 @@
         {
           "heading": "The UK in the wider world"
         }
+      ],
+      "subsections": [
+        {
+          "id": "trade-partners",
+          "title": "Trade & trading partners",
+          "sections": [
+            {
+              "heading": "Trade connects the UK to other places"
+            },
+            {
+              "heading": "Major trading partners"
+            }
+          ]
+        },
+        {
+          "id": "uneven-development",
+          "title": "Development, diversity & inequality",
+          "sections": [
+            {
+              "heading": "Compare diversity and inequality carefully"
+            },
+            {
+              "heading": "Why economic development is uneven"
+            }
+          ]
+        }
       ]
     },
     {
@@ -20,6 +46,47 @@
       "sections": [
         {
           "heading": "Economic change: Salford Quays"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "docks-decline",
+          "title": "Industrial background & dock decline",
+          "sections": [
+            {
+              "heading": "Place and industrial background"
+            },
+            {
+              "heading": "Why the docks declined"
+            }
+          ]
+        },
+        {
+          "id": "regeneration",
+          "title": "Regeneration strategy",
+          "sections": [
+            {
+              "heading": "Regeneration strategy"
+            }
+          ]
+        },
+        {
+          "id": "effects-evaluation",
+          "title": "Effects & evaluation",
+          "sections": [
+            {
+              "heading": "Economic effects"
+            },
+            {
+              "heading": "Social effects"
+            },
+            {
+              "heading": "Environmental effects"
+            },
+            {
+              "heading": "Evaluation"
+            }
+          ]
         }
       ]
     },
@@ -35,6 +102,45 @@
         {
           "heading": "Migration and ways of life"
         }
+      ],
+      "subsections": [
+        {
+          "id": "structure-dtm",
+          "title": "Population structure & the DTM",
+          "sections": [
+            {
+              "heading": "Population structure"
+            },
+            {
+              "heading": "Demographic Transition Model"
+            }
+          ]
+        },
+        {
+          "id": "ageing",
+          "title": "Ageing population",
+          "sections": [
+            {
+              "heading": "Ageing population"
+            }
+          ]
+        },
+        {
+          "id": "migration",
+          "title": "Migration & its impacts",
+          "sections": [
+            {
+              "heading": "Migration and ways of life",
+              "intro_only": true
+            },
+            {
+              "heading": "Impacts of immigration"
+            },
+            {
+              "heading": "Migration flows change over time"
+            }
+          ]
+        }
       ]
     },
     {
@@ -45,6 +151,17 @@
       "sections": [
         {
           "heading": "Urban change"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "urban-patterns",
+          "title": "Urban change & regeneration",
+          "sections": [
+            {
+              "heading": "Urban change"
+            }
+          ]
         }
       ]
     },
@@ -60,7 +177,49 @@
         {
           "heading": "High-yield checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "profile-migration",
+          "title": "City profile & migration",
+          "sections": [
+            {
+              "heading": "Place, population and importance"
+            },
+            {
+              "heading": "Migration and changing character"
+            }
+          ]
+        },
+        {
+          "id": "housing-inequality",
+          "title": "Housing & inequality",
+          "sections": [
+            {
+              "heading": "Housing challenge"
+            },
+            {
+              "heading": "Inequality challenge"
+            }
+          ]
+        },
+        {
+          "id": "sustainable-city",
+          "title": "Transport, waste & evaluation",
+          "sections": [
+            {
+              "heading": "Transport challenge"
+            },
+            {
+              "heading": "Waste and low-carbon living"
+            },
+            {
+              "heading": "Evaluation"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
