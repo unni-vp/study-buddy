@@ -13,6 +13,26 @@
         {
           "heading": "Act 1 — Temptation and choice"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-story-in-five-acts",
+          "title": "The story in five acts",
+          "sections": [
+            {
+              "heading": "The story in five acts"
+            }
+          ]
+        },
+        {
+          "id": "act-1-temptation-and-choice",
+          "title": "Act 1 — Temptation and choice",
+          "sections": [
+            {
+              "heading": "Act 1 — Temptation and choice"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +43,17 @@
       "sections": [
         {
           "heading": "Act 2 — Murder and disorder"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "act-2-murder-and-disorder",
+          "title": "Act 2 — Murder and disorder",
+          "sections": [
+            {
+              "heading": "Act 2 — Murder and disorder"
+            }
+          ]
         }
       ]
     },
@@ -35,6 +66,17 @@
         {
           "heading": "Act 3 — Fear and isolation"
         }
+      ],
+      "subsections": [
+        {
+          "id": "act-3-fear-and-isolation",
+          "title": "Act 3 — Fear and isolation",
+          "sections": [
+            {
+              "heading": "Act 3 — Fear and isolation"
+            }
+          ]
+        }
       ]
     },
     {
@@ -46,6 +88,17 @@
         {
           "heading": "Act 4 — False confidence and cruelty"
         }
+      ],
+      "subsections": [
+        {
+          "id": "act-4-false-confidence-and-cruelty",
+          "title": "Act 4 — False confidence and cruelty",
+          "sections": [
+            {
+              "heading": "Act 4 — False confidence and cruelty"
+            }
+          ]
+        }
       ]
     },
     {
@@ -56,6 +109,17 @@
       "sections": [
         {
           "heading": "Act 5 — Collapse and restoration"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "act-5-collapse-and-restoration",
+          "title": "Act 5 — Collapse and restoration",
+          "sections": [
+            {
+              "heading": "Act 5 — Collapse and restoration"
+            }
+          ]
         }
       ]
     },
@@ -71,6 +135,26 @@
         {
           "heading": "Lady Macbeth and the marriage"
         }
+      ],
+      "subsections": [
+        {
+          "id": "macbeth-from-defender-to-tyrant",
+          "title": "Macbeth: from defender to tyrant",
+          "sections": [
+            {
+              "heading": "Macbeth: from defender to tyrant"
+            }
+          ]
+        },
+        {
+          "id": "lady-macbeth-and-the-marriage",
+          "title": "Lady Macbeth and the marriage",
+          "sections": [
+            {
+              "heading": "Lady Macbeth and the marriage"
+            }
+          ]
+        }
       ]
     },
     {
@@ -84,6 +168,26 @@
         },
         {
           "heading": "Banquo: temptation, integrity and a threatening legacy"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "the-witches-temptation-and-deceptive-promises",
+          "title": "The witches: temptation and deceptive promises",
+          "sections": [
+            {
+              "heading": "The witches: temptation and deceptive promises"
+            }
+          ]
+        },
+        {
+          "id": "banquo-temptation-integrity-and-a-threatening-legacy",
+          "title": "Banquo: temptation, integrity and a threatening legacy",
+          "sections": [
+            {
+              "heading": "Banquo: temptation, integrity and a threatening legacy"
+            }
+          ]
         }
       ]
     },
@@ -105,6 +209,38 @@
         {
           "heading": "Other characters and the rulers"
         }
+      ],
+      "subsections": [
+        {
+          "id": "macduff-loyalty-grief-and-resistance",
+          "title": "Macduff: loyalty, grief and resistance",
+          "sections": [
+            {
+              "heading": "Macduff: loyalty, grief and resistance"
+            }
+          ]
+        },
+        {
+          "id": "duncan-generous-kingship-and-misplaced-trust",
+          "title": "Duncan: generous kingship and misplaced trust",
+          "sections": [
+            {
+              "heading": "Duncan: generous kingship and misplaced trust"
+            }
+          ]
+        },
+        {
+          "id": "malcolm-legitimate-succession-and-cautious-leadership",
+          "title": "Malcolm: legitimate succession and cautious leadership",
+          "sections": [
+            {
+              "heading": "Malcolm: legitimate succession and cautious leadership"
+            },
+            {
+              "heading": "Other characters and the rulers"
+            }
+          ]
+        }
       ]
     },
     {
@@ -118,6 +254,26 @@
         },
         {
           "heading": "Kingship"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "ambition-power",
+          "title": "Ambition / Power",
+          "sections": [
+            {
+              "heading": "Ambition / Power"
+            }
+          ]
+        },
+        {
+          "id": "kingship",
+          "title": "Kingship",
+          "sections": [
+            {
+              "heading": "Kingship"
+            }
+          ]
         }
       ]
     },
@@ -133,6 +289,26 @@
         {
           "heading": "Guilt"
         }
+      ],
+      "subsections": [
+        {
+          "id": "violence",
+          "title": "Violence",
+          "sections": [
+            {
+              "heading": "Violence"
+            }
+          ]
+        },
+        {
+          "id": "guilt",
+          "title": "Guilt",
+          "sections": [
+            {
+              "heading": "Guilt"
+            }
+          ]
+        }
       ]
     },
     {
@@ -146,6 +322,26 @@
         },
         {
           "heading": "Appearance and reality"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "gender",
+          "title": "Gender",
+          "sections": [
+            {
+              "heading": "Gender"
+            }
+          ]
+        },
+        {
+          "id": "appearance-and-reality",
+          "title": "Appearance and reality",
+          "sections": [
+            {
+              "heading": "Appearance and reality"
+            }
+          ]
         }
       ]
     },
@@ -161,6 +357,26 @@
         {
           "heading": "How Shakespeare makes the drama work"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-supernatural",
+          "title": "The supernatural",
+          "sections": [
+            {
+              "heading": "The supernatural"
+            }
+          ]
+        },
+        {
+          "id": "how-shakespeare-makes-the-drama-work",
+          "title": "How Shakespeare makes the drama work",
+          "sections": [
+            {
+              "heading": "How Shakespeare makes the drama work"
+            }
+          ]
+        }
       ]
     },
     {
@@ -174,6 +390,26 @@
         },
         {
           "heading": "A small quotation bank with many uses"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "useful-vocabulary-for-a-precise-argument",
+          "title": "Useful vocabulary for a precise argument",
+          "sections": [
+            {
+              "heading": "Useful vocabulary for a precise argument"
+            }
+          ]
+        },
+        {
+          "id": "a-small-quotation-bank-with-many-uses",
+          "title": "A small quotation bank with many uses",
+          "sections": [
+            {
+              "heading": "A small quotation bank with many uses"
+            }
+          ]
         }
       ]
     },
@@ -192,7 +428,37 @@
         {
           "heading": "Building a whole-play argument"
         }
+      ],
+      "subsections": [
+        {
+          "id": "writing-about-an-extract",
+          "title": "Writing about an extract",
+          "sections": [
+            {
+              "heading": "Writing about an extract"
+            }
+          ]
+        },
+        {
+          "id": "connecting-themes-to-the-question",
+          "title": "Connecting themes to the question",
+          "sections": [
+            {
+              "heading": "Connecting themes to the question"
+            }
+          ]
+        },
+        {
+          "id": "building-a-whole-play-argument",
+          "title": "Building a whole-play argument",
+          "sections": [
+            {
+              "heading": "Building a whole-play argument"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
