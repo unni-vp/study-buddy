@@ -23,6 +23,44 @@
       "maps": [
         "01-pathogens-and-disease",
         "02-defence-and-vaccination"
+      ],
+      "subsections": [
+        {
+          "id": "pathogens-and-transmission",
+          "title": "Pathogens and transmission",
+          "sections": [
+            {
+              "heading": "Pathogens and transmission"
+            }
+          ]
+        },
+        {
+          "id": "human-infections",
+          "title": "Human infections",
+          "sections": [
+            {
+              "heading": "Human infections"
+            }
+          ]
+        },
+        {
+          "id": "barriers-and-white-blood-cells",
+          "title": "Barriers and white blood cells",
+          "sections": [
+            {
+              "heading": "Barriers and white blood cells"
+            }
+          ]
+        },
+        {
+          "id": "vaccination",
+          "title": "Vaccination",
+          "sections": [
+            {
+              "heading": "Vaccination"
+            }
+          ]
+        }
       ]
     },
     {
@@ -40,6 +78,26 @@
       ],
       "maps": [
         "03-medicines-and-antibodies"
+      ],
+      "subsections": [
+        {
+          "id": "antibiotics-and-other-medicines",
+          "title": "Antibiotics and other medicines",
+          "sections": [
+            {
+              "heading": "Antibiotics and other medicines"
+            }
+          ]
+        },
+        {
+          "id": "developing-new-drugs",
+          "title": "Developing new drugs",
+          "sections": [
+            {
+              "heading": "Developing new drugs"
+            }
+          ]
+        }
       ]
     },
     {
@@ -54,6 +112,17 @@
       ],
       "maps": [
         "03-medicines-and-antibodies"
+      ],
+      "subsections": [
+        {
+          "id": "monoclonal-antibodies",
+          "title": "Monoclonal antibodies",
+          "sections": [
+            {
+              "heading": "Monoclonal antibodies"
+            }
+          ]
+        }
       ]
     },
     {
@@ -71,7 +140,28 @@
       ],
       "maps": [
         "04-plant-health"
+      ],
+      "subsections": [
+        {
+          "id": "plant-infections-and-deficiencies",
+          "title": "Plant infections and deficiencies",
+          "sections": [
+            {
+              "heading": "Plant infections and deficiencies"
+            }
+          ]
+        },
+        {
+          "id": "plant-defences",
+          "title": "Plant defences",
+          "sections": [
+            {
+              "heading": "Plant defences"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
