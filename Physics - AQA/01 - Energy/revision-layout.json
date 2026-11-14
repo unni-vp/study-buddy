@@ -13,6 +13,26 @@
         {
           "heading": "Calculating changes in stores"
         }
+      ],
+      "subsections": [
+        {
+          "id": "stores-and-transfers",
+          "title": "Stores and transfers",
+          "sections": [
+            {
+              "heading": "Stores and transfers"
+            }
+          ]
+        },
+        {
+          "id": "calculating-changes-in-stores",
+          "title": "Calculating changes in stores",
+          "sections": [
+            {
+              "heading": "Calculating changes in stores"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +46,26 @@
         },
         {
           "heading": "Power and work"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "conservation-dissipation-and-efficiency",
+          "title": "Conservation, dissipation and efficiency",
+          "sections": [
+            {
+              "heading": "Conservation, dissipation and efficiency"
+            }
+          ]
+        },
+        {
+          "id": "power-and-work",
+          "title": "Power and work",
+          "sections": [
+            {
+              "heading": "Power and work"
+            }
+          ]
         }
       ]
     },
@@ -47,6 +87,44 @@
         {
           "heading": "Practical: compare thermal insulators"
         }
+      ],
+      "subsections": [
+        {
+          "id": "heating-and-specific-heat-capacity",
+          "title": "Heating and specific heat capacity",
+          "sections": [
+            {
+              "heading": "Heating and specific heat capacity"
+            }
+          ]
+        },
+        {
+          "id": "practical-measure-specific-heat-capacity",
+          "title": "Practical: measure specific heat capacity",
+          "sections": [
+            {
+              "heading": "Practical: measure specific heat capacity"
+            }
+          ]
+        },
+        {
+          "id": "insulation-and-cooling",
+          "title": "Insulation and cooling",
+          "sections": [
+            {
+              "heading": "Insulation and cooling"
+            }
+          ]
+        },
+        {
+          "id": "practical-compare-thermal-insulators",
+          "title": "Practical: compare thermal insulators",
+          "sections": [
+            {
+              "heading": "Practical: compare thermal insulators"
+            }
+          ]
+        }
       ]
     },
     {
@@ -58,7 +136,19 @@
         {
           "heading": "Energy resources and decisions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "energy-resources-and-decisions",
+          "title": "Energy resources and decisions",
+          "sections": [
+            {
+              "heading": "Energy resources and decisions"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
