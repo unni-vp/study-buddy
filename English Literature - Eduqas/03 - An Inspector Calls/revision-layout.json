@@ -19,6 +19,44 @@
         {
           "heading": "Act 3: confession and the final reversal"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-central-idea",
+          "title": "The central idea",
+          "sections": [
+            {
+              "heading": "The central idea"
+            }
+          ]
+        },
+        {
+          "id": "act-1-celebration-interrupted",
+          "title": "Act 1: celebration interrupted",
+          "sections": [
+            {
+              "heading": "Act 1: celebration interrupted"
+            }
+          ]
+        },
+        {
+          "id": "act-2-respectable-appearances-break-down",
+          "title": "Act 2: respectable appearances break down",
+          "sections": [
+            {
+              "heading": "Act 2: respectable appearances break down"
+            }
+          ]
+        },
+        {
+          "id": "act-3-confession-and-the-final-reversal",
+          "title": "Act 3: confession and the final reversal",
+          "sections": [
+            {
+              "heading": "Act 3: confession and the final reversal"
+            }
+          ]
+        }
       ]
     },
     {
@@ -45,6 +83,62 @@
         {
           "heading": "Inspector Goole and Eva Smith"
         }
+      ],
+      "subsections": [
+        {
+          "id": "arthur-birling",
+          "title": "Arthur Birling",
+          "sections": [
+            {
+              "heading": "Arthur Birling"
+            }
+          ]
+        },
+        {
+          "id": "sybil-birling",
+          "title": "Sybil Birling",
+          "sections": [
+            {
+              "heading": "Sybil Birling"
+            }
+          ]
+        },
+        {
+          "id": "sheila-birling",
+          "title": "Sheila Birling",
+          "sections": [
+            {
+              "heading": "Sheila Birling"
+            }
+          ]
+        },
+        {
+          "id": "eric-birling",
+          "title": "Eric Birling",
+          "sections": [
+            {
+              "heading": "Eric Birling"
+            }
+          ]
+        },
+        {
+          "id": "gerald-croft",
+          "title": "Gerald Croft",
+          "sections": [
+            {
+              "heading": "Gerald Croft"
+            }
+          ]
+        },
+        {
+          "id": "inspector-goole-and-eva-smith",
+          "title": "Inspector Goole and Eva Smith",
+          "sections": [
+            {
+              "heading": "Inspector Goole and Eva Smith"
+            }
+          ]
+        }
       ]
     },
     {
@@ -62,6 +156,35 @@
         {
           "heading": "Dramatic methods and context"
         }
+      ],
+      "subsections": [
+        {
+          "id": "responsibility-and-social-inequality",
+          "title": "Responsibility and social inequality",
+          "sections": [
+            {
+              "heading": "Responsibility and social inequality"
+            }
+          ]
+        },
+        {
+          "id": "gender-generations-and-appearance",
+          "title": "Gender, generations and appearance",
+          "sections": [
+            {
+              "heading": "Gender, generations and appearance"
+            }
+          ]
+        },
+        {
+          "id": "dramatic-methods-and-context",
+          "title": "Dramatic methods and context",
+          "sections": [
+            {
+              "heading": "Dramatic methods and context"
+            }
+          ]
+        }
       ]
     },
     {
@@ -73,7 +196,19 @@
         {
           "heading": "Building an answer"
         }
+      ],
+      "subsections": [
+        {
+          "id": "building-an-answer",
+          "title": "Building an answer",
+          "sections": [
+            {
+              "heading": "Building an answer"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
