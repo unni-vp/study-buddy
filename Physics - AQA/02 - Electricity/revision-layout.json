@@ -19,6 +19,44 @@
         {
           "heading": "Components and I–V graphs"
         }
+      ],
+      "subsections": [
+        {
+          "id": "charge-current-and-potential-difference",
+          "title": "Charge, current and potential difference",
+          "sections": [
+            {
+              "heading": "Charge, current and potential difference"
+            }
+          ]
+        },
+        {
+          "id": "circuit-symbols-and-measuring-resistance",
+          "title": "Circuit symbols and measuring resistance",
+          "sections": [
+            {
+              "heading": "Circuit symbols and measuring resistance"
+            }
+          ]
+        },
+        {
+          "id": "series-and-parallel-circuits",
+          "title": "Series and parallel circuits",
+          "sections": [
+            {
+              "heading": "Series and parallel circuits"
+            }
+          ]
+        },
+        {
+          "id": "components-and-i-v-graphs",
+          "title": "Components and I–V graphs",
+          "sections": [
+            {
+              "heading": "Components and I–V graphs"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Practical: investigate I–V characteristics"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "practical-resistance-of-a-wire-and-resistor-combinations",
+          "title": "Practical: resistance of a wire and resistor combinations",
+          "sections": [
+            {
+              "heading": "Practical: resistance of a wire and resistor combinations"
+            }
+          ]
+        },
+        {
+          "id": "practical-investigate-i-v-characteristics",
+          "title": "Practical: investigate I–V characteristics",
+          "sections": [
+            {
+              "heading": "Practical: investigate I–V characteristics"
+            }
+          ]
         }
       ]
     },
@@ -50,6 +108,35 @@
         {
           "heading": "The National Grid"
         }
+      ],
+      "subsections": [
+        {
+          "id": "electrical-energy-and-power",
+          "title": "Electrical energy and power",
+          "sections": [
+            {
+              "heading": "Electrical energy and power"
+            }
+          ]
+        },
+        {
+          "id": "mains-electricity-and-safety",
+          "title": "Mains electricity and safety",
+          "sections": [
+            {
+              "heading": "Mains electricity and safety"
+            }
+          ]
+        },
+        {
+          "id": "the-national-grid",
+          "title": "The National Grid",
+          "sections": [
+            {
+              "heading": "The National Grid"
+            }
+          ]
+        }
       ]
     },
     {
@@ -61,7 +148,19 @@
         {
           "heading": "Static charge and electric fields"
         }
+      ],
+      "subsections": [
+        {
+          "id": "static-charge-and-electric-fields",
+          "title": "Static charge and electric fields",
+          "sections": [
+            {
+              "heading": "Static charge and electric fields"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
