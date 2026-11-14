@@ -13,6 +13,26 @@
         {
           "heading": "Clear vowel contrasts"
         }
+      ],
+      "subsections": [
+        {
+          "id": "from-letters-to-sounds",
+          "title": "From letters to sounds",
+          "sections": [
+            {
+              "heading": "From letters to sounds"
+            }
+          ]
+        },
+        {
+          "id": "clear-vowel-contrasts",
+          "title": "Clear vowel contrasts",
+          "sections": [
+            {
+              "heading": "Clear vowel contrasts"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +43,17 @@
       "sections": [
         {
           "heading": "Nasal vowels"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "nasal-vowels",
+          "title": "Nasal vowels",
+          "sections": [
+            {
+              "heading": "Nasal vowels"
+            }
+          ]
         }
       ]
     },
@@ -35,6 +66,17 @@
         {
           "heading": "Consonant groups"
         }
+      ],
+      "subsections": [
+        {
+          "id": "consonant-groups",
+          "title": "Consonant groups",
+          "sections": [
+            {
+              "heading": "Consonant groups"
+            }
+          ]
+        }
       ]
     },
     {
@@ -46,7 +88,19 @@
         {
           "heading": "Silent endings and liaison"
         }
+      ],
+      "subsections": [
+        {
+          "id": "silent-endings-and-liaison",
+          "title": "Silent endings and liaison",
+          "sections": [
+            {
+              "heading": "Silent endings and liaison"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
