@@ -16,6 +16,35 @@
         {
           "heading": "Numbers and precise English answers"
         }
+      ],
+      "subsections": [
+        {
+          "id": "listening-for-the-requested-detail",
+          "title": "Listening for the requested detail",
+          "sections": [
+            {
+              "heading": "Listening for the requested detail"
+            }
+          ]
+        },
+        {
+          "id": "changes-opinions-and-distractors",
+          "title": "Changes, opinions and distractors",
+          "sections": [
+            {
+              "heading": "Changes, opinions and distractors"
+            }
+          ]
+        },
+        {
+          "id": "numbers-and-precise-english-answers",
+          "title": "Numbers and precise English answers",
+          "sections": [
+            {
+              "heading": "Numbers and precise English answers"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,7 +62,37 @@
         {
           "heading": "Practice with real audio"
         }
+      ],
+      "subsections": [
+        {
+          "id": "how-dictation-works",
+          "title": "How dictation works",
+          "sections": [
+            {
+              "heading": "How dictation works"
+            }
+          ]
+        },
+        {
+          "id": "recovering-silent-letters",
+          "title": "Recovering silent letters",
+          "sections": [
+            {
+              "heading": "Recovering silent letters"
+            }
+          ]
+        },
+        {
+          "id": "practice-with-real-audio",
+          "title": "Practice with real audio",
+          "sections": [
+            {
+              "heading": "Practice with real audio"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
