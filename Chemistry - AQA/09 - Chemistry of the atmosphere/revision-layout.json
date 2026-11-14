@@ -19,6 +19,38 @@
         {
           "heading": "Storing carbon in rocks and fuels"
         }
+      ],
+      "subsections": [
+        {
+          "id": "today-s-atmosphere",
+          "title": "Today’s atmosphere",
+          "sections": [
+            {
+              "heading": "Today’s atmosphere"
+            }
+          ]
+        },
+        {
+          "id": "early-atmosphere-and-oceans",
+          "title": "Early atmosphere and oceans",
+          "sections": [
+            {
+              "heading": "Early atmosphere and oceans"
+            },
+            {
+              "heading": "Photosynthesis changes the atmosphere"
+            }
+          ]
+        },
+        {
+          "id": "storing-carbon-in-rocks-and-fuels",
+          "title": "Storing carbon in rocks and fuels",
+          "sections": [
+            {
+              "heading": "Storing carbon in rocks and fuels"
+            }
+          ]
+        }
       ]
     },
     {
@@ -35,6 +67,29 @@
         },
         {
           "heading": "Climate effects and evaluating evidence"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "the-greenhouse-effect",
+          "title": "The greenhouse effect",
+          "sections": [
+            {
+              "heading": "The greenhouse effect"
+            },
+            {
+              "heading": "Human sources of greenhouse gases"
+            }
+          ]
+        },
+        {
+          "id": "climate-effects-and-evaluating-evidence",
+          "title": "Climate effects and evaluating evidence",
+          "sections": [
+            {
+              "heading": "Climate effects and evaluating evidence"
+            }
+          ]
         }
       ]
     },
@@ -56,7 +111,40 @@
         {
           "heading": "Keep these ideas separate"
         }
+      ],
+      "subsections": [
+        {
+          "id": "carbon-footprints-and-reducing-emissions",
+          "title": "Carbon footprints and reducing emissions",
+          "sections": [
+            {
+              "heading": "Carbon footprints and reducing emissions"
+            }
+          ]
+        },
+        {
+          "id": "fuel-combustion-and-pollutant-formation",
+          "title": "Fuel combustion and pollutant formation",
+          "sections": [
+            {
+              "heading": "Fuel combustion and pollutant formation"
+            }
+          ]
+        },
+        {
+          "id": "acid-rain-dimming-and-control-choices",
+          "title": "Acid rain, dimming and control choices",
+          "sections": [
+            {
+              "heading": "Acid rain, dimming and control choices"
+            },
+            {
+              "heading": "Keep these ideas separate"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
