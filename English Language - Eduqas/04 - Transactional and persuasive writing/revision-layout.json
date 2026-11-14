@@ -13,6 +13,26 @@
         {
           "heading": "Decode the task before you write"
         }
+      ],
+      "subsections": [
+        {
+          "id": "writing-with-a-clear-purpose",
+          "title": "Writing with a clear purpose",
+          "sections": [
+            {
+              "heading": "Writing with a clear purpose"
+            }
+          ]
+        },
+        {
+          "id": "decode-the-task-before-you-write",
+          "title": "Decode the task before you write",
+          "sections": [
+            {
+              "heading": "Decode the task before you write"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +46,26 @@
         },
         {
           "heading": "Turn your ideas into a plan"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "find-ideas-you-can-develop",
+          "title": "Find ideas you can develop",
+          "sections": [
+            {
+              "heading": "Find ideas you can develop"
+            }
+          ]
+        },
+        {
+          "id": "turn-your-ideas-into-a-plan",
+          "title": "Turn your ideas into a plan",
+          "sections": [
+            {
+              "heading": "Turn your ideas into a plan"
+            }
+          ]
         }
       ]
     },
@@ -41,6 +81,26 @@
         {
           "heading": "Open and close an article effectively"
         }
+      ],
+      "subsections": [
+        {
+          "id": "develop-a-paragraph-rather-than-list-points",
+          "title": "Develop a paragraph rather than list points",
+          "sections": [
+            {
+              "heading": "Develop a paragraph rather than list points"
+            }
+          ]
+        },
+        {
+          "id": "open-and-close-an-article-effectively",
+          "title": "Open and close an article effectively",
+          "sections": [
+            {
+              "heading": "Open and close an article effectively"
+            }
+          ]
+        }
       ]
     },
     {
@@ -51,6 +111,17 @@
       "sections": [
         {
           "heading": "A complete article, with the choices explained"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "a-complete-article-with-the-choices-explained",
+          "title": "A complete article, with the choices explained",
+          "sections": [
+            {
+              "heading": "A complete article, with the choices explained"
+            }
+          ]
         }
       ]
     },
@@ -63,6 +134,17 @@
         {
           "heading": "Persuasion that grows from the idea"
         }
+      ],
+      "subsections": [
+        {
+          "id": "persuasion-that-grows-from-the-idea",
+          "title": "Persuasion that grows from the idea",
+          "sections": [
+            {
+              "heading": "Persuasion that grows from the idea"
+            }
+          ]
+        }
       ]
     },
     {
@@ -73,6 +155,17 @@
       "sections": [
         {
           "heading": "Change the form without losing the purpose"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "change-the-form-without-losing-the-purpose",
+          "title": "Change the form without losing the purpose",
+          "sections": [
+            {
+              "heading": "Change the form without losing the purpose"
+            }
+          ]
         }
       ]
     },
@@ -88,7 +181,28 @@
         {
           "heading": "Edit for meaning, then accuracy"
         }
+      ],
+      "subsections": [
+        {
+          "id": "control-sentences-and-vocabulary",
+          "title": "Control sentences and vocabulary",
+          "sections": [
+            {
+              "heading": "Control sentences and vocabulary"
+            }
+          ]
+        },
+        {
+          "id": "edit-for-meaning-then-accuracy",
+          "title": "Edit for meaning, then accuracy",
+          "sections": [
+            {
+              "heading": "Edit for meaning, then accuracy"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
