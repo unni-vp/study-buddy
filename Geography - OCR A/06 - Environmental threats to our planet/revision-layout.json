@@ -10,6 +10,30 @@
         {
           "heading": "Climate change through time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "quaternary",
+          "title": "Climate through the Quaternary",
+          "sections": [
+            {
+              "heading": "Climate change through time",
+              "intro_only": true
+            },
+            {
+              "heading": "The Quaternary period"
+            }
+          ]
+        },
+        {
+          "id": "evidence",
+          "title": "Evidence of past climate",
+          "sections": [
+            {
+              "heading": "Evidence of past climate"
+            }
+          ]
+        }
       ]
     },
     {
@@ -21,6 +45,38 @@
         {
           "heading": "Why climate changes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "natural",
+          "title": "Natural causes of climate change",
+          "sections": [
+            {
+              "heading": "Natural causes"
+            }
+          ]
+        },
+        {
+          "id": "human",
+          "title": "The enhanced greenhouse effect",
+          "sections": [
+            {
+              "heading": "Human causes and the enhanced greenhouse effect"
+            }
+          ]
+        },
+        {
+          "id": "consequences",
+          "title": "Consequences & feedback",
+          "sections": [
+            {
+              "heading": "Current and future consequences"
+            },
+            {
+              "heading": "Feedback and unequal consequences"
+            }
+          ]
+        }
       ]
     },
     {
@@ -31,6 +87,54 @@
       "sections": [
         {
           "heading": "Global circulation and extreme weather"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "circulation-rainfall",
+          "title": "Global circulation & rainfall",
+          "sections": [
+            {
+              "heading": "Global circulation and extreme weather",
+              "intro_only": true
+            },
+            {
+              "heading": "How the circulation model explains rainfall"
+            }
+          ]
+        },
+        {
+          "id": "storms",
+          "title": "Tropical storms & their hazards",
+          "sections": [
+            {
+              "heading": "Tropical storms"
+            },
+            {
+              "heading": "Storm structure and different hazards"
+            }
+          ]
+        },
+        {
+          "id": "drought-enso",
+          "title": "Drought, El Niño & La Niña",
+          "sections": [
+            {
+              "heading": "Drought"
+            },
+            {
+              "heading": "Pacific conditions: neutral, El Niño and La Niña"
+            }
+          ]
+        },
+        {
+          "id": "hazard-patterns",
+          "title": "Hazard distribution & frequency",
+          "sections": [
+            {
+              "heading": "Distribution and changing frequency of hazards"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +153,52 @@
         {
           "heading": "Sources for the named case study"
         }
+      ],
+      "subsections": [
+        {
+          "id": "causes",
+          "title": "Development & causes",
+          "sections": [
+            {
+              "heading": "Development and causes"
+            }
+          ]
+        },
+        {
+          "id": "effects",
+          "title": "Social, economic & environmental effects",
+          "sections": [
+            {
+              "heading": "Effects on people and the economy"
+            },
+            {
+              "heading": "Environmental effects"
+            }
+          ]
+        },
+        {
+          "id": "responses",
+          "title": "Responses & adaptation",
+          "sections": [
+            {
+              "heading": "Responses and adaptation"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "Evaluating the responses",
+          "sections": [
+            {
+              "heading": "How successful were the responses?"
+            },
+            {
+              "heading": "Exam links to remember"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
