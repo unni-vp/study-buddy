@@ -16,6 +16,35 @@
         {
           "heading": "Isotopes and relative atomic mass"
         }
+      ],
+      "subsections": [
+        {
+          "id": "atoms-elements-and-compounds",
+          "title": "Atoms, elements and compounds",
+          "sections": [
+            {
+              "heading": "Atoms, elements and compounds"
+            }
+          ]
+        },
+        {
+          "id": "inside-an-atom",
+          "title": "Inside an atom",
+          "sections": [
+            {
+              "heading": "Inside an atom"
+            }
+          ]
+        },
+        {
+          "id": "isotopes-and-relative-atomic-mass",
+          "title": "Isotopes and relative atomic mass",
+          "sections": [
+            {
+              "heading": "Isotopes and relative atomic mass"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +55,17 @@
       "sections": [
         {
           "heading": "Separating mixtures"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "separating-mixtures",
+          "title": "Separating mixtures",
+          "sections": [
+            {
+              "heading": "Separating mixtures"
+            }
+          ]
         }
       ]
     },
@@ -41,6 +81,26 @@
         {
           "heading": "How scientific models changed"
         }
+      ],
+      "subsections": [
+        {
+          "id": "electrons-and-the-periodic-table",
+          "title": "Electrons and the periodic table",
+          "sections": [
+            {
+              "heading": "Electrons and the periodic table"
+            }
+          ]
+        },
+        {
+          "id": "how-scientific-models-changed",
+          "title": "How scientific models changed",
+          "sections": [
+            {
+              "heading": "How scientific models changed"
+            }
+          ]
+        }
       ]
     },
     {
@@ -55,7 +115,28 @@
         {
           "heading": "Transition metals"
         }
+      ],
+      "subsections": [
+        {
+          "id": "groups-0-1-and-7",
+          "title": "Groups 0, 1 and 7",
+          "sections": [
+            {
+              "heading": "Groups 0, 1 and 7"
+            }
+          ]
+        },
+        {
+          "id": "transition-metals",
+          "title": "Transition metals",
+          "sections": [
+            {
+              "heading": "Transition metals"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
