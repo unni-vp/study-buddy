@@ -16,6 +16,26 @@
       ],
       "maps": [
         "01-digestion-and-enzymes"
+      ],
+      "subsections": [
+        {
+          "id": "cells-tissues-and-digestion",
+          "title": "Cells, tissues and digestion",
+          "sections": [
+            {
+              "heading": "Cells, tissues and digestion"
+            }
+          ]
+        },
+        {
+          "id": "enzymes-and-their-products",
+          "title": "Enzymes and their products",
+          "sections": [
+            {
+              "heading": "Enzymes and their products"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,6 +53,26 @@
       ],
       "maps": [
         "01-digestion-and-enzymes"
+      ],
+      "subsections": [
+        {
+          "id": "food-tests",
+          "title": "Food tests",
+          "sections": [
+            {
+              "heading": "Food tests"
+            }
+          ]
+        },
+        {
+          "id": "investigating-amylase-and-ph",
+          "title": "Investigating amylase and pH",
+          "sections": [
+            {
+              "heading": "Investigating amylase and pH"
+            }
+          ]
+        }
       ]
     },
     {
@@ -50,6 +90,26 @@
       ],
       "maps": [
         "02-circulation-and-health"
+      ],
+      "subsections": [
+        {
+          "id": "the-heart-and-double-circulation",
+          "title": "The heart and double circulation",
+          "sections": [
+            {
+              "heading": "The heart and double circulation"
+            }
+          ]
+        },
+        {
+          "id": "blood-vessels-and-lungs",
+          "title": "Blood, vessels and lungs",
+          "sections": [
+            {
+              "heading": "Blood, vessels and lungs"
+            }
+          ]
+        }
       ]
     },
     {
@@ -67,6 +127,26 @@
       ],
       "maps": [
         "02-circulation-and-health"
+      ],
+      "subsections": [
+        {
+          "id": "coronary-heart-disease-and-treatments",
+          "title": "Coronary heart disease and treatments",
+          "sections": [
+            {
+              "heading": "Coronary heart disease and treatments"
+            }
+          ]
+        },
+        {
+          "id": "health-risk-factors-and-cancer",
+          "title": "Health, risk factors and cancer",
+          "sections": [
+            {
+              "heading": "Health, risk factors and cancer"
+            }
+          ]
+        }
       ]
     },
     {
@@ -84,7 +164,28 @@
       ],
       "maps": [
         "03-plant-tissues-and-transport"
+      ],
+      "subsections": [
+        {
+          "id": "leaf-tissues",
+          "title": "Leaf tissues",
+          "sections": [
+            {
+              "heading": "Leaf tissues"
+            }
+          ]
+        },
+        {
+          "id": "transpiration-and-translocation",
+          "title": "Transpiration and translocation",
+          "sections": [
+            {
+              "heading": "Transpiration and translocation"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
