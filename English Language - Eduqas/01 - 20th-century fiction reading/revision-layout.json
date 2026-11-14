@@ -16,6 +16,35 @@
         {
           "heading": "Select evidence that does a job"
         }
+      ],
+      "subsections": [
+        {
+          "id": "read-the-question-and-its-range",
+          "title": "Read the question and its range",
+          "sections": [
+            {
+              "heading": "Read the question and its range"
+            }
+          ]
+        },
+        {
+          "id": "retrieve-facts-and-make-inferences",
+          "title": "Retrieve facts and make inferences",
+          "sections": [
+            {
+              "heading": "Retrieve facts and make inferences"
+            }
+          ]
+        },
+        {
+          "id": "select-evidence-that-does-a-job",
+          "title": "Select evidence that does a job",
+          "sections": [
+            {
+              "heading": "Select evidence that does a job"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,6 +62,35 @@
         {
           "heading": "Build an analytical paragraph"
         }
+      ],
+      "subsections": [
+        {
+          "id": "analyse-words-and-images",
+          "title": "Analyse words and images",
+          "sections": [
+            {
+              "heading": "Analyse words and images"
+            }
+          ]
+        },
+        {
+          "id": "analyse-structure-and-viewpoint",
+          "title": "Analyse structure and viewpoint",
+          "sections": [
+            {
+              "heading": "Analyse structure and viewpoint"
+            }
+          ]
+        },
+        {
+          "id": "build-an-analytical-paragraph",
+          "title": "Build an analytical paragraph",
+          "sections": [
+            {
+              "heading": "Build an analytical paragraph"
+            }
+          ]
+        }
       ]
     },
     {
@@ -47,7 +105,28 @@
         {
           "heading": "Cover the passage and manage time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "evaluate-a-statement",
+          "title": "Evaluate a statement",
+          "sections": [
+            {
+              "heading": "Evaluate a statement"
+            }
+          ]
+        },
+        {
+          "id": "cover-the-passage-and-manage-time",
+          "title": "Cover the passage and manage time",
+          "sections": [
+            {
+              "heading": "Cover the passage and manage time"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
