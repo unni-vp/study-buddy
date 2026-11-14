@@ -18,7 +18,9 @@ def split_section(raw,definitions):
         for selector in page['sections']:
             hits=[i for i,b in enumerate(blocks) if b.level>1 and b.heading==selector['heading']]
             if len(hits)!=1:raise ValueError('Subsection heading must be unique: '+selector['heading'])
-            root=hits[0];root_is_title=first and (len(page['sections'])==1 or selector.get('intro_only'))
+            root=hits[0]
+            heading_key=lambda value:re.sub(r'\W+',' ',value.casefold().replace('&',' and ')).strip()
+            root_is_title=first and (len(page['sections'])==1 or selector.get('intro_only') or heading_key(blocks[root].heading)==heading_key(page['title']))
             indices=[root] if selector.get('intro_only') else descendants(blocks,root)
             for i in indices:
                 if i in hidden:continue
