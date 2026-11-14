@@ -16,6 +16,35 @@
         {
           "heading": "Opinions and changes over time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "introducing-yourself-and-other-people",
+          "title": "Introducing yourself and other people",
+          "sections": [
+            {
+              "heading": "Introducing yourself and other people"
+            }
+          ]
+        },
+        {
+          "id": "relationships-and-personality",
+          "title": "Relationships and personality",
+          "sections": [
+            {
+              "heading": "Relationships and personality"
+            }
+          ]
+        },
+        {
+          "id": "opinions-and-changes-over-time",
+          "title": "Opinions and changes over time",
+          "sections": [
+            {
+              "heading": "Opinions and changes over time"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +58,26 @@
         },
         {
           "heading": "Habits, problems and improvements"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "food-and-healthy-living",
+          "title": "Food and healthy living",
+          "sections": [
+            {
+              "heading": "Food and healthy living"
+            }
+          ]
+        },
+        {
+          "id": "habits-problems-and-improvements",
+          "title": "Habits, problems and improvements",
+          "sections": [
+            {
+              "heading": "Habits, problems and improvements"
+            }
+          ]
         }
       ]
     },
@@ -44,6 +93,26 @@
         {
           "heading": "Turning ideas into a developed response"
         }
+      ],
+      "subsections": [
+        {
+          "id": "school-life-and-opinions",
+          "title": "School life and opinions",
+          "sections": [
+            {
+              "heading": "School life and opinions"
+            }
+          ]
+        },
+        {
+          "id": "turning-ideas-into-a-developed-response",
+          "title": "Turning ideas into a developed response",
+          "sections": [
+            {
+              "heading": "Turning ideas into a developed response"
+            }
+          ]
+        }
       ]
     },
     {
@@ -55,7 +124,19 @@
         {
           "heading": "Work, ambitions and future plans"
         }
+      ],
+      "subsections": [
+        {
+          "id": "work-ambitions-and-future-plans",
+          "title": "Work, ambitions and future plans",
+          "sections": [
+            {
+              "heading": "Work, ambitions and future plans"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
