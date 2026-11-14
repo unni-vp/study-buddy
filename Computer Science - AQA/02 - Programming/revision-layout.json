@@ -10,6 +10,17 @@
         {
           "heading": "Data types, variables and constants"
         }
+      ],
+      "subsections": [
+        {
+          "id": "data-types-variables-and-constants",
+          "title": "Data types, variables and constants",
+          "sections": [
+            {
+              "heading": "Data types, variables and constants"
+            }
+          ]
+        }
       ]
     },
     {
@@ -20,6 +31,42 @@
       "sections": [
         {
           "heading": "Sequence, selection and iteration"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "sequence-and-selection",
+          "title": "Sequence and selection",
+          "sections": [
+            {
+              "heading": "Sequence, selection and iteration",
+              "intro_only": true
+            },
+            {
+              "heading": "Selection"
+            },
+            {
+              "heading": "Following the chosen branch"
+            }
+          ]
+        },
+        {
+          "id": "loops-and-nested-iteration",
+          "title": "Loops and nested iteration",
+          "sections": [
+            {
+              "heading": "Count-controlled iteration"
+            },
+            {
+              "heading": "Condition-controlled iteration"
+            },
+            {
+              "heading": "Counting repetitions accurately"
+            },
+            {
+              "heading": "A loop inside another loop"
+            }
+          ]
         }
       ]
     },
@@ -32,6 +79,32 @@
         {
           "heading": "Operators and expressions"
         }
+      ],
+      "subsections": [
+        {
+          "id": "arithmetic-and-expressions",
+          "title": "Arithmetic and expressions",
+          "sections": [
+            {
+              "heading": "Arithmetic"
+            },
+            {
+              "heading": "Reading expressions"
+            }
+          ]
+        },
+        {
+          "id": "relational-and-boolean-operations",
+          "title": "Relational and Boolean operations",
+          "sections": [
+            {
+              "heading": "Relational and Boolean operations"
+            },
+            {
+              "heading": "Combining conditions"
+            }
+          ]
+        }
       ]
     },
     {
@@ -42,6 +115,17 @@
       "sections": [
         {
           "heading": "Arrays and records"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "arrays-and-records",
+          "title": "Arrays and records",
+          "sections": [
+            {
+              "heading": "Arrays and records"
+            }
+          ]
         }
       ]
     },
@@ -60,6 +144,35 @@
         {
           "heading": "Random numbers"
         }
+      ],
+      "subsections": [
+        {
+          "id": "input-and-output",
+          "title": "Input and output",
+          "sections": [
+            {
+              "heading": "Input and output"
+            }
+          ]
+        },
+        {
+          "id": "working-with-strings",
+          "title": "Working with strings",
+          "sections": [
+            {
+              "heading": "Working with strings"
+            }
+          ]
+        },
+        {
+          "id": "random-numbers",
+          "title": "Random numbers",
+          "sections": [
+            {
+              "heading": "Random numbers"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,6 +183,33 @@
       "sections": [
         {
           "heading": "Subroutines and structured programming"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "using-subroutines",
+          "title": "Using subroutines",
+          "sections": [
+            {
+              "heading": "Subroutines and structured programming",
+              "intro_only": true
+            },
+            {
+              "heading": "Passing values in and returning a result"
+            },
+            {
+              "heading": "Why structure helps"
+            }
+          ]
+        },
+        {
+          "id": "documenting-a-subroutine-interface",
+          "title": "Documenting a subroutine interface",
+          "sections": [
+            {
+              "heading": "Documenting a clear interface"
+            }
+          ]
         }
       ]
     },
@@ -88,7 +228,31 @@
         {
           "heading": "Exam coding checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "validation-and-authentication",
+          "title": "Validation and authentication",
+          "sections": [
+            {
+              "heading": "Validation and authentication"
+            }
+          ]
+        },
+        {
+          "id": "testing-and-error-types",
+          "title": "Testing and error types",
+          "sections": [
+            {
+              "heading": "Testing and error types"
+            },
+            {
+              "heading": "Exam coding checklist"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
