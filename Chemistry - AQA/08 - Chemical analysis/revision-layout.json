@@ -16,6 +16,35 @@
         {
           "heading": "Chromatography practical and Rf"
         }
+      ],
+      "subsections": [
+        {
+          "id": "purity-and-designed-mixtures",
+          "title": "Purity and designed mixtures",
+          "sections": [
+            {
+              "heading": "Purity and designed mixtures"
+            }
+          ]
+        },
+        {
+          "id": "how-chromatography-separates",
+          "title": "How chromatography separates",
+          "sections": [
+            {
+              "heading": "How chromatography separates"
+            }
+          ]
+        },
+        {
+          "id": "chromatography-practical-and-rf",
+          "title": "Chromatography practical and Rf",
+          "sections": [
+            {
+              "heading": "Chromatography practical and Rf"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +61,35 @@
         },
         {
           "heading": "Sodium hydroxide tests and precipitates"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "gas-tests",
+          "title": "Gas tests",
+          "sections": [
+            {
+              "heading": "Gas tests"
+            }
+          ]
+        },
+        {
+          "id": "flame-tests-for-metal-ions",
+          "title": "Flame tests for metal ions",
+          "sections": [
+            {
+              "heading": "Flame tests for metal ions"
+            }
+          ]
+        },
+        {
+          "id": "sodium-hydroxide-tests-and-precipitates",
+          "title": "Sodium hydroxide tests and precipitates",
+          "sections": [
+            {
+              "heading": "Sodium hydroxide tests and precipitates"
+            }
+          ]
         }
       ]
     },
@@ -53,7 +111,40 @@
         {
           "heading": "Avoid these identification mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "carbonate-halide-and-sulfate-tests",
+          "title": "Carbonate, halide and sulfate tests",
+          "sections": [
+            {
+              "heading": "Carbonate, halide and sulfate tests"
+            }
+          ]
+        },
+        {
+          "id": "identifying-an-unknown-ionic-compound",
+          "title": "Identifying an unknown ionic compound",
+          "sections": [
+            {
+              "heading": "Identifying an unknown ionic compound"
+            }
+          ]
+        },
+        {
+          "id": "instrumental-analysis-and-flame-emission",
+          "title": "Instrumental analysis and flame emission",
+          "sections": [
+            {
+              "heading": "Instrumental analysis and flame emission"
+            },
+            {
+              "heading": "Avoid these identification mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
