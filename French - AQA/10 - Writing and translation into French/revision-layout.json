@@ -16,6 +16,35 @@
         {
           "heading": "Choosing accurate language"
         }
+      ],
+      "subsections": [
+        {
+          "id": "what-each-writing-task-needs",
+          "title": "What each writing task needs",
+          "sections": [
+            {
+              "heading": "What each writing task needs"
+            }
+          ]
+        },
+        {
+          "id": "planning-and-developing-ideas",
+          "title": "Planning and developing ideas",
+          "sections": [
+            {
+              "heading": "Planning and developing ideas"
+            }
+          ]
+        },
+        {
+          "id": "choosing-accurate-language",
+          "title": "Choosing accurate language",
+          "sections": [
+            {
+              "heading": "Choosing accurate language"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +58,26 @@
         },
         {
           "heading": "A 150-word response"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "a-90-word-response",
+          "title": "A 90-word response",
+          "sections": [
+            {
+              "heading": "A 90-word response"
+            }
+          ]
+        },
+        {
+          "id": "a-150-word-response",
+          "title": "A 150-word response",
+          "sections": [
+            {
+              "heading": "A 150-word response"
+            }
+          ]
         }
       ]
     },
@@ -44,7 +93,28 @@
         {
           "heading": "Checking and using time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "translating-into-french",
+          "title": "Translating into French",
+          "sections": [
+            {
+              "heading": "Translating into French"
+            }
+          ]
+        },
+        {
+          "id": "checking-and-using-time",
+          "title": "Checking and using time",
+          "sections": [
+            {
+              "heading": "Checking and using time"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
