@@ -16,6 +16,35 @@
         {
           "heading": "Covalent molecules"
         }
+      ],
+      "subsections": [
+        {
+          "id": "three-types-of-bonding",
+          "title": "Three types of bonding",
+          "sections": [
+            {
+              "heading": "Three types of bonding"
+            }
+          ]
+        },
+        {
+          "id": "ionic-bonding-and-lattices",
+          "title": "Ionic bonding and lattices",
+          "sections": [
+            {
+              "heading": "Ionic bonding and lattices"
+            }
+          ]
+        },
+        {
+          "id": "covalent-molecules",
+          "title": "Covalent molecules",
+          "sections": [
+            {
+              "heading": "Covalent molecules"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +55,17 @@
       "sections": [
         {
           "heading": "States and explaining properties"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "states-and-explaining-properties",
+          "title": "States and explaining properties",
+          "sections": [
+            {
+              "heading": "States and explaining properties"
+            }
+          ]
         }
       ]
     },
@@ -44,6 +84,35 @@
         {
           "heading": "Metals and alloys"
         }
+      ],
+      "subsections": [
+        {
+          "id": "polymers-and-giant-structures",
+          "title": "Polymers and giant structures",
+          "sections": [
+            {
+              "heading": "Polymers and giant structures"
+            }
+          ]
+        },
+        {
+          "id": "carbon-structures",
+          "title": "Carbon structures",
+          "sections": [
+            {
+              "heading": "Carbon structures"
+            }
+          ]
+        },
+        {
+          "id": "metals-and-alloys",
+          "title": "Metals and alloys",
+          "sections": [
+            {
+              "heading": "Metals and alloys"
+            }
+          ]
+        }
       ]
     },
     {
@@ -55,7 +124,19 @@
         {
           "heading": "Nanoparticles"
         }
+      ],
+      "subsections": [
+        {
+          "id": "nanoparticles",
+          "title": "Nanoparticles",
+          "sections": [
+            {
+              "heading": "Nanoparticles"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
