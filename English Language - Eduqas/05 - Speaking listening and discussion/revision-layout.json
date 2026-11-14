@@ -13,6 +13,26 @@
         {
           "heading": "Choose a focused purpose and audience"
         }
+      ],
+      "subsections": [
+        {
+          "id": "know-what-the-assessment-involves",
+          "title": "Know what the assessment involves",
+          "sections": [
+            {
+              "heading": "Know what the assessment involves"
+            }
+          ]
+        },
+        {
+          "id": "choose-a-focused-purpose-and-audience",
+          "title": "Choose a focused purpose and audience",
+          "sections": [
+            {
+              "heading": "Choose a focused purpose and audience"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +46,26 @@
         },
         {
           "heading": "Organise a talk the audience can follow"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "develop-points-rather-than-list-them",
+          "title": "Develop points rather than list them",
+          "sections": [
+            {
+              "heading": "Develop points rather than list them"
+            }
+          ]
+        },
+        {
+          "id": "organise-a-talk-the-audience-can-follow",
+          "title": "Organise a talk the audience can follow",
+          "sections": [
+            {
+              "heading": "Organise a talk the audience can follow"
+            }
+          ]
         }
       ]
     },
@@ -44,6 +84,35 @@
         {
           "heading": "Use notes, slides and rehearsal purposefully"
         }
+      ],
+      "subsections": [
+        {
+          "id": "make-language-work-when-spoken",
+          "title": "Make language work when spoken",
+          "sections": [
+            {
+              "heading": "Make language work when spoken"
+            }
+          ]
+        },
+        {
+          "id": "deliver-with-control",
+          "title": "Deliver with control",
+          "sections": [
+            {
+              "heading": "Deliver with control"
+            }
+          ]
+        },
+        {
+          "id": "use-notes-slides-and-rehearsal-purposefully",
+          "title": "Use notes, slides and rehearsal purposefully",
+          "sections": [
+            {
+              "heading": "Use notes, slides and rehearsal purposefully"
+            }
+          ]
+        }
       ]
     },
     {
@@ -58,7 +127,28 @@
         {
           "heading": "Discuss, refine and reflect"
         }
+      ],
+      "subsections": [
+        {
+          "id": "listen-and-respond-thoughtfully",
+          "title": "Listen and respond thoughtfully",
+          "sections": [
+            {
+              "heading": "Listen and respond thoughtfully"
+            }
+          ]
+        },
+        {
+          "id": "discuss-refine-and-reflect",
+          "title": "Discuss, refine and reflect",
+          "sections": [
+            {
+              "heading": "Discuss, refine and reflect"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
