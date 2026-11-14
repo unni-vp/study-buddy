@@ -26,6 +26,47 @@
       ],
       "related": [
         "practical-investigations"
+      ],
+      "subsections": [
+        {
+          "id": "cell-types-and-structures",
+          "title": "Cell types and structures",
+          "sections": [
+            {
+              "heading": "Cell types and structures"
+            }
+          ]
+        },
+        {
+          "id": "specialisation-and-differentiation",
+          "title": "Specialisation and differentiation",
+          "sections": [
+            {
+              "heading": "Specialisation and differentiation"
+            }
+          ]
+        },
+        {
+          "id": "magnification-and-size-calculations",
+          "title": "Magnification and size calculations",
+          "sections": [
+            {
+              "heading": "Magnification versus resolution"
+            },
+            {
+              "heading": "Must-know maths"
+            }
+          ]
+        },
+        {
+          "id": "using-scale-bars",
+          "title": "Using scale bars",
+          "sections": [
+            {
+              "heading": "Using a scale bar after an image is resized"
+            }
+          ]
+        }
       ]
     },
     {
@@ -44,7 +85,27 @@
       "maps": [
         "02-cell-processes"
       ],
-      "related": []
+      "related": [],
+      "subsections": [
+        {
+          "id": "chromosomes-mitosis-and-the-cell-cycle",
+          "title": "Chromosomes, mitosis and the cell cycle",
+          "sections": [
+            {
+              "heading": "Chromosomes, mitosis and the cell cycle"
+            }
+          ]
+        },
+        {
+          "id": "stem-cells",
+          "title": "Stem cells",
+          "sections": [
+            {
+              "heading": "Stem cells"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "transport",
@@ -78,6 +139,50 @@
       ],
       "related": [
         "practical-investigations"
+      ],
+      "subsections": [
+        {
+          "id": "diffusion",
+          "title": "Diffusion",
+          "sections": [
+            {
+              "heading": "Diffusion, osmosis and active transport"
+            },
+            {
+              "heading": "The three processes side by side"
+            },
+            {
+              "heading": "Diffusion"
+            }
+          ]
+        },
+        {
+          "id": "osmosis",
+          "title": "Osmosis",
+          "sections": [
+            {
+              "heading": "Osmosis"
+            }
+          ]
+        },
+        {
+          "id": "active-transport",
+          "title": "Active transport",
+          "sections": [
+            {
+              "heading": "Active transport"
+            }
+          ]
+        },
+        {
+          "id": "exchange-surfaces-and-surface-area-to-volume-ratio",
+          "title": "Exchange surfaces and surface area to volume ratio",
+          "sections": [
+            {
+              "heading": "Exchange surfaces and surface area to volume ratio"
+            }
+          ]
+        }
       ]
     },
     {
@@ -114,6 +219,53 @@
       "related": [
         "cells",
         "transport"
+      ],
+      "subsections": [
+        {
+          "id": "required-practical-1-observe-draw-and-label-cells",
+          "title": "Required practical 1: observe, draw and label cells",
+          "sections": [
+            {
+              "heading": "Required practical 1: observe, draw and label cells"
+            }
+          ]
+        },
+        {
+          "id": "culturing-bacteria",
+          "title": "Culturing bacteria",
+          "sections": [
+            {
+              "heading": "Culturing bacteria"
+            }
+          ]
+        },
+        {
+          "id": "required-practical-2-antimicrobial-substances",
+          "title": "Required practical 2: antimicrobial substances",
+          "sections": [
+            {
+              "heading": "Required practical 2: antimicrobial substances"
+            }
+          ]
+        },
+        {
+          "id": "must-know-calculations",
+          "title": "Must-know calculations",
+          "sections": [
+            {
+              "heading": "Must-know calculations"
+            }
+          ]
+        },
+        {
+          "id": "required-practical-3-osmosis-in-plant-tissue",
+          "title": "Required practical 3: osmosis in plant tissue",
+          "sections": [
+            {
+              "heading": "Required practical 3: osmosis in plant tissue"
+            }
+          ]
+        }
       ]
     }
   ],
@@ -136,5 +288,6 @@
         }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
