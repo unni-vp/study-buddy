@@ -20,13 +20,13 @@ def split_section(raw,definitions):
             if len(hits)!=1:raise ValueError('Subsection heading must be unique: '+selector['heading'])
             root=hits[0]
             heading_key=lambda value:re.sub(r'\W+',' ',value.casefold().replace('&',' and ')).strip()
-            root_is_title=first and (len(page['sections'])==1 or selector.get('intro_only') or heading_key(blocks[root].heading)==heading_key(page['title']))
+            root_is_title=first and not selector.get('keep_heading') and (len(page['sections'])==1 or selector.get('intro_only') or heading_key(blocks[root].heading)==heading_key(page['title']))
             indices=[root] if selector.get('intro_only') else descendants(blocks,root)
             for i in indices:
                 if i in hidden:continue
                 if i in used:raise ValueError(f'Content repeated in {used[i]} and {page["id"]}: {blocks[i].heading}')
                 used[i]=page['id'];b=blocks[i]
-                # The first selected heading becomes the page title, not a duplicate heading.
+                # Retain informative source headings (such as a poem and its poet); otherwise avoid duplicate titles.
                 if not (root_is_title and i==root):
                     chunks.append('#'*(b.level-blocks[root].level+(1 if root_is_title else 2))+' '+b.heading)
                 if b.body:chunks.append(b.body)

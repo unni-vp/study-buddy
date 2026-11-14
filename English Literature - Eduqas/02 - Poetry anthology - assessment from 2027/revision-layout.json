@@ -18,7 +18,8 @@
           "sections": [
             {
               "heading": "The Schoolboy — William Blake",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -65,7 +66,8 @@
           "sections": [
             {
               "heading": "I Wandered Lonely as a Cloud — William Wordsworth",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -112,7 +114,8 @@
           "sections": [
             {
               "heading": "Blackberry Picking — Seamus Heaney",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -159,7 +162,8 @@
           "sections": [
             {
               "heading": "Sonnet 29 — Elizabeth Barrett Browning",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -206,7 +210,8 @@
           "sections": [
             {
               "heading": "Cousin Kate — Christina Rossetti",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -253,7 +258,8 @@
           "sections": [
             {
               "heading": "Catrin — Gillian Clarke",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -300,7 +306,8 @@
           "sections": [
             {
               "heading": "Dusting the Phone — Jackie Kay",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -347,7 +354,8 @@
           "sections": [
             {
               "heading": "Drummer Hodge — Thomas Hardy",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -394,7 +402,8 @@
           "sections": [
             {
               "heading": "Disabled — Wilfred Owen",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -441,7 +450,8 @@
           "sections": [
             {
               "heading": "Kamikaze — Beatrice Garland",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -488,7 +498,8 @@
           "sections": [
             {
               "heading": "War Photographer — Carol Ann Duffy",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -535,7 +546,8 @@
           "sections": [
             {
               "heading": "Remains — Simon Armitage",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -582,7 +594,8 @@
           "sections": [
             {
               "heading": "I Shall Return — Claude McKay",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -629,7 +642,8 @@
           "sections": [
             {
               "heading": "Decomposition — Zulfikar Ghose",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
@@ -676,7 +690,8 @@
           "sections": [
             {
               "heading": "Origin Story — Eve L. Ewing",
-              "intro_only": true
+              "intro_only": true,
+              "keep_heading": true
             },
             {
               "heading": "Poet context"
