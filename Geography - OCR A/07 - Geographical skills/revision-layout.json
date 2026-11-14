@@ -10,6 +10,44 @@
         {
           "heading": "Cartographic skills"
         }
+      ],
+      "subsections": [
+        {
+          "id": "references-scale",
+          "title": "Grid references, scale & distance",
+          "sections": [
+            {
+              "heading": "Grid references"
+            },
+            {
+              "heading": "Scale and distance"
+            }
+          ]
+        },
+        {
+          "id": "relief-direction",
+          "title": "Relief, direction & cross-sections",
+          "sections": [
+            {
+              "heading": "Relief and gradient"
+            },
+            {
+              "heading": "Direction, area and a cross-section"
+            }
+          ]
+        },
+        {
+          "id": "map-types-gis",
+          "title": "Map types & GIS",
+          "sections": [
+            {
+              "heading": "Map types"
+            },
+            {
+              "heading": "GIS"
+            }
+          ]
+        }
       ]
     },
     {
@@ -21,6 +59,53 @@
         {
           "heading": "Graphical skills"
         }
+      ],
+      "subsections": [
+        {
+          "id": "choose-present",
+          "title": "Choosing & presenting graphs",
+          "sections": [
+            {
+              "heading": "Choosing the right graph"
+            },
+            {
+              "heading": "Building a clear presentation"
+            }
+          ]
+        },
+        {
+          "id": "read-critically",
+          "title": "Reading graphs critically",
+          "sections": [
+            {
+              "heading": "Read the labels before explaining a graph"
+            },
+            {
+              "heading": "Detecting a misleading presentation"
+            }
+          ]
+        },
+        {
+          "id": "scatter",
+          "title": "Scatter graphs & correlation",
+          "sections": [
+            {
+              "heading": "Scatter graphs"
+            }
+          ]
+        },
+        {
+          "id": "specialist-graphs",
+          "title": "Histograms & other graph types",
+          "sections": [
+            {
+              "heading": "Histograms, radial charts and dispersion"
+            },
+            {
+              "heading": "Reading cumulative frequency"
+            }
+          ]
+        }
       ]
     },
     {
@@ -31,6 +116,41 @@
       "sections": [
         {
           "heading": "Numerical and statistical skills"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "averages",
+          "title": "Averages & spread",
+          "sections": [
+            {
+              "heading": "Averages and spread"
+            }
+          ]
+        },
+        {
+          "id": "percentages",
+          "title": "Percentages & worked calculations",
+          "sections": [
+            {
+              "heading": "Percentages"
+            },
+            {
+              "heading": "A calculation in clear steps"
+            }
+          ]
+        },
+        {
+          "id": "estimates-samples",
+          "title": "Estimates, samples & unusual values",
+          "sections": [
+            {
+              "heading": "Interpolation and extrapolation"
+            },
+            {
+              "heading": "Using a sample and handling unusual values"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +169,34 @@
         {
           "heading": "High-yield checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "sampling-quality",
+          "title": "Sampling & data quality",
+          "sections": [
+            {
+              "heading": "Sampling"
+            },
+            {
+              "heading": "Reliability, accuracy and validity"
+            }
+          ]
+        },
+        {
+          "id": "bias-conclusions",
+          "title": "Bias & conclusions",
+          "sections": [
+            {
+              "heading": "Sources and bias"
+            },
+            {
+              "heading": "Reaching a conclusion"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
