@@ -19,6 +19,44 @@
         {
           "heading": "Wastewater treatment"
         }
+      ],
+      "subsections": [
+        {
+          "id": "resources-and-sustainable-development",
+          "title": "Resources and sustainable development",
+          "sections": [
+            {
+              "heading": "Resources and sustainable development"
+            }
+          ]
+        },
+        {
+          "id": "potable-water-and-freshwater-treatment",
+          "title": "Potable water and freshwater treatment",
+          "sections": [
+            {
+              "heading": "Potable water and freshwater treatment"
+            }
+          ]
+        },
+        {
+          "id": "desalination-and-water-analysis",
+          "title": "Desalination and water analysis",
+          "sections": [
+            {
+              "heading": "Desalination and water analysis"
+            }
+          ]
+        },
+        {
+          "id": "wastewater-treatment",
+          "title": "Wastewater treatment",
+          "sections": [
+            {
+              "heading": "Wastewater treatment"
+            }
+          ]
+        }
       ]
     },
     {
@@ -35,6 +73,35 @@
         },
         {
           "heading": "Reduce, reuse and recycle"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "phytomining-and-bioleaching",
+          "title": "Phytomining and bioleaching",
+          "sections": [
+            {
+              "heading": "Phytomining and bioleaching"
+            }
+          ]
+        },
+        {
+          "id": "life-cycle-assessments",
+          "title": "Life-cycle assessments",
+          "sections": [
+            {
+              "heading": "Life-cycle assessments"
+            }
+          ]
+        },
+        {
+          "id": "reduce-reuse-and-recycle",
+          "title": "Reduce, reuse and recycle",
+          "sections": [
+            {
+              "heading": "Reduce, reuse and recycle"
+            }
+          ]
         }
       ]
     },
@@ -56,6 +123,44 @@
         {
           "heading": "Polymers: manufacturing conditions and heating"
         }
+      ],
+      "subsections": [
+        {
+          "id": "corrosion-rusting-and-protective-layers",
+          "title": "Corrosion, rusting and protective layers",
+          "sections": [
+            {
+              "heading": "Corrosion, rusting and protective layers"
+            }
+          ]
+        },
+        {
+          "id": "alloys-and-their-uses",
+          "title": "Alloys and their uses",
+          "sections": [
+            {
+              "heading": "Alloys and their uses"
+            }
+          ]
+        },
+        {
+          "id": "glass-ceramics-and-composites",
+          "title": "Glass, ceramics and composites",
+          "sections": [
+            {
+              "heading": "Glass, ceramics and composites"
+            }
+          ]
+        },
+        {
+          "id": "polymers-manufacturing-conditions-and-heating",
+          "title": "Polymers: manufacturing conditions and heating",
+          "sections": [
+            {
+              "heading": "Polymers: manufacturing conditions and heating"
+            }
+          ]
+        }
       ]
     },
     {
@@ -76,7 +181,40 @@
         {
           "heading": "Common traps"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-haber-process",
+          "title": "The Haber process",
+          "sections": [
+            {
+              "heading": "The Haber process"
+            }
+          ]
+        },
+        {
+          "id": "rate-yield-compromise-in-ammonia-production",
+          "title": "Rate–yield compromise in ammonia production",
+          "sections": [
+            {
+              "heading": "Rate–yield compromise in ammonia production"
+            }
+          ]
+        },
+        {
+          "id": "npk-fertilisers-and-integrated-production",
+          "title": "NPK fertilisers and integrated production",
+          "sections": [
+            {
+              "heading": "NPK fertilisers and integrated production"
+            },
+            {
+              "heading": "Common traps"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
