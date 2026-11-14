@@ -16,6 +16,35 @@
         {
           "heading": "Changes of state conserve mass"
         }
+      ],
+      "subsections": [
+        {
+          "id": "particles-states-and-density",
+          "title": "Particles, states and density",
+          "sections": [
+            {
+              "heading": "Particles, states and density"
+            }
+          ]
+        },
+        {
+          "id": "practical-measure-density",
+          "title": "Practical: measure density",
+          "sections": [
+            {
+              "heading": "Practical: measure density"
+            }
+          ]
+        },
+        {
+          "id": "changes-of-state-conserve-mass",
+          "title": "Changes of state conserve mass",
+          "sections": [
+            {
+              "heading": "Changes of state conserve mass"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +58,26 @@
         },
         {
           "heading": "Latent heat and heating curves"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "internal-energy-and-temperature",
+          "title": "Internal energy and temperature",
+          "sections": [
+            {
+              "heading": "Internal energy and temperature"
+            }
+          ]
+        },
+        {
+          "id": "latent-heat-and-heating-curves",
+          "title": "Latent heat and heating curves",
+          "sections": [
+            {
+              "heading": "Latent heat and heating curves"
+            }
+          ]
         }
       ]
     },
@@ -44,7 +93,28 @@
         {
           "heading": "Compressing and expanding gases"
         }
+      ],
+      "subsections": [
+        {
+          "id": "gas-pressure-and-temperature",
+          "title": "Gas pressure and temperature",
+          "sections": [
+            {
+              "heading": "Gas pressure and temperature"
+            }
+          ]
+        },
+        {
+          "id": "compressing-and-expanding-gases",
+          "title": "Compressing and expanding gases",
+          "sections": [
+            {
+              "heading": "Compressing and expanding gases"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
