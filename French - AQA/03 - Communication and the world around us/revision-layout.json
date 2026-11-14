@@ -13,6 +13,26 @@
         {
           "heading": "Holidays across time"
         }
+      ],
+      "subsections": [
+        {
+          "id": "travel-and-places",
+          "title": "Travel and places",
+          "sections": [
+            {
+              "heading": "Travel and places"
+            }
+          ]
+        },
+        {
+          "id": "holidays-across-time",
+          "title": "Holidays across time",
+          "sections": [
+            {
+              "heading": "Holidays across time"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +46,20 @@
         },
         {
           "heading": "Balanced technology opinions"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "media-and-technology",
+          "title": "Media and technology",
+          "sections": [
+            {
+              "heading": "Media and technology"
+            },
+            {
+              "heading": "Balanced technology opinions"
+            }
+          ]
         }
       ]
     },
@@ -41,7 +75,28 @@
         {
           "heading": "Environment and action"
         }
+      ],
+      "subsections": [
+        {
+          "id": "where-you-live",
+          "title": "Where you live",
+          "sections": [
+            {
+              "heading": "Where you live"
+            }
+          ]
+        },
+        {
+          "id": "environment-and-action",
+          "title": "Environment and action",
+          "sections": [
+            {
+              "heading": "Environment and action"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
