@@ -19,6 +19,44 @@
         {
           "heading": "Catalysts"
         }
+      ],
+      "subsections": [
+        {
+          "id": "reaction-rates-and-measuring-change",
+          "title": "Reaction rates and measuring change",
+          "sections": [
+            {
+              "heading": "Reaction rates and measuring change"
+            }
+          ]
+        },
+        {
+          "id": "curves-tangents-and-final-yield",
+          "title": "Curves, tangents and final yield",
+          "sections": [
+            {
+              "heading": "Curves, tangents and final yield"
+            }
+          ]
+        },
+        {
+          "id": "collision-theory-and-activation-energy",
+          "title": "Collision theory and activation energy",
+          "sections": [
+            {
+              "heading": "Collision theory and activation energy"
+            }
+          ]
+        },
+        {
+          "id": "catalysts",
+          "title": "Catalysts",
+          "sections": [
+            {
+              "heading": "Catalysts"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Colour or turbidity rate practical"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "gas-volume-rate-practical",
+          "title": "Gas-volume rate practical",
+          "sections": [
+            {
+              "heading": "Gas-volume rate practical"
+            }
+          ]
+        },
+        {
+          "id": "colour-or-turbidity-rate-practical",
+          "title": "Colour or turbidity rate practical",
+          "sections": [
+            {
+              "heading": "Colour or turbidity rate practical"
+            }
+          ]
         }
       ]
     },
@@ -56,7 +114,43 @@
         {
           "heading": "Common calculation and explanation traps"
         }
+      ],
+      "subsections": [
+        {
+          "id": "dynamic-equilibrium",
+          "title": "Dynamic equilibrium",
+          "sections": [
+            {
+              "heading": "Reversible reactions and energy"
+            },
+            {
+              "heading": "Dynamic equilibrium"
+            }
+          ]
+        },
+        {
+          "id": "concentration-changes-at-equilibrium",
+          "title": "Concentration changes at equilibrium",
+          "sections": [
+            {
+              "heading": "Concentration changes at equilibrium"
+            }
+          ]
+        },
+        {
+          "id": "temperature-and-pressure-changes",
+          "title": "Temperature and pressure changes",
+          "sections": [
+            {
+              "heading": "Temperature and pressure changes"
+            },
+            {
+              "heading": "Common calculation and explanation traps"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
