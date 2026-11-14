@@ -19,6 +19,44 @@
         {
           "heading": "Where elements come from"
         }
+      ],
+      "subsections": [
+        {
+          "id": "our-place-in-space",
+          "title": "Our place in space",
+          "sections": [
+            {
+              "heading": "Our place in space"
+            }
+          ]
+        },
+        {
+          "id": "from-nebula-to-a-stable-star",
+          "title": "From nebula to a stable star",
+          "sections": [
+            {
+              "heading": "From nebula to a stable star"
+            }
+          ]
+        },
+        {
+          "id": "two-stellar-life-cycle-routes",
+          "title": "Two stellar life-cycle routes",
+          "sections": [
+            {
+              "heading": "Two stellar life-cycle routes"
+            }
+          ]
+        },
+        {
+          "id": "where-elements-come-from",
+          "title": "Where elements come from",
+          "sections": [
+            {
+              "heading": "Where elements come from"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Comparing satellites and orbital data"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "why-objects-stay-in-orbit",
+          "title": "Why objects stay in orbit",
+          "sections": [
+            {
+              "heading": "Why objects stay in orbit"
+            }
+          ]
+        },
+        {
+          "id": "comparing-satellites-and-orbital-data",
+          "title": "Comparing satellites and orbital data",
+          "sections": [
+            {
+              "heading": "Comparing satellites and orbital data"
+            }
+          ]
         }
       ]
     },
@@ -53,7 +111,46 @@
         {
           "heading": "Avoid these mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "what-red-shift-means",
+          "title": "What red-shift means",
+          "sections": [
+            {
+              "heading": "What red-shift means"
+            }
+          ]
+        },
+        {
+          "id": "evidence-for-the-big-bang",
+          "title": "Evidence for the Big Bang",
+          "sections": [
+            {
+              "heading": "Evidence for the Big Bang"
+            }
+          ]
+        },
+        {
+          "id": "accelerating-expansion-and-unanswered-questions",
+          "title": "Accelerating expansion and unanswered questions",
+          "sections": [
+            {
+              "heading": "Accelerating expansion and unanswered questions"
+            }
+          ]
+        },
+        {
+          "id": "avoid-these-mistakes",
+          "title": "Avoid these mistakes",
+          "sections": [
+            {
+              "heading": "Avoid these mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
