@@ -13,6 +13,26 @@
         {
           "heading": "Meiosis, fertilisation and chromosome number"
         }
+      ],
+      "subsections": [
+        {
+          "id": "sexual-and-asexual-reproduction",
+          "title": "Sexual and asexual reproduction",
+          "sections": [
+            {
+              "heading": "Sexual and asexual reproduction"
+            }
+          ]
+        },
+        {
+          "id": "meiosis-fertilisation-and-chromosome-number",
+          "title": "Meiosis, fertilisation and chromosome number",
+          "sections": [
+            {
+              "heading": "Meiosis, fertilisation and chromosome number"
+            }
+          ]
+        }
       ]
     },
     {
@@ -26,6 +46,26 @@
         },
         {
           "heading": "From base sequence to protein function"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "dna-chromosomes-genes-and-genome",
+          "title": "DNA, chromosomes, genes and genome",
+          "sections": [
+            {
+              "heading": "DNA, chromosomes, genes and genome"
+            }
+          ]
+        },
+        {
+          "id": "from-base-sequence-to-protein-function",
+          "title": "From base sequence to protein function",
+          "sections": [
+            {
+              "heading": "From base sequence to protein function"
+            }
+          ]
         }
       ]
     },
@@ -47,6 +87,44 @@
         {
           "heading": "Sex-chromosome inheritance"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-language-of-inheritance",
+          "title": "The language of inheritance",
+          "sections": [
+            {
+              "heading": "The language of inheritance"
+            }
+          ]
+        },
+        {
+          "id": "punnett-squares-and-probabilities",
+          "title": "Punnett squares and probabilities",
+          "sections": [
+            {
+              "heading": "Punnett squares and probabilities"
+            }
+          ]
+        },
+        {
+          "id": "inherited-conditions-and-family-trees",
+          "title": "Inherited conditions and family trees",
+          "sections": [
+            {
+              "heading": "Inherited conditions and family trees"
+            }
+          ]
+        },
+        {
+          "id": "sex-chromosome-inheritance",
+          "title": "Sex-chromosome inheritance",
+          "sections": [
+            {
+              "heading": "Sex-chromosome inheritance"
+            }
+          ]
+        }
       ]
     },
     {
@@ -67,6 +145,38 @@
         {
           "heading": "Selective breeding"
         }
+      ],
+      "subsections": [
+        {
+          "id": "genetic-and-environmental-variation",
+          "title": "Genetic and environmental variation",
+          "sections": [
+            {
+              "heading": "Genetic and environmental variation"
+            }
+          ]
+        },
+        {
+          "id": "natural-selection-and-evolution",
+          "title": "Natural selection and evolution",
+          "sections": [
+            {
+              "heading": "Natural selection and evolution"
+            },
+            {
+              "heading": "How new species arise"
+            }
+          ]
+        },
+        {
+          "id": "selective-breeding",
+          "title": "Selective breeding",
+          "sections": [
+            {
+              "heading": "Selective breeding"
+            }
+          ]
+        }
       ]
     },
     {
@@ -83,6 +193,35 @@
         },
         {
           "heading": "Adult-cell cloning and its evaluation"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "genetic-engineering",
+          "title": "Genetic engineering",
+          "sections": [
+            {
+              "heading": "Genetic engineering"
+            }
+          ]
+        },
+        {
+          "id": "plant-and-embryo-cloning",
+          "title": "Plant and embryo cloning",
+          "sections": [
+            {
+              "heading": "Plant and embryo cloning"
+            }
+          ]
+        },
+        {
+          "id": "adult-cell-cloning-and-its-evaluation",
+          "title": "Adult-cell cloning and its evaluation",
+          "sections": [
+            {
+              "heading": "Adult-cell cloning and its evaluation"
+            }
+          ]
         }
       ]
     },
@@ -110,7 +249,64 @@
         {
           "heading": "Avoid these mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "darwin-wallace-and-changing-explanations",
+          "title": "Darwin, Wallace and changing explanations",
+          "sections": [
+            {
+              "heading": "Darwin, Wallace and changing explanations"
+            }
+          ]
+        },
+        {
+          "id": "mendel-and-the-gene-theory",
+          "title": "Mendel and the gene theory",
+          "sections": [
+            {
+              "heading": "Mendel and the gene theory"
+            }
+          ]
+        },
+        {
+          "id": "fossils-evidence-and-extinction",
+          "title": "Fossils, evidence and extinction",
+          "sections": [
+            {
+              "heading": "Fossils, evidence and extinction"
+            }
+          ]
+        },
+        {
+          "id": "antibiotic-resistance-by-natural-selection",
+          "title": "Antibiotic resistance by natural selection",
+          "sections": [
+            {
+              "heading": "Antibiotic resistance by natural selection"
+            }
+          ]
+        },
+        {
+          "id": "classification-and-evolutionary-trees",
+          "title": "Classification and evolutionary trees",
+          "sections": [
+            {
+              "heading": "Classification and evolutionary trees"
+            }
+          ]
+        },
+        {
+          "id": "avoid-these-mistakes",
+          "title": "Avoid these mistakes",
+          "sections": [
+            {
+              "heading": "Avoid these mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
