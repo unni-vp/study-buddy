@@ -19,6 +19,44 @@
         {
           "heading": "Rearrange and recognise proportionality"
         }
+      ],
+      "subsections": [
+        {
+          "id": "choose-a-relationship-before-calculating",
+          "title": "Choose a relationship before calculating",
+          "sections": [
+            {
+              "heading": "Choose a relationship before calculating"
+            }
+          ]
+        },
+        {
+          "id": "units-and-conversions",
+          "title": "Units and conversions",
+          "sections": [
+            {
+              "heading": "Units and conversions"
+            }
+          ]
+        },
+        {
+          "id": "standard-form-estimates-and-significant-figures",
+          "title": "Standard form, estimates and significant figures",
+          "sections": [
+            {
+              "heading": "Standard form, estimates and significant figures"
+            }
+          ]
+        },
+        {
+          "id": "rearrange-and-recognise-proportionality",
+          "title": "Rearrange and recognise proportionality",
+          "sections": [
+            {
+              "heading": "Rearrange and recognise proportionality"
+            }
+          ]
+        }
       ]
     },
     {
@@ -29,6 +67,17 @@
       "sections": [
         {
           "heading": "Equations: energy and heating"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "equations-energy-and-heating",
+          "title": "Equations: energy and heating",
+          "sections": [
+            {
+              "heading": "Equations: energy and heating"
+            }
+          ]
         }
       ]
     },
@@ -41,6 +90,17 @@
         {
           "heading": "Equations: electricity and matter"
         }
+      ],
+      "subsections": [
+        {
+          "id": "equations-electricity-and-matter",
+          "title": "Equations: electricity and matter",
+          "sections": [
+            {
+              "heading": "Equations: electricity and matter"
+            }
+          ]
+        }
       ]
     },
     {
@@ -51,6 +111,17 @@
       "sections": [
         {
           "heading": "Equations: forces and motion"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "equations-forces-and-motion",
+          "title": "Equations: forces and motion",
+          "sections": [
+            {
+              "heading": "Equations: forces and motion"
+            }
+          ]
         }
       ]
     },
@@ -63,6 +134,17 @@
         {
           "heading": "Equations: waves and electromagnetism"
         }
+      ],
+      "subsections": [
+        {
+          "id": "equations-waves-and-electromagnetism",
+          "title": "Equations: waves and electromagnetism",
+          "sections": [
+            {
+              "heading": "Equations: waves and electromagnetism"
+            }
+          ]
+        }
       ]
     },
     {
@@ -73,6 +155,17 @@
       "sections": [
         {
           "heading": "Linked calculations"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "linked-calculations",
+          "title": "Linked calculations",
+          "sections": [
+            {
+              "heading": "Linked calculations"
+            }
+          ]
         }
       ]
     },
@@ -91,6 +184,35 @@
         {
           "heading": "Statistics, charts and correlations"
         }
+      ],
+      "subsections": [
+        {
+          "id": "read-linear-graphs-and-their-units",
+          "title": "Read linear graphs and their units",
+          "sections": [
+            {
+              "heading": "Read linear graphs and their units"
+            }
+          ]
+        },
+        {
+          "id": "tangents-and-area-under-a-graph",
+          "title": "Tangents and area under a graph",
+          "sections": [
+            {
+              "heading": "Tangents and area under a graph"
+            }
+          ]
+        },
+        {
+          "id": "statistics-charts-and-correlations",
+          "title": "Statistics, charts and correlations",
+          "sections": [
+            {
+              "heading": "Statistics, charts and correlations"
+            }
+          ]
+        }
       ]
     },
     {
@@ -105,7 +227,28 @@
         {
           "heading": "Check your result"
         }
+      ],
+      "subsections": [
+        {
+          "id": "angles-areas-and-three-dimensional-shapes",
+          "title": "Angles, areas and three-dimensional shapes",
+          "sections": [
+            {
+              "heading": "Angles, areas and three-dimensional shapes"
+            }
+          ]
+        },
+        {
+          "id": "check-your-result",
+          "title": "Check your result",
+          "sections": [
+            {
+              "heading": "Check your result"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
