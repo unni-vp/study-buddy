@@ -16,6 +16,35 @@
         {
           "heading": "Reducing redundancy and inconsistency"
         }
+      ],
+      "subsections": [
+        {
+          "id": "tables-records-and-fields",
+          "title": "Tables, records and fields",
+          "sections": [
+            {
+              "heading": "Tables, records and fields"
+            }
+          ]
+        },
+        {
+          "id": "primary-and-foreign-keys",
+          "title": "Primary and foreign keys",
+          "sections": [
+            {
+              "heading": "Primary and foreign keys"
+            }
+          ]
+        },
+        {
+          "id": "reducing-redundancy-and-inconsistency",
+          "title": "Reducing redundancy and inconsistency",
+          "sections": [
+            {
+              "heading": "Reducing redundancy and inconsistency"
+            }
+          ]
+        }
       ]
     },
     {
@@ -36,6 +65,44 @@
         {
           "heading": "ORDER BY"
         }
+      ],
+      "subsections": [
+        {
+          "id": "our-example-database",
+          "title": "Our example database",
+          "sections": [
+            {
+              "heading": "Our example database"
+            }
+          ]
+        },
+        {
+          "id": "select-and-from",
+          "title": "SELECT and FROM",
+          "sections": [
+            {
+              "heading": "SELECT and FROM"
+            }
+          ]
+        },
+        {
+          "id": "where-and-combined-conditions",
+          "title": "WHERE and combined conditions",
+          "sections": [
+            {
+              "heading": "WHERE and combined conditions"
+            }
+          ]
+        },
+        {
+          "id": "order-by",
+          "title": "ORDER BY",
+          "sections": [
+            {
+              "heading": "ORDER BY"
+            }
+          ]
+        }
       ]
     },
     {
@@ -46,6 +113,17 @@
       "sections": [
         {
           "heading": "Retrieving from two tables"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "retrieving-from-two-tables",
+          "title": "Retrieving from two tables",
+          "sections": [
+            {
+              "heading": "Retrieving from two tables"
+            }
+          ]
         }
       ]
     },
@@ -67,7 +145,46 @@
         {
           "heading": "Planning and checking a query"
         }
+      ],
+      "subsections": [
+        {
+          "id": "insert-into-and-values",
+          "title": "INSERT INTO and VALUES",
+          "sections": [
+            {
+              "heading": "INSERT INTO and VALUES"
+            }
+          ]
+        },
+        {
+          "id": "update-and-set",
+          "title": "UPDATE and SET",
+          "sections": [
+            {
+              "heading": "UPDATE and SET"
+            }
+          ]
+        },
+        {
+          "id": "delete-from",
+          "title": "DELETE FROM",
+          "sections": [
+            {
+              "heading": "DELETE FROM"
+            }
+          ]
+        },
+        {
+          "id": "planning-and-checking-a-query",
+          "title": "Planning and checking a query",
+          "sections": [
+            {
+              "heading": "Planning and checking a query"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }

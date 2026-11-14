@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>ORDER BY · Selecting and sorting data · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="197f79a329cd.html">Relational databases and SQL</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">ORDER BY</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Tables and relationships</p><a class="" href="197f79a329cd-group-design.html">Tables, records and fields</a><a class="" href="197f79a329cd-group-design--primary-and-foreign-keys.html">Primary and foreign keys</a><a class="" href="197f79a329cd-group-design--reducing-redundancy-and-inconsistency.html">Reducing redundancy and inconsistency</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Selecting and sorting data</p><a class="" href="197f79a329cd-group-retrieve.html">Our example database</a><a class="" href="197f79a329cd-group-retrieve--select-and-from.html">SELECT and FROM</a><a class="" href="197f79a329cd-group-retrieve--where-and-combined-conditions.html">WHERE and combined conditions</a><a class="selected" href="197f79a329cd-group-retrieve--order-by.html" aria-current="page">ORDER BY</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Queries across two tables</p><a class="" href="197f79a329cd-group-relations.html">Retrieving from two tables</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Changing data</p><a class="" href="197f79a329cd-group-change.html">INSERT INTO and VALUES</a><a class="" href="197f79a329cd-group-change--update-and-set.html">UPDATE and SET</a><a class="" href="197f79a329cd-group-change--delete-from.html">DELETE FROM</a><a class="" href="197f79a329cd-group-change--planning-and-checking-a-query.html">Planning and checking a query</a></div></nav></details><a class="revision-side-complete" href="197f79a329cd-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a><span aria-hidden="true"> / </span><a href="197f79a329cd-group-retrieve.html">Selecting and sorting data</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Selecting and sorting data</p><h1>ORDER BY</h1>
+<p><strong>ORDER BY</strong> sorts the retrieved results.</p>
+<ul>
+<li><strong>ASC:</strong> ascending, such as A to Z or smallest to largest.</li>
+<li><strong>DESC:</strong> descending, such as Z to A or largest to smallest.</li>
+</ul>
+<pre class="code-block"><code class="language-sql">SELECT Name
+FROM Pupils
+ORDER BY Name ASC;
+</code></pre>
+<p><strong>Result order:</strong> Amir, Mia, Shreya.</p>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+ORDER BY DaysLoaned DESC;
+</code></pre>
+<p><strong>Result order:</strong> Geography — 21; Macbeth — 14; Atlas — 7.</p>
+<p>Sorting changes the order of the query&#x27;s results. It does not rewrite the original table&#x27;s data. Put ORDER BY after WHERE when both are used.</p>
+<h2>Filtering before displaying an ordered result</h2>
+<pre class="code-block"><code class="language-sql">SELECT BookTitle, DaysLoaned
+FROM Loans
+WHERE DaysLoaned &gt;= 14
+ORDER BY DaysLoaned ASC;
+</code></pre>
+<table>
+<tr><th>BookTitle</th><th>DaysLoaned</th></tr>
+<tr><td>Macbeth</td><td>14</td></tr>
+<tr><td>Geography</td><td>21</td></tr>
+</table>
+<p>The condition excludes Atlas because 7 is below 14. The remaining results are then shown from the smaller DaysLoaned value to the larger one. A field can be used for filtering or sorting even when it is not selected for display.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="197f79a329cd-group-retrieve--where-and-combined-conditions.html"><span>← Previous</span><strong>WHERE and combined conditions</strong></a><a href="197f79a329cd-group-relations.html"><span>Next →</span><strong>Queries across two tables: Retrieving from two tables</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>

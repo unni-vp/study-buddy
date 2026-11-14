@@ -1,5 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Changing data · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="197f79a329cd.html">Relational databases and SQL</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">Changing data</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><a class="" href="197f79a329cd-group-design.html">Tables and relationships</a><a class="" href="197f79a329cd-group-retrieve.html">Selecting and sorting data</a><a class="" href="197f79a329cd-group-relations.html">Queries across two tables</a><a class="selected" href="197f79a329cd-group-change.html" aria-current="page">Changing data</a></nav></details><a class="revision-side-complete" href="197f79a329cd-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><h1>Changing data</h1>
-<h2>INSERT INTO and VALUES</h2>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>INSERT INTO and VALUES · Changing data · Study Buddy</title><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../revision-nav.css"><script defer src="../revision-nav.js"></script></head><body class="inner-page subject-computer-science revision-notes-page"><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="../../index.html"><span class="brand-mark">G</span><span class="brand-name">Study Buddy</span></a><span class="exam">Summer 2027</span></header><div class="layout"><aside class="revision-sidebar" aria-label="Revision contents"><a class="revision-side-topic" href="197f79a329cd.html">Relational databases and SQL</a><details class="revision-toc" open><summary>Revision sections<span class="revision-current-section">INSERT INTO and VALUES</span></summary><p class="eyebrow revision-side-label">REVISION SECTIONS</p><nav class="revision-sections-list" aria-label="Revision sections"><div class="revision-nav-group"><p class="revision-nav-group-title">Tables and relationships</p><a class="" href="197f79a329cd-group-design.html">Tables, records and fields</a><a class="" href="197f79a329cd-group-design--primary-and-foreign-keys.html">Primary and foreign keys</a><a class="" href="197f79a329cd-group-design--reducing-redundancy-and-inconsistency.html">Reducing redundancy and inconsistency</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Selecting and sorting data</p><a class="" href="197f79a329cd-group-retrieve.html">Our example database</a><a class="" href="197f79a329cd-group-retrieve--select-and-from.html">SELECT and FROM</a><a class="" href="197f79a329cd-group-retrieve--where-and-combined-conditions.html">WHERE and combined conditions</a><a class="" href="197f79a329cd-group-retrieve--order-by.html">ORDER BY</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Queries across two tables</p><a class="" href="197f79a329cd-group-relations.html">Retrieving from two tables</a></div><div class="revision-nav-group"><p class="revision-nav-group-title">Changing data</p><a class="selected" href="197f79a329cd-group-change.html" aria-current="page">INSERT INTO and VALUES</a><a class="" href="197f79a329cd-group-change--update-and-set.html">UPDATE and SET</a><a class="" href="197f79a329cd-group-change--delete-from.html">DELETE FROM</a><a class="" href="197f79a329cd-group-change--planning-and-checking-a-query.html">Planning and checking a query</a></div></nav></details><a class="revision-side-complete" href="197f79a329cd-all.html">Complete notes</a></aside><main id="main"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../index.html">Subjects</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/index.html">Computer Science</a><span aria-hidden="true"> / </span><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Relational databases and SQL</a><span aria-hidden="true"> / </span><a href="197f79a329cd.html">Revision notes</a><span aria-hidden="true"> / </span><a href="197f79a329cd-group-change.html">Changing data</a></nav><div class="reader-tools"><a href="197f79a329cd.html">← All revision notes</a></div><article class="reading section-reading"><p class="revision-parent-title">Changing data</p><h1>INSERT INTO and VALUES</h1>
 <p><strong>INSERT INTO</strong> adds a new record. The field list and value list must correspond in the same order.</p>
 <pre class="code-block"><code class="language-sql">INSERT INTO Pupils (PupilID, Name, YearGroup)
 VALUES (104, &#x27;Lena&#x27;, 11);
@@ -11,72 +10,9 @@ VALUES (104, &#x27;Lena&#x27;, 11);
 <li>There are three named fields and three matching values.</li>
 </ul>
 <p>INSERT adds a record; it does not edit an existing record simply because the name is similar.</p>
-<h3>Matching the order of fields and values</h3>
+<h2>Matching the order of fields and values</h2>
 <pre class="code-block"><code class="language-sql">INSERT INTO Pupils (Name, YearGroup, PupilID)
 VALUES (&#x27;Lena&#x27;, 11, 104);
 </code></pre>
 <p>This adds the same new pupil as the earlier example, because the explicit field list matches the changed value order. The first supplied value belongs to Name, the second to YearGroup and the third to PupilID.</p>
-<p>If the field list is omitted, every supplied value must follow the table&#x27;s defined column order. Naming the fields makes the intended correspondence clear. A primary-key value already used by another record cannot identify a new record uniquely.</p>
-<h2>UPDATE and SET</h2>
-<p><strong>UPDATE</strong> changes existing records. <strong>SET</strong> specifies their new field values. <strong>WHERE</strong> restricts which records are changed.</p>
-<pre class="code-block"><code class="language-sql">UPDATE Pupils
-SET YearGroup = 11
-WHERE PupilID = 101;
-</code></pre>
-<p>Only Shreya&#x27;s year group changes, from 10 to 11. Her name and primary key remain unchanged. The other pupils are unaffected.</p>
-<p>Using a primary key in the condition is useful when exactly one record should change.</p>
-<p><strong>Without WHERE, the change applies to every record in the table.</strong></p>
-<p>A condition can match more than one record. For example:</p>
-<pre class="code-block"><code class="language-sql">UPDATE Pupils
-SET YearGroup = 11
-WHERE YearGroup = 10;
-</code></pre>
-<p>Both Shreya and Mia change to year group 11, while Amir was already in that group. UPDATE is not limited to one row; the condition determines which rows are affected.</p>
-<p>More than one field can be changed in the same statement by separating the assignments with commas:</p>
-<pre class="code-block"><code class="language-sql">UPDATE Pupils
-SET Name = &#x27;Amir Khan&#x27;, YearGroup = 12
-WHERE PupilID = 102;
-</code></pre>
-<p>This changes two values in Amir&#x27;s record without changing the primary key or creating a new pupil.</p>
-<h2>DELETE FROM</h2>
-<p><strong>DELETE FROM</strong> removes records that match a condition.</p>
-<pre class="code-block"><code class="language-sql">DELETE FROM Loans
-WHERE LoanID = 502;
-</code></pre>
-<p>The Geography loan is removed. Shreya&#x27;s pupil record and her Macbeth loan remain because those records are in different rows or tables.</p>
-<ul>
-<li>DELETE removes whole qualifying rows, rather than just clearing one field.</li>
-<li><strong>Without WHERE, all records in the named table are deleted.</strong></li>
-<li>The table itself still exists; removing its records is different from removing the table structure.</li>
-</ul>
-<p>Use <strong><code>DELETE FROM</code></strong>, not <code>DELETE * FROM</code>. The asterisk belongs to SELECT when all fields are requested; DELETE already removes whole qualifying rows.</p>
-<p>Deleting loan 502 changes the number of loan records from three to two. It does not delete a column or replace the book title with an empty value. To change just a field value, use UPDATE instead.</p>
-<h2>Planning and checking a query</h2>
-<p>Before writing, identify the operation:</p>
-<table>
-<tr><th>Need</th><th>Command</th><th>Effect on stored records</th></tr>
-<tr><td>Retrieve information</td><td><strong>SELECT</strong></td><td>No stored records change; results are returned.</td></tr>
-<tr><td>Add a record</td><td><strong>INSERT INTO … VALUES</strong></td><td>Creates a new record with the supplied values.</td></tr>
-<tr><td>Change values</td><td><strong>UPDATE … SET</strong></td><td>Edits fields in matching existing records. Without WHERE, all records are affected.</td></tr>
-<tr><td>Remove records</td><td><strong>DELETE FROM</strong></td><td>Removes whole matching rows. Without WHERE, all rows are removed; the table remains.</td></tr>
-</table>
-<p>Then check:</p>
-<ol>
-<li><strong>Fields:</strong> which columns must be displayed or changed?</li>
-<li><strong>Tables:</strong> where is the information stored?</li>
-<li><strong>Conditions:</strong> which rows should qualify? For two tables, what key values must match?</li>
-<li><strong>Order:</strong> is a particular sort required?</li>
-<li><strong>Accuracy:</strong> are names, operators, quotes and values correct?</li>
-</ol>
-<p>Trace the query against a few records. A correct-looking query can still answer the wrong question if its filter or linking condition is wrong.</p>
-<h3>Find the meaning of the mistake</h3>
-<p>A query can use valid SQL while selecting the wrong data. Check its meaning against the task before changing punctuation at random.</p>
-<table>
-<tr><th>Intended task</th><th>Possible mistake</th><th>Why it changes the answer</th></tr>
-<tr><td>Retrieve pupils in year 10 or year 11.</td><td><code>YearGroup = 10 AND YearGroup = 11</code></td><td>One record cannot have both values in the same field. Use OR for these alternatives.</td></tr>
-<tr><td>Show the shortest loans first.</td><td><code>ORDER BY DaysLoaned DESC</code></td><td>DESC puts the largest value first. Use ASC for the smallest first.</td></tr>
-<tr><td>Show each pupil beside their own loans.</td><td>The query names both tables but omits the key-matching condition.</td><td>Unrelated pupil and loan rows can be paired together.</td></tr>
-<tr><td>Change one pupil&#x27;s year group.</td><td>UPDATE has no WHERE condition.</td><td>Every record in the named table is changed, rather than just the intended pupil.</td></tr>
-<tr><td>Remove a returned loan, keeping the other loans.</td><td>DELETE has no WHERE condition.</td><td>Every loan record is removed, although the table structure remains.</td></tr>
-</table>
-<p>To check a filter, take one record that should qualify and one that should not. Evaluate every condition for both. To check a two-table query, follow one primary-key value to its matching foreign-key values before predicting the result.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Section navigation"><a href="197f79a329cd-group-relations.html"><span>← Previous</span><strong>Queries across two tables</strong></a><span></span></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
+<p>If the field list is omitted, every supplied value must follow the table&#x27;s defined column order. Naming the fields makes the intended correspondence clear. A primary-key value already used by another record cannot identify a new record uniquely.</p></article><nav class="revision-utilities" aria-label="Related resources"><a href="../../Computer%20Science%20-%20AQA/07%20-%20Relational%20databases%20and%20SQL/index.html">Questions &amp; answers</a></nav><nav class="section-navigation" aria-label="Subsection navigation"><a href="197f79a329cd-group-relations.html"><span>← Previous</span><strong>Queries across two tables: Retrieving from two tables</strong></a><a href="197f79a329cd-group-change--update-and-set.html"><span>Next →</span><strong>UPDATE and SET</strong></a></nav><footer>GCSE preparation · 2027 · Your personal revision library</footer></main></div></body></html>
