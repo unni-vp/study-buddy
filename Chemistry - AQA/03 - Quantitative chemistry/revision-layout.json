@@ -22,6 +22,53 @@
         {
           "heading": "Finding equation ratios from masses"
         }
+      ],
+      "subsections": [
+        {
+          "id": "mass-formulae-and-equations",
+          "title": "Mass, formulae and equations",
+          "sections": [
+            {
+              "heading": "Mass, formulae and equations"
+            }
+          ]
+        },
+        {
+          "id": "formula-mass-and-percentage-composition",
+          "title": "Formula mass and percentage composition",
+          "sections": [
+            {
+              "heading": "Formula mass and percentage composition"
+            }
+          ]
+        },
+        {
+          "id": "moles-and-particles",
+          "title": "Moles and particles",
+          "sections": [
+            {
+              "heading": "Moles and particles"
+            }
+          ]
+        },
+        {
+          "id": "reacting-masses-and-limiting-reactants",
+          "title": "Reacting masses and limiting reactants",
+          "sections": [
+            {
+              "heading": "Reacting masses and limiting reactants"
+            }
+          ]
+        },
+        {
+          "id": "finding-equation-ratios-from-masses",
+          "title": "Finding equation ratios from masses",
+          "sections": [
+            {
+              "heading": "Finding equation ratios from masses"
+            }
+          ]
+        }
       ]
     },
     {
@@ -39,6 +86,35 @@
         {
           "heading": "Gas volumes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "concentrations-and-solution-volumes",
+          "title": "Concentrations and solution volumes",
+          "sections": [
+            {
+              "heading": "Concentrations and solution volumes"
+            }
+          ]
+        },
+        {
+          "id": "titration-calculations",
+          "title": "Titration calculations",
+          "sections": [
+            {
+              "heading": "Titration calculations"
+            }
+          ]
+        },
+        {
+          "id": "gas-volumes",
+          "title": "Gas volumes",
+          "sections": [
+            {
+              "heading": "Gas volumes"
+            }
+          ]
+        }
       ]
     },
     {
@@ -53,7 +129,28 @@
         {
           "heading": "Measurements and uncertainty"
         }
+      ],
+      "subsections": [
+        {
+          "id": "yield-and-atom-economy",
+          "title": "Yield and atom economy",
+          "sections": [
+            {
+              "heading": "Yield and atom economy"
+            }
+          ]
+        },
+        {
+          "id": "measurements-and-uncertainty",
+          "title": "Measurements and uncertainty",
+          "sections": [
+            {
+              "heading": "Measurements and uncertainty"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
