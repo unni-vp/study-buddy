@@ -16,6 +16,35 @@
         {
           "heading": "Topic word banks"
         }
+      ],
+      "subsections": [
+        {
+          "id": "words-as-useful-phrases",
+          "title": "Words as useful phrases",
+          "sections": [
+            {
+              "heading": "Words as useful phrases"
+            }
+          ]
+        },
+        {
+          "id": "time-amount-and-opinion",
+          "title": "Time, amount and opinion",
+          "sections": [
+            {
+              "heading": "Time, amount and opinion"
+            }
+          ]
+        },
+        {
+          "id": "topic-word-banks",
+          "title": "Topic word banks",
+          "sections": [
+            {
+              "heading": "Topic word banks"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,7 +62,37 @@
         {
           "heading": "Complete word list and recall"
         }
+      ],
+      "subsections": [
+        {
+          "id": "numbers-dates-and-practical-details",
+          "title": "Numbers, dates and practical details",
+          "sections": [
+            {
+              "heading": "Numbers, dates and practical details"
+            }
+          ]
+        },
+        {
+          "id": "similar-looking-words-and-word-families",
+          "title": "Similar-looking words and word families",
+          "sections": [
+            {
+              "heading": "Similar-looking words and word families"
+            }
+          ]
+        },
+        {
+          "id": "complete-word-list-and-recall",
+          "title": "Complete word list and recall",
+          "sections": [
+            {
+              "heading": "Complete word list and recall"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
