@@ -19,6 +19,38 @@
         {
           "heading": "Applying methods to unfamiliar contexts"
         }
+      ],
+      "subsections": [
+        {
+          "id": "from-question-to-fair-investigation",
+          "title": "From question to fair investigation",
+          "sections": [
+            {
+              "heading": "From question to fair investigation"
+            }
+          ]
+        },
+        {
+          "id": "measurements-errors-and-improvements",
+          "title": "Measurements, errors and improvements",
+          "sections": [
+            {
+              "heading": "Measurements, errors and improvements"
+            }
+          ]
+        },
+        {
+          "id": "evidence-graphs-and-conclusions",
+          "title": "Evidence, graphs and conclusions",
+          "sections": [
+            {
+              "heading": "Evidence, graphs and conclusions"
+            },
+            {
+              "heading": "Applying methods to unfamiliar contexts"
+            }
+          ]
+        }
       ]
     },
     {
@@ -35,6 +67,35 @@
         },
         {
           "heading": "Osmosis in plant tissue"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "microscopy-and-biological-drawings",
+          "title": "Microscopy and biological drawings",
+          "sections": [
+            {
+              "heading": "Microscopy and biological drawings"
+            }
+          ]
+        },
+        {
+          "id": "antibiotics-and-antiseptics-on-agar",
+          "title": "Antibiotics and antiseptics on agar",
+          "sections": [
+            {
+              "heading": "Antibiotics and antiseptics on agar"
+            }
+          ]
+        },
+        {
+          "id": "osmosis-in-plant-tissue",
+          "title": "Osmosis in plant tissue",
+          "sections": [
+            {
+              "heading": "Osmosis in plant tissue"
+            }
+          ]
         }
       ]
     },
@@ -53,6 +114,35 @@
         {
           "heading": "Photosynthesis and light intensity"
         }
+      ],
+      "subsections": [
+        {
+          "id": "food-tests",
+          "title": "Food tests",
+          "sections": [
+            {
+              "heading": "Food tests"
+            }
+          ]
+        },
+        {
+          "id": "amylase-and-ph",
+          "title": "Amylase and pH",
+          "sections": [
+            {
+              "heading": "Amylase and pH"
+            }
+          ]
+        },
+        {
+          "id": "photosynthesis-and-light-intensity",
+          "title": "Photosynthesis and light intensity",
+          "sections": [
+            {
+              "heading": "Photosynthesis and light intensity"
+            }
+          ]
+        }
       ]
     },
     {
@@ -66,6 +156,26 @@
         },
         {
           "heading": "Seedling responses to light or gravity"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "human-reaction-time",
+          "title": "Human reaction time",
+          "sections": [
+            {
+              "heading": "Human reaction time"
+            }
+          ]
+        },
+        {
+          "id": "seedling-responses-to-light-or-gravity",
+          "title": "Seedling responses to light or gravity",
+          "sections": [
+            {
+              "heading": "Seedling responses to light or gravity"
+            }
+          ]
         }
       ]
     },
@@ -81,7 +191,28 @@
         {
           "heading": "Milk decay and temperature"
         }
+      ],
+      "subsections": [
+        {
+          "id": "ecology-sampling",
+          "title": "Ecology sampling",
+          "sections": [
+            {
+              "heading": "Ecology sampling"
+            }
+          ]
+        },
+        {
+          "id": "milk-decay-and-temperature",
+          "title": "Milk decay and temperature",
+          "sections": [
+            {
+              "heading": "Milk decay and temperature"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
