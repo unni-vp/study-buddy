@@ -10,6 +10,27 @@
         {
           "heading": "The enquiry process"
         }
+      ],
+      "subsections": [
+        {
+          "id": "enquiry-cycle",
+          "title": "The enquiry cycle",
+          "sections": [
+            {
+              "heading": "The enquiry process",
+              "intro_only": true
+            }
+          ]
+        },
+        {
+          "id": "planning",
+          "title": "Planning useful evidence",
+          "sections": [
+            {
+              "heading": "Planning evidence that answers the question"
+            }
+          ]
+        }
       ]
     },
     {
@@ -21,6 +42,50 @@
         {
           "heading": "Human fieldwork: Liverpool"
         }
+      ],
+      "subsections": [
+        {
+          "id": "question-theory",
+          "title": "Enquiry question & geographical idea",
+          "sections": [
+            {
+              "heading": "Enquiry"
+            },
+            {
+              "heading": "Geographical idea"
+            }
+          ]
+        },
+        {
+          "id": "methods",
+          "title": "Liverpool data-collection methods",
+          "sections": [
+            {
+              "heading": "Methods"
+            }
+          ]
+        },
+        {
+          "id": "findings",
+          "title": "Findings & presenting the pattern",
+          "sections": [
+            {
+              "heading": "Findings and conclusion"
+            },
+            {
+              "heading": "Presenting and testing the pattern"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "Evaluating the Liverpool enquiry",
+          "sections": [
+            {
+              "heading": "Evaluation ideas"
+            }
+          ]
+        }
       ]
     },
     {
@@ -31,6 +96,50 @@
       "sections": [
         {
           "heading": "Physical fieldwork: River Alyn"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "question-theory",
+          "title": "Enquiry question & river theory",
+          "sections": [
+            {
+              "heading": "Enquiry"
+            },
+            {
+              "heading": "Geographical idea"
+            }
+          ]
+        },
+        {
+          "id": "methods",
+          "title": "River Alyn measurement methods",
+          "sections": [
+            {
+              "heading": "Methods"
+            }
+          ]
+        },
+        {
+          "id": "findings",
+          "title": "Findings & interpreting measurements",
+          "sections": [
+            {
+              "heading": "Findings and explanation"
+            },
+            {
+              "heading": "Interpreting measurements carefully"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "Evaluating the River Alyn enquiry",
+          "sections": [
+            {
+              "heading": "Evaluation ideas"
+            }
+          ]
         }
       ]
     },
@@ -49,7 +158,28 @@
         {
           "heading": "High-yield checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "compare",
+          "title": "Comparing the two enquiries",
+          "sections": [
+            {
+              "heading": "Comparing the enquiries"
+            }
+          ]
+        },
+        {
+          "id": "write",
+          "title": "Writing fieldwork answers",
+          "sections": [
+            {
+              "heading": "Writing fieldwork answers"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
