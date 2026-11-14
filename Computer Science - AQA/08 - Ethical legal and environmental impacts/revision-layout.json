@@ -22,6 +22,53 @@
         {
           "heading": "Explaining and evaluating an impact"
         }
+      ],
+      "subsections": [
+        {
+          "id": "ethical-legal-and-environmental-questions",
+          "title": "Ethical, legal and environmental questions",
+          "sections": [
+            {
+              "heading": "Ethical, legal and environmental questions"
+            }
+          ]
+        },
+        {
+          "id": "privacy-and-personal-data",
+          "title": "Privacy and personal data",
+          "sections": [
+            {
+              "heading": "Privacy and personal data"
+            }
+          ]
+        },
+        {
+          "id": "fair-access-and-differing-views",
+          "title": "Fair access and differing views",
+          "sections": [
+            {
+              "heading": "Fair access and differing views"
+            }
+          ]
+        },
+        {
+          "id": "security-and-surveillance",
+          "title": "Security and surveillance",
+          "sections": [
+            {
+              "heading": "Security and surveillance"
+            }
+          ]
+        },
+        {
+          "id": "explaining-and-evaluating-an-impact",
+          "title": "Explaining and evaluating an impact",
+          "sections": [
+            {
+              "heading": "Explaining and evaluating an impact"
+            }
+          ]
+        }
       ]
     },
     {
@@ -42,6 +89,44 @@
         {
           "heading": "Wearable technologies"
         }
+      ],
+      "subsections": [
+        {
+          "id": "mobile-technologies",
+          "title": "Mobile technologies",
+          "sections": [
+            {
+              "heading": "Mobile technologies"
+            }
+          ]
+        },
+        {
+          "id": "wireless-networking",
+          "title": "Wireless networking",
+          "sections": [
+            {
+              "heading": "Wireless networking"
+            }
+          ]
+        },
+        {
+          "id": "cloud-storage",
+          "title": "Cloud storage",
+          "sections": [
+            {
+              "heading": "Cloud storage"
+            }
+          ]
+        },
+        {
+          "id": "wearable-technologies",
+          "title": "Wearable technologies",
+          "sections": [
+            {
+              "heading": "Wearable technologies"
+            }
+          ]
+        }
       ]
     },
     {
@@ -55,6 +140,26 @@
         },
         {
           "heading": "Autonomous vehicles"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "computer-based-implants",
+          "title": "Computer-based implants",
+          "sections": [
+            {
+              "heading": "Computer-based implants"
+            }
+          ]
+        },
+        {
+          "id": "autonomous-vehicles",
+          "title": "Autonomous vehicles",
+          "sections": [
+            {
+              "heading": "Autonomous vehicles"
+            }
+          ]
         }
       ]
     },
@@ -70,7 +175,28 @@
         {
           "heading": "A worked balanced judgement"
         }
+      ],
+      "subsections": [
+        {
+          "id": "environmental-impacts-across-a-device-lifecycle",
+          "title": "Environmental impacts across a device lifecycle",
+          "sections": [
+            {
+              "heading": "Environmental impacts across a device lifecycle"
+            }
+          ]
+        },
+        {
+          "id": "a-worked-balanced-judgement",
+          "title": "A worked balanced judgement",
+          "sections": [
+            {
+              "heading": "A worked balanced judgement"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
