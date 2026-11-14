@@ -13,6 +13,26 @@
         {
           "heading": "Boolean logic and circuits"
         }
+      ],
+      "subsections": [
+        {
+          "id": "hardware-and-software",
+          "title": "Hardware and software",
+          "sections": [
+            {
+              "heading": "Hardware and software"
+            }
+          ]
+        },
+        {
+          "id": "boolean-logic-and-circuits",
+          "title": "Boolean logic and circuits",
+          "sections": [
+            {
+              "heading": "Boolean logic and circuits"
+            }
+          ]
+        }
       ]
     },
     {
@@ -23,6 +43,17 @@
       "sections": [
         {
           "heading": "System and application software"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "system-and-application-software",
+          "title": "System and application software",
+          "sections": [
+            {
+              "heading": "System and application software"
+            }
+          ]
         }
       ]
     },
@@ -37,6 +68,26 @@
         },
         {
           "heading": "Translators"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "high-level-and-low-level-languages",
+          "title": "High-level and low-level languages",
+          "sections": [
+            {
+              "heading": "High-level and low-level languages"
+            }
+          ]
+        },
+        {
+          "id": "translators",
+          "title": "Translators",
+          "sections": [
+            {
+              "heading": "Translators"
+            }
+          ]
         }
       ]
     },
@@ -61,6 +112,53 @@
         {
           "heading": "Memory types"
         }
+      ],
+      "subsections": [
+        {
+          "id": "cpu-components",
+          "title": "CPU components",
+          "sections": [
+            {
+              "heading": "CPU components"
+            }
+          ]
+        },
+        {
+          "id": "fetch-decode-execute-cycle",
+          "title": "Fetch-decode-execute cycle",
+          "sections": [
+            {
+              "heading": "Fetch-decode-execute cycle"
+            }
+          ]
+        },
+        {
+          "id": "cpu-performance",
+          "title": "CPU performance",
+          "sections": [
+            {
+              "heading": "CPU performance"
+            }
+          ]
+        },
+        {
+          "id": "cache-memory",
+          "title": "Cache memory",
+          "sections": [
+            {
+              "heading": "Cache memory"
+            }
+          ]
+        },
+        {
+          "id": "memory-types",
+          "title": "Memory types",
+          "sections": [
+            {
+              "heading": "Memory types"
+            }
+          ]
+        }
       ]
     },
     {
@@ -78,7 +176,37 @@
         {
           "heading": "Embedded systems"
         }
+      ],
+      "subsections": [
+        {
+          "id": "secondary-storage",
+          "title": "Secondary storage",
+          "sections": [
+            {
+              "heading": "Secondary storage"
+            }
+          ]
+        },
+        {
+          "id": "cloud-storage",
+          "title": "Cloud storage",
+          "sections": [
+            {
+              "heading": "Cloud storage"
+            }
+          ]
+        },
+        {
+          "id": "embedded-systems",
+          "title": "Embedded systems",
+          "sections": [
+            {
+              "heading": "Embedded systems"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
