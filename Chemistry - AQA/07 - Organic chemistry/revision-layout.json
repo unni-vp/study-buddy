@@ -22,6 +22,53 @@
         {
           "heading": "Cracking and demand"
         }
+      ],
+      "subsections": [
+        {
+          "id": "carbon-compounds-and-chemical-families",
+          "title": "Carbon compounds and chemical families",
+          "sections": [
+            {
+              "heading": "Carbon compounds and chemical families"
+            }
+          ]
+        },
+        {
+          "id": "crude-oil-and-alkanes",
+          "title": "Crude oil and alkanes",
+          "sections": [
+            {
+              "heading": "Crude oil and alkanes"
+            }
+          ]
+        },
+        {
+          "id": "fractional-distillation-and-uses",
+          "title": "Fractional distillation and uses",
+          "sections": [
+            {
+              "heading": "Fractional distillation and uses"
+            }
+          ]
+        },
+        {
+          "id": "complete-combustion-and-balancing",
+          "title": "Complete combustion and balancing",
+          "sections": [
+            {
+              "heading": "Complete combustion and balancing"
+            }
+          ]
+        },
+        {
+          "id": "cracking-and-demand",
+          "title": "Cracking and demand",
+          "sections": [
+            {
+              "heading": "Cracking and demand"
+            }
+          ]
+        }
       ]
     },
     {
@@ -35,6 +82,26 @@
         },
         {
           "heading": "Addition reactions and the bromine test"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "alkenes-and-their-displayed-structures",
+          "title": "Alkenes and their displayed structures",
+          "sections": [
+            {
+              "heading": "Alkenes and their displayed structures"
+            }
+          ]
+        },
+        {
+          "id": "addition-reactions-and-the-bromine-test",
+          "title": "Addition reactions and the bromine test",
+          "sections": [
+            {
+              "heading": "Addition reactions and the bromine test"
+            }
+          ]
         }
       ]
     },
@@ -56,6 +123,44 @@
         {
           "heading": "Esters and condensation"
         }
+      ],
+      "subsections": [
+        {
+          "id": "alcohols-structures-reactions-and-uses",
+          "title": "Alcohols: structures, reactions and uses",
+          "sections": [
+            {
+              "heading": "Alcohols: structures, reactions and uses"
+            }
+          ]
+        },
+        {
+          "id": "making-ethanol-and-comparing-methods",
+          "title": "Making ethanol and comparing methods",
+          "sections": [
+            {
+              "heading": "Making ethanol and comparing methods"
+            }
+          ]
+        },
+        {
+          "id": "carboxylic-acids-and-weak-acidity",
+          "title": "Carboxylic acids and weak acidity",
+          "sections": [
+            {
+              "heading": "Carboxylic acids and weak acidity"
+            }
+          ]
+        },
+        {
+          "id": "esters-and-condensation",
+          "title": "Esters and condensation",
+          "sections": [
+            {
+              "heading": "Esters and condensation"
+            }
+          ]
+        }
       ]
     },
     {
@@ -76,7 +181,40 @@
         {
           "heading": "Common structure and reaction mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "addition-polymers-and-repeat-units",
+          "title": "Addition polymers and repeat units",
+          "sections": [
+            {
+              "heading": "Addition polymers and repeat units"
+            }
+          ]
+        },
+        {
+          "id": "condensation-polymers-and-polyesters",
+          "title": "Condensation polymers and polyesters",
+          "sections": [
+            {
+              "heading": "Condensation polymers and polyesters"
+            }
+          ]
+        },
+        {
+          "id": "amino-acids-proteins-and-natural-polymers",
+          "title": "Amino acids, proteins and natural polymers",
+          "sections": [
+            {
+              "heading": "Amino acids, proteins and natural polymers"
+            },
+            {
+              "heading": "Common structure and reaction mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
