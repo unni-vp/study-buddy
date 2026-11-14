@@ -19,6 +19,44 @@
         {
           "heading": "Practical: force and extension"
         }
+      ],
+      "subsections": [
+        {
+          "id": "scalars-vectors-and-interactions",
+          "title": "Scalars, vectors and interactions",
+          "sections": [
+            {
+              "heading": "Scalars, vectors and interactions"
+            }
+          ]
+        },
+        {
+          "id": "weight-resultants-and-components",
+          "title": "Weight, resultants and components",
+          "sections": [
+            {
+              "heading": "Weight, resultants and components"
+            }
+          ]
+        },
+        {
+          "id": "work-and-elastic-deformation",
+          "title": "Work and elastic deformation",
+          "sections": [
+            {
+              "heading": "Work and elastic deformation"
+            }
+          ]
+        },
+        {
+          "id": "practical-force-and-extension",
+          "title": "Practical: force and extension",
+          "sections": [
+            {
+              "heading": "Practical: force and extension"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +70,26 @@
         },
         {
           "heading": "Pressure, upthrust and the atmosphere"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "moments-levers-and-gears",
+          "title": "Moments, levers and gears",
+          "sections": [
+            {
+              "heading": "Moments, levers and gears"
+            }
+          ]
+        },
+        {
+          "id": "pressure-upthrust-and-the-atmosphere",
+          "title": "Pressure, upthrust and the atmosphere",
+          "sections": [
+            {
+              "heading": "Pressure, upthrust and the atmosphere"
+            }
+          ]
         }
       ]
     },
@@ -47,6 +105,26 @@
         {
           "heading": "Reading motion graphs"
         }
+      ],
+      "subsections": [
+        {
+          "id": "describing-motion",
+          "title": "Describing motion",
+          "sections": [
+            {
+              "heading": "Describing motion"
+            }
+          ]
+        },
+        {
+          "id": "reading-motion-graphs",
+          "title": "Reading motion graphs",
+          "sections": [
+            {
+              "heading": "Reading motion graphs"
+            }
+          ]
+        }
       ]
     },
     {
@@ -60,6 +138,26 @@
         },
         {
           "heading": "Practical: force, mass and acceleration"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "newton-s-laws-and-terminal-velocity",
+          "title": "Newton's laws and terminal velocity",
+          "sections": [
+            {
+              "heading": "Newton's laws and terminal velocity"
+            }
+          ]
+        },
+        {
+          "id": "practical-force-mass-and-acceleration",
+          "title": "Practical: force, mass and acceleration",
+          "sections": [
+            {
+              "heading": "Practical: force, mass and acceleration"
+            }
+          ]
         }
       ]
     },
@@ -75,7 +173,28 @@
         {
           "heading": "Momentum and collision safety"
         }
+      ],
+      "subsections": [
+        {
+          "id": "thinking-braking-and-stopping",
+          "title": "Thinking, braking and stopping",
+          "sections": [
+            {
+              "heading": "Thinking, braking and stopping"
+            }
+          ]
+        },
+        {
+          "id": "momentum-and-collision-safety",
+          "title": "Momentum and collision safety",
+          "sections": [
+            {
+              "heading": "Momentum and collision safety"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
