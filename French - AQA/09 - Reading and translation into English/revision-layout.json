@@ -16,6 +16,35 @@
         {
           "heading": "Unfamiliar words and inference"
         }
+      ],
+      "subsections": [
+        {
+          "id": "reading-for-the-question",
+          "title": "Reading for the question",
+          "sections": [
+            {
+              "heading": "Reading for the question"
+            }
+          ]
+        },
+        {
+          "id": "opinions-changes-and-reference",
+          "title": "Opinions, changes and reference",
+          "sections": [
+            {
+              "heading": "Opinions, changes and reference"
+            }
+          ]
+        },
+        {
+          "id": "unfamiliar-words-and-inference",
+          "title": "Unfamiliar words and inference",
+          "sections": [
+            {
+              "heading": "Unfamiliar words and inference"
+            }
+          ]
+        }
       ]
     },
     {
@@ -33,7 +62,37 @@
         {
           "heading": "Checking an answer"
         }
+      ],
+      "subsections": [
+        {
+          "id": "translating-meaning-into-english",
+          "title": "Translating meaning into English",
+          "sections": [
+            {
+              "heading": "Translating meaning into English"
+            }
+          ]
+        },
+        {
+          "id": "worked-translation",
+          "title": "Worked translation",
+          "sections": [
+            {
+              "heading": "Worked translation"
+            }
+          ]
+        },
+        {
+          "id": "checking-an-answer",
+          "title": "Checking an answer",
+          "sections": [
+            {
+              "heading": "Checking an answer"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
