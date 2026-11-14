@@ -10,6 +10,29 @@
         {
           "heading": "The UK's climate"
         }
+      ],
+      "subsections": [
+        {
+          "id": "weather-patterns",
+          "title": "UK weather & extremes",
+          "sections": [
+            {
+              "heading": "Why the weather changes"
+            },
+            {
+              "heading": "Extreme weather"
+            }
+          ]
+        },
+        {
+          "id": "air-masses",
+          "title": "Air masses",
+          "sections": [
+            {
+              "heading": "Link the air mass to the weather"
+            }
+          ]
+        }
       ]
     },
     {
@@ -20,6 +43,47 @@
       "sections": [
         {
           "heading": "Flooding: Somerset Levels"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "setting-causes",
+          "title": "Setting & causes of flooding",
+          "sections": [
+            {
+              "heading": "Place and physical setting"
+            },
+            {
+              "heading": "Causes of the 2013–14 flooding"
+            },
+            {
+              "heading": "From rainfall to river response"
+            }
+          ]
+        },
+        {
+          "id": "effects-response",
+          "title": "Effects & immediate response",
+          "sections": [
+            {
+              "heading": "Scale and effects"
+            },
+            {
+              "heading": "Immediate response"
+            }
+          ]
+        },
+        {
+          "id": "management-evaluation",
+          "title": "Long-term management & evaluation",
+          "sections": [
+            {
+              "heading": "Long-term management"
+            },
+            {
+              "heading": "Evaluation"
+            }
+          ]
         }
       ]
     },
@@ -32,6 +96,35 @@
         {
           "heading": "Food, water and energy"
         }
+      ],
+      "subsections": [
+        {
+          "id": "food",
+          "title": "Food production",
+          "sections": [
+            {
+              "heading": "Food production"
+            }
+          ]
+        },
+        {
+          "id": "water",
+          "title": "Water supply",
+          "sections": [
+            {
+              "heading": "Water supply"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energy choices",
+          "sections": [
+            {
+              "heading": "Energy choices"
+            }
+          ]
+        }
       ]
     },
     {
@@ -42,6 +135,39 @@
       "sections": [
         {
           "heading": "Changing UK energy supply"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "changing-mix",
+          "title": "The changing energy mix",
+          "sections": [
+            {
+              "heading": "Changing UK energy supply",
+              "intro_only": true
+            }
+          ]
+        },
+        {
+          "id": "security",
+          "title": "Energy security & decisions",
+          "sections": [
+            {
+              "heading": "Energy security and decision making"
+            }
+          ]
+        },
+        {
+          "id": "fracking-demand",
+          "title": "Fracking & reducing demand",
+          "sections": [
+            {
+              "heading": "Fracking: obtaining gas changes the environment"
+            },
+            {
+              "heading": "Reduce demand as well as increasing supply"
+            }
+          ]
         }
       ]
     },
@@ -60,7 +186,28 @@
         {
           "heading": "High-yield checklist"
         }
+      ],
+      "subsections": [
+        {
+          "id": "hinkley",
+          "title": "Hinkley Point C",
+          "sections": [
+            {
+              "heading": "Hinkley Point C, Somerset"
+            }
+          ]
+        },
+        {
+          "id": "dryholme",
+          "title": "Dryholme Farm anaerobic digestion",
+          "sections": [
+            {
+              "heading": "Dryholme Farm, Silloth, Cumbria"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
