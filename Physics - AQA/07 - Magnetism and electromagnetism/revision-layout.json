@@ -16,6 +16,35 @@
         {
           "heading": "Current makes a magnetic field"
         }
+      ],
+      "subsections": [
+        {
+          "id": "magnetic-poles-and-materials",
+          "title": "Magnetic poles and materials",
+          "sections": [
+            {
+              "heading": "Magnetic poles and materials"
+            }
+          ]
+        },
+        {
+          "id": "fields-and-compasses",
+          "title": "Fields and compasses",
+          "sections": [
+            {
+              "heading": "Fields and compasses"
+            }
+          ]
+        },
+        {
+          "id": "current-makes-a-magnetic-field",
+          "title": "Current makes a magnetic field",
+          "sections": [
+            {
+              "heading": "Current makes a magnetic field"
+            }
+          ]
+        }
       ]
     },
     {
@@ -30,6 +59,26 @@
         {
           "heading": "Motors, loudspeakers and headphones"
         }
+      ],
+      "subsections": [
+        {
+          "id": "the-motor-effect-and-fleming-s-rule",
+          "title": "The motor effect and Fleming's rule",
+          "sections": [
+            {
+              "heading": "The motor effect and Fleming's rule"
+            }
+          ]
+        },
+        {
+          "id": "motors-loudspeakers-and-headphones",
+          "title": "Motors, loudspeakers and headphones",
+          "sections": [
+            {
+              "heading": "Motors, loudspeakers and headphones"
+            }
+          ]
+        }
       ]
     },
     {
@@ -43,6 +92,26 @@
         },
         {
           "heading": "Alternators, dynamos and microphones"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "the-generator-effect",
+          "title": "The generator effect",
+          "sections": [
+            {
+              "heading": "The generator effect"
+            }
+          ]
+        },
+        {
+          "id": "alternators-dynamos-and-microphones",
+          "title": "Alternators, dynamos and microphones",
+          "sections": [
+            {
+              "heading": "Alternators, dynamos and microphones"
+            }
+          ]
         }
       ]
     },
@@ -61,7 +130,37 @@
         {
           "heading": "Avoid these mistakes"
         }
+      ],
+      "subsections": [
+        {
+          "id": "how-a-transformer-works",
+          "title": "How a transformer works",
+          "sections": [
+            {
+              "heading": "How a transformer works"
+            }
+          ]
+        },
+        {
+          "id": "transformer-calculations-and-the-national-grid",
+          "title": "Transformer calculations and the National Grid",
+          "sections": [
+            {
+              "heading": "Transformer calculations and the National Grid"
+            }
+          ]
+        },
+        {
+          "id": "avoid-these-mistakes",
+          "title": "Avoid these mistakes",
+          "sections": [
+            {
+              "heading": "Avoid these mistakes"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
