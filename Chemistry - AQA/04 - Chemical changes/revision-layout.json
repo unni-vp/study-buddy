@@ -13,6 +13,26 @@
         {
           "heading": "Oxidation, reduction and extraction"
         }
+      ],
+      "subsections": [
+        {
+          "id": "reactivity-and-displacement",
+          "title": "Reactivity and displacement",
+          "sections": [
+            {
+              "heading": "Reactivity and displacement"
+            }
+          ]
+        },
+        {
+          "id": "oxidation-reduction-and-extraction",
+          "title": "Oxidation, reduction and extraction",
+          "sections": [
+            {
+              "heading": "Oxidation, reduction and extraction"
+            }
+          ]
+        }
       ]
     },
     {
@@ -27,6 +47,26 @@
         {
           "heading": "Acid reactions and salt names"
         }
+      ],
+      "subsections": [
+        {
+          "id": "acids-alkalis-and-ph",
+          "title": "Acids, alkalis and pH",
+          "sections": [
+            {
+              "heading": "Acids, alkalis and pH"
+            }
+          ]
+        },
+        {
+          "id": "acid-reactions-and-salt-names",
+          "title": "Acid reactions and salt names",
+          "sections": [
+            {
+              "heading": "Acid reactions and salt names"
+            }
+          ]
+        }
       ]
     },
     {
@@ -40,6 +80,26 @@
         },
         {
           "heading": "Required practical: titration"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "required-practical-pure-dry-salt-crystals",
+          "title": "Required practical: pure dry salt crystals",
+          "sections": [
+            {
+              "heading": "Required practical: pure dry salt crystals"
+            }
+          ]
+        },
+        {
+          "id": "required-practical-titration",
+          "title": "Required practical: titration",
+          "sections": [
+            {
+              "heading": "Required practical: titration"
+            }
+          ]
         }
       ]
     },
@@ -61,7 +121,46 @@
         {
           "heading": "Extracting aluminium"
         }
+      ],
+      "subsections": [
+        {
+          "id": "electrolysis-and-electrode-reactions",
+          "title": "Electrolysis and electrode reactions",
+          "sections": [
+            {
+              "heading": "Electrolysis and electrode reactions"
+            }
+          ]
+        },
+        {
+          "id": "aqueous-electrolysis",
+          "title": "Aqueous electrolysis",
+          "sections": [
+            {
+              "heading": "Aqueous electrolysis"
+            }
+          ]
+        },
+        {
+          "id": "required-practical-aqueous-electrolysis",
+          "title": "Required practical: aqueous electrolysis",
+          "sections": [
+            {
+              "heading": "Required practical: aqueous electrolysis"
+            }
+          ]
+        },
+        {
+          "id": "extracting-aluminium",
+          "title": "Extracting aluminium",
+          "sections": [
+            {
+              "heading": "Extracting aluminium"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
