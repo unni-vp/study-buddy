@@ -16,6 +16,35 @@
         {
           "heading": "Ratios, fractions and percentages"
         }
+      ],
+      "subsections": [
+        {
+          "id": "units-prefixes-and-standard-form",
+          "title": "Units, prefixes and standard form",
+          "sections": [
+            {
+              "heading": "Units, prefixes and standard form"
+            }
+          ]
+        },
+        {
+          "id": "estimates-scale-and-significant-figures",
+          "title": "Estimates, scale and significant figures",
+          "sections": [
+            {
+              "heading": "Estimates, scale and significant figures"
+            }
+          ]
+        },
+        {
+          "id": "ratios-fractions-and-percentages",
+          "title": "Ratios, fractions and percentages",
+          "sections": [
+            {
+              "heading": "Ratios, fractions and percentages"
+            }
+          ]
+        }
       ]
     },
     {
@@ -32,6 +61,35 @@
         },
         {
           "heading": "Probability in inheritance"
+        }
+      ],
+      "subsections": [
+        {
+          "id": "magnification-and-scale-bars",
+          "title": "Magnification and scale bars",
+          "sections": [
+            {
+              "heading": "Magnification and scale bars"
+            }
+          ]
+        },
+        {
+          "id": "rates-efficiency-and-inverse-relationships",
+          "title": "Rates, efficiency and inverse relationships",
+          "sections": [
+            {
+              "heading": "Rates, efficiency and inverse relationships"
+            }
+          ]
+        },
+        {
+          "id": "probability-in-inheritance",
+          "title": "Probability in inheritance",
+          "sections": [
+            {
+              "heading": "Probability in inheritance"
+            }
+          ]
         }
       ]
     },
@@ -56,6 +114,53 @@
         {
           "heading": "Algebra and mathematical symbols"
         }
+      ],
+      "subsections": [
+        {
+          "id": "averages-spread-and-frequency-tables",
+          "title": "Averages, spread and frequency tables",
+          "sections": [
+            {
+              "heading": "Averages, spread and frequency tables"
+            }
+          ]
+        },
+        {
+          "id": "sampling-and-population-estimates",
+          "title": "Sampling and population estimates",
+          "sections": [
+            {
+              "heading": "Sampling and population estimates"
+            }
+          ]
+        },
+        {
+          "id": "choosing-and-reading-graphs",
+          "title": "Choosing and reading graphs",
+          "sections": [
+            {
+              "heading": "Choosing and reading graphs"
+            }
+          ]
+        },
+        {
+          "id": "straight-lines-gradients-and-curved-rates",
+          "title": "Straight lines, gradients and curved rates",
+          "sections": [
+            {
+              "heading": "Straight lines, gradients and curved rates"
+            }
+          ]
+        },
+        {
+          "id": "algebra-and-mathematical-symbols",
+          "title": "Algebra and mathematical symbols",
+          "sections": [
+            {
+              "heading": "Algebra and mathematical symbols"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,7 +175,22 @@
         {
           "heading": "Calculation checks"
         }
+      ],
+      "subsections": [
+        {
+          "id": "areas-volumes-and-exchange-surfaces",
+          "title": "Areas, volumes and exchange surfaces",
+          "sections": [
+            {
+              "heading": "Areas, volumes and exchange surfaces"
+            },
+            {
+              "heading": "Calculation checks"
+            }
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "subsection_navigation": true
 }
